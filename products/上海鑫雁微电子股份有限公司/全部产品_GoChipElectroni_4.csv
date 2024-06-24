@@ -1,0 +1,10 @@
+产品网址：http://en.golden-chip.com/product-6.aspx
+产品结构：root->全部产品_GoChipElectronicTechnology(Shanghai)Co.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|编码器|无|将位移转换为周期性电信号，再将电信号转换为计数脉冲，脉冲数表示位移大小，根据输出正交信号识别电机运行方向。具有抗干扰能力强、占空比好等特点。典型应用于交流感应电机。|
+
+Model,Voltage range,Temperature range,Response frequency range,Duty cycle,Phase difference,Download
+GHE2121,5.0Vdc-24Vdc,-40℃-+120℃,20Hz-20KHz,50%±10%,90°±20°,Download
+GHE2148/GHE2164,5.0Vdc-24Vdc,-30℃-+120℃,0.2Hz-20KHz,50%±25%,90°±45°,Download

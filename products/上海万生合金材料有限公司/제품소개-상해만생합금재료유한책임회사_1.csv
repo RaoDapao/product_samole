@@ -1,0 +1,63 @@
+产品网址：http://www.shwonsung.com/kr/product_detail.aspx?id=174
+产品结构：root->제품소개-상해만생합금재료유한책임회사
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|구리 본딩와이어|无|• 낮은가격<br>• 양호한 기계적 성능 과 전도성이 좋다<br>• 안정성이 높다<br>• 금속 간 화합물 성장 속도가 느리다.<br>• 분리기 & 반도체 소자에 적용.|
+
+종류,종류.1,특징,적용 범위
+4N,WS-CW,Excellent reliability and stitch bond,"QFN,QFP,BGA,SOP,SOT,TO,LED Package"
+4N,WS-SCW,"High performance ,good mechanical","Fine pitch , High Pin"
+5N,WS-CW,"Good ball shape, good anti-oxidation","Power Devices,Discrete,Power SOIC"
+5N,WS-SCW,"Excellent bond reliability,soft FAB",Thin aluminum pad
+
+
+Wire Diameter,Cu wire 0.7mil
+Bonder,KNS wire bonder &Cu kit
+Capillary (PECO),B0708.5-26-11.5-05
+Heater Temp.,180 ℃
+BPO(μm),51X67
+Substrate,PCB
+Gas,Forming 0.6l/min
+EFO Fire Time (μs),270
+EFO Current (mA),28
+EFO Gap(μm),20
+Tail Extension(μm),5
+
+
+직경,직경.1,연신률 (%),연신률 (%).1,연신률 (%).2,연신률 (%).3,파단 강도 (gf),파단 강도 (gf).1,파단 강도 (gf).2,파단 강도 (gf).3
+mil,um,4N,4N,5N,5N,4N,4N,5N,5N
+mil,um,WS-CW,WS-SCW,WS-CW,WS-SCW,WS-CW,WS-SCW,WS-CW,WS-SCW
+0.6,15,3-15,3-15,3-16,3-17,>3.0,>3.0,>3.0,>3.0
+0.7,18,3-17,3-17,3-18,4-19,>3.0,>3.0,>3.5,>4.0
+0.8,20,4-18,4-18,4-19,5-20,>4.0,>4.5,>5.0,>5.0
+0.9,23,6-20,6-20,6-21,6-22,>5.0,>6.0,>6.0,>6.5
+1.0,25,8-22,8-23,8-24,8-24,>6.0,>7.0,>7.0,>8.0
+1.2,30,9-23,9-24,9-25,9-26,>8.0,>8.5,>8.0,>10.0
+1.3,33,9-24,10-25,10-26,10-27,>10.0,>11.0,>10.0,>12.0
+1.5,38,10-25,10-26,10-27,11-28,>12.0,>12.0,>12.0,>14.0
+1.7,43,10-26,11-28,10-30,11-30,>15.0,>16.0,>15.0,>18.0
+2.0,50,12-28,12-30,12-32,12-34,>20.0,>20.0,>20.0,>20.0
+
+
+Main Purity,Main Purity.1,4N Cu,5N Cu,PCC or AuPCC
+Wire Type,Wire Type,WC/SCW,WC/SCW,PCC or AuPCC
+Hardness(Hv),FAB,42 ~47,40 ~45,40 ~ 50
+,Wire,47 ~52,45 ~50,50 ~ 60
+"Fusing Current(A)(±0.02A,Length=10mm)","Fusing Current(A)(±0.02A,Length=10mm)",0.3 ~ 2.2,0.3 ~ 2.2,0.3 ~ 2.2
+Resistivity(uΩ Cm),Resistivity(uΩ Cm),1.7,1.7,1.9
+Recrystalization Temp.(℃),Recrystalization Temp.(℃),350 ~ 600,350 ~ 600,350 ~600
+Elastic Modulus(Gpa),Elastic Modulus(Gpa),60 ~ 85,60 ~ 85,60 ~85
+Melting Point(℃),Melting Point(℃),1050 ~1100,1050 ~1100,1050 ~1100
+Density(gr/㎤),Density(gr/㎤),8.96,8.96,8.99/8.98
+Cofficient of Linear thermal Expansion(20~100℃),Cofficient of Linear thermal Expansion(20~100℃),16 ~ 18 x 10-6,16 ~ 18 x 10-6,16 ~ 18 x 10-6
+Shelf Life(From data of Manufacturing/day),Shelf Life(From data of Manufacturing/day),6 Months,6 Months,6 Months
+Floor Life(Opened from barrier bag),Floor Life(Opened from barrier bag),2 Weeks,2 Weeks,4 Weeks
+
+
+Unnamed: 0,Unnamed: 1
+,
+BST and BPT/推拉力测试,FAB Image/FAB 图片
+,
+,
+Copper Wire/铜线,Copper Wire/铜线

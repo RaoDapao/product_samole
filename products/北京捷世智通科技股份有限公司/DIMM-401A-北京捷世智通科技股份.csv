@@ -1,0 +1,20 @@
+产品网址：http://icpc.cn/cms/item/view?table=product&id=57
+产品结构：root->DIMM-401A-北京捷世智通科技股份有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|主板模块|DIMM-401A|是一款以 Vortex86DX 处理器为核心的高可靠性和高效能的主板模块，针对通信领域和相关控制领域的特殊需求而设计，对性能、功能和成本控制理想配置的通信处理模块。基于 MPU 架构，集成 32bit vortex86DX x86 处理器，主频达到 800MHz，外接 333MHz 16bit DDRII 内存，板载 1 片 1GB NAND FLASH 满足系统和应用存储需求。模块基于 DIMM 主控板规范设计，完全兼容 DIMM144 引脚定义，向下引出的 ISA 总线、LPT 总线、两个 TTL 串口、一个 USB、一个键盘接口能够满足客户各种需求。采用超小型的模块化设计，连接器采用金手指接触，高抗震动、抗冲击，无风扇设计。低功耗和高可靠性，控制、通信功能卓越。可应用于航空航天、通信、交通、石油石化等控制领域。|
+
+
+
+
+处理器,"Vortex86DX  32bit处理器,主频800MHz"
+内存,256MByte@333Mhz DDR2内存
+CACHE,"独立的16K  I-Cache,16K D-Cache"
+u 外围接口,ISA  LPT  TTL串口 x2  USB2.0 x1  Keyboard x1  Reset x1  Battery x1
+板载接口,10M/100M以太网接口
+功耗,<2W
+操作系统,"vxworks,windows98/2k/xpe,linux"
+温度范围,"运行温度：-20°C  ~ +70°C  存储温度：,-40°C ~ +85°C"
+工作环境,Operation:  10% to 90%  Storage: 5% to 95% (无冷凝)
+尺寸,67.6  x 40 (mm x mm)

@@ -1,0 +1,83 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/828.html#
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Network Camera|Pro|2MP Fixed Starlight IR Bullet Camera，具有金属外壳，支持多种视频编码格式，低照度下仍能保持清晰彩色图像，内置麦克风，支持存储卡，支持智能监控、人脸捕捉、人车分类等功能，工作温度范围广，防护等级高|
+
+Camera,Unnamed: 1
+Image Sensor,"1/2.8""CMOS"
+Min. Illumination,"Color:0.002Lux@(F1.6,AGC ON),B/W:0Lux with IR"
+Shutter Time,1s~1/100000s
+Day&Night,IR-cut filter with auto switch (ICR)
+WDR,120dB
+S/N,>42dB
+Angle Adjustment,0~360°(P); 0~90°(T); 0~360°(R)
+Lens,
+Lens Type,Fixed focal lens
+Focal Length,4mm
+Lens Mount,M12
+Aperture Range,F1.6
+Field of View,85.2°(H); 44.9°(V); 95.5°(D)
+DORI Distance,Detect:55m Observe:22m Recognize:11m Identify:5.5m
+Illuminator,
+IR LEDs,2
+IR Distance,50m
+Wavelength,850nm
+Compression Standard,
+Video Compression,S+265/H.265/H.264B/H.264M/H.264H/Motion JPEG
+Video Bit Rate,32k~8Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D/AAC_LC
+Audio Sampling Rate,8kHz/32kHz/48kHz
+Image,
+Max. Resolution,1920×1080@30fps
+Main Stream,"PAL:25fps(1920×1080, 1280×720, 640×480, 704×576) NTSC:30fps(1920×1080, 1280×720, 640×480, 704×480)"
+Sub Stream,"PAL:25fps(704×576, 704×288, 352×288, 640×360) NTSC:30fps(704×480, 704×240, 352×240, 640×360)"
+Third Stream,"PAL:25fps(704×576, 704×288, 352×288) NTSC:30fps(704×480, 704×240, 352×240)"
+BLC,Yes
+HLC,Yes
+AGC,Yes
+3D DNR,Yes
+White Balance,Auto/Semi-Auto/Manual/Sunshine/Nature Light/Warmlight Lamp/Daylight Lamp/Filament Lamp/Lock White Balance
+ROI,8 rectangular static areas
+Corridor mode,Yes
+OSD,"Overlay of additional characters in 5 regions, 1 line, with a maximum of 127 characters or 42 Chinese characters per region; 16*16/32*32/48*48/64*64"
+Picture Overlay,1*200x200 size BMP 16 color bit image overlay
+Privacy Mask,4 black static areas
+Defog,Yes
+Feature,
+Alarm Trigger,"Motion Detection; Mask Alarm; Voltage Alarm; Disk Full; Disk R/W Error; IP Address Conflict; MAC Address Conflict; FTP Server Exception ; Event Input,  Event Output"
+Linkage Method,send email; trigger sound; trigger recording; trigger capture; notify surveillance center
+Video Analytics,Human/Vehicle Classification; Tripwire; Perimeter; Video Abnormal; Audio Abnormal
+Rules of behavior analyse in 1 scene,8
+Face Mode,Face Capture
+Face Detection Performance,8; 4
+Network,
+ANR,Yes
+Protocols,HTTP; HTTPS; TCP/IP; UDP; UPnP; ICMP; IGMP; SNMP; DHCP; DNS; DDNS; Easy DDNS; NTP; SMTP; SSL; 802.1X; QoS; IPv4; IPv6; PPPOE; SSH; Unicast;  Multicast; RTCP; ARP; SRTP; RTSP; FTP; SFTP; NAS
+System Compatibility,ONVIF Profile S/T/G/M; CGI; Milestone; RTMP
+Remote Connection,≤7
+Client,Easy7 Smart Client
+Moblie Client,EasyLive Plus
+Interface,
+Communication Interface,"1*RJ-45,10/100 Mbps self-adaptive Ethernet port"
+Audio I/O,1; 1
+Alarm I/O,"1-ch,TTL input,3mA,3.3VDC; 1-ch,TTL output,30mA,12VDC"
+Reset Button,Yes
+On-board storage,"Support microSD/microSDHC/microSDXC card, up to 512 GB"
+RTC,Yes
+General,
+Web Client Language,19 languages Simple Chinese/Traditional Chinese/English/Spanish/Korean/Italian/Turkish/Russian/Thai/French/Polish/Dutch/Hebrew/Arabic/Vietnamese/German/  Ukrainian/Portuguese/Albanian
+Operating Temperature,-40℃~65℃(No turning on the light)
+Operating Humidity,Humidity 95% or less (no condensation)
+Storage Temperature,-40℃~65℃
+Storage Humidity,Humidity 95% or less (no condensation)
+Power Supply,"DC12V±25%,MAX 6.5W; POE 802.3af,MAX 8W"
+Protection,Surge4000V; ESD6000V; IP67
+Boundary Dimensions,160(L)73(W)73(H)mm
+Package Dimensions,195(L)95(W)105(H)mm
+GrossWeight,0.65kg
+
+
+Date,Title,Type
+2024-04-02,1D.20010.004419_TC-C32WS I5EYMSH4mmV4.0_en,pdf

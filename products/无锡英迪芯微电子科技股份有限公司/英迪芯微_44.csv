@@ -1,0 +1,8 @@
+产品网址：https://www.indiemicro.com/cn/archives/product/ind83204
+产品结构：root->英迪芯微
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|开发板/Lin 分析仪|iND83204|ARM cortex-M0 内核@16MHz，64KB FLASH + 16KB SRAM，24*45mA 的高压恒流源，支持多路复用，可以同时驱动 24 个 RGB LED，24 路 16 位带独立分频器的 PWM，片内集成 LDO 和降压转换器，2 路 V2.2 LIN 控制器和收发器，支持 LIN 自动寻址，LIN 地址扩展，专有的 LED PN 结电压检测电路，LED 开路短路诊断，支持 UART 和 SPI 并行，9 个独立的 GPIO，硬件过压过温保护，片内温度传感器，28 位 SAR ADC，QFN 6×6 – 48pins, 0.4mm pitch, ground Pad 封装，符合 AEC-Q100 认证|
+
+

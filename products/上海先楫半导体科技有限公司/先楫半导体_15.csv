@@ -1,0 +1,25 @@
+产品网址：http://www.hpmicro.com/product/filterlist2.html?id=f1abdd22-f0fe-43bb-9f6e-eb2f5044d3de&typeid=07e8d638-1c6c-44d1-9e53-a48d8560ad78
+产品结构：root->先楫半导体
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|微控制器|HPM6300 系列|无|
+
+
+
+
+../Temp/HPM6300 Flyer-TBD.pdf,HPM6360,开发,单核 32 位 RISC-V 处理器,648,0,800,/,/.1,/.2,/.3,"2×I2S,1×数字音频输出","2× XPI , 16b SDRAM, 8/16b SRAM, 1× SDIO",百兆,CAN FD,USB HS w/ PHY ×1,"4×I2C,4×SPI,9×UART",2,"AES128/256, SHA-1/256",8通道,安全启动，芯片生命周期管理，加密固件升级,/.4,2×8通道PWM,"1×RTC,5×32 位通用定时器 ,3×WDG",3×16 位,1x 12b 1MSPS,2.1,0.1,3~3.6V,"20×20 144eLQFP P0.5,7×7 116BGA P0.5"
+../Temp/HPM6300 Flyer-TBD.pdf,HPM6350,开发,单核 32 位 RISC-V 处理器,648,0,800,/,/,/,/,"2×I2S,1×数字音频输出","2× XPI , 16b SDRAM, 1× SDIO",百兆,CAN,USB HS w/ PHY ×1,"4×I2C,4×SPI,9×UART",2,"AES128/256, SHA-1/256",8通道,安全启动，芯片生命周期管理，加密固件升级,/,2×8通道PWM,"1×RTC,5×32 位通用定时器 ,3×WDG",3×16 位,1x 12b 1MSPS,2,0,3~3.6V,"20×20 144eLQFP P0.5,7×7 116BGA P0.5"
+../Temp/HPM6300 Flyer-TBD.pdf,HPM6340,开发,单核 32 位 RISC-V 处理器,648,0,800,/,/,/,/,"2×I2S,1×数字音频输出","2× XPI , 16b SDRAM, 8/16b SRAM, 1× SDIO",/,CAN FD,/,"4×I2C,4×SPI,9×UART",2,"AES128/256, SHA-1/256",8通道,安全启动，芯片生命周期管理，加密固件升级,/,2×8通道PWM,"1×RTC,5×32 位通用定时器 , 5×WDG",3×16 位,1x 12b 1MSPS,2,0,3~3.6V,"20×20 144eLQFP P0.5,7×7 116BGA P0.5"
+../Temp/HPM6300 Flyer-TBD.pdf,HPM6320,开发,单核 32 位 RISC-V 处理器,216,0,800,/,/,/,/,"2×I2S,1×数字音频输出","2× XPI , 1× SDIO",百兆,/,USB HS w/ PHY ×1,"3×SPI,3×I2C,6×UART",2,"AES128/256, SHA-1/256",8通道,安全启动，芯片生命周期管理，加密固件升级,/,2×8通道PWM,"1×RTC,5×32 位通用定时器 ,3×WDG",1×16位,0,2,0,3~3.6V,"20×20 144eLQFP P0.5,7×7 116BGA P0.5"
+../Temp/HPM6300 Flyer-TBD.pdf,HPM6364,开发,单核 32 位 RISC-V 处理器,648,4096,800,/,/,/,/,"2×I2S,1×数字音频输出","2× XPI , 32b SDRAM, 2× SD/eMMC",百兆,CAN FD,USB HS w/ PHY ×1,"4×I2C,4×SPI,9×UART",2,"AES128/256, SHA-1/256",8通道,安全启动，芯片生命周期管理，加密固件升级,/,2×8通道PWM,"1×RTC,5×32 位通用定时器 , 5×WDG",3×16 位,1x 12b 1MSPS,2,0,3~3.6V,"20×20 144eLQFP P0.5,7×7 116BGA P0.5"
+
+
+
+
+
+../Temp/HPM6300 Flyer-TBD.pdf,HPM6360,开发,单核 32 位 RISC-V 处理器,648,0,800,/,/.1,/.2,/.3,"2×I2S,1×数字音频输出","2× XPI , 16b SDRAM, 8/16b SRAM, 1× SDIO",百兆,CAN FD,USB HS w/ PHY ×1,"4×I2C,4×SPI,9×UART",2,"AES128/256, SHA-1/256",8通道,安全启动，芯片生命周期管理，加密固件升级,/.4,2×8通道PWM,"1×RTC,5×32 位通用定时器 ,3×WDG",3×16 位,1x 12b 1MSPS,2.1,0.1,3~3.6V,"20×20 144eLQFP P0.5,7×7 116BGA P0.5"
+../Temp/HPM6300 Flyer-TBD.pdf,HPM6350,开发,单核 32 位 RISC-V 处理器,648,0,800,/,/,/,/,"2×I2S,1×数字音频输出","2× XPI , 16b SDRAM, 1× SDIO",百兆,CAN,USB HS w/ PHY ×1,"4×I2C,4×SPI,9×UART",2,"AES128/256, SHA-1/256",8通道,安全启动，芯片生命周期管理，加密固件升级,/,2×8通道PWM,"1×RTC,5×32 位通用定时器 ,3×WDG",3×16 位,1x 12b 1MSPS,2,0,3~3.6V,"20×20 144eLQFP P0.5,7×7 116BGA P0.5"
+../Temp/HPM6300 Flyer-TBD.pdf,HPM6340,开发,单核 32 位 RISC-V 处理器,648,0,800,/,/,/,/,"2×I2S,1×数字音频输出","2× XPI , 16b SDRAM, 8/16b SRAM, 1× SDIO",/,CAN FD,/,"4×I2C,4×SPI,9×UART",2,"AES128/256, SHA-1/256",8通道,安全启动，芯片生命周期管理，加密固件升级,/,2×8通道PWM,"1×RTC,5×32 位通用定时器 , 5×WDG",3×16 位,1x 12b 1MSPS,2,0,3~3.6V,"20×20 144eLQFP P0.5,7×7 116BGA P0.5"
+../Temp/HPM6300 Flyer-TBD.pdf,HPM6320,开发,单核 32 位 RISC-V 处理器,216,0,800,/,/,/,/,"2×I2S,1×数字音频输出","2× XPI , 1× SDIO",百兆,/,USB HS w/ PHY ×1,"3×SPI,3×I2C,6×UART",2,"AES128/256, SHA-1/256",8通道,安全启动，芯片生命周期管理，加密固件升级,/,2×8通道PWM,"1×RTC,5×32 位通用定时器 ,3×WDG",1×16位,0,2,0,3~3.6V,"20×20 144eLQFP P0.5,7×7 116BGA P0.5"
+../Temp/HPM6300 Flyer-TBD.pdf,HPM6364,开发,单核 32 位 RISC-V 处理器,648,4096,800,/,/,/,/,"2×I2S,1×数字音频输出","2× XPI , 32b SDRAM, 2× SD/eMMC",百兆,CAN FD,USB HS w/ PHY ×1,"4×I2C,4×SPI,9×UART",2,"AES128/256, SHA-1/256",8通道,安全启动，芯片生命周期管理，加密固件升级,/,2×8通道PWM,"1×RTC,5×32 位通用定时器 , 5×WDG",3×16 位,1x 12b 1MSPS,2,0,3~3.6V,"20×20 144eLQFP P0.5,7×7 116BGA P0.5"

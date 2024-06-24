@@ -1,0 +1,28 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+厦门芯达茂微电子有限公司,IGBT 单管,http://www.xindamao.com.cn/product,无,IGBT 管是一个非通即断的开关，由 BJT（双极型三极管）和 MOS（绝缘栅型场效应管）组成的复合全控型,无,0,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,SiC MOSFET,http://www.xindamao.com.cn/product/lists/type/2,无,无,cycms,7828525284,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,VD MOSFET,http://www.xindamao.com.cn/product/lists/type/2,无,无,cycms,7828525284,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,SJ MOSFET,http://www.xindamao.com.cn/product/lists/type/2,无,无,cycms,7828525284,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,SGT MOSFET,http://www.xindamao.com.cn/product/lists/type/2,无,无,cycms,7828525284,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,PIM,http://www.xindamao.com.cn/product/lists/type/2,无,无,cycms,7828525284,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,IPM,http://www.xindamao.com.cn/product/lists/type/2,无,无,cycms,7828525284,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,1200V 超大单芯片低比导通电阻平面栅 SiC MOSFET,http://www.xindamao.com.cn/News/detail/id/92,1200V40&80mohm,通过在两 P 型基区间注入适当剂量的氮离子形成超结 N 层，使超结 N 层与 P 型基区保持电荷平衡，形成超结结构。不仅没有增加工艺上的难度，还可维持所需的耐压水平，并且相较于传统 SiC MOSFET 能够有效的降低 20%的比导通电阻，大大缩小芯片面积，减小了生产成本。具有高温应用、高功率应用、快速开关速度、小型化设计、稳定性、系统兼容性、节能环保、长寿命、无铅环保、减少碳排放等特点。,无,0,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,1200V 超大电流单芯片沟槽栅场截止 IGBT,http://www.xindamao.com.cn/News/detail/id/91,无,1. 应用合理与优化的虚拟（dummy）栅比例，使芯片在低导通压降的同时，具有更大的反向安全工作区（RBSOA），并保证 8μs 的短路时间，满足电机驱动、UPS 电源等应用对短路的要求。<br>2. 通过采用合理的 Pitch 宽度，保证芯片的 Vcesat 能达到要求，且不会受到应力损伤与变形的影响，依旧可以保证产品的高良率。<br>3. 单芯片最大电流容量达 300A，对于一些需要更大电流的应用系统，在 IGBT 并联数量封装过程中，可以减少并联支路中存在杂散电感和电阻，改善芯片之间的均流状况，提升 IGBT 器件电流能力、功率密度与应用可靠性。<br>4. 功率调节与控制：可用于调节和控制电路中的功率流动，通过调整其导通和截止状态，实现对电路中功率的精确控制。<br>5. 电力开关：作为电力开关使用时，能够控制高功率电路的开关行为。<br>6. 稳定性：1200V 超大单芯片 IGBT 额定电流能达 300A，从而能够减小在工业、车用功率模块中并联的芯片颗数，能降低因芯片间差异产生的热失控风险。<br>7. 节能环保：作为一种高效的功率半导体器件，可以将电能有效地转换为机械能、光能或其他形式的能量，提高了电力系统的能源利用效率。<br>8. 可再生能源集成：在可再生能源系统中具有重要作用，例如太阳能和风能发电系统。它们可以有效地控制和调节可再生能源的输出，实现稳定的电力供应。<br>9. IGBT 在工业领域中被广泛应用于电机驱动和电力变换等方面。通过控制和优化工业设备的电力消耗，IGBT 有助于提高工业生产的能效，并降低了对能源的需求和排放的数量。<br>10. 车规管理系统规范：通过 16949 车规认证。,无,0,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,IGBT 单管,http://www.xindamao.com.cn/show/index/type/16,XD25H120CX0、XD15H120CX1,无,单管,231674137,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,IGBT 单管,http://www.xindamao.com.cn/show/index/type/24,XD10N65BS0、XD15N65BS0,无,单管,231674137,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,IGBT 单管,http://www.xindamao.com.cn/Show/index/type/16/p/2,XD6H65CX0、XD15H65CX0,无,单管,231674137,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,IGBT 单管,http://www.xindamao.com.cn/Show/index/type/16/p/3,XD40H65CX0、XD75H65CX0,无,单管,231674137,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,IGBT 功率整合模块,http://www.xindamao.com.cn/News/detail/id/90,无,无,无,0,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,智能 IGBT、MOS 模块,http://www.xindamao.com.cn/News/detail/id/90,无,无,无,0,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,绝缘栅双极晶体管(IGBT),http://www.xindamao.com.cn/News/detail/id/90,无,无,无,0,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,IGBT 晶圆,http://www.xindamao.com.cn/News/detail/id/90,无,无,无,0,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,IGBT 晶圆,http://www.xindamao.com.cn/show/index/type/7,XW15G120CX0、XW25G120CX0,无,晶圆,671883417,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,IGBT 晶圆,http://www.xindamao.com.cn/Show/index/type/7/p/2,XW100G120CX0、XW75G120CX0,无,晶圆,671883417,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,IGBT 晶圆,http://www.xindamao.com.cn/Show/index/type/7/p/3,XW50G120CX0、XW75G65CX0,无,晶圆,671883417,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,IGBT 晶圆,http://www.xindamao.com.cn/Show/index/type/7/p/4,XW40G65CX0、XW15G65CX0,无,晶圆,671883417,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,晶圆,http://www.xindamao.com.cn/Show/index/type/7/p/5,XW6G65CX0,无,晶圆,671883417,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,IGBT 模块,http://www.xindamao.com.cn/show/index/type/17,XP15PJT120C0B1,无,模块,1404337384,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,IGBT 模块,http://www.xindamao.com.cn/show/index/type/17,XP25PJT120C0B2,无,模块,1404337384,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,IGBT 模块,http://www.xindamao.com.cn/Show/index/type/17/p/2,XP50PJS120C0E2,无,模块,1404337384,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,IGBT 模块,http://www.xindamao.com.cn/Show/index/type/17/p/2,XP75PJS120C0E3,无,模块,1404337384,无,0,无,0,无,0
+厦门芯达茂微电子有限公司,模块,http://www.xindamao.com.cn/Show/index/type/17/p/3,XP100PJS120C0E3,无,模块,1404337384,无,0,无,0,无,0

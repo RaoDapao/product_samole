@@ -1,0 +1,18 @@
+产品网址：http://en.golden-chip.com/product-3.aspx
+产品结构：root->全部产品_GoChipElectronicTechnology(Shanghai)Co.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|齿轮传感器芯片|GH1922、GH1922U、GH1817、GH1835、GH1836|可在 3.5~24V 电压范围和-40~+150°C 温度范围内稳定可靠工作，GH1922U 属于国内独特的超薄封装设计，主要用于汽车凸轮轴等速度传感应用，紧凑薄型封装形状更便于安装|
+
+Model,Magnetic switch point,Voltage range,Detection distance,Temperature range,Package form,Download
+GH1837,/,4.2～30VDC,2.5mm,-40℃~150℃,TO-94S,Download
+GH1860,/,3.5～24VDC,1.0mm,-40℃~150℃,TO-94,Download
+GH1817,/,3.5～30VDC,1.0mm,-40℃~150℃,TO-92S/TO-94-iBB,Download
+GH1922,±11GS,3.5～24VDC,2.2mm,-40℃~150℃,TO-94,Download
+GH1922U,±11GS,3.5～24VDC,2.2mm,-40℃~150℃,TSIP-4L 超薄,Download
+GH1836,±7.5GS,3.5～24VDC,1.0mm,-40℃~150℃,TO-94,Download
+GH1835,±7.5GS,3.5～24VDC,1.5mm,-40℃~150℃,TO-94,Download
+GH1423,±120GS,3.8～30VDC,/,-40℃~150℃,TO-94,Download
+GH1428,±20GS,3.8～30VDC,/,-40℃~150℃,TO-94,Download
+GH1430,±130GS,3.8～30VDC,/,-40℃~150℃,TO-94/DFN4X4-10L,Download

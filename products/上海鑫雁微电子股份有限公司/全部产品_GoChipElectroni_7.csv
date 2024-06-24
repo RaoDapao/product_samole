@@ -1,0 +1,13 @@
+产品网址：http://en.golden-chip.com/product-5-2.aspx
+产品结构：root->全部产品_GoChipElectronicTechnology(Shanghai)Co.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|动态齿轮传感器电路|无|基于霍尔效应的工作原理，通过霍尔传感器的偏置磁场的强度和方向会随着移动齿尖和齿谷的位置变化而变化，从而将磁性类型转化为电信号，输出端会产生与齿轮形状相对应的数字信号。具有强抗抖动能力，有效检测距离宽。典型应用于曲轴传感器、凸轮轴传感器。|
+
+Model,Package form,Voltage range,Detection distance,Temperature range,Download
+GH1827,TO-94,3.5Vdc-30.0Vdc,0.5-3.5mm,-40℃~150℃,Download
+GH1837,TO-94,3.5Vdc-30.0Vdc,0.5-3.5mm,-40℃~150℃,Download
+GH1817,TO-92S,3.5Vdc-24.0Vdc,0.5-3.5mm,-40℃~150℃,Download
+GH1801,TO-95,4.5Vdc-40.0Vdc,0.5-3.5mm,-40℃~150℃,Download
+GH1811,TO-94,4.5Vdc-24.0Vdc,0.5-3.5mm,-40℃~150℃,Download

@@ -1,0 +1,5 @@
+-> root http://www.cqaos.com
+  -> 产品中心-重庆万国半导体科技有限公司 https://www.cqaos.com/product
+  -> 重庆万国12英寸功率半导体芯片制造及封装测试生产基地项目开工-重庆万国半导体科技有限公司 https://www.cqaos.com/upload/4c3i/CQAOS%20MOSFET%20selector%2020230220website%20upload.xlsx
+  -> ProductCenter-CQAOS https://en.cqaos.com/product
+  -> ProductCenter-CQAOS_1 https://en.cqaos.com/product/c1002.html

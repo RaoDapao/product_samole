@@ -1,0 +1,39 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/1003.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|PoE Switch|TC-P3S028|24* 10/100/1000M PoE Ports+2*Gigabit Uplink+2* Gigabit SFP Ports；<br>·24* 10/100/1000M PoE Ports+2*Gigabit Uplink+2* Gigabit SFP Ports；<br>·Comply with IEEE802.3, IEEE802.3u, IEEE802.3ab Standard; <br>·Ethernet Ports support 10/100/1000M self- adaptive; <br>·The AI mode is automatically enabled 10M speed for Ports 17~24 in Extend mode; <br>·POE priority is supported, from port 1 to port 16, which is enabled by default；<br>·Flow control mode: IEEE 802.3X standard for full duplex, and Back Pressure standard for half duplex; <br>·Zero configuration feature, automatically supplied to adaptive equipment; <br>·Panel indicator monitoring status and help failure analysis; <br>·WithDIPswitch, support Extend modes; <br>·Support port lightning surge: common mode 4KV（level B）; Electrostatic ESD: air 8KV, contact 6KV(level C)|
+
+I/O Interface,Unnamed: 1
+Power,AC INPUT (100-240 V)
+Ethernet,"24*Gigabit PoE Ports  ,  2*Uplink ports  ,  2*Gigabit SFP Ports"
+Performance,
+Bandwidth,56Gbps
+Throughput,41.644Mpps
+Packet Buffer,3Mbit
+MAC Address,8K
+Transfer Mode,Store and forward
+Standard,
+Network Protocol,IEEE802.3 (Ethernet)  IEEE802.3u (Fast Ethernet)  IEEE802.3ab (Gigabit Ethernet)  IEEE802.3x (Flow Control)  IEEE 802.3z (Gigabit Ethernet Fiber Standard)
+PoE Protocol,IEEE802.3af (15.4W)  IEEE802.3at (30W)  POE port output voltage: DC 52V  POE power supply core: 1/2+; 3/6  -
+Industrial Standard,EMS: EN61000-4-2 (ESD)、 IEN61000-4-5 (Surge)
+Network Medium,"10Base-T: Cat 3, 4, 5 Class or above UTP/STP (≤ 100m)  100Base-TX: Cat 5 Class or above UTP/STP (≤ 100m)  1000Base-TX: Cat 5 Class or above UTP/STP (≤ 100m)"
+Optical Medium,"Multimode optical fiber: 50/125, 62.5/125, 100/140um  Single-mode optical fiber: 8/125, 8.7/125, 9/125, 10/125um"
+Function,
+LED Indicators,"PWR(Power),1-28 Green Light (Link & Data),1-16(Yellow Light), POE Led Key"
+PWR,On: Powered on  Off: Powered off
+POE LED Buttons,"Dual color light selection: default green (link data), switch yellow light (PoE)"
+DIP Switch,
+Extend,"OFF: common mode, all interfaces can communicate with each other, the transmission distance is less than 100 meters, the transmission rate is 10/100/1000M adaptive; The port AI mode is disabled  ON: Link extension mode, 17-24 ports force 10M, link 250M (enable POE watchdog), Port AI mode is enabled;"
+Environment,
+Working Environment,"Working temperature: -10~50°C  Storage temperature: -40~70°C  Working humidity: 10%~90%, non-condensing  Storage humidity: 5%~95%, non-condensing"
+Physical Specifications,
+Dimension,Product Dimensions: 320*207*44mm  Package Dimensions: 370*290*85mm  Product N.W: 1.78KG  Product G.W: 2.28KG
+Packing Info,Carton Dimensions: 445*310*390mm  Packing Quantity: 5 PCS  Packing Weight: 12.4KG
+Power Voltage,Input Voltage: AC 100-240 V 50-60Hz  Power supply: 52V /5.76A
+Power,Product power: maximum 15W  POE power: maximum 280W
+
+
+Date,Title,Type
+2024-05-20,TC-P3S028 SpecG2422AT280,pdf

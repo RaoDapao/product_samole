@@ -1,0 +1,86 @@
+产品网址：http://www.dtc-solutions.com/products.asp?id=359
+产品结构：root->Shakercontrollers,Vibrationcontrolsystem,Vibrationtestsystem,DynaTronicCorporation-manufacturerofvibrationcontroller
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|VENZO 640 Shock Test System|无|VENZO 640 shock test system 是为跌落试验机、冲击试验机和颠簸试验机量身定制的仪器。它允许测试工程师获取任何瞬态事件，如跌落测试、碰撞测试或冲击脉冲。当外部输入符合定义的触发条件（触发水平、斜率和位置）时，VENZO 640 将触发以捕获瞬态事件并显示脉冲图形，额外的 SRS 分析可即时估计潜在损坏。可以捕获一系列脉冲，并同时以连续数据流的形式传输到磁盘进行后分析。VENZO 640 还可以根据客户的特定要求控制冲击机的运动。|
+
+
+
+
+Input,4 channels
+Input Interface,BNC Connector
+Input Resolution,24-bit ADC
+Coupling,"AC Gnd, AC Dif, DC Gnd, DC Dif, Charge, IEPE"
+TEDS,"IEEE 1451.4 compliant, automatic-reading"
+Anti-aliasing Filter,analog and digital anti-aliasing low-pass filters
+Input Dynamic Range,135dB
+SNR,<-100dB
+Input Voltage Ranges,"±10, ±1 or ±0.1 V  PEAK"
+Input Impedance,1MΩ（single-ended）2MΩ（differential）
+Input Protection Voltage,± 36V  PEAK  without damage
+Input Channel Crosstalk,<-100dB@1kHz
+Amplitude Channel Match,0.1 dB
+Channel Phase Match,"better than ±1.0 degree, up to 20 kHz"
+Input Signal Type,"Charge, Voltage, High-integrated"
+Total Harmonic Distortion,<-100dB @ 1kHz
+,
+
+
+Dimension (mm),290*210*60
+Weight,2.6 kg
+Working Temperature,-30~70℃
+Humidity,5%~95% RH
+Consumption,10W
+Power,90~280VAC (50~60Hz)
+Enclosure Rating,IP42 (for CE Marking)
+PC Connection,high-speed standard Ethernet interface
+Anti-vibration Performance,"10-60 Hz @ 0.15 mm peak, 60-150 Hz @"
+,"2 gn, conform to IEC-68-2-6; 5~55Hz~5Hz @ 0.19 mm peak, conform to GB/T6587-2012 standard II"
+Anti-impact Performance,"Half sine 10 gn for 16 ms, conform to IEC-60068-2-27; Half sine 30 gn for 11 ms, conform to GB/T 6587-2012 standard II"
+EMC Standards,"EN 55022: 2010, EN55024:2010, EN 60950-1: 2006+A12:2011"
+,"+A1:2009+A2:2009, EN 61000-3-3:2008"
+Safety,EN 61010-13rd
+Compliance,CE Marking
+
+
+Trigger Channel,"Any active channel, specified channel ornone"
+Trigger Slope,"Rising, Falling and Bi-slope"
+Trigger Level,Specified G level
+Delay,-100%-100%
+
+
+Waveform,"Half-sine, Initial/Final peak sawtooth, Triangular,Rectangular, Trapezoid, Haversine"
+Standard,"ISO, MIL-STD-810G, IEC, User defined"
+Tolerance,According to each standard
+
+
+Analysis Target,Ideal Waveform or set SRS manually
+SRS type,"Primary, Residual, and Composite"
+Resolution,1-1/48 octave analysis
+Damping Ratio,0.1%-99%
+Q factor,0.5-500
+
+
+
+
+
+"Specified arbitrary frequency and damping ratio, generate its impact response signal.","Specified arbitrary frequency and damping ratio, generate its impact response signal..1"
+SR Visualizer,2D pulse animation from high to low frequency
+,3D pulse animation from high to low frequency
+,Replay 3D pulse animation from high to low frequency
+
+
+
+
+
+
+
+
+
+
+
+Account Group
+Username：
+Password：
+""

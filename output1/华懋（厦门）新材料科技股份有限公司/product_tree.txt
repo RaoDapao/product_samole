@@ -1,0 +1,5 @@
+-> root http://www.hmtnew.com
+  -> 其它产品_华懋（厦门）新材料科技股份有限 http://www.hmtnew.com/index/Prod/index.html?pid=2&ty=13
+    -> 安全气囊布料 
+    -> 夹网布 
+    -> 防弹布 

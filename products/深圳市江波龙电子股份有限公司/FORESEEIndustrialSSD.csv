@@ -1,0 +1,21 @@
+产品网址：https://www.longsys.com/about-longsys/news/foresee-industrial-ssd-products-employ-wide-temperature-technology.html
+产品结构：root->FORESEEIndustrialSSDProductsEmployWideTemperatureTechnologytoBoostIntelligentIndustrialScenarios
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|FORESEE 工业 SSD 产品|M.2 2242、M.2 2280、mSATA、2.5inch|基于自主硬件架构，采用软件算法和宽温设计方案，满足电力、汽车、工业等领域的宽温、大容量、高带宽存储需求；内置 LDPC ECC 引擎、紧急电源故障保护等功能；采用最新控制器技术，增强 SSD 耐久性和数据完整性；符合 IATF 16949 规格，具有高稳定性、可靠性和一致性，可为工业控制、轨道交通、电信、自动化、医疗等领域的客户提供稳定的存储解决方案；具有自主固件算法设计，可实现多种定制功能，包括温度控制、空闲块加速、预替换、健康监测和电源故障保护等；采用宽温算法，可在-40℃至+85℃的恶劣环境中正常运行；经过一系列严格测试，平均 MTBF 为 250 万小时，在低温（-40℃）和高温（+85℃）下进行读写老化测试，在适应温度变化和环境耐受性方面优于消费级产品；质量管理体系贯穿从资源选择到产品交付的全过程，确保产品质量和产量|
+
+SSD,A88M4,A88M4-S,A88M8,A66M8,A88MS,A88MS-S,A88MH,A66MH
+Interface,SATA III,SATA III,SATA III,SATA III,SATA III,SATA III,SATA III,SATA III
+Type,M.2 2242,M.2 2242,M.2 2280,M.2 2280,mSATA,mSATA,2.5 inch,2.5 inch
+Capacity,32-128G,8-32G,64-128G,256G-1T,32-128G,32-64G,64-128G,256G-1T
+Flash memory medium,MLC,pSLC,MLC,TLC,MLC,pSLC,MLC,TLC
+DRAM,DRAM-less,DRAM-less,DRAM-less,DRAM-less,DRAM-less,DRAM-less,DRAM-less,DRAM-less
+Operating Temperature,-40~85℃,-40~85℃,-40~85℃,-40~85℃,-40~85℃,-40~85℃,-40~85℃,-40~85℃
+MTBF,"2,500,000 hours","2,500,000 hours","2,500,000 hours","2,500,000 hours","2,500,000 hours","2,500,000 hours","2,500,000 hours","2,500,000 hours"
+Warranty,3 Years,3 Years,3 Years,3 Years,3 Years,3 Years,3 Years,3 Years
+S.M.A.R.T. Function Support,Y,Y,Y,Y,Y,Y,Y,Y
+TRIM Function,Y,Y,Y,Y,Y,Y,Y,Y
+Power-loss Safeguard,N,N,Y,Y,Y,Y,Y,Y
+Temperature Control,Y,Y,Y,Y,Y,Y,Y,Y
+Model,FISKRW032G-B2A43  FISKRW064G-B2A43  FISKRW128G-B2A43,FISKRW008G-B2A53  FISKRW016G-B2A53  FISKRW032G-B2A53,FISPRW064G-B2A43  FISPRW128G-B2A43,FISPRW256G-G8A56  FISPRW512G-G8A56  FISPRW001T-G8A56,FISQRW064G-B2A43  FISQRW128G-B2A43,FISQRW032G-B2A53  FISQRW064G-B2A53,FISHRW064G-B2A43  FISHRW128G-B2A43,FISHRW256G-G8A56  FISHRW512G-G8A56  FISHRW001T-G8A56

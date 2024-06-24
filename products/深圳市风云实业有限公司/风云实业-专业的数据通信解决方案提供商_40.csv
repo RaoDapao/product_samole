@@ -1,0 +1,34 @@
+产品网址：https://www.szforward.com/product/productDetail_S5000-28TS.html
+产品结构：root->风云实业-专业的数据通信解决方案提供商
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|通用交换机|S5000-28TS|无|
+
+型号名称,S5000-28TS,Unnamed: 2
+硬件规格,硬件规格,
+固定端口,24×10/100/1000Base-TX  4×1000M SFP,
+电源规格,"AC:100-240V, 50/60Hz",
+最大功耗,≤19W,
+物理尺寸(宽×深×高),442mm×220mm×44 mm,
+性能规格,性能规格,性能规格
+包转发率,96Mpps,
+业务规格,业务规格,业务规格
+转发模式,存储转发,存储转发
+端口特性,"支持Full- duplex, Half- duplex  支持IEEE802.3x flow control ( Full- duplex )  支持HOL防止首包阻塞，背压( Half- duplex )  支持VCT ( Virtual Cable Test )  支持UDLD, LLDP, LLDP-MED  支持IEEE 802.3ae, 802.3ab, 802.3z, 802.3u, 802.3  支持9K Jumbo frame  支持Loopback interface  支持Port loop detect  支持Port-Isolation  支持GE/FE光模块兼容  支持Port Mirror  支持64Kbps粒度端口限速","支持Full- duplex, Half- duplex  支持IEEE802.3x flow control ( Full- duplex )  支持HOL防止首包阻塞，背压( Half- duplex )  支持VCT ( Virtual Cable Test )  支持UDLD, LLDP, LLDP-MED  支持IEEE 802.3ae, 802.3ab, 802.3z, 802.3u, 802.3  支持9K Jumbo frame  支持Loopback interface  支持Port loop detect  支持Port-Isolation  支持GE/FE光模块兼容  支持Port Mirror  支持64Kbps粒度端口限速"
+VLAN特性,支持Port-based VLAN  支持IEEE802.1Q VLAN  支持private VLAN  支持 Protocol VLAN  支持 Voice VLAN  支持 MAC VLAN  支持普通 QinQ  支持选择性 QinQ  支持灵活 QinQ  支持 VLAN Translation  支持N:1 VLAN Translation,支持Port-based VLAN  支持IEEE802.1Q VLAN  支持private VLAN  支持 Protocol VLAN  支持 Voice VLAN  支持 MAC VLAN  支持普通 QinQ  支持选择性 QinQ  支持灵活 QinQ  支持 VLAN Translation  支持N:1 VLAN Translation
+DHCP,支持 IPv4/IPv6 DHCP Client、IPv4/IPv6 DHCP Relay  支持 Option 82、Option 37/38  支持 IPv4/IPv6 DHCP Snooping、IPv4/IPv6 DHCP Server,支持 IPv4/IPv6 DHCP Client、IPv4/IPv6 DHCP Relay  支持 Option 82、Option 37/38  支持 IPv4/IPv6 DHCP Snooping、IPv4/IPv6 DHCP Server
+可靠性,支持 STP，RSTP，MSTP  支持多进程 MSTP*  支持 LACP 负载均衡  支持 EMVTE（ULPP+ULSM）和 MRPP  支持 G.8032 标准环网协议  支持 Loopback detection、VCT、DDM  支持 ULDP（实现 Cisco UDLD 同样功能）,支持 STP，RSTP，MSTP  支持多进程 MSTP*  支持 LACP 负载均衡  支持 EMVTE（ULPP+ULSM）和 MRPP  支持 G.8032 标准环网协议  支持 Loopback detection、VCT、DDM  支持 ULDP（实现 Cisco UDLD 同样功能）
+安全特性,支持端口限速  支持基于报文和字节数的广播风暴控制  支持端口/MAC 绑定、MAC 过滤  支持基于端口和基于 VLAN 的 MAC 数量限制  支持防 ARP 欺骗、防 ARP 扫描、ARP 绑定  支持 DHCP Snooping、ND Snooping  支持 DAI  支持标准 IEEE 802.1x、扩展 IEEE 802.1x、Web Portal  支持 TACACS+,支持端口限速  支持基于报文和字节数的广播风暴控制  支持端口/MAC 绑定、MAC 过滤  支持基于端口和基于 VLAN 的 MAC 数量限制  支持防 ARP 欺骗、防 ARP 扫描、ARP 绑定  支持 DHCP Snooping、ND Snooping  支持 DAI  支持标准 IEEE 802.1x、扩展 IEEE 802.1x、Web Portal  支持 TACACS+
+组播,支持 IGMP v1/v2/v3 snooping、IGMP Fast leave  支持 MLD v1/v2 snooping  支持组播 VLAN、 IPv4/IPv6 DCSCM,支持 IGMP v1/v2/v3 snooping、IGMP Fast leave  支持 MLD v1/v2 snooping  支持组播 VLAN、 IPv4/IPv6 DCSCM
+QoS,支持基于 ACL 流、 VLAN ID、COS、TOS、DSCP、IPv6 FlowLabel 的流分类  支持聚合 PolicyMap  支持基于端口和基于VLAN 的 PolicyMap 绑定  支持单速单桶双色  支持 DSCP、COS/802.1p 优先级、TOS 等字段重写  支持每端口 8 个队列  支持 SP、WRR、SWRR、DWRR 队列调度算法  支持匹配 IP 分片报文,支持基于 ACL 流、 VLAN ID、COS、TOS、DSCP、IPv6 FlowLabel 的流分类  支持聚合 PolicyMap  支持基于端口和基于VLAN 的 PolicyMap 绑定  支持单速单桶双色  支持 DSCP、COS/802.1p 优先级、TOS 等字段重写  支持每端口 8 个队列  支持 SP、WRR、SWRR、DWRR 队列调度算法  支持匹配 IP 分片报文
+ACL,支持IP ACL，基于源/目的IP、IP协议类型、IP优先级、TCP/UDP源和目的端口号等字段进行匹配  支持MAC ACL，基于源/目的MAC、VLAN ID、COS等字段进行报文匹配  支持IP+MAC组合ACL  支持自定义ACL  支持根据时间段生效ACL  支持基于端口和基于VLAN的ACL绑定  支持基于ACL的重定向  支持根据ACL匹配情况执行流量统计分析功能,支持IP ACL，基于源/目的IP、IP协议类型、IP优先级、TCP/UDP源和目的端口号等字段进行匹配  支持MAC ACL，基于源/目的MAC、VLAN ID、COS等字段进行报文匹配  支持IP+MAC组合ACL  支持自定义ACL  支持根据时间段生效ACL  支持基于端口和基于VLAN的ACL绑定  支持基于ACL的重定向  支持根据ACL匹配情况执行流量统计分析功能
+管理维护,支持CLI  支持 IPv4/IPv6 HTTP  支持 IPv4/IPv6 FTP/TFTP  支持 IPv4/IPv6 SNTP/NTP  支持 IPv4/IPv6 的 telnet 用户名和密码的 radius 认证  支持 IPv4/IPv6 的 SSH  支持Security IP安全网管功能  支持 IPv4/IPv6 的 syslog  支持SNMPv1/v2c/v3  支持MIB接口，支持Trap  支持RMON 1，2，3，9四组  支持双IMG和多配置文件  支持LLDP  支持端口镜像、CPU镜像、RSPAN  支持sFlow流量监控  支持Reset一键还原  支持OAM  支持镜像采样,支持CLI  支持 IPv4/IPv6 HTTP  支持 IPv4/IPv6 FTP/TFTP  支持 IPv4/IPv6 SNTP/NTP  支持 IPv4/IPv6 的 telnet 用户名和密码的 radius 认证  支持 IPv4/IPv6 的 SSH  支持Security IP安全网管功能  支持 IPv4/IPv6 的 syslog  支持SNMPv1/v2c/v3  支持MIB接口，支持Trap  支持RMON 1，2，3，9四组  支持双IMG和多配置文件  支持LLDP  支持端口镜像、CPU镜像、RSPAN  支持sFlow流量监控  支持Reset一键还原  支持OAM  支持镜像采样
+环境规格,环境规格,环境规格
+工作环境,工作温度：0-50° C 工作湿度：10-90%无凝结,工作温度：0-50° C 工作湿度：10-90%无凝结
+存储环境,存储温度：-40-70° C 存储湿度：5-95%无凝结,存储温度：-40-70° C 存储湿度：5-95%无凝结
+电磁安全,"FCC, CE, VCCI","FCC, CE, VCCI"
+
+
+型号,描述,配置说明
+S5000-28TS,24端口10/100/1000M电口，4端口千兆SFP，220V交流单电源；无风扇,必配

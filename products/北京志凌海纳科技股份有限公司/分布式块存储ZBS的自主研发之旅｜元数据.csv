@@ -1,0 +1,6 @@
+产品网址：https://www.smartx.com/blog/2023/11/zbs-meta-server
+产品结构：root->分布式块存储ZBS的自主研发之旅｜元数据管理–SmartX
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|分布式块存储 ZBS|无|采用 Log Replication 机制，将 LevelDB 和 Zookeeper 相结合，实现高可靠、高性能与轻量级的元数据服务。具有可靠性、高性能、轻量级等特点，可应用于云计算 IaaS、虚拟化、裸金属数据库和容器等场景。|

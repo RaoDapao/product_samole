@@ -1,0 +1,17 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+苏州超锐微电子有限公司,CAN 总线控制器,https://www.supereal.com.cn/page168?product_category=31,SR5515,是一款独立控制器局域网络（Con......,接口控制器芯片,5667112760,CAN总线,3194660327,无,0,无,0
+苏州超锐微电子有限公司,USB 接口 FAX 控制器,https://www.supereal.com.cn/page167?product_category=27,SR8612,一款 USB 接口的数据/传真调制解调器,网络通信芯片,4051786773,FAX系列,4016376877,无,0,无,0
+苏州超锐微电子有限公司,接口控制器芯片,https://www.supereal.com.cn/page168?product_category=28,PCIe 转并口_SR6835,基于 PCIe 接口的扩展双向并口,接口控制器芯片,5667112760,PCI系列,6715389763,无,0,无,0
+苏州超锐微电子有限公司,接口控制器芯片,https://www.supereal.com.cn/page168?product_category=28,PCIe 转 UART 口_SR6820,基于 PCIe 接口的双通道高性能 UART 口,接口控制器芯片,5667112760,PCI系列,6715389763,无,0,无,0
+苏州超锐微电子有限公司,SD 接口 NAND Flash 控制器,https://www.supereal.com.cn/page168?product_category=30,SR3723,第三代 SD 控制器，采用 0.11u......,接口控制器芯片,5667112760,SD系列,4538620089,无,0,无,0
+苏州超锐微电子有限公司,SD 接口 NOR Flash 控制器,https://www.supereal.com.cn/page168?product_category=30,SR3622,第二代 SD 控制器，采用 0.11u......,接口控制器芯片,5667112760,SD系列,4538620089,无,0,无,0
+苏州超锐微电子有限公司,USB 千兆以太网,https://www.supereal.com.cn/SR8011?product_id=59,SR8103,是一款高集成度、低功耗、单芯片 USB 3.0 转 10/100/1000M 以太网控制电路，集成 IEEE802.3u 兼容媒体介质控制器（MAC）、USB 3.0 总线控制器及内置存储器。为各类应用增加低成本、小型封装、即插即用的千兆以太网功能，可用于台式电脑、笔计本电脑、超便携式电脑、平板电脑、托架/端口复制器/扩展坞、游戏机、智能家居及任何有 USB 接口的嵌入式设备。内部集成 USB 3.0 收发器，为主从设备数据交换提供更高的带宽、同时提供更多的电源管理特性以满足更高的节能需求。支持 IEEE802.3az-2010 协议，集成了 IEEE802.3 和 IEEE802.3az-2010 的 10/100M 以太网模块、以及高效的内存控制模块，支持节能以太网（EEE），当网络在低利用率时，EEE 允许系统两端设备处于低功耗状态以节省能耗。完全兼容 Microsoft 的 NDIS5、NDIS6（IPv4、IPv6、TCP、UDP）Checksum 特性。并支持 IEEE802 IP2 层优先编码，以及 IEEE802.1Q 虚拟本地网（VLAN）。,网络通信芯片,4051786773,以太网系列,245309387,USB千兆以太网|SR8103,2091681145,无,0
+苏州超锐微电子有限公司,接口控制器芯片,https://www.supereal.com.cn/page168?product_category=29,SR2322,USB 转 UART 的高度集成芯片,接口控制器芯片,5667112760,USB系列,6412205642,无,0,无,0
+苏州超锐微电子有限公司,接口控制器芯片,https://www.supereal.com.cn/page168?product_category=29,SR2305,USB 和 IEEE-1284 并行接口转换芯片,接口控制器芯片,5667112760,USB系列,6412205642,无,0,无,0
+苏州超锐微电子有限公司,USB 蓝牙收发器,https://www.supereal.com.cn/SR8011?product_id=62,SR8503,是一款 USB 接口低功耗 BLE 蓝牙通传芯片，实现蓝牙、USB 接口之间数据互传。内部集成 USB 2.0 全速收发器、BLE 蓝牙收发器。支持主机模式、从机模式和主从一体模式，从机模式和主从一体下可对蓝牙通讯以及参数进行配置，支持 BLE4.2 协议。集成 USB 转 BLE 接口，支持 CDC 命令，电脑端提供 CDC 驱动，屏蔽蓝牙和 USB 底层技术细节，即插即用。,网络通信芯片,4051786773,蓝牙系列,4319541499,USB蓝牙收发器|SR8503,5588885380,无,0
+苏州超锐微电子有限公司,WIFI 收发器芯片,https://www.supereal.com.cn/SR8011?product_id=61,SR8361,是一款高集成度的 MAC/BBP 和 2.4GHz 射频单芯片，支持 150Mbps 物理速度。完全兼容 IEEE 802.11n 和 IEEE 802.11 b/g 无线连接标准，可实现超远距离、高标准、可靠性强、低成本的无线连接。优化的射频架构和基带算法可提供优越性能及超低功耗。智能化的 MAC 设计、高效 USB 引擎和硬件数据加速处理器可进一步减轻主处理器的消耗。设计支持标准基本特性，如安全区域、服务质量和国际法规，给终端客户在任何时间任何环境都能获得最高性能。,网络通信芯片,4051786773,WIFI系列,3499822607,WIFI收发器芯片|SR8361,3248612974,无,0
+苏州超锐微电子有限公司,WIFI 路由器芯片,https://www.supereal.com.cn/page167?product_category=25,SR8311,高集成度低功耗以太网 WiFi......,网络通信芯片,4051786773,WIFI系列,3499822607,无,0,无,0
+苏州超锐微电子有限公司,千兆以太网 PHY_SR8021,https://www.supereal.com.cn/page167?product_category=24,SR8021,是一款高集成度的 10/100/10......,网络通信芯片,4051786773,以太网系列,245309387,无,0,无,0
+苏州超锐微电子有限公司,USB 千兆以太网_SR8103,https://www.supereal.com.cn/page167?product_category=24,SR8103,是一款高集成度、低功耗、单芯片 US......,网络通信芯片,4051786773,以太网系列,245309387,无,0,无,0
+苏州超锐微电子有限公司,图像传感器系列,https://www.supereal.com.cn/page169?product_category=23,无,无,传感器芯片,9861239319,图像传感器系列,6783437677,无,0,无,0
+苏州超锐微电子有限公司,蓝牙单片机 MCU,https://www.supereal.com.cn/page167?product_category=26,SR8565,是一款集成低功耗蓝牙 BLE 通讯模块的芯片,网络通信芯片,4051786773,蓝牙系列,4319541499,无,0,无,0

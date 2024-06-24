@@ -1,0 +1,30 @@
+产品网址：http://www.hkhonm.com/product_detail/70.html
+产品结构：root->HK2476M2-山东华科半导体研究院有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|HK2476M2|HK 机架式服务器|HK2476M2 是华科全新一代 4U 存储服务器。基于全新一代英特尔® 至强® 可扩展处理器设计，提供卓越的计算性能，凭借极致设计，提供灵活、超大容量的本地存储能力。可用作为面向通各行各业温冷存储的理想解决方案。适合作为分布式存储系统的基础架构使用，也适用于视频存储、云存储资源池、归档、大数据等应用。|
+
+组件,双路后置,双路前置,单路后置,单路前置
+规格,4U60  盘位存储服务器,4U60  盘位存储服务器,4U60  盘位存储服务器,4U60  盘位存储服务器
+CPU,2  个  Intel  Xeon  Skylake/Casecadelake  ，  TDP,2  个  Intel  Xeon  Skylake/Casecadelake  ，  TDP,1  个  Intel  Xeon  Skylake/Casecadelake  ，  TDP,1  个  Intel  Xeon  Skylake/Casecadelake  ，  TDP
+
+
+Unnamed: 0,205W,205W.1,205W.2,205W.3
+内存,12  条  DIMM  ，可选单条容量为：  8GB  、  16GB  、  32GB  RDIMM  64G  、  128G  LRDIMM,12  条  DIMM  ，可选单条容量为：  8GB  、  16GB  、  32GB  RDIMM  64G  、  128G  LRDIMM,6  条  DIMM  ，可选单条容量为：  8GB  、  16GB  、  32GB RDIMM  64G  、  128G  LRDIMM,6  条  DIMM  ，可选单条容量为：  8GB  、  16GB  、  32GB RDIMM  64G  、  128G  LRDIMM
+存储,60  个  3.5  寸  SATA  HDD  4  个  U.2  NVMe/SATA  SSD  2  个  SATA  M.2  (sSATA0-1),60  个  3.5  寸  SATA  HDD  4  个  U.2  NVMe/SATA  SSD  2  个  SATA  M.2  (sSATA0-1),60  个  3.5  寸  SATA  HDD  2  个  U.2  NVMe/SATA  SSD  ，  在控制器上  2  个  SATA  M.2  (sSATA0-1),60  个  3.5  寸  SATA  HDD  2  个  U.2  NVMe/SATA  SSD  ，  在控制器上  2  个  SATA  M.2  (sSATA0-1)
+PCIe  卡,1  个  50G/40G/25G/10G/1G  OCP  网卡  2  个  SAS HBA  卡  1  个  100G IB  卡  --CPU0,1  个  50G/40G/25G/10G/1G  OCP  网卡  2  个  SAS HBA  卡  1  个  100G IB  卡  --CPU0,1  个  50G/40G/25G/10G/1G  OCP  网卡  2  个  SAS HBA  卡,1  个  50G/40G/25G/10G/1G  OCP  网卡  2  个  SAS HBA  卡
+接口,1  个千兆  RJ45  管理网口（  BMC  端口）  1  个标准  VGA  口  2  个  USB3.0  接口  1  个耳机串口  1  个电源按钮  1  个  UID  按钮  (BMC  复位共用  ),1  个千兆  RJ45  管理网口（  BMC  端口）  1  个标准  VGA  口  2  个  USB3.0  接口  1  个耳机串口  1  个电源按钮  1  个  UID  按钮  (BMC  复位共用  ),1  个千兆  RJ45  管理网口（  BMC  端口）  1  个标准  VGA  口  2  个  USB3.0  接口  1  个耳机串口  1  个电源按钮  1  个  UID  按钮  (BMC  复位共用  ),1  个千兆  RJ45  管理网口（  BMC  端口）  1  个标准  VGA  口  2  个  USB3.0  接口  1  个耳机串口  1  个电源按钮  1  个  UID  按钮  (BMC  复位共用  )
+风扇,计算模块  4056  风扇  3+1  冗余  存储模块  8056  风扇  3+1  冗余,计算模块  4056  风扇  3+1  冗余  存储模块  8056  风扇  3+1  冗余,计算模块  4056  风扇  3+1  冗余  存储模块  8056  风扇  3+1  冗余,计算模块  4056  风扇  3+1  冗余  存储模块  8056  风扇  3+1  冗余
+电源,1300W/1600W  ，  1+1  冗余,1300W/1600W  ，  1+1  冗余,1300W/1600W  ，  1+1  冗余,1300W/1600W  ，  1+1  冗余
+维护,支持硬盘  /  风扇热插拔维护,支持硬盘  /  风扇热插拔维护,支持硬盘  /  风扇热插拔维护,支持硬盘  /  风扇热插拔维护
+系统管理,AST2500/Aspeed  支持  IPMI  PSU  支持  PMbus 1.2,AST2500/Aspeed  支持  IPMI  PSU  支持  PMbus 1.2,AST2500/Aspeed  支持  IPMI  PSU  支持  PMbus 1.2,AST2500/Aspeed  支持  IPMI  PSU  支持  PMbus 1.2
+出线管理,后出线,前出线,后出线,前出线
+尺寸,不含箱耳：  447mm *174mm*800mm,不含箱耳：  447mm *174mm*800mm,不含箱耳：  447mm *174mm*800mm,不含箱耳：  447mm *174mm*800mm
+重量,89kg,89kg,88kg,88kg
+
+
+功耗,1530W,1330W
+温度,适应温度范围  10  度～  35  度，在此温度范围内，满足器件降额要求；  存储环境温度满足：  -20  度～  70  度（带包装）,适应温度范围  10  度～  35  度，在此温度范围内，满足器件降额要求；  存储环境温度满足：  -20  度～  70  度（带包装）
+湿度,适应湿度范围  20%  ～  80%,适应湿度范围  20%  ～  80%
+高度,系统工作最高海拔满足  1500  米,系统工作最高海拔满足  1500  米

@@ -1,0 +1,20 @@
+产品网址：https://www.runxinmicro.com/product1/index.html
+产品结构：root->润新微电子(大连)有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|氮化镓 (GaN) 外延片|无|控制生长条件实现优异的二维电子气；利用特有的缓冲层生长技术实现高击穿电压和极低漏电流；原位氮化硅沉积提供了优良的动态性能，提高器件可靠性；控制生长条件实现的高均匀性和重复性|
+
+Parameters,Epi Product 01,Epi Product 02
+Substrate,6” 1mm <111> p-type Si,6” 1mm <111> p-type Si
+Epi ThickAvg,~5um,~7um
+Epi ThickUnif,<2%,<2%
+Bow,+/-45um,+/-45um
+Cracking,<5mm,<5mm
+Vertical BV,>1000V,>1400V
+HEMT Al%,25-35%,25-35%
+HEMT ThickAvg,20-30nm,20-30nm
+Insitu SiN Cap,5-60nm,5-60nm
+2DEG conc.,~10  13  cm  -2,~10  13  cm  -2
+Mobility,~2000cm  2  /Vs (<2%),~2000cm  2  /Vs (<2%)
+Rsh,<330ohm/sq (<2%),<330ohm/sq (<2%)

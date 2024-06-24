@@ -1,0 +1,35 @@
+-> root http://www.jiugaosh.com
+  -> ShanghaiJiugaoenergy http://www.jiugaosh.com/product/Intelligent%20lighting
+    -> Workshop lamp 
+    -> Downlight 
+    -> Flat lamp 
+    -> Germicidal lamp 
+    -> Line lamp 
+    -> Education lamp 
+    -> Road lamp 
+    -> Garage light 
+    -> Cast light 
+  -> ShanghaiJiugaoenergy_1 http://www.jiugaosh.com/product/Intelligent%20manufacturing
+    -> Light MES system 
+    -> Quality monitoring of large workpieces 
+    -> Military intelligent equipment 
+    -> Electronic surface treatment software 
+    -> Automobile surface treatment software 
+    -> Intelligent production line 
+    -> Flexible production line 
+    -> Robot production line 
+    -> Intelligent detection line 
+  -> ShanghaiJiugaoenergy_2 http://www.jiugaosh.com/product/Intelligent%20lighting/170101
+  -> ShanghaiJiugaoenergy_3 http://www.jiugaosh.com/product/Intelligent%20lighting/170102
+  -> ShanghaiJiugaoenergy_4 http://www.jiugaosh.com/product/Intelligent%20lighting/170103
+  -> ShanghaiJiugaoenergy_5 http://www.jiugaosh.com/product/Intelligent%20lighting/170104
+  -> ShanghaiJiugaoenergy_6 http://www.jiugaosh.com/product/Intelligent%20lighting/170105
+  -> ShanghaiJiugaoenergy_7 http://www.jiugaosh.com/product/Intelligent%20lighting/170106
+  -> ShanghaiJiugaoenergy_8 http://www.jiugaosh.com/product/Intelligent%20lighting/170107
+  -> ShanghaiJiugaoenergy_9 http://www.jiugaosh.com/product/Intelligent%20lighting/170108
+  -> ShanghaiJiugaoenergy_10 http://www.jiugaosh.com/product/Intelligent%20lighting/170109
+  -> ShanghaiJiugaoenergy_11 http://www.jiugaosh.com/product/Intelligent%20manufacturing/170201
+  -> ShanghaiJiugaoenergy_12 http://www.jiugaosh.com/product/Intelligent%20manufacturing/170205
+  -> ShanghaiJiugaoenergy_13 http://www.jiugaosh.com/product/Intelligent%20manufacturing/170206
+  -> ShanghaiJiugaoenergy_14 http://www.jiugaosh.com/product/Intelligent%20manufacturing/170208
+  -> ShanghaiJiugaoenergy_15 http://www.jiugaosh.com/product/Intelligent%20manufacturing/170209

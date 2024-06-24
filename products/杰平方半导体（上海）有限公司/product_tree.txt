@@ -1,0 +1,28 @@
+-> root http://www.j2semi.com
+  -> 杰平方半导体(上海)有限公司-产品信息 https://www.j2semi.com/cpxx
+    -> SiC（碳化硅）肖特基二极管 
+    -> SiC（碳化硅）MOSFET 
+    -> SiC(碳化硅)模组 
+    -> 高边开关 
+    -> 模拟开关和多路复用器 
+    -> CAN 收发器 
+    -> 直流有刷（BDC）电机驱动器 
+    -> 直流开关稳压器 
+    -> 模数转换器 
+  -> 杰平方半导体(上海)有限公司 https://www.j2semi.com/ProductInfoCategory?categoryId=821096&PageInfoId=0
+  -> 杰平方半导体(上海)有限公司_1 https://www.j2semi.com/ProductInfoCategory?categoryId=821097&PageInfoId=0
+  -> 杰平方半导体(上海)有限公司_2 https://www.j2semi.com/ProductInfoCategory?categoryId=821098&PageInfoId=0
+  -> 杰平方半导体(上海)有限公司_3 https://www.j2semi.com/ProductInfoCategory?categoryId=821099&PageInfoId=0
+  -> 杰平方半导体(上海)有限公司_4 https://www.j2semi.com/ProductInfoCategory?categoryId=821100&PageInfoId=0
+  -> 杰平方半导体(上海)有限公司_5 https://www.j2semi.com/ProductInfoCategory?categoryId=821101&PageInfoId=0
+  -> SiC（碳化硅）肖特基二极管-杰平方半导 https://www.j2semi.com/productinfo/2350713.html
+  -> SiC（碳化硅）MOSFET-杰平方半导 https://www.j2semi.com/productinfo/1711592.html
+  -> SiC(碳化硅)模组-杰平方半导体(上海 https://www.j2semi.com/productinfo/2515933.html
+  -> 高边开关-杰平方半导体(上海)有限公司 https://www.j2semi.com/productinfo/1758381.html
+  -> 模拟开关和多路复用器-杰平方半导体(上海 https://www.j2semi.com/productinfo/1758364.html
+  -> 杰平方碳化硅器件进入量产-杰平方半导体( https://www.j2semi.com/newsinfo/7231103.html
+  -> 杰平方半导体(上海)有限公司-产品信息_1 https://www.j2semi.com/cpxx#
+  -> CAN收发器-杰平方半导体(上海)有限公 https://www.j2semi.com/productinfo/1758257.html
+  -> 直流有刷（BDC）电机驱动器-杰平方半导 https://www.j2semi.com/productinfo/1758213.html
+  -> 直流开关稳压器-杰平方半导体(上海)有限 https://www.j2semi.com/productinfo/1711681.html
+  -> SiC(碳化硅)模组-杰平方半导体(上海_1 https://www.j2semi.com/productinfo/2515933.html#

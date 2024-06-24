@@ -1,0 +1,29 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+深圳市一博科技股份有限公司,一站式硬件创新平台,http://www.edadoc.com/OneStopService.html,无,为广大创客提供定制、研发打样及中小批量的线路板设计、制造的柔性解决方案,无,0,无,0,无,0,无,0
+深圳市一博科技股份有限公司,高速实验室,http://www.edadoc.com/product/laboratory,无,面向没有测试仪器、有仪器资源可供选择、测试结果有异常、不知如何测试、功能性测试异常等对象，提供插损/回损/串扰测试&分析、一致性测试、调试性测试服务、阻抗测试&分析、skew 测试&分析、波形/眼图测试&分析、电源方面的噪声、压降、时序测试&Debug 等服务,专业丨经验丰富的团队,3863305835,无,0,无,0,无,0
+深圳市一博科技股份有限公司,无,http://edadoc.com/Case/digital_product.html,无,专注于高速 PCB 设计、研发样机及批量的 PCBA 生产服务,多媒体电子,2728936682,无,0,无,0,无,0
+深圳市一博科技股份有限公司,DDRx 仿真,http://www.edadoc.com/product/DDRx,无,指导 Layout 布局布线，项目调试中出现问题时通过仿真定位问题并提出改进意见，测不到芯片内部信号时通过仿真对比外部测试数据模拟芯片内部真实情况，包括拓扑优化、ODT 调节、驱动选择、端接/串阻阻值调节、时序分析等，针对所有信号线进行全通道仿真,提供DDR3/DDR4/DDR5GDDR6全通道仿真,413190389,无,0,无,0,无,0
+深圳市一博科技股份有限公司,电源完整性(PI)仿真,http://www.edadoc.com/product/PI,无,通过仿真及准确的电源测试协助解决电源问题，包括 IR-drop 仿真、PDN 阻抗分析、平面谐振分析、电热协同仿真等内容,提供PI仿真|电源完整性仿真,4461709818,无,0,无,0,无,0
+深圳市一博科技股份有限公司,SiP 设计,http://www.edadoc.com/product/SiP,无,芯片-封装-系统协同规划与设计，仿真与设计同步进行，Wire Bond 3D 建模，仿真精度高，优化准确，熟悉主流的封装基板生产工艺，Hspice 模型转 IBIS 模型，可协助生成设计指导书,提供SiPATE设计,5238179744,无,0,无,0,无,0
+深圳市一博科技股份有限公司,定制化测试夹具,http://www.edadoc.com/product/customized_fixtures,无,根据客户的测试需求，定制相关夹具，包括自定义背板/连接器、国内外分立电阻电容电感器件、自研芯片、线缆等测试夹具，符合测试标准，可精确测量客户待测物的真实性能，可根据测试场景选择 TRL/ISD/AFR 等多种去嵌方法，均能完全去除夹具的影响，去嵌精度：回损-40dB@67GHz，插损±0.1dB@67GHz,无,0,无,0,无,0,无,0
+深圳市一博科技股份有限公司,测试夹具,http://www.edadoc.com/product/fixture,U.2-SATA/SAS,小于 2.5 寸硬盘宽度，保证测试时与 DUT 无结构妨碍；满足 8639 接口 SATA/SAS 一致性测试；8639 转 SMA 接口，测试夹具采用 SMA 连接器通过 cable 与仪器连接,提供通用标准夹具服务,8832243097,无,0,无,0,无,0
+深圳市一博科技股份有限公司,测试夹具,http://www.edadoc.com/product/fixture,8639-PCIe4,"可切换 PCIe 传输速率功能，信号从 GEN1,GEN2,GEN3,GEN4 不同码型循环切换；尺寸与 2.5 寸硬盘宽度相同",提供通用标准夹具服务,8832243097,无,0,无,0,无,0
+深圳市一博科技股份有限公司,测试夹具,http://www.edadoc.com/product/fixture,USB3.1 type A,满足 USB3.1 Type A 接口的信号一致性测试；向下兼容 USB3.0、USB2.0 信号一致性测试,提供通用标准夹具服务,8832243097,无,0,无,0,无,0
+深圳市一博科技股份有限公司,测试夹具,http://www.edadoc.com/product/fixture,HDMI 2.1,用于 HDMI2.1 Type A 接口的主板信号质量测试/Cable 性能测试；可向下兼容 HDMI1.4 信号质量测试,提供通用标准夹具服务,8832243097,无,0,无,0,无,0
+深圳市一博科技股份有限公司,测试夹具,http://www.edadoc.com/product/fixture,10/100/1000M 网口,满足 RJ45 接口 10M/100M/1000M 信号一致性测试,提供通用标准夹具服务,8832243097,无,0,无,0,无,0
+深圳市一博科技股份有限公司,测试夹具,http://www.edadoc.com/product/fixture,SFP28 HCB/MCB,用于 SFP28 接口信号测试/光模块信号测试；满足 IEEE802.3 定义的 HCB/MCB 要求,提供通用标准夹具服务,8832243097,无,0,无,0,无,0
+深圳市一博科技股份有限公司,测试夹具,http://www.edadoc.com/product/fixture,Interposer,用于 DDR4 x8/x16、DDR3 x8/x16、LPDDR4_200pin、Nand Flash_132pin 颗粒端信号测试；封装对封装,提供通用标准夹具服务,8832243097,无,0,无,0,无,0
+深圳市一博科技股份有限公司,测试夹具,http://www.edadoc.com/product/fixture,QSFP28 HCB/MCB,用于 QSFP28 接口信号测试/光模块信号测试；满足 IEEE802.3 定义的 HCB/MCB 要求,提供通用标准夹具服务,8832243097,无,0,无,0,无,0
+深圳市一博科技股份有限公司,测试夹具,http://www.edadoc.com/product/fixture,M.2 CBB_PCIe Gen5,用于测试 M.2 接口的硬盘 PCIe Gen5 及 SATA 信号测试；Key 位:Key M；可调整速率；满足 PCIe Gen5 一致性测试要求；MMPX Female 接口，需 MMPX Male-to-2.92mm 的 cable 与仪器连接进行测试,提供通用标准夹具服务,8832243097,无,0,无,0,无,0
+深圳市一博科技股份有限公司,测试夹具,http://www.edadoc.com/product/fixture,M.2 CLB_PCIe Gen4,用于 M.2 接口的主板 PCIe Gen4 信号测试、阻抗测试；由 Riser 和 CLB 两块板组成；Key 位:Key M；满足 2280 的尺寸对结构的要求；满足 PCIe Gen4 信号一致性测试要求；可调整速率；2.92mm Female 接口，无需转接头，直接用 2.92mm Male cable 与仪器连接进行测试，更牢固耐用,提供通用标准夹具服务,8832243097,无,0,无,0,无,0
+深圳市一博科技股份有限公司,高速串行,http://www.edadoc.com/product/High_Speed,无,对 PCIE5、SATA、SAS、SFP28、10GBase-KR、100GBase-KR、56G/112G PAM4 等高速串行信号进行仿真，包括层叠设计、板材选型、基于 S 参数的无源通道评估和基于 Hspice/AMI 模型的有源仿真等流程,提供高速串行信号仿真，PCIE、SATA、SAS、SFP、10G|KR、100G|KR4、56GPAM4112GPAM4等,4778691119,无,0,无,0,无,0
+深圳市一博科技股份有限公司,四路 Orin 芯片智能驾驶设计案例,http://edadoc.com/home/product/detail/id/95.html,无,无,新能源汽车,2599307431,无,0,无,0,无,0
+深圳市一博科技股份有限公司,基于 Orin 芯片的智能驾驶设计案例,http://edadoc.com/home/product/detail/id/95.html,无,无,新能源汽车,2599307431,无,0,无,0,无,0
+深圳市一博科技股份有限公司,车载毫米波雷达设计案例,http://edadoc.com/home/product/detail/id/95.html,无,无,新能源汽车,2599307431,无,0,无,0,无,0
+深圳市一博科技股份有限公司,笔记本主板,http://edadoc.com/home/product/detail/id/97.html,AMD FP8,单板设计,计算机,4663842206,无,0,无,0,无,0
+深圳市一博科技股份有限公司,PCB 设计,http://edadoc.com/product/case.html,无,提供高速 PCB 设计服务，涵盖 IT 通讯、新能源汽车、医疗器械、计算机、工业控制、多媒体电子等多个领域,无,0,无,0,无,0,无,0
+深圳市一博科技股份有限公司,高速 PCB 设计,http://edadoc.com/home/product/detail/id/100.html,无,专注于高速 PCB 设计、研发样机及批量的 PCBA 生产服务,轨道交通,1407105419,无,0,无,0,无,0
+深圳市一博科技股份有限公司,仿真测试,http://edadoc.com/home/product/detail/id/100.html,无,提供仿真介绍、DDRx 仿真、高速串行、PI 仿真、SiP 设计等服务,轨道交通,1407105419,无,0,无,0,无,0
+深圳市一博科技股份有限公司,PCB 制板,http://edadoc.com/home/product/detail/id/100.html,无,提供制板介绍、制板优势、技术能力、产品展示等服务,轨道交通,1407105419,无,0,无,0,无,0
+深圳市一博科技股份有限公司,SMT 焊接,http://edadoc.com/home/product/detail/id/100.html,无,提供贴片介绍、贴片优势、生产设备、加工能力等服务,轨道交通,1407105419,无,0,无,0,无,0
+深圳市一博科技股份有限公司,元器件选型,http://edadoc.com/home/product/detail/id/100.html,无,提供元器件介绍、选型优势、元器件中央仓库、一博在线元器件系统、品质控制 (QC)等服务,轨道交通,1407105419,无,0,无,0,无,0

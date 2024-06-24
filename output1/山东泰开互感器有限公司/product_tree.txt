@@ -1,0 +1,10 @@
+-> root http://www.tkhgq.cn
+  -> 首页 
+    -> 产品中心 
+      -> 互感器 
+        -> 山东泰开 http://www.tkhgq.cn/list-huganqi.html
+          -> SF6 气体电压互感器 
+          -> SF6 气体电流互感器 
+          -> 油浸正立式电流互感器 
+          -> 油浸倒立式电流互感器 
+          -> 油浸电容式电压互感器 

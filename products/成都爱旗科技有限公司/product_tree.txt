@@ -1,0 +1,9 @@
+-> root https://www.aichtech.com
+  -> 产品中心-成都爱旗科技有限公司 https://www.aichtech.com/zh-hans/Product/Index.html
+  -> AiW9651-成都爱旗科技有限公司 https://www.aichtech.com/zh-hans/Product/Show-443.html
+  -> AiW9761-成都爱旗科技有限公司 https://www.aichtech.com/zh-hans/Product/Show-441.html
+  -> AiW4211L-成都爱旗科技有限公司 https://www.aichtech.com/zh-hans/Product/Show-43.html
+  -> AiW4211-成都爱旗科技有限公司 https://www.aichtech.com/zh-hans/Product/Show-42.html
+  -> AiW4201-成都爱旗科技有限公司 https://www.aichtech.com/zh-hans/Product/Show-39.html
+  -> ProductCenter-ChengD https://www.aichtech.com/en/Product/Index.html
+  -> 首页-成都爱旗科技有限公司 https://www.aichtech.com/en/Product/Show-443.html

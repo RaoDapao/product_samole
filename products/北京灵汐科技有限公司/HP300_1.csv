@@ -1,0 +1,28 @@
+产品网址：https://www.lynxi.com/ka2003/21.html
+产品结构：产品中心类脑计算加速卡->领启®KA200(-S)系列->HP300
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|类脑计算加速卡|HP300|搭载 3 颗领启 KA200(-S)，提供强大的人工智能推理加速性能。整板峰值功耗仅为 70W，算力可达 144 TOPS@INT8、72 TFLOPS@FP16，具有超强算力、能效比高、低功耗内置硬件图像处理加速引擎等优势，为云端/边缘端的推理提供强大算力支撑。可广泛应用于脑仿真与脑科学、互联网、智能制造、智慧交通、智慧金融、智慧教育等场景。|
+
+计算单元数量,90 组计算单元
+神经元数量,75 万个
+神经突触,7500 万个
+AI 算力,144 TOPS@INT8；72 TFLOPS@FP16
+能耗比,≥ 1TSops/W
+内存容量,24 GB
+内存峰值带宽,76.8 GB/s
+内存位宽,64 bit
+内存运行频率,1600 MHz
+图像预处能力,独特内置硬件图像处理加速引擎  Resize、Mirror、Flip、Rotate、Crop、Padding、C2C、Affine、Merge
+编解码能力,支持 H.264、H.265视频格式硬件解码，  最高视频解码性能 1500fps@1920*1080  支持 H.264、H.265 视频格式硬件编码，最高视频编码性  能750fps@1920*1080  支持JPEG 图 像 硬 件 解 码， 最 高 图 像 解 码 性 能  750fps@1920*1080  支持JPEG 图 像 硬 件 编 码， 最 高 图 像 编 码 性 能  900fps@1920*1080
+峰值功耗,70w
+外形尺寸,169.53mm×68.9mm（含半高挡板条）  169.53mm×111.15mm（含全高挡板条）
+物理接口,PCIe x16
+链路接口,PCIe Gen4 X4+x4+x4
+散热方式,被动散热
+工作环境温度,0℃～ 55℃
+操作系统,Ubuntu 16.04/18.04/20.04 、CentOS8、RedHat、Debian、统信UOS、KYLINSOFT10、OpenEuler22.03
+支持框架,DNN：TensorFlow、Pytorch、PaddlePaddle、Caffe、MxNet、Keras、ONNX等  SNN：Neuron等
+支持模型,DNN：Resnet、Inception、VGG、Mobilenet、Yolo、SSD、Squeezenet、Senet、DenseNet等  SNN：Microcircuit等
+编译工具,LyngorⓇ Compiler

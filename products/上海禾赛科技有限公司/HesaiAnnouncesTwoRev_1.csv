@@ -1,0 +1,20 @@
+产品网址：https://www.hesaitech.com/hesai-announces-two-revolutionary-new-adas-lidar-products-and-completion-of-its-state-of-the-art-rd-center-for-manufacturing/#
+产品结构：root->HesaiAnnouncesTwoRevolutionaryNewADASLidarProductsandCompletionofItsState-of-the-ArtR&DCenterforManufacturing|HESAI
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Automotive Long-Range Lidar|AT128|1,536,000 points/s 点率，1200×128 整体分辨率，210m@10%反射率 范围，120°×25.4°视场角，136mm×114mm×49mm 尺寸，0.1°(H)×0.2°(V)分辨率|
+|Automotive Long-Range Lidar|AT512|12,288,000 points/s 点率，2400×512 整体分辨率，300m@10%反射率 范围，120°(H)×25.6°(V)视场角，160mm×110mm×45mm 尺寸，0.05°(H)×0.05°(V)角分辨率|
+|Automotive Long-Range Lidar|ATX|200m@10%反射率 测距能力，120°~140°水平视场角，20°~25.6°垂直视场角，0.08°(H)×0.1°(V)角分辨率（最精细），8W 功耗，10Hz；20Hz 帧率，25mm 最小表面窗口，500g 重量|
+|Automotive Short-Range Lidar|FT120|160(H)×120(V)整体分辨率，100°(H)×75°(V)视场角，192,000pts/s（单次返回），384,000pts/s（双次返回）点率（@10Hz），0.1m~100m 仪器范围，0.625°(H)×0.625°(V)角分辨率，Typ.10Hz 帧率|
+|Superior Precision, Cost-Effective Solution|XT32/XT32M/XT16|32（16 通道版本可用）通道，0.5cm（1σ精度）范围精度，±1cm 范围精度，0.05 至 120m 范围，360°(H)×31°(V)视场角，0.18°(H)×1°(V)@10Hz 分辨率，0.8kg 重量|
+|360°Primary Lidar for Large-Scale Deployment|OT128|3,456,000 points/s（单次返回），6,912,000 points/s（双次返回）点率，200m@10%反射率 范围，360°(H)×40°(V)视场角，0.1°(H)×0.125°(V)角分辨率（最精细），29W 功耗，118.0mm×132.3mm 尺寸（最大直径×高度）|
+|All-Around Performance, 360°Coverage|Pandar128|128 通道，3,456,000pts/s（单次返回），6,912,000pts/s（双次返回）点率，0.1°（10Hz）水平分辨率，200m@10%反射率 范围，最精细 0.125°垂直分辨率|
+|All-Around Performance, 360°Coverage|Pandar64|64 通道，200m@10%反射率 范围，40°（-25°~+15°）垂直视场角，0.2°（10Hz），0.4°（20Hz）水平分辨率，最精细 0.167°垂直分辨率|
+|All-Around Performance, 360°Coverage|Pandar40P|40 通道，200m@10%反射率 范围，40°（-25°~+15°）垂直视场角，0.2°（10Hz），0.4°（20Hz）水平分辨率，最精细 0.33°垂直分辨率|
+|All-Around Performance, 360°Coverage|Pandar40M|40 通道，0.3~120m（10%反射率）范围，40°（-25°~+15°）垂直视场角，0.2°（10Hz），0.4°（20Hz）水平分辨率，最精细 0.33°垂直分辨率|
+|Close Object Detection, Ultra-Wide View|QT128|128 通道，20m@10%反射率 范围，105.2°（-52.6°~+52.6°）垂直视场角，最精细 0.4°@10Hz 水平分辨率，最精细 0.4°垂直分辨率|
+|Close Object Detection, Ultra-Wide View|QT64|64 通道，20m（10%反射率）范围，104.2°（-52.1°~+52.1°）垂直视场角，0.6°水平分辨率，最精细 1.45°垂直分辨率|
+|Automotive Long-Range Lidar, Behind Windshield Installation|ET25|225m@10%反射率 范围（带挡风玻璃），120°(H)×25°(V)视场角，0.05°(H)×0.05°(V)角分辨率（最精细），120×100×25mm 尺寸，>3,000,000pts/s 点率，12W 功耗|
+|Remote Methane Leak Detector|Handheld|200m（82%漫反射率，15000ppm*m 甲烷气体浓度）检测范围，5（实际）ppm*m 灵敏度，±10%（100~50000ppm*m）测量精度，5ms 响应时间，0.76kg 重量（带电池和瞄准器）|
+|Remote Methane Leak Detector|Drone-Mounted|400m（82%漫反射率，15000ppm*m 甲烷气体浓度）检测范围，5（实际）ppm*m 灵敏度，±10%（100~50000ppm*m）测量精度，5ms 响应时间，<600g 重量|

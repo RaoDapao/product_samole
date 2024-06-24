@@ -1,0 +1,9 @@
+产品网址：https://www.unicmicro.com/goods
+产品结构：首页->MCU->通用MCU->ARMCortex-M0+->UM3213
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|UM3213|无|ARM Cortex-M0+，最高主频 32MHz，8KB SRAM，64 eFlash，0.7μA @3.0V DeepSleep+RTC 模式，低速时钟运行，IO、SRAM 以及寄存器数据保持，0.37μA @3.0V Stop 模式，所有时钟停止，IO、SRAM 以及寄存器数据保持，110μA/MHz @3.0V @32MHz Active 模式，3.7μs 快速睡眠唤醒系统，GPIO：最大 21 个，16/8mA 两档驱动可配，1 路低功耗 LPUART，2 路通用 UART，I2C：支持主/从模式，速率 400kbps，SPI：2 路，主/从模式，最高速率 16Mbps，ADC：4 通道 12 位 SAR ADC，1Msps 采样速率，工作电压：1.8 ~ 5.5V，工作温度：-40 ~ 85°C，ESD 保护：2kV（HBM）|
+
+Part number,Voltage (V),Max freq. (MHz),GPIO,Flash (KB),RAM (KB),LPUART,UART,SPI,I2C,CAN,Package
+UM3213-BCQF,1.8~5.5,32,21,64,8,1,2,2,1,-,QFN24

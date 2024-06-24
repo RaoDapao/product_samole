@@ -1,0 +1,37 @@
+-> root https://www.cdpsti.com
+  -> 微模块电源-第三代半导体产业孵化提供半导 https://www.cdpsti.com/home/product/index.html
+  -> 微模块电源-第三代半导体产业孵化提供半导_1 https://www.cdpsti.com/home/product/index.html?id=122
+  -> 砖式模块-第三代半导体产业孵化提供半导体 https://www.cdpsti.com/home/product/index.html?id=120
+  -> 隔离门驱动SiP-第三代半导体产业孵化提 https://www.cdpsti.com/home/product/index.html?id=121
+  -> 特种应用电源-第三代半导体产业孵化提供半 https://www.cdpsti.com/home/product/index.html?id=119
+  -> 定制服务-第三代半导体产业孵化提供半导体 https://www.cdpsti.com/home/product/index.html?id=123
+    -> 通用型 LED 驱动非隔离电源模块 
+    -> 隔离型电源模块 
+    -> 隔离型驱动电源模块 
+    -> 隔离型多路输出电源模块 
+    -> 1/16 砖隔离 DC-DC 电源模块 
+    -> 电源系统定制服务 
+  -> 全集成非隔离DC-DC降压电源模块-第三 https://www.cdpsti.com/home/product/show.html?id=6
+  -> 通用型LED驱动非隔离电源模块-第三代半 https://www.cdpsti.com/home/product/show.html?id=13
+  -> 隔离型电源模块-第三代半导体产业孵化提供 https://www.cdpsti.com/home/product/show.html?id=12
+  -> 隔离型驱动电源模块-第三代半导体产业孵化 https://www.cdpsti.com/home/product/show.html?id=11
+  -> 隔离型多路输出电源模块-第三代半导体产业 https://www.cdpsti.com/home/product/show.html?id=10
+  -> 1-16砖隔离DC-DC电源模块-第三代 https://www.cdpsti.com/home/product/show.html?id=7
+  -> 超宽高压直流电源模块-第三代半导体产业孵 https://www.cdpsti.com/home/product/show.html?id=8
+  -> 电源系统定制服务-第三代半导体产业孵化提 https://www.cdpsti.com/home/product/show.html?id=9
+  -> 切割实验室-第三代半导体产业孵化提供半导 https://www.cdpsti.com/home/laboratory/index.html?id=1&type=3
+    -> 切割机 
+    -> 解胶机 
+    -> 扩膜机 
+    -> 芯片分拣设备 
+    -> 贴膜机 
+    -> 显微镜 
+    -> 清洗机 
+    -> 客制电源开发 
+  -> 产品样品申请-第三代半导体产业孵化提供半 https://www.cdpsti.com/home/product/applyfor.html?id=6
+    -> 特种应用电源 
+    -> 定制服务 
+  -> 产品样品申请-第三代半导体产业孵化提供半_1 https://www.cdpsti.com/home/product/applyfor.html?id=13
+  -> 产品样品申请-第三代半导体产业孵化提供半_2 https://www.cdpsti.com/home/product/applyfor.html?id=12
+    -> 检测中心 
+    -> 切割实验室 

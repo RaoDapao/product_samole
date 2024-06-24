@@ -1,0 +1,6 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=153&ncid=154&deid=192
+产品结构：root->Huahuan_Products_PrecisionTimeProtocol(PTP)GrandmasterClock_H16MROIPRadio
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|H16MRO IP Radio|无|H16MRO 数字微波设备是基于创新设计理念的新一代分组微波通信系统。它采用全户外集成结构和创新的软件/硬件设计，将射频和调制解调器集成到一个紧凑的户外单元中，直接与天线连接，大大简化了工程安装、操作和维护。具有零占地面积、完全集成和高性价比的解决方案，高达 450Mbps 的容量，支持无中断自动自适应编码和调制（HAACM），网络同步，QoS（服务质量）和 VLAN 用于流量优先级，可扩展带宽和灵活的调制方案，同轴电缆供电和可选的光 GE 端口用于强雷电保护，高可用性和可靠性，支持超大帧，二层交换，自动 MDI/MDXI，VLAN，QoS，QinQ，STP/RSTP，RLS，RF 和数字环回功能，数字预失真功能，ATPC 和内置 FEC 功能，内置误码率（BER）监测，外形小巧美观，低延迟和低功耗，宽工作温度范围适合各种天气条件，本地管理能力以及 SNMP，零中频设计便于制造。适用于蜂窝回程、ISP 回程、宽带接入等应用场景。|

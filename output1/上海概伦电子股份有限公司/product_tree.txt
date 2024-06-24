@@ -1,0 +1,235 @@
+-> root https://primarius-tech.com
+  -> 概伦电子-产品与技术 https://www.primarius-tech.com/products
+    -> SPICE 模型 
+    -> PDK 
+    -> 标准单元库 
+    -> 电路设计平台 
+    -> 电路仿真 
+    -> 电路分析 
+    -> 数字仿真 
+    -> SoC 设计与验证 
+    -> 参数化测试 
+    -> 噪声测试 
+    -> 综合量测 
+    -> 晶圆测试 
+    -> SPICE 建模 
+    -> 测试芯片设计 
+    -> 新器件 
+    -> PDK 开发 
+    -> IP 开发 
+  -> 概伦电子-制造类EDA https://www.primarius-tech.com/products/manufacturing_eda.html
+    -> 基带建模 
+    -> 射频建模 
+    -> 自动化提取 
+    -> 验证评估 
+    -> PCell 开发 
+    -> PDK 验证 
+    -> 标准单元库特征化 
+    -> 标准单元库验证 
+  -> 概伦电子-泛模拟设计类EDA https://www.primarius-tech.com/products/analog_design_eda.html
+    -> SPICE 仿真器 
+    -> SPICE 仿真器 
+    -> SPICE 仿真器 
+    -> FastSPICE 仿真器 
+    -> FastSPICE 仿真器 
+    -> 混合信号仿真 
+    -> 波形查看分析 
+    -> 一站式技术开发 
+    -> 一站式技术开发 
+    -> 一站式技术开发 
+    -> 一站式技术开发 
+    -> 一站式技术开发 
+    -> 一站式技术开发 
+  -> 概伦电子-数字设计类EDA https://www.primarius-tech.com/products/digital_design_eda.html
+    -> 数字设计类 EDA 
+    -> 数字设计类 EDA 
+    -> 数字设计类 EDA 
+    -> 数字设计类 EDA 
+    -> 数字设计类 EDA 
+    -> 数字设计类 EDA 
+    -> 数字设计类 EDA 
+    -> 数字设计类 EDA 
+    -> 数字设计类 EDA 
+  -> 概伦电子-测试系统 https://www.primarius-tech.com/products/data_test_system.html
+    -> 半导体参数测试系统 
+    -> 传感微结构参数测试仪 
+    -> 低频噪声测试系统 
+    -> 紧凑型低频噪声测试系统 
+    -> 先进低频噪声测试系统 
+    -> 晶圆级全自动量测解决方案 
+  -> 概伦电子-一站式技术开发 https://www.primarius-tech.com/products/engineering_service.html
+  -> 概伦电子-BSIMProPlus https://www.primarius-tech.com/products/manufacturing_eda/BSIMProPlus.html
+  -> 概伦电子-MeQLab https://www.primarius-tech.com/products/manufacturing_eda/MeQLab.html
+  -> 概伦电子-SDEP https://www.primarius-tech.com/products/manufacturing_eda/SDEP.html
+  -> 概伦电子-ME-Pro https://www.primarius-tech.com/products/manufacturing_eda/ME-Pro.html
+  -> 概伦电子-PCellLab https://www.primarius-tech.com/products/manufacturing_eda/PCellLab.html
+  -> 概伦电子-PQLab https://www.primarius-tech.com/products/manufacturing_eda/PQLab.html
+  -> 概伦电子-NanoCell https://www.primarius-tech.com/products/manufacturing_eda/NanoCell.html
+  -> 概伦电子-LibWiz https://www.primarius-tech.com/products/manufacturing_eda/LibWiz.html
+  -> 概伦电子-NanoDesignerSE https://www.primarius-tech.com/products/analog_design_eda/NanoDesigner-SE.html
+  -> 概伦电子-NanoDesignerLS https://www.primarius-tech.com/products/analog_design_eda/NanoDesigner-LS.html
+  -> 概伦电子-NanoDesigneriV https://www.primarius-tech.com/products/analog_design_eda/NanoDesigner-iV.html
+  -> 概伦电子-NanoDesignerOpt https://www.primarius-tech.com/products/analog_design_eda/NanoDesigner-Optimizer.html
+  -> 概伦电子-NanoSpice https://www.primarius-tech.com/products/analog_design_eda/NanoSpice.html
+  -> 概伦电子-NanoSpiceX https://www.primarius-tech.com/products/analog_design_eda/NanoSpice-X-CN.html
+  -> 概伦电子-NanoSpiceGiga https://www.primarius-tech.com/products/analog_design_eda/NanoSpice-Giga.html
+  -> 概伦电子-NanoSpicePro https://www.primarius-tech.com/products/analog_design_eda/NanoSpice-Pro.html
+  -> 概伦电子-NanoSpiceProX https://www.primarius-tech.com/products/analog_design_eda/NanoSpice-Pro-X-CN.html
+  -> 概伦电子-NanoSpiceMS https://www.primarius-tech.com/products/analog_design_eda/NanoSpice-MS.html
+  -> 概伦电子-NanoWave https://www.primarius-tech.com/products/analog_design_eda/NanoWave.html
+  -> 概伦电子-NanoSpiceCCK https://www.primarius-tech.com/products/analog_design_eda/NanoSpice-CCK.html
+  -> 概伦电子-NanoYield https://www.primarius-tech.com/products/analog_design_eda/NanoYield.html
+  -> 概伦电子-NanoSpiceSI https://www.primarius-tech.com/products/analog_design_eda/NanoSpice-SI-CN.html
+  -> 概伦电子-PathInspector https://www.primarius-tech.com/products/analog_design_eda/PathInspector.html
+  -> 概伦电子-PTM https://www.primarius-tech.com/products/analog_design_eda/PTM.html
+  -> 概伦电子-RNi https://www.primarius-tech.com/products/analog_design_eda/RNi.html
+  -> 概伦电子-ESDi https://www.primarius-tech.com/products/analog_design_eda/ESDi.html
+  -> 概伦电子-VeriSim https://www.primarius-tech.com/products/digital_design_eda/VeriSim.html
+  -> 概伦电子-LibWiz_1 https://www.primarius-tech.com/products/digital_design_eda/LibWiz1.html
+  -> 概伦电子-TRASTA https://www.primarius-tech.com/products/digital_design_eda/TRASTA.html
+  -> 概伦电子-NavisPro https://www.primarius-tech.com/products/digital_design_eda/NavisPro.html
+  -> 概伦电子-NanoSpiceSI_1 https://www.primarius-tech.com/products/digital_design_eda/NanoSpice-SI.html
+  -> 概伦电子-PadInspector https://www.primarius-tech.com/products/digital_design_eda/PadInspector.html
+  -> 概伦电子-FS-Pro https://www.primarius-tech.com/products/data_test_system/FS-Pro.html
+  -> 概伦电子-FS-MEMS https://www.primarius-tech.com/products/data_test_system/FS-MEMS.html
+  -> 概伦电子-9812DX https://www.primarius-tech.com/products/data_test_system/9812DX.html
+  -> 概伦电子-9812E https://www.primarius-tech.com/products/data_test_system/9812E.html
+  -> 概伦电子-9813DXC https://www.primarius-tech.com/products/data_test_system/9813DXC.html
+  -> 概伦电子-9812AC https://www.primarius-tech.com/products/data_test_system/9812AC.html
+  -> 概伦电子-ATS https://www.primarius-tech.com/products/data_test_system/ATS-new.html
+  -> 概伦电子-数据测试与分析 https://www.primarius-tech.com/products/engineering_service/shu-ju-shou-ji-yu-te-zheng-fen-xi.html
+  -> 概伦电子-模型提取与验证 https://www.primarius-tech.com/products/engineering_service/mo-xing-ti-qu-yu-yan-zheng.html
+    -> 模型提取与验证 
+  -> 概伦电子-测试结构设计与版图实现 https://www.primarius-tech.com/products/engineering_service/ce-shi-jie-gou-she-ji-yu-ban-tu-shi-xian.html
+  -> 概伦电子-新器件解决方案 https://www.primarius-tech.com/products/engineering_service/xin-qi-jian-jie-jue-fang-an.html
+  -> 概伦电子-PDK开发与验证 https://www.primarius-tech.com/products/engineering_service/PDK-kai-fa-yu-yan-zheng.html
+    -> PDK 开发与验证 
+  -> 概伦电子-一站式IP开发 https://www.primarius-tech.com/products/engineering_service/yi-zhan-shi-IP-kai-fa.html
+    -> 一站式 IP 开发 
+  -> PRIMARIUS-Products https://www.primarius-tech.com/en/products
+    -> Fab EDA 
+    -> AMS Design EDA 
+    -> Digital Design EDA 
+    -> Testing Systems 
+    -> Design Enablement Services 
+  -> PRIMARIUS-FabEDA https://www.primarius-tech.com/en/products/manufacturing_eda.html
+  -> PRIMARIUS-AMSDesignE https://www.primarius-tech.com/en/products/analog_design_eda.html
+    -> SPICE Model 
+    -> Baseband Modeling 
+    -> RF Modeling 
+    -> Model Extraction Automation 
+    -> Model QA 
+    -> PCell Development 
+    -> PDK Verification 
+    -> Standard Cell 
+    -> Library Characterization 
+    -> Library Validation 
+    -> Design Environment 
+    -> Schematic Capture 
+    -> Layout Editor 
+    -> Interactive Physical Verification 
+    -> Design Optimization 
+    -> Circuit Simulation 
+    -> SPICE Simulator 
+    -> SPICE Simulator 
+    -> SPICE Simulator 
+    -> FastSPICE Simulator 
+    -> FastSPICE Simulator 
+    -> Mixed Signal 
+    -> Waveform Analysis 
+    -> Circuit Analysis 
+    -> Yield Analysis 
+    -> Signal Integrity 
+    -> Critical Path Analysis 
+    -> Power Device Design Verification 
+    -> ESD Verification 
+  -> PRIMARIUS-DigitalDes https://www.primarius-tech.com/en/products/digital_design_eda.html
+    -> ESDi 
+  -> PRIMARIUS-TestingSys https://www.primarius-tech.com/en/products/data_test_system.html
+    -> FS-Pro 参数分析仪 
+    -> 9812DX 低频噪声测试系统 
+    -> 9812E 低频噪声测试系统 
+    -> 9813DXC 低频噪声测试系统 
+  -> PRIMARIUS-DesignEnab https://www.primarius-tech.com/en/products/engineering_service.html
+    -> Digital Simulation 
+    -> Design & Verification 
+    -> Timing Analysis 
+    -> Floor Planning 
+    -> Signal Integrity Analysis 
+    -> Power Design Analysis 
+    -> Chip-to-Package Connectivity Verification 
+    -> Parametric Testing 
+    -> Semiconductor Parametric Analyzer 
+    -> Noise Measurement 
+    -> Low Frequency Noise 
+    -> Low Frequency Noise 
+    -> Low Frequency Noise 
+    -> AC Dynamic Noise 
+    -> Wafer Testing 
+    -> Data Acquisition & Characterization 
+    -> SPICE Modeling 
+    -> Model Extraction & QA 
+    -> Testchip Design 
+    -> Testkey Design & Layout 
+    -> New Device 
+    -> PDK Development 
+    -> Development & Verification 
+    -> IP Development 
+    -> Characterization & Development 
+  -> PRIMARIUS-BSIMProPlu https://www.primarius-tech.com/en/products/manufacturing_eda/BSIMProPlusen.html
+  -> PRIMARIUS-MeQLab https://www.primarius-tech.com/en/products/manufacturing_eda/MeQLaben.html
+  -> PRIMARIUS-SDEP https://www.primarius-tech.com/en/products/manufacturing_eda/SDEPen.html
+  -> PRIMARIUS-ME-Pro https://www.primarius-tech.com/en/products/manufacturing_eda/ME-Proen.html
+  -> PRIMARIUS-PCellLab https://www.primarius-tech.com/en/products/manufacturing_eda/PCellLaben.html
+  -> PRIMARIUS-PQLab https://www.primarius-tech.com/en/products/manufacturing_eda/PQLaben.html
+  -> PRIMARIUS-NanoCell https://www.primarius-tech.com/en/products/manufacturing_eda/NanoCellen.html
+  -> PRIMARIUS-LibWiz https://www.primarius-tech.com/en/products/manufacturing_eda/LibWizen.html
+  -> PRIMARIUS-NanoDesign https://www.primarius-tech.com/en/products/analog_design_eda/NanoDesigner-SEen.html
+  -> PRIMARIUS-NanoDesign_1 https://www.primarius-tech.com/en/products/analog_design_eda/NanoDesigner-LSen.html
+  -> PRIMARIUS-NanoDesign_2 https://www.primarius-tech.com/en/products/analog_design_eda/NanoDesigner-iVen.html
+  -> PRIMARIUS-NanoDesign_3 https://www.primarius-tech.com/en/products/analog_design_eda/NanoDesigner-Optimizeren.html
+  -> PRIMARIUS-NanoSpice https://www.primarius-tech.com/en/products/analog_design_eda/NanoSpiceen.html
+  -> PRIMARIUS-NanoSpiceX https://www.primarius-tech.com/en/products/analog_design_eda/NanoSpice-X-EN.html
+  -> PRIMARIUS-NanoSpiceG https://www.primarius-tech.com/en/products/analog_design_eda/NanoSpice-Gigaen.html
+  -> PRIMARIUS-NanoSpiceP https://www.primarius-tech.com/en/products/analog_design_eda/NanoSpice-Proen.html
+  -> PRIMARIUS-NanoSpiceP_1 https://www.primarius-tech.com/en/products/analog_design_eda/NanoSpice-Pro-X-EN.html
+  -> PRIMARIUS-NanoSpiceM https://www.primarius-tech.com/en/products/analog_design_eda/NanoSpice-MSen.html
+  -> PRIMARIUS-NanoWave https://www.primarius-tech.com/en/products/analog_design_eda/NanoWaveen.html
+  -> PRIMARIUS-NanoYield https://www.primarius-tech.com/en/products/analog_design_eda/NanoYielden.html
+  -> PRIMARIUS-NanoSpiceS https://www.primarius-tech.com/en/products/analog_design_eda/NanoSpice-SI-EN.html
+  -> PRIMARIUS-PathInspec https://www.primarius-tech.com/en/products/analog_design_eda/PathInspectoren.html
+  -> PRIMARIUS-PTM https://www.primarius-tech.com/en/products/analog_design_eda/PTM-EN.html
+  -> PRIMARIUS-ESDi https://www.primarius-tech.com/en/products/analog_design_eda/ESDi-EN.html
+  -> PRIMARIUS-VeriSim https://www.primarius-tech.com/en/products/digital_design_eda/VeriSim-EN.html
+  -> PRIMARIUS-NanoCell_1 https://www.primarius-tech.com/en/products/digital_design_eda/NanoCellenen.html
+  -> PRIMARIUS-LibWiz_1 https://www.primarius-tech.com/en/products/digital_design_eda/LibWizenen.html
+  -> PRIMARIUS-TRASTA https://www.primarius-tech.com/en/products/digital_design_eda/TRASTAen.html
+  -> PRIMARIUS-NavisPro https://www.primarius-tech.com/en/products/digital_design_eda/NavisProen.html
+  -> PRIMARIUS-NanoSpiceS_1 https://www.primarius-tech.com/en/products/digital_design_eda/NanoSpice-SIen.html
+  -> PRIMARIUS-PTM_1 https://www.primarius-tech.com/en/products/digital_design_eda/PTMen.html
+  -> PRIMARIUS-ESDi_1 https://www.primarius-tech.com/en/products/digital_design_eda/ESDien.html
+  -> PRIMARIUS-PadInspect https://www.primarius-tech.com/en/products/digital_design_eda/PadInspectoren.html
+  -> PRIMARIUS-FS-Pro https://www.primarius-tech.com/en/products/data_test_system/FS-Proen.html
+  -> PRIMARIUS-9812DX https://www.primarius-tech.com/en/products/data_test_system/9812DXen.html
+  -> PRIMARIUS-9812E https://www.primarius-tech.com/en/products/data_test_system/9812Een.html
+  -> PRIMARIUS-9813DXC https://www.primarius-tech.com/en/products/data_test_system/9813DXCen.html
+  -> PRIMARIUS-9812AC https://www.primarius-tech.com/en/products/data_test_system/9812ACen.html
+  -> PRIMARIUS-DataAcquis https://www.primarius-tech.com/en/products/engineering_service/Data-Testingen.html
+  -> PRIMARIUS-ModelExtra https://www.primarius-tech.com/en/products/engineering_service/SPICE-Modelingen.html
+    -> 9812DX 
+    -> 9813DXC 
+    -> 9812AC 
+  -> PRIMARIUS-TestkeyDes https://www.primarius-tech.com/en/products/engineering_service/Testkey-Design-Layout.html
+  -> PRIMARIUS-NewDeviceS https://www.primarius-tech.com/en/products/engineering_service/New-Deviceen.html
+  -> PRIMARIUS-Developmen https://www.primarius-tech.com/en/products/engineering_service/PDK.html
+  -> PRIMARIUS-Characteri https://www.primarius-tech.com/en/products/engineering_service/Standard-Cell-Library-IP-Cores.html
+    -> Data Testing 
+    -> Testkey & Layout 
+    -> ESDi™ 
+    -> PTM™ 
+    -> 芯片级 HBM 静电防护分析平台 
+    -> 功率器件及电源芯片设计分析验证工具 
+  -> 概伦电子-助力中国芯！概伦电子荣膺“中国 https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html
+  -> 概伦电子-校园招聘 https://www.primarius-tech.com/training/list.html?cid=3&id=29&ind=3
+  -> 概伦电子-社会招聘 https://www.primarius-tech.com/training/list.html?cid=4&id=5&ind=1
+  -> 概伦电子-社会招聘_1 https://www.primarius-tech.com/training/list.html?cid=4&id=6&ind=2

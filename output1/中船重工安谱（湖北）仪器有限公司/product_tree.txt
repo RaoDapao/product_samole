@@ -1,0 +1,37 @@
+-> root http://www.710ap-instrument.com
+  -> 首页 
+    -> 产品列表 http://www.710ap-instrument.com/cplb.html
+      -> 手持式化学毒剂检测仪 
+      -> 便携式有毒有害物质检测仪 
+      -> 核生化一体报警器 
+      -> 无人值守核化监测报警器 
+      -> 火焰光度化学毒剂侦检仪 
+      -> 车载被动傅里叶红外遥感分析仪 
+      -> 高灵敏快速气相色谱分析仪 
+      -> 生物有害因子多联高效检测仪 
+      -> 区域伽马探测器 
+    -> 产品中心 
+      -> 电子个人剂量计 http://www.710ap-instrument.com/productMechanies/14.html
+      -> 手持式化学毒剂检测仪 http://www.710ap-instrument.com/productMechanies/26.html
+      -> 大气&水质监测 
+        -> 通用被动傅里叶红外遥感分析仪 http://www.710ap-instrument.com/productMechanies/25.html
+        -> 水质自动采样器 http://www.710ap-instrument.com/productMechanies/67.html
+        -> CODCr在线分析仪 http://www.710ap-instrument.com/productMechanies/66.html
+        -> 氨氮在线分析仪 http://www.710ap-instrument.com/productMechanies/65.html
+        -> 一氧化碳分析仪 http://www.710ap-instrument.com/productMechanies/71.html
+        -> C919飞机座舱引气发动机排气污染检测仪 http://www.710ap-instrument.com/productMechanies/63.html
+        -> 多组分空气质量检测仪 http://www.710ap-instrument.com/productMechanies/62.html
+        -> 激光H2S气体分析仪 http://www.710ap-instrument.com/productMechanies/61.html
+        -> 轻量化傅里叶红外毒害气体分析仪 http://www.710ap-instrument.com/productMechanies/60.html
+      -> 核生化毒爆检测 
+        -> 手持式荧光爆炸物探测仪 http://www.710ap-instrument.com/productMechanies/3.html
+        -> 便携式毒品爆炸物检测仪 http://www.710ap-instrument.com/productMechanies/2.html
+        -> 无人值守核化监测报警器 http://www.710ap-instrument.com/productMechanies/39.html
+        -> 高灵敏快速气相色谱分析仪 http://www.710ap-instrument.com/productMechanies/72.html
+      -> 便携式有毒有害物质检测仪 http://www.710ap-instrument.com/productMechanies/38.html
+      -> 核生化一体报警器 http://www.710ap-instrument.com/productMechanies/40.html
+      -> 火焰光度化学毒剂侦检仪 http://www.710ap-instrument.com/productMechanies/41.html
+      -> 车载被动傅里叶红外遥感分析仪 http://www.710ap-instrument.com/productMechanies/42.html
+      -> 生物有害因子多联高效检测仪 http://www.710ap-instrument.com/productMechanies/43.html
+      -> 区域伽马探测器 http://www.710ap-instrument.com/productMechanies/44.html
+      -> 水质在线浊度分析仪 http://www.710ap-instrument.com/productMechanies/64.html

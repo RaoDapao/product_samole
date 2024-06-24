@@ -1,0 +1,8 @@
+产品网址：https://www.originsilicon.com/productinfo/2482666.html
+产品结构：root->电源管理芯片-南宁初芯集成电路设计有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|电源管理芯片|CX8501|12 通道 TFT LCD Level shifter 芯片，输入电压范围 2.6V~5.5V，通道数 12 路，VGH 为 7V~45V，VGL 为-15V~0V，具有 UVLO/TOP/OCP 保护功能，封装为 TQFN32，应用于 GOA TFT 面板|
+|电源管理芯片|CX8502|16 通道 TFT LCD Level shifter 芯片，输入电压范围 2.6V~5.5V，通道数 16 路，VGH 为 15V~45V，VGL 为-20V~-3V，具有 UVLO/TOP/OCP 保护功能，封装为 QFN32，应用于 GOA TFT 面板|
+|电源管理芯片|CX8805|PMIC+10CH PGAMMA 芯片，输入电压范围 8V~14V，AVDD 输出电压范围 13.5V~19.8V，VGH 为 20V~45V，VGL 为-14.7V~-2.1V，PGAMMA 为 10 通道，具有 UVLO/OCP/SCP/OVP/UVP/OTP 保护功能，封装为 TQFN40，应用于 TV/MNT 面板|

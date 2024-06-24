@@ -1,0 +1,22 @@
+产品网址：https://www.njsme.com/?aPRODUCTSPRODUCTSBHalfBridge/107.html
+产品结构：root->MOSFETHalfBridge-150V-HalfBridge-南京银茂微电子制造有限公司-
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|MOSFET Half Bridge|150V|无|
+
+VDSS=150V,VDSS=150V.1,VDSS=150V.2,VDSS=150V.3,VDSS=150V.4,VDSS=150V.5
+Part Number,Voltage(V),Current(A),RDS(on)@10V,Comments,Links
+MM340HF15B1H,150,340,3.30mΩ,,
+MM500HF15B1H,150,500,2.00mΩ,,
+MM680HF15B1H,150,680,1.60mΩ,,
+MM850HF15B1H,150,850,0.90mΩ,,
+,,,,,
+,,,,,
+VDSS=150V,VDSS=150V,VDSS=150V,VDSS=150V,VDSS=150V,VDSS=150V
+Part Number,Voltage(V),Current(A),RDS(on)@10V,Comments,Links
+MM340HF15T2NH,150,340,3.30mΩ,,
+MM500HF15T2NH,150,500,2.00mΩ,,
+MM680HF15T2NH,150,680,1.60mΩ,,
+MM850HF15T2NH,150,850,0.90mΩ,,
+,,,,,

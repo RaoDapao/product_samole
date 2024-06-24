@@ -1,0 +1,6 @@
+产品网址：https://www.aisinochip.com/index.php/product/detail/id/29.html
+产品结构：当前位置:首页->通用MCU->ACM32F0x0->ACM32F070KBU7*
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|通用 MCU|ACM32F070KBU7*|内核处理器为 32 位 ARM Cortex-M0，最高主频 64MHz，24 位的 SysTick；存储器包括 12KB ROM、多达 32KB SRAM（支持硬件奇偶校验）、多达 128KB eFlash（加密存储）；时钟包括内部 64MHz RC 振荡器、内部 32KHz RC 振荡器、4~32MHz 外部晶体振荡器、32.768KHz 外部晶体振荡器、内置 PLL；算法包括对称算法 AES-128/-192/-256、随机数 TRNG（符合 FIPS140-2 要求）、CRC-7/-8/-16/-32（特征多项式可配）；外围逻辑包括多达 56 个 GPIO（含复用）、3 路串口（支持 LIN 协议）、2 路 SPI 接口（支持主/从模式，支持 Mode0/1/2/3 传输协议，支持 1/2/4 线传输）、2 路 I2C 接口（可选择主/从模式，支持 Standard/Fast/Fast-Plus 三种速率模式，支持 SMBUS）、1 路低功耗 UART（支持 STOP 模式唤醒功能）、7 个定时器（1 个 16 位高级定时器，支持输入捕获/输出比较，支持 PWM 输出/互补输出/死区插入/刹车/编码模式；5 个 16 位通用定时器，支持 PWM 输出；1 个 16 位基本定时器）、RTC（带日历功能，支持时钟补偿校准，支持 ALARM 功能，支持 Tamper 检测功能）、1 个系统 WDT、1 个独立 WDT、1 路 12bitsADC（速率 1.6Msps）、2 路比较器（带窗口功能）、多达 3 路运算放大器、支持低电压检测（可配置 8 阶比较电平）、支持多达 16 个自电容按键、多达 8COM*36SEG 或 4COM*40SEG 的 LCD 接口、1 路 CAN 接口；电气参数包括 ESD 保护 4KV（HBM）、工作电压（IO 电压）1.70V~3.60V、功耗（典型工作电流 5mA@64MHz，STOP 模式电流<10.5μa，STANDBY 模式电流<1μa）；封装形式包括 TSSOP28/LQFP32/QFN32/LQFP48/LQFP64；开发支持包括 Boot 支持 UART/SPI/I2C 下载、SWD 调试接口（DAP/J-LINK/ULINK2/STLINK）、开发板/Release 开发包、SWD 离线下载器、ARM Keil MDK（5.0 版本以上）|

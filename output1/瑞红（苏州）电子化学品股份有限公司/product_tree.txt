@@ -1,0 +1,5 @@
+-> root http://www.szruihong.com
+  -> 正性光刻胶-产品中心-瑞红（苏州）电子化 http://www.szruihong.com/gkj.html
+  -> 正胶配套试剂-产品中心-瑞红（苏州）电子 http://www.szruihong.com/fgkj.html
+  -> 负性光刻胶-产品中心-瑞红（苏州）电子化 http://www.szruihong.com/sj.html
+  -> 负胶配套试剂-产品中心-瑞红（苏州）电子 http://www.szruihong.com/dccl.html

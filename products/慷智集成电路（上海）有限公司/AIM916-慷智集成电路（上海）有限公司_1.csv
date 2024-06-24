@@ -1,0 +1,6 @@
+产品网址：https://en.aimicron.com/Products/2
+产品结构：root->AIM916-慷智集成电路（上海）有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|INTELLIGENT AUTOMOTIVE HIGH-DEFINITION AUDIO AND VIDEO TRANSMISSION SERDES CHIPSETS|AIM916|AHDL 单通道串行输入转换为 4 通道 LVDS 数据+1 个时钟通道视频输出；支持最快 85MHz 的像素时钟，720P RGB888；通过单根同轴电缆或屏蔽双绞线（STP）进行高速视频传输和双向控制数据；接收器上的 CDR 无需外部参考时钟源；强大的 EMI/EMC 耐受性和最小功耗；多个 EQ 能够进行长距离传输；单 3.3V 电源，IO 支持 1.8V 和 3.3V；内置系统诊断的自检（BIST）；AEC-Q100 2 级合格；48 引脚（7mm*7mm）QFN 封装|

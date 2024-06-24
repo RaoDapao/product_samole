@@ -1,0 +1,87 @@
+产品网址：https://www.awinic.com/en/findProductsByCompetitor#
+产品结构：root->Awinic
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Auto K|Digital smart K auto|无|
+|Auto K|Medium power K|无|
+|Auto K|Digital smart K plus|无|
+|Auto K|Smart K plus|无|
+|Auto K|Smart K|无|
+|Auto K|Class AB|无|
+|Auto K|Class D|无|
+|Auto K|Class K|无|
+|Auto K|Digital smart K|无|
+|Haptic drivers|Boost haptic|无|
+|Haptic drivers|Charge pump haptic|无|
+|Haptic drivers|VBAT haptic|无|
+|DC motor drivers|无|无|
+|BDC motor drivers|无|无|
+|Stepper motor drivers|无|无|
+|Camera AF & OIS|Close loop drivers|无|
+|Camera AF & OIS|Open loop drivers|无|
+|Camera AF & OIS|OIS drivers|无|
+|OCP|Low voltage OCP|无|
+|OCP|High voltage OCP|无|
+|Breathing LED drivers|Direct breathing LED drivers|无|
+|Breathing LED drivers|Matrix breathing LED drivers|无|
+|Flash/IR LED drivers|Inductorless flash/IR LED drivers|无|
+|Flash/IR LED drivers|Charge pump flash/IR LED drivers|无|
+|Flash/IR LED drivers|ToF LD drivers|无|
+|Flash/IR LED drivers|Boost flash/IR LED drivers|无|
+|Flash/IR LED drivers|Buck flash/IR LED drivers|无|
+|Backlight LED drivers|Series backlight LED drivers|无|
+|Backlight LED drivers|Parallel backlight LED drivers|无|
+|Display power ICs|LCD bias|无|
+|Display power ICs|OLED power|无|
+|OVP|OVP with surge protection|无|
+|OVP|Back to back OVP|无|
+|DC/DC converters|Boost|无|
+|DC/DC converters|Buck|无|
+|DC/DC converters|Buck-Boost|无|
+|LDO regulators|Low Vɪɴ LDO|无|
+|Chargers|Switching Chargers|无|
+|Chargers|Linear chargers|无|
+|Chargers|Charger PMIC|无|
+|Chargers|Charge pump chargers|无|
+|Power switches|Multi-Channel load switches|无|
+|Power switches|Single-Channel load switches|无|
+|USB Type-C & PD|USB Type-C protection|无|
+|USB Type-C & PD|USB 3.1 switches|无|
+|USB Type-C & PD|USB 2.0 switches|无|
+|USB Type-C & PD|PD Phy|无|
+|USB Type-C & PD|CC Logic|无|
+|MOSFET|MOSFET|无|
+|MIPI switches|MIPI switches|无|
+|Vref & Reset Ics|Reset ICs|无|
+|Comparators|High voltage comparators|无|
+|Comparators|High speed comparators|无|
+|Analog switches|Analog switches|无|
+|Amplifiers|General-purpose op amps|无|
+|Amplifiers|High precision op amps|无|
+|Interfaces|I²C level shifters & buffers|无|
+|Interfaces|I²C GPIO expanders|无|
+|Interfaces|I²C switches & multiplexers|无|
+|Interfaces|Logic & voltage translators|Voltage level translators|无|
+|Interfaces|Logic gates|无|
+|Cellular LNA|LNA bank|无|
+|Cellular LNA|LTE LNA|无|
+|WCN LNA|Bluetooth/BLE LNA|无|
+|WCN LNA|GNSS LNA|无|
+|WCN LNA|FM LNA|无|
+|RF switches|WiFi switches|无|
+|RF switches|UWB switches|无|
+|RF switches|Sub-7GHz RF switches|无|
+|RF switches|Sub-4GHz RF switches|无|
+|RF switches|Tuning switches|SPxT tuning switches|无|
+|RF switches|Tuning switches|x-SPST tuning switches|无|
+|Hall|Linear Hall sensors|无|
+|Hall|Hall latches|无|
+|Hall|Hall switches|无|
+|Capacitive sensor controllers|Cap AFE|无|
+|Capacitive sensor controllers|Cap SoC|无|
+|SAR sensors|SAR sensors|无|
+|Force sensor controllers|Force AFE|无|
+|Force sensor controllers|Force SoC|无|
+
+

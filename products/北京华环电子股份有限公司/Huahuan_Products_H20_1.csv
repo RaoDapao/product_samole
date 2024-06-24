@@ -1,0 +1,14 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=54&ncid=55&deid=84
+产品结构：root->Huahuan_Products_H20RN-2000IP/MPLS/IPRANAggregation
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|IP/MPLS/IPRAN Aggregation|H20RN-2000|提供强大的容量、高密度端口和多种端口，支持 GE/FE/STM-1/STM-4/E1 端口，适用于提供商的 IP/MPLS 传输网络边缘，可提供端到端的可用性、可靠性和 QoS，具有管理、二层、三层、OAM、MPLS、可靠性、QoS 和同步等功能|
+
+Item,Descriptions
+Dimension,88.2mm × 442mm ×220mm(H x W x D)
+Slot Info,6
+Power Supply,"AC 220V or DC -48V,1+1 redundancy"
+Consumption,<200w  <200w
+Operation Temperature,-20  ℃  to 60  ℃
+Switching Capacity,56Gbps

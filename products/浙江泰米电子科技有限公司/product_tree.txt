@@ -1,0 +1,37 @@
+-> root https://www.zjteme.com
+  -> 产品中心_浙江泰米电子科技有限公司 https://www.zjteme.com/product
+    -> 车载无线充电模块 
+    -> 车载 USB 充电模块 
+  -> 车载无线充电模块_产品中心_浙江泰米电子 https://www.zjteme.com/product/vehicle-wireless-charging-module
+  -> 车载USB充电模块_产品中心_浙江泰米电 https://www.zjteme.com/product/car-usb-charging-module
+  -> 车载双充15W智能无线充电模块_车载无线 https://www.zjteme.com/product/vehicle-wireless-charging-module-60.html
+    -> 车载双充 15W 智能无线充电模块 
+  -> 车载15W智能无线充电模块_车载无线充电 https://www.zjteme.com/product/vehicle-wireless-charging-module-67.html
+    -> 车载 15W 智能无线充电模块 
+  -> 车载双充50W高功率无线充电模块_车载无 https://www.zjteme.com/product/vehicle-wireless-charging-module-69.html
+    -> 车载双充 50W 高功率无线充电模块 
+  -> 车载50W高功率无线充电模块_车载无线充 https://www.zjteme.com/product/vehicle-wireless-charging-module-66.html
+    -> 车载 50W 高功率无线充电模块 
+  -> 车载单口12W充电USB盒_车载USB充 https://www.zjteme.com/product/car-usb-charging-module-65.html
+    -> 车载单口 12W 充电 USB 盒 
+  -> 车载双口12W充电USB盒_车载USB充 https://www.zjteme.com/product/car-usb-charging-module-64.html
+    -> 车载双口 12W 充电 USB 盒 
+  -> 车载60W极速充电USB盒_车载USB充 https://www.zjteme.com/product/car-usb-charging-module-61.html
+    -> 车载 60W 极速充电 USB 盒 
+  -> 车载高速数据传输60W极速充电USB盒_ https://www.zjteme.com/product/car-usb-charging-module-57.html
+    -> 车载高速数据传输 60W 极速充电 USB 盒 
+  -> 车载高速数据传输18W充电USB盒_车载 https://www.zjteme.com/product/car-usb-charging-module-59.html
+    -> 车载高速数据传输 18W 充电 USB 盒 
+  -> 车载18W充电USB盒_车载USB充电模 https://www.zjteme.com/product/car-usb-charging-module-58.html
+    -> 车载 18W 充电 USB 盒 
+  -> Products__ZhejiangTe https://www.zjteme.com/en/product
+    -> Wireless Charging Module 
+    -> USB Charging Module 
+  -> WirelessChargingModu https://www.zjteme.com/en/product/vehicle-wireless-charging-module
+  -> USBChargingModule_Pr https://www.zjteme.com/en/product/car-usb-charging-module
+    -> Car 12W single-port charging USB box 
+    -> Car 12W dual-port charging USB box 
+    -> Car 60W fast charging USB box 
+    -> Car 60W high-speed data transmission, fast charging USB box 
+    -> Car 18W high-speed data transmission charging USB box 
+    -> Car 18W charging USB box 

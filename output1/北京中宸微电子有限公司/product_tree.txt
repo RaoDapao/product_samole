@@ -1,0 +1,92 @@
+-> root http://zc-power.com
+  -> 产品解决方案>技术功能及优势_北京中宸微 http://zc-power.com/a/chanpinjiejuefangan/jishugongnenjiyoushi/index.html
+    -> 载波通信 
+    -> 智能终端 
+    -> 采集指标提升 
+    -> 物联网锁 
+    -> 伺服电机 
+  -> 产品解决方案-产品解决方案-载波通信_北 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/zaiboton/index.html
+    -> 高速载波（HPLC）通信芯片 
+    -> 单、三相高速载波（HPLC）模块 
+    -> 集中器本地高速载波（HPLC）模块 
+    -> HPLC 双模 高速载波（HPLC）+微功率无线双模技术 
+    -> 单、三相高速载波（HPLC）双模模块 
+    -> 集中器本地高速载波（HPLC）双模模块 
+    -> 停复电上报技术及产品 
+    -> 双模通信芯片 
+    -> 单、三相双模模块 
+    -> 集中器本地双模模块 
+    -> 载波通信芯片 
+    -> 单、三相载波模块 
+    -> 集中器本地通信模块 
+    -> 载波高速通信芯片 
+  -> 产品解决方案-产品解决方案-智能终端_北 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/znzd/index.html
+    -> 国网集中器 I 型 
+    -> 国网采集器 I 型 
+    -> 国网采集器 II 型 
+    -> 国网专变采集终端 III 型 
+    -> 南网集中器 I 型 
+    -> 南网采集器 
+    -> 配变监测计量终端 
+    -> 负荷管理终端 
+    -> 多表合一简介 
+    -> 厂站智能电能量采集终端（壁挂式） 
+    -> 厂站智能电能量采集终端（机架式） 
+    -> HPLC II 型采集器 双模 II 型采集器 
+  -> 产品解决方案-产品解决方案-采集指标提升 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/cjzbts/index.html
+    -> 宽带汇聚终端 
+    -> 中压载波 
+    -> 远程通信中继器 
+    -> 集中器 4G 远程通信模块 
+    -> 多功能型掌机 
+  -> 产品解决方案-产品解决方案-物联网锁_北 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/wlwlock/index.html
+  -> 产品解决方案-产品解决方案-伺服电机_北 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/sfdj/index.html
+  -> ZC3750-ZC3951高速载波（HP http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/zaiboton/2021/0308/197.html
+  -> 单、三相高速载波（HPLC）模块_北京中 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/zaiboton/2021/0308/217.html
+  -> 集中器本地高速载波（HPLC）模块_北京 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/zaiboton/2021/0308/218.html
+  -> HPLC双模高速载波（HPLC）+微功率 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/zaiboton/2021/0308/219.html
+  -> 单、三相高速载波（HPLC）双模模块_北 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/zaiboton/2021/0308/220.html
+  -> 集中器本地高速载波（HPLC）双模模块_ http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/zaiboton/2021/0308/221.html
+  -> 停复电上报技术及产品_北京中宸微电子有限 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/zaiboton/2021/0308/222.html
+  -> ZC9230B-ZC9231B双模通信芯 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/zaiboton/2021/0308/223.html
+  -> 单、三相双模模块_北京中宸微电子有限公司 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/zaiboton/2021/0308/224.html
+  -> 集中器本地双模模块_北京中宸微电子有限公 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/zaiboton/2021/0308/225.html
+  -> ZC1780-ZC1781载波通信芯片_ http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/zaiboton/2021/0308/226.html
+  -> 单、三相载波模块_北京中宸微电子有限公司 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/zaiboton/2021/0308/227.html
+  -> 集中器本地通信模块_北京中宸微电子有限公 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/zaiboton/2021/0308/228.html
+  -> ZC7530-ZC7630载波高速通信芯 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/zaiboton/2021/0308/229.html
+  -> Product-Product-Carr http://zc-power.com/a/chanpinjiejuefangan_en/product/Carrier_communica/index.html
+    -> Carrier communication chip 
+    -> Carrier communication chip 
+    -> Single phase PLC module 
+    -> Three phases PLC module 
+    -> Router 
+  -> ZC1780Carriercommuni http://zc-power.com/a/chanpinjiejuefangan_en/product/Carrier_communica/2017/0510/167.html
+  -> ZC9230BDual-modecomm http://zc-power.com/a/chanpinjiejuefangan_en/product/Dual___mode_commu/2017/0510/172.html
+  -> ZC2750Broadbandcarri http://zc-power.com/a/chanpinjiejuefangan_en/product/Broadband_carrier/2017/0510/177.html
+  -> StateGridconcentrato http://zc-power.com/a/chanpinjiejuefangan_en/product/Communication_Ter/2017/0511/184.html
+  -> StateGridcollectorI_ http://zc-power.com/a/chanpinjiejuefangan_en/product/Communication_Ter/2017/0511/185.html
+  -> StateGridcollectorII http://zc-power.com/a/chanpinjiejuefangan_en/product/Communication_Ter/2017/0511/186.html
+  -> 产品解决方案-产品解决方案-载波通信_北_1 http://www.zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/zaiboton/index.html
+  -> 产品解决方案-产品解决方案-智能终端_北_1 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/znzd/index.html#
+  -> 国网集中器I型_北京中宸微电子有限公司官 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/znzd/2021/0308/198.html
+  -> 国网采集器I型_北京中宸微电子有限公司官 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/znzd/2021/0308/206.html
+  -> 国网采集器II型_北京中宸微电子有限公司 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/znzd/2021/0308/207.html
+  -> 国网专变采集终端III型_北京中宸微电子 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/znzd/2021/0308/208.html
+  -> 南网集中器I型_北京中宸微电子有限公司官 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/znzd/2021/0308/209.html
+  -> 南网采集器_北京中宸微电子有限公司官网 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/znzd/2021/0308/210.html
+  -> 配变监测计量终端_北京中宸微电子有限公司 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/znzd/2021/0308/211.html
+  -> 负荷管理终端_北京中宸微电子有限公司官网 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/znzd/2021/0308/212.html
+  -> 多表合一简介_北京中宸微电子有限公司官网 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/znzd/2021/0308/213.html
+  -> 厂站智能电能量采集终端（壁挂式）_北京中 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/znzd/2021/0308/214.html
+  -> 厂站智能电能量采集终端（机架式）_北京中 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/znzd/2021/0308/215.html
+  -> HPLCII型采集器双模II型采集器_北 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/znzd/2021/0308/216.html
+  -> 产品解决方案-产品解决方案-采集指标提升_1 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/cjzbts/index.html#
+  -> 宽带汇聚终端_北京中宸微电子有限公司官网 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/cjzbts/2021/0308/199.html
+  -> 中压载波_北京中宸微电子有限公司官网 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/cjzbts/2021/0308/202.html
+  -> 远程通信中继器_北京中宸微电子有限公司官 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/cjzbts/2021/0308/203.html
+  -> 集中器4G远程通信模块_北京中宸微电子有 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/cjzbts/2021/0308/204.html
+  -> 多功能型掌机_北京中宸微电子有限公司官网 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/cjzbts/2021/0308/205.html
+  -> 智能物联网锁_北京中宸微电子有限公司官网 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/wlwlock/2021/0308/200.html
+  -> 伺服电机系统_北京中宸微电子有限公司官网 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/sfdj/2021/0308/201.html
+  -> 停复电上报技术及产品_北京中宸微电子有限_1 http://zc-power.com/a/chanpinjiejuefangan/chanpinjiejuefangan/zaiboton/2021/0308/222.html#

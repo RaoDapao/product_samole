@@ -1,0 +1,5 @@
+-> root http://www.hexagonsemi.com
+    -> AR 终端图像处理芯片 
+    -> 视频处理显示控制 SoC 芯片 
+    -> ARM® Cortex®-M0+ 32 位微控制器 
+    -> 锂电池管理系统(BMS)芯片 

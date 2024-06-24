@@ -1,0 +1,34 @@
+产品网址：http://icpc.cn/cms/item/view?table=product&id=101
+产品结构：当前位置：首页->产品与服务->龙芯->模块->COMe-B6101龙芯3A3000COMExpressType6
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|龙芯模块|COMe-B6101|以龙芯 3A 多核处理器和 AMD RS780E SB710 芯片组为核心，内部集成 ATI M72-based 图像引擎，支持双屏显示，兼容 COMExpressType 6 型引脚定义，可应用于国防军工、航空航天、网络安全、能源等控制领域，最大可支持 8GB DDR3 内存，模块含有 4 个 PCI Express x1 通道，1 个 x4 通道，4 个 SerialATA 端口，4 个 USB 2.0 端口和 1 个千兆网口|
+
+
+
+
+处理器,龙芯四核处理器3A3000/龙芯四核处理器3A2000
+桥片,AMD RS780E+AMD  SB710
+内存,8GB/4GB DDR3内存颗粒
+内存,支持SPI BIOS
+规范,"COM Express ©Basic,  Pin-out Type 6 compatible"
+,PCIE Lanes 0-3：支持4x1/1x4
+,支持单通道LVDS
+,1xVGA、2xSerial ports
+,4x SATA、1x AC'97/HDA  Digital interface
+A-B Connector,4xUSB2.0、1x gigabit LAN、1xLPC  BUS
+A-B Connector,8xGPIO、1xl2C
+,IxExternal BIOS
+,IxReset Function
+,IxPower Button Support、IxPower  Good
+,4xVCC_5V_SB contacts、12xVCC_12V  contacts
+,2 x 8/1 x 16PCI Express  Graphics
+C-D Connector,x1 DVI
+C-D Connector,x4 USB3.0 Port （USB3.0及向下兼容的USB2.0在Pmon下不可用）
+,x12 VCC_12V contacts
+尺寸规格,95mm x 125mm x 2mm (H x  W x D)
+温度,"40°C下相对湿度93%,非冷凝（参照IEC60068-2-78）"
+电源,"12V,可配置AT/ATX模式"
+性能规范,"温度0至6（TC,商业级版本"
+性能规范,"温度TDB,工业级版本"

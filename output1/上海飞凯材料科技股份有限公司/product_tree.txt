@@ -1,0 +1,41 @@
+-> root http://www.yongding.com.cn
+  -> 产品中心_江苏永鼎股份有限公司 http://www.yongding.com.cn/intro/13.html
+  -> 江苏永鼎股份有限公司 http://www.yongding.com.cn/blank221113.html
+  -> 解决方案_解决方案_江苏永鼎股份有限公司 http://www.yongding.com.cn/blank221112.html?productCateId=23
+    -> 数据业务支撑平台 
+    -> 多网融合数字光纤分布系统 
+    -> 通信核心网/接入网 
+    -> 为 FTTX 布线提供线缆解决方案 
+  -> 产品认证_解决方案_江苏永鼎股份有限公司 http://www.yongding.com.cn/product/67
+  -> 首页 
+      -> 解决方案解决方案产品认证产学研规划 
+        -> 数据业务支撑平台 http://www.yongding.com.cn/product/34.html
+        -> 多网融合数字光纤分布系统 http://www.yongding.com.cn/product/33.html
+        -> 通信核心网-接入网 http://www.yongding.com.cn/product/32.html
+        -> 为FTTX布线提供线缆解决方案 http://www.yongding.com.cn/product/31.html
+      -> 综合评估低风险供应商占比 http://www.yongding.com.cn/product/276.html
+      -> 积极履行社会责任 http://www.yongding.com.cn/product/275.html
+      -> 支持通过全球行动，实现1.5℃及净零排放目标 http://www.yongding.com.cn/product/274.html
+      -> 永鼎绿色供应链节能减排 http://www.yongding.com.cn/product/273.html
+      -> 产品拆解指导说明，促进废弃光缆回收 http://www.yongding.com.cn/product/272.html
+      -> 2019电子元件百强 http://www.yongding.com.cn/product/262.html
+        -> 光缆 
+        -> 数据缆 
+        -> 同轴缆 
+        -> 市话缆 
+        -> 特种线缆 
+      -> 工信部服务型制造示范项目 http://www.yongding.com.cn/product/134.html
+      -> 永鼎董事长代表永鼎向吴江慈善总会捐款500万元 http://www.yongding.com.cn/product/62.html
+  -> 产品_产品_江苏永鼎股份有限公司 http://www.yongding.com.cn/product/28
+    -> 船用仪表及控制电缆系列 
+    -> 船用动力电缆系列 
+    -> 带状电缆系列 
+    -> 硅橡胶电缆系列 
+    -> -200℃极低温电缆系列通用结构 
+    -> 300~1000℃极高温电缆系列 
+  -> IEC60092-376船用仪表及控制电 http://www.yongding.com.cn/product/257.html
+  -> 船用动力电缆系列_江苏永鼎股份有限公司 http://www.yongding.com.cn/product/256.html
+  -> 带状电缆系列_江苏永鼎股份有限公司 http://www.yongding.com.cn/product/254.html
+  -> 硅橡胶电缆系列_江苏永鼎股份有限公司 http://www.yongding.com.cn/product/249.html
+  -> -200℃极低温电缆系列通用结构_江苏永 http://www.yongding.com.cn/product/248.html
+  -> 300~1000℃极高温电缆系列_江苏永 http://www.yongding.com.cn/product/247.html

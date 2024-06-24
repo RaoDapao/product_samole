@@ -1,0 +1,38 @@
+产品网址：https://www.zhixin-semi.com/index/index/product.html?id=5
+产品结构：root->智芯半导体科技有限公司官方网站
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|汽车级微控制器|Z20K3xx 系列|基于 ARM 高端内核的高端微控制器，主频 320MHz，提供双核至 6 核多种选择，满足 ASIL-B/D，适用于域控制器、区域控制器、动力总成、底盘与安全类的各种应用|
+
+Software Name,Version
+SDK,计划中
+AUTOSAR MCAL,计划中
+Example code,计划中
+FreeRTOS,计划中
+CAN Bootloader,计划中
+Emulation EEPROM,计划中
+ZXPinsConfigurationTool,计划中
+
+
+Document,Version
+Product Brief,计划中
+Reference Manual,计划中
+Quick Start Guide,计划中
+Eclipse IDE Manual,计划中
+Application Notes,计划中
+DataSheet,计划中
+SDK ReleaseNotes,计划中
+CANFD Bootloader Manual,计划中
+Emulation EEPROM Manual,计划中
+
+
+Document,Description
+Application Notes,Specification of how to use a component in an application or process
+Data Sheet,Specification of the performance and other characteristics of a component
+Release Notes,Description of changes and issues in an upcoming update
+Package Information,Package details of the component
+Reference Manual,Specification of how to use a component in an application process
+Product Brief,Essential information to evaluate a product for design suitability quickly
+User Guide,Procedural manual with step-by-step instructions on how to perform a set of tasks
+Supporting Manual,A manual or a user guide of a supporting development tool.

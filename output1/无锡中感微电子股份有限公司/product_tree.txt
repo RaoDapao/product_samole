@@ -1,0 +1,16 @@
+-> root http://www.zgmicro.com
+  -> 首页 
+    -> 产品中心 
+      -> 传感网芯片系列 
+        -> 无锡中感微电子有限公司_产品中心_ http://www.zgmicro.com/cp/class/?2.html
+        -> 音频传感芯片系列 
+          -> 无锡中感微电子有限公司_产品中心_传感网芯片系列_ http://www.zgmicro.com/cp/class/?16.html
+        -> 电池电源芯片系列 
+          -> 无锡中感微电子有限公司_产品中心_传感网芯片系列__1 http://www.zgmicro.com/cp/class/?14.html
+            -> 电池电源芯片系列 
+          -> 电池充电芯片 http://www.zgmicro.com/cp/html/?27.html
+            -> 无锡中感微电子有限公司_ http://www.zgmicro.com/cp/html/?17.html
+          -> 电池保护芯片 
+            -> 无锡中感微电子有限公司__1 http://www.zgmicro.com/cp/html/?18.html
+        -> 视频传感芯片系列 
+          -> 无锡中感微电子有限公司_产品中心_传感网芯片系列__2 http://www.zgmicro.com/cp/class/?15.html

@@ -1,0 +1,25 @@
+-> root https://www.shfte.com
+  -> 产品中心_4 https://www.shfte.com/?product
+    -> 高压水加热器 
+    -> DC-AC 逆变器 
+    -> DC-DC 转换器 
+    -> 车载充电机 OBC 
+    -> 车联网模块 
+    -> 自动空调控制器 
+  -> 高压水加热器3代-上海奉天电子股份有限公 https://www.shfte.com/?lm5/3469.html
+  -> 高压水加热器4代-上海奉天电子股份有限公 https://www.shfte.com/?lm5/3638.html
+  -> 产品中心_5 https://www.shfte.com/?product_2
+    -> 纯正弦波逆变器 
+    -> 纯正弦波逆变器 
+    -> 纯正弦波逆变器 
+    -> 48V/12V DCDC 转换器 
+    -> 48V/12V DCDC 转换器 
+    -> 24V/12V DCDC 转换器 
+  -> Products https://www.shfte.com/?product-19
+    -> High Voltage Water Heater 
+    -> DC-AC Inverter 
+    -> DC-DC Converter 
+    -> On board charger OBC 
+    -> Internet of Vehicles module 
+    -> Automatic Air Conditioning Controller 
+  -> 产品中心_6 https://www.shfte.com/?product_4

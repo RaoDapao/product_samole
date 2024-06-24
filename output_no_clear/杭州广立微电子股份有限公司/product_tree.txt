@@ -1,0 +1,26 @@
+-> root http://www.semitronix.com
+  -> 广立微 https://www.semitronix.com/product
+    -> EDA 软件 
+    -> EDA 软件 
+    -> EDA 软件 
+    -> EDA 软件 
+    -> EDA 软件 
+    -> EDA 软件 
+    -> EDA 软件 
+    -> EDA 软件 
+    -> 晶圆级电性参数测试设备 
+    -> 成品率提升技术服务 
+  -> 广立微_1 https://www.semitronix.com/product/eda
+  -> SmtCell|广立微 https://www.semitronix.com/product/eda/smtcell
+  -> TCMagic|广立微 https://www.semitronix.com/product/eda/tcmagic
+  -> ATCompiler|广立微 https://www.semitronix.com/product/eda/atcompiler
+  -> DFTEXP|广立微 https://www.semitronix.com/product/eda/dftexp
+  -> CMPEXP|广立微 https://www.semitronix.com/product/eda/cmpexp
+  -> ICSpider|广立微 https://www.semitronix.com/product/eda/icspider
+  -> DenseArray|广立微 https://www.semitronix.com/product/eda/densearray
+  -> DataExp|广立微 https://www.semitronix.com/product/eda/dataexp
+    -> DataExp 
+    -> DataExp 
+    -> DataExp 
+  -> 晶圆级电性参数测试设备|广立微 https://www.semitronix.com/product/1106
+  -> 成品率提升技术服务|广立微 https://www.semitronix.com/product/service

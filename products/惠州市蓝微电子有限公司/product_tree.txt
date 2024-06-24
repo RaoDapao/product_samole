@@ -1,0 +1,16 @@
+-> root https://www.blueway.cn
+  -> 公司能力-惠州市蓝微电子有限公司 https://www.blueway.cn/gsnl
+    -> 3~15S 电池 BMS 及 PACK 
+    -> 4~10S 电池 BMS 及 PACK 
+    -> TWS PCBA 制造 
+    -> 4/8/12 仓共享充电方案 
+    -> 4S 电池 BMS 及 PACK 
+    -> 5S 电池 BMS 及 PACK 
+    -> 33W 快充项目 
+    -> 67W 快充项目 
+    -> 100W 快充项目 
+    -> 120W 快充项目 
+    -> 单面 Molding 
+    -> 双面 Molding 
+    -> SIP 锡焊 
+    -> SIP 回流焊接 

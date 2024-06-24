@@ -1,0 +1,9 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+龙腾半导体股份有限公司,IGBT,https://www.lonten.cc/IGBT.html,无,采用先进的场截止(Field-Stop)技术及沟槽栅结构，可实现通态压降、开关损耗和器件鲁棒性的良好平衡。采用特殊的 IEGT 结构，使 IGBT 的饱和电压降低，器件性能得到进一步优化。具有低的关断损耗 Eoff、低的饱和压降 Vce(sat)、10μs 短路能力、较宽的开关频率应用范围等特点。,首页,9782084943,IGBT,8572040,无,0,无,0
+龙腾半导体股份有限公司,SiC 肖特基二极管,https://www.lonten.cc/sic_xtjejg.html,650V~1200V，2A~150A,碳化硅(SiC)肖特基二极管作为单极器件，无少数载流子存储，表现出理想的反向恢复特性，可满足高频应用需求。龙腾 SiC 肖特基二极管采用合井的 PIN 肖特基结构(MPS)，具有浪涌能力强的特点。芯片同时采用先进的衬底减薄技术及场限环终端结构，可以实现通态压降、击穿电压及反向恢复等性能的良好折衷。,首页,9782084943,SiC肖特基二极管,2696666525,无,0,无,0
+龙腾半导体股份有限公司,中低压 SGT MOSFET,https://www.lonten.cc/zhongdiyaSGT_MOSFET.html,无,采用优化的沟槽屏蔽栅设计及工艺制造技术，具有低栅极电荷及快速柔软的反向恢复持性，产品电压涵盖 30V~175V，要盖各种应用领域。产品特点：低比电阻 Ronsp(RDS(on)xAChip)、开关速度快、驱动损耗低、产品裕度高,首页,9782084943,中低压SGTMOSFET,2040265060,无,0,无,0
+龙腾半导体股份有限公司,中低压沟槽 MOSFET,https://www.lonten.cc/zhongdiyagoucao_MOSFET.html,N/P20V~100V,雪崩耐量高，抗冲击能力强，有完善的产品系列,首页,9782084943,中低压沟槽MOSFET,2543455430,无,0,无,0
+龙腾半导体股份有限公司,超结 MOSFET,https://www.lonten.cc/application_notes.html,无,无,首页,9782084943,应用领域,7184548723,无,0,无,0
+龙腾半导体股份有限公司,高压平面 MOSFET,https://www.lonten.cc/application_notes.html,无,无,首页,9782084943,应用领域,7184548723,无,0,无,0
+龙腾半导体股份有限公司,中低压沟槽 MOSFET,https://www.lonten.cc/application_notes.html,无,无,首页,9782084943,应用领域,7184548723,无,0,无,0
+龙腾半导体股份有限公司,SiC 肖特基二极管,https://www.lonten.cc/application_notes.html,无,无,首页,9782084943,应用领域,7184548723,无,0,无,0

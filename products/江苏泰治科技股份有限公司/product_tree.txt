@@ -1,0 +1,55 @@
+-> root http://www.taizhitech.com
+  -> 产品中心_1 http://www.taizhitech.com/Product.aspx?id=9
+    -> DAS 
+    -> NQMS 信息化管理系统 
+    -> MOM 制造运营管理 
+    -> 智能仓储—综合智能立库 
+    -> 设备自动化—烤箱自动上下料 
+    -> 智能仓储—自动冻库 
+    -> 车间搬运—SMT 整体解决方案 
+    -> 车间搬运—Plasma 整体物流方案 
+    -> 车间搬运—封测物流解决方案 
+  -> 产品中心_2 http://www.taizhitech.com/Product_Details.aspx?id=3075
+  -> 产品中心_3 http://www.taizhitech.com/Product_Details.aspx?id=1070
+  -> 产品中心_4 http://www.taizhitech.com/Product_Details.aspx?id=1069
+  -> 产品中心_5 http://www.taizhitech.com/Product_Details.aspx?id=54
+  -> 产品中心_6 http://www.taizhitech.com/Product_Details.aspx?id=53
+  -> 产品中心_7 http://www.taizhitech.com/Product_Details.aspx?id=52
+  -> 产品中心_8 http://www.taizhitech.com/Product_Details.aspx?id=51
+  -> 产品中心_9 http://www.taizhitech.com/Product_Details.aspx?id=50
+  -> 产品中心_10 http://www.taizhitech.com/Product_Details.aspx?id=49
+  -> 产品中心_11 http://www.taizhitech.com/Product_Details.aspx?id=13
+  -> 产品中心_12 http://www.taizhitech.com/Product_Details.aspx?id=12
+  -> 产品中心_13 http://www.taizhitech.com/Product_Details.aspx?id=11
+  -> 产品中心_14 http://www.taizhitech.com/Product_Details.aspx?id=6
+  -> 产品中心_15 http://www.taizhitech.com/Product_Details.aspx?id=3203
+  -> 产品中心_16 http://www.taizhitech.com/Product_Details.aspx?id=3163
+  -> 产品中心_17 http://www.taizhitech.com/Product_Details.aspx?id=3162
+  -> 产品中心_18 http://www.taizhitech.com/Product_Details.aspx?id=3161
+  -> 产品中心_19 http://www.taizhitech.com/Product_Details.aspx?id=3160
+  -> 产品中心_20 http://www.taizhitech.com/Product_Details.aspx?id=3159
+  -> 产品中心_21 http://www.taizhitech.com/Product_Details.aspx?id=62
+  -> 产品中心_22 http://www.taizhitech.com/Product_Details.aspx?id=61
+  -> 产品中心_23 http://www.taizhitech.com/Product_Details.aspx?id=60
+  -> 产品中心_24 http://www.taizhitech.com/Product_Details.aspx?id=46
+  -> 产品中心_25 http://www.taizhitech.com/Product_Details.aspx?id=3214
+  -> 产品中心_26 http://www.taizhitech.com/Product_Details.aspx?id=3114
+  -> 产品中心_27 http://www.taizhitech.com/Product_Details.aspx?id=3113
+  -> 产品中心_28 http://www.taizhitech.com/Product_Details.aspx?id=3112
+  -> 产品中心_29 http://www.taizhitech.com/Product_Details.aspx?id=3111
+  -> 产品中心_30 http://www.taizhitech.com/Product_Details.aspx?id=3110
+  -> 产品中心_31 http://www.taizhitech.com/Product_Details.aspx?id=3109
+  -> 产品中心_32 http://www.taizhitech.com/Product_Details.aspx?id=3180
+  -> 产品中心_33 http://www.taizhitech.com/Product_Details.aspx?id=3167
+  -> 产品中心_34 http://www.taizhitech.com/Product_Details.aspx?id=3165
+  -> 产品中心_35 http://www.taizhitech.com/Product_Details.aspx?id=3164
+  -> 产品中心_36 http://www.taizhitech.com/Product_Details.aspx?id=3158
+  -> 产品中心_37 http://www.taizhitech.com/Product_Details.aspx?id=3157
+  -> 产品中心_38 http://www.taizhitech.com/Product_Details.aspx?id=3156
+  -> 产品中心_39 http://www.taizhitech.com/Product_Details.aspx?id=3155
+  -> 产品中心_40 http://www.taizhitech.com/Product_Details.aspx?id=3154
+  -> 产品中心_41 http://www.taizhitech.com/Product_Details.aspx?id=3153
+  -> 产品中心_42 http://www.taizhitech.com/Product_Details.aspx?id=3152
+  -> 产品中心_43 http://www.taizhitech.com/Product_Details.aspx?id=3151
+  -> 产品中心_44 http://www.taizhitech.com/Product_Details.aspx?id=3150
+  -> 资讯动态 http://www.taizhitech.com/details.aspx?id=3213

@@ -1,0 +1,23 @@
+产品网址：http://icpc.cn/cms/item/view?table=product&id=70
+产品结构：当前位置：首页->产品与服务->PowerPC->主板
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|CPB6326 万兆数据卡|CPB6326|基于 Freescale T4240 的 6U CPCI 控制器，具有 2 路万兆以太网、4 路千兆以太网、8 路 RapidIO 等高速数据链路，实现大数据在 RapidIO 数据口和网络间的交换分发。以 12 核处理器 T4240 为核心，具有万兆 SFP 接口、千兆 RJ45 接口、USB、SATA 等接口。后出 32bit/33MHz PCI 总线，支持 7 个 PCI 外部设备。采用全贴片 SMT 工艺，抗振动和冲击。适用于数据中心、云平台、信号处理、高端防火墙等领域。|
+
+
+
+
+CPU,Freescale PowerPC T4240处理器，  12x1.6 GHz，6MB L2  Cache
+外部总线,33MHz，32bit  CPCI总线，支持7槽设备
+内存,4GB DDR3双通道
+存储,64MB NOR FLASH  4GB SLC NAND FLASH  支持板载安装2.5 inch SATA SSD
+外围接口,2x10GbE光网络SFP+接口  4xRapidIO 2.1(x4)接口  4x RapidIO 2.1(x1)接口  4x 10/100/1000Mbps自适应以太网口  1x USB2.0 Host接口  1x MicroSD卡接口  10路GPIO口
+其它,状态指示灯；温度传感器; RTC时钟;看门狗
+功耗,≤45瓦
+湿度,工作：10% ~ 95% 非工作：5% ~ 95%
+冲击,20G
+振动,5-500Hz随机
+工作温度,-10℃～+55℃（扩展温度：-40℃～+75℃）
+存储温度,-55℃～+85℃
+尺寸,6U 4HP，233.35x  160 x20.32 mm

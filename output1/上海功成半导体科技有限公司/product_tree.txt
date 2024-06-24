@@ -1,0 +1,19 @@
+-> root http://www.coolsemi.com
+  -> SGT-产品中心-功成半导体_上海功成半 https://www.coolsemi.com/product
+  -> SGT-产品中心-功成半导体_上海功成半_1 https://www.coolsemi.com/product/SGT
+  -> SJ-产品中心-功成半导体_上海功成半导 https://www.coolsemi.com/product/SJ
+  -> IGBT-产品中心-功成半导体_上海功成 https://www.coolsemi.com/product/IGBT
+  -> IPM-产品中心-功成半导体_上海功成半 https://www.coolsemi.com/product/IPM
+  -> SiCSBD-产品中心-功成半导体_上海 https://www.coolsemi.com/product/SiC%20SBD
+  -> SiCMOSFET-产品中心-功成半导体 https://www.coolsemi.com/product/SiC%20MOSFET
+  -> GaNHEMT-产品中心-功成半导体_上 https://www.coolsemi.com/product/GaN%20HEMT
+  -> SGT-Productcenter-Co https://en.coolsemi.com/product
+  -> SGT-Productcenter-Co_1 https://en.coolsemi.com/product/SGT
+  -> SJ-Productcenter-Coo https://en.coolsemi.com/product/SJ
+  -> IGBT-Productcenter-C https://en.coolsemi.com/product/IGBT
+  -> IPM-Productcenter-Co https://en.coolsemi.com/product/IPM
+  -> SiCSBD-Productcenter https://en.coolsemi.com/product/SiC%20SBD
+    -> Schottky Barrier Diode (SBD) 
+    -> Silicon Carbide Diode 
+  -> SiCMOSFET-Productcen https://en.coolsemi.com/product/SiC%20MOSFET
+  -> GaNHEMT-Productcente https://en.coolsemi.com/product/GaN%20HEMT

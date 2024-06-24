@@ -1,0 +1,16 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+上海曦智科技有限公司,Hummingbird,https://lightelligence.co/index.php/news/infos/68.html,无,首个用于特定领域人工智能（AI）工作负载的片上光网络（oNOC）处理器，采用先进封装技术，将光芯片和电芯片进行垂直堆叠，集成为一个系统级封装（System in Package，SiP）。计算卡通过硅光芯片上的 U 型光波导传播信号，可实现电芯片上 64 个核之间的 all-to-all 全通道广播，显著降低了延迟和功耗。内置了曦智科技自主研发的小型化单/多波长激光光源 Moonstone，可实现多至 8 个通道波长的高功率光输出。电芯片和光芯片被共同封装并集成到一个 PCIe 板卡上，适用于通用的服务器。结合曦智科技的软件开发工具包（SDK），机器学习和人工智能工作负载可以充分利用 oNOC 的优势实现性能优化。oNOC 和 Hummingbird IP 还可以根据客户应用场景进行定制。后续版本将采用光罩拼接技术（reticle-stitching）以支持芯粒架构，从而实现更好的可扩展性，在提高能效比的基础上进一步突破算力瓶颈的制约。,无,0,无,0,无,0,无,0
+上海曦智科技有限公司,PACE,https://www.lightelligence.ai/index.php/product/pace-photonic-arithmetic-computing-engine-ai.html,无,"是 Lightelligence 的第一个完全集成的光子计算平台，核心是一个 64x64 光学矩阵乘法器，在集成硅光子芯片和 CMOS 微电子芯片中倒装芯片封装在一起。除了先进的 3D 封装，PACE 的光子芯片包含超过 12,000 个离散光子器件，系统时钟为 1GHz。具有强大的并行能力、超低延迟、能源效率高、成本低和工艺要求低等特点。可应用于生物信息学、路线规划、材料研发等领域，为这些领域提供高效的计算能力。",Lightelligence,7667794860,无,0,无,0,无,0
+上海曦智科技有限公司,HUMMINGBIRD ONOC,https://www.lightelligence.ai/index.php/product/hummingbird.html,无,利用先进的垂直堆叠封装技术，将光子和电子芯片集成到一个封装中，为数据中心和其他高性能应用提供通信网络，通过硅光子学实现创新的互连拓扑，提高计算性能，降低延迟和功耗，可实现低延迟的光学全对全广播网络，提供多种密集光学网络拓扑的框架，电子和光子 IC 共封装并集成到 PCIe 外形尺寸中，可与 Lightelligence 软件开发工具包（SDK）配合使用，优化机器学习和 AI 工作负载,Lightelligence,7667794860,无,0,无,0,无,0
+上海曦智科技有限公司,Photowave,https://www.lightelligence.ai/index.php/product/photowave.html,无,Optical Communications Hardware for CXL Connectivity,Lightelligence,7667794860,无,0,无,0,无,0
+上海曦智科技有限公司,Moonstone,https://www.lightelligence.ai/index.php/product/moonstone-laser-source.html,无,高功率、多通道、单波长或多波长 DFB 激光源，具有更小的尺寸、更好的工作温度范围和更低的价格，可用于电信、激光雷达、以太网交换以及广泛的测试和传感器设备,Lightelligence,7667794860,无,0,无,0,无,0
+上海曦智科技有限公司,Photowave,https://lightelligence.co/index.php/news/infos/67.html,标准 PCIe 卡、OCP 3.0 SFF 卡、有源光缆等,通过光互连实现 CXL 内存扩展，提升数据中心内不同计算硬件的工作负载效率，适用于服务器平台、CXL 交换机、存储应用以及 xPU 之间的互连,无,0,无,0,无,0,无,0
+上海曦智科技有限公司,光子计算,https://lightelligence.co/index.php/news/infos/55.html,PACE,无,无,0,无,0,无,0,无,0
+上海曦智科技有限公司,光子计算,https://lightelligence.co/index.php/news/infos/55.html,OptiHummingbird®,无,无,0,无,0,无,0,无,0
+上海曦智科技有限公司,光子计算,https://lightelligence.co/index.php/news/infos/55.html,LTSimulator,无,无,0,无,0,无,0,无,0
+上海曦智科技有限公司,光子网络,https://lightelligence.co/index.php/news/infos/55.html,无,无,无,0,无,0,无,0,无,0
+上海曦智科技有限公司,激光光源,https://lightelligence.co/index.php/news/infos/55.html,Moonstone®,无,无,0,无,0,无,0,无,0
+上海曦智科技有限公司,片上光网络计算加速卡,https://lightelligence.co/index.php/news/infos/55.html,无,无,无,0,无,0,无,0,无,0
+上海曦智科技有限公司,光子计算处理器,https://lightelligence.co/index.php/news/infos/33.html,PACE,"单个光子芯片中集成超过 10,000 个光子器件，运行 1GHz 系统时钟，运行特定循环神经网络速度可达目前高端 GPU 的数百倍",无,0,无,0,无,0,无,0
+上海曦智科技有限公司,OptiHummingbird®,https://lightelligence.co/index.php/product/hummingbird.html,无,是首款基于片上光网络技术（oNOC）的全长、全高、双插槽 PCIe Gen3 的人工智能推理卡，含有 64 个计算核，结合曦智科技自研 SDK，可对工作负载编译和硬件接口进行管理和优化。产品使用被动散热解决方案，硬件功耗仅 65w，具有高带宽、低延时、低功耗的特点。,无,0,无,0,无,0,无,0
+上海曦智科技有限公司,OptiHummingbird®️,https://lightelligence.co/index.php/product/humming.html,无,是首款基于片上光网络技术（oNOC）的全长、全高、双插槽 PCIe Gen3 的特定领域人工智能（AI）推理加速卡，含有 64 个计算核，结合曦智科技自研 SDK，可对工作负载编译和硬件接口进行管理和优化。产品使用被动散热解决方案，硬件功耗仅 65w，具有高带宽、低延时、低功耗的特点。,无,0,无,0,无,0,无,0

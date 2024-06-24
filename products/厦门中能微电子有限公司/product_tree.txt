@@ -1,0 +1,17 @@
+-> root http://www.znwdz.com
+  -> 产品中心-厦门中能微电子有限公司 http://www.znwdz.com/cpzx
+    -> 场效应管 
+    -> 超结 MOS 
+  -> 场效应管TO-247封装-厦门中能微电子 http://www.znwdz.com/productinfo/272380.html
+  -> 场效应管TO-220F封装-厦门中能微电 http://www.znwdz.com/productinfo/272242.html
+  -> 场效应管TO-220封装-厦门中能微电子 http://www.znwdz.com/productinfo/729000.html
+  -> 场效应管TO-252封装-厦门中能微电子 http://www.znwdz.com/productinfo/272387.html
+  -> 场效应管TO-251封装-厦门中能微电子 http://www.znwdz.com/productinfo/272159.html
+  -> 场效应管TO-3P封装-厦门中能微电子有 http://www.znwdz.com/productinfo/272116.html
+  -> 中能微电子产品选型表-厦门中能微电子有限 http://www.znwdz.com/newsinfo/6347211.html
+  -> 场效应管-厦门中能微电子有限公司-凯茂半 http://www.znwdz.com/productinfo/729004.html
+  -> 场效应管TO-263封装-厦门中能微电子 http://www.znwdz.com/productinfo/272357.html
+  -> 超结MOS(COMS)-厦门中能微电子有 http://www.znwdz.com/productinfo/272752.html
+  -> 产品中心-厦门中能微电子有限公司_1 http://www.znwdz.com/cpzx#
+  -> 产品分类结果页 http://www.znwdz.com/ProductInfoCategory?categoryId=452256,452257,452258,452259,452260,452261,452262,452263
+  -> 中能微电：一文带你了解SJ-MOSFET http://www.znwdz.com/newsinfo/4846083.html

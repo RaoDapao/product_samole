@@ -1,0 +1,109 @@
+-> root https://www.zte.com.cn
+  -> MobileInternet https://www.ztedevices.com/en/products/mobile-internet.html
+    -> ZTE Blade V60 
+    -> nubia Flip 5G 
+    -> ZTE G5 Ultra 
+    -> MC888 Ultra 
+    -> MF289F 
+    -> MC888 Pro 
+    -> MC888 
+    -> MC889 
+    -> MC7010 
+    -> MU5120 
+    -> MU5002 
+    -> MF297D 
+    -> MF296R 
+    -> MF296D 
+    -> MF296C 
+    -> MF293N 
+    -> MF971R 
+    -> MF937 
+    -> MF920N 
+    -> AX3000 Pro 
+    -> T5400 
+    -> Y2001 
+    -> Y9000 
+    -> ZM8201 
+    -> ZM9020 
+  -> Tablet https://www.ztedevices.com/en/products/tablet.html
+    -> ZTE Blade V60 Design 
+    -> ZTE Blade V50 Design 
+    -> ZTE Blade V50 5G 
+    -> ZTE Blade V50 Design 5G 
+    -> ZTE Blade V50 Vita 
+    -> ZTE Blade A73 
+    -> ZTE Blade A72s 
+    -> ZTE Blade A54 
+    -> ZTE Blade A53 Pro 
+    -> ZTE Blade A53 
+    -> ZTE Blade A34 
+    -> ZTE Blade A33s 
+    -> nubia Focus 5G 
+    -> nubia Focus Pro 5G 
+    -> nubia Music 
+    -> nubia Neo 2 5G 
+    -> nubia Z60 Ultra 
+    -> nubia Neo 5G 
+    -> nubia Z50S Pro 
+    -> nubia Z50 
+    -> nubia Pad 3D II 
+    -> nubia Pad 3D 
+  -> ProductSearch https://www.zte.com.cn/content/zte-site/www-zte-com-cn/global/product_index.html
+    -> All-RAT Large-Capacity BBUs 
+    -> SmartEdge 
+  -> ProductSearch_1 https://global.ztedevices.com/collections/all-products
+  -> ZTEBladeV50Design https://www.ztedevices.com/en/products/smartphones/blade/zte-blade-v50-design.html
+  -> nubiaPad3D https://www.ztedevices.com/en/products/tablet/nubia/nubia-pad-3d.html
+  -> ZTEBladeV60Design https://www.ztedevices.com/en/products/smartphones/blade/zte-blade-v60-design.html
+  -> ZTEBladeV60 https://www.ztedevices.com/en/products/smartphones/blade/zte-blade-v60.html
+  -> ZTEBladeV505G https://www.ztedevices.com/en/products/smartphones/blade/zte-blade-v50-5g.html
+  -> ZTEBladeV50Design5G https://www.ztedevices.com/en/products/smartphones/blade/zte-blade-v50-design-5g.html
+  -> ZTEBladeV50Vita https://www.ztedevices.com/en/products/smartphones/blade/zte-blade-v50-vita.html
+  -> ZTEBladeA73 https://www.ztedevices.com/en/products/smartphones/blade/zte-blade-a73.html
+  -> ZTEBladeA72s https://www.ztedevices.com/en/products/smartphones/blade/zte-blade-a72s.html
+  -> ZTEBladeA54 https://www.ztedevices.com/en/products/smartphones/blade/zte-blade-a54.html
+  -> ZTEBladeA53Pro https://www.ztedevices.com/en/products/smartphones/blade/zte-blade-a53-pro.html
+  -> ZTEBladeA53 https://www.ztedevices.com/en/products/smartphones/blade/zte-blade-a53.html
+  -> ZTEBladeA34 https://www.ztedevices.com/en/products/smartphones/blade/zte-blade-a34.html
+  -> ZTEBladeA33s https://www.ztedevices.com/en/products/smartphones/blade/zte-blade-a33s.html
+  -> nubiaFlip5G https://www.ztedevices.com/en/products/smartphones/nubia/nubia-flip-5g.html
+  -> nubiaFocus5G https://www.ztedevices.com/en/products/smartphones/nubia/nubia-focus-5g.html
+  -> nubiaFocusPro5G https://www.ztedevices.com/en/products/smartphones/nubia/nubia-focus-pro-5g.html
+  -> nubiaMusic https://www.ztedevices.com/en/products/smartphones/nubia/nubia-music.html
+  -> nubiaNeo25G https://www.ztedevices.com/en/products/smartphones/nubia/nubia-neo-2-5g.html
+  -> nubiaZ60Ultra https://www.ztedevices.com/en/products/smartphones/nubia/nubia-z60-ultra.html
+  -> nubiaNeo5G https://www.ztedevices.com/en/products/smartphones/nubia/nubia-neo-5g.html
+  -> nubiaZ50 https://www.ztedevices.com/en/products/smartphones/nubia/nubia-z50.html
+  -> ZTEG5Ultra https://www.ztedevices.com/en/products/mobile-internet/5g-fwa/zte-g5-ultra.html
+  -> ZTEG5F https://www.ztedevices.com/en/products/mobile-internet/5g-fwa/zte-g5f.html
+  -> MC888Ultra https://www.ztedevices.com/en/products/mobile-internet/5g-fwa/mc888-ultra.html
+  -> MF289F https://www.ztedevices.com/en/products/mobile-internet/4g-fwa/mf289f.html
+  -> MC888Pro https://www.ztedevices.com/en/products/mobile-internet/5g-fwa/mc888-pro.html
+  -> MC888 https://www.ztedevices.com/en/products/mobile-internet/5g-fwa/MC888.html
+  -> MC7010 https://www.ztedevices.com/en/products/mobile-internet/5g-fwa/MC7010.html
+  -> MU5120 https://www.ztedevices.com/en/products/mobile-internet/5g-mbb/mu5120.html
+  -> MU5002 https://www.ztedevices.com/en/products/mobile-internet/5g-mbb/mu5002.html
+  -> MF297D https://www.ztedevices.com/en/products/mobile-internet/4g-fwa/mf297d.html
+  -> MF296R https://www.ztedevices.com/en/products/mobile-internet/4g-fwa/mf296r.html
+  -> MF296D https://www.ztedevices.com/en/products/mobile-internet/4g-fwa/mf296d.html
+  -> MF296C https://www.ztedevices.com/en/products/mobile-internet/4g-fwa/mf296c.html
+  -> MF293N https://www.ztedevices.com/en/products/mobile-internet/4g-fwa/mf293n.html
+  -> MF971R https://www.ztedevices.com/en/products/mobile-internet/4g-mbb/mf971r.html
+  -> MF937 https://www.ztedevices.com/en/products/mobile-internet/4g-mbb/mf937.html
+  -> MF920N https://www.ztedevices.com/en/products/mobile-internet/4g-mbb/mf920n.html
+  -> MF920N_1 https://global.ztedevices.com/products/zte-ax3000-pro?_gl=1*5eoanu*_ga*NDgxMTYxNjUyLjE2ODQ4Mjc5MzE.*_ga_3E4J277XD6*MTcwMDY0MDg3OC4yMTcuMS4xNzAwNjQ0NzQ5LjYwLjAuMA..
+  -> Accessories https://www.ztedevices.com/en/products/accessories.html
+    -> nubia Neovision Glass 
+    -> ZTE LiveBuds 
+    -> ZTE Buds 
+  -> nubiaPad3DII https://www.ztedevices.com/en/products/tablet/nubia/nubia-pad-3d-ii.html
+  -> Productcenter 
+    -> Wireless 
+      -> Full-modeBBU 
+        -> BBUSeries 
+          -> All-RATLarge-CapacityB.... https://www.zte.com.cn/content/zte-site/www-zte-com-cn/global/product_index/wireless_access/full-mode-bbu/bbu-series/bbu-series.html
+            -> All-RAT Large-Capacity BBU 
+            -> All-RAT Large-Capacity BBU 
+          -> SmartEdge https://www.zte.com.cn/content/zte-site/www-zte-com-cn/global/product_index/wireless_access/full-mode-bbu/bbu-series/smartedge.html
+  -> nubiaNeovisionGlass https://www.ztedevices.com/en/products/accessories/wearables/nubia-neovision-glass.html
+  -> nubiaNeovisionGlass_1 https://global.ztedevices.com/products/zte-buds-white?_gl=1*hcqb0f*_ga*NDgxMTYxNjUyLjE2ODQ4Mjc5MzE.*_ga_3E4J277XD6*MTcwMDQ2MjQxOC4yMDcuMS4xNzAwNDYzMjQzLjM3LjAuMA..

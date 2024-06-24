@@ -1,0 +1,42 @@
+产品网址：https://en.taixin-semi.com/Product?productClassId=33
+产品结构：root->珠海泰芯半导体有限公司-产品中心
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Wi-Fi HaLow™|TXW8301|遵循 Wi-Fi HaLow™标准，具有低功耗和长距离连接的特点，可应用于智能家居、工业、农业、智能建筑和智能城市环境等领域|
+
+Add/Hide  Parameter List,Type,Working Freq-Band(MHz),Package Dimension(mm),Chip-Set,Flash  (KB),Working Voltage  (V),Temperature  （℃）,UART,SPI,IIC,ADC,SDIO,USB,RMII,EMC认证
+Total:  5  Match:  5,,860 ~ 928  902 ~ 928  859 ~ 894  730 ~ 790  760 ~ 785,,,,,,,,,,,,,CE  FCC  FCC/CE
+Compare,,,,,,,,,,,,,,,
+Add/Hide  Parameter List,Type,Working Freq-Band(MHz),Package Dimension(mm),Chip-Set,Flash  (KB),Working Voltage  (V),Temperature  （℃）,UART,SPI,IIC,ADC,SDIO,USB,RMII,EMC认证
+Total:  5  Match:  5,,860 ~ 928  902 ~ 928  859 ~ 894  730 ~ 790  760 ~ 785,17.0×15.0×2.4,TXW8301,,3.0 ~ 3.4,-20 ~ 70,√,√,√,10bit*1,√,√,√,CE  FCC  FCC/CE
+Compare,,,,,,,,,,,,,,,
+,TX-AH-R700PNR,760 ~ 785,17.0×15.0×2.4,TXW8301,,3.0 ~ 3.4,-20 ~ 70,√,√,√,10bit*1,√,√,√,
+,TX-AH-R700P,730 ~ 790,17.0×15.0×2.4,TXW8301,,3.0 ~ 3.4,-20 ~ 70,√,√,√,10bit*1,√,√,√,
+,TX-AH-R900PNR-860M,859 ~ 894,17.0×15.0×2.4,TXW8301,,3.0 ~ 3.4,-20 ~ 70,√,√,√,10bit*1,√,√,√,CE
+,TX-AH-R900PNR,902 ~ 928,17.0×15.0×2.4,TXW8301,,3.0 ~ 3.4,-20 ~ 70,√,√,√,10bit*1,√,√,√,FCC
+,TX-AH-R900P,860 ~ 928,17.0×15.0×2.4,TXW8301,,3.0 ~ 3.4,-20 ~ 70,√,√,√,10bit*1,√,√,√,FCC/CE
+
+
+标题,主版本,子版本,更新时间
+AH测试盒PC工具-AHCOM_V1.1.0,1,1.0,2024-01-02
+AH抓包工具-AH-Sniffer,1,1.0,2024-01-02
+网桥固件升级工具-OTA_V1.0.9,1,1.0,2024-01-02
+网桥网口工具-nettools,1,1.0,2024-01-02
+Taixin AH Module Development Board Guide,1,1.0,2024-05-23
+TaiXinSemiconductor802.11ahTX-AH-Rx00PSeriesModuleTechnicalSpecification,1,1.0,2024-05-23
+泰芯802.11ah TX-AH-Rx00P系列模组技术规格书,1,1.1,2024-01-02
+泰芯802.11AH频点设置说明,1,1.1,2024-01-02
+泰芯AH测试盒固件,1,1.1,2024-01-02
+泰芯AH开发板固件,1,1.1,2024-01-02
+泰芯AH模组AT指令开发指南,1,1.1,2024-01-02
+泰芯AH模组硬件设计指南,1,1.1,2024-01-02
+泰芯AH网桥固件,1,1.1,2024-01-02
+泰芯AH网桥使用说明,1,1.1,2024-01-02
+泰芯AH性能测试方法,1,1.1,2024-01-02
+泰芯AH-RF EMC认证指南,1,1.1,2024-01-02
+泰芯AH模组开发板使用说明,1,1.1,2024-01-02
+project_v1.2.7.66-24743_2023.9.5_,1,1.2.7.66-24743,2024-01-02
+hgSDK-v1.6.3.6-25403-IoT-NDEV,1,v1.6.3.6-25403,2024-01-02
+huge-ic-nonos-driver-v2.0.0-23539,2,2.0.0-23539,2024-01-02
+huge-ic-fmac-linux-driver-v2.2.1-26364,2,2.2.1-26364,2024-01-02

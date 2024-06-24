@@ -1,0 +1,12 @@
+产品网址：https://www.zhmsemi.com/products/solar/solart2.html
+产品结构：root
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|SolarT2|无|无|
+
+Configuration,V CES(V),IC(A),Product,VCE(sat)(V),VF(V),Product Status
+3-level,750,450,TLC450M08S1PSN,1.3,1.8,Available
+3-level,650,450,TLC450M07S1PSN,1.35,1.6,Available
+3-level,650,450,TLC450M07S1P,1.55,1.6,Available
+3-level,650,300,TLC300M07S1P,1.43,1.53,Developing

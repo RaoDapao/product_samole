@@ -1,0 +1,19 @@
+-> root http://www.szrd.com
+  -> 首页 
+    -> 产品中心 http://www.szrd.com/page/cpzx.htm
+      -> 电路板油墨 
+      -> 光刻胶 
+      -> 特种油墨 
+    -> 电路板油墨 http://www.szrd.com/product/detail/62
+    -> 特种油墨 http://www.szrd.com/product/detail/59
+    -> 光刻胶 
+      -> 平板显示用 http://www.szrd.com/product/detail/57
+      -> 集成电路用 http://www.szrd.com/product/detail/56
+      -> 半导体照明用 http://www.szrd.com/product/detail/55
+      -> 液态感光阻焊油墨 
+      -> 液态感光阻焊油墨 
+      -> 稀释剂 
+    -> 产品MSDS、说明书 http://www.szrd.com/download/2
+    -> PCBINK http://en.szrd.com/product/detail/47
+    -> SpecialInks http://en.szrd.com/product/detail/59
+    -> Positivephotoresist http://en.szrd.com/product/detail/57

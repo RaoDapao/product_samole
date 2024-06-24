@@ -1,0 +1,13 @@
+-> root https://www.hdsc.com.cn
+  -> 华大半导体有限公司 https://www.hdsc.com.cn/Category22
+    -> EEPROM 存储器电路 
+    -> 新型显示芯片 
+    -> 智能计量芯片 
+    -> 图腾柱 PFC 专用电源管理芯片 
+    -> 车规级 16pin 隔离型 IGBT 栅极驱动芯片 
+    -> 6 英寸 N 型 SiC 衬底 
+    -> 4 英寸碳化硅基氮化镓 HEMT 外延片 
+    -> 物联网 SE 芯片 
+  -> 华大半导体有限公司_1 https://www.hdsc.com.cn/Category94
+  -> 华大半导体有限公司_2 https://www.hdsc.com.cn/Category97
+  -> 华大半导体有限公司_3 https://www.hdsc.com.cn/Public/Uploads/uploadfile/files/20220223/20220223170708_6215f93c5e930.xlsx

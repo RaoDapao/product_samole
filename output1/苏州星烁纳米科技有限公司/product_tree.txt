@@ -1,0 +1,38 @@
+-> root http://www.cxwic.com
+  -> 首页 
+    -> 产品中心 
+      -> DC-DC电源芯片 http://www.cxwic.com/?list/9
+        -> CX8831CB- http://www.cxwic.com/?product/481
+        -> CX8831CX- http://www.cxwic.com/?product/420
+        -> CX8806- http://www.cxwic.com/?product/410
+        -> 100V降压DC/DC开关转换器 
+          -> CX8810- http://www.cxwic.com/?product/357
+          -> CX8803- http://www.cxwic.com/?product/295
+          -> CX8802- http://www.cxwic.com/?product/294
+          -> CX8801- http://www.cxwic.com/?product/293
+        -> CX8901X- http://www.cxwic.com/?product/479
+        -> CX8576Q- http://www.cxwic.com/?product/343
+        -> CX8834B- http://www.cxwic.com/?product/349
+        -> CX8834- http://www.cxwic.com/?product/348
+        -> CX8833B- http://www.cxwic.com/?product/326
+        -> 降压DC/DC开关转换器 
+          -> CX8833- http://www.cxwic.com/?product/297
+          -> CX8843- http://www.cxwic.com/?product/289
+          -> CX8830- http://www.cxwic.com/?product/195
+          -> CX8871- http://www.cxwic.com/?product/194
+          -> CX8571- http://www.cxwic.com/?product/193
+          -> CX8576- http://www.cxwic.com/?product/192
+          -> CX8853- http://www.cxwic.com/?product/191
+          -> CX8852- http://www.cxwic.com/?product/190
+          -> CX8855- http://www.cxwic.com/?product/189
+          -> CX8835- http://www.cxwic.com/?product/188
+          -> CX8525- http://www.cxwic.com/?product/187
+          -> CX8523- http://www.cxwic.com/?product/186
+          -> CX8522- http://www.cxwic.com/?product/185
+          -> CX8825- http://www.cxwic.com/?product/184
+          -> CX8824- http://www.cxwic.com/?product/183
+          -> CX8823- http://www.cxwic.com/?product/182
+          -> CX8822- http://www.cxwic.com/?product/180
+        -> CX8838B- http://www.cxwic.com/?product/287
+        -> 升压DC/DC开关转换器 
+          -> CX9428- http://www.cxwic.com/?product/197

@@ -1,0 +1,7 @@
+产品网址：http://itocec.com/Index/lists/catid/12.html
+产品结构：首页->产品与服务->大型PLC产品IL40系列->CPU模块
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|大型 PLC 产品 IL40 系列 CPU 模块|IL40-X1001|安装在背板上，实现 EtherCAT 主站功能，轮询 EtherCAT 从站数据，管理从站信息；与 SC-Prosys、SC-ProView 通过以太网完成配置的下装及诊断上报|
+|大型 PLC 产品 IL40 系列 CPU 模块|IL40-X3001|安装在冗余型 CPU 导轨上，实现 EtherCAT 主站功能，轮询 EtherCAT 从站数据，管理从站信息；与 SC-Prosys、SC-ProView 通过以太网完成配置下装及诊断上报。设有两个 SpaceWire 通信接口，主从 CPU 模块通过两条专用的 SpaceWire 总线交叉相连构成 PLC 双机冗余系统。系统采用主、从热备冗余方式，主、从控制器模块同时接受网络数据，主机做控制运算，并将结果通过 SpaceWire 总线同步给备机。系统运行过程中一旦主模块发生故障，从模块自动升为主，切换时间小于一个 IEC 周期|

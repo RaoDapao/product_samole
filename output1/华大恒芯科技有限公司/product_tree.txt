@@ -1,0 +1,5 @@
+-> root http://hdect.com.cn
+  -> 产品中心-华大恒芯科技有限公司 http://hdect.com.cn/rfidxp
+    -> 高频安全电子标签芯片 
+    -> 超高频安全电子标签芯片 
+    -> 高频电子标签 reader 芯片 

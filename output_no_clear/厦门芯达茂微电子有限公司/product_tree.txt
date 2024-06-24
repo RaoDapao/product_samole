@@ -1,0 +1,33 @@
+-> root http://www.xindamao.com.cn
+  -> -产品展示-厦门芯达茂微电子有限公司 http://www.xindamao.com.cn/product
+  -> cycms http://www.xindamao.com.cn/product/lists/type/2
+    -> SiC MOSFET 
+    -> VD MOSFET 
+    -> SJ MOSFET 
+    -> SGT MOSFET 
+    -> PIM 
+    -> IPM 
+  -> 晶圆-产品展示-厦门芯达茂微电子有限公司 http://www.xindamao.com.cn/show/index/type/7
+  -> 单管-产品展示-厦门芯达茂微电子有限公司 http://www.xindamao.com.cn/show/index/type/16
+  -> 模块-产品展示-厦门芯达茂微电子有限公司 http://www.xindamao.com.cn/show/index/type/17
+    -> IGBT 模块 
+    -> IGBT 模块 
+  -> 单管-产品展示-厦门芯达茂微电子有限公司_1 http://www.xindamao.com.cn/show/index/type/24
+  -> 晶圆-产品展示-厦门芯达茂微电子有限公司_1 http://www.xindamao.com.cn/show/index
+  -> 「产品介绍」芯达茂推出1200V超大单芯 http://www.xindamao.com.cn/News/detail/id/92
+  -> 「产品介绍」芯达茂推出1200V超大电流 http://www.xindamao.com.cn/News/detail/id/91
+  -> 「喜报」芯达茂亮相第十二届中国电子信息博 http://www.xindamao.com.cn/News/detail/id/90
+    -> IGBT 功率整合模块 
+    -> 智能 IGBT、MOS 模块 
+    -> 绝缘栅双极晶体管(IGBT) 
+  -> 「喜报」芯达茂荣获“2023年度电子元器 http://www.xindamao.com.cn/News/detail/id/89
+  -> FAE工程师-人才招聘-厦门芯达茂微电子 http://www.xindamao.com.cn/Rczp/detail/id/29
+  -> 模块-产品展示-厦门芯达茂微电子有限公司_1 http://www.xindamao.com.cn/Show/index/type/17
+  -> 晶圆-产品展示-厦门芯达茂微电子有限公司_2 http://www.xindamao.com.cn/Show/index/type/7/p/2
+  -> 晶圆-产品展示-厦门芯达茂微电子有限公司_3 http://www.xindamao.com.cn/Show/index/type/7/p/3
+  -> 晶圆-产品展示-厦门芯达茂微电子有限公司_4 http://www.xindamao.com.cn/Show/index/type/7/p/4
+  -> 晶圆-产品展示-厦门芯达茂微电子有限公司_5 http://www.xindamao.com.cn/Show/index/type/7/p/5
+  -> 单管-产品展示-厦门芯达茂微电子有限公司_2 http://www.xindamao.com.cn/Show/index/type/16/p/2
+  -> 单管-产品展示-厦门芯达茂微电子有限公司_3 http://www.xindamao.com.cn/Show/index/type/16/p/3
+  -> 模块-产品展示-厦门芯达茂微电子有限公司_2 http://www.xindamao.com.cn/Show/index/type/17/p/2
+  -> 模块-产品展示-厦门芯达茂微电子有限公司_3 http://www.xindamao.com.cn/Show/index/type/17/p/3

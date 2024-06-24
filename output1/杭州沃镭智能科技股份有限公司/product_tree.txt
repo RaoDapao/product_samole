@@ -1,0 +1,23 @@
+-> root http://www.wolei-tech.com
+  -> HOME 
+    -> 产品中心 
+      -> 智能装备自动化 http://www.wolei-tech.com/product.html
+        -> 商用车 EBS 挂车阀柔性装配生产线 
+        -> 商用车 EBS 继动阀柔性装配生产线 
+        -> 乘用车电子助力器（含 I/X/E/-Booster 控制系统）柔性装配生产线 
+        -> 汽车轮速传感器柔性装配生产线 
+        -> 电动空调压缩机 ECU 柔性装配生产线 
+        -> 汽车 EPB-ECU 柔性装配生产线 
+      -> 智能检测装备 http://www.wolei-tech.com/product.html?tid=52
+        -> IOT-LINKER 
+        -> 汽车高速信号采集系统 
+        -> EOL 测试设备 
+        -> FCT 测试设备 
+        -> 商用车 EBS 挂车阀检测设备 
+        -> 商用车 EBS 继动阀检测设备 
+      -> 生产制造执行系统 http://www.wolei-tech.com/product2.html
+        -> WMS 仓储管理系统 
+        -> QMS 质量管理系统 
+        -> KanBan 电子看板 
+        -> Andon 安灯系统 
+        -> SPC 品质过程监控系统 

@@ -1,0 +1,16 @@
+-> root https://www.canaantek.com
+  -> 上海迦美信芯通讯技术有限公司_15 https://www.canaantek.com/products.aspx
+    -> 射频开关芯片 
+    -> 射频开关芯片 
+    -> 天线调谐器芯片 
+    -> 低噪声放大器 
+    -> 车规射频芯片 
+  -> 上海迦美信芯通讯技术有限公司_16 https://www.canaantek.com/journalism/show-11.aspx
+  -> 上海迦美信芯通讯技术有限公司_17 https://www.canaantek.com/journalism/show-4.aspx
+  -> 上海迦美信芯通讯技术有限公司_18 https://www.canaantek.com/english/englishproducts.aspx
+    -> Switch_4G 
+    -> Switch_5G 
+    -> Antenna Tuner 
+    -> LNA 
+    -> Automotive Grade Chip 
+  -> 上海迦美信芯通讯技术有限公司_19 https://www.canaantek.com/english/englishJournalism/show-2.aspx

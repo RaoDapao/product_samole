@@ -1,0 +1,21 @@
+产品网址：https://www.len-technology.com/products/high-side-driver-chip/high-side-driver-chip-details/lns37100
+产品结构：root->LNS37100Q1-
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|高边驱动芯片|LNS37100Q1|车规级，36V，100mohm，单通道智能高边开关|
+
+正常工作电压Min (V),4
+正常工作电压Max (V),36
+通道数,1
+导通电阻 (mohm),100
+输出电流 (A),4
+限流值 (A),"可调,  最  大7A"
+故障保护,Output short to GND；  Over current；  Inductive load negative voltage clamp；  Loss of GND and Loss of power protection；  Thermal Shutdown；
+完整诊断,Open load  Output short to battery  Overcurrent and output short to GND
+对应每个通道的故障输出,A版本
+电流采集,B版本
+封装,TSSOP-EP14
+产品等级,AEC-Q100 Grade1
+工作结温,-40 to 150
+功能安全类别,Functional Safety Capable

@@ -1,0 +1,107 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/509.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|2MP 44x Super Starlight IR AEW AI PTZ Camera|TC-H326M|·Up to 1920×1080@25fps<br>·Color: 0.0008lux@ (F1.6, AGC ON), B/W: 0lux with IR<br>·S+265/H.265/H.264/M-JPEG<br>·Optical Zoom 44X<br>·IR Range Up to 180m<br>·Built-in Micro SD card slot, up to 512 GB<br>·Support Smart surveillance, Capture facial images<br>·Support Human/Vehicle Classification<br>·Operating Conditions -30℃～70℃(IR OFF) -30℃～40℃(IR ON), 0～95%<br>·AC24V±15%<br>·IP66|
+
+Camera,Unnamed: 1
+Image Sensor,"1/1.8""CMOS"
+Min. Illumination,"Color: 0.0008lux@ (F1.6, AGC ON), B/W: 0lux with IR"
+Shutter Time,1s~1/100000s
+Day&Night,IR-cut filter with auto switch (ICR)
+WDR,120dB
+Lens,
+Focal Length,6mm～264mm
+Optical Zoom,44X
+Digital Zoom,16X
+Zoom Speed,<6s
+Aperture Range,F1.6~F5.3
+Field of View,61.8°～2.3°(H); 36.3°～1.3°(V); 69°～2.6°(D)
+Focus Control,Auto/Semi-auto/Manual
+Iris Control,Auto
+Close Focus Distance,100mm~1000mm
+DORI Distance,Detect:21910m Observe:758m Recognize:382m Identify:191m
+Pan&Tilt,
+Pan Range,360°
+Tilt Range,-16°～90° (Default -3°～90°)
+Tilt Speed,Manual Speed:0.1°～120°/s Preset: 180°/s
+3D Position,Yes
+Preset,500
+Cruise,"16, up to 32 presets per cruise"
+Scan,8
+Pattern,"8, each with 600s memory or 1000 orders"
+Scheduled Task,Preset、Cruise、Scan、Pattern
+North Point,Yes(Manual setting)
+Power-off Memory,Yes
+Preset Freezing,Yes
+Illuminator,
+IR LEDs,8
+IR Distance,Up to 180m
+Wavelength,850nm
+IR Irradiation Angle,Adjustable by Zoom
+White LEDs,2
+Whitelight Distance,30m
+Compression Standard,
+Video Compression,S+265/H.265/H.264/M-JPEG
+Video Bit Rate,32Kbps~16Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D/AAC_LC
+Audio Sampling Rate,8KHz/32KHz/48KHz
+Image,
+Max. Resolution,1920×1080@25fps
+Main Stream,"PAL:50fps(1920×1080, 1280×960, 1280×720, 640×480, 704×576) NTSC:60fps(1920×1080, 1280×960, 1280×720, 640×480, 704×480)"
+Sub Stream,"PAL:25fps(704×576, 640×360, 704×288, 352×288) NTSC:30fps(704×480, 640×360, 704×240, 352×240)"
+Third Stream,"PAL:25fps(704×576, 704×288, 352×288) NTSC:30fps(704×480, 704×240, 352×240)"
+BLC,Yes
+HLC,Yes
+AGC,Yes
+White Balance,Yes
+ROI,"7 rectangular 3D fixed focus areas, supporting 1 rectangular dynamic tracking ROI"
+EIS,Yes
+OSD,"5 regions(Each region can have a maximum of 127 characters,up to 5 lines); 16*16/24*24/32*32/48*48/64*64/96*96/adaptable size; Vector/Lattice"
+Defog,Yes
+Flip,Normal/Inverted Flip
+Regional Exposure,Yes
+Regional Focus,Yes
+Demist,Yes
+Privacy Mask,24 regions
+Feature,
+Alarm Trigger,"Motion Detection; Mask Alarm; Disk Full; Disk R/W Error; IP Address Conflict; MAC Address Conflict; FTP Server Exception ; Event Input,Event Output;  Network cable disconnected"
+Linkage Method,send email; trigger sound; trigger warmlight; trigger recording; trigger capture; notify surveillance center
+Video Analytics,Human/Vehicle Classification; Tripwire; Double Tripwire; Perimeter; Object Abandon; Object Lost; Heatmap; Loitering; Running; People Counting; Crowed;  Safety Helmet Detection; On Duty Detection; Video Abnormal; Audio Abnormal
+Early Warning(EW),Early Warning(EW)
+Auto-Tracking,Auto-Tracking
+Face Mode,Capture facial images
+Network,
+ANR,ANR
+Protocols,HTTP; HTTPS; TCP/IP; UDP; UPnP; ICMP; IGMP; SNMP v1; DHCP; DNS; DDNS; NTP; SMTP; TLS; SSL; QoS; IPv4; IPv6; PPPOE; Unicast; Multicast; ARP; RTP; RTSP; FTP;  PING
+System Compatibility,ONVIF Profile S/T/G; CGI
+Remote Connection,≤7
+User/Host,Up to 8 users. 4 user levels
+Client,Easy7 Smart Client
+Moblie Client,EasyLive Plus
+Interface,
+Communication Interface,1*RJ45 10M/ 100M self adaptive Ethernet port
+Audio I/O,"1*Input Impedance 1kΩ,2.0~2.4Vp-p; 1*Output Impedance 600Ω"
+Alarm I/O,"8,Switching; 2,Switching,Voltage≤DC24V,Current≤1A"
+Reset Button,Yes
+On-board storage,"Built-in Micro SD card slot, up to 512 GB"
+RS-485,RS485
+Wiper,Yes
+General,
+Web Client Language,16 languages Simple Chinese/English/Traditional Chinese/Spanish/Italian/ Korean/Turkish/Russian/Thai/ Polish/French/Dutch/ Hebraism/Vietnamese/Arabic/Farsi
+Operating Temperature,-30℃～70℃(IR OFF)  -30℃～40℃(IR ON)
+Operating Humidity,0～95%
+Storage Temperature,-40℃～70℃
+Storage Humidity,0～95%(non-condensing)
+Power Supply,AC24V±15%
+Protection,Surge protection 4000V; Lightning proof 6000V; IP66
+Material,Metal
+Boundary Dimensions,222mm(D)x372mm(H)
+Package Dimensions,320(L)*320(W)*520(H)mm
+GrossWeight,8.9Kg
+NetWeight,5.45Kg
+
+
+Date,Title,Type
+2024-04-07,1D.20020.000290_TC-H326M 44XIWA_en,pdf

@@ -1,0 +1,11 @@
+-> root http://www.xmjsmc.com
+  -> IC-厦门吉顺芯微电子有限公司 http://www.xmjsmc.com/Product3.aspx?TypeID=1
+    -> IC 
+    -> TRMOS 
+    -> IGBT 
+    -> DMOS 
+    -> FRDMOS 
+    -> FRED 
+    -> Trench Schottky 
+    -> MOS Schottky 
+    -> Planar Schottky 

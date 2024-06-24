@@ -1,0 +1,44 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=42&ncid=125&deid=186
+产品结构：root->Huahuan_Products_EoPDHConverterSeries
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|EoPDH Converter Series|H0FL-S01100/SF01100、H0FL-S04100/SF04100、H0FL-S04100SF、H0FL-S08100SN/S08100SF|是成本效益高的智能转换器，可通过 E1 通道连接快速以太网 LAN，采用标准 GFP 封装协议。它们使服务提供商和 ISP 能够提供透明的以太网服务，而不会干扰用户流量。除了点对点应用外，该设备还可以与办公设备 H0FL-P 一起作为具有 16 个服务方向的终端设备工作。|
+
+Type,E1 Port Qty,100Base-Tx Electrical Port Qty,100Base-Fx Optical Port  Qty,Remarks
+H0FL-S01100,1,1,/,
+H0FL-SF01100,1,1,1,
+H0FL-S01100SN,1,4,/,SNMP
+H0FL-S04100,4,1,/,
+H0FL-SF04100,4,1,1,
+H0FL-S04100S,4,2,1,SNMP
+H0FL-S04100SN.V3,4,4,/,SNMP
+H0FL-S08100,8,1,/,
+H0FL-SF08100,8,1,1,
+H0FL-S08100SF,8,2,1,SNMP
+H0FL-S08100SN,8,2,/,SNMP
+H0FL-S16100SF,16,2,1,SNMP
+H0FL-S16100SN,16,2,/,SNMP
+
+
+System Parameters,Ethernet Electrical Interface,1/2/4 x 10/100Base-Tx  electrical ports
+System Parameters,Ethernet Optical Interface,100Base-Fx optical interface
+System Parameters,E1/T1 Interface,"1, 4, 8,16"
+E1/T1 Interface  Features,Interface specification,Comply with ITU-T G.703
+E1/T1 Interface  Features,Code pattern,HDB3
+E1/T1 Interface  Features,Bit rate,2048kbit/s  ±  50ppm
+E1/T1 Interface  Features,Impedance,"Selectable 75  W  , 120  W"
+E1/T1 Interface  Features,Connector,RJ-48C
+Ethernet Port,Interface specification,"Comply with ITU-T G.7043, G.8040,  IEEE 802.3, IEEE 802.1Q, 802.1p"
+Ethernet Port,Working mode,Auto negotiation or 10/100M  full/half duple mode
+Ethernet Port,Connector,100M electrical port: RJ45
+Ethernet Port,Connector,100M optical port: SC/FC
+Power Supply,AC,"~220V (100~240V, 50/60Hz)"
+Power Supply,DC,-48V (-36~-72V)
+Power Supply,Consumption,H0FL-S01100/SF01100/S04100/SF04100/  S08100/SF08100/:  ≤3W  H0FL-S01100SN/S04100SF/S04100SN/  S04100SN.V3/S08100SF/S08100SN/  S16100SF/  S16100SN:  ≤6 w
+Working Environment,Temperature,-5~ 45°C
+Working Environment,Relative Humidity,≤90% (non-condensing)
+Dimension (W x H x D),H0FL-S01100/SF01100/  S04100/S04100SF,167mm×35mm×135mm
+Dimension (W x H x D),H0FL-S01100SN,195mm×35mm×140mm
+Dimension (W x H x D),H0FL-S04100SN/S04100  SF/S08100SN/S08100SF,440mm×44mm×138mm
+Dimension (W x H x D),H0FL-S04100SN.V3,204mm×38mm×158mm

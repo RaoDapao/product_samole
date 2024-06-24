@@ -1,0 +1,13 @@
+产品网址：http://en.redpowersemi.com/products/igbt/70.html
+产品结构：root->N2Series-AnhuiRedPowerMicroelectronicsCo.,Ltd
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|IGBT Module|N2 Series|采用 Trench FS 技术，具有高 RBSOA 能力、低开关损耗、低 VCEsat，典型应用于电机驱动器、UPS 系统、逆变器|
+
+Part No.,Housing,Configuration,Voltage Class,Technology,Ic(com),VCE(sat),Dimensions
+RG50F12N2M4,EconoPACK 2,6 PACK,1200 V,Trench-FS,50A,1.75,107.5*45*21 mm
+RG25P12N2M4_T3,EconoPIM 2,7 PACK,1200 V,Trench-FS,25A,2.0,107.5*45*21 mm
+RG35P12N2M4,EconoPIM 2,7 PACK,1200 V,Trench-FS,35A,1.9,107.5*45*21 mm
+RG40P12N2M4_T3,EconoPIM 2,7 PACK,1200 V,Trench-FS,40A,2.0,107.5*45*21 mm
+RG50P12N2M4,EconoPIM 2,7 PACK,1200 V,Trench-FS,50A,1.8,107.5*45*21 mm

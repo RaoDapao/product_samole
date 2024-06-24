@@ -1,0 +1,33 @@
+-> root http://www.xundi.com.cn
+  -> 产品分类 
+    -> 更多类别成功案例 
+        -> 更多产品 http://www.xundi.com.cn
+          -> XD GDL 光纤电流传感器系统 
+          -> SDA 霍尔直流大电流传感器系列 
+          -> SDA-N 逆向电流测控装置 
+          -> XD913J 智能均流测试仪 
+          -> XD 智能仪表系列 
+          -> XD GDL-1 系列光纤电流传感系统 
+          -> XD GDL-1-光纤电流传感器 
+          -> XD GDL-G1 光纤式大电流传感器现场 
+          -> SDA-A 直流大电流传感器 
+          -> SDA 直流大电流传感器 
+          -> SDA-N 逆流测控系统 
+          -> XD913A 系列直流电流、电压小时表、直流功率、电能表 
+          -> XD913C(D)电流(电压)小时计 
+          -> XD913A(B)数字电流(电压)表 
+          -> XD913Z-2 多功能直流测量仪 
+  -> 当前位置：湖北迅迪科技有限公司 
+    -> 产品中心 
+      -> 首页 http://www.xundi.com.cn/Item/list.asp?id=57
+      -> XDGDL光纤电流传感器系统 http://www.xundi.com.cn/Item/list.asp?id=64
+        -> 浏览文章 http://www.xundi.com.cn/Item/Show.asp?m=1&d=564
+      -> SDA霍尔直流大电流传感器系列 http://www.xundi.com.cn/Item/list.asp?id=65
+        -> 浏览文章_1 http://www.xundi.com.cn/Item/Show.asp?m=1&d=530
+      -> SDA-N逆向电流测控装置 http://www.xundi.com.cn/Item/list.asp?id=70
+        -> 浏览文章_2 http://www.xundi.com.cn/Item/Show.asp?m=1&d=505
+      -> XD913J智能均流测试仪 http://www.xundi.com.cn/Item/list.asp?id=71
+        -> 浏览文章_3 http://www.xundi.com.cn/Item/Show.asp?m=1&d=567
+      -> XD智能仪表系列 http://www.xundi.com.cn/Item/list.asp?id=72
+        -> 浏览文章_4 http://www.xundi.com.cn/Item/Show.asp?m=1&d=498
+    -> 下载中心 

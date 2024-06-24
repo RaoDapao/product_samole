@@ -1,0 +1,9 @@
+产品网址：https://www.calterah.com/product/shop-cal77s244-ae
+产品结构：root->加特兰微电子-Alps4T4R77/79GHzRadarSoC
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Alps 4T4R 77/79GHz Radar SoC|CAL77S244-AE|汽车级全集成毫米波雷达 SoC，发射通道 4，集成移相器，接收通道 4，集成功率饱和检测器，工作频率 76~81GHz，最大支持 5G 扫频带宽，FMCW 波形生成器支持用户自定义，高速 ADC 采样率高达 50MSPS，同时支持降采样功能，雷达信号处理基带通过硬件电路实现完整雷达信号处理，CPU 为 300MHz ARC® EM6，片内存储空间 2.625MB RAM，支持 SoC 级联功能，外设接口包括 CAN/CAN-FD/SPI/QSPI/UART/I²C/LVDS/GPIOs，符合 AEC-Q100 规范 Grade1，通过功能安全认证 ISO26262 ASIL-B|
+
+重量,0.002 公斤
+尺寸,0.912 × 0.912 厘米

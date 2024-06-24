@@ -1,0 +1,40 @@
+-> root https://www.cnstarit.com
+  -> 首页 
+    -> 产品中心 https://www.cnstarit.com/page131
+      -> 传感器 https://www.cnstarit.com/page131?product_category=1&menu_id=140
+      -> 通讯 https://www.cnstarit.com/page131?product_category=2&menu_id=141
+        -> RFM300 
+        -> RFM300H 
+        -> HPHCXK12 
+      -> 被动器件 https://www.cnstarit.com/page131?product_category=3&menu_id=142
+      -> 电源存储 https://www.cnstarit.com/page131?product_category=4&menu_id=143
+      -> 光学 https://www.cnstarit.com/page131?product_category=5&menu_id=144
+        -> ACMS618/619 
+        -> ACMS311 
+        -> ACNT101/107 
+    -> 电源存储 
+      -> Others https://www.cnstarit.com/page132?product_id=53
+      -> Combo https://www.cnstarit.com/page132?product_id=51
+      -> BT-WiFi https://www.cnstarit.com/page132?product_id=50
+      -> GNSS https://www.cnstarit.com/page132?product_id=48
+      -> Stack https://www.cnstarit.com/page132?product_id=46
+      -> SMD https://www.cnstarit.com/page132?product_id=44
+    -> 传感器 https://www.cnstarit.com/page131?product_category=1
+      -> ds_df230（1.0） https://www.cnstarit.com/page132?product_id=16
+      -> ds_da662 https://www.cnstarit.com/page132?product_id=15
+      -> ds_da380B(0.2)da380Bdatasheet https://www.cnstarit.com/page132?product_id=14
+      -> DS_da280B https://www.cnstarit.com/page132?product_id=13
+      -> ds_da262 https://www.cnstarit.com/page132?product_id=12
+      -> DS_da260 https://www.cnstarit.com/page132?product_id=11
+      -> ds_da217明皜G-sensor https://www.cnstarit.com/page132?product_id=10
+    -> 通讯 https://www.cnstarit.com/page131?product_category=2
+      -> RFM300 https://www.cnstarit.com/page132?product_id=19
+      -> RFM300H https://www.cnstarit.com/page132?product_id=18
+      -> HPHCXK12 https://www.cnstarit.com/page132?product_id=17
+    -> 被动器件 https://www.cnstarit.com/page131?product_category=3
+      -> NDP101 https://www.cnstarit.com/page132?product_id=21
+      -> NDP100 https://www.cnstarit.com/page132?product_id=20
+    -> 光学 https://www.cnstarit.com/page131?product_category=5
+      -> ACMS618-619 https://www.cnstarit.com/page132?product_id=24
+      -> ACMS311 https://www.cnstarit.com/page132?product_id=23
+      -> ACNT101-107 https://www.cnstarit.com/page132?product_id=22

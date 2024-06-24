@@ -1,0 +1,15 @@
+-> root https://www.bjcw.cn
+  -> 兆维集团官网 https://www.bjcw.cn/StaticPage/cpfw_50_5.html
+  -> 兆维集团官网_1 https://www.bjcw.cn/StaticPage/cpfw_44_5.html
+  -> 兆维集团官网_2 https://www.bjcw.cn/StaticPage/cpfw_45_5.html
+  -> 兆维集团官网_3 https://www.bjcw.cn/StaticPage/cpfw_46_5.html
+  -> 兆维集团官网_4 https://www.bjcw.cn/StaticPage/cpfw_47_5.html
+  -> 兆维集团官网_5 https://www.bjcw.cn/StaticPage/cpfw_48_5.html
+  -> 兆维集团官网_6 https://www.bjcw.cn/StaticPage/cpfw_49_5.html
+  -> 兆维集团官网_7 https://www.bjcw.cn/StaticPage/cpfw_7_12.html
+  -> 兆维集团官网_8 https://www.bjcw.cn/StaticPage/cpfw_13_12.html
+    -> 自动盖章模块 
+    -> 存折发放补登一体模块 
+    -> CIS 双面扫描模块 
+  -> 兆维集团官网_9 https://www.bjcw.cn/StaticPage/cpfw_13_5.html
+  -> 兆维集团官网_10 https://www.bjcw.cn/StaticPage/cpfw_20_5.html

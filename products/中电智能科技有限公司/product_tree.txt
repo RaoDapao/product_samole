@@ -1,0 +1,124 @@
+-> root http://itocec.com
+  -> 首页 
+    -> 产品与服务 
+      -> 大型PLC产品IL40系列 http://itocec.com/Index/lists/catid/8.html
+        -> CPU模块 http://itocec.com/Index/lists/catid/12.html
+          -> 大型 PLC 产品 IL40 系列 CPU 模块 
+          -> 大型 PLC 产品 IL40 系列 CPU 模块 
+        -> 耦合模块 http://itocec.com/Index/lists/catid/55.html
+          -> 单线电耦合 
+          -> 双线电耦合 
+          -> 单线光耦合 
+          -> 双线光末端 
+        -> 末端模块 http://itocec.com/Index/lists/catid/56.html
+          -> 单线电末端 
+          -> 双线电末端 
+          -> 单线光末端 
+        -> I-O模块 http://itocec.com/Index/lists/catid/57.html
+          -> 数字量输入模块 
+          -> 数字量输出模块 
+          -> 模拟量输入模块 
+          -> 模拟量输出模块 
+        -> 网关模块 http://itocec.com/Index/lists/catid/58.html
+          -> Modbus RTU 主站模块 
+          -> CANopen 主站网关模块 
+        -> 功能模块 http://itocec.com/Index/lists/catid/71.html
+          -> 高速计数器模块 
+          -> 脉冲调制输出模块 
+        -> 电源模块 http://itocec.com/Index/lists/catid/73.html
+          -> 非冗余电源模块 
+          -> 冗余电源模块 
+        -> 背板模块 http://itocec.com/Index/lists/catid/74.html
+          -> 7 槽背板模块 
+          -> 8 槽背板模块 
+          -> 9 槽背板模块 
+          -> 10 槽背板模块 
+          -> 12 槽背板模块 
+      -> 中型PLC产品IM30系列 http://itocec.com/Index/lists/catid/9.html
+        -> CPU模块_1 http://itocec.com/Index/lists/catid/15.html
+          -> 中型 PLC 产品 IM30 系列 CPU 模块 
+          -> 中型 PLC 产品 IM30 系列 CPU 模块 
+        -> 耦合模块_1 http://itocec.com/Index/lists/catid/77.html
+          -> 双线光耦合 
+        -> 末端模块_1 http://itocec.com/Index/lists/catid/78.html
+          -> 中型 PLC 产品 IM30 系列末端模块 
+          -> 中型 PLC 产品 IM30 系列末端模块 
+          -> 中型 PLC 产品 IM30 系列末端模块 
+          -> 中型 PLC 产品 IM30 系列末端模块 
+        -> I-O模块_1 http://itocec.com/Index/lists/catid/79.html
+          -> I/O 模块 
+          -> I/O 模块 
+          -> I/O 模块 
+          -> I/O 模块 
+          -> I/O 模块 
+          -> I/O 模块 
+        -> 网关模块_1 http://itocec.com/Index/lists/catid/80.html
+        -> 功能模块_1 http://itocec.com/Index/lists/catid/81.html
+          -> SOE 事件记录 
+        -> 电源模块_1 http://itocec.com/Index/lists/catid/82.html
+        -> 背板模块_1 http://itocec.com/Index/lists/catid/83.html
+          -> 中型 PLC 产品 IM30 系列背板模块 
+          -> 中型 PLC 产品 IM30 系列背板模块 
+          -> 中型 PLC 产品 IM30 系列背板模块 
+          -> 中型 PLC 产品 IM30 系列背板模块 
+          -> 中型 PLC 产品 IM30 系列背板模块 
+          -> 中型 PLC 产品 IM30 系列背板模块 
+          -> 中型 PLC 产品 IM30 系列背板模块 
+      -> 小型PLC产品IS20系列 http://itocec.com/Index/lists/catid/10.html
+        -> CPU模块_2 http://itocec.com/Index/lists/catid/17.html
+        -> 数字量模块 http://itocec.com/Index/lists/catid/59.html
+          -> 8 通道数字量输入模块 
+          -> 16 通道数字量输入模块 
+          -> 8 通道数字量输出模块 
+          -> 8 通道继电器数字量输出模块 
+          -> 8 通道数字量输入输出模块 
+          -> 8 通道数字量输入输出模块 
+          -> 16 通道数字量输入输出模块 
+          -> 16 通道模拟量输入输出模块 
+        -> 模拟量模块 http://itocec.com/Index/lists/catid/86.html
+        -> 网关模块_2 http://itocec.com/Index/lists/catid/113.html
+          -> Probus DP 从站模块 
+          -> EthweNet/IP 从站网关 
+          -> Modbus TCP 从站模块 
+      -> 小型网络增强型PLC产品IS23系列 http://itocec.com/Index/lists/catid/68.html
+        -> CPU模块_3 http://itocec.com/Index/lists/catid/87.html
+        -> 数字量模块_1 http://itocec.com/Index/lists/catid/88.html
+          -> 16 通道数字量输出模块 
+        -> 模拟量模块_1 http://itocec.com/Index/lists/catid/89.html
+          -> 4 通道模拟量输入模块 
+          -> 4 通道模拟量输出模块 
+          -> 6 通道模拟量输入输出模块 
+        -> 网关模块_3 http://itocec.com/Index/lists/catid/114.html
+        -> 功能模块_2 http://itocec.com/Index/lists/catid/115.html
+          -> 高数计数器 
+          -> 脉宽调制输出模块 
+      -> 小型高防护型PLC产品IS21系列 http://itocec.com/Index/lists/catid/69.html
+        -> 32通道数字量输入输出模块 http://itocec.com/Index/lists/catid/90.html
+        -> 16路模拟量输入模块 http://itocec.com/Index/lists/catid/91.html
+        -> 4路模拟量输入模块 http://itocec.com/Index/lists/catid/92.html
+        -> 26通道数字量模拟量混合模块 http://itocec.com/Index/lists/catid/109.html
+      -> 车载型PLC产品IS29系列 http://itocec.com/Index/lists/catid/70.html
+        -> IS29模块 http://itocec.com/Index/lists/catid/108.html
+      -> 编程、组态软件 http://itocec.com/Index/lists/catid/76.html
+        -> 逻辑组态软件 http://itocec.com/Index/lists/catid/97.html
+        -> 监控组态软件 http://itocec.com/Index/lists/catid/98.html
+      -> 触摸屏HMI http://itocec.com/Index/lists/catid/75.html
+        -> 15寸触摸屏 http://itocec.com/Index/lists/catid/96.html
+          -> 15 寸触摸屏 
+          -> 15 寸触摸屏 
+    -> 技术支持 
+      -> 下载中心 
+        -> 产品指南 http://itocec.com/Index/lists/catid/104.html
+          -> 大型 PLC 产品 IL40 系列 
+          -> 中型 PLC 产品 IM30 系列 
+          -> 小型 PLC 产品 IS20 系列 
+          -> 小型网络增强型 PLC 产品 IS23 系列 
+          -> 小型高防护型 PLC 产品 IS21 系列 
+          -> 车载型 PLC 产品 IS29 系列 
+          -> 触摸屏 HMI 
+          -> 编程、组态软件 
+          -> 编程、组态软件 
+    -> 新闻中心 
+      -> 公司新闻_1 http://itocec.com/Index/show/catid/33/id/302.html
+        -> IM30 系列 PLC 
+        -> 跨平台 SCADA 软件（SC-ProView） 

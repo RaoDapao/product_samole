@@ -1,0 +1,6 @@
+-> root http://www.wjgd.net
+  -> 产品中心-江西万骏光电有限公司 http://www.wjgd.net/cpzx
+    -> 高性能红外热像仪 
+    -> 无人机载红外热成像仪 
+    -> 车载热成像夜视辅助驾驶系统 
+  -> 文章分类结果页 http://www.wjgd.net/NewsInfoCategory?categoryId=380338,380338

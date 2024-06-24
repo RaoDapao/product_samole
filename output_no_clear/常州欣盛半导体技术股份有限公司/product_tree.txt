@@ -1,0 +1,11 @@
+-> root https://www.ast-cn.com
+  -> 产品_常州欣盛半导体技术股份有限公司 https://www.ast-cn.com/product
+    -> COF TAPE 
+    -> COF IC 
+    -> FINE PITCH FPC 
+  -> 全球显示屏市场_产品应用_常州欣盛半导体 https://www.ast-cn.com/application
+  -> COFTAPE_产品_常州欣盛半导体技术 https://www.ast-cn.com/product/17274
+  -> COFIC_产品_常州欣盛半导体技术股份 https://www.ast-cn.com/product/18701
+  -> FINEPITCHFPC_产品_常州欣盛 https://www.ast-cn.com/product/18703
+  -> COFTAPE_Products_Apl https://www.ast-cn.com/en/product/18848
+  -> COFIC_Products_Aplus https://www.ast-cn.com/en/product/18849

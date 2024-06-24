@@ -1,0 +1,21 @@
+产品网址：http://icpc.cn/cms/item/view?table=product&id=120
+产品结构：当前位置：首页->产品与服务->飞腾->模块->COME-B6F241飞腾COMETYPE6
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|飞腾模块|COME-B6F241|采用 100%全国产方案，均为全国产器件。处理器采用飞腾 FT2000 四核高性能 CPU，芯片组采用兆芯 ZX-200 桥片，内存采用长鑫存储 CXDQ3A8AM-CG，板载双通道 16GB DDR4 ECC 内存，集成国产景嘉微显示控制器，网络控制器和电源芯片均采用国产型号，实现自主可控。功能接口和结构符合 COM Express TYPE6 标准，集成丰富外围接口和总线，可快速搭建飞腾 FT-2000/4 处理器的国产化平台。通过 COME TYPE 6 连接器引出 4 路 SATA、2 路 HDMI、1 路千兆网络、4 路 USB3.0、8 路 USB2.0、4 路串口、3 路 CAN 以及 5 路 PCIE。|
+
+
+
+
+主板,COME TYPE6 ， 95*125mm
+处理器,FT-2000/4 ，4核
+内存,载国产双通道16GB  DDR4内存颗粒
+GPU,景嘉微JM7201  ，2GB-DDR3独立显存；支持VGA/HDMI/LVDS显示功能
+网络,板载1个国产千兆以太网控制器（飞腾CPU引出）
+COMe扩展接口  （符合COME TYPE6 REV2.0）,"2x PCIE3.0 x8，可配置为PCIE3.0 x16  4x PCIE2.0 x1（可配置为 PCIE2.0 x2, x4）  2x PCIE3.0 x1；1x PCIE2.0 x1  4x SATA III/6Gbps  4x GPI；4x GPO  4x USB3.0（带4路USB2.0）；4x USB2.0（独立）  2*HDMI\1*VGA\1*LVDS  4x UART；3x CAN  1*1000M LAN  LPC (与3路CAN BUS复用)；SPI （可选模块BIOS或者底板BIOS）  I2C；HDA；WDT；RTC"
+电源,支持AT  12V 供电
+BIOS,标配UBOOT，支持UEFI
+操作系统,银河麒麟、  UOS及开源操作系统
+工作环境,-20℃～55℃； 5%～90% RH
+储存环境,-40℃～85℃； 5%～90% RH

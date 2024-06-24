@@ -1,0 +1,6 @@
+产品网址：https://en.aimicron.com/Products/49
+产品结构：root->AIM906-慷智集成电路（上海）有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|INTELLIGENT AUTOMOTIVE HIGH-DEFINITION AUDIO AND VIDEO TRANSMISSION SERDES CHIPSETS|AIM906|AHDL 单通道串行输入转换为 DVP 并行图像输出；支持 720P 至高达 1M 像素的相机/视频；通过单根同轴电缆或屏蔽双绞线（STP）电缆实现高速视频、双向控制数据的传输；接收器上的 CDR 无需外部参考时钟源；强大的 EMI/EMC 耐受性和最小功耗；多种 EQ 支持长距离电缆传输；单 1.8V 电源，IO 支持 1.8V 和 3.3V；内置自测（BIST）用于系统诊断；AEC-Q100 2 级认证；32 引脚（5mm*5mm）QFN 封装|

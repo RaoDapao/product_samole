@@ -1,0 +1,39 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+上海希形科技有限公司,有源电力滤波器,https://www.xixingtech.com/product/info/id/1090.html,EasyPQ-APF 系列,由电力电子元件 IGBT 高频开关和 FPGA 芯片等构成，检测负载谐波电流并主动发出大小相等方向相反的补偿电流，补偿后的源电流几乎为纯正弦波，其行为模式为主动式电流源输出,EasyPQ|APF系列有源电力滤波器（ActivePowerFilter）,5308366039,无,0,无,0,无,0
+上海希形科技有限公司,EasyPQ-APF 系列有源电力滤波器,https://xixingtech.com/product/info/id/1090.html,EasyPQ-APF,由电力电子元件 IGBT 高频开关和 FPGA 芯片等构成，检测负载谐波电流并主动发出大小相等方向相反的补偿电流，补偿后的源电流几乎为纯正弦波，其行为模式为主动式电流源输出,EasyPQ|APF系列有源电力滤波器（ActivePowerFilter）,5308366039,无,0,无,0,无,0
+上海希形科技有限公司,EasyPQ-SPC 系列三相不平衡治理装置,https://www.xixingtech.com/product/info/id/1089.html,无,主要由电容、IGBT 高频开关、FPGA 芯片等元器件构成，通过检测负载不平衡电流计算出达到平衡状态需转换的电流，使补偿后的三相电流达到平衡状态,EasyPQ,1630556959,无,0,无,0,无,0
+上海希形科技有限公司,静止无功发生器,https://www.xixingtech.com/product/info/id/1088.html,EasyPQ-SVG 系列,主要由电容、IGBT 高频开关、FPGA 芯片等元器件构成，通过检测负载无功电流在 15ms 内主动发出大小相等方向相反的补偿电流，使补偿后的电压电流保持同相位，DPF 提升至 1。其行为模式为主动式电流源输出,EasyPQ|SVG系列静止无功发生器(StaticVarGenerator),9557115370,无,0,无,0,无,0
+上海希形科技有限公司,三相不平衡治理装置,https://www.xixingtech.com/product/list/id/1089.html,EasyPQ-SPC 系列,主要由电容、IGBT 高频开关、FPGA 芯片等元器件构成，通过检测负载不平衡电流计算出达到平衡状态需转换的电流，使补偿后的三相电流达到平衡状态,EasyPQ系列,9333283641,无,0,无,0,无,0
+上海希形科技有限公司,HightV-PQ 有源电力滤波器/静止无功发生器,https://www.xixingtech.com/product/info/id/1105.html,HighVPQ 系列,适用于 690V、500V、480V、440V 等特殊电压等级下的治理环境，额定电压 850V，使用 400V 及以上电压等级的现场，适用于常见 690V 负载轧机、密炼机、中频炉，采用 H 桥拓补结构，可以滤除偶次谐波,HightV,4989799010,无,0,无,0,无,0
+上海希形科技有限公司,HightV-PQ 有源电力滤波器/静止无功发生器,https://www.xixingtech.com/product/list/id/1090.html,无,适用于 690V、500V、480V、440V 等特殊电压等级下的治理环境,HighVPQ系列,5945272217,无,0,无,0,无,0
+上海希形科技有限公司,储能变流器,https://www.xixingtech.com/product/list/id/1092.html,无,无,SuperPQ系列,1434635486,无,0,无,0,无,0
+上海希形科技有限公司,EasyPQ 系列,https://www.xixingtech.com/product/list/id/1092.html,无,无,SuperPQ系列,1434635486,无,0,无,0,无,0
+上海希形科技有限公司,HighVPQ 系列,https://www.xixingtech.com/product/list/id/1092.html,无,无,SuperPQ系列,1434635486,无,0,无,0,无,0
+上海希形科技有限公司,UniquePQ 系列,https://www.xixingtech.com/product/list/id/1092.html,无,无,SuperPQ系列,1434635486,无,0,无,0,无,0
+上海希形科技有限公司,SuperPQ 系列,https://www.xixingtech.com/product/list/id/1092.html,无,无,SuperPQ系列,1434635486,无,0,无,0,无,0
+上海希形科技有限公司,混合补偿控制器,https://www.xixingtech.com/product/list/id/1092.html,无,无,SuperPQ系列,1434635486,无,0,无,0,无,0
+上海希形科技有限公司,晶闸管投切开关,https://www.xixingtech.com/product/list/id/1092.html,无,无,SuperPQ系列,1434635486,无,0,无,0,无,0
+上海希形科技有限公司,无功补偿元器件,https://www.xixingtech.com/product/list/id/1092.html,无,无,SuperPQ系列,1434635486,无,0,无,0,无,0
+上海希形科技有限公司,混合补偿控制器,https://www.xixingtech.com/product/info/id/1096.html,SVGC 混合补偿控制器,可实现 SVG 对电容电抗的投切控制,SVGC混合补偿控制器,3773000504,无,0,无,0,无,0
+上海希形科技有限公司,混合补偿控制器,https://www.xixingtech.com/product/info/id/1096.html,静态 SVGC-CON-J,输出信号是干接点，用于控制接触器投切电容器组,SVGC混合补偿控制器,3773000504,无,0,无,0,无,0
+上海希形科技有限公司,混合补偿控制器,https://www.xixingtech.com/product/info/id/1096.html,动态 SVGC-CON-T,输出信号是直流 12V，用于控制晶闸管开关投切电容器组,SVGC混合补偿控制器,3773000504,无,0,无,0,无,0
+上海希形科技有限公司,单相有源滤波器,https://www.xixingtech.com/product/list/id/1091.html,无,具备综合电能质量治理能力。通电后自行启动，根据负荷的状态智能补偿，无需任何监管。安装使用便捷，适用于功率因数低、易产生谐波的单相负荷或者三相设备。,UniquePQ系列,421569753,无,0,无,0,无,0
+上海希形科技有限公司,产品定制化服务,https://www.xixingtech.com/product/oem.html,无,希形科技向客户提供个性化定制化设计制造服务，具体涵盖从产品外型设计、软件定制设计、配套资料设计以及售后服务全过程，以满足每位客户对产品特殊的需求。提供硬件 OEM/ODM 服务和软件 ODM 服务。,无,0,无,0,无,0,无,0
+上海希形科技有限公司,低压电容,https://www.xixingtech.com/product/info/id/1093.html,EasyPQ-BKM]系列,采用金属化聚丙烯薄膜技术，具有优越的自愈性，当出现电气击穿时仍能正常工作。外壳为圆柱形铝制金属外壳，底部设有接地螺栓，采用压敏防爆技术，当电容内部压力超过限值可安全释放内部压力，避免电容发生爆炸。,低压电容,6177047788,无,0,无,0,无,0
+上海希形科技有限公司,无功补偿元器件,https://www.xixingtech.com/product/info/id/1092.html,EasyPQ-CKSG 系列干式铁芯串联电抗,适用于低压配电系统中，与并联电容组串联，用于抑制电容的投切涌流和吸收谐波，避免谐波及冲击电压、电流对电力系统的影响，保护电容。串接 7%电抗可有效抑制 5 次及以上谐波，串接 14%电抗可有效抑制 3 次及以上谐波。,低压电抗器,4879062012,无,0,无,0,无,0
+上海希形科技有限公司,低压电抗器,https://www.xixingtech.com/product/info/id/1092.html#,EasyPQ-CKSG 系列干式铁芯串联电抗,适用于低压配电系统中，与并联电容组串联，用于抑制电容的投切涌流和吸收谐波，避免谐波及冲击电压、电流对电力系统的影响，保护电容。串接 7%电抗可有效抑制 5 次及以上谐波，串接 14%电抗可有效抑制 3 次及以上谐波。,低压电抗器,4879062012,无,0,无,0,无,0
+上海希形科技有限公司,低压电抗器,https://xixingtech.com/product/info/id/1092.html,EasyPQ-CKSG 系列,适用于低压配电系统，与并联电容组串联，用于抑制电容的投切涌流和吸收谐波，避免谐波及冲击电压、电流对电力系统的影响，保护电容。串接 7%电抗可有效抑制 5 次及以上谐波，串接 14%电抗可有效抑制 3 次及以上谐波。,低压电抗器,4879062012,无,0,无,0,无,0
+上海希形科技有限公司,有源电力滤波器（APF）,https://xixingtech.com/about/index.html,无,无,公司简介,4805063520,无,0,无,0,无,0
+上海希形科技有限公司,静止无功发生器（SVG）,https://xixingtech.com/about/index.html,无,无,公司简介,4805063520,无,0,无,0,无,0
+上海希形科技有限公司,三相不平衡调节装置(SPC）,https://xixingtech.com/about/index.html,无,无,公司简介,4805063520,无,0,无,0,无,0
+上海希形科技有限公司,晶闸管投切开关（TSC）,https://xixingtech.com/about/index.html,无,无,公司简介,4805063520,无,0,无,0,无,0
+上海希形科技有限公司,工商业储能装置,https://xixingtech.com/about/index.html,无,无,公司简介,4805063520,无,0,无,0,无,0
+上海希形科技有限公司,低压电容电抗,https://xixingtech.com/about/index.html,无,无,公司简介,4805063520,无,0,无,0,无,0
+上海希形科技有限公司,功率因数控制器,https://www.xixingtech.com/product/info/id/1095.html,EasyPQ-CON 系列,采用专用的电力参数采集芯片和 32 位 ARM 处理器，特别适用于功率因数波动大的场合。动作次数少，控制精度高，抗干扰能力强。具有输出 DC12V 信号和输出干接点信号两种控制器，可控制晶闸管、复合开关、接触器。,功率因数控制器,7771362091,无,0,无,0,无,0
+上海希形科技有限公司,单相有源滤波器,https://www.xixingtech.com/product/info/id/1104.html,UniquePQ 系列,具备综合电能质量治理能力，通电后自行启动，根据负荷状态智能补偿，无需监管，安装使用便捷，适用于功率因数低、易产生谐波的单相负荷或三相设备,单相有源滤波器,9398575955,无,0,无,0,无,0
+上海希形科技有限公司,复合开关,https://www.xixingtech.com/product/info/id/1094.html,EasvPO-FK 系列,由晶闸管和磁保持继电器并联组合而成，通过控制晶闸管开关，实现电容补偿回路电压过零点投入与电流过零点切除，利用磁保持继电器保持连续电流，使电容投切无合闸涌流冲击，响应速度快,复合开关,7591478982,无,0,无,0,无,0
+上海希形科技有限公司,复合开关,https://www.xixingtech.com/product/list/id/1094.html,EasyPQ-FK 系列,由晶闸管和磁保持继电器并联组合而成，通过控制晶闸管开关，实现电容补偿回路电压过零点投入与电流过零点切除，利用磁保持继电器保持连续电流，使电容投切无合闸涌流冲击，响应速度快,无功补偿元器件,7642199868,无,0,无,0,无,0
+上海希形科技有限公司,低压电容,https://www.xixingtech.com/product/list/id/1094.html,EasyPQ-BKMJ 系列,采用金属化聚丙烯薄膜技术，具有优越的自愈性，外壳为圆柱形铝制金属外壳，底部设有接地螺栓，采用压敏防爆技术，当电容内部压力超过限值可安全释放内部压力，避免电容发生爆炸,无功补偿元器件,7642199868,无,0,无,0,无,0
+上海希形科技有限公司,智能型可控硅（晶闸管）投切开关,https://www.xixingtech.com/product/list/id/1093.html,EasyPQ-TS 系列,结合无功补偿行业应用需求，“从‘芯’出发”，通过高性能、高标准的特性，轻松应对各种电能质量恶劣的环境！同时技术研发与创新作为希形科技的绝对优势，使 EasyPQ-TS 系列在自主创新中，获得多项专利技术,晶闸管投切开关,1201943700,无,0,无,0,无,0
+上海希形科技有限公司,SVGC 混合补偿控制器,https://www.xixingtech.com/product/list/id/1095.html,无,可实现 SVG 对电容电抗的投切控制,混合补偿控制器,2763357814,无,0,无,0,无,0
+上海希形科技有限公司,EasyPQ-APF 系列有源电力滤波器,https://www.xixingtech.com/product/index.html,无,采用第五代 IGBT 高频开关和 FPGA 芯片等构成，开关损耗较第三代降低三分之一，等效开关频率达到 80kHz，谐波滤除率可达 90%以上,电能质量,2355441636,无,0,无,0,无,0

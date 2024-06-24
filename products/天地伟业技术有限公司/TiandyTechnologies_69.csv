@@ -1,0 +1,77 @@
+产品网址：https://korea.tiandy.com/index.php?s=/Home/Product/detail/id/664.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|네트워크 카메라 라이트|TC-C34WP|4MP Fixed Color Maker Bullet Camera，默认金属+塑料，M 为金属外壳，最高 2592x1520@25fps，S+265/H.265/H.264，最低照度彩色：0.0008Lux@F1.0，120dB WDR，2 个暖光灯，15~20m，支持绊线和周界，内置麦克风、SD 卡插槽、复位按钮，工作条件-40℃~60℃，0~95%RH，POE，IP67|
+
+Camera,Unnamed: 1,Unnamed: 2
+Image Sensor,"1/2.8"" CMOS","1/2.8"" CMOS"
+Signal System,PAL/NTSC,PAL/NTSC
+Min. Illumination,"Color:0.0008Lux@(F1.0,AGC ON),0Lux with LED on","Color:0.0008Lux@(F1.0,AGC ON),0Lux with LED on"
+Shutter Time,"1s to 1/100,000s","1s to 1/100,000s"
+Day & Night,,
+WDR,120dB,120dB
+Angle Adjustment,"Bracket,pan 0~360°,tilt 0~75°,roate 0~360°","Bracket,pan 0~360°,tilt 0~75°,roate 0~360°"
+Lens,,
+Lens Type,Fixed,Fixed
+Focus,2.8mm/4mm,2.8mm/4mm
+Lens Mount,M12,M12
+Aperture,"F1.0,Fixed","F1.0,Fixed"
+FOV,Horizontal field of view:100.1°(2.8mm)/76.3°(4mm)；Vertical field of view:57.8°(2.8mm)/42.9°(4mm),Horizontal field of view:100.1°(2.8mm)/76.3°(4mm)；Vertical field of view:57.8°(2.8mm)/42.9°(4mm)
+Illuminator,,
+IR LEDs,,
+IR Range,,
+Wavelength,,
+White LEDs/Warmlights,2,2
+Compression Standard,,
+Video Compression,S+265/H.265/H.264,S+265/H.265/H.264
+Video Bit Rate,32Kbps~6Mbps,32Kbps~6Mbps
+Audio Compression,Audio Compression,G.711A/G.711U/ADPCM_D_D
+Audio Bit Rate,Audio Bit Rate,"8K,32K,48Kbps"
+Image,Image,
+Max. Resolution,Max. Resolution,2592x1520
+Main Stream,Main Stream,"PAL:25fps(2592x1520,2560x1440,2304x1296,1920x1080,1280x720)"
+,,"NTSC:24fps(2592x1520,2560x1440),30fps(2304x1296,1920x1080,1280x720)"
+Sub Stream,Sub Stream,"PAL:25fps(704x576,704x288,640x360,352x288)"
+,,"NTSC:30fps(704x480,704x240,640x360,352x240)"
+Third Stream,Third Stream,
+Image Setting,Image Setting,"Saturation,brightness,contrast,sharpness,adjustable by client software or web browser"
+Image Enhancement,Image Enhancement,BLC/3D DNR/HLC
+ROI,ROI,
+OSD,OSD,"16x16,32x32,48x48,64x64,adaptable size,Letters Such as Week,Date,Time,Total 1 Regions"
+Picture Overlay,Picture Overlay,
+Privacy Mask,Privacy Mask,"Yes,4 regions"
+Smart Defog,Smart Defog,Yes
+Feature,Feature,
+Alarm Trigger,Alarm Trigger,"Motion Detection,Mask Alarm,IP Address Conflict"
+Video Analytics,Video Analytics,"Tripwire,Perimeter"
+Early Warning(EW),Early Warning(EW),
+Network,Network,
+ANR,ANR,Yes(Only Support Tiandy ANR NVR)
+Protocols,Protocols,"HTTP,TCP/IP,ICMP,FTP,DHCP,DNS,DDNS,RTP,RTSP,RTCP,NTP,UPnP,UDP"
+System Compatibility,System Compatibility,"ONVIF(PROFILE S/T/G),SDK,CGI,Milestone,P2P(Mutually exclusive with Profile G)"
+Remote Connection,Remote Connection,2
+Client,Client,"Easy7,EasyLive"
+Web Version,Web Version,Web6
+Interface,Interface,
+Communication Interface,Communication Interface,1 RJ45 10M/ 100M self adaptive Ethernet port
+Audio I/O,Audio I/O,Mic in
+Alarm I/O,Alarm I/O,
+Speaker,Speaker,
+Reset Button,Reset Button,Yes
+On-board storage,On-board storage,"Built-in MicroSD card slot,up to 512 GB"
+General,General,
+Web Client Language,Web Client Language,17 languages  Chinese Simplified/English/Chinese Traditional/Spanish/Italian/Korean/Turkish/Russian/Thai Chinese/Polish/French/Dutch/Hebrew/Vietnamese/Arabic/German/Ukrainian
+Operating Conditions,Operating Conditions,"-35℃~60℃ ,0～95% RH"
+Power Supply,Power Supply,"DC 12V±25%,PoE(802.3af)"
+Power Consumption,Power Consumption,MAX:6W(12V) MAX:8W(PoE)
+Protection,IP67,IP67
+Heater,,
+Dimensions,160.8x68x74.5mm(6.33x2.68x2.93inch),160.8x68x74.5mm(6.33x2.68x2.93inch)
+GrossWeight,Metal+Plastic:0.47Kg(1.03lb) Metal:0.65Kg(1.43lb),Metal+Plastic:0.47Kg(1.03lb) Metal:0.65Kg(1.43lb)
+NetWeight,Metal+Plastic:0.31Kg(0.68lb) Metal:0.48Kg(1.06lb),Metal+Plastic:0.31Kg(0.68lb) Metal:0.48Kg(1.06lb)
+
+
+날짜,제목,유형
+2023-01-12,TC-C34WP Spec W-E-Y(M)-2.8mm(4mm)-V4.0,pdf

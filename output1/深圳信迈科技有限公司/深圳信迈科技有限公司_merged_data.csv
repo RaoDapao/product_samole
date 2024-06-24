@@ -1,0 +1,94 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+深圳信迈科技有限公司,AM335x 开发板,https://www.szxinmai.com/html/2021/dsp+arm_1201/55.html,无,基于 TI Sitara 系列 AM3352/AM3354/AM3358/AM3359 ARM Cortex-A8 高性能低功耗处理器设计，由核心板和底板组成。接口资源丰富，引出双路千兆网口、HDMI、GPMC、CAN 等接口，方便用户快速进行产品方案评估与技术预研。适用于通讯管理、数据采集、人机交互、运动控制、智能电力等领域。提供核心板引脚定义、可编辑底板原理图、可编辑底板 PCB、芯片 Datasheet，以及系统烧写镜像、内核驱动源码、文件系统源码、丰富的 Demo 程序和完整的平台开发包、入门教程。,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,AM335x 智能网关,https://www.szxinmai.com/html/2021/zhinengwangguan_1201/49.html,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,OKMX8MP-C 开发板,https://www.szxinmai.com/html/2021/zhinengwangguan_1201/49.html,无,采用 TI（德州仪器）AM57x 系列 AM5718 多核异构处理器，由信迈自主研发设计。具有强大的视频处理能力，支持多种操作系统，提供多种开发例程和扩展功能，广泛应用于多个领域。,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,AM335x 核心板,https://www.szxinmai.com/html/2021/dsp+arm_1201/73.html,无,基于 TI Sitara 系列 AM3352/AM3354/AM3358/AM3359 ARM Cortex-A8 高性能低功耗处理器设计，由核心板和底板组成。核心板经过专业的 PCB Layout 和高低温测试验证，稳定可靠，可满足各种工业应用环境。评估板接口资源丰富，引出双路千兆网口、HDMI、GPMC、CAN 等接口，方便用户快速进行产品方案评估与技术预研。,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,AM5728_5G 智能网关,https://www.szxinmai.com/html/2021/zhinengwangguan_1201/54.html,无,CPU：AM5718<br>架构：4*Cortex-A53+Cortex-M7<br>主频：1.6GHz<br>内存：1GB DDR3L+ECC<br>ROM：8GB eMMC<br>系统：Linux4.9.41+Qt56+Wayland,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,AM5728_Artix7 开发板,https://www.szxinmai.com/html/2021/dsp+arm+fpga_1201/30.html,无,CPU：AM5728 + Artix7<br>架构：2*Cortex-A15+ 2* C66x DSP<br>主频：1.6GHz<br>内存：1GB DDR3L+ECC<br>ROM：8GB eMMC<br>系统：Linux4.9. 41+Qt56+Wayland,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,AM5728_Artix7 核心板,https://www.szxinmai.com/html/2021/dsp%20arm%20fpga_1201/81.html,无,CPU：AM5718<br>架构：4*Cortex-A53+Cortex-M7<br>主频：1.6GHz<br>内存：1GB DDR3L+ECC<br>ROM：8GB eMMC<br>系统：Linux4.9.41+Qt56+Wayland,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,AM5728_Max10_Ethercat 开发板,https://www.szxinmai.com/html/2021/yejingping_1201/100.html,无,CPU：AM5718，架构：4*Cortex-A53+Cortex-M7，主频：1.6GHz，内存：1GB DDR3L+ECC，ROM：8GB eMMC，系统：Linux4.9.41+Qt56+Wayland,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,AM5728 开发板,https://www.szxinmai.com/html/2021/dsp+arm_1201/25.html,无,CPU：AM5728<br>架构：4*Cortex-A53+Cortex-M7<br>主频：1.6GHz<br>内存：1GB DDR3L+ECC<br>ROM：8GB eMMC<br>系统：Linux4.9.41+Qt56+Wayland,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,AM5728 核心板,https://www.szxinmai.com/html/2021/arm+fpga_1201/36.html,无,采用沉金无铅、十层板、工业级设计，可应用于运动控制系统、机器视觉处理系统、图像识别系统、音频分析系统、视频分析系统，高端测量仪器等行业应用。支持 EtherCAT，EtherNet/IP、PROFIBUS 等多种工业通信协议，产品可轻松实现各总线控制和工业组网；通过双 C66x DSP 实现更复杂的，更高精度的运动控制插补算法；并可通过 GPMC 总线连接 FPGA 的方案，实现更多的工业控制与图像处理功能。支持 16 路或 32 路高端应用的音频处理分析算法，可实现声源定位、回音消除等各种音频分析处理场景应用。视频编解码能力强大，支持 1 路 1080P60 或 2 路 720P60 或 4 路 720P30 视频硬件编解码，支持 H.265 视频软解码；在视频处理上，利用双 C66x DSP 的强大功能，可实现复杂的图像识别、视频分析及识别、各种数据实时分析处理、以及其他高端 AI 应用场合等。高性能 GPU，双核 SGX544 3D 加速器和 GC320 2D 图形加速引擎，支持 OpenGL ES2.0；SOM572x 软件 SDK 开发包，提供 Linux4.14.67 系统、DSP RTOS 系统，支持 OpenCL、OpenMP、SysLink IPC 多核开发，提供 ARM 与 DSP 多核间通信方法与案例，让高速信号处理、音视频数据分析等开发难度大大降低。体积小，大小仅 86mm*60.5mm,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,C665x_Artix7 开发板,https://www.szxinmai.com/html/2021/dsp%20c6000_1201/29.html,无,基于 TI KeyStone C66x 多核定点/浮点 DSP TMS320C665x + Xilinx Artix7 FPGA 处理器，适用于高端图像处理、高速大数据传输和音视频等大数据采集处理领域,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,C665x_Artix7 核心板,https://www.szxinmai.com/html/2021/dsp%20c6000_1201/80.html,无,基于 TI KeyStone C66x 多核定点/浮点 DSP TMS320C665x + Xilinx Artix7 FPGA 处理器，适用于高端图像处理、高速大数据传输和音视频等大数据采集处理领域,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,C6678_K7 开发板,https://www.szxinmai.com/html/2021/dsp+arm+fpga_1201/26.html,无,基于 TI KeyStone C66x 多核定点/浮点 DSP TMS320C6678 + Xilinx Kintex-7 FPGA 处理器，适用于高端图像处理、高速大数据传输和音视频等大数据采集处理领域,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,C6678_K7 核心板,https://www.szxinmai.com/html/2021/dsp%20arm%20fpga_1201/76.html,无,基于 TI KeyStone C66x 多核定点/浮点 DSP TMS320C6678 + Xilinx Kintex-7 FPGA 处理器，适用于高端图像处理、高速大数据传输和音视频等大数据采集处理领域,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,C6678_K7 评估板,https://www.szxinmai.com/html/2021/zynq_1201/70.html,无,基于 TI KeyStone C66x 多核定点/浮点 DSP TMS320C6678 + Xilinx Kintex-7 FPGA 处理器，适用于高端图像处理、高速大数据传输和音视频等大数据采集处理领域,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,C6678 开发板,https://www.szxinmai.com/html/2021/dsp%20c6000_1201/28.html,无,基于 TI KeyStone C66x 多核定点/浮点 DSP TMS320C6678 + Xilinx Kintex-7 FPGA 处理器，适用于高端图像处理、高速大数据传输和音视频等大数据采集处理领域,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,C6748_Spartan6 开发板,https://www.szxinmai.com/html/2021/dsp%20c6000_1201/33.html,无,CPU：TMS320C6748 + Xilinx Spartan-6 FPGA<br>架构：C6748 DSP<br>主频：456MHz<br>内存：512M DDR3L+ECC<br>ROM：8GB eMMC<br>系统：SYS/BIOS,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,C6748_Spartan6 核心板,https://www.szxinmai.com/html/2021/arm+fpga_1201/31.html,无,CPU：TMS320C6748 + Xilinx Spartan-6 FPGA<br>架构：C6748 DSP + Spartan6 FPGA<br>主频：456MHz<br>内存：512M DDR3L+ECC<br>ROM：8GB eMMC<br>系统：SYS/BIOS,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,DDR3/4 仿真,https://www.szxinmai.com/html/2021/shishixitong_1201/43.html,无,SI/PI 协同仿真，Batch 仿真；参与行业 DDR3/4/5 设计规范制定；仿真测试对比，提升仿真精度；丰富的 DDR3/4/5 产品 Debug 经验,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,FPGA ISP 方案,https://www.szxinmai.com/html/2021/gongjuhefuwu_1201/48.html,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,i.MX6DL_Spatan6 核心板,https://www.szxinmai.com/html/2021/arm+fpga_1201/83.html,无,CPU：AM5718，架构：4*Cortex-A53+Cortex-M7，主频：1.6GHz，内存：1GB DDR3L+ECC，ROM：8GB eMMC，系统：Linux4.9.41+Qt56+Wayland,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,i.MX6DL 开发板,https://www.szxinmai.com/html/2021/arm_1201/68.html,无,CPU：AM5718<br>架构：4*Cortex-A53+Cortex-M7<br>主频：1.6GHz<br>内存：1GB DDR3L+ECC<br>ROM：8GB eMMC<br>系统：Linux4.9.41+Qt56+Wayland,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,i.MX6DL 核心板,https://www.szxinmai.com/html/2021/zynq_1201/86.html,无,CPU：AM5718，架构：4*Cortex-A53+Cortex-M7，主频：1.6GHz，内存：1GB DDR3L+ECC，ROM：8GB eMMC，系统：Linux4.9.41+Qt56+Wayland,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,i.MX6ULL 智能网关,https://www.szxinmai.com/html/2021/zhinengwangguan_1201/51.html,无,CPU：AM5718，架构：4*Cortex-A53+Cortex-M7，主频：1.6GHz，内存：1GB DDR3L+ECC，ROM：8GB eMMC，系统：Linux4.9.41+Qt56+Wayland,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,i.MX8M_Mini_Artix7 核心板,https://www.szxinmai.com/html/2021/arm+fpga_1201/87.html,无,CPU：AM5718，架构：4*Cortex-A53+Cortex-M7，主频：1.6GHz，内存：1GB DDR3L+ECC，ROM：8GB eMMC，系统：Linux4.9.41+Qt56+Wayland,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,i.MX8M_Mini 开发板,https://www.szxinmai.com/html/2021/arm_1201/72.html,无,采用 TI（德州仪器）AM57x 系列 AM5718 多核异构处理器，由信迈自主研发设计。具有强大的视频处理能力，支持多种操作系统，提供多种开发例程和扩展功能，广泛应用于工业通信、人机界面、HMI、自动化控制、工厂自动化、楼宇自动化、机器视觉、医疗成像、测试与测量、汽车多媒体等应用领域。,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,i.MX8M_Mini 核心板,https://www.szxinmai.com/html/2021/zynq_1201/90.html,无,CPU：AM5718，架构：4*Cortex-A53+Cortex-M7，主频：1.6GHz，内存：1GB DDR3L+ECC，ROM：8GB eMMC，系统：Linux4.9.41+Qt56+Wayland,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,Linux 内核定制,https://www.szxinmai.com/html/2021/qianrushilinux_1201/45.html,无,PCB 布线设计、抗电磁干扰设计、功耗管理、节点温度监测及散热管理,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,Linux 驱动定制,https://www.szxinmai.com/html/2021/qianrushilinux_1201/41.html,无,功耗管理、系统分析、开机时间管理、可移植操作系统接口（POSIX）、实时在片编程技术,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,Max10_ST32_Ethercat 高实时方案,https://www.szxinmai.com/html/2021/gongjuhefuwu_1201/50.html,无,CPU：ST32+Max10 Ethercat 高实时高精度解决方案<br>架构：4*Cortex-A53+Cortex-M7<br>主频：1.6GHz<br>内存：1GB DDR3L+ECC<br>ROM：8GB eMMC<br>系统：Linux4.9.41+Qt56+Wayland,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,OMAPL138_Spartan6 开发板,https://www.szxinmai.com/html/2021/dsp+arm+fpga_1201/27.html,无,CPU：OMAPL138 + Xilinx Spartan-6 FPGA<br>架构：C6748 DSP + ARM9 + Spartan6 FPGA<br>主频：456MHz<br>内存：512M DDR3L+ECC<br>ROM：8GB eMMC<br>系统：SYS/BIOS,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,OMAPL138_Spartan6 核心板,https://www.szxinmai.com/html/2021/arm+fpga_1201/32.html,无,CPU：OMAPL138 + Xilinx Spartan-6 FPGA<br>架构：C6748 DSP + ARM9 + Spartan6 FPGA<br>主频：456MHz<br>内存：512M DDR3L+ECC<br>ROM：8GB eMMC<br>系统：SYS/BIOS,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,OMAPL138 开发板,https://www.szxinmai.com/html/2021/dsp+arm_1201/24.html,无,CPU：OMPAL138<br>架构：C6748 定点 DSP+ARM9+Spartan-6<br>主频：456MHz<br>内存：512MB DDR3L+ECC<br>ROM：8GB eMMC<br>系统：Linux4.9.41+Qt56+Wayland,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,OMAPL138 核心板,https://www.szxinmai.com/html/2021/dsp+arm_1201/74.html,无,CPU：OMAPL138+Spartan-6<br>架构：ARM9+DSP C6748+FPGA Spartan-6<br>主频：1.6GHz<br>内存：1GB DDR3L+ECC<br>ROM：8GB eMMC<br>系统：Linux4.9.41+Qt56+Wayland,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,OMAPL138 高速数据采集智能网关,https://www.szxinmai.com/html/2021/gaoxingnengwangguan_1201/95.html,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,RK3399_K7_FPGA 开发板,https://www.szxinmai.com/html/2021/arm_1201/34.html,无,采用瑞芯微 RK3288 4 核 64 位 Cortex A17 处理器，2G DDR 内存，最大支持 4GB，eDP/LVDS/MIPI 支持双屏同步/异步显示，1×USB OTG，10×USB2.0，4×COM，1×RJ45 LAN，1×Mini-PCIe（支持 3G/4G），适用于零售、自助、一体机、工业控制等行业,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,RK3399_Lattice_FPGA 图像开发板,https://www.szxinmai.com/html/2021/arm+fpga_1201/64.html,无,采用 TI（德州仪器）AM57x 系列 AM5718 多核异构处理器，由信迈自主研发设计。具有强大的视频处理能力，支持多种操作系统，提供多种开发例程和扩展功能，广泛应用于多个领域，提供完整的平台开发包和丰富的 DEMO 程序,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,RK3399_Lattice 核心板,https://www.szxinmai.com/html/2021/arm+fpga_1201/82.html,无,CPU：AM5718，架构：4*Cortex-A53+Cortex-M7，主频：1.6GHz，内存：1GB DDR3L+ECC，ROM：8GB eMMC，系统：Linux4.9.41+Qt56+Wayland,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,RK3399 核心板,https://www.szxinmai.com/html/2021/zynq_1201/85.html,无,CPU：AM5718，架构：4*Cortex-A53+Cortex-M7，主频：1.6GHz，内存：1GB DDR3L+ECC，ROM：8GB eMMC，系统：Linux4.9.41+Qt56+Wayland,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,RK3399 鸿蒙/安卓/Linux 主板,https://www.szxinmai.com/html/2021/arm_1201/35.html,无,采用瑞芯微 RK3399 6 核 64 位处理器，2G×LPDDR3 内存，最大支持 4GB，eDP/LVDS/MIPI 支持双屏同步/异步显示，1×USB3.0，10×USB2.0，3×COM，1×RJ45 LAN，1×Mini-PCIe（支持 3G/4G），板载 2.4G/5G 双频 WiFi 和 4.0 蓝牙,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,RK3568+鸿蒙/安卓/Linux 工业主板,https://www.szxinmai.com/html/2021/arm_1201/39.html,无,采用瑞芯微 RK3568 四核 Cortex-A55 处理器，主频最高可达 2.0GHz，效能有大幅提升；采用 22nm 工艺，具低功耗高性能的特点；最高可配 8GB 内存，频率高达 1600MHz；支持全链路 ECC；支持 SATA/PCIE/USB3.0 等外围接口，可接大容量硬盘；拥有 MIPI-DSI，HDMI2.0，EDP，最多可支持三屏异显输出；集成了双核心架构 GPU，高性能 VPU 以及高效能 NPU，可用于轻量级人工智能应用,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,SI/PI/EMC 仿真分析,https://www.szxinmai.com/html/2021/shishixitong_1201/44.html,无,DDR3/4/5 等并行信号仿真及时序仿真、56G/112G-PAM4 等高速串行信号通道仿真优化、电源 IR-Drop 压降，PDN 阻抗分析、SFP28、QSFP-DD HCB/MCB、USB3.1 等测试夹具、高速设计及信号完整性技术相关培训,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,XM 工业故障诊断云平台,https://www.szxinmai.com/html/2021/yunpingtai_1201/102.html,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,XM 工业故障诊断数字化平台,https://www.szxinmai.com/html/2021/yunpingtai_1201/57.html,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,XM 工业故障诊断采集器,https://www.szxinmai.com/html/2021/yunpingtai_1201/98.html,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,XM 智能网联汽车物联平台,https://www.szxinmai.com/html/2021/yunpingtai_1201/53.html,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,ZYNQ7010/20 开发板,https://www.szxinmai.com/html/2021/zynq_1201/75.html,无,基于 Xilinx Zynq-7000 系列 XC7Z010/XC7Z020 高性能低功耗处理器设计的异构多核 SoC 评估板，处理器集成 PS 端双核 ARM Cortex-A9 + PL 端 Artix-7 架构 28nm 可编程逻辑资源，评估板由核心板和评估底板组成。核心板经过专业的 PCB Layout 和高低温测试验证，稳定可靠，可满足各种工业应用环境。评估板接口资源丰富，引出千兆网口、双路 CAMERA、USB、Micro SD、CAN、UART 等接口，支持 LCD 显示拓展及 Qt 图形界面开发，方便用户快速进行产品方案评估与技术预研。,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,ZYNQ7035/45 开发板,https://www.szxinmai.com/html/2021/zynq_1201/71.html,XM-ZYNQ7045-EVM,评估板由核心板与评估底板组成，接口资源丰富，引出双路千兆网口、四路 SFP+光口、CameraLink、HDMI、FMC HPC、GTX、PCIe、USB、Micro SD 等接口，方便用户快速进行产品方案评估与技术预研,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,ZYNQ_7010/20 开发板,https://www.szxinmai.com/html/2021/zynq_1201/42.html,无,基于 Xilinx Zynq-7000 系列 XC7Z010/XC7Z020 高性能低功耗处理器设计的异构多核 SoC 评估板，处理器集成 PS 端双核 ARM Cortex-A9 + PL 端 Artix-7 架构 28nm 可编程逻辑资源，评估板由核心板和评估底板组成。核心板经过专业的 PCB Layout 和高低温测试验证，稳定可靠，可满足各种工业应用环境。评估板接口资源丰富，引出千兆网口、双路 CAMERA、USB、Micro SD、CAN、UART 等接口，支持 LCD 显示拓展及 Qt 图形界面开发，方便用户快速进行产品方案评估与技术预研。,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,ZYNQ_7010/20 核心板,https://www.szxinmai.com/html/2021/zynq_1201/37.html,无,基于 Xilinx Zynq-7000 系列 XC7Z010/XC7Z020 高性能低功耗处理器设计的异构多核 SoC 评估板，处理器集成 PS 端双核 ARM Cortex-A9 + PL 端 Artix-7 架构 28nm 可编程逻辑资源，评估板由核心板和评估底板组成。核心板经过专业的 PCB Layout 和高低温测试验证，稳定可靠，可满足各种工业应用环境。评估板接口资源丰富，引出千兆网口、双路 CAMERA、USB、Micro SD、CAN、UART 等接口，支持 LCD 显示拓展及 Qt 图形界面开发，方便用户快速进行产品方案评估与技术预研。,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,ZYNQ_7035/45 开发板,https://www.szxinmai.com/html/2021/zynq_1201/38.html,XM-ZYNQ7045-EVM,提供 FPGA H.264 超低延迟编解码放案（编+解少于 1ms）、FPGA ISP 方案、FPGA LTE enodeb 基站方案、FPGA LTE ue 方案、FPGA LTE epc 核心网方案、FPGA DVB-T 方案、FPGA WIFI 方案,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,ZYNQ_7035/45 核心板,https://www.szxinmai.com/html/2021/zynq_1201/89.html,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,ZYNQ_PLC 智能网关,https://www.szxinmai.com/html/2021/gaoxingnengwangguan_1201/94.html,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,多层 PCB 设计,https://www.szxinmai.com/html/2021/shishixitong_1201/47.html,无,超过 20 余名 PCB 设计工程师，全国 10 余个 PCB 设计服务网络，芯片公司前期合作，前瞻性技术积累，硅谷前沿技术同步,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,基于 TI AM335x 高铁控制室机柜板卡,http://szxinmai.com/index.php?m=content&c=index&a=lists&catid=153,无,信迈科技负责设计硬件、驱动移植、生产。用户负责应用软件开发。接口说明：SM335xS 工业级核心板、5 路串口（其中 3 路为 3 线串口，2 路为 6 线串口）、485 一路（工业级隔离方案）、双千兆以太网口、SPI 总线一路、USB HOST3 路、SATA 硬盘接口一路、VGA 接口一路、LED 指示灯 4 路、通用 GPIO 口 18 路、AD 模拟信号采集 3 路,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,AM335X 开发板,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,RK3568+鸿蒙/安卓/Lin,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,RK3399 鸿蒙/安卓/Linu,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,ZYNQ_7035/45 开发板,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,XM 工业故障诊断数字化,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,XM 智能网联汽车物联平,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,映美精 USB 3.0 黑白,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,USB3.1 彩色 映美精,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,USB2.0 彩色映美精工业,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,USB2.0 黑白映美精工业,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,映美精 USB 3.0 彩色,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,映美精 GigE 黑白工业相,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,自动核酸提取仪,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,医疗监护仪,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,PCR 基因扩增仪,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,特定蛋白分析仪,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,医学影像 HMI,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,麻醉深度监测仪,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,基于 ARM/DSP 的高性,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,便携式无线抄表方案,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,气象监测分析仪,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,5G 智能网关,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,环境数据采集单元,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,智能垃圾箱,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,污染源在线监测,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,在线红外热像仪,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,特高压输电线监测,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,电力数据采集,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,充电桩计费控制单元,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,电力无线频谱仪,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,TPMS 胎压检测解决方案,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,汽车空调解决方案,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,基于 TI AM335x 高铁控,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,高速广域雷达测速仪,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,列车驾驶舱显示终端,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,特种车辆牵引控制,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,无线地磁车辆检测,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0
+深圳信迈科技有限公司,网约车监控黑匣子,http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57,无,无,无,0,无,0,无,0,无,0

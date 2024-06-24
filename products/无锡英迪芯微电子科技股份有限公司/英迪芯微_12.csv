@@ -1,0 +1,8 @@
+产品网址：https://www.indiemicro.com/archives/product/ind83080
+产品结构：root->英迪芯微
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Automotive Embedded Motor Controller|iND83080|Full automotive qualification AEC-Q100 Grade1,175℃ junction temperature<br>12 MOSFET group to four block, both in series or in parallel supported<br>180mohm Rdson/switch,12bit PWM to control switch independently<br>power supply from car Battery supply or external 5V, both way supported<br>Privat protocol based on UART up to 1Mbps with CRC, optional external CAN physical layer to improve robust and EMC<br>High accurate oscillator integrated with EMC improvement<br>Internal MTP up to 2Kbit for system configuration and limp home configuration<br>Programmable Limp home mode in case of communication failure, internal watch dog to monitor communication statues<br>ADC to monitor Bin, and NTC,BAT, charge pump statues, IC temperature monitor, single LED short /open detection<br>Slew rate and phase shift control to avoid current spike<br>Standalone mode<br>Application：Dynamic PL/DRL/TI，ADB headlamp|
+
+

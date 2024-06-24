@@ -1,0 +1,6 @@
+产品网址：https://www.unisim-micro.com/productinfo/519786.html?templateId=248856#
+产品结构：root->3DGraphicsprocessorSoC-上海圳呈微电子技术有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|3D Graphics processor SoC|无|支持 PCI 接口，可适配国内外多种计算平台和通用操作系统，具有通用性高、功耗低等特点。支持双通道和双屏显示，支持视频采集处理和播放，核心频率 600MHz，总线接口为 PCI Express 2.0 X4，图形内存接口最大容量 1GB 64 位 DDR3，最大传输速度 1333Mbps，支持 2D 和 3D 图形加速，支持多种颜色模式，视频解码支持全高清分辨率（1920×1080），帧率≥30FPS，支持 YUV 到 RGB 颜色格式转换，支持 H.264、MPEG-4、H.263、VC-1、MPEG-2、DivX/XviD、RV、AVS、MJPEG 等格式，兼容 IBM VGA 标准和 VESA 标准，支持龙芯、飞腾、申威等国产处理器，支持 Windows、Linux、VxWorks、DOS、NeoKylin、Kylin、Dao、Deepin、ReWorks 等通用操作系统，工作温度范围为-40℃～85℃|

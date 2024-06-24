@@ -1,0 +1,6 @@
+-> root https://www.maxscend.com
+  -> 产品中心-江苏卓胜微电子股份有限公司 https://www.maxscend.com/product.html
+    -> 射频前端芯片产品 
+    -> 物联网芯片产品 
+  -> 射频前端芯片产品-江苏卓胜微电子股份有限公司 https://www.maxscend.com/pro1.html
+  -> 物联网芯片产品-江苏卓胜微电子股份有限公司 https://www.maxscend.com/pro2.html

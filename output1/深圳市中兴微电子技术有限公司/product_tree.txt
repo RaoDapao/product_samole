@@ -1,0 +1,27 @@
+-> root http://www.sanechips.com.cn
+  -> Home 
+    -> Products https://www.sanechips.com.cn/en/Products/index.html
+      -> Mobile https://www.sanechips.com.cn/en/Products/Mobile/index.html
+        -> MobileModem https://www.sanechips.com.cn/en/Products/Mobile/mobileModem/index.html
+      -> Wired https://www.sanechips.com.cn/en/Products/Wired/index.html
+        -> FixedNetworkTerminal https://www.sanechips.com.cn/en/Products/Wired/fixedNetworkTerminal/index.html
+          -> Fixed Network Terminal 
+          -> Fixed Network Terminal 
+          -> Fixed Network Terminal 
+          -> Fixed Network Terminal 
+        -> Ethernet&Connectivity https://www.sanechips.com.cn/en/Products/Wired/ethernetConnectivity/index.html
+  -> 首页 
+    -> 产品 https://www.sanechips.com.cn/chinese/product/index.html
+      -> 手机产品 https://www.sanechips.com.cn/chinese/product/mobileProduct/index.html
+        -> 手机modem芯片 https://www.sanechips.com.cn/chinese/product/mobileProduct/mobileModemChip/index.html
+          -> 手机 modem 芯片 
+          -> 手机 modem 芯片 
+      -> 有线产品 https://www.sanechips.com.cn/chinese/product/wiredProducts/index.html
+        -> 固网终端芯片 https://www.sanechips.com.cn/chinese/product/wiredProducts/terminalChip/index.html
+        -> 以太网互联芯片 https://www.sanechips.com.cn/chinese/product/wiredProducts/ethernetChip/index.html
+      -> 无线产品 https://www.sanechips.com.cn/chinese/product/wirelessProducts/index.html
+        -> 无线通信 https://www.sanechips.com.cn/chinese/product/wirelessProducts/signal/index.html
+  -> 深圳市中兴微电子技术有限公司 https://www.sanechips.com.cn/chinese/AU/safetyproduction/index.html
+    -> 手机产品 
+    -> 有线产品 
+    -> 无线产品 

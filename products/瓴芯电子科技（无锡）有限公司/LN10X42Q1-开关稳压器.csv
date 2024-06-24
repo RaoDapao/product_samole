@@ -1,0 +1,23 @@
+产品网址：https://www.len-technology.com/products/dc-dc/dc-dc-details/ln10x42
+产品结构：root->LN10X42Q1-开关稳压器
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|开关稳压器|LN10X42Q1|车规级，36V，2A，同步降压转换器|
+
+正常工作电压Min (V),3.5
+正常工作电压Max (V),36
+输出电压范围(V),1～Vin可调
+输出电流 (A),Up to 2
+同步整流（集成上管和下管）,是
+工作静态电流 (uA),40
+关断静态电流 (uA),0.45
+轻载模式,PFM/FPWM可选
+开关频率 (KHz),400、1000、2100
+EMI性能,支持展频;  Flipchip封装工艺；  对称输入布局
+其它功能,Enable pin；  Power Good Indicator；  Internal Compensation；  Internal Soft Start;  Synchronization to external clock：
+完整保护,Accurate Peak and Valley Current Clamp；  Output short-circuit protection with hiccup mode；  Accurate Vin UVLO protection；  Over-temperature shuntdown and recovery；
+封装,LQFN2030W-11 with wettable flank
+产品等级,AEC-Q100 Grade1
+工作结温,-40 to 150
+功能安全类别,Functional Safety Capable

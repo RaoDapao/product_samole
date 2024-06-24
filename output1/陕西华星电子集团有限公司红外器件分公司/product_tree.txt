@@ -1,0 +1,20 @@
+-> root http://www.sxhxir.com
+  -> 首页 
+    -> 产品中心 
+      -> 红外探测器分类导航 http://m.sxhxir.com/product-1033.html
+        -> 硫化铅红外探测器 
+        -> 硫化铅红外探测器 
+        -> 硫化铅红外探测器 
+        -> 硫化铅红外探测器 
+        -> 硫化铅红外探测器 
+        -> 硫化铅红外探测器 
+        -> 硫化铅红外探测器 
+        -> 硫化铅红外探测器 
+        -> 硫化铅红外探测器 
+        -> 硫化铅红外探测器 
+        -> 硫化铅红外探测器 
+      -> 红外探测器 
+        -> 硫化铅红外探测器分类导航 http://m.sxhxir.com/item/57.html
+        -> 锑化铟红外探测器分类导航 http://m.sxhxir.com/item/40.html
+        -> 前置放大器分类导航 http://m.sxhxir.com/item/20.html
+      -> 技术专区分类导航 http://m.sxhxir.com/content/38.html

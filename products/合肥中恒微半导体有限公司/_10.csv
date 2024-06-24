@@ -1,0 +1,15 @@
+产品网址：https://www.zhmsemi.com/products/industrial_igbt_module/drivep2.html
+产品结构：root
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|DriveP2|无|A. 低 VCE(sat) <br> B. 低开关损耗 <br> C. 高短路能力（10us）|
+
+Package,Prouduct,Vces(V),Ic(A),VCE(sat)(V),Configuration,typical value @Tj=25℃,typical value @Tj=25℃.1,typical value @Tj=25℃.2
+Package,Prouduct,Vces(V),Ic(A),VCE(sat)(V),Configuration,VF(V),Eon(mJ),Eoff(mJ)
+DriveP2,PMC25TA120S1P_T3,1200,25,1.75,PIM,1.90,3.5,1.9
+DriveP2,PMC35TA120S1P_T3,1200,35,1.75,PIM,1.90,3.9,2.2
+DriveP2,PMC40TA120S1P_T3,1200,40,1.75,PIM,1.90,4.1,2.3
+DriveP2,PMC35TA120S1P_T4,1200,35,1.75,PIM,1.90,3.9,2.2
+DriveP2,PMC40TA120S1P_T4,1200,40,1.75,PIM,1.90,4.1,2.3
+DriveP2,PMC50M120S1P_T4,1200,50,1.70,PIM,1.70,4.2,4.9

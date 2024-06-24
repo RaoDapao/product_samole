@@ -1,0 +1,67 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/716.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Network Camera|TC-C321N|2MP Fixed Bullet Camera，金属+塑料外壳，S+265/H.265/H.264B/H.264M/H.264H，彩色：0.02Lux@(F2.0,AGC ON)，黑白：0Lux 带红外，红外范围 30m，内置麦克风，支持智能监控，工作条件-30℃~60℃（不开灯），湿度 95%或更低（无冷凝），POE 802.3af；MAX 6W，IP67|
+
+Camera,Unnamed: 1
+Image Sensor,"1/2.9""CMOS"
+Min. Illumination,"Color:0.02Lux@(F2.0,AGC ON),B/W:0Lux with IR"
+Shutter Time,1s~1/100000s
+Day&Night,IR-cut filter with auto switch (ICR)
+WDR,DWDR
+S/N,>37dB
+Angle Adjustment,0~360°(P); 0~80°(T); 0~360°(R)
+Lens,
+Lens Type,Fixed focal lens
+Focal Length,2.8mm
+Lens Mount,M12
+Aperture Range,F2.0
+Field of View,102.8°(H); 57.6°(V); 117.8°(D)
+DORI Distance,Detect:40.0m Observe:15.9m Recognize:8.0m Identify:4.0m
+Illuminator,
+IR LEDs,2
+IR Distance,30m
+Wavelength,850nm
+Compression Standard,
+Video Compression,S+265/H.265/H.264B/H.264M/H.264H
+Video Bit Rate,32k~4Mbps
+Audio Compression,G.711A/G.711U
+Audio Sampling Rate,8kHz
+Image,
+Max. Resolution,1920×1080@30fps
+Main Stream,"PAL:25fps(1920×1080, 1280×720, 704×576, 640×480) NTSC:30fps(1920×1080, 1280×720, 704×480, 640×480)"
+Sub Stream,"PAL:25fps(704×576, 704×288, 352×288, 640×360) NTSC:30fps(704×480, 704×240, 352×240, 640×360)"
+BLC,Yes
+HLC,Yes
+AGC,Yes
+3D DNR,Yes
+White Balance,Auto/Semi-Auto/Manual/Sunshine/Nature Light/Warmlight Lamp/Daylight Lamp/Filament Lamp/Lock White Balance
+OSD,"Overlay of additional characters in 1 regions, 1 line, with a maximum of 48 characters or 16 Chinese characters per region; 16*16/32*32/48*48"
+Privacy Mask,4 black static areas
+Defog,Yes
+Feature,
+Alarm Trigger,Motion Detection; IP Address Conflict
+Network,
+Protocols,HTTP; TCP/IP; UDP; ICMP; DHCP; DNS; NTP; IPv4; Telnet; Unicast
+System Compatibility,ONVIF Profile S/T; CGI; Milestone
+Remote Connection,≤2
+Client,Easy7 Smart Client
+Interface,
+Communication Interface,"1*RJ-45,10/100 Mbps self-adaptive Ethernet port"
+General,
+Web Client Language,English
+Operating Temperature,-30℃~60℃(No turning on the light)
+Operating Humidity,Humidity 95% or less (no condensation)
+Storage Temperature,-30℃~60℃
+Storage Humidity,Humidity 95% or less (no condensation)
+Power Supply,POE 802.3af;MAX 6W
+Protection,Surge4000V; ESD6000V; IP67
+Boundary Dimensions,164(L)73(W)73(H)mm
+Package Dimensions,180(L)90(W)95(H)mm
+GrossWeight,0.3kg
+
+
+Date,Title,Type
+2024-04-07,1D.20010.020596_TC-C321N I3EY2.8mm_en,pdf

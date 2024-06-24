@@ -1,0 +1,34 @@
+-> root https://www.nysenba.com
+  -> 首页 
+    -> 产品中心 https://www.nysenba.com/product
+      -> 热释电红外传感器 https://www.nysenba.com/pir
+        -> 塑封贴片型 https://www.nysenba.com/pir/s22-p340r.html
+        -> 低功耗运动检测 https://www.nysenba.com/pir/rm412.html
+      -> 可见光传感器 https://www.nysenba.com/lxd
+        -> 光敏传感器 https://www.nysenba.com/ls/ls06-s.html
+      -> 火焰传感器 https://www.nysenba.com/fd
+        -> 红外 https://www.nysenba.com/fd/lvf001.html
+        -> VF324-A5紫外 https://www.nysenba.com/fd/vf324-a5.html
+      -> 红外气体传感器 https://www.nysenba.com/ndir
+      -> 红外热电堆温度传感器 https://www.nysenba.com/tp
+      -> 线性光耦 https://www.nysenba.com/lcr
+      -> 滤光片 https://www.nysenba.com/udf
+        -> nbp5300-180nm红外窄带 https://www.nysenba.com/udf/nbp5300-180nm.html
+        -> nbp3910-180nm红外窄带 https://www.nysenba.com/udf/nbp3910-180nm.html
+        -> NBP9650-240nm红外窄带 https://www.nysenba.com/udf/nbp9650-240nm.html
+        -> NBP8550-210nm红外窄带 https://www.nysenba.com/udf/nbp8550-210nm.html
+        -> NBP8350-270nm红外窄带 https://www.nysenba.com/udf/nbp8350-270nm.html
+      -> 人体感应模块 https://www.nysenba.com/pir-mod
+        -> SB312A-01-001-L https://www.nysenba.com/pir-mod/sb312a-01-001-l.html
+        -> SB412A-01-003-L https://www.nysenba.com/pir-mod/sb412.html
+        -> SB312E-01-002 https://www.nysenba.com/pir-mod/sb312e-01-002.html
+        -> MK0117 https://www.nysenba.com/pir-mod/mk0117.html
+        -> MK0103 https://www.nysenba.com/pir-mod/mk0103.html
+        -> MK0063 https://www.nysenba.com/pir-mod/mk0063.html
+        -> MK0108 https://www.nysenba.com/pir-mod/mk0108.html
+        -> MK0060-C https://www.nysenba.com/pir-mod/mk0060-c.html
+        -> MK0053 https://www.nysenba.com/pir-mod/mk0053.html
+      -> 菲涅尔透镜 https://www.nysenba.com/fl
+        -> 支撑柱 
+      -> 微差压传感器 https://www.nysenba.com/dps
+      -> 金属化光学窗口 https://www.nysenba.com/ow

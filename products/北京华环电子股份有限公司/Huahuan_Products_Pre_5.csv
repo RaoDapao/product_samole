@@ -1,0 +1,8 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=190&ncid=88
+产品结构：root->Huahuan_Products_PrecisionTimeProtocol(PTP)GrandmasterClock
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Precision Time Protocol (PTP) Grandmaster Clock|PTP/IEEE 1588 Grandmaster...|无|
+|GPON|H18GN ONT/ONU Series|o deliver triple-play services to the subscriber in Fiber-to-the-Home or Fiber-to-the-Premises application, the H18GN Series GPON ONT incorporates interoperability, key customers’ specific requirements and cost-efficiency.Equipped with ITU-T G.984 compliant 2.5G Downstream and 1.25G Upstream GPON interface, the GPON ONT supports the full Triple Play of services including video, and high speed internet access.|
+|GPON|H18GL-G1600 OLT|H18GL-G1600 provides 8 downstream GPON ports, 8 uplink GE optical port and 8 GE electrical ports, with an expansion slot, which can access 2 10GE SFP+ ports. The 1U height can be easy installed and maintained to save space. The H18GL-G1600 adopts the industrial advanced technology, with powerful Ethernet services and QoS feature, supporting SLA and DBA. The splitting ratio up to 1:128, supporting different types of ONU in different networks, minimizing operators’ investments.|

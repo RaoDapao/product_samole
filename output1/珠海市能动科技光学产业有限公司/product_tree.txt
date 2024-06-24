@@ -1,0 +1,14 @@
+-> root https://www.nengdongkeji.cn
+    -> 集成电路 
+    -> 载板/类载板 
+    -> 阻焊光阻 
+    -> 半导体/厚光阻 
+  -> Product-DynamicTechnology https://www.nengdongkeji.cn/en/product
+    -> Integrated Circuit 
+    -> Carrier 
+    -> Solder Mask Photoresist 
+    -> Semiconductor 
+  -> IntegratedCircuit-DynamicTechnology https://www.nengdongkeji.cn/en/product/integratedcircuit
+  -> Carrier-DynamicTechnology https://www.nengdongkeji.cn/en/product/carrier
+  -> SolderMaskPhotoresist-DynamicTechnology https://www.nengdongkeji.cn/en/product/solderingresist
+  -> Semiconductor-DynamicTechnology https://www.nengdongkeji.cn/en/product/semiconductor

@@ -1,0 +1,10 @@
+-> root https://www.inplay-tech.cn
+  -> 产品-上海橙群微电子有限公司 https://www.inplay-tech.cn/p/product.html
+    -> SwiftRadio 产品系列 
+    -> SMULL 产品系列 
+    -> NanoBeacon 产品系列 
+  -> 产品应用丨StellarBLE网关-上海 https://www.inplay-tech.cn/a/112.html
+  -> 产品应用丨光供电BLE开关4EverSw https://www.inplay-tech.cn/a/110.html
+  -> InplayTech-上海橙群微电子有限 https://www.inplay-tech.cn/pro_swift
+  -> 产品-上海橙群微电子有限公司_1 https://www.inplay-tech.cn/p/product.html#
+  -> 产品应用丨光供电BLE开关4EverSw_1 https://www.inplay-tech.cn/a/110.html#

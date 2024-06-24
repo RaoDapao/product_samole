@@ -1,0 +1,7 @@
+-> root http://www.dfjy-jx.com
+  -> 产品中心-OPC http://www.dfjy-jx.com/page/34.html
+    -> OPC 
+    -> EBI 
+    -> CD-SEM 
+  -> 产品中心-EBI http://www.dfjy-jx.com/page/35.html
+  -> 产品中心-CD-SEM http://www.dfjy-jx.com/page/36.html

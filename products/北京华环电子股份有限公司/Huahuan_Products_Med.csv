@@ -1,0 +1,16 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=36&ncid=83&deid=155
+产品结构：root->Huahuan_Products_MediaConverterSeries
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Media Converter Series|H0FL-1101S1、H0FL-1101S2、H0FL-11000P、H0FL-11000N|可应用于运营商接入领域，与城域网互联，支持以太网光口（NNI 端口）和以太网电口（UNI 端口）。可通过上行光以太网口直接与 PTN/IPRAN 连接，实现 VLAN、QinQ、QoS、STP、RSTP 功能，支持 802.3ah OAM 管理功能、LACP、光纤断线告警、SNMP 带内网管和 Telnet 远程登录，以及使用控制台命令行（CLI）配置和查询本地网元。以太网接口符合 IEEE 802.3/802.3u/802.3ab/802.3z/802.3ah/802.1ad/802.1q/802.1p；标准 10/100/1000Base-Tx/Fx 接口，以太网端口为交换式，支持与其他厂家的光纤调制解调器、以太网卡、集线器、中继器或交换机连接；支持 IEEE 802.1q VLAN 和 IEEE 802.1ad VLAN；支持 LFP（链路故障直通）功能；支持以太网端口限速功能，能够限制进出口速度；光口支持 ALS（自动激光关断）功能；支持以太网环回测试；支持远程电源故障告警；支持 IEEE 802.3ah OAM 功能，支持主动、被动和自动操作模式；支持 Web Server 管理（H0FL-11000P/H0FL-11000N）；可通过连接到中心局（CO）转换器架 H0FL-P（H0FL-P.1101S1/1101S2/11000P/11000N 卡）或 H9MO-LMXE.V2（FE02 卡）的相应卡实现远程监控。|
+
+Type,Model,Description
+Single-electrical port type,H0FL-1101S1,1*FE(e) + 1*FX (o)
+Single-electrical port type,H0FL-1101G,1*FE(e) + 1*FX (o)  Industrial grade  Working Temperature: -25  ℃  ～  75  ℃
+Single-electrical port type,H0FL-11000N,1*GE(e) + 1*GX (o)  + 1*Console
+Multiple-electrical port type,H0FL-1101S2,2*FE(e) + 1*FX (o)
+Multiple-electrical port type,H0FL-1101G2,2*FE(e) + 1*FX (o)  Industrial grade  Working Temperature: -25  ℃  ～  75  ℃
+Multiple-electrical port type,H0FL-1101S4N,4*FE+1*FX+NM
+Multiple-electrical port type,H0FL-1200,2*FE (e) over 1*Fiber (200M uplink)
+Dual-optical protection type,H0FL-11000P,1*GE (e) + 2*GX (o) (1:1 protection) + 1*Console

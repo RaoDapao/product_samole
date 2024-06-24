@@ -1,0 +1,14 @@
+-> root http://www.honormicro.com
+  -> 产品中心-广州鸿博微电子技术有限公司 http://www.honormicro.com/chanpin/show.php?id=43
+    -> 主流型微控制器 
+    -> 主流型微控制器 
+    -> 主流型微控制器 
+    -> 精简型微控制器 
+    -> 精简型微控制器 
+    -> 高性能微控制器 
+    -> 显示驱动型微控制器 
+    -> 显示驱动型微控制器 
+    -> 无线 MCU 产品 
+    -> 高精度 ADC 产品 
+  -> 无线MCU产品-广州鸿博微电子技术有限公 http://www.honormicro.com/chanpin/show.php?id=136
+  -> 高精度ADC产品-广州鸿博微电子技术有限 http://www.honormicro.com/chanpin/show.php?id=138

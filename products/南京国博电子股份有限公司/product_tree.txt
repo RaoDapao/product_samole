@@ -1,0 +1,16 @@
+-> root https://www.gbdz.net
+  -> 低噪声放大器_南京国博电子股份有限公司 https://www.gbdz.net/product/261.html
+  -> 功率放大器_南京国博电子股份有限公司 https://www.gbdz.net/product/262.html
+  -> 开关_南京国博电子股份有限公司 https://www.gbdz.net/product/264.html
+  -> 数控衰减器_南京国博电子股份有限公司 https://www.gbdz.net/product/266.html
+  -> 产品展示_产品展示_南京国博电子股份有限公司 https://www.gbdz.net/product/19
+    -> T/R 组件 
+    -> 射频芯片 
+  -> 射频集成电路_产品展示_南京国博电子股份有限公司 https://www.gbdz.net/product/21
+    -> 射频集成电路 
+  -> 有源相控阵T-R组件_产品展示_南京国博电子股份有限公司 https://www.gbdz.net/product/20
+  -> 射频放大类芯片_产品展示_南京国博电子股份有限公司 https://www.gbdz.net/product/38
+  -> 射频控制类芯片_产品展示_南京国博电子股份有限公司 https://www.gbdz.net/product/39
+  -> 射频前端模组_产品展示_南京国博电子股份有限公司 https://www.gbdz.net/product/40
+  -> T-R组件_南京国博电子股份有限公司 https://www.gbdz.net/product/278.html
+  -> T-R组件_南京国博电子股份有限公司_1 https://www.gbdz.net/product/255.html

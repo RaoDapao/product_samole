@@ -1,0 +1,12 @@
+-> root http://www.greatleo.com.cn
+  -> 产品中心_产品中心_湖南毂梁微电子有限公司_1 http://www.greatleo.com.cn/product/5
+    -> “麓山”系列兼容型 DSP 
+    -> “韶山”系列全自主 DSP 
+    -> “金源”系列高能效电源模块 
+  -> “麓山”系列兼容型DSP_产品中心_湖南毂梁微电子有限公司_1 http://www.greatleo.com.cn/product/14
+  -> “韶山”系列全自主DSP_产品中心_湖南毂梁微电子有限公司_1 http://www.greatleo.com.cn/product/15
+  -> 模块电源_产品中心_湖南毂梁微电子有限公司_1 http://www.greatleo.com.cn/product/8
+  -> 嵌入式板卡_产品中心_湖南毂梁微电子有限公司_1 http://www.greatleo.com.cn/product/9
+  -> “麓山”系列兼容型DSP芯片_湖南毂梁微电子有限公司_1 http://www.greatleo.com.cn/product/1.html
+  -> “韶山”系列自主型DSP芯片与IP核_湖南毂梁微电子有限公司_1 http://www.greatleo.com.cn/product/2.html
+  -> “金源”系列高能效电源模块_湖南毂梁微电子有限公司_1 http://www.greatleo.com.cn/product/3.html

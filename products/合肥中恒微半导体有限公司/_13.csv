@@ -1,0 +1,11 @@
+产品网址：https://www.zhmsemi.com/products/hybrid_module/drivez62_hybrid.html
+产品结构：root
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|DriveZ62/Hybrid|无|A.LOW VCE(sat)<br>B.Low Switching Loss<br>C.Ultrasonic Welding of Power Terminals<br>D.Standard Housing|
+
+Package,Product,Vces(V),Ic(A),VCE(sat)(V),Configuration,typical value @Tj=25℃,typical value @Tj=25℃.1,typical value @Tj=25℃.2
+Package,Product,Vces(V),Ic(A),VCE(sat)(V),Configuration,VF(V),Eon(mJ),Eoff(mJ)
+DriveZ62/Hybrid,2B300MFSC120T1P,1200,300,1.95,Half Bridge,1.70,3.6,17.7
+DriveZ62/Hybrid,2B450MFSC120T1P,1200,450,1.95,Half Bridge,1.70,6.7,23.4

@@ -1,0 +1,111 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=109&ncid=110&deid=172
+产品结构：root->Huahuan_Products_SFP/SFP+/xWDM/PONOpticalModule_H5003CompactPCMMux
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|H5003 Compact PCM Mux|无|H5003 设备是一款新型多功能综合业务接入设备，具有两个标准 E1 传输接口，提供 30 路语音和异步数据接入，支持多种语音业务，包括 FXO、FXS、磁石和 4 线以及 RS232/RS422 异步数据。该设备提供两个 E1 传输方向，并可工作在 1+1 保护模式。H5003 设备可用于点对点连接，也可与公司的 PCM 设备（如 CO 设备 H9MO-LMXE+V2）联网，实现点对多点连接。H5003 设备可配备监控系统，通过监控系统可实时监控设备运行状态，并进行故障定位和时隙重新分配。控制台通过以太网接口连接到被监控设备，便于添加到更高级别的网络管理中。|
+
+E1 Interface,E1 Interface.1,E1 Interface.2
+Item,Item,Standards
+Bit rate,Bit rate,2.048Mbps  ±50ppm
+Line code,Line code,HDB3 G.703
+Connector,Connector,"BNC,RJ-48C"
+The input impedance,The input impedance,"75  Ω,120Ω"
+Frame structure,Frame structure,"ITU-T G.704,G.706"
+Compression rule,Compression rule,ITU-T G.711 A rule
+Electrical level,Electrical level,75Ω:  ±2.37V±10%  150  Ω:  ±3.0V±10%
+Interface count,Interface count,2
+Ethernet Interface,Ethernet Interface,
+Item,Item,Standards
+Interface mode,Interface mode,10/100 Base-T Ethernet MDI interface
+Connector,Connector,RJ45
+Interface count,Interface count,1
+Speech path  interface and signaling,Speech path  interface and signaling,Speech path  interface and signaling
+Exchange side,Exchange side,Exchange side
+Item,Item,Standards
+Off hook impedance,Off hook impedance,<500ω>
+Hang impedance,Hang impedance,>10KΩ
+User side,User side,User side
+Item,Item,Standards
+The loop impedance,The loop impedance,≤2000  Ω
+Free circuit voltage,Free circuit voltage,≤50V
+The loop current,The loop current,25mA
+Off hook threshold,Off hook threshold,8mA
+Polarity reversal delay,Polarity reversal delay,<50ms>
+Dial,Dial,
+Off hook delay,Off hook delay,Dial pulse single pulse distortion<5ms<>
+Off hook delay,Off hook delay,In band audio dialing total distortion meet the voice interface characteristics.
+Off hook delay,Off hook delay,<100ms>
+Ringing Current,Ringing Current,Ringing Current
+FXS Ringing Current Generator,FXS Ringing Current Generator,FXS Ringing Current Generator
+Item,Item,Standards
+Frequency,Frequency,25Hz±3Hz
+Amplitude,Amplitude,75V±5V  rms
+Ringing current delay,Ringing current delay,<50ms>
+Total output power,Total output power,≤10W(chassis unit)
+FXO Ringing Current Detection,FXO Ringing Current Detection,FXO Ringing Current Detection
+Item,Item,Standards
+Amplitude range,Amplitude range,Minimum 38V  rms
+Voice Interface,Voice Interface,Voice Interface
+Item,Item,Standards
+Impedance,Impedance,600Ω or 3-component duplex impedance.
+Audio range,Audio range,300~3400Hz
+Coding law,Coding law,ITU-T G.711 A law
+2-wire interface level,2-wire interface level,2-wire sending 0dBr±0.5dBr
+2-wire interface level,2-wire interface level,2-wire receiving -3.5dBr±0.5dBr
+Return loss,Return loss,300~600Hz >12dB
+Return loss,Return loss,600~3400Hz >15dB
+Frequency response,Frequency response,300~3400Hz complying with ITU G.713
+Idle channel noise,Idle channel noise,≤-65dBm0p
+Gain,Gain,-45dBm0~+3dBm0(error less than ±0.5dB)
+Total SNR,Total SNR,Complying with ITU-T G.713 template
+Voice capacity,Voice capacity,"30 channels of 2-wire telephone(FXO/FXS/hotline/2011Hz magneto),or 22 channels of 2-wire telephone + eight channels of 4-wirewire voice + four channels of E/M signalings"
+Hotline,Hotline,Hotline
+Item,Item,Standards
+Loop impedance,Loop impedance,<2000ω>  （  including telephone  ）
+Idle circuit voltage,Idle circuit voltage,<50v>
+Loop current,Loop current,25mA
+Off-hook threshold,Off-hook threshold,8mA
+Voice interface specifications,Voice interface specifications,Please refer to  Voice Interface
+4-wirewire Voice,4-wirewire Voice,
+Item,Item,Standards
+Impedance,Impedance,600Ω
+Audio range,Audio range,300~3400Hz
+Coding law,Coding law,300
+Return loss,Return loss,300~600Hz >12dB
+Return loss,Return loss,600~3400Hz >15dB
+Frequency response,Frequency response,300~3400Hz complying with ITU G.713
+Idle channel noise,Idle channel noise,≤-65dBm0p
+Gain,Gain,-45dBm0~+3dBm0(error less than ±0.5dB)
+Total SNR,Total SNR,Complying with ITU-T G.713 template
+4-wire interface level,4-wire interface level,Factory default 4-wire sending 0dBr±0.5dBr
+4-wire interface level,4-wire interface level,Factory default 4-wire receiving 0dBr±0.5dBr
+Attenuator adjustment range,Attenuator adjustment range,4-wire sending (A/D) attenuation:-16.3~+8.9dBr
+Attenuator adjustment range,Attenuator adjustment range,4-wire receiving (A/D) attenuation:-20.6~+4.3dBr
+Adjustment precision,Adjustment precision,0.1dB
+Carrier Magneto Interface,Carrier Magneto Interface,Carrier Magneto Interface
+Item,Item,Standards
+Audio,Interface level,2-wire sending 0dBr±0.5dBr
+Audio,Interface level,2-wire receiving -3.5dBr±0.5dBr
+Signaling,Ringing current detection,Minimum 20V  rms
+Signaling,Signaling method,In-band -2100Hz tone
+Signaling,2100Hz signal generator,Amplitude:-6dBm0±1dB
+Signaling,2100Hz signal generator,Frequency:2100Hz±5Hz
+Signaling,Signaling detection,Amplitude range: not less than -17dBm
+Signaling,Signaling detection,Frequency range:2100Hz±50Hz
+Asynchrous Data Interface,Asynchrous Data Interface,Asynchrous Data Interface
+Item,Item,Standards
+Interface level,Interface level,Complying with RS-232/V.28 standard or RS-422/V.11 standard
+Interface rate,Interface rate,≤14.4kbit/s
+Interface number,Interface number,Each board provides two channels
+Clock,Clock,Clock
+Item,Item,Standards
+Clock source,Clock source,"Internal clock,E1 line clock"
+Physical/Electrical,Physical/Electrical,Physical/Electrical
+Size,Size,45mm*290mm*440mm(H/D/W)
+Power supply(AC),Power supply(AC),"100~265V,50/60Hz"
+Power supply(DC),Power supply(DC),-48V(-72V~ -36V)
+Power consumption,Power consumption,≤50W
+Operation temperature,Operation temperature,-10~55  ℃
+Storage temperature,Storage temperature,-20~65  ℃
+Humidity,Humidity,0-90%RH(non-condensing)

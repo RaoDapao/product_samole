@@ -1,0 +1,34 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+江苏宏微科技股份有限公司,BGBM,http://www.macmicst.com/index.php/product/module.html,无,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,1500V 高压 MOS 分立器件,http://www.macmicst.com/index.php/product/release_info/43.html,无,导通电阻低；开关速度快；雪崩耐量高,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,整流二极管模块,http://www.macmicst.com/index.php/product/product_info/22.html,无,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,晶闸管模块,http://www.macmicst.com/index.php/product/product_info/23.html,无,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,整流桥模块,http://www.macmicst.com/index.php/product/product_info/24.html,无,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,电源模组,http://www.macmicst.com/index.php/product/modinfo/565.html,BGBM,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,EV 空调控制器,http://www.macmicst.com/en/index.php/product/module.html,无,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,车载 DCDC 转换器,http://www.macmicst.com/en/index.php/product/module.html,无,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,预充电单元,http://www.macmicst.com/en/index.php/product/module.html,无,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,PTC 控制器,http://www.macmicst.com/en/index.php/product/module.html,无,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,车载逆变器,http://www.macmicst.com/en/index.php/product/module.html,无,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,风扇调速模块,http://www.macmicst.com/en/index.php/product/module.html,无,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,1500V MOS Discretes,http://www.macmicst.com/en/index.php/product/release_info/43.html,无,Low Rdson；High Speed Switch；High UIS,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,RC-IGBT Discretes,http://www.macmicst.com/en/index.php/product/release_info/42.html,无,IGBT/FWD On the Same Chip；Low Vcesat；High Reliability；Low Cost,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,M3i-GT Low Vcesat IGBT Discretes,http://www.macmicst.com/en/index.php/product/release_info/41.html,无,"Trench & Fieldstop Technology；Soft Turn On Characteristic, Low di/dt, Low EMI；Low VCEset, Low Static Lose；Small Tail Current, Soft Turn Off Characteristic；Positive Temperature Coefficient, Easily Parallel；High Short Circuit Current Capability(>6us)；High Speed Switching, Low Switch Lose；Tvj max Up To 175°C",无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,GTU High Speed IGBT Discretes,http://www.macmicst.com/en/index.php/product/release_info/40.html,无,"Trench & Fieldstop Technology；Soft Turn On Characteristic, Low di/dt, Low EMI；Low Tf,Low Eoff；Small Tail Current, Soft Turn Off Characteristic；Positive Temperature Coefficient, Easily Parallel；High Short Circuit Current Capability(>6us)；High Speed Switching, Low Switch Lose；Tvj max Up To 175°C",无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,RC（逆导）IGBT 分立器件,http://www.macmicst.com/index.php/product/release_info/42.html,无,IGBT/FWD 集于同一芯片；通态压降低；可靠性高；成本低,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,M3i-低饱和压降型 IGBT 分立器件,http://www.macmicst.com/index.php/product/release_info/41.html,无,采用 Trench+Fieldstop 技术；软开通特性，开通 di/dt 小，EMI 低；低饱和压降，导通损耗小；关断拖尾电流小，软关断特性；正温度系数，适合并联；高的短路电流能力(6us 以上)；开关速度快，开关损耗小；T Vj max 达 175℃,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,GTU-快速型 IGBT 分立器件,http://www.macmicst.com/index.php/product/release_info/40.html,无,采用 Trench+Fieldstop 技术；软开通特性，开通 di/dt 小，EMI 低；关断速度快，关断损耗小；关断拖尾电流小，软关断特性；正温度系数，适合并联；高的短路电流能力(6us 以上)；开关速度快，开关损耗小；T Vj max 达 175℃,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,IGBT 分立器件,http://www.macmicst.com/index.php/product/product_info/17.html,无,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,MOSFET 分立器件,http://www.macmicst.com/index.php/product/product_info/16.html,无,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,FRED 分立器件,http://www.macmicst.com/index.php/product/product_info/18.html,无,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,IGBT 模块,http://www.macmicst.com/index.php/product/product_info/20.html,无,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,快恢复二极管模块,http://www.macmicst.com/index.php/product/product_info/21.html,无,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,快恢复二极管芯片,http://www.macmicst.com/index.php/product/product.html,无,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,FRED Chips,http://www.macmicst.com/en/index.php/product/product.html,无,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,IGBT Modules,http://www.macmicst.com/en/index.php/product/product/18.html,无,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,FRED Modules,http://www.macmicst.com/en/index.php/product/product/18.html,无,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,Rectifier Diodes Modules,http://www.macmicst.com/en/index.php/product/product/18.html,无,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,Thyristor Modules,http://www.macmicst.com/en/index.php/product/product/18.html,无,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,Rectifier Bridges Modules,http://www.macmicst.com/en/index.php/product/product/18.html,无,无,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,半桥模块,http://www.macmicst.com/index.php/news/info/136.html,MMG450WB170B6TC,基于 GWB 封装平台，功率密度高，低热阻设计，低寄生电感，通过 HV-H3TRB、防硫等可靠性试验,无,0,无,0,无,0,无,0
+江苏宏微科技股份有限公司,H 桥一体化模块,http://www.macmicst.com/index.php/news/info/136.html,MMG100W170HX6TC,基于 GW 封装平台，集成度高，功率密度高，内置 NTC 电阻，通过 HV-H3TRB、防硫等可靠性试验,无,0,无,0,无,0,无,0

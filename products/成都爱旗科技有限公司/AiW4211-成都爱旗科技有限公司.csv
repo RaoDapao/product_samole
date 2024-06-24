@@ -1,0 +1,13 @@
+产品网址：https://www.aichtech.com/zh-hans/Product/Show-42.html
+产品结构：root->AiW4211-成都爱旗科技有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|无线联接（AIoT）|AiW4211|是一款高度集成的 2.4GHz SoC WiFi 芯片，集成 IEEE 802.11b/g/n 基带和 RF 电路，支持 20MHz 标准带宽和 5MHz/10MHz 窄带宽，提供最大 72.2Mbit/s 物理层速率。芯片集成高性能 32bit 微处理器、硬件安全引擎以及丰富的外设接口，支持高速 SDIO2.0 Slave 接口，内置 SRAM 和 Flash，可独立运行，并支持在 Flash 上运行程序。WiFi 基带支持正交频分复用（OFDM）技术，并向下兼容直接序列扩频（DSSS）和补码键控（CCK）技术，支持 IEEE 802.11 b/g/n 协议的各种数据速率。适用于智能家电等物联网智能终端领域。|
+
+1×1 2.4GHz ch1~ch14
+IEEE 802.11b/g/n
+集成TX/RX Switch、Balun
+支持WFA WPA/WPA2 personal、WPS2.0
+高性能自研 32bit CPU，最大工作频率 160MHz
+QFN-32，5mm×5mm

@@ -1,0 +1,50 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=60&ncid=63&deid=146
+产品结构：root->Huahuan_Products_H20PN-166SeriesPTNAggregation
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|PTN Aggregation|H20PN-166 Series|应用于分组传输网络，采用 MPLS-TP 技术，满足运营商对传输网络带宽持续增长和灵活调度的需求。提供 OAM 和保护切换机制，实现快速故障检测、触发保护切换，确保分组传输网络中的运营商级 QoS。支持多种服务，包括 E-Line、E-LAN、E-Tree。支持 QoS 管理，提供可靠的保护机制，支持精确时钟和时间同步技术，提供以太网 OAM 协议，支持实时 SLA 网络检测，支持 IEEE802.1Q VLAN 和 IEEE802.1ad VLAN，支持接口环回、环路检测，支持巨帧设置，支持流控，支持 DDM，支持 MAC 地址控制，支持 ACL，支持广播风暴抑制，支持远程带内监控管理，支持 DHCP 客户端和零配置，支持远程电源故障报警，支持 EzView NMS、SNMP 和 CLI，支持 NTP 和 RMON，支持通过 TFTP 进行软件升级。|
+
+Device Type,10GE Optical Port,GE Optical Port
+H20PN-166-16GX-SP,--,16
+H20PN-166-4X.16GX-SP,4,16
+
+
+10GE Base-R Interface,10GE Base-R Interface.1
+Interface specifications,"Complying with IEEE802.3, IEEE 802.3ae, IEEE802.1Q, IEEE 802.1p, IEEE802.1ad, IEEE802.1d,IEEE802.1w, IEEE802.3ad, IEEE802.3ah, IEEE802.1ag, Y1731"
+Interface rate,10GE
+Operation mode,Auto-negotiation
+Interface connector,SFP+ socket
+Interface number,4
+Average output optical power,-11.5dBm~ -3dBm
+Reception sensitivity,≤-19dBm (BER=1×10  -10  )
+Minimum overload point,> -3dBm
+Transmission wavelength and distance,Determined by optical module
+100/1000Base-FxInterface,100/1000Base-FxInterface
+Interface specifications,"Complying with IEEE 802.3, IEEE-802.3z, IEEE802.1Q, IEEE 802.1p, IEEE802.1ad, IEEE802.1d,IEEE802.1w, IEEE802.3ad, IEEE802.3ah,IEEE802.1ag, Y1731"
+Interface rate,100M/1000M
+Operation mode,"Auto-negotiation,1000M full-duplex, 100M full-duplex"
+Interface connector,SFP socket
+Interface number,16
+Average output optical power,-10dBm~ -3dBm
+Reception sensitivity,≤-23dBm (BER=1×10-  10  )
+Minimum overload point,> -3dBm
+Transmission wavelength and distance,Determined by optical module
+External Clock Input/output Port (BITS),External Clock Input/output Port (BITS)
+Clock source,"Internal clock, NNI-port line clock, UNI-port line clock, external input clock."
+External clock input,"2MHz, 2Mbit/s"
+External clock output,"2MHz, 2Mbit/s"
+Connector,RJ45 socket
+External Time Synchronization Interface (1PPS+TOD),External Time Synchronization Interface (1PPS+TOD)
+Electrical specification,RS422
+Interface connector,RJ45 socket
+Power Supply,Power Supply
+Voltage,DC -48V(-36V~-72V)  AC 220V (100V~240V)
+Consumption,≤40W
+Operation Environment,Operation Environment
+Working temperature,-10ºC ~50ºC
+Storage temperature,-40 ~70ºC
+Relative humidity,5%~85%(non-condensing)
+Device,Device
+Size,W×D×H(mm): 440×258×44
+Weight,≤4kg

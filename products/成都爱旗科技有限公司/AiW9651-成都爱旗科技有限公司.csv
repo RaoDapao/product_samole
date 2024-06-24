@@ -1,0 +1,21 @@
+产品网址：https://www.aichtech.com/zh-hans/Product/Show-443.html
+产品结构：root->AiW9651-成都爱旗科技有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|无线联接（AIoT）|AiW9651|是一款高度集成 2.4GHz BLE 和 SLE 的 Combo 芯片，集成 RF 电路，包括功率放大器 PA、低噪声放大器 LNA、RF balun、天线开关以及电源管理模块等；支持 BLE 1MHz/2MHz 频宽，支持 BLE 4.0/4.1/4.2/5.0/5.1/5.2 协议，支持 BLE Mesh 和 BLE 网关功能，最大空口速率 2Mbps；支持 SLE 1MHz/2MHz/4MHz 频宽，支持 SLE1.0 协议，支持 SLE 网关功能，最大空口速率 12Mbps，最多可连接 32 个设备；芯片提供 UART 和 GPIO 接口，同时支持高速 SDIO2.0 接口，最高时钟可达 50MHz；支持 USB2.0 接口，最高速率 480Mbps；芯片作为从机，通过 SDIO/USB 接口搭载到主机 MCU 运行；支持 OpenHarmony、FreeRTOS、Huawei LiteOS、Android 和 Linux 系统，提供更开放的开发环境及更快捷系统运行环境|
+
+低功耗蓝牙Bluetooth Low Energy（BLE）
+支持BLE 4. 0/4. 1/4. 2/5. 0/5. 1/5. 2
+支持BLE 1MHz/2MHz
+支持高功率20dBm
+支持SLE 1.0，发射功率20dBm
+支持SLE 1M/2M/4M
+支持Polar信道编码
+"支持SLE网关, 支持SLE Mesh"
+1个SDIO Slave接口或1个USB2.0接口
+2个UART接口
+11个GPIO接口
+电源电压输入范围：2.3V～3.6V
+QFN-32，4mm×4mm
+工作温度：-40℃～+85℃

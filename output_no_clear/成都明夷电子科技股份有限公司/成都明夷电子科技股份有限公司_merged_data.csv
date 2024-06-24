@@ -1,0 +1,36 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+成都明夷电子科技股份有限公司,RFIC,https://www.meenyi.com/en/product/index.html,无,无,root,1906551877,Applications|MEENYI,240334097,无,0,无,0
+成都明夷电子科技股份有限公司,OEIC,https://www.meenyi.com/en/product/index.html,无,无,root,1906551877,Applications|MEENYI,240334097,无,0,无,0
+成都明夷电子科技股份有限公司,Wi-Fi,https://www.meenyi.com/en/product/index.html,无,无,root,1906551877,Applications|MEENYI,240334097,无,0,无,0
+成都明夷电子科技股份有限公司,PHY,https://www.meenyi.com/en/product/index.html,无,无,root,1906551877,Applications|MEENYI,240334097,无,0,无,0
+成都明夷电子科技股份有限公司,PHY,https://www.meenyi.com/en/plan/index.html,Single/Quad/Octal-Port 1000Mbps 和 Single-Port 2.5Gbps PHY,无,root,1906551877,MEENYI,6638542039,无,0,无,0
+成都明夷电子科技股份有限公司,Wi-Fi,https://www.meenyi.com/en/plan/index.html,Ultra-high linearity midum 和 high power Wi-Fi 前端模块，高性能 Wi-Fi SOC 芯片,无,root,1906551877,MEENYI,6638542039,无,0,无,0
+成都明夷电子科技股份有限公司,OEIC,https://www.meenyi.com/en/plan/index.html,Typical products include 10/25/100 Gbps chipsets,无,root,1906551877,MEENYI,6638542039,无,0,无,0
+成都明夷电子科技股份有限公司,RFIC,https://www.meenyi.com/en/plan/index.html,"Product portfolio covers most base station RF function blocks including GaAs/SOI LNAs, Switches, Rx Dual Channel Switch-LNA FEMs, HBT predrivers and drivers, GaN power transistors, Doherty PAs",无,root,1906551877,MEENYI,6638542039,无,0,无,0
+成都明夷电子科技股份有限公司,RFIC,https://www.meenyi.com/en/plan/detail.html?id=1,SPDT、SP4T、SP5T 开关系列,基于 SOI 工艺，宽带宽、高隔离、高功率电阻，与主流产品完全兼容,root,1906551877,RFIC|MEENYI,5937502535,无,0,无,0
+成都明夷电子科技股份有限公司,射频,https://www.meenyi.com/cn/product/index.html,无,专注于射频芯片和高端模拟芯片，提供宏站、小站全套解决方案,root,1906551877,无,0,无,0,无,0
+成都明夷电子科技股份有限公司,光电,https://www.meenyi.com/cn/product/index.html,无,主要聚焦 PON、前传/回传、数据中心等领域，典型产品包括 2.5G/10G/25G/100Gbps 套片,root,1906551877,无,0,无,0,无,0
+成都明夷电子科技股份有限公司,以太网 PHY,https://www.meenyi.com/cn/product/index.html,无,提供通信、工业自动化、电视、网络相机多场景解决方案,root,1906551877,无,0,无,0,无,0
+成都明夷电子科技股份有限公司,射频系列芯片,https://www.meenyi.com/cn/plan/index.html,无,涵盖放大器、模拟器件、开关、毫米波产品等产品系列,root,1906551877,无,0,无,0,无,0
+成都明夷电子科技股份有限公司,光电典型产品,https://www.meenyi.com/cn/plan/index.html,10/25/100Gbps 套片,无,root,1906551877,无,0,无,0,无,0
+成都明夷电子科技股份有限公司,Wi-Fi 前端 FEM,https://www.meenyi.com/cn/plan/index.html,无,超高线性度中高功率,root,1906551877,无,0,无,0,无,0
+成都明夷电子科技股份有限公司,Wi-Fi SOC 套片,https://www.meenyi.com/cn/plan/index.html,无,高性能,root,1906551877,无,0,无,0,无,0
+成都明夷电子科技股份有限公司,以太网 PHY 芯片,https://www.meenyi.com/cn/plan/index.html,单口、四口、八口千兆以及 2.5G,无,root,1906551877,无,0,无,0,无,0
+成都明夷电子科技股份有限公司,光电芯片,https://www.meenyi.com/cn/plan/detail.html?id=2,GPON OLT，GPON ONU,无,root,1906551877,光电,6105851955,无,0,无,0
+成都明夷电子科技股份有限公司,光电芯片,https://www.meenyi.com/cn/plan/detail.html?id=2,10G EPON，XGPON/XGSPON OLT、ONU,无,root,1906551877,光电,6105851955,无,0,无,0
+成都明夷电子科技股份有限公司,光电芯片,https://www.meenyi.com/cn/plan/detail.html?id=2,10G SFP+ LR/SR,无,root,1906551877,光电,6105851955,无,0,无,0
+成都明夷电子科技股份有限公司,TO,https://www.meenyi.com/cn/plan/detail.html?id=2,2.5G PIN-TIA TO，10G APD TO,无,root,1906551877,光电,6105851955,无,0,无,0
+成都明夷电子科技股份有限公司,DML/EML Driver/CDR/TIA,https://www.meenyi.com/cn/plan/detail.html?id=2,25G GaAs Based,无,root,1906551877,光电,6105851955,无,0,无,0
+成都明夷电子科技股份有限公司,CDR+DML/EML Driver/CDR/TIA,https://www.meenyi.com/cn/plan/detail.html?id=2,4*25G QSFP28 LR/ER,无,root,1906551877,光电,6105851955,无,0,无,0
+成都明夷电子科技股份有限公司,Driver/TIA,https://www.meenyi.com/cn/plan/detail.html?id=2,4*16G,无,root,1906551877,光电,6105851955,无,0,无,0
+成都明夷电子科技股份有限公司,驱动放大器系列,https://www.meenyi.com/cn/plan/detail.html?id=1,无,基于 GaAs HBT 工艺开发，工作频段覆盖 0.7-7.2GHz，可完全兼容业界主流产品,root,1906551877,射频,5746614936,无,0,无,0
+成都明夷电子科技股份有限公司,开关系列,https://www.meenyi.com/cn/plan/detail.html?id=1,无,基于 SOI 工艺开发 SPDT、SP4T、SP5T 开关产品系列，具有宽频带，高隔离度，高耐功率等特点，可完全兼容行业主流产品,root,1906551877,射频,5746614936,无,0,无,0
+成都明夷电子科技股份有限公司,开关低噪放 Rx FEM 系列,https://www.meenyi.com/cn/plan/detail.html?id=1,无,工作频段覆盖 2.3-5GHz，开关抗烧毁功率达 20W，在国内主流设备厂商大批量出货,root,1906551877,射频,5746614936,无,0,无,0
+成都明夷电子科技股份有限公司,可变增益放大器系列,https://www.meenyi.com/cn/plan/detail.html?id=1,无,GaAs HBT/pHEMT 放大器，SOI 衰减器，工作频段覆盖 0.4-4.2GHz，高集成度，高线性，低噪声，高性能,root,1906551877,射频,5746614936,无,0,无,0
+成都明夷电子科技股份有限公司,AD/DA 及模拟器件,https://www.meenyi.com/cn/plan/detail.html?id=1,无,基于 CMOS 工艺模拟类器件，包括高性能 ADC，DAC，BandGap，模拟开关，Temperature sensor，时钟驱动器件等，典型应用场景：GaN/LDMOS 控制器（48/32 路 DACs）、PA 栅压开关、电路检测高精度运放,root,1906551877,射频,5746614936,无,0,无,0
+成都明夷电子科技股份有限公司,分立式 GaN 管芯系列,https://www.meenyi.com/cn/plan/detail.html?id=1,无,提供 2.6/3.5GHz 多级分立式 GaN 管芯系列，Doherty 架构，具有高增益、高效率等特点,root,1906551877,射频,5746614936,无,0,无,0
+成都明夷电子科技股份有限公司,10G EML Driver,https://www.meenyi.com/cn/blog/detail.html?id=6,无,国产唯一已经实现量产的 10G PON 芯片，填补了此类芯片国产芯片的空白,root,1906551877,无,0,无,0,无,0
+成都明夷电子科技股份有限公司,10G PON OLT Combo 方案,https://www.meenyi.com/cn/blog/detail.html?id=6,无,无,root,1906551877,无,0,无,0,无,0
+成都明夷电子科技股份有限公司,10G PON ONU 套片,https://www.meenyi.com/cn/blog/detail.html?id=6,无,无,root,1906551877,无,0,无,0,无,0
+成都明夷电子科技股份有限公司,10G SFP+ Transceiver,https://www.meenyi.com/cn/blog/detail.html?id=6,无,无,root,1906551877,无,0,无,0,无,0
+成都明夷电子科技股份有限公司,25G Transceiver 芯片,https://www.meenyi.com/cn/blog/detail.html?id=6,无,无,root,1906551877,无,0,无,0,无,0

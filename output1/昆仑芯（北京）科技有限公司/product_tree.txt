@@ -1,0 +1,9 @@
+-> root https://www.kunlunxin.com
+  -> 昆仑芯2代AI芯片–昆仑芯（北京）科技有 https://www.kunlunxin.com/product/2873.html
+  -> 昆仑芯AI加速卡R100–昆仑芯（北京） https://www.kunlunxin.com/product/2837.html
+  -> 昆仑芯AI加速卡R200系列–昆仑芯（北 https://www.kunlunxin.com/product/274.html
+  -> 昆仑芯AI加速卡RG800–昆仑芯（北京 https://www.kunlunxin.com/product/2842.html
+  -> 昆仑芯AI加速器组R480-X8–昆仑芯 https://www.kunlunxin.com/product/272.html
+  -> 昆仑芯1代AI芯片–昆仑芯（北京）科技有 https://www.kunlunxin.com/product/688.html
+  -> 昆仑芯AI加速卡K100–昆仑芯（北京） https://www.kunlunxin.com/product/687.html
+  -> 昆仑芯AI加速卡K200–昆仑芯（北京） https://www.kunlunxin.com/product/686.html

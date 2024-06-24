@@ -1,0 +1,17 @@
+-> root http://www.originsilicon.com
+  -> 产品中心-南宁初芯集成电路设计有限公司 https://www.originsilicon.com/cpzx
+    -> ESRAM-SDM 晶圆系列 
+    -> 电源管理芯片 
+    -> 中小尺寸显示芯片 
+    -> 大尺寸显示驱动芯片 
+    -> Mini-LED 背光驱动芯片 
+  -> ESRAM-SDM晶圆系列-南宁初芯集成 https://www.originsilicon.com/productinfo/803862.html
+  -> 电源管理芯片-南宁初芯集成电路设计有限公 https://www.originsilicon.com/productinfo/2482666.html
+  -> 中小尺寸显示芯片-南宁初芯集成电路设计有 https://www.originsilicon.com/productinfo/2482656.html
+  -> 大尺寸显示驱动芯片-南宁初芯集成电路设计 https://www.originsilicon.com/productinfo/2481595.html
+  -> Mini-LED背光驱动芯片-南宁初芯集 https://www.originsilicon.com/productinfo/1344009.html
+    -> Mini-LED 恒流驱动芯片 
+    -> Mini-LED 恒流驱动芯片 
+    -> Mini-LED 恒流驱动芯片 
+    -> Mini-LED 恒流驱动芯片 
+    -> Mini-LED 恒流驱动芯片 

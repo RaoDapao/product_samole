@@ -1,0 +1,36 @@
+-> root http://www.edadoc.com
+  -> 一博科技-PCB设计,PCB制板,SMT http://www.edadoc.com/OneStopService.html
+  -> 提供DDR3-DDR4-DDR5GDDR http://www.edadoc.com/product/DDRx
+  -> 提供高速串行信号仿真，PCIE、SATA http://www.edadoc.com/product/High_Speed
+  -> 提供PI仿真|电源完整性仿真-一博 http://www.edadoc.com/product/PI
+  -> 提供SiPATE设计-一博 http://www.edadoc.com/product/SiP
+  -> 设计案例-一博科技-提供PCB设计，PC http://edadoc.com/product/case.html
+  -> 多媒体电子 http://edadoc.com/Case/digital_product.html
+  -> 计算机 http://edadoc.com/home/product/detail/id/97.html
+  -> 轨道交通 http://edadoc.com/home/product/detail/id/100.html
+    -> 高速 PCB 设计 
+    -> 仿真测试 
+    -> PCB 制板 
+    -> SMT 焊接 
+    -> 元器件选型 
+  -> 提供通用标准夹具服务-一博 http://www.edadoc.com/product/fixture
+    -> 测试夹具 
+    -> 测试夹具 
+    -> 测试夹具 
+    -> 测试夹具 
+    -> 测试夹具 
+    -> 测试夹具 
+    -> 测试夹具 
+    -> 测试夹具 
+    -> 测试夹具 
+    -> 测试夹具 
+  -> 提供定制化测试夹具服务-一博 http://www.edadoc.com/product/customized_fixtures
+  -> 专业丨经验丰富的团队：多年测量经验，配以 http://www.edadoc.com/product/laboratory
+  -> 一博科技-PCB设计,PCB制板,SMT_1 http://edadoc.com/OneStopService.html
+  -> 提供SiPATE设计-一博_1 http://edadoc.com/product/SiP
+  -> 新能源汽车 http://edadoc.com/home/product/detail/id/95.html
+    -> 四路 Orin 芯片智能驾驶设计案例 
+    -> 基于 Orin 芯片的智能驾驶设计案例 
+    -> 车载毫米波雷达设计案例 
+  -> 设计案例-一博科技-提供PCB设计，PC_1 http://edadoc.com/product/case.html?page=2
+  -> 提供定制化测试夹具服务-一博_1 http://edadoc.com/product/customized_fixtures

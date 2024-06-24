@@ -1,0 +1,44 @@
+-> root http://www.dtstorage.com.cn
+  -> 大唐存储 
+    -> 产品中心 http://www.dtstorage.com.cn/product
+      -> 商业级 SSD 
+      -> 商业级 SSD 
+      -> 商业级 SSD 
+      -> 商业级 SSD 
+      -> 商业级 SSD 
+      -> 商业级 SSD 
+      -> 工业级 SSD 
+      -> 工业级 SSD 
+      -> 工业级 SSD 
+      -> 工业级 SSD 
+      -> 安全存储 
+      -> 安全存储 
+      -> 安全存储 
+      -> 安全存储 
+  -> 当前位置：大唐存储 
+    -> 产品中心 
+      -> 固态硬盘 
+          -> SATA http://www.dtstorage.com.cn/product/ssd/01/sata1
+          -> NVMe http://www.dtstorage.com.cn/product/ssd/01/nvme1
+        -> 商业级SSD http://www.dtstorage.com.cn/product/ssd/02
+          -> SATA_1 http://www.dtstorage.com.cn/product/ssd/02/sata2
+            -> DTS510C（2.5＂ SATA SSD） 
+            -> DTGC-C（2.5＂ SATA SSD） 
+            -> DTGC-C（M.2 2280 SATA） 
+            -> DTGC-C（mSATA） 
+          -> NVMe_1 http://www.dtstorage.com.cn/product/ssd/02/nvme2
+            -> DTGC-CP（M.2 2280 NVMe SSD） 
+            -> DTGC-CP600（M.2 2280 NVMe SSD） 
+        -> 工业级SSD http://www.dtstorage.com.cn/product/ssd/03
+          -> SATA_2 http://www.dtstorage.com.cn/product/ssd/03/sata3
+            -> DSSHTS200 
+            -> DSSHTS10 
+            -> DSSHTS10 
+            -> BGA SATA SSD 
+  -> 当前位置:大唐存储 
+    -> 产品中心 
+      -> 安全存储 http://www.dtstorage.com.cn/product/storage
+        -> 全盘加密 http://www.dtstorage.com.cn/product/storage/05/451.html
+        -> 分区加密 http://www.dtstorage.com.cn/product/storage/06/447.html
+        -> 定制加密 http://www.dtstorage.com.cn/product/storage/07/444.html
+  -> 未找到页面 http://www.dtstorage.com.cn/product/ssd/02/sata

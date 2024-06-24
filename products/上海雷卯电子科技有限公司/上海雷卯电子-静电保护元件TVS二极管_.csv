@@ -1,0 +1,18 @@
+产品网址：https://www.leiditech.com/collections/esd
+产品结构：root->上海雷卯电子-静电保护元件TVS二极管_防雷防静电方案_电磁兼容EMC免费测试供应厂家
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|ESD 静电保护元件|0201(DFN0603)、0402(DFN1006)、DFN1006-3、DFN1210-6、DFN1510、DFN1610、DFN1610-2、DFN1616-6、DFN1714、DFN2010、DFN2020-3、DFN2020-6、DFN2510P10、DFN2510P8、DFN2514、DFN2626-10、DFN3014、DFN3020-10、DFN3313、DFN3314、DFN4120P10、MSOP-08、MSOP-10、SOP-14、SOD-323、SOD-523、SOD-923、SOP-16、SOP-8、SOT-143、SOT-23、SOT-25、SOT-26、SOT-323、SOT-353、SOT-363、SOT-523、SOT-553、SOT-563、SOT-723|提供防静电保护|
+|PESD 静电保护元件|0201、0402、0603(SOD-523)、2510|提供静电保护|
+|TVS 瞬态电压抑制二极管|SMF Series(SOD-123FL)、P4SMF Series(SOD-123FL)、SMA Series(DO-214AC)、SMB Series(DO-214AA)、P6SMB Series(DO-214AA)、10BJ Series(DO-214AA)、SMC Series(DO-214AB)、SMD Series(DO-214AB)、5.0SMD Series(DO-214AB)、6.6SMD Series(DO-214AB)、SM5S Series、SM8S Series(6600W)、3KP Series(R6)、5KP Series(R6)、15KP Series(R6)、30KP Series(R6)、P8S Series(R6)、P12S Series(R6)、P15S Series(R6)、P4KE Series(DO-41)、P6KE Series(DO-15)、1.5KE Series(DO-201)、AK Series(AK)、SMB15J Series(SMB)、P4SMA Series(SMA)、SMB30J Series(SMB)|抑制瞬态电压|
+|TSS 半导体放电管|SMA Series(DO-214AC)、SMB Series(DO-214AA)、DO-15 Series、TO-92 Series、SOP-8 Series|用于放电保护|
+|GDT 陶瓷气体放电管|SMD3216 Series、SMD4532 Series、SMD5050 Series、2R-5 Series、2R-6 Series、2R-8 Series、3R-5 Series、3R-6 Series、3R-8 Series|气体放电保护|
+|MOV 压敏电阻|贴片 0402 系列、贴片 0603 系列、贴片 0805 系列、贴片 1206 系列、贴片 1210 系列、贴片 1812 系列、贴片 2220 系列、贴片 3220 系列、插件 05D 系列、插件 07D 系列、插件 10D 系列、插件 14D 系列、插件 20D 系列、插件 25D 系列、插件 32D 系列、插件 34D 系列、插件 40D 系列、插件 53D 系列|过压保护|
+|PPTC 自恢复保险丝|SMD0603 系列、SMD0805 系列、SMD1206 系列、SMD1210 系列、SMD1812 系列、SMD2018 系列、SMD2920 系列、HL06 系列、HL16 系列、HL30 系列、HL60 系列、HL130 系列、HL250 系列、HL600 系列|过流保护，可自恢复|
+|MOSFET 场效应管|N 沟道 MOSFET、P 沟道 MOSFET、N+P 道 MOSFET、Dual N 道 MOSFET、Dual P 道 MOSFET|用于电子开关和放大|
+|RECTIFIER 整流管|0201(DFN0603)、0402（DFN1006）、SOD-723、0603(SOD-523)、0805(SOD-323)、SOT-23、SOD-123FL、SMA(SMAF)、SMB(SMBF)、SMC、TO-277、TO-252、TO-220|将交流电转换为直流电|
+|Zener 稳压管|SOD-882、0603(SOD-523)、SOD-323、SOD-123FL、SMA、SMB、SOT-23|提供稳定的电压|
+|Inductor 电感|Molding 一体成型、winding 绕线、Common 共模|储存和释放电能|
+|Transceiver 收发器|RS485 RS422 通讯芯片、RS232 通讯芯片、CAN 通讯芯片|实现数据的收发|
+|LDO 线性稳压器|无|提供稳定的直流电压|

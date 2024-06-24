@@ -1,0 +1,84 @@
+产品网址：https://korea.tiandy.com/index.php?s=/Home/Product/detail/id/609.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|2MP Fixed IR Wi-Fi Bullet Camera|TC-C32WN|·Metal+Plastic Housing<br>·Up to 1920x1080@30fps<br>·S+265/H.265/H.264<br>·Min. illumination Color: 0.02Lux@F2.0<br>·Smart IR, IR Range: 50m<br>·Operating Conditions -35℃~65°C, 0~95% RH<br>·Built-in Mic, SD Card Slot, Reset Button<br>·Support Wi-Fi<br>·IP67|
+
+Camera,Unnamed: 1
+Image Sensor,"1/2.8"" CMOS"
+Signal System,PAL/NTSC
+Min. Illumination,"Color: 0.02Lux@ (F2.0, AGC ON), B/W: 0Lux with IR"
+Shutter Time,"1s to 1/100,000s"
+Day & Night,Dual IR Cut Filter with Auto Switch
+Wide Dynamic Range,Digital WDR
+Angle Adjustment,"Bracket, pan 0~360°, tilt 0~75°, roate 0~360°"
+Lens,
+Lens Type,Fixed
+Focus,4mm
+Lens Mount,M12
+Aperture,"F2.0, Fixed"
+FOV,Horizontal ﬁeld of view: 83.3° Vertical field of view: 46.8°
+Illuminator,
+IR LEDs,2
+IR Range,Up to 50m
+Wavelength,850nm
+White LEDs,
+Compression Standard,
+Video Compression,S+265/H.265/H.264
+Video Bit Rate,32Kbps~6Mbps
+Audio Compression,G.711/G.711U/ADPCM
+Audio Bit Rate,8K~48Kbps
+Image,
+Max. Resolution,1920x1080
+Main Stream,"PAL: 25fps (1920×1080, 1280×720, 704×576, 640×480)"
+,"NTSC: 30fps (1920×1080, 1280×720, 704×480, 640×480)"
+Sub Stream,"PAL: 25fps (704×576, 704×288, 640×360, 352×288)"
+,"NTSC: 30fps (704×480, 704×240, 640×360, 352×240)"
+Third Stream,
+Image Setting,"Saturation, brightness, contrast, sharpness, adjustable by client software or web browser"
+Image Enhancement,BLC/3D DNR/HLC
+ROI,
+OSD,"16x16, 32x32, adaptable size, Letters Such as Week, Date, Time, Total 1 Regions"
+Picture Overlay,
+Privacy Mask,"Yes, 4 regions"
+Smart Defog,Yes
+Feature,
+Alarm Trigger,"Motion Detection, Mask Alarm, IP Address Conﬂict"
+Video Analytics,"Tripwire, Perimeter"
+Early Warning(EW),
+Network,
+Network Storage,Yes(Only Support Tiandy ANR NVR)
+Protocols,"TCP/IP, HTTP, FTP, DHCP, DNS, DDNS, IPV4, NTP, UDP, Telnet, ICMP, RTP, RTSP, UPnP"
+System Compatibility,"ONVIF(PROFILE S/T/G),SDK,CGI,Milestone,P2P(Mutually exclusive with Profile G)"
+Remote Connection,2
+Client,"Easy7, EasyLive"
+Web Version,Web6
+Wi-Fi,
+Wireless Standards,IEEE802.11b/g/n
+Frequency Range,2.4GHz ~ 2.4835 GHz
+Channel Bandwidth,20/40MHz
+Protocols,"802.11b: CCK, QPSK, BPSK  802.11g/n: OFDM/HT"
+Security,WPA-PSK/WPA2-PSK
+Transfer Rates,802.11b: 11Mbps  802.11g: 54Mbps  802.11n: up to 150Mbps
+Wireless Range,Up to 50m (The performance varies based on actual environment)
+Power Consumption,802.11b: 17±1.5dBm@11Mbps  802.11g: 14±1.5dBm@54Mbps  802.11n: 12.5±1.5dBm@150Mbps
+Interface,
+Communication Interface,1 RJ45 10M/ 100M self adaptive Ethernet port
+Audio I/O,Mic in
+Alarm I/O,
+Reset Button,Yes
+On-board storage,"Built-in MicroSD card slot, up to 512 GB"
+General,
+Web Client Language,"17 languages  Chinese, English, Traditional Chinese, Korean, Spanish, Italian, Russian, Turkish, Thai, Polish, French, Dutch, Farsi, Arabic, Hebrew, Vietnamese, German"
+Operating Conditions,"-35  ℃  ～  65  ℃  , 0  ～  95% RH"
+Power Supply,DC 12V±25%
+Power Consumption,MAX: 6.8W(12V)
+Protection,IP67
+Heater,
+Dimensions,161mm×68mm×66mm (6.34×2.68×2.60 inch)
+Weight,0.31Kg (0.68lb)
+
+
+날짜,제목,유형
+2022-12-16,TC-C32WN Spec-I5-Y-WIFI-4mm-V4.1,pdf

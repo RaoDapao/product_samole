@@ -1,0 +1,6 @@
+产品网址：http://chipintelli.com/zh-cn/product/index.html?category_id=60
+产品结构：语音芯片->AI语音芯片->CI13系列
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|AI 语音芯片|CI13 系列|基于启英泰伦自研 BNPU 3.0，系统主频最高可达 240MHz，内置高达 640KByte SRAM，集成 PMU 电源管理单元和 RC 振荡器，集成双通道高性能低功耗 Audio Codec 和多路 UART、IIC、IIS、PWM、GPIO、PDM 等外围控制接口。芯片仅需少量电阻电容等外围器件就可以实现各类智能语音产品硬件方案，性价比极高。|

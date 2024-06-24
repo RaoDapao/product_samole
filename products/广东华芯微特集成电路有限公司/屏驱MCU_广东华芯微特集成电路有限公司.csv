@@ -1,0 +1,6 @@
+产品网址：https://www.synwit.cn/productcenter
+产品结构：root->屏驱MCU_广东华芯微特集成电路有限公司-官网
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|屏驱 MCU|SWM19S、SWM32S、SWM34S、SWM166|支持多种尺寸和分辨率的 TFT-LCD，最高分辨率：1024*1024，内核为 Cortex-M0、Cortex-M4、安谋科技“星辰”STAR-MC1 内核，主频 60MHz~150MHz，SDRAM 为 2MB~16MB，LCD 接口有 I8080、RGB565、RGB888、MIPI（研发中...），硬件解码器有 JPEG、DMA2D，外设包括 SDIO、I2S、DAC、USB OTG，开源图形库有 LVGL、uCGUI，市场应用于 86 盒子、电摩、电动二轮车液晶仪表盘、家电 HMI（炒菜机、咖啡机、微波炉、集成灶...）、其他 HMI 产品|

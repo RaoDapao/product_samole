@@ -1,0 +1,38 @@
+-> root http://www.micov.com.cn
+  -> 首页 
+      -> U盘主控芯片 http://www.micov.com.cn/products/prolist251.html
+        -> MW8108 http://www.micov.com.cn/products/226.html
+        -> MW8690 http://www.micov.com.cn/products/215.html
+        -> MW8209E http://www.micov.com.cn/products/prolist257.html
+        -> MW8310 http://www.micov.com.cn/products/prolist259.html
+        -> MW8209 http://www.micov.com.cn/products/prolist261.html
+        -> MW6688C http://www.micov.com.cn/products/prolist260.html
+      -> USBHUB控制器芯片 http://www.micov.com.cn/products/prolist262.html
+        -> MW7211 http://www.micov.com.cn/products/prolist264.html
+        -> MW7250-HS8836A http://www.micov.com.cn/products/prolist263.html
+      -> 多媒体芯片 http://www.micov.com.cn/products/prolist265.html
+        -> MW5108 http://www.micov.com.cn/products/223.html
+      -> 解决方案 http://www.micov.com.cn/products/prolist267.html
+        -> 高级U盘 http://www.micov.com.cn/products/225.html
+        -> 数码相框+U盘 http://www.micov.com.cn/products/224.html
+  -> Home 
+    -> Product http://www.micov.com.cn/en/products/prolist250.html
+      -> USBStorageController http://www.micov.com.cn/en/products/prolist251.html
+        -> MW8108_1 http://www.micov.com.cn/en/products/226.html
+        -> MW8690_1 http://www.micov.com.cn/en/products/215.html
+        -> MW8209E_1 http://www.micov.com.cn/en/products/prolist257.html
+        -> MW8310_1 http://www.micov.com.cn/en/products/prolist258.html
+        -> MW8229 http://www.micov.com.cn/en/products/prolist259.html
+        -> MW6688C_1 http://www.micov.com.cn/en/products/prolist261.html
+        -> MW6209 http://www.micov.com.cn/en/products/prolist260.html
+      -> USBHUBController http://www.micov.com.cn/en/products/prolist262.html
+        -> MW7211_1 http://www.micov.com.cn/en/products/prolist264.html
+        -> MW7250 http://www.micov.com.cn/en/products/prolist263.html
+      -> MultimediaController http://www.micov.com.cn/en/products/prolist265.html
+        -> MW5108_1 http://www.micov.com.cn/en/products/223.html
+      -> Solution http://www.micov.com.cn/en/products/prolist267.html
+        -> AdvancedU-disk http://www.micov.com.cn/en/products/225.html
+          -> Advanced U-disk 
+          -> Digital photo frame + U-disk 
+  -> Digitalphotoframe+U-disk-MicovTechnologies(Shenzhen)Co.,Ltd http://www.micov.com.cn/en/products/224.html
+  -> Digitalphotoframe+U-disk-MicovTechnologies(Shenzhen)Co.,Ltd_1 http://www.micov.com.cn/en/products/prolist268.html

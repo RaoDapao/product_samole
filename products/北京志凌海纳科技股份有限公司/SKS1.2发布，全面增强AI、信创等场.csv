@@ -1,0 +1,6 @@
+产品网址：https://www.smartx.com/blog/2024/03/sks-2-release
+产品结构：root->SKS1.2发布，全面增强AI、信创等场景支持能力–SmartX
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|SMTX Kubernetes Service（简称 SKS）|1.2|基于 SmartX 超融合构建的 Kubernetes 服务，通过整合业界领先的 SmartX 虚拟化、分布式存储、网络与安全等产品组件，帮助企业 IT 运维团队在多种 CPU 架构的服务器上轻松部署和管理生产级 Kubernetes 集群。支持对 GPU 资源进行弹性灵活的管理，包括对挂载 GPU 的节点设置自动弹性伸缩策略，当挂载 GPU 的节点出现故障时，系统能够自动创建并替换为带有相同 GPU 资源的新节点。支持多种共享 GPU 的模式，如虚拟 GPU（vGPU）、时间切片（Time-Slicing）、多实例 GPU（MIG）、多进程服务（MPS）。支持在基于 AArch64 国产 CPU 架构（鲲鹏等）的 SMTX OS 集群上部署和创建 Kubernetes 工作负载集群，同时 Kubernetes 节点也支持使用 openEuler 操作系统。支持用户配置受信任的容器镜像仓库，用户可以在 SMTX OS 集群上快速创建基于虚拟机的容器镜像仓库（Harbor），为 SKS 工作负载集群提供容器镜像服务。SKS 1.2 也支持用户为工作负载集群配置自行维护的第三方容器镜像仓库。|

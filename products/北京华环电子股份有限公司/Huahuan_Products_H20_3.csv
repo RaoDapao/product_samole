@@ -1,0 +1,20 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=60&ncid=61&deid=147
+产品结构：root->Huahuan_Products_H20PN-2000PTNAggregation
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|PTN Aggregation Devices|H20PN-2000|提供强大的容量、高端口密度和多种端口，非常适合用于提供商的 IP/MPLS 传输网络边缘，为客户提供端到端的可用性、可靠性和 QoS 保证，帮助提供商克服资源、成本和服务方面的挑战，为提供商和客户带来价值。支持 GE/FE/STM-1/STM-4/E1 端口，具有管理、二层、OAM、MPLS-TP、可靠性、QoS、CES 和同步等功能。|
+
+Model,Info
+Main Control Card,NM RJ45+Console port
+Packet Interface Card,2*10GX Interface Card
+Packet Interface Card,8*GX Interface Card
+Packet Interface Card,4*GX Interface Card
+Packet Interface Card,8*FX/FE Interface Card
+CES Card,E1 Circuit Emulation Service Interface Card
+CES Card,STM-1Circuit Emulation Service Interface Card
+CES Card,STM-4Circuit Emulation Service Interface Card
+Power Supply Card,DC -48V Power Supply Card
+Power Supply Card,AC 220V Power Supply Card
+Clock Card,Clock Card
+Fan Unit,Fan Unit

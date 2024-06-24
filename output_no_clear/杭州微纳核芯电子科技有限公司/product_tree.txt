@@ -1,0 +1,13 @@
+-> root https://www.nanocorechip.com
+  -> 8位MCU-杭州微纳核芯电子科技有限公司-_2 https://www.nanocorechip.com/?products_46
+    -> 微控制器 
+    -> 新能源 BMS 芯片 
+    -> AI 芯片 
+  -> 电池计量芯片-杭州微纳核芯电子科技有限公司-_2 https://www.nanocorechip.com/?products_131
+  -> ATM8F8040A-8位MCU-杭州微纳核芯电子科技有限公司-_2 https://www.nanocorechip.com/?products_46/363.html
+  -> ATM8F7040-8位MCU-杭州微纳核芯电子科技有限公司-_2 https://www.nanocorechip.com/?products_46/332.html
+  -> ATM8F3140A-8位MCU-杭州微纳核芯电子科技有限公司-_2 https://www.nanocorechip.com/?products_46/223.html
+  -> 32位MCU-杭州微纳核芯电子科技有限公司-_2 https://www.nanocorechip.com/?products_47
+  -> NCCM0660-32位MCU-杭州微纳核芯电子科技有限公司-_2 https://www.nanocorechip.com/?products_47/379.html
+  -> NCCM0670-32位MCU-杭州微纳核芯电子科技有限公司-_2 https://www.nanocorechip.com/?products_47/380.html
+  -> BMSAFE-杭州微纳核芯电子科技有限公司-_2 https://www.nanocorechip.com/?products_134

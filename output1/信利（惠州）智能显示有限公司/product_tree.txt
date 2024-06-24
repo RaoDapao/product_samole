@@ -1,0 +1,13 @@
+-> root http://trulyhz.com
+  -> 首页 
+    -> 产品中心 
+      -> 中尺寸 http://trulyhz.com/pro.aspx?CateID=168
+        -> TFT-LCD 
+        -> TFT-LCD 
+        -> TFT-LCD 
+        -> TFT-LCD 
+        -> TFT-LCD 
+        -> TFT-LCD 
+        -> TFT-LCD 
+        -> TFT-LCD 
+        -> TFT-LCD 

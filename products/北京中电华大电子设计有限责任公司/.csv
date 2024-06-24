@@ -1,0 +1,6 @@
+产品网址：https://hed.com.cn/products_mcu/38_43_44_204.html
+产品结构：root
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|安全 MCU 芯片|CIU32L071|48MHz Cortex-M0+ 32-bit CPU，支持单周期乘法指令，多达 256KB Flash，28KB SRAM，1KB OTP，灵活的功耗管理模式，电源监测，时钟源，多达 73 个 IO，2 通道 DMA 控制器，RTC 支持闹钟、周期定时器，9 个定时器，IRTIM 支持定时器和 U(S)ART 互联用于红外控制，通信接口，信息安全，LCD 最大支持 8COM x 40SEG，12 位 1Msps 高精度 SAR ADC，2 个超低功耗比较器，内置参考电压源 VREFBUF，1 个温度传感器，96-bit unique ID，内嵌 Bootloader，SWD 调试，工作条件：1.8V~5.5V，-40°C~85°C，封装形式：LQFP80/64/48|

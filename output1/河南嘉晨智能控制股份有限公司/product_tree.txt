@@ -1,0 +1,39 @@
+-> root https://www.jiachenin.com
+  -> 产品中心-河南嘉晨智能控制股份有限公司 https://jiachenin.com/products
+    -> AGV 电量采集终端 
+    -> AST 模拟量采集终端 
+    -> B2C 蓝牙模块 
+    -> D13L 
+    -> D28C 
+    -> D28C-R 
+    -> D35C-H 
+    -> D35C-D 
+    -> D35C-R 
+    -> D40C-G 
+    -> D40C-ICE 
+    -> D43C 
+    -> D43C-R 
+    -> D50C 
+    -> D60S 
+    -> D80C 
+    -> D100C 
+    -> HDU1296 
+    -> HDL-6 
+    -> HDL-4 
+    -> DCC 
+    -> WDC 
+    -> DCP 
+    -> IDT-4GE 
+    -> IDT-4GS 
+    -> IDT-4GW 
+    -> IDT-MINI-W 
+    -> IDT-MINI-O 
+    -> EKS-E 
+    -> EKS-C 
+    -> 角度电位计 
+    -> 制动踏板 
+    -> JCTH-N 
+    -> JCHD 
+    -> JCTH-W 
+    -> HLP 
+  -> ProductCenter-HenanJiachenIntelligentControlCo. https://jiachenin.com/en/products

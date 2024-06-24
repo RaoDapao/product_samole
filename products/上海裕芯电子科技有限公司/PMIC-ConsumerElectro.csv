@@ -1,0 +1,12 @@
+产品网址：https://www.shiningic.com/en/producterlist.aspx?classid=010103
+产品结构：root->PMIC-ConsumerElectronics-上海裕芯电子有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|PMIC- Consumer Electronics|无|无|
+
+序号,type,description,VIN（V）,ILEDMAX（mA）,ISD（uA）,η（%）,fSW（KHz),capacity（W）,peripheral device,encapsulation,Remarks
+1,YX2811*,电源SOC 个护产品,4.5~6,,,6.8(过压保护）,800（充电电流）,4.2/4.35(充电截止电压),,ESOP8,输入电压(V):4.5~6|输入过压保护(V):6.8| 充电电流(mA):800|充电截止电压(V):4.2/4.35|放电电流(mA):2700|欠压保护(V):3.0|特点:集成单节锂电池充电管理功能、按键检测功能的马达驱动专用芯片，内置两种按键控制方式，支持三档调节
+2,YX2118,DC-DC直流转换 Boost转换器,0.9~5.0,0.8,350.0,2.5~5.0,12,/,Y,SOT23-6/DFN2*2-6,PFM
+3,YX2116*,DC-DC直流转换 Boost转换器,0.9-5.0,1,1200.0,3.0-5.1,1,1.15,Y,SOT23-6/DFN2*2-6,超低静态功耗、IC关断时输出断开
+4,YS3605*,DC-DC直流转换 Boost转换器,2.6-5.5,0.5-2.5,1000.0,12V(MAX),190,0.6,N,SOT23-6,异步升压，过流保护点可调

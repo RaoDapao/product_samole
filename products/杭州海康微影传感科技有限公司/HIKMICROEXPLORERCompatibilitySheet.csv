@@ -1,0 +1,220 @@
+产品网址：https://www.hikmicrotech.com/en/outdoor-products/explorer-thermal-camera-for-smartphones/compatibility-sheet
+产品结构：root->HIKMICROEXPLORERCompatibilitySheet
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Thermal Monocular|LYNX 2.0|无|
+|Thermal Monocular|LYNX S|无|
+|Thermal Monocular|LYNX Pro|无|
+|Thermal Monocular|FALCON|无|
+|Thermal Monocular|CONDOR|无|
+|Thermal Monocular|OWL|无|
+|Thermal Scope|STELLAR 2.0|无|
+|Thermal Scope|THUNDER ZOOM 2.0|无|
+|Thermal Scope|PANTHER 2.0|无|
+|Thermal Scope|THUNDER 2.0|无|
+|Thermal Scope|STELLAR|无|
+|Thermal Scope|PANTHER|无|
+|Thermal Scope|THUNDER Pro|无|
+|Thermal Clip-On|THUNDER 2.0|无|
+|Thermal Clip-On|THUNDER Pro|无|
+|Thermal Camera for Smartphones|EXPLORER|无|
+|Digital Day&Night Vision Monocular|HEIMDAL|无|
+|Digital Day&Night Vision Scope|ALPEX 4K|无|
+|Digital Day&Night Vision Scope|ALPEX|无|
+|Digital Day&Night Vision Scope|CHEETAH|无|
+|Digital Day&Night Vision Clip-On|CHEETAH|无|
+|Multi-Spectrum Monocular|GRYPHON LRF|无|
+|Multi-Spectrum Binocular|HABROK 4K|无|
+|Multi-Spectrum Binocular|HABROK|无|
+|Multi-Spectrum Binocular|RAPTOR|无|
+|Trail Camera|M15|无|
+|Application|HIKMICRO Sight|无|
+|IR Torch|IR Torch|无|
+|IR Torch Bracket|IR Torch Bracket|无|
+|Rail|Rail|无|
+|Ring|Ring|无|
+|Adapter|THUNDER 2.0 Adapter|无|
+|Adapter|Adapter 1.0|无|
+|Eyepiece|THUNDER 2.0 Eyepiece|无|
+|Eyepiece|Eyepiece|无|
+|Charger|THUNDER 2.0 Charger|无|
+|Charger|Charger|无|
+|Battery|THUNDER 2.0 Battery|无|
+|Battery|Battery|无|
+|Monocular Pouch|Monocular Pouch|无|
+|Trail Camera Accessories|Solar Panel|无|
+|Mini Series|Mini2|无|
+|Mini Series|Mini2Plus|无|
+|Mini Series|Mini3|无|
+|Eco Series|Eco & Eco-V|无|
+|Eco Series|PocketE|无|
+|B Series|B Series|无|
+|Pocket Series|Pocket1 & Pocket2|无|
+|M Series|M Series|无|
+|G Series|G Series|无|
+|G Series|Gx1 Series|无|
+|SP Series|SP Series|无|
+|AI Series|AI56 & AI76|无|
+|AD Series|AD21|无|
+|FB Series|FB21|无|
+|FT Series|FT31|无|
+|BX Series|BX20|无|
+|Cube Cameras|Cube Cameras|无|
+|Box Cameras|Box Cameras|无|
+|Auto-focus Box Camera|Auto-focus Box Camera|无|
+|High Temperature Box Cameras|High Temperature Box Cameras|无|
+|Heat-resistant Cameras|Heat-resistant Cameras|无|
+|HIKMICRO Viewer|HIKMICRO Viewer|无|
+|HIKMICRO Analyzer|HIKMICRO Analyzer|无|
+|HIKMICRO Studio|HIKMICRO Studio|无|
+|Spot Size Calculator|Spot Size Calculator|无|
+|UVC Client|UVC Client|无|
+|Pouches|E/B Series|无|
+|Pouches|M/G/SP Series|无|
+|Lenses|B Series|无|
+|Lenses|Pocket Series|无|
+|Lenses|G Series|无|
+|Lenses|Gx1 Series|无|
+|Lenses|SP Series|无|
+|Batteries|M Series|无|
+|Batteries|G Series|无|
+|Batteries|SP Series|无|
+|Chargers|M Series|无|
+|Chargers|G Series|无|
+|Chargers|SP Series|无|
+|Brackets|Mini/Pocket Brackets|无|
+|Brackets|SP Series Brackets|无|
+|Sun Shield|G Series|无|
+
+Brand of Smartphone,Series,Operating System
+AQUOS,Sense4 Plus,Android 10
+DECOMO,AQUOS Sense5G,Android 12
+Google,Pixel 3 XL,Android 12
+Google,Pixel 4a,Android 13
+Google,Pixel 5,Android 13
+Google,Pixel 6a,Android 13
+Google,Pixel 7,Android 13
+HONOR,20,Android 10
+HONOR,70,Android 12
+HONOR,80,Android 12
+HONOR,80 Pro,Android 12
+HONOR,80 GT,Android 12
+HONOR,Play6T,Android 11
+HONOR,Play6T Pro,Android 12
+HONOR,X30,Android 12
+HONOR,X40,Android 12
+HONOR,X40 GT,Android 12
+HUAWEI,20 Pro,Android 10
+HUAWEI,50,HarmonyOS 2.0.0
+HUAWEI,50 Pro,HarmonyOS 2.0.1
+HUAWEI,Mate 50,HarmonyOS 3.0.0
+HUAWEI,Mate 50E,HarmonyOS 3.0.0
+HUAWEI,Mate X,Android 9
+HUAWEI,Nova 10,HarmonyOS 3.0.0
+HUAWEI,Nova 10 SE,HarmonyOS 2.0.1
+HUAWEI,Nova 10z,HarmonyOS 2.0.0
+HUAWEI,P50,HarmonyOS 3.0.0
+IQOO,9Pro,Android12
+IQOO,10,Android13
+IQOO,11,Android13
+IQOO,11Pro,Android13
+IQOO,Neo6,Android12
+IQOO,Neo7,Android13
+IQOO,U5,Android12
+IQOO,Z6,Android12
+IQOO,Z6x,Android11
+LG,G9 LM,Android 11
+LG,K52,Android 10
+LG,K61,Android 9
+LG,V60,Android 10
+MOTO,edge 20 pro,Android 12
+MOTO,edge 30pro,Android 12
+MOTO,G play,Android 11
+MOTO,G power(2022),Android 12
+MOTO,G stylus,Android 11
+MOTO,G100,Android 12
+MOTO,G32,Android 12
+MOTO,G50,Android 11
+MOTO,G52J,Android 11
+MOTO,G5G PULS,Android 10
+MOTO,G9 Power,Android 10
+MOTO,MotoG52,Android 12
+MOTO,One 5G ACE,Android 10
+MOTO,One fusion,Android 10
+NOKIA,Nokia5.4,Android 11
+OnePlus,Ace,Android 12
+OnePlus,Ace Pro,Android 12
+OnePlus,8T,Android 13
+OnePlus,Nord,Android 11
+OnePlus,3,Android 9
+OnePlus,9R,Android 12
+OnePlus,11,Android 13
+OnePlus,Nord N10,Android 10
+OnePlus,Nord N100,Android 11
+OPPO,A36,Android 11
+OPPO,A54S,Android 11
+OPPO,A73,Android 12
+OPPO,K9S,Android 11
+OPPO,K9S 5G,Android 12
+OPPO,K10X 5G,Android 12
+OPPO,Reno6 Pro,Android 12
+OPPO,Reno8 5G,Android 12
+OPPO,Reno9 5G,Android 13
+Realme,Zarzo 30A,Android 11
+Realme,X50 Pro,Android 10
+Realme,GT Neo3,Android 12
+Redmi,K40pro,Android 12
+Redmi,K50,Android 12
+Redmi,K60,Android 13
+Redmi,K60Pro,Android 13
+Redmi,Note10 5G,Android 11
+Redmi,Note 11 5G,Android 11
+Redmi,Note 11 Pro,Android 12
+Redmi,Note 11T Pro,Android 12
+Redmi,Note12,Android 12
+Redmi,Note12 Pro,Android 12
+Samsung,Galaxy A02S,Android 11
+Samsung,Galaxy A03 Core,Android 11
+Samsung,Galaxy A03s,Android 11
+Samsung,Galaxy A03s,Android 11
+Samsung,Galaxy A11,Android 10
+Samsung,Galaxy A12,Android 11
+Samsung,Galaxy A13 5G,Android 11
+Samsung,Galaxy A22 5G,Android 12
+Samsung,Galaxy A31,Android 10
+Samsung,Galaxy A32,Android 11
+Samsung,Galaxy A32,Android 12
+Samsung,Galaxy A33 5G,Android 12
+Samsung,Galaxy A53 5G,Android 13
+Samsung,Galaxy A71,Android 12
+Samsung,Galaxy M21,Android 11
+Samsung,Galaxy M31S,Android 11
+Samsung,Galaxy M51,Android 11
+Samsung,Galaxy Note10,Android 12
+Samsung,Galaxy S10,Android 12
+Samsung,Galaxy S10,Android 11
+Samsung,Galaxy S10+,Android 12
+Samsung,Galaxy S10e,Android 11
+Samsung,Galaxy S20,Android 11
+Samsung,Galaxy S21,Android 13
+Samsung,Galaxy S22+,Android 12
+Samsung,Galaxy S8,Android 9
+Samsung,Galaxy S9,Android 10
+SONY,Xoeria ACE SO-02L,Android 10
+SONY,Xperia 10 ll,Android 10
+SONY,Xperia 5 III,Android 11
+SONY,XQ-AD51,Android 9
+SONY,XZ3,Android 10
+TCL,10pro,Android 11
+VIVO,S15Pro,Android 12
+VIVO,S16,Android 13
+VIVO,S163,Android 11
+VIVO,S16Pro,Android 13
+VIVO,X90,Android 13
+VIVO,Y31S,Android 11
+VIVO,Y52S,Android 10
+VIVO,Y73t,Android 11
+VIVO,Y77,Android 12
+Xiaomi,11,Android 11
+Xiaomi,13,Android 13

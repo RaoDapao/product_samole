@@ -1,0 +1,92 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/512.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|PTZ Camera|TC-H324S|2MP 23× Starlight IR ，最高可达 1920×1080@25fps，彩色：0.001lux@（F1.5，AGC ON），黑白：0lux 带红外，S+265/H.265/H.264/M-JPEG，光学变焦 23X，红外范围可达 150m，内置 Micro SD 卡插槽，最大支持 512GB，支持智能监控，支持人/车分类，工作条件-30℃～65℃（IR OFF）-30℃～40℃（IR ON），0-95%，DC12V±10%，POE IEEE802.3AT，IP66|
+
+Camera,Unnamed: 1
+Image Sensor,"1/2.8""CMOS"
+Min. Illumination,"Color: 0.001lux@ (F1.5, AGC ON), B/W: 0lux with IR"
+Shutter Time,1s~1/100000s
+Day&Night,IR-cut filter with auto switch (ICR)
+WDR,120dB
+Lens,
+Focal Length,5mm~115mm
+Optical Zoom,23X
+Zoom Speed,<5s
+Aperture Range,F1.5~F3.0
+Field of View,55.8°~3.2°(H); 32.2°~1.8°(V); 61°~3.64°(D)
+Focus Control,Auto/Semi-auto/Manual
+Iris Control,Auto
+Close Focus Distance,1000mm~1500mm
+DORI Distance,Detect:1351m Observe:536m Recognize:270m Identify:135m
+Pan&Tilt,
+Pan Range,360°
+Tilt Range,-16°～90° (Default -3°～90°)
+Tilt Speed,Manual Speed:0.1°～80°/s Preset: 80°/s
+3D Position,Yes
+Preset,500
+Cruise,"16, up to 32 presets per cruise"
+Scan,8
+Pattern,"8, each with 600s memory or 1000 orders"
+Scheduled Task,Preset、Cruise、Scan、Pattern
+North Point,Yes(Manual setting)
+Power-off Memory,Yes
+Illuminator,
+IR LEDs,7
+IR Distance,Up to 150m
+Wavelength,850nm
+IR Irradiation Angle,Adjustable by Zoom
+Compression Standard,
+Video Compression,S+265/H.265/H.264/M-JPEG
+Video Bit Rate,32Kbps~16Mbps
+Image,
+Max. Resolution,1920×1080@25fps
+Main Stream,"PAL:25fps(1920×1080, 1280×720, 640×480, 704×576) NTSC:30fps(1920×1080, 1280×720, 640×480, 704×480)"
+Sub Stream,"PAL:25fps(704×576, 704×288, 352×288, 640×360) NTSC:30fps(704×480, 704×240, 352×240, 640×360)"
+Third Stream,PAL:25fps(352×288) NTSC:30fps(352×240)
+BLC,Yes
+HLC,Yes
+AGC,Yes
+White Balance,Yes
+ROI,7 Dynamic Areas for Both Main and Sub Stream
+OSD,"5 regions(Each region can have a maximum of 127 characters ,up to 1 line); 16*16/24*24/32*32/48*48/64*64/adaptable size; Vector/Lattice"
+Defog,Yes
+Flip,Normal/Horizontal Mirror/Vertical Mirror/Inverted Flip
+Regional Exposure,Yes
+Regional Focus,Yes
+Demist,Yes
+Feature,
+Alarm Trigger,Motion Detection; Mask Alarm; Voltage Alarm; Disk Full; Disk R/W Error; Recording Exception; IP Address Conflict; MAC Address Conflict; FTP Server Exception ; Network cable disconnected
+Linkage Method,send email; trigger recording; trigger capture; notify surveillance center
+Video Analytics,Human/Vehicle Classification; Tripwire; Double Tripwire; Perimeter; Object Abandon; Object Lost; Heatmap; Video Abnormal
+Network,
+ANR,ANR
+Protocols,HTTP; HTTPS; TCP/IP; UDP; UPnP; ICMP; IGMP; SNMP v1\v2\v3; DHCP; DNS; DDNS; Easy DDNS; NTP; SMTP; TLS; SSL; 802.1x; QoS; IPv4; IPv6; PPPOE; SSH; Unicast; Multicast; ARP; RTP; SRTP; RTSP; FTP; SFTP; PING
+System Compatibility,ONVIF Profile S/T/G/M; CGI; Milestone; RTMP
+Remote Connection,≤2
+User/Host,Up to 32 users. 4 user levels
+Client,Easy7 Smart Client
+Moblie Client,EasyLive Plus
+Interface,
+Communication Interface,1*RJ45 10M/ 100M self adaptive Ethernet port
+Reset Button,Yes
+On-board storage,"Built-in Micro SD card slot, up to 512 GB"
+General,
+Web Client Language,19 languages Simple Chinese/English/Traditional Chinese/Spanish/Italian/ Korean/Turkish/Russian/Thai/ Polish/French/Dutch/ Hebraism/Vietnamese/Arabic/German/ Ukrainian /Portuguese/Albanian
+Operating Temperature,-30℃～65℃(IR OFF) -30℃～40℃(IR ON)
+Operating Humidity,0-95%
+Storage Temperature,-30℃～65℃
+Storage Humidity,0-95%(non-condensing)
+Power Supply,DC12V±10%; POE IEEE802.3AT
+Protection,Surge protection 4000V; Lightning proof 6000V; IP66
+Material,Metal and Plastic
+Boundary Dimensions,161mm(D)x276mm(H)
+Package Dimensions,260(L)*260(W)*465(H)mm
+GrossWeight,3.7kg
+NetWeight,2.1kg
+
+
+Date,Title,Type
+2024-04-07,1D.20020.000527_TC-H324S 23XIECV3.0_en,pdf

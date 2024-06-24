@@ -1,0 +1,43 @@
+-> root https://www.asl-tek.com
+  -> ASL芯片,集睿致远产品,ASL显示系统 https://www.asl-tek.com/Lists/1.html
+    -> 显示器 Scaler SOC 
+    -> 显示器 Scaler SOC 
+    -> DP to VGA 显示协议转换芯片 
+    -> Type-C to VGA 显示协议转换芯片 
+    -> Type-C/DP to HDMI&VGA converter with PD 
+    -> Type-C/DP1.4 到 HDMI2.0 的显示协议转换芯片 
+    -> Type-C/DP1.4 到 HDMI2.1 的显示协议转换芯片 
+    -> Type-C/DP1.4 到 HDMI2.1 的显示协议转换芯片 
+    -> HDMI to DP/eDP 显示协议转换芯片 
+    -> DisplayPort 到 LVDS 的显示协议转换芯片 
+    -> DisplayPort 到 VGA 的显示协议转换器 
+    -> DP to VGA 显示协议转换芯片 
+    -> MIPI-DSI 到 Dual LVDS 的显示协议转换芯片 
+    -> MIPI-DSI 到 eDP 的显示协议转换芯片 
+    -> USB3.2 Gen2 and DP1.4 HBR3 Retimer 
+  -> 新闻快讯-ASL新闻中心,ASL新闻快讯 https://www.asl-tek.com/article/22/10.html
+    -> 协议转换芯片 
+    -> 高速信号中继器芯片 
+    -> 高分辨率多功能显示控制器 
+    -> 应用于消费电子领域高速传输中继器芯片 
+    -> 多应用场景高可靠性端口控制芯片中继器 
+    -> 协议转换芯片 
+  -> 新闻快讯-ASL新闻中心,ASL新闻快讯_1 https://www.asl-tek.com/article/22/12.html
+    -> USB 3.2 Gen 2 Retimer 
+    -> USB Type-C /DP1.4 到 HDMI2.1 的显示协议转换芯片 
+    -> FHD LCD Controller ASL583x 
+  -> 显示系统-ASL芯片,集睿致远产品,AS https://www.asl-tek.com/article/19/25.html
+  -> 显示系统-ASL芯片,集睿致远产品,AS_1 https://www.asl-tek.com/article/19/26.html
+  -> 高速互连-ASL芯片,集睿致远产品,AS https://www.asl-tek.com/article/20/23.html
+  -> 高速互连-ASL芯片,集睿致远产品,AS_1 https://www.asl-tek.com/article/20/14.html
+  -> 高速互连-ASL芯片,集睿致远产品,AS_2 https://www.asl-tek.com/article/20/10.html
+  -> 高速互连-ASL芯片,集睿致远产品,AS_3 https://www.asl-tek.com/article/20/11.html
+  -> 高速互连-ASL芯片,集睿致远产品,AS_4 https://www.asl-tek.com/article/20/12.html
+  -> 高速互连-ASL芯片,集睿致远产品,AS_5 https://www.asl-tek.com/article/20/13.html
+  -> 高速互连-ASL芯片,集睿致远产品,AS_6 https://www.asl-tek.com/article/20/17.html
+  -> 主板组件-ASL芯片,集睿致远产品,AS https://www.asl-tek.com/article/21/18.html
+  -> 主板组件-ASL芯片,集睿致远产品,AS_1 https://www.asl-tek.com/article/21/19.html
+  -> 主板组件-ASL芯片,集睿致远产品,AS_2 https://www.asl-tek.com/article/21/24.html
+  -> 主板组件-ASL芯片,集睿致远产品,AS_3 https://www.asl-tek.com/article/21/20.html
+  -> 主板组件-ASL芯片,集睿致远产品,AS_4 https://www.asl-tek.com/article/21/21.html
+  -> 主板组件-ASL芯片,集睿致远产品,AS_5 https://www.asl-tek.com/article/21/6.html

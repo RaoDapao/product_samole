@@ -1,0 +1,20 @@
+-> root http://synwit.cn
+  -> 屏驱MCU_广东华芯微特集成电路有限公司 https://www.synwit.cn/productcenter
+  -> 产品选型表_广东华芯微特集成电路有限公司 https://www.synwit.cn/Productselectiontable
+    -> 电机 MCU 
+    -> 家电 MCU 
+    -> 其他 MCU 
+  -> 华芯微特举行2024年度代理商交流暨新产 https://www.synwit.cn/aboutus/427.html
+    -> 华芯微特电机调试上位机 
+    -> 华芯微特屏驱上位机 
+    -> 自研上位机低 EZOC 代码应用 
+  -> 看见·共赢丨华芯微特华南区域代理商产品交 https://www.synwit.cn/aboutus/371.html
+  -> 86盒子_广东华芯微特集成电路有限公司- https://www.synwit.cn/applicationscheme/173.html
+  -> 摩托车液晶仪表盘_广东华芯微特集成电路有 https://www.synwit.cn/applicationscheme/172.html
+  -> 屏驱开发板_广东华芯微特集成电路有限公司 https://www.synwit.cn/applicationscheme/323.html
+  -> 电动助力车仪表盘_广东华芯微特集成电路有 https://www.synwit.cn/applicationscheme/324.html
+  -> 空调控制板_广东华芯微特集成电路有限公司 https://www.synwit.cn/applicationscheme/328.html
+  -> 产品包装信息_广东华芯微特集成电路有限公 https://www.synwit.cn/chanpinbaozhuangxinxi
+  -> 产品包装信息_广东华芯微特集成电路有限公_1 https://www.synwit.cn/chanpinbaozhuangxinxi126
+  -> 产品包装信息_广东华芯微特集成电路有限公_2 https://www.synwit.cn/chanpinbaozhuangxinxi232
+  -> 产品包装信息_广东华芯微特集成电路有限公_3 https://www.synwit.cn/chanpinbaozhuangxinxi625

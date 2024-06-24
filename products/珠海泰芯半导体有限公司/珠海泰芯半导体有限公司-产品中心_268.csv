@@ -1,0 +1,19 @@
+产品网址：https://en.taixin-semi.com/Product?prouctSubClass=18#
+产品结构：root->珠海泰芯半导体有限公司-产品中心
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|TX8T3263|TX8T3263|无|
+
+Add/Hide  Parameter List,Type,Encapsulated Type,Chip-Set,Max Speed  (MHz),Flash  (KB),RAM  (Byte),EEPROM  (Byte),GPIO,Working Voltage  (V),Temperature  （℃）,TouchKey,LED  （com*seg）,Advanced TM,GPTM,Watchdog,PWM,UART,SPI,IIC,ADC,DAC,ACMP,PGA,CRC,Code Encryption,LPM
+Total:  6  Match:  6,,SOP28  SOP24  SOP20  SOP16  SSOP28,,24  48,8  16,,2*128  128,26  22  18  14,,-40 ~ 85  -40 ~ 105,26  22  18,,,,,,,,,26  22  18  14,,,-  3,,,5ua  <5ua
+Compare,,,,,,,,,,,,,,,,,,,,,,,,,,
+Add/Hide  Parameter List,Type,Encapsulated Type,Chip-Set,Max Speed  (MHz),Flash  (KB),RAM  (Byte),EEPROM  (Byte),GPIO,Working Voltage  (V),Temperature  （℃）,TouchKey,LED  （com*seg）,Advanced TM,GPTM,Watchdog,PWM,UART,SPI,IIC,ADC,DAC,ACMP,PGA,CRC,Code Encryption,LPM
+Total:  6  Match:  6,,SOP28  SOP24  SOP20  SOP16  SSOP28,8051,24  48,8  16,2048,2*128  128,26  22  18  14,2.4 ~ 5.5,-40 ~ 85  -40 ~ 105,26  22  18,8*12,6*16bit,5*16bit,1,6,2,1,1,26  22  18  14,2,2,-  3,1,√,5ua  <5ua
+Compare,,,,,,,,,,,,,,,,,,,,,,,,,,
+,TX8T3100SO20,SOP20,8051,24,8,2048,2*128,18,2.4 ~ 5.5,-40 ~ 85,18,8*12,6*16bit,5*16bit,1,6,2,1,1,18,2,2,-,1,√,5ua
+,TX8T3100SO24,SOP24,8051,24,8,2048,2*128,22,2.4 ~ 5.5,-40 ~ 85,22,8*12,6*16bit,5*16bit,1,6,2,1,1,22,2,2,-,1,√,5ua
+,TX8T3100SO28,SOP28,8051,24,8,2048,2*128,26,2.4 ~ 5.5,-40 ~ 85,26,8*12,6*16bit,5*16bit,1,6,2,1,1,26,2,2,-,1,√,5ua
+,TX8T3263SS28B,SSOP28,8051,48,16,2048,128,26,2.4 ~ 5.5,-40 ~ 105,26,8*12,6*16bit,5*16bit,1,6,2,1,1,26,2,2,3,1,√,<5ua
+,TX8T3263SS28,SSOP28,8051,48,16,2048,128,26,2.4 ~ 5.5,-40 ~ 105,26,8*12,6*16bit,5*16bit,1,6,2,1,1,14,2,2,3,1,√,<5ua
+,TX8T3100SO16,SOP16,8051,24,8,2048,2*128,14,2.4 ~ 5.5,-40 ~ 85,26,8*12,6*16bit,5*16bit,1,6,2,1,1,14,2,2,,1,√,5ua

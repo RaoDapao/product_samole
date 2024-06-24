@@ -1,0 +1,113 @@
+产品网址：https://korea.tiandy.com/index.php?s=/Home/Product/detail/id/507.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|PTZ 摄像机|TC-H388M|8MP 44x Super Starlight IR Laser AEW AI PTZ Camera，具有 1/1.8" CMOS 传感器，最高可达 8MP 分辨率，光学变焦 44 倍，数字变焦 16 倍，激光距离 500 米，支持智能红外、内置扬声器、内置雨刷、内置电子罗盘、S+265/H.265/H.264/M-JPEG 编码、监控/智能监控/人脸捕捉模式、自动跟踪预警（AEW）、支持激光点、8 路报警输入和 2 路报警输出、1 路音频输入和 1 路音频输出、无插件、IP66 防护等级、DC36V±25%电源输入，支持 POE++（IEEE802.bt）|
+
+Camera,Unnamed: 1
+Image Sensor,"1/1.8"" CMOS"
+Signal System,PAL/NTSC
+Min. Illumination,"Color: 0.001lux@ (F1.6, AGC ON), B/W:0.0001lux@ (F1.6, AGC ON), 0lux with IR"
+Shutter Time,"1s to 1/100,000s"
+Day & Night,IR Cut Filter with Auto Switch
+Optical Zoom,44X
+Digital Zoom,16X
+Lens,
+Focal Length,5.7mm~250mm
+Zoom Speed,<5s
+Field of View,"Horizontal filed of view: 60° (w)~2.31° (t) ,  Vertical filed of view: 35.5° (w)~1.3° (t),  Diagonal field of view:67.5°(w)~2.65°(t)"
+Aperture Range,F1.6~F5.0
+Focus Control,Auto/Manual
+Iris Control,Auto
+Close Focus Distance,1 m–3 m
+Pan&Tilt,
+Pan Range,360°
+Pan Speed,"Pan Manual Speed: 0.1°~200°/s, Pan Preset Speed: 240°/s"
+Tilt Range,-21°~90° (Default -13°~90°)
+Tilt Speed,"Tilt Manual Speed: 0.1°~180°/s, Tilt Preset Speed: 180°/s"
+3D Position,Yes
+Preset,500
+Preset Accuracy,±0.1°
+Cruise,"16, up to 32 presets per cruise"
+Scan,8
+Pattern,"8, each with 600s memory or 1000 orders"
+Scheduled Task,Preset、Cruise、Scan、Pattern、Alarm output
+Park Action,Yes
+Power-off Memory,Yes
+Preset Freezing,Yes
+Illuminator,
+IR LEDs,11
+IR Distance,Up to 300m
+IR Irradiation Angle,Adjustable by Zoom
+White LEDs,"2, support white/blue/red light flash"
+Laser,"6, Wavelength 850nm"
+Laser Distance,Up to 500m
+Compression Standard,
+Video Compression,S+265/H.265/H.264 (High profile、Main profile、Baseline)
+Video Bit Rate,32Kbps~16Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D/AAC_LC
+Audio Sampling Rate,8K～48Kbps
+Image,
+Max. Resolution,8MP (3840x2160)
+Main Stream,"PAL: 25fps(3840x2160,3072x1728,2560x1440,2304x1296,1920x1080,1280x720)  NTSC: 30fps(3840x2160,3072x1728,2560x1440,2304x1296,1920x1080,1280x720)"
+Sub Stream,"PAL: 25fps(704x576,704x288,352x288,640x360)  NTSC: 30fps(704X480,704X240,352X240,640x360)"
+Third Stream,"PAL:25fps(1920x1080,1280x720,704x576,704x288,352x288,640x480)  NTSC: 30fps(1920x1080,1280x720,704X480,704X240,352X240,640x480)"
+BLC,Yes
+HLC,Yes
+WDR,"TWDR,,only in monitoring mode"
+Image Stabilization,"EIS,only in monitoring mode"
+Fog,Digita
+White Balance,Auto/Semi-auto/Manual/Sunny/Natural light/Warm light/Sodium lamp/Incandescent lamp/Locked white balance
+AGC,Yes
+Noise Reduction,2D/3D
+ROI,"7 Dynamic Areas for Both Main and Sub Stream, support 1 auto-tracking ROI"
+Picture Overlay,Yes
+Privacy Mask,Yes
+Smart Defog,Yes
+Image Setting,"Saturation, brightness, contrast, sharpness, adjustable by client software or web browser"
+Flip,Yes
+OSD,"16x16, 24x24,32x32, 48x48, 64x64,96x96, adaptable size, Letters such as Week, Date, Time, Total 5 Regions"
+Feature,
+Alarm Trigger,"Event Input, Event Output, Motion Detection, Mask Alarm, Disk Full, Disk R/W Error, IP Address Conflict, MAC Address Conflict, FTP Server Exception"
+Video Analytics,"Tripwire, Double Tripwire, Perimeter, Object Abandon, Object Lost, Loitering, Running, Parking, Heatmap, Crowd, People Counting, On Duty Detection, Safety Helmet Detection,Video Abnormal, Audio Abnormal"
+Early Warning(EW),"Three level,Voice warning support 35 voice messages; Laser driven away; Three-light  ﬂ  ash warning"
+Auto-Tracking,Yes
+Face Detection and Analytics,
+Operating Mode,"Face capture, intelligent monitoring optional, default intelligent monitoring"
+Face Detection Performance,Detects up to 32 faces at the same scene
+Face Exposure Brightness,"Default 35, 1~100 brightness optional"
+Min. Face Pixel,"Default 120, 1~3840 optional"
+Network,
+Protocols,TCP/HTTPS/DHCP/DNS/DDNS/EasyDDNS/NTP/SMTP/UpnP/802.1X/QoS/IPv4/IPv6/UDP/PPPOE/SSL/SNMP/Unicast/Multicast
+System Compatibility,"ONVIF (PROFILE S/T/G/M),SDK,CGI,RTSP"
+ANR,"Auto store video in SD card when NVR disconnected, and upload video to NVR when resumed connection (Only Support Tiandy ANR NVR)"
+Remote Connection,4
+User/Host,Up to 32 users. 4 user levels
+Web Version,web6
+Interface,
+Communication Interface,1 RJ45 10M/100M self adaptive Ethernet port
+Audio I/O,1/1
+Alarm I/O,8/2
+Built-In Speaker,Yes
+Reset Button,Yes
+On-board storage,"Built-in Micro SD card slot, up to 512 GB"
+RS-485,Yes
+BNC,Yes(Debugging use)
+Wiper,Yes
+Electronic Compass,Yes
+GPS/BDS,
+General,
+Protection,"IP66 , TVS 6000V lightning protection, surge protection and voltage transient protection"
+Web Client Language,17 languages  Simplified Chinese / traditional Chinese / English / Spanish / Italian / Korean / Turkish / Russian / Thai / Polish / French / Dutch / Hebrew / Vietnamese / Arabic / German / Ukrainian
+Operating Conditions,"-40°C~70°C (IR OFF), -40°C~40°C (IR ON), 0-95%RH"
+Power Supply,DC36V±25%/POE++(IEEE802.3 bt)
+Power Consumption,"37W (IR OFF), 62W (IR ON )"
+Heater,Yes
+Material,ADC12
+Package/Boundary Dimensions,Φ445x700mm (Φ308x506mm)
+Gross/Net Weight,17.95kg (12.75kg)
+
+
+날짜,제목,유형
+2022-11-08,TC-H388M Spec 44XILE++A,pdf

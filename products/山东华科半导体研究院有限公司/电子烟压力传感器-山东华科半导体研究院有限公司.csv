@@ -1,0 +1,15 @@
+产品网址：http://www.hkhonm.com/product_detail/58.html
+产品结构：root->电子烟压力传感器-山东华科半导体研究院有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|电子烟压力传感器|MEMS 流量传感器|基于单颗器件的解决方案，单颗差压传感器实现吸力检测，器件膜片一侧接触气流通道，另一侧接触大气压力，防水防油，多种输出接口：中断，频率，I2C|
+
+型号,尺寸（mm）,功耗  (uA),触发压力(Pa),灵敏度  @1kHz ref 1V/Pa,输出方式,MEMS  类型
+HK5001,2.75*1.85*1.0,-,-100~-300 Pa,-,Interrupt,Capacitance
+HK5002,2.75*1.85*1.0,3,-100~-300 Pa,1%/100Pa,Interrupt+Frequency,Capacitance
+HK5003,4.0*3.0*1.25,3,-100~-300 Pa,-,Interrupt,Capacitance
+HK5004,4.0*3.0*1.25,2,-100~-300 Pa,-,Interrupt,Capacitance
+HK5005,2.75*1.85*1.0,3,-100~-300 Pa,-,Interrupt,Capacitance
+HK5006,2.75*1.85*1.0,3,-150~-250 Pa,-,Interrupt,Capacitance
+HK5007,ⱷ  6,2,-100~-300 Pa,-,Interrupt,Capacitance

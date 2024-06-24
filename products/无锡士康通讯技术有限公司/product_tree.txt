@@ -1,0 +1,24 @@
+-> root http://www.sicommtech.com
+  -> Products http://www.sicommtech.com/zh/products/products.html
+    -> 数字对讲机主芯片 
+    -> 数字射频收发器 
+    -> 射频功放芯片 
+    -> DPMR/DMR 数字中转台基带芯片 
+    -> 模拟对讲机基带芯片 
+    -> 模拟对讲机射频收发器 
+    -> 射频放大芯片 
+    -> 数字对讲机模块 
+    -> 无线数传模块 
+    -> 无线自组网模块 
+  -> SicommProducts http://www.sicommtech.com/zh/products/sct3288.html
+  -> SicommProducts_1 http://www.sicommtech.com/zh/products/sct3258.html
+  -> SicommProducts_2 http://www.sicommtech.com/zh/products/sct3811.html
+  -> SicommProducts_3 http://www.sicommtech.com/zh/products/sct3700.html
+  -> SicommProducts_4 http://www.sicommtech.com/zh/products/sct3604.html
+  -> SicommProducts_5 http://www.sicommtech.com/zh/products/sct3252b.html
+  -> SicommProducts_6 http://www.sicommtech.com/zh/products/sct9377.html
+  -> SicommProducts_7 http://www.sicommtech.com/zh/products/sct9388.html
+  -> SicommProducts_8 http://www.sicommtech.com/zh/products/sct2088.html
+  -> Sicomm http://www.sicommtech.com/zh/products/sct2400.html
+  -> SicommProducts_9 http://www.sicommtech.com/zh/products/srt3210.html
+  -> Products_1 http://www.sicommtech.com/zh/products/products.html#

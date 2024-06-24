@@ -1,0 +1,34 @@
+-> root https://www.supereal.com.cn
+  -> 首页 
+    -> 产品中心 
+      -> 网络通信芯片 https://www.supereal.com.cn/page167
+        -> 以太网系列 https://www.supereal.com.cn/page167?product_category=24
+          -> 千兆以太网 PHY_SR8021 
+          -> USB 千兆以太网_SR8103 
+        -> WIFI系列 https://www.supereal.com.cn/page167?product_category=25
+          -> WIFI 路由器芯片 
+          -> WIFI 收发器芯片 
+        -> 蓝牙系列 https://www.supereal.com.cn/page167?product_category=26
+          -> USB 蓝牙收发器 
+          -> 蓝牙单片机 MCU 
+        -> FAX系列 https://www.supereal.com.cn/page167?product_category=27
+      -> 接口控制器芯片 https://www.supereal.com.cn/page168
+        -> PCI系列 https://www.supereal.com.cn/page168?product_category=28
+          -> 接口控制器芯片 
+          -> 接口控制器芯片 
+        -> USB系列 https://www.supereal.com.cn/page168?product_category=29
+        -> SD系列 https://www.supereal.com.cn/page168?product_category=30
+          -> SD 接口 NAND Flash 控制器 
+          -> SD 接口 NOR Flash 控制器 
+        -> CAN总线 https://www.supereal.com.cn/page168?product_category=31
+      -> 传感器芯片 https://www.supereal.com.cn/page169
+        -> 图像传感器系列 https://www.supereal.com.cn/page169?product_category=23
+    -> 网络通信芯片 
+      -> 以太网系列 
+        -> 千兆以太网PHY_SR8021 https://www.supereal.com.cn/SR8011?product_id=57
+        -> USB千兆以太网_SR8103 https://www.supereal.com.cn/SR8011?product_id=59
+      -> WIFI系列 
+        -> WIFI路由器芯片_SR8311 https://www.supereal.com.cn/SR8011?product_id=60
+        -> WIFI收发器芯片_SR8361 https://www.supereal.com.cn/SR8011?product_id=61
+      -> 蓝牙系列 
+        -> USB蓝牙收发器_SR8503 https://www.supereal.com.cn/SR8011?product_id=62

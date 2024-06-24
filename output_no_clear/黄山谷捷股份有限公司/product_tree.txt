@@ -1,0 +1,12 @@
+-> root http://www.googemetal.com
+  -> 首页 
+    -> 产品中心 http://www.googemetal.com/info/77949.html
+      -> 铜针式散热基板 http://www.googemetal.com/info/98188.html
+      -> 铜平底散热基板 http://www.googemetal.com/info/77951.html
+  -> Home 
+    -> Product http://en.googemetal.com/info/186982.html
+      -> Copper needle type heat dissipation substrate 
+      -> Copper flat bottom heat dissipation substrate 
+  -> 产品中心_黄山谷捷股份有限公司 http://m.googemetal.com/info/77949.html
+  -> MountHuangshanGujiePowerSemiconductorModuleHeatDissipationBasePlateProductionExpansionandR&DCapacityImprovementProjectPlanningandDesignBiddingAnnouncement-11.11_HuangShanGoogeCo.,Ltd. http://en.googemetal.com/display/781390.html
+  -> MountHuangshanGujiePowerSemiconductorModuleHeatDissipationBasePlateProductionExpansionandR&DCapacityImprovementProjectPlanningandDesignBiddingAnnouncement-11.11_HuangShanGoogeCo.,Ltd._1 http://m.en.googemetal.com/display/781390.html

@@ -1,0 +1,102 @@
+-> root http://holychip.cn
+  -> 首页 
+    -> 产品中心 
+      -> ARM核单片机 https://www.holychip.cn/products/list-165.html
+        -> 雾化专用单片机 
+        -> 手电专用单片机 
+        -> 充电器专用芯片 
+        -> 锂电充放电管理芯片 
+        -> 电机驱动 
+        -> LDO 
+        -> 车规 LDO 
+        -> 协议芯片 
+        -> MOS 
+      -> 8051核单片机 https://www.holychip.cn/products/list-177.html
+      -> RISC核单片机 https://www.holychip.cn/products/list-191.html
+      -> 通用单片机 https://www.holychip.cn/products/list-273.html
+      -> 触摸单片机 https://www.holychip.cn/products/list-253.html
+      -> 车规单片机 https://www.holychip.cn/products/list-241.html
+      -> 雾化专用单片机 https://www.holychip.cn/products/list-277.html
+      -> 手电专用单片机 https://www.holychip.cn/products/list-278.html
+      -> 充电器专用芯片 https://www.holychip.cn/products/list-279.html
+      -> 锂电充放电管理芯片 https://www.holychip.cn/products/list-280.html
+      -> 电机驱动 https://www.holychip.cn/products/list-281.html
+      -> LDO https://www.holychip.cn/products/list-282.html
+      -> 车规LDO https://www.holychip.cn/products/list-286.html
+      -> 协议芯片 https://www.holychip.cn/products/list-283.html
+      -> MOS https://www.holychip.cn/products/list-284.html
+    -> 应用资料 
+      -> 红外模拟探头额温枪方案 https://www.holychip.cn/Applications/index/id/60.html
+      -> 电源产品 https://www.holychip.cn/Applications/index/id/61.html
+        -> OTP 烧录器 
+        -> OTP 仿真器 
+        -> 8051 烧录器 
+        -> 8051 仿真器 
+        -> 8051 多文件烧录器 
+        -> MTP 烧录器 
+        -> MTP 仿真器 
+        -> 开发辅助工具 
+        -> SDK 配套资料 
+        -> 驱动 
+        -> 旧版工具资料合集 
+        -> 新版工具测试版 
+        -> 血氧仪方案 
+        -> HA 资料包 
+        -> 芯圣电子兼容 STM8S 系列 MCU 配套资料大全 
+      -> HA资料包 https://www.holychip.cn/Applications/index/id/63.html
+        -> 电源产品 
+        -> 照明与显示 
+        -> 通讯产品 
+    -> 开发工具 
+      -> OTP烧录器 
+        -> 产品详情 https://www.holychip.cn/Development/index.html
+      -> OTP仿真器 
+        -> 产品详情_1 https://www.holychip.cn/Development/index/id/44.html
+      -> 8051烧录器 
+        -> 产品详情_2 https://www.holychip.cn/Development/index/id/45.html
+      -> 8051仿真器 
+        -> 产品详情_3 https://www.holychip.cn/Development/index/id/46.html
+      -> 8051多文件烧录器 
+        -> 产品详情_4 https://www.holychip.cn/Development/index/id/47.html
+      -> MTP烧录器 
+        -> 产品详情_5 https://www.holychip.cn/Development/index/id/48.html
+      -> MTP仿真器 
+        -> 产品详情_6 https://www.holychip.cn/Development/index/id/49.html
+      -> 旧版工具资料合集 
+        -> 产品详情_7 https://www.holychip.cn/Development/index/id/61.html
+      -> 新版工具测试版 
+        -> 产品详情_8 https://www.holychip.cn/Development/index/id/62.html
+  -> Home 
+    -> Product 
+      -> Arm®Cortex®-M http://www.holychip.cn/en/products/list-165.html
+      -> 8051MCU http://www.holychip.cn/en/products/list-177.html
+      -> RISCMCU http://www.holychip.cn/en/products/list-191.html
+      -> GeneralPurposeMCU http://www.holychip.cn/en/products/list-273.html
+      -> TOUCHMCU http://www.holychip.cn/en/products/list-253.html
+      -> AutomotiveMCU http://www.holychip.cn/en/products/list-241.html
+      -> FlashlightPurposeMCU http://www.holychip.cn/en/products/list-278.html
+      -> ChargerPurposeMCU http://www.holychip.cn/en/products/list-279.html
+      -> Li-Battery http://www.holychip.cn/en/products/list-280.html
+      -> MotorDrives http://www.holychip.cn/en/products/list-281.html
+      -> AutomotiveLDO http://www.holychip.cn/en/products/list-286.html
+      -> MOSFET http://www.holychip.cn/en/products/list-284.html
+  -> AtomizationPurposeMC http://www.holychip.cn/en/products/list-277.html
+  -> Dedicatedprotocolchi http://www.holychip.cn/en/products/list-283.html
+  -> 首頁 
+    -> 產品中心 
+      -> ARM核單片機 http://www.holychip.cn/hk/products/list-165.html
+        -> 霧化專用單片機 
+        -> 手電筒專用單片機 
+        -> 充電器專用晶片 
+        -> 鋰電充放電管理晶片 
+        -> 電機驅動 
+        -> 車規 LDO 
+        -> 協議芯片 
+      -> RISC核單片機 http://www.holychip.cn/hk/products/list-191.html
+      -> 車規單片機 http://www.holychip.cn/hk/products/list-241.html
+      -> 霧化專用單片機 http://www.holychip.cn/hk/products/list-277.html
+      -> 手電筒專用單片機 http://www.holychip.cn/hk/products/list-278.html
+      -> 充電器專用晶片 http://www.holychip.cn/hk/products/list-279.html
+      -> 鋰電充放電管理晶片 http://www.holychip.cn/hk/products/list-280.html
+      -> 電機驅動 http://www.holychip.cn/hk/products/list-281.html
+      -> 車規LDO http://www.holychip.cn/hk/products/list-286.html

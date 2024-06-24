@@ -1,0 +1,6 @@
+产品网址：https://www.toll-semi.com/products-motordriveQSt/324.html
+产品结构：root->TMI8340-有刷直流(BDC)电机驱动器-拓尔微
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|有刷直流(BDC)电机驱动器|TMI8340|H-Bridge DC Motor Driver，5.0-V to 30-V Operating Supply Voltage Range，Low Power Standby Mode，High Output Current Capability，Rdson(HS+LS): 91~98mΩ，Protection Features: VCC Undervoltage Lockout (UVLO)，Overcurrent Protection (OCP)，Thermal Shutdown (TSD)，Integrated Fast Stop Function，Package and Footprint: SOP8 (TMI8340)，The TMI8340 is a DC bidirectional motor driver, suitable for medium and large current motors. The two logic input terminals(IN1/IN2) are used as the input of PWM control mode to control the direction of current flow through the H-bridge, and hence the direction of rotation of a DC motor. This circuit has good anti-interference, tiny standby current, ultra-low output internal resistance, using BCD process, strong withstand voltage, and strong reverse surge current capability to release inductive load. The package form of TMI8340 is SOP8, and is comply with ROHS specifications, and the lead frame is 100% lead-free.|

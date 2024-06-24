@@ -1,0 +1,9 @@
+-> root https://globalcrown.com.cn
+  -> Home 
+    -> 产品 https://globalcrown.com.cn/products
+      -> GCKontrol https://globalcrown.com.cn/products/126.html
+      -> GCAir https://globalcrown.com.cn/products/125.html
+      -> 实时仿真系统 https://globalcrown.com.cn/products/124.html
+      -> 加入我们 
+        -> 社招 https://globalcrown.com.cn/job/society/3.html
+          -> GCKontrol 

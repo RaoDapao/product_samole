@@ -1,0 +1,42 @@
+-> root http://johar.cn
+  -> 首页 
+    -> 产品中心 https://www.johar.cn/websit/chanpinzhongxin
+      -> UHFRFID温度传感芯片 https://www.johar.cn/websit/chanpinzhongxin/xinpian
+        -> CTESIUS系列传感芯片 https://www.johar.cn/websit/chanpinzhongxin/xinpian/ctesiusxiliechuanganxinpian/8.html
+          -> UHF RFID 温度传感芯片 
+          -> UHF RFID 温度传感芯片 
+      -> 温度传感器 https://www.johar.cn/websit/chanpinzhongxin/biaoqian
+        -> 绑扎式 https://www.johar.cn/websit/chanpinzhongxin/biaoqian/107.html
+        -> 卡扣式 https://www.johar.cn/websit/chanpinzhongxin/biaoqian/100.html
+        -> 音叉式 https://www.johar.cn/websit/chanpinzhongxin/biaoqian/99.html
+        -> TSC100503-32陶瓷抗金属 https://www.johar.cn/websit/chanpinzhongxin/biaoqian/98.html
+        -> TSC130904C-32陶瓷抗金属 https://www.johar.cn/websit/chanpinzhongxin/biaoqian/97.html
+        -> TSC250905-32陶瓷抗金属 https://www.johar.cn/websit/chanpinzhongxin/biaoqian/96.html
+        -> TSC303005-32陶瓷抗金属 https://www.johar.cn/websit/chanpinzhongxin/biaoqian/95.html
+        -> TSP872503-32PCB抗金属 https://www.johar.cn/websit/chanpinzhongxin/biaoqian/94.html
+        -> TSX1602005-32分离式 https://www.johar.cn/websit/chanpinzhongxin/biaoqian/92.html
+        -> TSC1909陶瓷抗金属 https://www.johar.cn/websit/chanpinzhongxin/biaoqian/90.html
+        -> TSC303005-J32-夹扣式 https://www.johar.cn/websit/chanpinzhongxin/biaoqian/89.html
+        -> TSC303005-B32-绑扎式 https://www.johar.cn/websit/chanpinzhongxin/biaoqian/88.html
+        -> TSC250905-K32卡夹式 https://www.johar.cn/websit/chanpinzhongxin/biaoqian/87.html
+        -> TSC100503-L32螺母式 https://www.johar.cn/websit/chanpinzhongxin/biaoqian/86.html
+      -> 阅读器 https://www.johar.cn/websit/chanpinzhongxin/duxieqi863
+        -> YH0108-2A八通道RFID https://www.johar.cn/websit/chanpinzhongxin/duxieqi863/109.html
+        -> 手持式 https://www.johar.cn/websit/chanpinzhongxin/duxieqi863/9.html
+      -> 工业一体机 https://www.johar.cn/websit/chanpinzhongxin/gongyeyitiji483
+        -> HS001 https://www.johar.cn/websit/chanpinzhongxin/gongyeyitiji483/91.html
+      -> 天线 https://www.johar.cn/websit/chanpinzhongxin/tianxian386
+        -> ACR120120-C圆极化 https://www.johar.cn/websit/chanpinzhongxin/tianxian386/120.html
+        -> ALV8080-D线极化 https://www.johar.cn/websit/chanpinzhongxin/tianxian386/113.html
+        -> ACR8080-C圆极化 https://www.johar.cn/websit/chanpinzhongxin/tianxian386/101.html
+      -> 温度显示仪表 https://www.johar.cn/websit/chanpinzhongxin/wenduxianshiyibiao
+        -> GX029191 https://www.johar.cn/websit/chanpinzhongxin/wenduxianshiyibiao/110.html
+      -> 嵌入式集中显示面板 https://www.johar.cn/websit/chanpinzhongxin/qianrushijizhongxianshimianban
+      -> 无源无线测温服务器 https://www.johar.cn/websit/chanpinzhongxin/wuyuanwuxiancewenfuwuqi
+        -> 物联网系统服务器_ https://www.johar.cn/websit/chanpinzhongxin/wuyuanwuxiancewenfuwuqi/124.html
+      -> 屏蔽实验室系列 
+        -> 移动式屏蔽实验室_ https://www.johar.cn/websit/chanpinzhongxin/pingbishiyanshixilie/122.html
+          -> 光纤温度在线监测装置 
+          -> 移动式屏蔽实验室 
+        -> 电磁屏蔽室_ https://www.johar.cn/websit/chanpinzhongxin/pingbishiyanshixilie/121.html
+  -> 浙江悦和科技有限公司产品及公司简介_视频 https://www.johar.cn/websit/bangzhuzhongxin/shipinzhongxin/73.html

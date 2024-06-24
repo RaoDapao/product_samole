@@ -1,0 +1,33 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=93&ncid=94&deid=160
+产品结构：root->Huahuan_Products_SFP/SFP+/xWDM/PONOpticalModule_H9MO-LMXE+.V2IntegratedAccessMultiplexer
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|SFP/SFP+/xWDM/PON Optical Module|无|无|
+|H9MO-LMXE+.V2 Integrated Access Multiplexer|H9MO-LMXE+.V2|提供多种功能，适用于不同的网络，满足客户需求。基于 MSTP 架构，集成了 SDH 传输和 PCM 业务。支持多种传输模式和服务，广泛应用于电力、石油、交通等行业，以及市政 NM 和水资源监测。支持传输监控、远程控制和报警数据信号，并在传输网络上提供调度电话和行政电话服务。|
+
+Cross-connection capacity,"STM-1: 20 x 20 VC-4s, 60 x 60 VC-3s, 1260 x 1260 VC-12s  STM-4: 32 x 32 VC-4s, 96 x 96 VC-3s, 2016 x 2016 VC-12s  STM-16: 96 x 96 VC-4s, 96 x 96 VC-3s, 2016 x 2016 VC-12s"
+Cross-connection direction,"Group to tributary, tributary to group, group to group, tributary to tributary, internal 64 kbit/s timeslot cross-connection of PCM cards"
+Cross-connection mode,"bidirectional, unidirectional, multicast/broadcast and loopback"
+
+
+Optical protection capability,"SNCP for VC-12, VC-3, and VC-4 services (Protection switching is implemented within 50 ms)  Linear 1+1 MSP, two-fiber unidirectional MSP at the STM-1 and STM-4 levels"
+Power redundant supply,Two power cards work in 1+1 backup mode.
+NM channel,"External DCN  DCC NM channel: select any group from D1-D3, D4-D6, D7-D9, and D10-D12  E1 NM channel: assigned to any VC-12 of the cross-connection card or STM card, or E1 port on the E1 interface card.  EoE in-band NM channel  N*64 kbit/s in-band monitoring  Monitoring channels of PCM cards (Sa in-band monitoring)"
+E1 protection capability,Support 1+1 protection between any two E1 and 56 pairs protection can be configured at most
+Chassis dimention  (W x D x H),440mm  ×280mm×130mm
+Power supply,DC power supply: -48 V DC  AC power supply: 220 V/110 V AC
+Maximum Power Consumption,Typical application:  ≤85W
+"Operating environment (temperature, humidity)","-15°C  ~ +55°C, 0-95%RH  (non-condensing)"
+"Storage environment  (temperature, humidity)","-40°C ~ +105°C, 0-95%RH  (non-condensing)"
+
+
+Items,Standards and Protocols
+SDH optical port,"G.957, Frame structure: G.707"
+C37.94 optical port,IEEE C37.94TM-2002
+Audio voice port,"G.711, G.713"
+A  synchronous data port,"V.24, V.11"
+Co-directional data port,G.703
+"E1, E3/DS3 port","G.703  , G.704"
+Clock port,G.823
+Ethernet port,IEEE 802  G.7041/G.704 2/G.7043 and G.8040

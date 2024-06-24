@@ -1,0 +1,127 @@
+-> root https://bjcktech.com
+  -> Home 
+    -> Products 
+      -> CoreNetwork https://bjcktech.com/index.php/Home/Product/index/id/24.html
+        -> Core Network 
+        -> Core Network 
+        -> Core Network 
+        -> Core Network 
+        -> Core Network 
+        -> Core Network 
+        -> Core Network 
+        -> Core Network 
+      -> 5GBaseStation https://bjcktech.com/index.php/Home/Product/index/id/25.html
+        -> 5G 基站 
+        -> 5G 基站 
+        -> 5G 基站 
+        -> 5G 基站 
+        -> 5G 基站 
+        -> 5G 基站 
+        -> 5G 基站 
+        -> 5G 基站 
+        -> 5G 基站 
+      -> 4GBaseStation https://bjcktech.com/index.php/Home/Product/index/id/39.html
+        -> 4G 基站 
+        -> 4G 基站 
+        -> 4G 微基站 
+        -> 4G 微基站 
+        -> 分布式 4G 基站 BBU 
+        -> 分布式 4G 基站 RRU 
+      -> 5GTerminal https://bjcktech.com/index.php/Home/Product/index/id/27.html
+        -> 5G Terminal 
+        -> 5G Terminal 
+        -> 5G Terminal 
+      -> 4GTerminal https://bjcktech.com/index.php/Home/Product/index/id/41.html
+        -> 4G Terminal 
+        -> 4G Terminal 
+    -> Products 
+      -> CoreNetwork 
+        -> Meta5GC200Home 
+          -> Products 
+            -> CoreNetwork_1 https://bjcktech.com/index.php/Home/Product/view/id/172.html
+        -> Meta5GC2000Home 
+          -> Products 
+            -> CoreNetwork_2 https://bjcktech.com/index.php/Home/Product/view/id/220.html
+        -> ECN200Home 
+          -> Products 
+            -> CoreNetwork_3 https://bjcktech.com/index.php/Home/Product/view/id/147.html
+        -> ECN600Home 
+          -> Products 
+            -> CoreNetwork_4 https://bjcktech.com/index.php/Home/Product/view/id/148.html
+        -> ICN200Home 
+          -> Products 
+            -> CoreNetwork_5 https://bjcktech.com/index.php/Home/Product/view/id/182.html
+        -> ICN600Home 
+          -> Products 
+            -> CoreNetwork_6 https://bjcktech.com/index.php/Home/Product/view/id/222.html
+        -> BCN200Home 
+          -> Products 
+            -> CoreNetwork_7 https://bjcktech.com/index.php/Home/Product/view/id/221.html
+        -> BCN1000Home 
+          -> Products 
+            -> CoreNetwork_8 https://bjcktech.com/index.php/Home/Product/view/id/140.html
+      -> 5GBaseStation 
+        -> ?MetaBTSBS5514Home 
+          -> Products 
+            -> 5GBaseStation_1 https://bjcktech.com/index.php/Home/Product/view/id/195.html
+        -> MetaBTSBS5524Home 
+          -> Products 
+            -> 5GBaseStation_2 https://bjcktech.com/index.php/Home/Product/view/id/287.html
+        -> MetaBTSBS5622Home 
+          -> Products 
+            -> 5GBaseStation_3 https://bjcktech.com/index.php/Home/Product/view/id/288.html
+        -> MetaBTSBS5604Home 
+          -> Products 
+            -> 5GBaseStation_4 https://bjcktech.com/index.php/Home/Product/view/id/289.html
+        -> ?MetaBTSBS5504Home 
+          -> Products 
+            -> 5GBaseStation_5 https://bjcktech.com/index.php/Home/Product/view/id/212.html
+        -> ?MetaBTSB5120Home 
+          -> Products 
+            -> 5GBaseStation_6 https://bjcktech.com/index.php/Home/Product/view/id/193.html
+        -> ?MetaBTSE5100Home 
+          -> Products 
+            -> 5GBaseStation_7 https://bjcktech.com/index.php/Home/Product/view/id/249.html
+        -> ?MetaBTSR5104/R5102Home 
+          -> Products 
+            -> 5GBaseStation_8 https://bjcktech.com/index.php/Home/Product/view/id/250.html
+        -> CustomizedProducts https://bjcktech.com/index.php/Home/Product/view/id/196.html
+          -> 5G 基带单元 
+          -> 5G DU 单元（基于 X86 架构） 
+          -> 集成 5G 基站 
+      -> 4GBaseStation 
+        -> BS6212T1800Home 
+          -> Products 
+            -> 4GBaseStation_1 https://bjcktech.com/index.php/Home/Product/view/id/251.html
+        -> BS6212F1800Home 
+          -> Products 
+            -> 4GBaseStation_2 https://bjcktech.com/index.php/Home/Product/view/id/252.html
+        -> BS6110T1800Home 
+          -> Products 
+            -> 4GBaseStation_3 https://bjcktech.com/index.php/Home/Product/view/id/253.html
+        -> BS6120(P)F1821Home 
+          -> Products 
+            -> 4GBaseStation_4 https://bjcktech.com/index.php/Home/Product/view/id/254.html
+        -> B6200Home 
+          -> Products 
+            -> 4GBaseStation_5 https://bjcktech.com/index.php/Home/Product/view/id/255.html
+        -> R6212Home 
+          -> Products 
+            -> 4GBaseStation_6 https://bjcktech.com/index.php/Home/Product/view/id/256.html
+      -> 5GTerminal 
+        -> CP5104-IA00Home 
+          -> Products 
+            -> 5GTerminal_1 https://bjcktech.com/index.php/Home/Product/view/id/260.html
+        -> CP5104-OA00Home 
+          -> Products 
+            -> 5GTerminal_2 https://bjcktech.com/index.php/Home/Product/view/id/262.html
+        -> CP5104-OB00Home 
+          -> Products 
+            -> 5GTerminal_3 https://bjcktech.com/index.php/Home/Product/view/id/263.html
+      -> 4GTerminal 
+        -> CP610Home 
+          -> Products 
+            -> 4GTerminal_1 https://bjcktech.com/index.php/Home/Product/view/id/264.html
+        -> CP615Home 
+          -> Products 
+            -> 4GTerminal_2 https://bjcktech.com/index.php/Home/Product/view/id/265.html

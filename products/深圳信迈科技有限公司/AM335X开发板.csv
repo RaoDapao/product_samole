@@ -1,0 +1,78 @@
+产品网址：https://www.szxinmai.com/html/2021/dsp+arm_1201/55.html
+产品结构：当前位置：首页->产品中心->AM335x开发板
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|AM335x 开发板|无|基于 TI Sitara 系列 AM3352/AM3354/AM3358/AM3359 ARM Cortex-A8 高性能低功耗处理器设计，由核心板和底板组成。接口资源丰富，引出双路千兆网口、HDMI、GPMC、CAN 等接口，方便用户快速进行产品方案评估与技术预研。适用于通讯管理、数据采集、人机交互、运动控制、智能电力等领域。提供核心板引脚定义、可编辑底板原理图、可编辑底板 PCB、芯片 Datasheet，以及系统烧写镜像、内核驱动源码、文件系统源码、丰富的 Demo 程序和完整的平台开发包、入门教程。|
+
+CPU,CPU：TI Sitara AM3352/AM3354/AM3359
+,ARM Cortex-A8，主频 800MHz/1GHz
+,1x PRU-ICSS，PRU-ICSS 子系统含两个 PRU(Programmable Real-time Unit)核心（仅限 AM3359）
+,1x SGX530 3D 图形加速器（仅限 AM3359 和 AM3354）
+ROM,256/512MByte NAND FLASH 或 4/8GByte eMMC
+,64Mbit SPI FLASH
+,4Kbit FM24CL04B-GTR FRAM
+RAM,256/512MByte DDR3
+SENSOR,1x TMP102AIDRLT 温度传感器
+B2B Connector,2x 50pin 公座 B2B 连接器，2x 50pin 母座 B2B 连接器，共 200pin，间距 0.5mm，合高 3.5mm
+LED,2x 电源指示灯（核心板 1 个，底板 1 个）
+,5x 用户可编程指示灯（核心板 2 个，底板 3 个）
+KEY,1x 电源复位按键
+,1x 系统复位按键
+,1x 唤醒按键
+,1x 非屏蔽中断按键
+,1x 用户输入按键
+SD,1x Micro SD 接口
+USB,1x USB 2.0 DRD（Dual-Role-Device - Host or Device），Micro USB 接口
+,4x USB 2.0 HOST 接口
+RTC,1x RTC 座，适配纽扣电池 ML2032（3V 可充）
+ADC,1x 8-ch 12-Bit ADC，200K Samples Per Second，2x 5pin 排针方式，间距2.54mm，电压输入范围一般为 0～1.8V
+DISPLAY,1x HDMI OUT 接口
+,1x LCD RES 电阻触摸屏接口，40pin FFC 连接器，间距 0.5mm
+UART,1x RS232 UART，UART0，DB9 接口
+,1x Debug UART，UART3，Micro USB 接口
+,1x RS485 UART，UART1，3pin 3.81mm 绿色端子方式
+Ethernet,2x RGMII，RJ45 接口，10/100/1000M 自适应
+CAN,1x CAN，3pin 3.81mm 绿色端子方式
+IO,1x 排针拓展接口，2x 12pin 规格，间距 2.54mm，包含 GPMC、GPIO 等拓展信号
+,1x 排针拓展接口，2x 15pin 规格，间距 2.54mm，包含 McASP、I2C、GPIO 等拓展信号
+JTAG,1x 14pin TI Rev B JTAG 接口，间距 2.54mm
+BOOT SET,1x 5bit 启动方式选择拨码开关
+SWITCH,1x 电源摇头开关
+POWER,1x 12V2A 直流输入 DC417 电源接口，外径 4.4mm，内径 1.65mm
+
+
+ARM 端软件支持,Linux-4.9.65，Linux-RT-4.9.65,Linux-4.9.65，Linux-RT-4.9.65.1
+图形界面开发工具,QT,QT
+软件开发套件提供,Processor-SDK Linux-RT,Processor-SDK Linux-RT
+驱动支持,NAND FLASH,DDR3
+,SPI FLASH,eMMC
+,MMC/SD,UART
+,LED,BUTTON
+,RS232/RS485,TEMPERATURE SENSOR
+,McASP,I2C
+,CAN,Ethernet KSZ9031 RGMII
+,USB 2.0,GPIO
+,7in Touch Screen LCD(Res),PWM
+,eQEP,RTC
+,eCAP,ADC
+,USB WIFI,USB 4G
+,USB Mouse,
+
+
+环境参数,最小值,典型值,最大值
+核心板工作温度,-40°C,/,85°C
+核心板工作电压,/,5.0V,/
+核心板工作电压,/,12.0V,/
+
+
+类别,状态,电压典型值,电流典型值,功耗典型值
+评估板,空闲状态,12.0v,310mA,3.72W
+,满负荷状态,12.0v,380mA,4.56W
+
+
+Unnamed: 0,核心板,评估底板
+PCB 尺寸,58mm*35mm,180mm*130mm
+PCB 层数,8 层,4 层
+板厚,1.6mm,1.6mm
+固定安装孔数量,4,8

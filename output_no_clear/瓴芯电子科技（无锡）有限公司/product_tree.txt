@@ -1,0 +1,78 @@
+-> root https://www.len-technology.com
+  -> 产品中心 https://www.len-technology.com/products
+    -> 开关稳压器 
+    -> 线性稳压器 
+    -> LED 驱动芯片 
+    -> 高边驱动芯片 
+  -> 开关稳压器 https://www.len-technology.com/products/dc-dc
+  -> 线性稳压器 https://www.len-technology.com/products/linear-regulators
+  -> LED驱动芯片 https://www.len-technology.com/products/led
+  -> 高边驱动芯片 https://www.len-technology.com/products/high-side-driver-chip
+  -> 展会|瓴芯携全系列车规产品参展慕尼黑华南 https://www.len-technology.com/about-us/news-events/media-exhibitions/68
+    -> 一级 DC-DC 
+    -> 一级 DC-DC 
+    -> 一级 DC-DC 
+    -> 二级 DC-DC 
+    -> 一级 LDO 
+    -> 一级 LDO 
+    -> 一级 LDO 
+    -> 一级 LDO 
+    -> 二级 LDO 
+    -> 高边驱动开关 
+    -> 高边驱动开关 
+    -> 高边驱动开关 
+    -> LDO 
+    -> LDO 
+  -> 7月上海|瓴芯携车规级各类产品亮相慕尼黑 https://www.len-technology.com/about-us/news-events/media-exhibitions/52
+    -> DCDC 
+    -> LED 驱动 
+  -> LN10X46Q1-开关稳压器 https://www.len-technology.com/products/dc-dc/dc-dc-details/ln10x46
+  -> LN10X43Q1-开关稳压器 https://www.len-technology.com/products/dc-dc/dc-dc-details/ln10x43
+  -> LN10X42Q1-开关稳压器 https://www.len-technology.com/products/dc-dc/dc-dc-details/ln10x42
+  -> LN10X41Q1-开关稳压器 https://www.len-technology.com/products/dc-dc/dc-dc-details/ln10x41
+  -> LN10X63Q1-开关稳压器 https://www.len-technology.com/products/dc-dc/dc-dc-details/ln10x63
+  -> LN10X61Q1-开关稳压器 https://www.len-technology.com/products/dc-dc/dc-dc-details/ln10x61
+  -> LN21042Q1- https://www.len-technology.com/products/linear-regulators/linear-regulators-details/ln21042
+  -> LN21045Q1- https://www.len-technology.com/products/linear-regulators/linear-regulators-details/ln21045
+  -> LN20X45Q1- https://www.len-technology.com/products/linear-regulators/linear-regulators-details/ln20x45
+  -> LN20X42Q1- https://www.len-technology.com/products/linear-regulators/linear-regulators-details/ln20x42
+  -> LN20X41Q1- https://www.len-technology.com/products/linear-regulators/linear-regulators-details/ln20x41
+  -> LN33X61Q1- https://www.len-technology.com/products/led/led-details/ln33x61
+  -> LNS37100Q1- https://www.len-technology.com/products/high-side-driver-chip/high-side-driver-chip-details/lns37100
+  -> LNQ37160Q1- https://www.len-technology.com/products/high-side-driver-chip/high-side-driver-chip-details/lnq37160q1
+  -> LNQ37000Q1- https://www.len-technology.com/products/high-side-driver-chip/high-side-driver-chip-details/lnq37000
+  -> NewProduct https://www.len-technology.com/en/about-us/news-events/industry-trends
+    -> LNS37100Q1 车规级单通道 100mΩ 智能高边开关 
+    -> LN20X45Q1 车规级低压差线性稳压器 LDO 
+    -> 瓴芯电子车规级低 EMI、小封装 0.8A/2A DCDC 
+  -> ProductCenter https://www.len-technology.com/en/products
+    -> DC-DC 
+    -> LED Driver 
+    -> High Side Switch 
+  -> DC-DC https://www.len-technology.com/en/products/dc-dc
+  -> LDO https://www.len-technology.com/en/products/linear-regulators
+  -> LEDDriver https://www.len-technology.com/en/products/led
+  -> HighSideSwitch https://www.len-technology.com/en/products/high-side-driver-chip
+  -> DIAG 
+    -> EN https://www.len-technology.com/en/about-us/news-events/industry-trends/65
+  -> 新品|LN20X45Q1车规级低压差线性 https://www.len-technology.com/en/about-us/news-events/industry-trends/34
+  -> 7月上海|瓴芯携车规级各类产品亮相慕尼黑_1 https://www.len-technology.com/en/about-us/news-events/media-exhibitions/52
+  -> 展会|瓴芯携全系列车规产品参展慕尼黑华南_1 https://www.len-technology.com/about-us/news-events/media-exhibitions/68.html
+  -> 新品|瓴芯电子车规级低EMI、小封装0. https://www.len-technology.com/en/about-us/news-events/industry-trends/37
+  -> LN10X46Q1-DCDC https://www.len-technology.com/en/products/dc-dc/dc-dc-details/ln10x46
+  -> LN10X43Q1-DCDC https://www.len-technology.com/en/products/dc-dc/dc-dc-details/ln10x43
+  -> LN10X42Q1-DCDC https://www.len-technology.com/en/products/dc-dc/dc-dc-details/ln10x42
+  -> LN10X41Q1-DCDC https://www.len-technology.com/en/products/dc-dc/dc-dc-details/ln10x41
+  -> LN10X63Q1-DCDC https://www.len-technology.com/en/products/dc-dc/dc-dc-details/ln10x63
+  -> LN10X61Q1-DCDC https://www.len-technology.com/en/products/dc-dc/dc-dc-details/ln10x61
+  -> LN21042Q1-_1 https://www.len-technology.com/en/products/linear-regulators/linear-regulators-details/ln21042
+  -> LN21045Q1-_1 https://www.len-technology.com/en/products/linear-regulators/linear-regulators-details/ln21045
+  -> LN20X45Q1-_1 https://www.len-technology.com/en/products/linear-regulators/linear-regulators-details/ln20x45
+  -> LN20X42Q1-_1 https://www.len-technology.com/en/products/linear-regulators/linear-regulators-details/ln20x42
+  -> LN20X41Q1-_1 https://www.len-technology.com/en/products/linear-regulators/linear-regulators-details/ln20x41
+  -> LN33X61Q1-_1 https://www.len-technology.com/en/products/led/led-details/ln33x61
+  -> LNS37100Q1-_1 https://www.len-technology.com/en/products/high-side-driver-chip/high-side-driver-chip-details/lns37100
+  -> LNQ37160Q1-_1 https://www.len-technology.com/en/products/high-side-driver-chip/high-side-driver-chip-details/lnq37160q1
+  -> LNQ37000Q1-_1 https://www.len-technology.com/en/products/high-side-driver-chip/high-side-driver-chip-details/lnq37000
+  -> 新品|瓴芯电子车规级低EMI、小封装0._1 https://www.len-technology.com/en/about-us/news-events/industry-trends/37.html
+  -> SampleApplication https://www.len-technology.com/en/service-support/sample-application?xnum=LN210451Q1TAR&cid=80&pid=15

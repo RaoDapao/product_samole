@@ -1,0 +1,17 @@
+-> root https://marching-power.com
+  -> 首页 
+    -> 产品中心 
+      -> 硅基芯片及模组系列 
+        -> IGBT单管 https://www.marching-power.com/igbtdg
+        -> IGBT模块 https://www.marching-power.com/igbtmk
+        -> PIM https://www.marching-power.com/pimcp
+        -> IPM https://www.marching-power.com/ipmcp
+        -> SJMOSFET https://www.marching-power.com/sjm
+        -> VDMOSFET https://www.marching-power.com/vdm
+        -> TrenchMOSFET https://www.marching-power.com/tm
+        -> SGTMOSFET https://www.marching-power.com/sgtm
+      -> 第三代半导体芯片及模组系列 
+        -> SiCMOSFET单管 https://www.marching-power.com/smdg
+        -> SiCMOSFET模块 https://www.marching-power.com/sicmmk
+        -> SiCJBS https://www.marching-power.com/sicjbs
+        -> GaN https://www.marching-power.com/gancp

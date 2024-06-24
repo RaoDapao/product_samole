@@ -1,0 +1,52 @@
+-> root https://www.tj-source.com
+  -> 首页 
+    -> 产品中心 https://www.tj-source.com/fw.html
+      -> 开关电源_1 https://www.tj-source.com/dyxx/112.html
+      -> WT系列智能数显仪表_1 https://www.tj-source.com/wt.html
+      -> S系列信号调理器_1 https://www.tj-source.com/Sxlxhdlq.html
+        -> 直流信号隔离器 
+        -> 直流信号隔离配电器 
+        -> 一入多出直流电流信号隔离/配电器 
+        -> 热电阻温度隔离器变送器 
+        -> 热电偶温度隔离器变送器 
+        -> 两线制热电阻温度变送器 
+        -> 无源电流信号隔离器 
+        -> 智能型信号隔离／配电器 
+      -> SWT系列压力变送器_1 https://www.tj-source.com/SWTxlylbsq.html
+        -> SWT 系列压力变送器 
+        -> SWT131 系列小巧型压力变送器 
+        -> SWT132 系列齐平膜型压力变送器 
+        -> SWT133 系列智能型压力变送器 
+        -> SWT134 系列粘稠颗粒型压力变送器 
+        -> SWT135 系列高温型压力变送器 
+        -> SWTL 系列液位变送器 
+        -> SWTL-C 系列投入式液位变送器 
+        -> SWTL-D 系列法兰式液位变送器 
+      -> WZ-R系列热电阻偶_1 https://www.tj-source.com/WZ_Rxlrdzo.html
+        -> 标准型 WZ(P/C)系列热电阻 
+        -> WZ(P/C)K 铠装热电阻 
+        -> 一体化热电阻温度变送器 
+        -> WR 系列热电偶 
+        -> 热电偶感温元件 
+        -> WR 系列铠装热电偶 
+        -> WRJ 一体化热电偶温度变送器 
+        -> 带保护套管式铠装热电阻（偶） 
+      -> 流量计物-液位计_1 https://www.tj-source.com/llj-w_ywj.html
+        -> 孔板流量计 
+        -> 涡街流量计 
+        -> 内锥形流量计 
+        -> 电磁流量计 
+        -> 金属管浮子流量计 
+        -> 涡轮流量计 
+        -> 玻璃转子流量计 
+        -> 超声波流量计 
+      -> 压力表-双金属_1 https://www.tj-source.com/ylb_sjs.html
+        -> 普通压力表 
+        -> 不锈钢压力表 
+        -> 耐震压力表 
+        -> 膜盒压力表 
+        -> 膜片压力表 
+        -> 双金属温度计 
+        -> 风压变送器 
+      -> 低压电器成套_1 https://www.tj-source.com/dydqct.html
+    -> 行业解决方案_1 https://www.tj-source.com/product/96.html

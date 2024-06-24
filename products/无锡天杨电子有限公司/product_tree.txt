@@ -1,0 +1,60 @@
+-> root https://www.wxtianyang.com
+  -> 产品_产品_无锡天杨电子有限公司|陶瓷金属密封管壳|电子电气元件|电力半导体器件用管壳 https://www.wxtianyang.com/product/26
+    -> 方型 IGBT 管壳 
+    -> IGCT 管壳 
+    -> 圆型 IGBT 管壳 
+    -> 光控陶瓷管壳 
+    -> 红瓷管壳 
+    -> 研磨陶瓷管壳 
+  -> 基板事业部_产品_无锡天杨电子有限公司|陶瓷金属密封管壳|电子电气元件|电力半导体器件用管壳 https://www.wxtianyang.com/product/28
+  -> 无锡天杨电子有限公司_无锡天杨电子有限公司|陶瓷金属密封管壳|电子电气元件|电力半导体器件用管壳 https://www.wxtianyang.com/news/9.html
+  -> 方型IGBT管壳_无锡天杨电子有限公司|陶瓷金属密封管壳|电子电气元件|电力半导体器件用管壳 https://www.wxtianyang.com/product/80.html
+  -> IGCT管壳_无锡天杨电子有限公司|陶瓷金属密封管壳|电子电气元件|电力半导体器件用管壳 https://www.wxtianyang.com/product/85.html
+  -> 圆型IGBT管壳_无锡天杨电子有限公司|陶瓷金属密封管壳|电子电气元件|电力半导体器件用管壳 https://www.wxtianyang.com/product/83.html
+  -> 光控陶瓷管壳_无锡天杨电子有限公司|陶瓷金属密封管壳|电子电气元件|电力半导体器件用管壳 https://www.wxtianyang.com/product/87.html
+  -> 光控陶瓷管壳_无锡天杨电子有限公司|陶瓷金属密封管壳|电子电气元件|电力半导体器件用管壳_1 https://www.wxtianyang.com/product/88.html
+  -> 红瓷管壳_无锡天杨电子有限公司|陶瓷金属密封管壳|电子电气元件|电力半导体器件用管壳 https://www.wxtianyang.com/product/75.html
+  -> 研磨陶瓷管壳_无锡天杨电子有限公司|陶瓷金属密封管壳|电子电气元件|电力半导体器件用管壳 https://www.wxtianyang.com/product/79.html
+  -> 研磨陶瓷管壳_无锡天杨电子有限公司|陶瓷金属密封管壳|电子电气元件|电力半导体器件用管壳_1 https://www.wxtianyang.com/product/78.html
+  -> 氮化铝陶瓷覆铜基板_无锡天杨电子有限公司|陶瓷金属密封管壳|电子电气元件|电力半导体器件用管壳 https://www.wxtianyang.com/product/71.html
+  -> 氮化铝陶瓷覆铜基板_无锡天杨电子有限公司|陶瓷金属密封管壳|电子电气元件|电力半导体器件用管壳_1 https://www.wxtianyang.com/product/73.html
+  -> Products_Products_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells https://en.wxtianyang.com/product/26
+    -> Square IGBT shell 
+    -> IGCT shell 
+    -> Round IGBT shell 
+    -> Light control ceramic shell 
+    -> Red porcelain tube shell 
+    -> Ground ceramic shell 
+  -> SubstrateDivision_Products_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells https://en.wxtianyang.com/product/28
+    -> Silicon nitride ceramic copper clad substrate 
+    -> Aluminum nitride ceramic copper clad substrate 
+  -> WuxiTianyangElectronicCo.,Ltd_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells https://en.wxtianyang.com/news/9.html
+    -> 光控、GTO、IGBT、六寸、螺栓等多规格产品 
+    -> 模块配套件、水冷散热器 
+  -> 方型IGBT管壳_无锡天杨电子有限公司|陶瓷金属密封管壳|电子电气元件|电力半导体器件用管壳_1 https://www.wxtianyang.com/product/80.html#
+  -> IGCT管壳_无锡天杨电子有限公司|陶瓷金属密封管壳|电子电气元件|电力半导体器件用管壳_1 https://www.wxtianyang.com/product/85.html?productCateId=27
+  -> 光控陶瓷管壳_无锡天杨电子有限公司|陶瓷金属密封管壳|电子电气元件|电力半导体器件用管壳_2 https://www.wxtianyang.com/product/44.html?productCateId=18
+  -> 红瓷管壳_无锡天杨电子有限公司|陶瓷金属密封管壳|电子电气元件|电力半导体器件用管壳_1 https://www.wxtianyang.com/product/75.html#
+  -> SquareIGBTshell_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells https://en.wxtianyang.com/product/80.html
+  -> IGCTshell_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells https://en.wxtianyang.com/product/85.html
+  -> RoundIGBTshell_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells https://en.wxtianyang.com/product/83.html
+  -> Lightcontrolceramicshell_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells https://en.wxtianyang.com/product/87.html
+  -> Groundceramicshell_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells https://en.wxtianyang.com/product/79.html
+  -> Groundceramicshell_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells_1 https://en.wxtianyang.com/product/78.html
+  -> Groundceramicshell_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells_2 https://en.wxtianyang.com/product/49.html
+  -> Groundceramicshell_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells_3 https://en.wxtianyang.com/product/86.html
+  -> Groundceramicshell_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells_4 https://en.wxtianyang.com/product/82.html
+  -> Groundceramicshell_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells_5 https://en.wxtianyang.com/product/81.html
+  -> Groundceramicshell_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells_6 https://en.wxtianyang.com/product/57.html
+  -> Siliconnitrideceramiccoppercladsubstrate_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells https://en.wxtianyang.com/product/65.html
+  -> Siliconnitrideceramiccoppercladsubstrate_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells_1 https://en.wxtianyang.com/product/63.html
+  -> Aluminumnitrideceramiccoppercladsubstrate_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells https://en.wxtianyang.com/product/71.html
+  -> 光控陶瓷管壳_无锡天杨电子有限公司|陶瓷金属密封管壳|电子电气元件|电力半导体器件用管壳_3 https://www.wxtianyang.com/product/44.html
+  -> IGCTshell_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells_1 https://en.wxtianyang.com/product/85.html?productCateId=27
+  -> Lightcontrolceramicshell_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells_1 https://en.wxtianyang.com/product/88.html?productCateId=27
+  -> 光控陶瓷管壳_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells https://en.wxtianyang.com/product/44.html?productCateId=18
+  -> Groundceramicshell_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells_7 https://en.wxtianyang.com/product/78.html?productCateId=27
+  -> Groundceramicshell_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells_8 https://en.wxtianyang.com/product/49.html#
+  -> Groundceramicshell_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells_9 https://en.wxtianyang.com/product/84.html?productCateId=27
+  -> Groundceramicshell_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells_10 https://en.wxtianyang.com/product/82.html?productCateId=27
+  -> Groundceramicshell_WuxiTianyangElectronicsCo.,Ltd|Finely-polishedCeramicTubeShells_11 https://en.wxtianyang.com/product/82.html#

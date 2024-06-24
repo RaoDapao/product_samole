@@ -1,0 +1,15 @@
+产品网址：https://www.longsys.com/products/embedded-storage/embedded-storage/emmc.html
+产品结构：root->EnhanceYourTechwithForeseeeMMC|Longsys
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|eMMC|无|兼容、稳定，广泛应用于智能手机、平板电脑、智能电视、机顶盒等领域|
+
+Product Series,NAND Flash,Capacity,Package,Operating Temperature,Protocol,Interface,Operating Voltage,Size
+eMMC,MLC,8GB,153Ball,-25℃~85℃,eMMC 5.1,HS400,VCC 3.3V/ VCCQ 1.8V,11.5*13*1.0mm
+eMMC,TLC,16GB,153Ball,-25℃~85℃,eMMC 5.1,HS400,VCC 3.3V/ VCCQ 1.8V,11.5*13*0.8mm
+eMMC,TLC,32GB,153Ball,-25℃~85℃,eMMC 5.1,HS400,VCC 3.3V/ VCCQ 1.8V,11.5*13*1.0mm
+eMMC,TLC,64GB,153Ball,-25℃~85℃,eMMC 5.1,HS400,VCC 3.3V/ VCCQ 1.8V,11.5*13*0.8mm
+eMMC,TLC,128GB,153Ball,-25℃~85℃,eMMC 5.1,HS400,VCC 3.3V/ VCCQ 1.8V,11.5*13*0.8mm
+eMMC,TLC,256GB,153Ball,-25℃~85℃,eMMC 5.1,HS400,VCC 3.3V/ VCCQ 1.8V,11.5*13*1.0mm
+eMMC,TLC,512GB,153Ball,-25℃~85℃,eMMC 5.1,HS400,VCC 3.3V/ VCCQ 1.8V,11.5*13*1.0mm

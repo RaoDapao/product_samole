@@ -1,0 +1,6 @@
+产品网址：http://www.haier-ic.com/product/product_E_1DDR2.html
+产品结构：当前位置：首页->芯片及方案->DDR2(H2I1G16KFR-Y5C)
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|DDR2|H2I1G16KFR-Y5C|JEDEC Standard Compliant；JEDEC standard 1.8V I/O (SSTL_18-compatible)；Power supplies: VDD & VDDQ = +1.8V±0.1V；Industrial temperature: TC = -40~95°C；Supports JEDEC clock jitter specification；Fully synchronous operation；Fast clock rate: 333/400/533 MHz；Differential Clock, CK & CK#；Bidirectional single/differential data strobe；— DQS & DQS#；8 internal banks for concurrent operation；4-bit prefetch architecture；Internal pipeline architecture；Precharge & active power down；Programmable Mode & Extended Mode registers；Posted CAS# additive latency (AL): 0, 1, 2, 3, 4, 5, 6；WRITE latency = READ latency - 1 tCK；Burst lengths: 4 or 8；Burst type: Sequential / Interleave；DLL enable/disable；Off-Chip Driver (OCD)；— Impedance Adjustment；— Adjustable data-output drive strength；On-die termination (ODT)；RoHS compliant；Auto Refresh and Self Refresh；8192 refresh cycles / 64ms；— Average refresh period；7.8μs @ -40°C ≦TC≦ +85°C；3.9μs @ +85°C ＜TC≦ +95°C；84-ball 8 x 12.5 x 1.2mm (max) FBGA package；— Pb and Halogen Free|

@@ -1,0 +1,33 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+深圳市明微电子股份有限公司,LED 智能景观驱动芯片,http://chinaasic.com/productItemSort/product_item_sort_20.html,DMX512 并联驱动,无,DMX512单线并联,6148886236,无,0,无,0,无,0
+深圳市明微电子股份有限公司,高刷 PWM 恒流驱动,http://chinaasic.com/news/news_detail_149.html,SM16380SW,专为商业显示应用而生，具备稳定的品质和高对比度特性，最大 32mA 的输出电流，搭配 14—16bit 灰度，7680Hz 的高刷新率，内置动态节能，能根据显示画面自动调节芯片内部功耗，高可靠性保障长时间稳定运行,无,0,无,0,无,0,无,0
+深圳市明微电子股份有限公司,高阶高刷 PWM 恒流驱动,http://chinaasic.com/news/news_detail_149.html,SM16389,以卓越的图像质量和稳定性引领显示技术新风潮，14-16bit 灰度，7680Hz 的高刷新率，独特的像素节能技术大幅降低能耗，支持 LED 开、短路信息在线回传，为显示设备的稳定运行提供强有力支持,无,0,无,0,无,0,无,0
+深圳市明微电子股份有限公司,户外共阴节能驱动,http://chinaasic.com/news/news_detail_148.html,SM16510,支持 1~64 扫 LED 显示屏整帧数据存储及显示；灰阶时钟内置，降低 EMI 干扰，实现 16bit 灰阶，一级起灰 120Hz 刷新，让每一帧画面都呈现出细腻的层次感，显著提升了画面对比度，消除画面切换间显示暗场。内置智慧节能功能，根据显示画面自动调节芯片内部功耗，最大限度提升节能效率,无,0,无,0,无,0,无,0
+深圳市明微电子股份有限公司,1-16 扫 PWM 恒流驱动,http://chinaasic.com/news/news_detail_148.html,SM16169SW,专为户外广告显示屏量身打造，以高亮度节能为主打特性，配备 7680Hz 超高刷新率和 16bit 低灰，一级起灰 120Hz 刷新，可消除画面切换间显示暗场，为户外广告显示屏提供了非同一般的显示效果。32mA 的高输出电流让广告内容即便在阳光直射下也能清晰可见，而智慧节能功能则确保了长时间运行稳定且经济，让广告画面更加鲜活生动，捕获过往行人的目光，传递给每一位观众深刻印象,无,0,无,0,无,0,无,0
+深圳市明微电子股份有限公司,LED 数码管驱动,http://chinaasic.com/productItem/product_item_9.html,无,无,LED数码管驱动,1718501431,无,0,无,0,无,0
+深圳市明微电子股份有限公司,显示屏驱动芯片,http://chinaasic.com/product/product_3.html,无,可实现 4K 刷新，支持 14-16bit 灰阶数据、65536 灰阶显示，具有智慧节能、低功耗等特点，适用于室内户外，包括户外小间距屏、租赁屏及 P1.0 以下的 Mini LED 全彩屏，未来还可支持 Micro LED 全彩屏,LED显示驱动芯片,3030872836,无,0,无,0,无,0
+深圳市明微电子股份有限公司,格栅屏驱动芯片,http://chinaasic.com/product/product_3.html,无,采用 R/G/B 独立电流输出控制技术，可实现单芯片 R/G/B 独立调节电流，简化 PCB 走线，具有抗干扰能力强、输出电流范围宽，输出电流智能调节等特点，主要应用于灯条屏，格栅屏，透明屏等,LED显示驱动芯片,3030872836,无,0,无,0,无,0
+深圳市明微电子股份有限公司,单/双色驱动芯片,http://chinaasic.com/product/product_3.html,SM16188/SM16288,采用通用工作协议方式，兼容同类产品应用，具有输出电流大，稳定性高，品质可靠性好等特点，主要应用于交通诱导屏、门头走字屏、点阵屏等单/双色 LED 显示屏,LED显示驱动芯片,3030872836,无,0,无,0,无,0
+深圳市明微电子股份有限公司,行驱动芯片,http://chinaasic.com/product/product_3.html,无,具有输出电流大，低内阻，抗干扰能力强，内置过流保护功能，主要应用于各种 LED 显示屏，格栅屏等,LED显示驱动芯片,3030872836,无,0,无,0,无,0
+深圳市明微电子股份有限公司,逻辑控制芯片,http://chinaasic.com/product/product_3.html,无,为 LED 显示屏控制信号提供驱动、译码等特定功能，性能稳定可靠,LED显示驱动芯片,3030872836,无,0,无,0,无,0
+深圳市明微电子股份有限公司,LED 数码管驱动芯片,http://chinaasic.com/product/product_3.html,无,为多段位 LED 显示控制专用芯片，采用 I2C 协议或三线通信协议，带有点阵式按键扫描功能，内部集成 MCU 数字接口、数据锁存器、键盘扫描等，应用于 DVD 显示，电磁炉显示，电饭煲显示，空调显示等小家电 LED 数码显示驱动,LED显示驱动芯片,3030872836,无,0,无,0,无,0
+深圳市明微电子股份有限公司,LED 智能景观驱动芯片,http://chinaasic.com/product/product_2.html,串联驱动,拥有数据自整形输出、无衰减，内置数据同步刷新，输入电源电压范围宽等优点，主要应用于室内 LED 装饰照明，建筑 LED 外观与情景照明等，可应用于窗帘屏，穿孔字，软灯带，点光源，护栏管，智能照明等多种方案,LED智能景观驱动芯片,8753357357,无,0,无,0,无,0
+深圳市明微电子股份有限公司,LED 智能景观驱动芯片,http://chinaasic.com/product/product_2.html,DMX512 串联驱动,兼容并拓展 DMX512(1990)数据协议，拥有自适应数据传输速率，带载点数多等优点，且有 3 通道、9 通道和 12 通道可选择。主要应用于室内 LED 装饰照明，广告招牌与户外装饰照明等，可应用于点光源，软灯带，线条灯，外露灯等多种方案,LED智能景观驱动芯片,8753357357,无,0,无,0,无,0
+深圳市明微电子股份有限公司,LED 照明驱动芯片,http://chinaasic.com/product/product_1.html,智能驱动,随着物联网与 5G 通信技术的发展与普及，作为智能照明核心的智能照明驱动 IC，以其高度集成、低功耗以及强大的智能控制技术，助力智能照明走进千家万户；智能照明有效的提升了人们的照明体验，提高照明质量，并实现节能减排。,LED照明驱动芯片,3329387970,无,0,无,0,无,0
+深圳市明微电子股份有限公司,LED 照明驱动芯片,http://chinaasic.com/product/product_1.html,高压线性驱动,高压线性产品具有单段或多段恒流、开关调光调色、准全电压恒流、可控硅调光调色、开关分段、恒功率控制等特点，恒流精度高、功率因数高、系统效率高、结构简单、方案成本低。,LED照明驱动芯片,3329387970,无,0,无,0,无,0
+深圳市明微电子股份有限公司,LED 照明驱动芯片,http://chinaasic.com/product/product_1.html,低压线性驱动,低压线性产品具有输入电源电压范围宽、恒流精度高、恒流效果好、可靠性高等特点，并且外围简单，支持零外围应用。,LED照明驱动芯片,3329387970,无,0,无,0,无,0
+深圳市明微电子股份有限公司,LED 照明驱动芯片,http://chinaasic.com/product/product_1.html,DC-DC 降压恒流类,开关电源系列产品包含隔离式和非隔离式，支持低 PF、高 PF、高 PF 无频闪应用；具有恒流精度高、高压自启动、内置软启动、过流保护、过压保护，过温保护等特点，可靠性高，可通过 3C、UL、CE 等各类认证。,LED照明驱动芯片,3329387970,无,0,无,0,无,0
+深圳市明微电子股份有限公司,Mini LED 背光驱动芯片,http://chinaasic.com/product/product_7.html,无,通过 Local dimming（局部调光）技术，控制 LCD 面板 Mini LED 背光单个区域灯珠的亮灭程度，以此来实现更高背光亮度和对比度，提升 LCD 显示效果，广泛应用于 TV、MNT、车载、笔电等显示领域,MiniLED背光驱动芯片,210877192,无,0,无,0,无,0
+深圳市明微电子股份有限公司,电源管理芯片,http://chinaasic.com/productItemSort/product_item_sort_41.html,AC-DC 驱动,副边反馈（SSR）、原边反馈（PSR）、非隔离恒压,副边反馈（SSR）,4867393721,无,0,无,0,无,0
+深圳市明微电子股份有限公司,LED 显示驱动芯片,http://chinaasic.com/productItemSort/product_item_sort_22.html,无,无,单/双色驱动,5639808077,无,0,无,0,无,0
+深圳市明微电子股份有限公司,LED 智能景观驱动芯片,http://chinaasic.com/productItemSort/product_item_sort_22.html,无,无,单/双色驱动,5639808077,无,0,无,0,无,0
+深圳市明微电子股份有限公司,LED 照明驱动芯片,http://chinaasic.com/productItemSort/product_item_sort_22.html,无,无,单/双色驱动,5639808077,无,0,无,0,无,0
+深圳市明微电子股份有限公司,电源管理芯片,http://chinaasic.com/productItemSort/product_item_sort_22.html,无,无,单/双色驱动,5639808077,无,0,无,0,无,0
+深圳市明微电子股份有限公司,电源管理芯片,http://chinaasic.com/product/product_5.html,DC-DC 降压恒压类,具有输入输出电压范围宽、恒压精度高、方案集成度高、效率高等特点，内置过压保护、过流保护、过温保护等保护功能，可靠性高,电源管理芯片,7152989967,无,0,无,0,无,0
+深圳市明微电子股份有限公司,电源管理芯片,http://chinaasic.com/product/product_5.html,LDO,LDO 线性稳压器具有输入电压范围宽，输出电压精度高，静态电流小，输入输出压差低、温度漂移系数小等特点,电源管理芯片,7152989967,无,0,无,0,无,0
+深圳市明微电子股份有限公司,格栅屏驱动,http://chinaasic.com/productItem/product_item_20.html,无,无,共2条<1/1,482060157,跳转,1353655128,无,0,无,0
+深圳市明微电子股份有限公司,LED 显示驱动芯片,http://chinaasic.com/productItem/product_item_21.html,行驱动,无,共6条<1/1,2278059613,跳转,1353655128,无,0,无,0
+深圳市明微电子股份有限公司,LDO,http://chinaasic.com/productItem/product_item_24.html,无,无,共3条<1/1,9243491468,跳转,1353655128,无,0,无,0
+深圳市明微电子股份有限公司,AC-DC 驱动,http://chinaasic.com/productItemSort/product_item_sort_42.html,副边反馈（SSR）,无,非隔离恒压,7593131810,无,0,无,0,无,0
+深圳市明微电子股份有限公司,AC-DC 驱动,http://chinaasic.com/productItemSort/product_item_sort_42.html,原边反馈（PSR）,无,非隔离恒压,7593131810,无,0,无,0,无,0
+深圳市明微电子股份有限公司,AC-DC 驱动,http://chinaasic.com/productItemSort/product_item_sort_42.html,非隔离恒压,无,非隔离恒压,7593131810,无,0,无,0,无,0

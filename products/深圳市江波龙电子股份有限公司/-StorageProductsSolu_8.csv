@@ -1,0 +1,21 @@
+产品网址：https://www.longsys.com/products/solid-state-drive/commercial-sata-ssd/s326-sata-ssd.html
+产品结构：root->-StorageProductsSolution–LongsysacquiredLEXAR&Foreseee
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|S326 SATA SSD|无|固件和硬件均为自主研发，确保产品具有高兼容性和稳定性，同时满足各种定制需求|
+
+Product Series,PN,NAND Flash,Capacity,Type,DRAM,Operating Temperature,Sequential Read Speed*,Sequential Write Speed*,Random Read Speed (IOPS)*,Random Write Speed (IOPS)*,Mean Time Between Failures (Hour)
+S326 SATA SSD,FSAGCSC-064G,3D TLC,64GB,mSATA,DRAM-less,0°C~70°C,540MB/s,220MB/s,16.8K,47.6K,1.5 million hours
+S326 SATA SSD,FSAGCSC-128G,3D TLC,128GB,mSATA,DRAM-less,0°C~70°C,540MB/s,330MB/s,29K,50K,1.5 million hours
+S326 SATA SSD,FSAGCSC-256G,3D TLC,256GB,mSATA,DRAM-less,0°C~70°C,540MB/s,450MB/s,45K,55K,1.5 million hours
+S326 SATA SSD,FSAGMRC-512G,3D TLC,512GB,mSATA,DRAM-less,0°C~70°C,540MB/s,480MB/s,51.7K,57.8K,1.5 million hours
+S326 SATA SSD,FSAGMRC-128G,3D TLC,128GB,mSATA,DRAM-less,0°C~70°C,540MB/s,330MB/s,29K,50K,1.5 million hours
+S326 SATA SSD,FSAGMRC-256G,3D TLC,256GB,mSATA,DRAM-less,0°C~70°C,540MB/s,450MB/s,45K,55K,1.5 million hours
+S326 SATA SSD,FSGGCSC-128G,3D TLC,128GB,M.2 2280,DRAM-less,0°C~70°C,540MB/s,320MB/s,32K,54K,1.5 million hours
+S326 SATA SSD,FSGGCSC-256G,3D TLC,256GB,M.2 2280,DRAM-less,0°C~70°C,540MB/s,450MB/s,46K,55K,1.5 million hours
+S326 SATA SSD,FSGGMRC-512G,3D TLC,512GB,M.2 2280,DRAM-less,0°C~70°C,540MB/s,480MB/s,52K,56K,1.5 million hours
+S326 SATA SSD,FSGGMRC-128G,3D TLC,128GB,M.2 2280,DRAM-less,0°C~70°C,540MB/s,320MB/s,32K,54K,1.5 million hours
+S326 SATA SSD,FSGGMRC-256G,3D TLC,256GB,M.2 2280,DRAM-less,0°C~70°C,540MB/s,450MB/s,46K,55K,1.5 million hours
+S326 SATA SSD,FSCGMRC-512G,3D TLC,512GB,2.5inch,DRAM-less,0°C~70°C,540MB/s,310MB/s,39K,53K,1.5 million hours
+S326 SATA SSD,FSCGMRC-001T,3D TLC,1TB,2.5inch,DRAM-less,0°C~70°C,540MB/s,310MB/s,37K,54K,1.5 million hours

@@ -1,0 +1,121 @@
+-> root https://szxinmai.com
+  -> 首页 
+    -> 产品中心 http://www.szxinmai.com/html/PRODUCT
+      -> AM5728开发板 https://www.szxinmai.com/html/2021/dsp+arm_1201/25.html
+      -> OMAPL138开发板 https://www.szxinmai.com/html/2021/dsp+arm_1201/24.html
+      -> AM335X开发板 https://www.szxinmai.com/html/2021/dsp+arm_1201/23.html
+      -> AM5728_Artix7开发板 https://www.szxinmai.com/html/2021/dsp+arm+fpga_1201/30.html
+      -> OMAPL138_Spartan6开发板 https://www.szxinmai.com/html/2021/dsp+arm+fpga_1201/27.html
+      -> C6678_K7开发板 https://www.szxinmai.com/html/2021/dsp+arm+fpga_1201/26.html
+      -> C6748_Spartan6开发板 https://www.szxinmai.com/html/2021/dsp%20c6000_1201/33.html
+      -> C665x_Artix7开发板 https://www.szxinmai.com/html/2021/dsp%20c6000_1201/29.html
+      -> C6678开发板 https://www.szxinmai.com/html/2021/dsp%20c6000_1201/28.html
+      -> AM5728核心板 https://www.szxinmai.com/html/2021/arm+fpga_1201/36.html
+      -> OMAPL138_Spartan6核心板 https://www.szxinmai.com/html/2021/arm+fpga_1201/32.html
+      -> C6748_Spartan6核心板 https://www.szxinmai.com/html/2021/arm+fpga_1201/31.html
+      -> RK3568+鸿蒙-安卓-Linux工业主板 https://www.szxinmai.com/html/2021/arm_1201/39.html
+      -> RK3399鸿蒙-安卓-Linux主板 https://www.szxinmai.com/html/2021/arm_1201/35.html
+      -> RK3399_K7_FPGA开发板 https://www.szxinmai.com/html/2021/arm_1201/34.html
+      -> ZYNQ_7010-20开发板 https://www.szxinmai.com/html/2021/zynq_1201/42.html
+      -> ZYNQ_7035-45开发板 https://www.szxinmai.com/html/2021/zynq_1201/38.html
+      -> ZYNQ_7010-20核心板 https://www.szxinmai.com/html/2021/zynq_1201/37.html
+      -> Linux内核定制 https://www.szxinmai.com/html/2021/qianrushilinux_1201/45.html
+      -> Linux驱动定制 https://www.szxinmai.com/html/2021/qianrushilinux_1201/41.html
+      -> ROS https://www.szxinmai.com/html/2021/qianrushilinux_1201/40.html
+      -> 多层PCB设计 https://www.szxinmai.com/html/2021/shishixitong_1201/47.html
+      -> SI-PI-EMC仿真分析 https://www.szxinmai.com/html/2021/shishixitong_1201/44.html
+      -> DDR3-4仿真 https://www.szxinmai.com/html/2021/shishixitong_1201/43.html
+      -> Max10_ST32_Ethercat高实时方案 https://www.szxinmai.com/html/2021/gongjuhefuwu_1201/50.html
+      -> FPGAISP方案 https://www.szxinmai.com/html/2021/gongjuhefuwu_1201/48.html
+        -> FPGA ISP 方案 
+      -> AM5728_5G智能网关 https://www.szxinmai.com/html/2021/zhinengwangguan_1201/54.html
+      -> i.MX6ULL智能网关 https://www.szxinmai.com/html/2021/zhinengwangguan_1201/51.html
+        -> i.MX6ULL 智能网关 
+      -> AM335x智能网关 https://www.szxinmai.com/html/2021/zhinengwangguan_1201/49.html
+        -> AM335x 智能网关 
+      -> XM工业故障诊断数字化平台 https://www.szxinmai.com/html/2021/yunpingtai_1201/57.html
+        -> XM 工业故障诊断数字化平台 
+      -> XM智能网联汽车物联平台 https://www.szxinmai.com/html/2021/yunpingtai_1201/53.html
+        -> XM 智能网联汽车物联平台 
+      -> AM335x开发板 https://www.szxinmai.com/html/2021/dsp+arm_1201/55.html
+      -> i.MX8M_Mini_Artix7开发板 https://www.szxinmai.com/html/2021/arm+fpga_1201/69.html
+      -> RK3399_Lattice_FPGA图像开发板 https://www.szxinmai.com/html/2021/arm+fpga_1201/64.html
+      -> i.MX8M_Mini开发板 https://www.szxinmai.com/html/2021/arm_1201/72.html
+      -> i.MX6DL开发板 https://www.szxinmai.com/html/2021/arm_1201/68.html
+        -> i.MX6DL 开发板 
+      -> RK3399开发板 https://www.szxinmai.com/html/2021/arm_1201/67.html
+      -> ZYNQ7010-20开发板 https://www.szxinmai.com/html/2021/zynq_1201/75.html
+      -> ZYNQ7035-45开发板 https://www.szxinmai.com/html/2021/zynq_1201/71.html
+      -> C6678_K7评估板 https://www.szxinmai.com/html/2021/zynq_1201/70.html
+      -> OMAPL138核心板 https://www.szxinmai.com/html/2021/dsp+arm_1201/74.html
+      -> AM335x核心板 https://www.szxinmai.com/html/2021/dsp+arm_1201/73.html
+      -> AM5728_Artix7核心板 https://www.szxinmai.com/html/2021/dsp%20arm%20fpga_1201/81.html
+        -> AM5728_Artix7 核心板 
+      -> C6678_K7核心板 https://www.szxinmai.com/html/2021/dsp%20arm%20fpga_1201/76.html
+      -> C665x_Artix7核心板 https://www.szxinmai.com/html/2021/dsp%20c6000_1201/80.html
+      -> i.MX8M_Mini_Artix7核心板 https://www.szxinmai.com/html/2021/arm+fpga_1201/87.html
+        -> i.MX8M_Mini_Artix7 核心板 
+      -> i.MX6DL_Spatan6核心板 https://www.szxinmai.com/html/2021/arm+fpga_1201/83.html
+        -> i.MX6DL_Spatan6 核心板 
+      -> RK3399_Lattice核心板 https://www.szxinmai.com/html/2021/arm+fpga_1201/82.html
+        -> RK3399_Lattice 核心板 
+      -> i.MX8M_Mini核心板 https://www.szxinmai.com/html/2021/zynq_1201/90.html
+        -> i.MX8M_Mini 核心板 
+      -> i.MX6DL核心板 https://www.szxinmai.com/html/2021/zynq_1201/86.html
+        -> i.MX6DL 核心板 
+      -> RK3399核心板 https://www.szxinmai.com/html/2021/zynq_1201/85.html
+        -> RK3399 核心板 
+      -> ZYNQ_7035-45核心板 https://www.szxinmai.com/html/2021/zynq_1201/89.html
+        -> ZYNQ_7035/45 核心板 
+      -> OMAPL138高速数据采集智能网关 https://www.szxinmai.com/html/2021/gaoxingnengwangguan_1201/95.html
+        -> OMAPL138 高速数据采集智能网关 
+      -> ZYNQ_PLC智能网关 https://www.szxinmai.com/html/2021/gaoxingnengwangguan_1201/94.html
+        -> ZYNQ_PLC 智能网关 
+      -> XM工业故障诊断云平台 https://www.szxinmai.com/html/2021/yunpingtai_1201/102.html
+        -> XM 工业故障诊断云平台 
+      -> XM工业故障诊断采集器 https://www.szxinmai.com/html/2021/yunpingtai_1201/98.html
+        -> XM 工业故障诊断采集器 
+      -> AM5728_Max10_Ethercat开发板 https://www.szxinmai.com/html/2021/yejingping_1201/100.html
+        -> AM5728_Max10_Ethercat 开发板 
+    -> 行业方案 
+      -> 智慧交通 http://szxinmai.com/index.php?m=content&c=index&a=lists&catid=153
+        -> 基于 TI AM335x 高铁控制室机柜板卡 
+    -> 技术服务 
+      -> 软件设计服务 http://www.szxinmai.com/index.php?m=content&c=index&a=lists&catid=57
+        -> RK3568+鸿蒙/安卓/Lin 
+        -> RK3399 鸿蒙/安卓/Linu 
+        -> XM 工业故障诊断数字化 
+        -> XM 智能网联汽车物联平 
+        -> 映美精 USB 3.0 黑白 
+        -> USB3.1 彩色 映美精 
+        -> USB2.0 彩色映美精工业 
+        -> USB2.0 黑白映美精工业 
+        -> 映美精 USB 3.0 黑白 
+        -> 映美精 USB 3.0 彩色 
+        -> 映美精 GigE 黑白工业相 
+        -> 自动核酸提取仪 
+        -> 医疗监护仪 
+        -> PCR 基因扩增仪 
+        -> 特定蛋白分析仪 
+        -> 医学影像 HMI 
+        -> 麻醉深度监测仪 
+        -> 基于 ARM/DSP 的高性 
+        -> 便携式无线抄表方案 
+        -> 气象监测分析仪 
+        -> 5G 智能网关 
+        -> 环境数据采集单元 
+        -> 智能垃圾箱 
+        -> 污染源在线监测 
+        -> 在线红外热像仪 
+        -> 特高压输电线监测 
+        -> 电力数据采集 
+        -> 充电桩计费控制单元 
+        -> 电力无线频谱仪 
+        -> TPMS 胎压检测解决方案 
+        -> 汽车空调解决方案 
+        -> 基于 TI AM335x 高铁控 
+        -> 高速广域雷达测速仪 
+        -> 列车驾驶舱显示终端 
+        -> 特种车辆牵引控制 
+        -> 无线地磁车辆检测 
+        -> 网约车监控黑匣子 

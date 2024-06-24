@@ -1,0 +1,12 @@
+产品网址：http://en.golden-chip.com/product-5-4.aspx
+产品结构：root->全部产品_GoChipElectronicTechnology(Shanghai)Co.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|电感式接近开关专用集成电路|无|通过外部电感电容构建 LC 高频谐振电路，在谐振回路中产生交变磁场。当检测到的金属目标接近该磁场并达到感应距离时，在检测到的金属目标中产生涡流，振荡器的能量被吸收，导致振荡器振幅减小或停止振动。振荡器振荡和停止振动的变化由后级放大器电路处理，并转换为开关信号，触发驱动控制装置，从而实现非接触检测的目的。|
+
+Model,Package form,Voltage range,Output current,Switching frequency (typ),Temperature range,Unnamed: 7
+GC5505P,SOP-16L,4.0Vdc-40.0Vdc,70mA,5KHz,-40℃~125℃,Download
+GC5515S,DFN-14L,4.0Vdc~40.0Vdc,70mA,5KHz,-40℃~125℃,Download
+GC5355P,SOP-8L,4.0Vdc~40.0Vdc,70mA,5KHz,-40℃~125℃,Download
+GC5597P,SOP-16L,4.0Vdc~40.0Vdc,70mA,5KHz,-40℃~125℃,Download

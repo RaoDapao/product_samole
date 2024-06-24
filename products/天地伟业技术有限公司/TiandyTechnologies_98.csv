@@ -1,0 +1,69 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/697.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Network Camera|TC-C32RN|·Plastic housing<br>·S+265/H.265/H.264B/H.264M/H.264H<br>·Color:0.02Lux@(F1.6,AGC ON),B/W:0Lux with IR<br>·IR Range 50m<br>·Built-in Mic<br>·Support Smart surveillance<br>·Operating Conditions -30℃~60℃(No turning on the light), Humidity 95% or less (no condensation)<br>·DC12V±25%,MAX 7.5W, POE 802.3af,MAX 8.5W<br>·IP67|
+
+Camera,Unnamed: 1
+Image Sensor,"1/3""CMOS"
+Min. Illumination,"Color:0.02Lux@(F1.6,AGC ON),B/W:0Lux with IR"
+Shutter Time,1s~1/100000s
+Day&Night,IR-cut filter with auto switch (ICR)
+WDR,DWDR
+S/N,>36dB
+Angle Adjustment,0~350°(P); 0~90°(T); 0~360°(R)
+Lens,
+Lens Type,Fixed focal lens
+Focal Length,2.8mm
+Lens Mount,M12
+Aperture Range,F1.6
+Field of View,92.8°(H); 52.2°(V); 106.5°(D)
+DORI Distance,Detect:42.26m Observe:16.77m Recognize:8.45m Identify:4.23m
+Illuminator,
+IR LEDs,6
+IR Distance,50m
+Wavelength,850nm
+Compression Standard,
+Video Compression,S+265/H.265/H.264B/H.264M/H.264H
+Video Bit Rate,32k~4Mbps
+Audio Compression,G.711A/G.711U
+Audio Sampling Rate,8kHz/16kHz
+Image,
+Max. Resolution,1920×1080@30fps
+Main Stream,"PAL:25fps(1920×1080, 1280×720, 640×480, 704×576) NTSC:30fps(1920×1080, 1280×720, 640×480, 704×480)"
+Sub Stream,"PAL:25fps(704×576, 704×288, 640×360, 352×288) NTSC:30fps(704×480, 704×240, 640×360, 352×240)"
+BLC,Yes
+HLC,Yes
+AGC,Yes
+3D DNR,Yes
+White Balance,Auto/Semi-Auto/Manual/Sunshine/Nature Light/Warmlight Lamp/Daylight Lamp/Filament Lamp/Lock White Balance
+OSD,"Overlay of additional characters in 1 regions, 1 line, with a maximum of 48 characters or 16 Chinese characters per region; 16*16/32*32/48*48"
+Privacy Mask,4 black static areas
+Defog,Yes
+Feature,
+Alarm Trigger,Motion Detection; IP Address Conflict
+Linkage Method,trigger capture
+Network,
+Protocols,HTTP; TCP/IP; UDP; ICMP; DHCP; DNS; NTP; IPv4; SSH; Unicast; RTSP; FTP
+System Compatibility,P2P(Mutually exclusive with Profile G); ONVIF Profile S/T; CGI; Milestone
+Remote Connection,≤2
+Client,Easy7 Smart Client
+Moblie Client,EasyLive Plus
+Interface,
+Communication Interface,"1*RJ-45,10/100 Mbps self-adaptive Ethernet port"
+General,
+Web Client Language,18 languages Simple Chinese/Traditional Chinese/English/Spanish/Korean/Italian/Turkish/Russian/Thai/French/Polish/Dutch/Hebrew/Arabic/Vietnamese/German/Ukrainian/Portuguese
+Operating Temperature,-30℃~60℃(No turning on the light)
+Operating Humidity,Humidity 95% or less (no condensation)
+Storage Temperature,-30℃~60℃
+Storage Humidity,Humidity 95% or less (no condensation)
+Power Supply,"DC12V±25%,MAX 7.5W; POE 802.3af,MAX 8.5W"
+Protection,Surge4000V; ESD6000V; IP67
+Boundary Dimensions,260(L)133(W)140(H)mm
+Package Dimensions,315(L)145(W)140(H)mm
+GrossWeight,0.87kg
+
+
+Date,Title,Type
+2024-04-07,1D.20010.020286_TC-C32RN I5EYQX2.8mmV4.2_en,pdf

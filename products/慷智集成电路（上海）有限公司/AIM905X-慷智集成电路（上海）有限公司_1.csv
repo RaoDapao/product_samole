@@ -1,0 +1,6 @@
+产品网址：https://en.aimicron.com/Products/30
+产品结构：root->AIM905X-慷智集成电路（上海）有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|INTELLIGENT AUTOMOTIVE HIGH-DEFINITION AUDIO AND VIDEO TRANSMISSION SERDES CHIPSETS|AIM905X|DVP 并行图像输入像素时钟最快可达 150MHz；AHDL-II 单通道串行输出；支持 720P 至高达 1M 像素的相机；能够通过单根同轴电缆或屏蔽双绞线（STP）传输高速视频、双向控制数据和电源；强大的 EMI/EMC 耐受性和最小功耗；能够进行长距离传输；多个 GPIO，支持向相机输出帧同步；视频/控制数据的错误检测/纠正（ECC/CRC）；内置自测（BIST）和片上视频模式发生器，用于系统诊断；单 1.8V 电源，IO 支持 1.8V 和 3.3V；AEC-Q100 2 级和 ESD 保护；32 引脚（6mm*6mm）QFN 封装|

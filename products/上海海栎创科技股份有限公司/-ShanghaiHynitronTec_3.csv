@@ -1,0 +1,6 @@
+产品网址：http://en.hynitron.com/product/wearable/239
+产品结构：root->-ShanghaiHynitronTechnologyCo.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|无|CST9220|Ultra-low power consumption self-interactive multi-touch chip，具有自交互集成检测模块，支持在线编程；支持多达 20 个驱动和感应通道，可灵活互换，支持 DITO 和 SITO 及各种图案；典型刷新率 100Hz；I2C 主/从通信，速率 50Khz~400Khz 可配置，兼容 1.8V/VDDA 接口电平；单电源 2.8~3.6V，电源纹波<=50mv；封装类型为 WLCSP 30ball：2.15mm×2.15mm×0.46T。应用于手表、手镯、扫描笔等。|

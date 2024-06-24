@@ -1,0 +1,23 @@
+-> root http://www.xdxb.com.cn
+  -> 首页 
+    -> 产品服务 http://www.xdxb.com.cn/cpfw.htm
+        -> “昌吉—古泉”±1100kV 特高压直流输电工程 
+        -> “巴基斯坦默蒂亚里--拉合尔”660kV 直流输电工程首台默蒂亚里站 330kV 换流变压器 
+        -> “锡盟-泰州” ±800kV 特高压直流输电工程 
+        -> 自主研制成功世界首台 500kV 100MVA 串联变压器 
+        -> 广西防城港核电二期“华龙一号”工程 
+      -> 智慧服务移动云平台 http://www.xdxb.com.cn/cpfw/zhfwydypt.htm
+    -> 产品中心 
+      -> 交流产品 http://www.xdxb.com.cn/cpzx/jlcp.htm
+        -> 正文 http://www.xdxb.com.cn/info/1012/1457.htm
+      -> 直流产品 http://www.xdxb.com.cn/cpzx/zlcp.htm
+        -> 正文_1 http://www.xdxb.com.cn/info/1011/1456.htm
+      -> 特种变压器产品 http://www.xdxb.com.cn/cpzx/tzbyqcp.htm
+        -> 正文_2 http://www.xdxb.com.cn/info/1013/1458.htm
+      -> 配电变压器产品 http://www.xdxb.com.cn/cpzx/pdbyqcp.htm
+        -> 正文_3 http://www.xdxb.com.cn/info/1014/1459.htm
+    -> 产品中心共4条首页上页1下页尾页 http://www.xdxb.com.cn/cpzx.htm
+      -> 科研成果 
+        -> 西电西变产品标准化成果 
+        -> 西电西变国家级鉴定新产品 
+        -> 西电西变新产品研发情况 

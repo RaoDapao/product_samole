@@ -1,0 +1,7 @@
+产品网址：http://www.microscapes.com.cn/product1.html#
+产品结构：root->SiteMap-SiteMap
+
+|产品名称|Barde 工具|
+|----|----|
+|产品型号|无|
+|功能描述|针对 PDK 进行 QA 的图形化验证工具，主要功能包括 Pcell QA 和 LVS Runset QA。Pcell QA 可自动验证 Pcell 的 LVS 正确性、仿真参数、连接性、CDF 参数、不同版本差异、ERC 正确性、Layer 一致性等；LVS Runset QA 可自动验证 LVS 的器件 property、仿真参数、连接性、ERC 正确性、Layer 一致性、Lvs Code 语法等。此外，Barde 工具还具有自动化程度高、连接关系自动生成与验证、独特的分组参数设置功能、支持先进工艺验证、验证流程支持主流工具、采用并行处理技术、生成多种报告文件等优势。|

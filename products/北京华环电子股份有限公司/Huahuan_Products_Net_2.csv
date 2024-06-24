@@ -1,0 +1,7 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=49&ncid=88
+产品结构：root->Huahuan_Products_NetworkManagementSystem
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|GPON ONT|H18GN ONT/ONU Series|为用户提供三网合一服务，支持视频、高速互联网接入等全业务。|
+|OLT|H18GL-G1600|提供 8 个下行 GPON 端口、8 个上行 GE 光口和 8 个 GE 电口，支持 SLA 和 DBA，可接入 2 个 10GE SFP+端口，节省空间，支持不同类型的 ONU。|

@@ -1,0 +1,30 @@
+产品网址：http://icpc.cn/cms/item/view?table=product&id=94
+产品结构：root->RCS177Bi736126UCPCI主板-系统框图-北京捷世智通科技股份有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|X86 主板|RCS177B i73612 6U CPCI 主板|Intel 第三代 Ivy Bridge 核心 Core i7 系列处理器，双通道 DDR3 内存，后出线支持 1 路 PCIe 1.0 x8，1 路 PCIe 1.0 x4，板载 2.5 寸硬盘接口，支持 SATA Gen3 6Gbps，支持 USB3.0，丰富的显示接口，4 路千兆以太网，支持风冷或冷板散热，支持多种操作系统，支持宽温工作|
+
+
+
+
+处理器,Intel® Core™ I7 3612处理器，2.1GHZ，6MB，35W,Intel® Core™ I7 3612处理器，2.1GHZ，6MB，35W.1
+BIOS,AMI EFI BIOS，64MB SPI内存,AMI EFI BIOS，64MB SPI内存
+芯片组,Intel® QM77 PCH,Intel® QM77 PCH
+内存,双通道DDR3内存，一个通道板贴4GB，一个通道S0-DIMM最高支持8GB,双通道DDR3内存，一个通道板贴4GB，一个通道S0-DIMM最高支持8GB
+存储,"一个6Gb/s SATA连接器，用于安装2.5˝硬盘（可拆卸）2个Mini  PCIe标准接口,后走线支持三个SATA端口","一个6Gb/s SATA连接器，用于安装2.5˝硬盘（可拆卸）2个Mini  PCIe标准接口,后走线支持三个SATA端口"
+显示,集成于Intel® HD Graphics 4000处理器  前面板VGA显示输出  通过后走线实现一个DVI、一个DP和一个VGA,集成于Intel® HD Graphics 4000处理器  前面板VGA显示输出  通过后走线实现一个DVI、一个DP和一个VGA
+USB,前面支持一个USB 3.0，两个USB2.0端口  后走线板支持一个USB3.0端口，五个USB2.0端口,前面支持一个USB 3.0，两个USB2.0端口  后走线板支持一个USB3.0端口，五个USB2.0端口
+以太网,四个Intel® 82574L GbE（两个10/100/1000BASE-T前面板端口和两个  10/100/1000BASE-T PICMG® 2.16 J3端口,四个Intel® 82574L GbE（两个10/100/1000BASE-T前面板端口和两个  10/100/1000BASE-T PICMG® 2.16 J3端口
+音频,后面板支持高保真音频信号端口,后面板支持高保真音频信号端口
+串口,最多支持三个串口  前面板一个RJ-45 RS232端口  后走线板支持两个串口（TTL信号）连接至后面板,最多支持三个串口  前面板一个RJ-45 RS232端口  后走线板支持两个串口（TTL信号）连接至后面板
+指示灯,前面板：电源指示灯，硬盘指示灯,前面板：电源指示灯，硬盘指示灯
+键盘鼠标,后走线板支持PS/2 键盘鼠标端口,后走线板支持PS/2 键盘鼠标端口
+其他,板载锂离子纽扣电池  监控CPU 温度、系统温度、内核电压和直流电压,板载锂离子纽扣电池  监控CPU 温度、系统温度、内核电压和直流电压
+compactPCI总线,32/64位PCI，33/66MHz，3.3V或5V通用电压(I/O),32/64位PCI，33/66MHz，3.3V或5V通用电压(I/O)
+产品尺寸,6U 4HP（单槽）CompactPCI®)  233.33mm x 160mm (长X宽)  配有J1、J2、J3，J4和J5连接器,6U 4HP（单槽）CompactPCI®)  233.33mm x 160mm (长X宽)  配有J1、J2、J3，J4和J5连接器
+工作温度,详见订货信息,详见订货信息
+存储温度,-40°C ~ +85°C,-40°C ~ +85°C
+相对湿度,10% to 95%,10% to 95%
+操作系统,Microsoft Windows® Server  2000，XP，7Fedora 16，Wind River VxWorks6.9  （更多操作系统支持，请联系锐昕普电子科技有限公司）,Microsoft Windows® Server  2000，XP，7Fedora 16，Wind River VxWorks6.9  （更多操作系统支持，请联系锐昕普电子科技有限公司）
+PICMG标准,PICMG® 2.0 CompactPCI® R3.0规范  PICMG® 2.16包交换背板规范R1.0,PICMG® 2.0 CompactPCI® R3.0规范  PICMG® 2.16包交换背板规范R1.0

@@ -1,0 +1,9 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+珠海正和微芯科技有限公司,智能家居,https://www.possumic.com/productinfo/1207250.html,无,增加智能感知技术，智能家电让生活更加便捷、智能化,koogeek,8080444976,category,2761122109,banner2koogeek,5695865239,category,2761122109
+珠海正和微芯科技有限公司,60GHz AiP 毫米波雷达芯片,https://www.possumic.com/productinfo/2664449.html,RS6130,单芯片 60GHz 1T3R FMCW AiP 雷达传感器，内部集成 2.4GHz 无线连接，包括 BLE5.3/802.15.4/Thread/Matter 以及 2.4G 私有协议。专为具有超低功耗雷达感应功能而设计，包含用于低功耗管理的四种主要电源模式。创新的 EFSENS™超低功耗技术使传感器通过纽扣电池供电能够保持活动时间长达数年以上。其配置和数据采集可通过 UART/SPI/I2C 数字接口与其他设备实现。具有 FMCW 毫米波雷达、2.4GHz 无线连接、应用系统、电源管理等关键特性，主要优势包括极低功耗、超强探测、至简开发等。可应用于移动/微动/存在检测、呼吸心跳/健康监测、手势识别、门铃/摄像头、空调/冰箱、个人、平板电脑/电视、智能照明、可穿戴等场景。,root,1906551877,RS6130|企业官网,4810047067,无,0,无,0
+珠海正和微芯科技有限公司,60GHz MIMO 毫米波雷达芯片,https://www.possumic.com/productinfo/2664520.html,RS624x,无,root,1906551877,RS624x|企业官网,6913199059,无,0,无,0
+珠海正和微芯科技有限公司,RS7 系列,https://www.possumic.com/productinfo/2664522.html,无,77GHz 车规毫米波雷达芯片,root,1906551877,RS7系列|企业官网,7734174361,无,0,无,0
+珠海正和微芯科技有限公司,77GHz 车规毫米波雷达芯片,https://www.possumic.com/cpzx,RS7 系列,无,root,1906551877,无,0,无,0,无,0
+珠海正和微芯科技有限公司,工业机器人,https://www.possumic.com/productinfo/1207246.html,reliable-agv,毫米波雷达凭借探测距离远、穿透能力强、不受工作环境约束等性能优势，多应用于工业自动化领域,root,1906551877,工业机器人|企业官网,7428846341,无,0,无,0
+珠海正和微芯科技有限公司,汽车 1,https://www.possumic.com/productinfo/1207245.html,无,通过摄像头、毫米波雷达和激光雷达融合实现最优的性能,root,1906551877,智能驾驶|企业官网,4483253045,无,0,无,0
+珠海正和微芯科技有限公司,服务机器人,https://www.possumic.com/productinfo/1207248.html,无,一种半自主或全自主工作的机器人，它能完成有益于人类的服务工作,root,1906551877,服务机器人|企业官网,5554595699,无,0,无,0

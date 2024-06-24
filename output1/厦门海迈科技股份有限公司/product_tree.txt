@@ -1,0 +1,41 @@
+-> root http://hymake.com
+  -> 产品体系-海迈科技-建筑数据服务商 http://hymake.com/productSystem?active=0
+    -> 算量软件 
+    -> 计价软件 
+    -> BIM 产品 
+    -> 造价会员制平台 
+    -> 招投标评估评审软件 
+    -> 电子交易平台 
+    -> 交易服务平台 
+    -> 工程建设监管平台 
+    -> 电子档案平台 
+    -> 勘察设计管理平台 
+    -> 项目视频监管平台 
+    -> BIM 数字运维平台 
+    -> 商品房价格评估调控系统 
+  -> 算量软件详情页-海迈科技-建筑数据服务商 http://hymake.com/productSystem/coreProducts/calculationSoftware
+  -> 计价软件详情页-海迈科技-建筑数据服务商 http://hymake.com/productSystem/coreProducts/priceSoftware
+  -> 海迈BIM产品详情页-海迈科技-建筑数据 http://hymake.com/productSystem/coreProducts/BIMProduct
+    -> 海迈 BIM 产品 
+    -> 海迈 BIM 族空间 
+    -> 海迈 BIM 建模（土建） 
+    -> 海迈 BIM 建模（机电） 
+    -> 海迈 BIM 建模（施工） 
+    -> 海迈 BIM 算量（土建） 
+    -> 海迈 BIM 算量（机电） 
+    -> 海迈 BIM 装饰装修 
+    -> 海迈 BIM 施工进度成本可视化管理 
+    -> 海迈 BIM 招投标 
+  -> 造价会员制平台详情页-海迈科技-建筑数据 http://hymake.com/productSystem/coreProducts/costMembership
+  -> 招投标评估评审软件详情页-海迈科技-建筑 http://hymake.com/productSystem/basicProducts/biddingEvaluationReviewSoftware
+  -> 电子交易平台详情页-海迈科技-建筑数据服 http://hymake.com/productSystem/basicProducts/electronicTradingPlatform
+  -> 交易服务平台详情页-海迈科技-建筑数据服 http://hymake.com/productSystem/basicProducts/tradingServicePlatform
+  -> 工程建设监管平台详情页-海迈科技-建筑数 http://hymake.com/productSystem/basicProducts/engineeringConstructionSupervisionPlatform
+  -> 产品体系-海迈科技-建筑数据服务商_1 http://hymake.com/productSystem?active=2
+  -> 电子档案平台详情页-海迈科技-建筑数据服 http://hymake.com/productSystem/extendedProducts/electronicFilePlatform
+  -> 产品体系-海迈科技-建筑数据服务商_2 http://hymake.com/productSystem?active=3
+  -> 勘察设计管理平台-海迈科技-建筑数据服务 http://hymake.com/productSystem/additionalProducts/surveyAndDesignManagementPlatform
+  -> 项目视频监管平台详情页-海迈科技-建筑数 http://hymake.com/productSystem/additionalProducts/projectVideoMonitoringPlatform
+  -> 产品体系-海迈科技-建筑数据服务商_3 http://hymake.com/productSystem?active=4
+  -> BIM数字运维平台详情页-海迈科技-建筑 http://hymake.com/productSystem/potentialProducts/BIMDigitalOperationAndMaintenancePlatform
+  -> 商品房价格评估调控系统详情页-海迈科技- http://hymake.com/productSystem/potentialProducts/commercialHousingPriceEvaluationAndControlSystem

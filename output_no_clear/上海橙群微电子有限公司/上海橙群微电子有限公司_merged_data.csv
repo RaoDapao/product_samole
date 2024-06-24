@@ -1,0 +1,7 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+上海橙群微电子有限公司,SwiftRadio™ SoC,https://www.inplay-tech.cn/pro_swift,IN612L,具有超低功耗的射频和系统设计、多模式协作协议栈（蓝牙 5 和软件无线电）以及简易的编程工具支持,root,1906551877,InplayTech,5928971007,无,0,无,0
+上海橙群微电子有限公司,SwiftRadio 产品系列,https://www.inplay-tech.cn/p/product.html,IN300、IN310、IN610、IN610L、IN612L,作为橙群微电子首个低功耗，支持多协议栈的无线物联网系统级单芯片，提供给无线物联网应用开发者灵活高效的技术平台，包括 StellarNet 千点网络组网协议，蓝牙 5 全特性协议栈和 SecureRadio 安全引擎等特性,root,1906551877,无,0,无,0,无,0
+上海橙群微电子有限公司,SMULL 产品系列,https://www.inplay-tech.cn/p/product.html,IN618,发明了一项突破性的无线通信技术 SMULL（同步多节点超低延时），专门为那些对延时最苛刻的无线应用所设计，从而实现多节点、低延时、双向通信的功能。将可靠性、高性能和低功耗无线连接整合到一个产品组合中。此外，灵活性和易用性是设计理念的核心价值,root,1906551877,无,0,无,0,无,0
+上海橙群微电子有限公司,NanoBeacon 产品系列,https://www.inplay-tech.cn/p/product.html,IN100,为赋能万物互联市场需求，创造性提出 NanoBeacon 技术概念，该技术彻底颠覆传统无线技术应用对软件嵌入式工程师的依赖，通过创新简洁的设计，让无线连接无处不在,root,1906551877,无,0,无,0,无,0
+上海橙群微电子有限公司,Stellar BLE 网关,https://www.inplay-tech.cn/a/112.html,无,高吞吐量和低延迟，确保快速传输和处理数据；扩展范围，以更少的节点覆盖更多的地面，简化网络设置；无缝集成，通过工业标准 mini-PCIe 接口与现有系统兼容，升级无忧；双协议支持，使用标准 BLE 和 InPlay 的专有协议运行，以增加灵活性,root,1906551877,无,0,无,0,无,0
+上海橙群微电子有限公司,光供电 BLE 开关 4EverSwitch,https://www.inplay-tech.cn/a/110.html,无,采用 Lightricity 最先进的光伏电池，实现可持续的超低功耗；可在弱光条件下运行，在黑暗中也能保持功能数月；快速能量恢复，只需几秒钟的光照就能为系统充电；与标准开关框架兼容，完全密封，工作温度范围广,root,1906551877,无,0,无,0,无,0

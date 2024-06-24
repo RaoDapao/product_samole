@@ -1,0 +1,168 @@
+-> root http://www.weihong.com.cn
+  -> 产品中心_维宏股份官网 http://www.weihong.com.cn/chanpinzhongxin
+    -> 运动控制卡 
+    -> 集成数控 
+    -> 集成数控 
+    -> 集成数控 
+    -> 集成数控 
+    -> 智能数控 
+    -> 智能数控 
+    -> 智能数控 
+    -> 智能数控 
+    -> 智能数控 
+    -> WISE 伺服驱动器 
+    -> WISE 伺服驱动器 
+    -> WISE 伺服驱动器 
+    -> 高精配件 
+    -> 高精配件 
+    -> 高精配件 
+    -> 高精配件 
+    -> 高精配件 
+    -> 工业物联网 
+    -> WiseCAM 软件 
+    -> WiseCAM 软件 
+  -> 产品文档 http://doc.weihong.com.cn:8889
+    -> 平面坡口 
+    -> 中低功率系统 
+    -> 中功率系统 
+    -> 中高功率系统 
+    -> 高功率系统 
+    -> 双头双梁卷料 
+    -> 双头双梁高功率 
+    -> 精密视觉定位系统 
+    -> 小功率系统 
+    -> 平面功能 
+    -> 常见问题 
+    -> 单卡拉料 
+    -> 专业切管系统-双卡盘 
+    -> 专业切管系统-四卡盘 
+    -> 板管一体系统 
+    -> 管切功能 
+    -> 平面独立套料软件 
+    -> 管切独立套料软件 
+    -> 管切独立套料软件 
+    -> 配套硬件 
+    -> 开料机数控系统 
+    -> 贴标数控系统 
+    -> 贴标开料数控系统 
+    -> 门套机贴标开料数控系统 
+    -> 中控 
+    -> 七轴六面钻数控系统 
+    -> 九轴六面钻数控系统 
+    -> 石材加工中心数控系统 
+    -> 三轴雕刻数控系统 
+    -> 四轴雕刻数控系统 
+    -> CCD 雕刻数控系统 
+    -> NK105 三轴集成数控系统 
+    -> NK105 四轴集成数控系统 
+    -> NK280B 集成数控系统 
+    -> NK300CX 集成数控系统 
+    -> 三轴水切割数控系统 
+    -> 五轴 AB 水切割数控系统 
+    -> 五轴 AC 水切割数控系统 
+    -> 两轴玻璃切割数控系统 
+    -> 四轴玻璃切割数控系统 
+    -> CCD 玻璃切割数控系统 
+    -> NK300CX 集成数控 
+    -> V9 大玻璃磨边数控系统 
+    -> NK280B 双头总线集成数控 
+    -> V12 单 CCD 数控系统 
+    -> NK300CX 多通道集成数控 
+    -> V12 双 CCD 数控系统 
+    -> V10 四轴及三轴双 Z 雕铣数控系统 
+    -> V10 三轴及三轴双 Z 雕铣数控系统 
+    -> NK280B GD60 磨刀机集成数控 
+    -> V9 义齿机数控系统 
+    -> Phoenix 雕刻数控系统 
+    -> NK300CX 鞋模机集成数控 
+    -> NK280B 外圆磨床集成数控 
+    -> NK530M 集成数控 
+    -> NK210T 车床集成数控系统 
+    -> 维智 A 系列伺服 
+    -> 维智 A 系列伺服 
+    -> 维智 A 系列伺服 
+    -> 维智 A2 系列伺服 
+    -> 维智 B1 系列伺服 
+    -> 维智 B1 系列伺服 
+    -> 维智朗驱多轴 
+    -> 维智朗驱多轴 
+    -> 维智 Mini 多轴伺服 
+    -> 维智 A 系列直线伺服 
+    -> 维智 A 系列直线伺服 
+    -> 维智 A 系列直线伺服 
+    -> 维智主轴伺服 
+    -> 维智主轴伺服 
+    -> 维智主轴伺服 
+    -> VT1000A1 
+    -> VT310E 
+    -> VT320E 
+    -> 工控机 
+    -> 一体机 
+    -> 朗达控制器 
+    -> 扩展端子板 
+    -> NcGateway 数据网关 
+    -> NcCloud 维宏云 
+    -> xFactory 智能工厂 
+    -> NcStudio 编程 
+    -> Phoenix 平台二次开发 
+    -> 注册管理工具 
+  -> 首页 
+    -> 产品中心 
+      -> 车床数控系统 http://www.weihong.com.cn/plus/view.php?aid=423
+  -> PM95A_维宏股份官网 http://www.weihong.com.cn/chanpinzhongxin/yundongkongzhika/20160422/15.html
+  -> NK530M系列_维宏股份官网 http://www.weihong.com.cn/chanpinzhongxin/jichengshukong/20200511/475.html
+  -> NK300MA_维宏股份官网 http://www.weihong.com.cn/chanpinzhongxin/jichengshukong/20221206/648.html
+  -> NK300系列_维宏股份官网 http://www.weihong.com.cn/chanpinzhongxin/jichengshukong/20160424/18.html
+  -> NK200系列_维宏股份官网 http://www.weihong.com.cn/chanpinzhongxin/jichengshukong/20160424/17.html
+    -> NK105 Banner 
+    -> NK260/NK280 
+  -> NC65系列_维宏股份官网 http://www.weihong.com.cn/chanpinzhongxin/zhinenshukong/20160424/19.html
+  -> NC60A_维宏股份官网 http://www.weihong.com.cn/chanpinzhongxin/zhinenshukong/20180824/335.html
+  -> NK105系列_维宏股份官网 http://www.weihong.com.cn/chanpinzhongxin/zhinenshukong/20160424/21.html
+  -> EPC1100系列_维宏股份官网 http://www.weihong.com.cn/chanpinzhongxin/zhinenshukong/20221205/645.html
+  -> EPC2000系列_维宏股份官网 http://www.weihong.com.cn/chanpinzhongxin/zhinenshukong/20221206/646.html
+  -> 维智B1系列（WSDA）总线型伺服驱动器 http://www.weihong.com.cn/chanpinzhongxin/sifuqudong/20160417/13.html
+  -> Mini多轴伺服驱动器_维宏股份官网 http://www.weihong.com.cn/chanpinzhongxin/sifuqudong/20221206/647.html
+  -> 维智主轴（WSDS）驱动器_维宏股份官网 http://www.weihong.com.cn/chanpinzhongxin/sifuqudong/20200328/467.html
+  -> VT320系列_维宏股份官网 http://www.weihong.com.cn/chanpinzhongxin/gaojingpeijian/20221206/649.html
+  -> VT1000系列_维宏股份官网 http://www.weihong.com.cn/chanpinzhongxin/gaojingpeijian/20221206/650.html
+  -> 手摇脉冲发生器_维宏股份官网 http://www.weihong.com.cn/chanpinzhongxin/gaojingpeijian/20160417/11.html
+    -> 维宏对刀仪 
+    -> 维宏手摇脉冲发生器 
+  -> AC五轴头系列_维宏股份官网 http://www.weihong.com.cn/chanpinzhongxin/gaojingpeijian/20180531/317.html
+  -> CCD_维宏股份官网 http://www.weihong.com.cn/chanpinzhongxin/gaojingpeijian/20160424/22.html
+  -> WiseCAMforSheetMetal http://www.weihong.com.cn/chanpinzhongxin/CAD/2023/1109/698.html
+  -> WiseCAMforTube_维宏股份官 http://www.weihong.com.cn/chanpinzhongxin/CAD/2023/1109/697.html
+  -> 产品文档_1 http://doc.weihong.com.cn:8889/zh-cn/doc/landing_download_pages/index.html
+  -> 产品简介 http://doc.weihong.com.cn:8889/zh-cn/doc/laser/LS2000M/cn/01.interface/product_introduction_2.html
+  -> 产品简介_1 http://doc.weihong.com.cn:8889/zh-cn/doc/laser/LS3000/cn/01.interface/product_introduction_3.html
+  -> 产品简介_2 http://doc.weihong.com.cn:8889/zh-cn/doc/laser/LS4000M/cn/machine/product_introduction.html
+  -> 产品简介_3 http://doc.weihong.com.cn:8889/zh-cn/doc/laser/LS6000/cn/machine/product_introduction.html
+  -> 产品简介_4 http://doc.weihong.com.cn:8889/zh-cn/doc/laser/LS6500/cn/machine/overview.html
+  -> 产品简介_5 http://doc.weihong.com.cn:8889/zh-cn/doc/laser/LS6800/cn/topic_mfr/product/system_intro.html
+  -> 功能介绍 http://doc.weihong.com.cn:8889/zh-cn/doc/laser/%E5%8A%9F%E8%83%BD%E6%96%87%E6%A1%A3/%E5%B9%B3%E9%9D%A2/%E9%9A%8F%E5%8A%A8-cn/product/overview.html
+  -> 产品描述-cam http://doc.weihong.com.cn:8889/zh-cn/doc/wisecam/01.wisecam_plane/01.product/01.about.html
+  -> PM95A http://doc.weihong.com.cn:8889/zh-cn/doc/laser/%E9%85%8D%E5%A5%97%E7%A1%AC%E4%BB%B6/common/product_hardware/control_card_pm95a.html
+  -> NC60A http://doc.weihong.com.cn:8889/zh-cn/doc/product_hardware/cnc_controller_nc60a.html
+  -> NK280B一体机 http://doc.weihong.com.cn:8889/zh-cn/doc/product_hardware/cnc_controller_nk280b.html
+  -> 产品介绍 http://doc.weihong.com.cn:8889/zh-cn/doc/hardware/VT310E/00.VT310E.html
+  -> EMC安装指导 http://doc.weihong.com.cn:8889/zh-cn/doc/product_hardware/EMC.html
+  -> Products_weihong http://www.weihong.com.cn/en/products
+    -> CNC Controller Motion Card PM95A 
+    -> Integrated CNC Controller NK300CX 
+    -> Integrated CNC Controller NK280 Series 
+    -> CNC Controller PC System NC65C 
+    -> CNC Controller DSP NK105 G2/G3 
+    -> CNC Controller PC System NC68A 
+    -> CNC Controller PC System NC60A 
+    -> RC Robot Arm Series Controller 
+    -> CCD Camera 
+    -> Laser Cutting Head 
+    -> WISE B1 Series Servo Driver 
+    -> Mini Multi-Axis Servo Drive 
+    -> WISE Spindle Drive (WSDS) 
+    -> Manual Pulse Generator Handwheel 
+    -> Automatic Measurement Tool Sensor 
+    -> Waterjet Five-axis Cutting Head 
+  -> WISEServoDrive&Motor http://www.weihong.com.cn/en/products/controller/20240528/28.html
+  -> WISEServoDrive&Motor_1 http://www.weihong.com.cn/en/products/servodrive/20160417/13.html

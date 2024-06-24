@@ -1,0 +1,16 @@
+-> root https://www.njzkwiot.com
+  -> 产品中心_5 https://www.njzkwiot.com/html/product.html
+    -> 2.4GHz 无线射频芯片 
+    -> 2.4GHz 无线 MCU 芯片 
+    -> RISC-V 核低功耗 MCU 
+    -> 13.56MHz 非接触式读写器芯片 
+    -> 触摸芯片 
+    -> 125KHz 低频接收唤醒芯片 
+    -> 总线收发器芯片 
+  -> 2.4GHz无线射频芯片 https://www.njzkwiot.com/html/product-2.4.html
+  -> 2.4GHz无线MCU芯片 https://www.njzkwiot.com/html/product-2.4MCU.html
+  -> RISC-V核低功耗MCU https://www.njzkwiot.com/html/product-RISCV.html
+  -> 13.56MHz非接触式读写器芯片 https://www.njzkwiot.com/html/product-13.56M.html
+  -> 触摸芯片 https://www.njzkwiot.com/html/product-touch.html
+  -> 125KHz低频接收唤醒芯片 https://www.njzkwiot.com/html/product-125K.html
+  -> 总线收发器芯片 https://www.njzkwiot.com/html/product-all.html

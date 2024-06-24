@@ -1,0 +1,19 @@
+产品网址：https://www.len-technology.com/about-us/news-events/media-exhibitions/68
+产品结构：root->展会|瓴芯携全系列车规产品参展慕尼黑华南电子展-展会
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|一级 DC-DC|LN10x41(2)Q1|36V，0.8A(2A)，PFM/FPWM 可选，展频 DC-DC|
+|一级 DC-DC|LN10x43Q1|36V，3A，PFM/FPWM 可选，展频 DC-DC|
+|一级 DC-DC|LN10x46(4)Q1|36V，6A(4A)，PFM/FPWM 可选，展频 DC-DC|
+|二级 DC-DC|LN10001(2)(3)(4)Q1|5.5V，1A(2A)(3A)(4A)，PFM/FPWM 可选，随机展频 DC-DC|
+|一级 LDO|LN20x41Q1|42V，100mA，低静态电流，可调输出 LDO|
+|一级 LDO|LN20x42Q1|42V，200mA，低静态电流，可调输出 LDO|
+|一级 LDO|LN20x45Q1|42V，450mA，低静态电流，可调输出 LDO|
+|一级 LDO|LN22043Q1|40V，300mA，低静态电流，看门狗+欠压检测 LDO|
+|二级 LDO|LN20005(6)Q1|5.5V，500mA(1A)，低静态电流，可调输出 LDO|
+|高边驱动开关|LNQ37000Q1|4 通道 40V，1000mohm，智能诊断高边开关|
+|高边驱动开关|LNQ37160Q1|4 通道 40V，160mohm，智能诊断高边开关|
+|高边驱动开关|LNQ37100Q1|单通道 36V，100mohm，智能诊断高边开关|
+|LDO|LN22043Q1|DFN-12(3mmx3mm)封装的小尺寸电源管理芯片，集成了看门狗、输入电压欠压报错功能、输出过欠压报错功能、40V/300mA LDO 功能|
+|LDO|LN20005(6)Q1|二级低压 500mA(1A)的 LDO 产品|

@@ -1,0 +1,64 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+瓴芯电子科技（无锡）有限公司,DC-DC,https://www.len-technology.com/en/products/dc-dc,无,提供具有不同电压容差和电流额定值的产品矩阵,DC|DC,8717090980,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,车规级单通道 100mΩ 智能高边开关,https://www.len-technology.com/en/about-us/news-events/industry-trends/65,LNS37100Q1,导通电阻为 100mΩ，持续工作电流可支持 4A，具有高精度的电流检测功能，支持多种故障状态诊断报错与保护；可以通过外部电阻灵活的配置输出限流值，可以实现过流和短路保护；还具备失地保护和失电保护功能，极大地提高整个系统的安全性和可靠性,DIAG,681608176,EN,8275054002,无,0,无,0
+瓴芯电子科技（无锡）有限公司,High Side Switch,https://www.len-technology.com/en/products/high-side-driver-chip,无,"Can drive various types of loads, including inductive, capacitive, and resistive.",HighSideSwitch,5442175878,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,LDO,https://www.len-technology.com/en/products/linear-regulators,无,Possesses technical advantages such as low quiescent current and good transient response.,LDO,71074154,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,LED Driver,https://www.len-technology.com/en/products/led,无,Possesses technical advantages such as high input voltage tolerance and fast transient response.,LEDDriver,5379218971,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,LED 驱动芯片,https://www.len-technology.com/products/led,无,具有输入耐压高，瞬态响应快的技术优势,LED驱动芯片,3518937422,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,DC-DC,https://www.len-technology.com/en/products/dc-dc/dc-dc-details/ln10x41,LN10X41Q1,"Automotive, 36V, 6A, Synchronous Step-Down Regulator",LN10X41Q1|DCDC,9538707029,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,开关稳压器,https://www.len-technology.com/products/dc-dc/dc-dc-details/ln10x41,LN10X41Q1,车规级，36V，0.8A，同步降压转换器,LN10X41Q1|开关稳压器,4976108188,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,DC-DC,https://www.len-technology.com/en/products/dc-dc/dc-dc-details/ln10x42,LN10X42Q1,"Automotive, 36V, 6A, Synchronous Step-Down Regulator",LN10X42Q1|DCDC,2549132044,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,开关稳压器,https://www.len-technology.com/products/dc-dc/dc-dc-details/ln10x42,LN10X42Q1,车规级，36V，2A，同步降压转换器,LN10X42Q1|开关稳压器,8842754022,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,DC-DC,https://www.len-technology.com/en/products/dc-dc/dc-dc-details/ln10x43,LN10X43Q1,"Automotive, 36V, 6A, Synchronous Step-Down Regulator",LN10X43Q1|DCDC,1957675127,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,开关稳压器,https://www.len-technology.com/products/dc-dc/dc-dc-details/ln10x43,LN10X43Q1,车规级，36V，3A，同步降压转换器,LN10X43Q1|开关稳压器,5388348093,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,DC-DC,https://www.len-technology.com/en/products/dc-dc/dc-dc-details/ln10x46,LN10X46Q1,"Mass-produced，Automotive, 36V, 6A, Synchronous Step-Down Regulator",LN10X46Q1|DCDC,6371567680,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,开关稳压器,https://www.len-technology.com/products/dc-dc/dc-dc-details/ln10x46,LN10X46Q1,车规级，36V，6A，同步降压转换器,LN10X46Q1|开关稳压器,1901323787,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,DC-DC,https://www.len-technology.com/en/products/dc-dc/dc-dc-details/ln10x61,LN10X61Q1,"Automotive, 36V, 6A, Synchronous Step-Down Regulator",LN10X61Q1|DCDC,6049379461,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,开关稳压器,https://www.len-technology.com/products/dc-dc/dc-dc-details/ln10x61,LN10X61Q1,车规级，60V，1.5A，同步降压转换器,LN10X61Q1|开关稳压器,2798098221,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,DC-DC,https://www.len-technology.com/en/products/dc-dc/dc-dc-details/ln10x63,LN10X63Q1,"Automotive, 36V, 6A, Synchronous Step-Down Regulator",LN10X63Q1|DCDC,7202628604,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,开关稳压器,https://www.len-technology.com/products/dc-dc/dc-dc-details/ln10x63,LN10X63Q1,车规级，60V，3A，同步降压转换器,LN10X63Q1|开关稳压器,1364726067,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,线性稳压器,https://www.len-technology.com/products/linear-regulators/linear-regulators-details/ln20x41,LN20X41Q1,车规级，42V，100mA，低静态电流,LN20X41Q1,4896075041,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,LDO,https://www.len-technology.com/en/products/linear-regulators/linear-regulators-details/ln20x41,LN20X41Q1,"Automotive, 42V, 100mA, low Iq, LDO",LN20X41Q1,4896075041,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,线性稳压器,https://www.len-technology.com/products/linear-regulators/linear-regulators-details/ln20x42,LN20X42Q1,车规级，42V，200mA，低静态电流,LN20X42Q1,875240844,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,LDO,https://www.len-technology.com/en/products/linear-regulators/linear-regulators-details/ln20x42,LN20X42Q1,"Automotive, 42V, 100mA, low Iq, LDO",LN20X42Q1,875240844,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,线性稳压器,https://www.len-technology.com/products/linear-regulators/linear-regulators-details/ln20x45,LN20X45Q1,车规级，42V，450mA，低静态电流,LN20X45Q1,6955828554,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,LDO,https://www.len-technology.com/en/products/linear-regulators/linear-regulators-details/ln20x45,LN20X45Q1,"Automotive, 42V, 100mA, low Iq, LDO",LN20X45Q1,6955828554,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,线性稳压器,https://www.len-technology.com/products/linear-regulators/linear-regulators-details/ln21042,LN21042Q1,车规级，42V，100mA，低静态电流，线性稳压器,LN21042Q1,3602480569,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,LDO,https://www.len-technology.com/en/products/linear-regulators/linear-regulators-details/ln21042,LN21042Q1,"Automotive, 42V, 100mA, low Iq, LDO",LN21042Q1,3602480569,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,线性稳压器,https://www.len-technology.com/products/linear-regulators/linear-regulators-details/ln21045,LN21045Q1,车规级，42V，450mA，低静态电流,LN21045Q1,2974990790,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,LDO,https://www.len-technology.com/en/products/linear-regulators/linear-regulators-details/ln21045,LN21045Q1,"Automotive, 42V, 100mA, low Iq, LDO",LN21045Q1,2974990790,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,LED 驱动芯片,https://www.len-technology.com/products/led/led-details/ln33x61,LN33X61Q1,车规级，60V，1.5A，同步降压型 LED 驱动,LN33X61Q1,5747746972,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,LED Driver,https://www.len-technology.com/en/products/led/led-details/ln33x61,LN33X61Q1,"Automotive, 60V, 1.5A, Synchronous Step-Down LED Driver",LN33X61Q1,5747746972,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,高边驱动芯片,https://www.len-technology.com/products/high-side-driver-chip/high-side-driver-chip-details/lnq37000,LNQ37000Q1,车规级，40V，1000mohm，4 通道智能高边开关,LNQ37000Q1,3865530275,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,High Side Switch,https://www.len-technology.com/en/products/high-side-driver-chip/high-side-driver-chip-details/lnq37000,LNQ37000Q1,"Automotive, 36V, 100mΩ, Single-channel Smart High-side Switch.",LNQ37000Q1,3865530275,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,高边驱动芯片,https://www.len-technology.com/products/high-side-driver-chip/high-side-driver-chip-details/lnq37160q1,LNQ37160Q1,车规级，40V，160mohm，4 通道智能高边开关,LNQ37160Q1,3550400590,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,High Side Switch,https://www.len-technology.com/en/products/high-side-driver-chip/high-side-driver-chip-details/lnq37160q1,LNQ37160Q1,"Automotive, 36V, 100mΩ, Single-channel Smart High-side Switch.",LNQ37160Q1,3550400590,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,高边驱动芯片,https://www.len-technology.com/products/high-side-driver-chip/high-side-driver-chip-details/lns37100,LNS37100Q1,车规级，36V，100mohm，单通道智能高边开关,LNS37100Q1,5035970518,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,High Side Switch,https://www.len-technology.com/en/products/high-side-driver-chip/high-side-driver-chip-details/lns37100,LNS37100Q1,"Automotive, 36V, 100mΩ, Single-channel Smart High-side Switch.",LNS37100Q1,5035970518,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,LNS37100Q1 车规级单通道 100mΩ 智能高边开关,https://www.len-technology.com/en/about-us/news-events/industry-trends,无,随着汽车行业电子电气架构的升级，电气化、智能化和网联化进程加速，车载电子系统对在线 OTA 升级和在线故障诊断提出了更高的需求，因此车载中控、ADAS、BMS、车身控制模块、域控制器等应用对高边智能开关芯片的需求也在日益增长。,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,LN20X45Q1 车规级低压差线性稳压器 LDO,https://www.len-technology.com/en/about-us/news-events/industry-trends,无,LDO 是一种低压差线性稳压器，具有方案简单，成本低，噪音低，静态电流低等突出的优点。随着汽车电子系统的复杂化和智能化，车载电源模块大幅度增加，LDO 在汽车中得到了越来越广泛的应用。,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,瓴芯电子车规级低 EMI、小封装 0.8A/2A DCDC,https://www.len-technology.com/en/about-us/news-events/industry-trends,无,LN10X41Q1/LN10X42Q1 是瓴芯全新推出的小尺寸、高效率、高密度的降压型电压转换器，EMC 性能优异，可以很好地满足各种车身模块系统对电源芯片高性能、小尺寸的需求。,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,开关稳压器,https://www.len-technology.com/products,无,提供不同耐压、不同电流的产品矩阵,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,线性稳压器,https://www.len-technology.com/products,无,具备静态电流低、瞬态响应好等技术优势,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,高边驱动芯片,https://www.len-technology.com/products,无,可以驱动感性、容性、阻性等不同类型负载,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,车规级低压差线性稳压器 LDO,https://www.len-technology.com/en/about-us/news-events/industry-trends/34,LN20X45Q1,具有高精度、宽输入电压、超低静态功耗等优点，以及完整的保护和报错功能，带载能力从 100mA 到 450mA 不等，可满足客户在不同应用场景下的需求,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,降压型电压转换器,https://www.len-technology.com/en/about-us/news-events/industry-trends/37,LN10X41Q1/LN10X42Q1,支持 3.5V 到 36V 宽输入电压范围，集成上、下功率 MOS 管，最大输出电流分别为 0.8A 与 2A，且二者 P2P 兼容；采用特殊设计的 FCOL 封装，能有效减小寄生参数，增强散热能力，并降低 EMI 发射；已通过汽车等级 AEC-Q100 Grade 1 的验证，支持-40℃~125℃环境温度与-40℃~150℃工作结温,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,DCDC,https://www.len-technology.com/about-us/news-events/media-exhibitions/52,无,无,7月上海,8664344885,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,LED 驱动,https://www.len-technology.com/about-us/news-events/media-exhibitions/52,无,无,7月上海,8664344885,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,一级 DC-DC,https://www.len-technology.com/about-us/news-events/media-exhibitions/68,LN10x41(2)Q1,36V，0.8A(2A)，PFM/FPWM 可选，展频 DC-DC,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,一级 DC-DC,https://www.len-technology.com/about-us/news-events/media-exhibitions/68,LN10x43Q1,36V，3A，PFM/FPWM 可选，展频 DC-DC,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,一级 DC-DC,https://www.len-technology.com/about-us/news-events/media-exhibitions/68,LN10x46(4)Q1,36V，6A(4A)，PFM/FPWM 可选，展频 DC-DC,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,二级 DC-DC,https://www.len-technology.com/about-us/news-events/media-exhibitions/68,LN10001(2)(3)(4)Q1,5.5V，1A(2A)(3A)(4A)，PFM/FPWM 可选，随机展频 DC-DC,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,一级 LDO,https://www.len-technology.com/about-us/news-events/media-exhibitions/68,LN20x41Q1,42V，100mA，低静态电流，可调输出 LDO,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,一级 LDO,https://www.len-technology.com/about-us/news-events/media-exhibitions/68,LN20x42Q1,42V，200mA，低静态电流，可调输出 LDO,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,一级 LDO,https://www.len-technology.com/about-us/news-events/media-exhibitions/68,LN20x45Q1,42V，450mA，低静态电流，可调输出 LDO,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,一级 LDO,https://www.len-technology.com/about-us/news-events/media-exhibitions/68,LN22043Q1,40V，300mA，低静态电流，看门狗+欠压检测 LDO,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,二级 LDO,https://www.len-technology.com/about-us/news-events/media-exhibitions/68,LN20005(6)Q1,5.5V，500mA(1A)，低静态电流，可调输出 LDO,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,高边驱动开关,https://www.len-technology.com/about-us/news-events/media-exhibitions/68,LNQ37000Q1,4 通道 40V，1000mohm，智能诊断高边开关,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,高边驱动开关,https://www.len-technology.com/about-us/news-events/media-exhibitions/68,LNQ37160Q1,4 通道 40V，160mohm，智能诊断高边开关,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,高边驱动开关,https://www.len-technology.com/about-us/news-events/media-exhibitions/68,LNQ37100Q1,单通道 36V，100mohm，智能诊断高边开关,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,LDO,https://www.len-technology.com/about-us/news-events/media-exhibitions/68,LN22043Q1,DFN-12(3mmx3mm)封装的小尺寸电源管理芯片，集成了看门狗、输入电压欠压报错功能、输出过欠压报错功能、40V/300mA LDO 功能,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,LDO,https://www.len-technology.com/about-us/news-events/media-exhibitions/68,LN20005(6)Q1,二级低压 500mA(1A)的 LDO 产品,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,一级 DC-DC,https://www.len-technology.com/about-us/news-events/media-exhibitions/68.html,LN10x41(2)Q1、LN10x43Q1、LN10x46(4)Q1,36V，0.8A(2A)、3A、6A(4A)，PFM/FPWM 可选，展频 DC-DC,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,一级 LDO,https://www.len-technology.com/about-us/news-events/media-exhibitions/68.html,LN20x41Q1、LN20x42Q1、LN20x45Q1、LN22043Q1,42V，100mA、200mA、450mA、40V，300mA，低静态电流，可调输出 LDO,无,0,无,0,无,0,无,0
+瓴芯电子科技（无锡）有限公司,高边驱动开关,https://www.len-technology.com/about-us/news-events/media-exhibitions/68.html,LNQ37000Q1、LNQ37160Q1、LNQ37100Q1,4 通道 40V，1000mohm、160mohm、单通道 36V，100mohm，智能诊断高边开关,无,0,无,0,无,0,无,0

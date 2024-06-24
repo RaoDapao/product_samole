@@ -1,0 +1,28 @@
+-> root http://www.mst-ic.com
+  -> 无锡迈尔斯通集成电路有限公司 http://www.mst-ic.com/cn/products.html
+    -> LDO 
+    -> 同步整流 
+    -> BUCK 
+    -> BOOST 
+    -> USB 充电协议 
+    -> Charger 
+    -> 电量指示 
+    -> 闪光器 
+    -> 调压器 
+    -> 点火器 
+    -> 进角控制 
+    -> MOS 管 
+    -> 肖特基二极管 
+  -> 无锡迈尔斯通集成电路有限公司_1 http://www.mst-ic.com/cn/products/185.html
+    -> 消费类电子 
+    -> 摩托车电子 
+  -> 无锡迈尔斯通集成电路有限公司_2 http://www.mst-ic.com/cn/pro/185/113.html
+  -> 无锡迈尔斯通集成电路有限公司_3 http://www.mst-ic.com/cn/pro/185/112.html
+  -> 无锡迈尔斯通集成电路有限公司_4 http://www.mst-ic.com/cn/products/186.html
+  ->  http://www.mst-ic.com/en/products.html
+    -> 电压调节器 
+    -> 超前角控制器 
+    -> MOS fet 
+  -> _1 http://www.mst-ic.com/en/pro/216/150.html
+  -> _2 http://www.mst-ic.com/en/products/217.html
+    -> 超前角控制 

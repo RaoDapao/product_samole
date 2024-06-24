@@ -1,0 +1,7 @@
+-> root https://www.rigoron.com.cn
+  -> 上海日观芯设自动化有限公司-上海日观芯设 https://www.rigoron.com.cn/col.jsp?id=106
+    -> 一站式数字签核平台 
+    -> 时序约束管理与验证 
+    -> 静态时序分析 
+    -> 芯片设计效率管理工具 
+    -> 物理验证工具 

@@ -1,0 +1,27 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+迈科微电子（深圳）有限公司,USB Storage Controller,http://www.micov.com.cn/en/products/225.html,无,无,Solution,5511226910,AdvancedU|disk,8067297828,无,0,无,0
+迈科微电子（深圳）有限公司,USB HUB Controller,http://www.micov.com.cn/en/products/225.html,无,无,Solution,5511226910,AdvancedU|disk,8067297828,无,0,无,0
+迈科微电子（深圳）有限公司,Multimedia Controller,http://www.micov.com.cn/en/products/225.html,无,无,Solution,5511226910,AdvancedU|disk,8067297828,无,0,无,0
+迈科微电子（深圳）有限公司,Advanced U-disk,http://www.micov.com.cn/en/products/225.html,无,无,Solution,5511226910,AdvancedU|disk,8067297828,无,0,无,0
+迈科微电子（深圳）有限公司,Digital photo frame + U-disk,http://www.micov.com.cn/en/products/225.html,无,无,Solution,5511226910,AdvancedU|disk,8067297828,无,0,无,0
+迈科微电子（深圳）有限公司,多媒体芯片,http://www.micov.com.cn/products/223.html,MW5108,无,无,0,无,0,无,0,无,0
+迈科微电子（深圳）有限公司,Multimedia Controller,http://www.micov.com.cn/en/products/223.html,MW5108,无,MultimediaController,9723081256,MW5108,76004249,无,0,无,0
+迈科微电子（深圳）有限公司,USB Storage Controller,http://www.micov.com.cn/en/products/prolist260.html,MW6209,MW6209 是一款带有晶振的 USB2.0 高速闪存盘控制芯片，采用 RS 4BYTE ECC 算法，主要支持 512Byte/2K/4K SLC 和 MLC。,USBStorageController,2705122741,MW6209,7770109616,无,0,无,0
+迈科微电子（深圳）有限公司,U盘 主控芯片,http://www.micov.com.cn/products/prolist260.html,MW6688C,MW6688C（嵌入式晶体）是一颗 USB to EMMC 的闪存控制器，是一种高性能 USB to EMMC 闪存的解决方案，通过集成 5V/3.3V、3.3V/1.8V 和 3.3V/1.2V 稳压器和电源上的 REST 组件,无,0,无,0,无,0,无,0
+迈科微电子（深圳）有限公司,USB Storage Controller,http://www.micov.com.cn/en/products/prolist261.html,MW6688C,MW6688C（Embedded Crystal）是一款 USB 转 EMMC 闪存控制器。它是一种高性能的 USB 转 EMMC 闪存解决方案。它在电源上集成了 5V/3.3V、3.3V/1.8V 和 3.3V/1.2V 稳压器以及 REST 组件。,USBStorageController,2705122741,MW6688C,1111382792,无,0,无,0
+迈科微电子（深圳）有限公司,USB HUB 控制器芯片,http://www.micov.com.cn/products/prolist264.html,MW7211,MW7211 是一款 USB 2.0 全速 HUB 控制器，具有一个上行端口和 4 个下行端口，所有端口完全符合 USB 2.0 标准。主控内嵌时钟振荡器，无外部晶振，极大降低成本和生产便利性。,无,0,无,0,无,0,无,0
+迈科微电子（深圳）有限公司,USB HUB Controller,http://www.micov.com.cn/en/products/prolist264.html,MW7211,MW7211 是一款 USB1.1 全速集线器控制器，具有一个上行端口和四个下行端口，完全符合 USB 2.0 标准。内置振荡器，支持无晶振应用，大大降低了 BOM 成本并简化了生产过程。,USBHUBController,747882581,MW7211,8584251863,无,0,无,0
+迈科微电子（深圳）有限公司,USB HUB 控制器芯片,http://www.micov.com.cn/products/prolist263.html,MW7250/HS8836A,MW7250/HS8836A 是一款 USB 2.0 高速 HUB 控制器。设计上最大限度减少外围元件及 BOM 成本，并优化引脚布局支持单面和无跨线布版，有效的降低了方案的生产成本。,无,0,无,0,无,0,无,0
+迈科微电子（深圳）有限公司,USB HUB Controller,http://www.micov.com.cn/en/products/prolist263.html,MW7250,MW7250 是一款 USB2 高速 HUB 控制器。MW7220 的设计最大限度地降低了外围组件和 BOM 的成本，并优化了引脚布局，以支持单面和非交叉布局，有效降低了方案的生产成本。,USBHUBController,747882581,MW7250,5120906836,无,0,无,0
+迈科微电子（深圳）有限公司,U盘 主控芯片,http://www.micov.com.cn/products/226.html,MW8108,无,无,0,无,0,无,0,无,0
+迈科微电子（深圳）有限公司,USB Storage Controller,http://www.micov.com.cn/en/products/226.html,MW8108,无,USBStorageController,2705122741,MW8108,5221876597,无,0,无,0
+迈科微电子（深圳）有限公司,U盘 主控芯片,http://www.micov.com.cn/products/prolist261.html,MW8209,MW8209 是一个需要外置晶振的 USB2.0 高速闪存盘控制芯片，采用 RS 5BYTE ECC 算法，主要支持 Page 大小为 512Byte/2K/4K 的 SLC 和 MLC FLASH,无,0,无,0,无,0,无,0
+迈科微电子（深圳）有限公司,U盘 主控芯片,http://www.micov.com.cn/products/prolist257.html,MW8209E,MW8209E 是一个内置晶振的 USB2.0 高速闪存盘控制芯片，采用 RS 5BYTE ECC 算法，主要支持 Page 大小为 512Byte/2K/4K 的 SLC 和 MLC FLASH,无,0,无,0,无,0,无,0
+迈科微电子（深圳）有限公司,USB Storage Controller,http://www.micov.com.cn/en/products/prolist257.html,MW8209E,MW8209E 是一款内置晶振的 USB2.0 高速闪存盘控制芯片，采用 RS 5BYTE ECC 算法，主要支持页大小为 512 Byte/2K/4K 的 LC 和 MLC FLASH,USBStorageController,2705122741,MW8209E,7845448146,无,0,无,0
+迈科微电子（深圳）有限公司,USB Storage Controller,http://www.micov.com.cn/en/products/prolist259.html,MW8229,MW8229 是一款带有晶体振荡器的 USB2.0 高速闪存盘控制器。支持 2K/4K/8K SLC/MLC/TLC FLASH（不支持 2X/1Xnm）；支持 EMMC,USBStorageController,2705122741,MW8229,2973172924,无,0,无,0
+迈科微电子（深圳）有限公司,U盘 主控芯片,http://www.micov.com.cn/products/prolist259.html,MW8310,MW8310 是一个需要外置晶振的 USB2.0 高速闪存盘控制芯片，主要支持 2K/4K/8K 的 SLC/MLC/TLC FLASH，不支持 2X/1Xnm 的 FLASH；支持 EMMC,无,0,无,0,无,0,无,0
+迈科微电子（深圳）有限公司,USB Storage Controller,http://www.micov.com.cn/en/products/prolist258.html,MW8310,MW8310 是一款带有外部晶振的 USB2.0 高速闪存盘控制芯片，主要支持 2K/4K/8K SLC/MLC/TLC FLASH、2X/1Xnm FLASH 和 EMMC,USBStorageController,2705122741,MW8310,3921669416,无,0,无,0
+迈科微电子（深圳）有限公司,U盘 主控芯片,http://www.micov.com.cn/products/215.html,MW8690,无,无,0,无,0,无,0,无,0
+迈科微电子（深圳）有限公司,USB Storage Controller,http://www.micov.com.cn/en/products/215.html,MW8690,无,USBStorageController,2705122741,MW8690,208622787,无,0,无,0
+迈科微电子（深圳）有限公司,数码相框+U 盘,http://www.micov.com.cn/products/224.html,无,无,无,0,无,0,无,0,无,0
+迈科微电子（深圳）有限公司,高级 U 盘,http://www.micov.com.cn/products/225.html,无,无,无,0,无,0,无,0,无,0

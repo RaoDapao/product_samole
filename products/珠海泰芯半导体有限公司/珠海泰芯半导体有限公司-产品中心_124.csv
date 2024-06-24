@@ -1,0 +1,14 @@
+产品网址：https://en.taixin-semi.com/Product?prouctSubClass=51
+产品结构：root->珠海泰芯半导体有限公司-产品中心
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|TXW803|TXW803|无|
+
+Add/Hide  Parameter List,Type,Working Freq-Band(MHz),Encapsulated Type,Chip-Set,Max Speed  (MHz),Flash  (KB),RAM  (Byte),GPIO,Working Voltage  (V),Temperature  （℃）,TouchKey,LED  （com*seg）,Advanced TM,GPTM,Watchdog,PWM,RTC,UART,SPI,IIC,ADC,DAC,CRC,Code Encryption,SDIO,USB,SDC,IIS,PDM,EPWM,M2M DMA,AES,CRC.1,TRNG,QSPI
+Total:  1  Match:  1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Compare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Add/Hide  Parameter List,Type,Working Freq-Band(MHz),Encapsulated Type,Chip-Set,Max Speed  (MHz),Flash  (KB),RAM  (Byte),GPIO,Working Voltage  (V),Temperature  （℃）,TouchKey,LED  （com*seg）,Advanced TM,GPTM,Watchdog,PWM,RTC,UART,SPI,IIC,ADC,DAC,CRC,Code Encryption,SDIO,USB,SDC,IIS,PDM,EPWM,M2M DMA,AES,CRC,TRNG,QSPI
+Total:  1  Match:  1,,2.4G,QFN32,CK803,180,2048,330*1024,19,3 ~ 3.6,-40 ~ 85,18,1,6*16bit,6*32bit,1,18,1,4,5,2,2,2,1,√,1,1,1,2,1,6,2,1,1,1,1
+Compare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,TXW803-350,2.4G,QFN32,CK803,180,2048,330*1024,19,3 ~ 3.6,-40 ~ 85,18,1,6*16bit,6*32bit,1,18,1,4,5,2,2,2,1,√,1,1,1,2,1,6,2,1,1,1,1

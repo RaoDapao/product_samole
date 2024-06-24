@@ -1,0 +1,91 @@
+产品网址：https://korea.tiandy.com/index.php?s=/Home/Product/detail/id/329.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|VMS(통합관제솔루션)|K1000|K1000 是一款将 Tiandy 强大的视频中央管理系统 Easy7 CMS 与流服务和存储服务相结合的一体化服务器。它可以管理网络摄像机，进行录制、实时查看、回放、电子地图、视频墙等操作。具有强大的存储和先进的集中视频管理能力，支持多达 8 个 HDD，1000 个通道，16 个 1080P 解码，视频输入/输出带宽为 400M，录制/转发通道为 200 个。支持集中存储、解码、转发和管理 IP 摄像机、流服务器、NVR 和解码器。支持 2 个 HDMI 和 1 个 VGA 输出接口，嵌入式 Linux 操作系统，支持网络管理 UI，支持本地视频存储，支持 NTP 功能，支持 RAID 0/1/5/6/10/50/60，可通过可视化管理 UI 操作磁盘和 RAID 组的配置和监控状态，可进行人员、车辆、考勤、设备和访问控制，可进行人脸搜索，可进行预警联动。|
+
+Main Functions,Main Functions.1
+Device management,"Support management of IP cameras, NVRs and network video encoder/decoders"
+Device management,Support configuration of device information and account authority
+Device management,Support detection of device status
+Live view,"Support auto switch of main and sub stream, live windows can be drag to form a large single window. Live windows can be divided into 4/6/8/10 mode or 1-5/1-7 consist of main/sub stream. The number of screens per row/column can be customized up to 64 as well. Supports electronic zoom, image capture. Supports switch by single channel, group or all channels, users can customize switch plan"
+PTZ control,"Support pan tilt and zoom control including 8 directions control, zoom/aperture/focus settings, preset settings, wiper control and 3D positioning"
+Video management,"Support recording template that users can easily arrange start time, end time, week time and recording duration"
+Video playback,Support device storage/centralized storage/local storage and multiple method for searching video
+Video playback,"Support timing video recording, playback, video download, image capture, multi-speed playback in server"
+Video wall,Support video wall template configuration and video switch
+Event management,Support multiple alarm types and linkage of alarm input and output interfaces. Events can be prioritized by importance
+Intelligent analysis,Support linkage of VCA functions
+Alarm linkage,"Support linkage of alarm output, video recording, sound, pop on video wall, e-map, image capture and preset of PTZ"
+User management,Support user account management like setting authority and expiration time
+Log management,"Support recording log like adding, deleting and modifying for each module independently"
+Log management,Support searching and exporting log information for each module
+E-map,Support using super high-resolution picture as e-map background
+E-map,Support google GIS map and different surveillance icons overlay on maps
+Two-way audio,Support two-way audio to devices and volume is adjustable
+Decoding,Support 2 HDMI& 1VGA output interfaces and 16 1080P decoding
+Compatible devices,"Support access of IP cameras, NVRs, centralized storage and servers."
+Compatible devices,Support 150 channels access via ONVIF protocal and 500 channels via Tiandy private protocal.  Support 1000 channels via Tiandy private protocal only.
+Group management,"Support adding, modifying, searching and deleting the organization structure and offical authority"
+Face management,Support up to 50 face recognition cameras connection
+Face management,Support up to 5000 face pictures each library
+Face management,Support analysis and statistics of face alarm
+Face management,Support to search picture by picture and search face picture by time or name
+Specifications,Specifications
+CPU,64-bit multicore processor
+Memory,"24GB (3×8GB, 4 memory slots), maximum 64G"
+OS HDD,32G SSD
+Network interface,4xRJ45 self-adaptive 10/100/1000 Mbps network interfaces
+Data HDD,Up to 8 disks
+HDD type,"2.5"" or 3.5"" SATA"
+HDD capacity,4/6/8TB enterprise HDD  4/6/8/10TB surveillance HDD
+Interfaces,"2 USB 2.0 ports in front panel, 2 USB 3.0 ports in rare panel  2 HDMI, 1 VGA  2 RS485, 1 RS232  8 alarm input, 4 alarm output"
+RAID,RAID 0/1/5/6/10/50/60
+General,General
+Power supply,"AC200V～AC240V, 50Hz"
+Power consumption,Rated power: 350W  Peak power: 200W  Average power: 180W
+Working temperature,5℃~40℃
+Working humidity,10％～90％(RH)
+Dimensions,535mm(L)×446mm(W)×88.5mm(H)
+
+
+Software,Software.1
+Management platform,WEB GUI
+Management software,"IPC access management, Recording file management, Alarm linkage"
+IPC channels,1000
+User account,100
+Middleware adapter,1
+Middleware number,1(Default)
+Icon overlay on map,1000
+Person information,10000
+Face recognition camera access Maximum,Maximum 50
+ANPR camera access Maximum,Maximum 25
+Access control PAD (ID card) Maximum,Maximum 70
+Face turnstile Maximum,Maximum 24
+"Log record 500,000 per 90 days","500,000 per 90 days"
+"Alarm record 5,000,000 per 90 days","5,000,000 per 90 days"
+"Face Pad record 3,000,000 per 90 days","3,000,000 per 90 days"
+Face capture record,"2,000,000 per 90 days"
+Attendace record(1000 people),"365,000 per year"
+"Dynamic Statistics  * The following listed numbers are peak performance, they may not be supported at the same time","Dynamic Statistics  * The following listed numbers are peak performance, they may not be supported at the same time"
+GPS location reported,10/S
+Access users,50
+Online users,100
+Access APP,100
+Alarm go off per second,8
+Picture performance,"Send/Receive 25 pictures/S  Less than 550K each picture, up to 18,000 pictures every day"
+Video performance (Picture and video storage in same time),Video performance (Picture and video storage in same time)
+Video storage capability,"Up to 180 channels (2Mbs, H.265)"
+Video forwarding capability,"Up to 180 channels forwarding and decoding combined (2Mbs, H.265)"
+Decoding capability,"Up to 16 channels in main stream (1080P, 2Mbs, H.265)"
+Video switching,"Up to 16 channels in main stream (1080P, 2Mbs, H.265)"
+Video performance (Video storage only),Video performance (Video storage only)
+Video storage capability,"Up to 200 channels (2Mbs, H.265)"
+Video forwarding capability,"Up to 200 channels forwarding and decoding combined (2Mbs, H.265)"
+Decoding capability,Up to 16 channels in main stream (1080P 2Mbs H265)
+Video switching,Up to 16 channels in main stream (1080P 2Mbs H265)
+
+
+날짜,제목,유형
+2021-12-09,K1000,pdf

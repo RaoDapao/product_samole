@@ -1,0 +1,7 @@
+-> root http://www.basicsemi.com
+  -> 首页 
+    -> 产品与服务 https://www.basicsemi.com/h-col-106.html
+  -> BASiCl基本半导体---碳化硅功率器 https://www.basicsemi.com/#
+    -> 碳化硅功率器件 
+    -> Pcore™1-汽车级 TPAK 碳化硅 MOSFET 模块 
+    -> Pcore™2-汽车级 DCM 碳化硅 MOSFET 模块 

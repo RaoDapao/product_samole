@@ -1,0 +1,14 @@
+产品网址：https://www.dkpower.cn/ACDCchanpinxianNonisolated.html
+产品结构：首页->产品中心->AC-DC电源管理系列->AC-DC产品线(Non-isolated)
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|AC-DC 产品线(Non-isolated)|无|无|
+
+Product,Characteristics,SW Voltage,Standby Power,VCC Operation Voltage,Output Power,Idlimt,Package,VCC Operation Voltage.1
+DK503,CV Buck/Buck-boost Converter,700V,<100mW,Self-powered,"5V,0.25A 12V,0.25A",,SOP8/DIP8,Self-powered
+DK5360,CV Buck Converter,680V,<100mW,Variable,"5V,250mA",,SOP-8,Self-powered
+DK5710,High performance AC-DC Converter,650V,<75mW,Variable,3.3V~24V半封闭单电压20W,1.2A,SOP-8,10V-28V
+DK5320,CV Buck Converter,650V,<75mW,Variable,"5V,300mA",0.5A,SOP-8,Self-powered
+DK5030,Non-inductive AC Linear Regulator,650V,<15mW,Variable,"5V,20mA 3.3V,30.3mA 2.7V,37mA",0.16A,SOP-8,Self-powered
+DK501,CV Buck/Buck-boost Converter,700V,<100mW,Self-powered,"5V,0.25A 12V,0.25A",0.48A,SOP8/DIP8,Self-powered

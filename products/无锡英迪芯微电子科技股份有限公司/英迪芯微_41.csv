@@ -1,0 +1,8 @@
+产品网址：https://www.indiemicro.com/cn/archives/product/ind83213a
+产品结构：root->英迪芯微
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|芯片|iND83213A|24 通道恒流源，最大 50mA/通道；内部集成 1200mA Buck 降压电路；iND83213ACS01 支持 LIN Master 和 LIN Slave 收发器，iND83213A 仅支持 LIN Slave 收发器；8 路 GPIO，配置 PWM，SPI，UART 和 12 位 SAR ADC 输入通道功能；支持硬件过温保护，电池电压监测；符合 AEC-Q100 一级|
+
+

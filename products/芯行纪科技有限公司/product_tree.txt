@@ -1,0 +1,18 @@
+-> root http://www.xtimes-da.com
+  -> 芯行纪-产品 http://www.xtimes-da.com/?a=page&p=amazefp
+  -> 芯行纪-产品_1 http://www.xtimes-da.com/index.php?a=page&p=amaze_sys
+  -> 芯行纪-产品_2 http://www.xtimes-da.com/index.php?a=page&p=amazefp
+  -> 芯行纪-产品_3 http://www.xtimes-da.com/index.php?a=page&p=amazefp_me
+  -> 芯行纪-产品_4 http://www.xtimes-da.com/index.php?a=page&p=amazedrc_lite
+    -> DRC 快速收敛工具 
+    -> ECO 工具 
+    -> 工业软件许可文件管理系统 
+    -> AmazeSys 
+    -> AmazeFP 
+    -> AmazeDRCLite 
+    -> AmazeECO 
+    -> Industriallm 
+  -> 芯行纪-产品_5 http://www.xtimes-da.com/index.php?a=page&p=amazeeco
+  -> 芯行纪-产品_6 http://www.xtimes-da.com/index.php?a=page&p=industrialLM
+  -> 芯行纪-产品_7 http://www.xtimes-da.com/?a=page&p=amazedrc_lite
+  -> 芯行纪-产品_8 http://www.xtimes-da.com/?a=page&p=amazeeco

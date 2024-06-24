@@ -1,0 +1,16 @@
+产品网址：https://en.taixin-semi.com/Product?productClassId=55
+产品结构：root->珠海泰芯半导体有限公司-产品中心
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|TXW801|TXW801|无|
+
+Add/Hide  Parameter List,Type,Working Freq-Band(MHz),Encapsulated Type,Chip-Set,Max Speed  (MHz),RAM  (Byte),GPIO,Working Voltage  (V),Temperature  （℃）,Advanced TM,GPTM,Watchdog,PWM,RTC,UART,SPI,IIC,ADC,DAC,CRC,Code Encryption,SDIO,USB,SDC,IIS,PDM,EPWM,M2M DMA,AES,CRC.1,TRNG
+Total:  3  Match:  3,,,12.2*12.9  12*12  QFN24,,,,5  11,3 ~ 3.6  3.0 ~ 3.6,-20 ~ 70  -40 ~ 85,,,,5  11,,2  4,1  5,,,,,,,,,,,,,,,
+Compare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Add/Hide  Parameter List,Type,Working Freq-Band(MHz),Encapsulated Type,Chip-Set,Max Speed  (MHz),RAM  (Byte),GPIO,Working Voltage  (V),Temperature  （℃）,Advanced TM,GPTM,Watchdog,PWM,RTC,UART,SPI,IIC,ADC,DAC,CRC,Code Encryption,SDIO,USB,SDC,IIS,PDM,EPWM,M2M DMA,AES,CRC,TRNG
+Total:  3  Match:  3,,2.4G,12.2*12.9  12*12  QFN24,CK803,180,330*1024,5  11,3 ~ 3.6  3.0 ~ 3.6,-20 ~ 70  -40 ~ 85,6*16bit,6*32bit,1,5  11,1,2  4,1  5,2,2,2,1,√,1,1,1,2,1,6,2,1,1,1
+Compare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,TX-M801-S,2.4G,12*12,CK803,180,330*1024,5,3 ~ 3.6,-20 ~ 70,6*16bit,6*32bit,1,5,,2,1,2,2,,,√,1,1,1,,,,2,1,1,1
+,TX-M801-U,2.4G,12.2*12.9,CK803,180,330*1024,,3 ~ 3.6,-20 ~ 70,6*16bit,6*32bit,1,,,,,,,,,√,,1,,,,,2,1,1,1
+,TXW801-100,2.4G,QFN24,CK803,180,330*1024,11,3.0 ~ 3.6,-40 ~ 85,6*16bit,6*32bit,1,11,1,4,5,2,2,2,1,√,1,1,1,2,1,6,2,1,1,1

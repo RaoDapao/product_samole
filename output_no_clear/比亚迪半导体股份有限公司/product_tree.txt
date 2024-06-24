@@ -1,0 +1,63 @@
+-> root http://www.bydmicro.com
+  -> 产品_功率半导体_比亚迪半导体_2 http://www.bydmicro.com/cn/semiconductor.html
+    -> IGBT 
+    -> IGBT 模块 
+    -> IGBT 单管 
+    -> IGBT 芯片 
+    -> Diode 
+    -> FRD 芯片 
+    -> TVS 二极管 
+    -> IPM 
+    -> SiC MOSFET 
+  -> 产品_智能控制IC_比亚迪半导体_2 http://www.bydmicro.com/cn/IC.html
+    -> 智能控制 IC 
+    -> AC-DC 芯片 
+    -> 保护 IC 
+    -> 驱动 IC 
+    -> DC-DC 
+    -> 触控芯片 
+    -> 智能锁控 MCU 
+    -> 家电 MCU 
+    -> 车规级 MCU 
+    -> 工业 32 位 MCU 
+    -> 电池管理 IC 
+  -> 产品_智能传感器_比亚迪半导体_2 http://www.bydmicro.com/cn/sensor.html
+    -> 智能传感器 
+    -> 消费类图像传感器芯片 
+    -> 安防监控 CMOS 图像传感器芯片 
+    -> 电流电压传感器 
+    -> 角度位置传感器 
+    -> 温度压力传感器 
+  -> 产品_光电半导体_比亚迪半导体_2 http://www.bydmicro.com/cn/EO-semiconductor.html
+    -> 远近红外夜视系统 
+    -> 车载 PM2.5 测速仪 
+    -> 路面预瞄系统 
+    -> 流媒体后视镜 
+    -> AR-HUD PGU 光机 
+    -> MEMS 传感器 
+    -> 汽车香氛控制模块 
+    -> 高清全景影像模组 
+    -> ADAS 模组 
+    -> 流媒体后视模组 
+    -> 扫描仪/扫描模组 
+    -> 车内视频模组 
+    -> 行车记录仪模组 
+    -> 车载影像集成系统 
+    -> DMS 红外影像模组 
+    -> MPC 影像模组 
+    -> LED 光源 
+    -> LED 车载应用 
+    -> LED 智能显示 
+    -> LED 智慧照明 
+    -> 结构件与散热器 
+    -> 光学透镜 
+    -> IGBT 框体 
+    -> IGBT&碳化硅模块铜基板 
+    -> 传感器框体 
+  -> 产品_制造与服务_比亚迪半导体_2 http://www.bydmicro.com/cn/service.html
+    -> IGBT 晶圆 
+    -> FRD 晶圆 
+    -> CMOS 晶圆 
+    -> TMBS 晶圆 
+    -> 封装测试 
+  -> 比亚迪半导体最新推出SOT-227封装产品_2 http://www.bydmicro.com/cn/news/news-detail/188

@@ -1,0 +1,6 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=190&page=1
+产品结构：root->Huahuan_Products_PrecisionTimeProtocol(PTP)GrandmasterClock
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Precision Time Protocol (PTP) Grandmaster Clock|PTP/IEEE 1588 Grandmaster...|该产品可作为具有多种配置选择的 IEEE-1588 PTP 主时钟、NTP 服务器，或直接输出纳秒精度的 PPS 和 ToD 信号。通过以太网电缆供电，它与同步客户端的距离可达 100 米，为建筑物中可用窗口站点选择提供了灵活性。如果客户端使用光纤以太网或 PPS/ToD 信号，则可实现更长的范围。这种范围不敏感性简化了安装位置的权衡。|

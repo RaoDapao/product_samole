@@ -1,0 +1,113 @@
+产品网址：https://korea.tiandy.com/index.php?s=/Home/Product/detail/id/523.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|PTZ 摄像机|TC-H324S|2MP 25× Starlight IR PTZ 摄像机，支持最高 1920X1080@30fps，光学变焦 25 倍，数字变焦 16 倍，智能红外，红外范围 150m，支持人/车分类，S+265/H.265/H.264/M-JPEG，智能监控，免插件，IP66|
+
+Camera,Unnamed: 1
+Image Sensor,"1/2.8"" CMOS"
+Signal System,PAL/NTSC
+Min. Illumination,"Color: 0.001lux@ (F1.5, AGC ON), BW: 0lux with IR"
+Shutter Time,"1s to 1/100,000s"
+Day & Night,IR Cut Filter with Auto Switch
+Optical Zoom,25X
+Digital Zoom,16X
+Lens,
+Focal Length,4.8mm~120mm
+Zoom Speed,<4s
+Field of View,Horizontal filed of view: 58.5° (w)~2.8° (t)  Vertical  ﬁ  led of view: 33.2° (w)~1.5° (t)  Diagonal field of view: 65.2°(w)~3.3° (t)
+Aperture Range,F1.5~F3.8
+Focus Control,Auto/Manual
+Iris Control,Auto
+Close Focus Distance,1 m–1.5 m
+Pan&Tilt,
+Pan Range,360°
+Pan Speed,"Pan Manual Speed: 0.1°~200°/s, Pan Preset Speed: 240°/s"
+Tilt Range,-16°~90° (Default -3°~90°)
+Tilt Speed,"Tilt Manual Speed: 0.1°~120°/s, Tilt Preset Speed: 180°/s"
+3D Position,Yes
+Preset,500
+Preset Accuracy,±0.4°
+Cruise,"16, up to 32 presets per cruise"
+Scan,8
+Pattern,"8, each with 600s memory or 1000 orders"
+Scheduled Task,Preset、Cruise、Scan、Pattern、Alarm output
+Park Action,Yes
+Power-off Memory,Yes
+Preset Freezing,
+Illuminator,
+IR LEDs,6
+IR Distance,Up to 150m
+IR Irradiation Angle,Adjustable by Zoom
+White LEDs,
+Laser,
+Laser Distance,
+Compression Standard,
+Video Compression,S+265/H.265/H.264/M-JPEG
+Video Bit Rate,32Kbps~16Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D/AAC_LC
+Audio Sampling Rate,8K～48Kbps
+Image,
+Max. Resolution,2MP (1920x1080)
+Main Stream,"PAL: 25fps (1920x1080, 1280x720, 704x576, 640x480)  NTSC: 30fps (1920x1080, 1280x720, 704x480, 640x480)"
+Sub Stream,"PAL: 25fps (704x576, 704x288, 640x360, 352x288)  NTSC: 30fps (704x480, 704x240, 640x360, 352x240)"
+Third Stream,PAL: 25fps (352x288) NTSC: 30fps (352x240)
+BLC,Yes
+HLC,Yes
+WDR,True WDR
+Image Stabilization,
+Fog,Digita
+White Balance,Auto/Semi-auto/Manual/Sunny/Natural light/Warm light/Sodium lamp/Incandescent lamp/Locked white balance
+AGC,Yes
+Noise Reduction,2D/3D
+ROI,7 Dynamic Areas for Both Main and Sub Stream
+Picture Overlay,Yes
+Privacy Mask,Yes
+Smart Defog,Yes
+Image Setting,"Saturation, brightness, contrast, sharpness, adjustable by client software or web browser"
+Flip,Yes
+OSD,"16x16, 24x24,32x32, 48x48, 64x64, adaptable size, Letters such as Week, Date, Time, Total 5 Regions"
+Feature,
+Alarm Trigger,"Event Input, Event Output, Mask Alarm, Disk Full, Disk R/W Error, IP Address Conflict, MAC Address Conflict, FTP Server Exception"
+Video Analytics,"Tripwire, Double Tripwire, Perimeter, Object Abandon, Object Lost, People Counting, Video Abnormal, Audio Abnormal"
+Early Warning(EW),
+Auto-Tracking,
+Face Detection and Analytics,
+Operating Mode,
+Face Detection Performance,
+Face Exposure Brightness,
+Min. Face Pixel,
+Network,
+Protocols,HTTP/HTTPS/TCP/UDP/UPnP/SNMP/DHCP/DNS/DDNS/Easy  /  DDNS/NTP/SMTP/SSL/802.1X/QoS/IPv4/IPv6/PPPOE/SSH/Unicast/Multicast/RTMP/RTP/RTSP  /  NFS/SMB/CIFS/FTP
+System Compatibility,"ONVIF (PROFILE S/T/G/M), SDK, CGI, P2P"
+ANR,"Auto store video in SD card when NVR disconnected, and upload video to NVR when resumed connection (Only Support Tiandy ANR NVR)"
+Remote Connection,≤7
+User/Host,Up to 32 users. 4 user levels
+Web Version,web6
+Interface,
+Communication Interface,1 RJ45 10M/100M self adaptive Ethernet port
+Audio I/O,1/1
+Alarm I/O,1/1
+Built-In Speaker,
+Reset Button,Yes
+On-board storage,"Built-in Micro SD card slot, up to 512 GB"
+RS-485,
+BNC,
+Wiper,
+Electronic Compass,
+GPS/BDS,
+General,
+Protection,"IP66 , TVS 6000V lightning protection, surge protection and voltage transient protection"
+Web Client Language,17 languages  Simple Chinese/ Traditional Chinese/ English/ Spanish/ Korean/ Italian/ Turkish/ Russian/ Thai/French/ Polish/ Dutch/ Hebraism/ Arabic/ Vietnamese/ German/ Ukrainian
+Operating Conditions,"-30°C~65°C (IR OFF), -30°C~40°C (IR ON), 0-95%RH"
+Power Supply,DC12V±10%/POE+(IEEE802.3 at)
+Power Consumption,"9W(IR OFF), 22W(MAX)"
+Heater,
+Material,ADC 12
+Package/Boundary Dimensions,Φ250x445mm (Φ161x276mm)
+Gross/Net Weight,5.1kg (3kg)
+
+
+날짜,제목,유형
+2022-11-08,TC-H324S Spec25XIEV3.0,pdf

@@ -1,0 +1,51 @@
+-> root https://www.inbisen.com
+  -> 英彼森半导体（珠海）有限公司 https://www.inbisen.com/product.html
+    -> 线路驱动功率放大器 
+    -> 模拟前端 AFE 
+    -> 以太网 PHY 
+    -> 24Bits Sigma Delta ADC 
+    -> 16Bits SAR ADC 
+    -> BMS AFE 
+    -> LDO 线性稳压器 
+    -> DCDC 开关稳压器 
+    -> PMIC 多通道电源管理 
+    -> 高压高精密放大器 
+    -> 模拟乘法器 
+    -> 模拟滤波器 
+    -> 温度传感器 
+    -> 电流传感器 
+  -> IBS6212电流反馈型线路驱动功放 https://www.inbisen.com/product-22.html
+  -> IBS6222电流反馈型线路驱动功放 https://www.inbisen.com/product-23.html
+  -> VMLD502双通道电流反馈型线路驱动功 https://www.inbisen.com/product-24.html
+  -> IBST601616通路模拟前端AFE https://www.inbisen.com/product-26.html
+  -> IBST8820以太网PHY https://www.inbisen.com/product-25.html
+  -> IBSD2722-3-4 https://www.inbisen.com/product-28.html
+  -> IBSD2016 https://www.inbisen.com/product-27.html
+  -> Himalaya300 https://www.inbisen.com/product-54.html
+  -> Himalaya700 https://www.inbisen.com/product-30.html
+  -> Himalaya800 https://www.inbisen.com/product-31.html
+  -> IBSP3030-IBSP3031超低噪 https://www.inbisen.com/product-32.html
+  -> IBSP3032超低噪声、超高PSRRL https://www.inbisen.com/product-33.html
+  -> IBSP301340V、300mA、超低 https://www.inbisen.com/product-34.html
+  -> IBSP301240V、150mA、超低 https://www.inbisen.com/product-35.html
+  -> IBSP301140V、200mA、低噪 https://www.inbisen.com/product-36.html
+  -> IBSP302116V、1ALDO https://www.inbisen.com/product-37.html
+  -> IBSP30525V、2A、超低噪声、高 https://www.inbisen.com/product-57.html
+  -> IBSP30535V、3A、超低噪声、高 https://www.inbisen.com/product-58.html
+  -> IBSP324236V、2A同步降压转换 https://www.inbisen.com/product-38.html
+  -> IBSP324336V、3A、可调开关频 https://www.inbisen.com/product-39.html
+  -> IBSP3243S36V、3A、低EMI https://www.inbisen.com/product-40.html
+  -> IBSP326360V、3.5A开关频率 https://www.inbisen.com/product-59.html
+  -> IBSP3642多通道电源管理IC https://www.inbisen.com/product-41.html
+  -> IBSA1217低失调、低噪声、高精密运 https://www.inbisen.com/product-45.html
+  -> IBSA1237低失调、低噪声、高精密运 https://www.inbisen.com/product-46.html
+  -> IBSA1277低失调、低噪声、高带宽运 https://www.inbisen.com/product-47.html
+  -> IBSA1111 https://www.inbisen.com/product-43.html
+  -> IBSA1112 https://www.inbisen.com/product-42.html
+  -> IBSA1810 https://www.inbisen.com/product-44.html
+  -> IBSZT117 https://www.inbisen.com/product-48.html
+  -> IBSZT275 https://www.inbisen.com/product-49.html
+  -> IBSZT1820 https://www.inbisen.com/product-50.html
+  -> IBSZT1001 https://www.inbisen.com/product-51.html
+  -> IBSZM102 https://www.inbisen.com/product-52.html
+  -> IBSZM103 https://www.inbisen.com/product-53.html

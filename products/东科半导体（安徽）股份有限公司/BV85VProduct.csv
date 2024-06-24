@@ -1,0 +1,16 @@
+产品网址：https://www.dkpower.cn/BV85VProduct.html
+产品结构：首页->产品中心->SR同步整流系列->BV85VProduct
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|BV 85V Product|无|无|
+
+Product,Characteristics,BV,RDS(on),Topology,VDD Operation Voltage,Output Power,Operating Mode,Package
+DK5V85R15VT1,SR Converter,85V,15mΩ,PSR/SSR,5.1V,"12V, 4A",DCM/QR/CCM,TO-220F
+DK5V85R15ST1,SR Converter,85V,15mΩ,PSR/SSR,5.5V,"12V,4A",DCM/QR/CCM,TO-220F
+DK5V85R15VP,SR Converter,85V,15mΩ,PSR/SSR,5.1V,"12V, 3A",DCM/QR/CCM,SOP-8
+DK5V85R25HP,SR Converter,85V,25mΩ,PSR/SSR,5.1V,"12V, 2.1A",DCM/QR/CCM,SOP-8
+DK5V85R15S,SR Converter,85V,15mΩ,PSR/SSR,5.5V,"12V,3A",DCM/QR/CCM,SM-7 (兼容TO-277)
+DK5V85R15V,SR Converter,85V,15mΩ,SSR,5.1V,"12V,3A",DCM/QR/CCM,SM-7 (兼容TO-277)
+DK5V85R25S,SR Converter,85V,25mΩ,PSR/SSR,5.5V,"12V, 2.1A",DCM/QR/CCM,SM-7 (兼容TO-277)
+DK5V85R25H,SR Converter,85V,25mΩ,PSR/SSR,5.1V,"12V, 2.1A",DCM/QR/CCM,SM-7 (兼容TO-277)

@@ -1,0 +1,9 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+昆仑芯（北京）科技有限公司,昆仑芯 1 代 AI 芯片,https://www.kunlunxin.com/product/688.html,无,基于昆仑芯自研架构 XPU 设计，针对云端推理场景，支持通用 AI 算法，在计算机视觉、语音识别、自然语言处理和推荐的算法上性能指标表现高效且稳定。目前该芯片已在百度搜索引擎、小度等业务中部署数万片，赋能互联网、工业制造、智慧金融、智慧交通等领域。,无,0,无,0,无,0,无,0
+昆仑芯（北京）科技有限公司,昆仑芯 2 代 AI 芯片,https://www.kunlunxin.com/product/2873.html,无,基于新一代自研架构昆仑芯 XPU-R 而设计，聚焦通用性和易用性。相比 1 代产品，通用计算核心算力提升 2-3 倍，可为数据中心提供强劲 AI 算力。,无,0,无,0,无,0,无,0
+昆仑芯（北京）科技有限公司,昆仑芯 AI 加速卡 K100,https://www.kunlunxin.com/product/687.html,无,专为边缘推理打造的 AI 加速卡，采用昆仑芯 1 代 AI 芯片，体积小巧，适用于各类智能边缘计算场景,无,0,无,0,无,0,无,0
+昆仑芯（北京）科技有限公司,昆仑芯 AI 加速卡 K200,https://www.kunlunxin.com/product/686.html,无,采用昆仑芯 1 代 AI 芯片，适用于云数据中心或其他计算密度的推理场景,无,0,无,0,无,0,无,0
+昆仑芯（北京）科技有限公司,昆仑芯 AI 加速卡 R100,https://www.kunlunxin.com/product/2837.html,R100,是一款基于昆仑芯 2 代芯片，半高半长形态的 AI 加速卡，为多样的边缘 AI 应用场景提供最优的性能及功耗比。搭载昆仑芯自研的 XPU-R 架构，继承了昆仑芯 2 代芯片的成熟软件栈，大大降低用户的适配及使用成本。作为一款低功耗、小体积的加速卡，可广泛应用在智慧零售、智能交通、智慧园区和智能制造等各类边缘推理场景，以实现更高效的 AI 推理计算。,无,0,无,0,无,0,无,0
+昆仑芯（北京）科技有限公司,昆仑芯 AI 加速卡 R200 系列,https://www.kunlunxin.com/product/274.html,无,采用昆仑芯 2 代 AI 芯片，适用于数据中心的高性能推理场景，全面支持自然语言处理、计算机视觉、语音以及传统机器学习等各类人工智能任务,无,0,无,0,无,0,无,0
+昆仑芯（北京）科技有限公司,昆仑芯 AI 加速卡 RG800,https://www.kunlunxin.com/product/2842.html,无,基于昆仑芯自研的 XPU-R 架构，RG800 是一款定位于数据中心应用场景的 AI 加速卡，既可用于常规模型的训练，也可用于多业务并发的高性能 AI 推理应用，助力各行业实现降本增效，推进产业智能化升级。,无,0,无,0,无,0,无,0
+昆仑芯（北京）科技有限公司,昆仑芯 AI 加速器组 R480-X8,https://www.kunlunxin.com/product/272.html,无,基于 OCP-OAI 设计标准，UBB 基板搭载 8 个包含昆仑芯 2 代芯片的 OAM 模组。可构建大规模并行计算集群，支持大型模型训练和推理的需求。,昆仑芯AI加速器组R480,6852178240,无,0,无,0,无,0

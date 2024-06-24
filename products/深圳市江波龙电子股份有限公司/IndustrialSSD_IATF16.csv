@@ -1,0 +1,72 @@
+产品网址：https://www.longsys.com/products/solid-state-drive/industrial-ssd/industrial-ssd.html
+产品结构：root->IndustrialSSD|IATF16949CompliantQuality|Longsys
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Industrial SSD|无|IATF 16949 合规，板载温度传感器，支持 TRIM 功能、S.M.A.R.T 功能和温度控制功能，采用自主研发的固件算法设计，宽温范围，克服恶劣环境，解决本地应用问题，严格的测试程序确保质量，适用于工业计算机、轨道交通、工业设备、电力设备、车载 DVR、服务器、POS 机、医疗设备等|
+
+Product Series,PN,NAND Flash,Capacity,Type,DRAM,Interface,Operating Temperature,Mean Time Between Failures (Hour),Warranty Period,Sequential Read Speed*
+A88,FISKRW032G-B2A43,MLC,32GB,M.2 2242,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A88,FISKRW064G-B2A43,MLC,64GB,M.2 2242,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A88,FISKRW128G-B2A43,MLC,128GB,M.2 2242,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A88,FISKRW008G-B2A53,pSLC,8GB,M.2 2242,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A88,FISKRW016G-B2A53,pSLC,16GB,M.2 2242,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A88,FISKRW032G-B2A53,pSLC,32GB,M.2 2242,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A88,FISQRW032G-B2A43,MLC,32GB,mSATA,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A88,FISQRW064G-B2A43,MLC,64GB,mSATA,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A88,FISQRW128G-B2A43,MLC,128GB,mSATA,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A88,FISQRW008G-B2A53,pSLC,8GB,mSATA,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A88,FISQRW016G-B2A53,pSLC,16GB,mSATA,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A88,FISQRW032G-B2A53,pSLC,32GB,mSATA,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A88,FISHRW064G-B2A43,MLC,64GB,2.5inch,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A88,FISHRW128G-B2A43,MLC,128GB,2.5inch,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A88,FISPRW064G-B2A43,MLC,64GB,M.2 2280,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A88,FISPRW128G-B2A43,MLC,128GB,M.2 2280,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A66,FISKRW064G-G8A56,TLC,64GB,M.2 2242,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A66,FISKRW128G-G8A56,TLC,128GB,M.2 2242,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A66,FISKRW256G-G8A56,TLC,256GB,M.2 2242,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A66,FISKRW512G-G8A56,TLC,512GB,M.2 2242,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A66,FISQRW064G-G8A56,TLC,64GB,mSATA,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A66,FISQRW128G-G8A56,TLC,128GB,mSATA,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A66,FISQRW256G-G8A56,TLC,256GB,mSATA,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A66,FISQRW512G-G8A56,TLC,512GB,mSATA,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A66,FISQRW001T-G8A56,TLC,001TB,mSATA,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A66,FISHRW064G-G8A56,TLC,64GB,2.5inch,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A66,FISHRW128G-G8A56,TLC,128GB,2.5inch,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A66,FISHRW256G-G8A56,TLC,256GB,2.5inch,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A66,FISHRW512G-G8A56,TLC,512GB,2.5inch,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A66,FISHRW001T-G8A56,TLC,1TB,2.5inch,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A66,FISPRW064G-G8A56,TLC,64GB,M.2 2280,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A66,FISPRW128G-G8A56,TLC,128GB,M.2 2280,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A66,FISPRW256G-G8A56,TLC,256GB,M.2 2280,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A66,FISPRW512G-G8A56,TLC,512GB,M.2 2280,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+A66,FISPRW001T-G8A56,TLC,1TB,M.2 2280,DRAM-less,SATA III,-40-85℃,3 million hours,3 years,540MB/s
+K88,FISKRM032G-01A43,MLC,32GB,M.2 2242,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,540MB/s
+K88,FISKRM064G-01A43,MLC,64GB,M.2 2242,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,540MB/s
+K88,FISKRM128G-01A43,MLC,128GB,M.2 2242,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,540MB/s
+K88,FISQRM032G-01A43,MLC,32GB,mSATA,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,540MB/s
+K88,FISQRM064G-01A43,MLC,64GB,mSATA,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,540MB/s
+K88,FISQRM128G-01A43,MLC,128GB,mSATA,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,540MB/s
+K88,FISHRM064G-01A43,MLC,64GB,2.5inch,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,540MB/s
+K88,FISHRM128G-01A43,MLC,128GB,2.5inch,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,540MB/s
+K88,FISPRM064G-01A43,MLC,64GB,M.2 2280,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,540MB/s
+K88,FISPRM128G-01A43,MLC,128GB,M.2 2280,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,540MB/s
+K66,FISKRM064G-G8A56,TLC,64GB,M.2 2242,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,540MB/s
+K66,FISKRM128G-G8A56,TLC,128GB,M.2 2242,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,541MB/s
+K66,FISKRM256G-G8A56,TLC,256GB,M.2 2242,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,542MB/s
+K66,FISKRM512G-G8A56,TLC,512GB,M.2 2242,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,543MB/s
+K66,FISQRM064G-G8A56,TLC,64GB,mSATA,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,545MB/s
+K66,FISQRM128G-G8A56,TLC,128GB,mSATA,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,546MB/s
+K66,FISQRM256G-G8A56,TLC,256GB,mSATA,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,547MB/s
+K66,FISQRM512G-G8A56,TLC,512GB,mSATA,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,548MB/s
+K66,FISQRM001T-G8A56,TLC,1TB,mSATA,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,549MB/s
+K66,FISHRM064G-G8A56,TLC,64GB,2.5inch,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,550MB/s
+K66,FISHRM128G-G8A56,TLC,128GB,2.5inch,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,551MB/s
+K66,FISHRM256G-G8A56,TLC,256GB,2.5inch,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,552MB/s
+K66,FISHRM512G-G8A56,TLC,512GB,2.5inch,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,553MB/s
+K66,FISHRM001T-G8A56,TLC,1TB,2.5inch,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,554MB/s
+K66,FISHRM064G-G8A56,TLC,64GB,M.2 2280,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,555MB/s
+K66,FISPRM128G-G8A56,TLC,128GB,M.2 2280,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,556MB/s
+K66,FISPRM256G-G8A56,TLC,256GB,M.2 2280,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,557MB/s
+K66,FISPRM512G-G8A56,TLC,512GB,M.2 2280,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,558MB/s
+K66,FISPRM001T-G8A56,TLC,1TB,M.2 2280,DRAM-less,SATA III,-25-85℃,3 million hours,3 years,559MB/s

@@ -1,0 +1,60 @@
+-> root https://www.sensylink.com
+  -> 首页 
+    -> 产品中心 
+      -> 温度传感器芯片 https://www.sensylink.com/html/web//product/wdcgq/index.html
+        -> 模拟输出温度传感器_1 https://www.sensylink.com/html/web//product/wdcgq/mnwdcgq/index.html
+        -> 数字输出温度传感器（本地）_1 https://www.sensylink.com/html/web//product/wdcgq/xpbdcw/index.html
+        -> 数字输出温度传感器（本地+远程）_1 https://www.sensylink.com/html/web//product/wdcgq/xpbdcwjydcw/index.html
+        -> 热电偶信号调理芯片_1 https://www.sensylink.com/html/web//product/wdcgq/redianouxinhaotiaolixinpian/index.html
+        -> 温度开关芯片_1 https://www.sensylink.com/html/web//product/wdcgq/wendukaiguan/index.html
+      -> 温湿度传感器芯片 https://www.sensylink.com/html/web//product/wsdcgq/index.html
+        -> 温湿度传感器_1 https://www.sensylink.com/html/web//product/wsdcgq/cwsdcgq/index.html
+      -> 热管理芯片 https://www.sensylink.com/html/web//product/reguanlixinpian/index.html
+        -> 通用风扇管理芯片_1 https://www.sensylink.com/html/web//product/reguanlixinpian/tongyongfengshanguanlixinpian/index.html
+        -> 专用风扇管理芯片_1 https://www.sensylink.com/html/web//product/reguanlixinpian/zhuanyongfengshanguanlixinpian/1788489970307162113.html
+      -> 电流/功率传感器 https://www.sensylink.com/html/web//product/dianliuchuanganqi/index.html
+        -> 数字功率监测器_1 https://www.sensylink.com/html/web//product/dianliuchuanganqi/shuzigonglvjianceqi/index.html
+      -> 环境光传感器_1 https://www.sensylink.com/html/web//product/huoerchuanganqi/index.html
+      -> 通用ADC https://www.sensylink.com/html/web//product/sjzhq/index.html
+        -> 通用ADC_1 https://www.sensylink.com/html/web//product/sjzhq/tyadc/index.html
+      -> 电压基准源_1 https://www.sensylink.com/html/web//product/dianyajizhunyuan/index.html
+      -> 数字接口IC https://www.sensylink.com/html/web//product/szjqic/index.html
+        -> GPIO扩展_1 https://www.sensylink.com/html/web//product/szjqic/gpiokz/index.html
+          -> GPIO 扩展 
+          -> GPIO 扩展 
+          -> GPIO 扩展 
+          -> GPIO 扩展 
+          -> GPIO 扩展 
+          -> GPIO 扩展 
+          -> GPIO 扩展 
+          -> GPIO 扩展 
+          -> GPIO 扩展 
+        -> 开关-多路复用器_1 https://www.sensylink.com/html/web//product/szjqic/kgdlfyq/index.html
+        -> I2C接口控制开关_1 https://www.sensylink.com/html/web//product/szjqic/I2Ckgdlfyq/index.html
+          -> I2C 接口控制开关 
+          -> I2C 接口控制开关 
+          -> I2C 接口控制开关 
+          -> I2C 接口控制开关 
+          -> I2C 接口控制开关 
+          -> I2C 接口控制开关 
+          -> I2C 接口控制开关 
+          -> I2C 接口控制开关 
+          -> I2C 接口控制开关 
+        -> 缓冲-信号中继器_1 https://www.sensylink.com/html/web//product/szjqic/hcxhzjq/index.html
+        -> 电平转换器_1 https://www.sensylink.com/html/web//product/szjqic/zxdydpzh/index.html
+  -> SensyLink_6 https://www.sensylink.com/html/web//aboutus/news/chanpinfabu/1670694080768253954.html
+    -> 开关型电平转换器 
+    -> 内置沿加速器的开关型电平转换器 
+  -> SensyLink_7 https://www.sensylink.com/html/web//aboutus/news/chanpinfabu/1670692599847591938.html
+  -> SensyLink_8 https://www.sensylink.com/html/web//aboutus/news/chanpinfabu/1670443685944893441.html
+  -> SensyLink_9 https://www.sensylink.com/html/web//aboutus/news/chanpinfabu/1670442842990452737.html
+  -> SensyLink_10 https://www.sensylink.com/html/web//aboutus/news/chanpinfabu/1670441442256494594.html
+  -> SensyLink_11 https://www.sensylink.com/html/web/aboutus/news/chanpinfabu/index.html
+    -> 系统级热管理芯片 
+    -> GPIO 扩展芯片 
+    -> 双向电流/功率监测器 
+    -> 总线式脉冲计数接口数字温度传感器 
+    -> 数字温度传感器芯片 
+    -> 预编程数字温度开关芯片 
+    -> 数字温湿度度传感器 
+    -> 单总线协议温湿度传感器 

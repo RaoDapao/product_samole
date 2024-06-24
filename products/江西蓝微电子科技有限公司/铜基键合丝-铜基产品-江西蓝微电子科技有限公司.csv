@@ -1,0 +1,44 @@
+产品网址：http://www.jxlwdz.cn/productshow.php?cid=20&id=159
+产品结构：root->铜基键合丝-铜基产品-江西蓝微电子科技有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|铜基键合丝|无|键合铜丝和钯铜丝产品机械性能|
+
+产品名称  Product name,型号Type,特性  Characteristics,特性  Characteristics.1,适用范围  Scope of application
+键合铜丝Copper bonding wire,HC-1,普通硬度  Hard,"电热性能优良，金属间化合物生产速度慢，低成本  Excellent electric and thermal performance,Lesser growth of Intermetallic compound,Very low cost","分立器件（TO，SOT，SOD）；IC （DIP，SIP，SOP，QFP）  TR(TO,SOT,SOD),IC(DIP,SIP,SOP,QFP)"
+键合铜丝Copper bonding wire,HC-2,软铜  Soft,"电热性能优良，金属间化合物生产速度慢，低成本  Excellent electric and thermal performance,Lesser growth of Intermetallic compound,Very low cost","分立器件（TO，SOT，SOD）；IC （DIP，SIP，SOP，QFP）  TR(TO,SOT,SOD),IC(DIP,SIP,SOP,QFP)"
+键合铜丝Copper bonding wire,HC-3,超软铜  Super soft,"电热性能优良，金属间化合物生产速度慢，低成本  Excellent electric and thermal performance,Lesser growth of Intermetallic compound,Very low cost","分立器件（TO，SOT，SOD）；IC （DIP，SIP，SOP，QFP）  TR(TO,SOT,SOD),IC(DIP,SIP,SOP,QFP)"
+钯铜丝  Pd coated copper wire,HCP-1,普通硬度  Hard,"表面镀钯，良好抗氧化性，电热性能优良，金属间化合物生长速度慢，低成本  Good oxidation resistance,Excellent electric and thermal performance,Lesser growth of Intermetallic compound Low cost","LED封装  IC封装（QFN，QFP，BGA，CSP，RGB）LED,IC（QFN，QFP，BGA，CSP，RGB）"
+钯铜丝  Pd coated copper wire,HCP-2,软铜  Soft,"表面镀钯，良好抗氧化性，电热性能优良，金属间化合物生长速度慢，低成本  Good oxidation resistance,Excellent electric and thermal performance,Lesser growth of Intermetallic compound Low cost","LED封装  IC封装（QFN，QFP，BGA，CSP，RGB）LED,IC（QFN，QFP，BGA，CSP，RGB）"
+钯铜丝  Pd coated copper wire,HCP-3,超软铜  Super soft,"表面镀钯，良好抗氧化性，电热性能优良，金属间化合物生长速度慢，低成本  Good oxidation resistance,Excellent electric and thermal performance,Lesser growth of Intermetallic compound Low cost","LED封装  IC封装（QFN，QFP，BGA，CSP，RGB）LED,IC（QFN，QFP，BGA，CSP，RGB）"
+金钯铜丝  Pd-Au coated copper wire,HCA-1,软铜  Soft,"表面镀金钯，高可靠的第二点接合性，良好抗氧化性  Good oxidation resistance,Excellent 2st bonding reliability","IC封装（QFN，QFP，BGA，CSP  IC (QFN,QFP,BGA,CSP)"
+金钯铜丝  Pd-Au coated copper wire,HCA-2,超软铜  Super soft,"表面镀金钯，高可靠的第二点接合性，良好抗氧化性  Good oxidation resistance,Excellent 2st bonding reliability","IC封装（QFN，QFP，BGA，CSP  IC (QFN,QFP,BGA,CSP)"
+
+
+直径  Diameter,直径  Diameter.1,最小拉断力  Breaking load(min)  cN,最小拉断力  Breaking load(min)  cN.1,最小拉断力  Breaking load(min)  cN.2,最小拉断力  Breaking load(min)  cN.3,伸长率  Elongation  %,伸长率  Elongation  %.1
+mm,mil,HC-1/HCP-1,HC-2/HCP-2,HC-3/HCP-3,HC-1/HCP-1,HC-2/HCP-2,HC-3/HCP-3
+0.013,0.52,1.0,1.5,1.0,4.0-10.0,4.0-10.0,4.0-10.0
+0.015,0.60,1.5,2.0,1.5,5.0-11.0,5.0-11.0,5.0-11.0
+0.016,0.64,2.0,2.0,2.0,6.0-12.0,6.0-12.0,6.0-12.0
+0.017,0.68,2.5,2.5,2.5,7.0-13.0,7.0-13.0,7.0-13.0
+0.018,0.70,3.5,3.0,3.0,8.0-14.0,8.0-14.0,9.0-15.0
+0.019,0.75,4.0,3.5,3.5,8.0-14.0,8.0-14.0,9.0-15.0
+0.020,0.80,4.5,4.0,4.0,8.0-15.0,9.0-15.0,10.0-16.0
+0.021,0.84,5.0,4.5,4.0,8.0-15.0,9.0-16.0,10.0-17.0
+0.022,0.87,5.5,5.0,4.5,8.0-15.0,9.0-16.0,10.0-17.0
+0.023,0.90,6.5,6.0,5.5,8.0-16.0,9.0-17.0,10.0-18.0
+0.024,0.95,8.0,7.5,7.0,8.0-17.0,9.0-18.0,10.0-19.0
+0.025,1.00,9.0,8.5,8.0,8.0-17.0,9.0-18.0,10.0-19.0
+0.028,1.12,11.0,10.0,10.0,8.0-18.0,9.0-19.0,10.0-20.0
+0.030,1.20,11.0,10.0,10.0,9.0-19.0,10.0-20.0,11.0-21.0
+0.032,1.25,11.0,10.0,10.0,9.0-19.0,10.0-20.0,11.0-21.0
+0.033,1.30,11.0,10.0,10.0,9.0-19.0,10.0-20.0,11.0-21.0
+0.035,1.40,11.0,10.0,10.0,10.0-20.0,11.0-21.0,12.0-22.0
+0.038,1.50,16.0,15.0,14.0,10.0-20.0,11.0-22.0,12.0-22.0
+0.040,1.60,16.0,15.0,14.0,10.0-20.0,11.0-22.0,13.0-23.0
+0.042,1.65,22.0,20.0,18.0,11.0-21.0,12.0-24.0,14.0-24.0
+0.043,1.70,22.0,20.0,18.0,11.0-21.0,12.0-24.0,14.0-24.0
+0.044,1.76,24.0,22.0,20.0,11.0-21.0,12.0-24.0,14.0-24.0
+0.045,1.80,24.0,22.0,20.0,11.0-21.0,12.0-25.0,14.0-24.0
+0.050,2.00,30.0,28.0,26.0,12.0-22.0,13.0-25.0,15.0-25.0

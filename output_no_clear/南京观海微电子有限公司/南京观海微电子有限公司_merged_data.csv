@@ -1,0 +1,10 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+南京观海微电子有限公司,DDI 芯片,http://www.gohimicro.com/products.html,无,将数字信号转化为模拟信号，具有高分辨率和色彩饱和度，带来卓越的使用体验和提高品牌信誉度的作用,root,1906551877,gohi|OfficialWebsite,6873263731,无,0,无,0
+南京观海微电子有限公司,TDDI 芯片,http://www.gohimicro.com/products.html,无,驱动触控显示器，具有数字转模拟、触摸识别和高响应速度等特性，带来流畅触控和稳定性，降低产品成本,root,1906551877,gohi|OfficialWebsite,6873263731,无,0,无,0
+南京观海微电子有限公司,E-Paper 芯片,http://www.gohimicro.com/products.html,无,在阅读器、智能手表、标签、公告板等各种领域中得到广泛应用。它通过高效、清晰、节能的特性，为用户带来更好的视觉体验,root,1906551877,gohi|OfficialWebsite,6873263731,无,0,无,0
+南京观海微电子有限公司,车载芯片,http://www.gohimicro.com/products.html,无,能够提供高分辨率、高色彩深度的图像和视频输出，并支持多种接口类型，如 HDMI、MIPI 等，为驾驶者提供更加清晰、生动的行车信息和娱乐内容,root,1906551877,gohi|OfficialWebsite,6873263731,无,0,无,0
+南京观海微电子有限公司,TDDI 芯片,http://www.gohimicro.com/product-tddis.html,GH3399,应用于手机，封装为 COG，接口有 MIPI DSI/SPI、I2C，类型为 16.7M color RAMless，分辨率为 720RGBx1760，报点率为 120Hz,root,1906551877,gohi|OfficialWebsite,6873263731,无,0,无,0
+南京观海微电子有限公司,TDDI 芯片,http://www.gohimicro.com/product-tddis.html,GH3599,应用于手机，封装为 COG，接口有 MIPI DSI/SPI、I2C，类型为 16.7M color RAMless，分辨率为 720RGBx1760，报点率为 120Hz,root,1906551877,gohi|OfficialWebsite,6873263731,无,0,无,0
+南京观海微电子有限公司,E-Paper 芯片,http://www.gohimicro.com/product-powers.html,GH7303,封装：COG，输入：2.2~4.8，类型：2 色/3 色，分辨率：1280 x 800,root,1906551877,gohi|OfficialWebsite,6873263731,无,0,无,0
+南京观海微电子有限公司,E-Paper 芯片,http://www.gohimicro.com/product-powers.html,GH7503,封装：COG，输入：2.2~4.8，类型：2 色/3 色，分辨率：1280 x 800,root,1906551877,gohi|OfficialWebsite,6873263731,无,0,无,0
+南京观海微电子有限公司,车载芯片,http://www.gohimicro.com/product-car.html,GH7001,应用于智慧车机，支持高清晰度显示、多媒体播放、导航定位、驾驶辅助等功能，提供流畅的图像和视频展示，实时获取道路信息，帮助驾驶者选择最佳路线，提高行车效率和安全性,root,1906551877,gohi|OfficialWebsite,6873263731,无,0,无,0

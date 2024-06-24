@@ -1,0 +1,78 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/762.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Network Camera|Lite|2MP Motorized Starlight IR Bullet Camera，具有金属外壳，支持多种视频编码格式，低照度下仍能保持清晰彩色图像，内置麦克风，支持最大 512GB 的 microSD 卡，支持智能监控，工作温度范围为-35℃至 65℃，湿度 95%以下，DC12V±25%供电，最大功耗 8W，POE 802.3af 供电，最大功耗 9W，防护等级为 IP67|
+
+Camera,Unnamed: 1
+Image Sensor,"1/2.8""CMOS"
+Min. Illumination,"Color:0.002Lux@(F1.6,AGC ON),B/W:0Lux with IR"
+Shutter Time,1s~1/100000s
+Day&Night,IR-cut filter with auto switch (ICR)
+WDR,120dB
+S/N,>42dB
+Angle Adjustment,0~360°(P); 0~90°(T); 0~360°(R)
+Lens,
+Lens Type,Motorized
+Focal Length,2.7~13.5mm
+Lens Mount,Φ14
+Aperture Range,F1.6
+Field of View,102.9°~31.4°(H); 55°~17.9°(V); 116.7°~36.1°(D)
+DORI Distance,W: Detect:37.2m Observe:14.7m Recognize:7.4m Identify:3.7m T: Detect:186.2m Observe:73.8m Recognize:37.2m Identify:18.6m
+Illuminator,
+IR LEDs,4
+IR Distance,80m
+Wavelength,850nm
+Compression Standard,
+Video Compression,S+265/H.265/H.264B/H.264M/H.264H
+Video Bit Rate,32k~6Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D
+Audio Sampling Rate,8kHz/32kHz/48kHz
+Image,
+Max. Resolution,1920×1080@30fps
+Main Stream,"PAL:25fps(1920×1080, 1280×720, 640×480, 704×576) NTSC:30fps(1920×1080, 1280×720, 640×480, 704×480)"
+Sub Stream,"PAL:25fps(704×576, 704×288, 640×360, 352×288) NTSC:30fps(704×480, 704×240, 640×360, 352×240)"
+BLC,Yes
+HLC,Yes
+AGC,Yes
+3D DNR,Yes
+White Balance,Auto/Semi-Auto/Manual/Sunshine/Nature Light/Warmlight Lamp/Daylight Lamp/Filament Lamp/Lock White Balance
+ROI,8 rectangular static areas
+OSD,"Overlay of additional characters in 1 regions, 1 line, with a maximum of 48 characters or 16 Chinese characters per region; 16*16/32*32/48*48"
+Privacy Mask,4 black static areas
+Defog,Yes
+Feature,
+Alarm Trigger,"Motion Detection; Mask Alarm; Disk Full; Disk R/W Error; IP Address Conflict; Event Input, Event Output"
+Linkage Method,trigger recording; trigger capture; notify surveillance center
+Video Analytics,Tripwire; Perimeter
+Rules of behavior analyse in 1 scene,2
+Network,
+ANR,Yes
+Protocols,HTTP; HTTPS; TCP/IP; UDP; UPnP; ICMP; DHCP; DNS; DDNS; Easy DDNS; NTP; QoS; IPv4; SSH; Unicast; RTSP; FTP
+System Compatibility,P2P(Mutually exclusive with Profile G); ONVIF Profile S/T/G; CGI; Milestone
+Remote Connection,≤2
+Client,Easy7 Smart Client
+Moblie Client,EasyLive Plus
+Interface,
+Communication Interface,"1*RJ-45,10/100 Mbps self-adaptive Ethernet port"
+Audio I/O,1; 1
+Alarm I/O,"1-ch,TTL input,3mA,3.3VDC; 1-ch,TTL output,30mA,12VDC"
+Reset Button,Yes
+On-board storage,"Support microSD/microSDHC/microSDXC card, up to 512 GB"
+RTC,Yes
+General,
+Web Client Language,19 languages Simple Chinese/Traditional Chinese/English/Spanish/Korean/Italian/Turkish/Russian/Thai/French/Polish/Dutch/Hebrew/Arabic/Vietnamese/German/  Ukrainian/Portuguese/Albanian
+Operating Temperature,-35℃~65℃(No turning on the light)
+Operating Humidity,Humidity 95% or less (no condensation)
+Storage Temperature,-35℃~65℃
+Storage Humidity,Humidity 95% or less (no condensation)
+Power Supply,"DC12V±25%,MAX 8W; POE 802.3af,MAX 9W"
+Protection,Surge4000V; ESD6000V; IP67
+Boundary Dimensions,239(L)90(W)90(H)mm
+Package Dimensions,280(L)125(W)140(H)mm
+GrossWeight,1.28kg
+
+
+Date,Title,Type
+2024-04-02,1D.20010.003579_TC-C32US I8AEYMCH2.7-13.5mmV4.0_en,pdf

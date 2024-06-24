@@ -1,0 +1,163 @@
+-> root http://yes-lcd.com
+  -> PRODUCTCATEGORIES_PR https://www.yes-lcd.com/product/5
+    -> TFT 
+    -> TFT 
+    -> TFT 
+    -> TFT 
+    -> TFT 
+  -> TFTStandardList_YesO https://www.yes-lcd.com/product/237.html
+  -> YTS240DLBH-01-100N_Y https://www.yes-lcd.com/product/260.html
+  -> YTS240DLBH-01-100C_Y https://www.yes-lcd.com/product/259.html
+  -> YTS200DLAF-01-100N_Y https://www.yes-lcd.com/product/258.html
+  -> YTS177BLAU-01-100N_Y https://www.yes-lcd.com/product/257.html
+  -> YTS154LAA-01-100N_Ye https://www.yes-lcd.com/product/256.html
+  -> YTS154LAA-01-100C_Ye https://www.yes-lcd.com/product/255.html
+  -> YTS130HLAA-01-100N_Y https://www.yes-lcd.com/product/254.html
+  -> CapacitiveTouchPanel https://www.yes-lcd.com/product/72
+  -> CTP_PRODUCTCATEGORIE https://www.yes-lcd.com/product/78
+    -> CTP 
+    -> CTP 
+    -> CTP 
+    -> CTP 
+    -> CTP 
+    -> CTP 
+  -> LENS_PRODUCTCATEGORI https://www.yes-lcd.com/product/79
+  -> SENSOR_PRODUCTCATEGO https://www.yes-lcd.com/product/80
+    -> 5.5Gsensor 
+    -> 5.5FILMsensor 
+  -> TFTLEDBacklight_PROD https://www.yes-lcd.com/product/70
+    -> TFT LED Backlight 
+    -> TFT LED Backlight 
+    -> TFT LED Backlight 
+    -> TFT LED Backlight 
+    -> TFT LED Backlight 
+    -> TFT LED Backlight 
+  -> MonochromeLEDBacklig https://www.yes-lcd.com/product/71
+    -> Monochrome LED Backlight 
+    -> Monochrome LED Backlight 
+    -> Monochrome LED Backlight 
+  -> SideLEDBacklight_PRO https://www.yes-lcd.com/product/73
+    -> Side LED Backlight 
+    -> Side LED Backlight 
+    -> Side LED Backlight 
+  -> BottomLEDBacklight_P https://www.yes-lcd.com/product/74
+  -> E-INKDISPLAY_PRODUCT https://www.yes-lcd.com/product/12
+  -> GlassSubstrateElectr https://www.yes-lcd.com/product/54
+    -> Glass Substrate Electronic Paper 
+    -> Glass Substrate Electronic Paper 
+    -> Glass Substrate Electronic Paper 
+    -> Glass Substrate Electronic Paper 
+    -> Glass Substrate Electronic Paper 
+    -> Glass Substrate Electronic Paper 
+  -> PCBSubstrateElectron https://www.yes-lcd.com/product/55
+    -> PCB 基板电子纸 
+    -> PCB 基板电子纸 
+    -> PCB 基板电子纸 
+    -> PCB 基板电子纸 
+  -> FPCSubstrateElectron https://www.yes-lcd.com/product/56
+    -> FPC 基板电子纸 
+    -> FPC 基板电子纸 
+    -> FPC 基板电子纸 
+    -> FPC 基板电子纸 
+  -> PETSubstrateElectron https://www.yes-lcd.com/product/57
+  -> MonochromeLEDBacklig_1 https://www.yes-lcd.com/product/11
+  -> FS_PRODUCTCATEGORIES https://www.yes-lcd.com/product/58
+  -> STN_PRODUCTCATEGORIE https://www.yes-lcd.com/product/59
+  -> TN_PRODUCTCATEGORIES https://www.yes-lcd.com/product/60
+    -> QVGA for medical treatment 
+    -> dot matrix display for meters 
+  -> VA_PRODUCTCATEGORIES https://www.yes-lcd.com/product/61
+  -> LCDPANELS_PRODUCTCAT https://www.yes-lcd.com/product/62
+    -> Bi-Stable 
+    -> Multi-Stable 
+    -> VA 静态 
+    -> FS 
+    -> 640120 BSTN 
+    -> 320240 NFSTN-Z 
+  -> TN_PRODUCTCATEGORIES_1 https://www.yes-lcd.com/product/63
+    -> TN 负显 
+    -> TN 黑底亮字 
+  -> STN_PRODUCTCATEGORIE_1 https://www.yes-lcd.com/product/64
+    -> LCD PANELS 
+    -> LCD PANELS 
+    -> LCD PANELS 
+    -> LCD PANELS 
+    -> LCD PANELS 
+    -> LCD PANELS 
+  -> VA_PRODUCTCATEGORIES_1 https://www.yes-lcd.com/product/65
+  -> FS_PRODUCTCATEGORIES_1 https://www.yes-lcd.com/product/66
+  -> Bi-Stable_PRODUCTCAT https://www.yes-lcd.com/product/67
+  -> Multi-Stable_PRODUCT https://www.yes-lcd.com/product/68
+  -> OLED_PRODUCTCATEGORI https://www.yes-lcd.com/product/76
+    -> LED Backlight 
+    -> Black and White Standard Products 
+    -> OLED 
+    -> PCBA 
+  -> TFTStandardList_YesO_1 https://www.yes-lcd.com/product/237.html?productCateId=75
+  -> PMMA_YesOptoelectron https://www.yes-lcd.com/product/242.html
+  -> 5.5寸_YesOptoelectron https://www.yes-lcd.com/product/239.html
+  -> 5.5Gsensor_YesOptoel https://www.yes-lcd.com/product/245.html
+  -> 5.5FILMsensor_YesOpt https://www.yes-lcd.com/product/244.html
+  -> 7寸_YesOptoelectronic https://www.yes-lcd.com/product/240.html
+  -> 10.1寸_YesOptoelectro https://www.yes-lcd.com/product/241.html
+  -> 9.7寸CTP_YesOptoelect https://www.yes-lcd.com/product/235.html
+  -> 10.1寸CTP_YesOptoelec https://www.yes-lcd.com/product/236.html
+  -> 7寸CTP_YesOptoelectro https://www.yes-lcd.com/product/234.html
+  -> 5寸CTP_YesOptoelectro https://www.yes-lcd.com/product/233.html
+  -> 5.5寸CTP_YesOptoelect https://www.yes-lcd.com/product/232.html
+  -> 4.3寸CTP_YesOptoelect https://www.yes-lcd.com/product/231.html
+  -> 物理钢化盖板_YesOptoelectr https://www.yes-lcd.com/product/243.html
+  -> 4.3寸_YesOptoelectron https://www.yes-lcd.com/product/238.html
+  -> AP119-101-42DA_YesOp https://www.yes-lcd.com/product/227.html
+  -> AP208-080-21M_YesOpt https://www.yes-lcd.com/product/226.html
+  -> AP210-070-33DA_YesOp https://www.yes-lcd.com/product/225.html
+  -> AP280-936-36A_YesOpt https://www.yes-lcd.com/product/224.html
+  -> HCM17191W-02V00-700_ https://www.yes-lcd.com/product/223.html
+  -> YSS071053A-W-3_YesOp https://www.yes-lcd.com/product/222.html
+  -> YSSA117088B-W-3_YesO https://www.yes-lcd.com/product/220.html
+  -> YSSE087047A-W-1_YesO https://www.yes-lcd.com/product/219.html
+  -> YSSF131038A-W-1_YesO https://www.yes-lcd.com/product/218.html
+  -> YMS600800-060AAAMFGN https://www.yes-lcd.com/product/171.html
+  -> YMS540960-047AAAMFGN https://www.yes-lcd.com/product/170.html
+  -> YMS480800-043AAAMFGN https://www.yes-lcd.com/product/169.html
+  -> YMS264176-0270BAAMFG https://www.yes-lcd.com/product/168.html
+  -> YMS152152-0154AADMFG https://www.yes-lcd.com/product/167.html
+  -> YMS128296-0143AAAMFG https://www.yes-lcd.com/product/166.html
+  -> O1125A_YesOptoelectr https://www.yes-lcd.com/product/248.html
+  -> 2.36“E5_YesOptoelect https://www.yes-lcd.com/product/247.html
+  -> 1.64”E5_YesOptoelect https://www.yes-lcd.com/product/246.html
+  -> YMCE1016-0391AAAMFSN https://www.yes-lcd.com/product/179.html
+  -> YMCE1018-0068AAAMFFN https://www.yes-lcd.com/product/184.html
+  -> YMCE1013-0172AAAMFON https://www.yes-lcd.com/product/182.html
+  -> YMS640384-075CABMFGN https://www.yes-lcd.com/product/160.html
+  -> YMC152152-0154AABMFG https://www.yes-lcd.com/product/158.html
+  -> YMS400300-042BABMFGN https://www.yes-lcd.com/product/159.html
+  -> YMC128296-0290AABMFG https://www.yes-lcd.com/product/157.html
+  -> YMCE1016-0391AAAMFSN_1 https://www.yes-lcd.com/product/178.html
+  -> YMCE1014-0126AAAMFFN https://www.yes-lcd.com/product/183.html
+  -> YMCE1016-0391AAAMFSN_2 https://www.yes-lcd.com/product/181.html
+  -> YMCO1052AAAMFGN-WB_Y https://www.yes-lcd.com/product/177.html
+  -> YMCO1052AAAMFGN-W_Ye https://www.yes-lcd.com/product/176.html
+  -> YMCO1052AAAMFGN-R_Ye https://www.yes-lcd.com/product/175.html
+  -> YMCO1052AAAMFGN-BW_Y https://www.yes-lcd.com/product/174.html
+  -> YMCE1027-0320AAAMFGN https://www.yes-lcd.com/product/173.html
+  -> YMCC1538AAAMFGN_YesO https://www.yes-lcd.com/product/172.html
+  -> YMCE1016-0391AAAMFSN_3 https://www.yes-lcd.com/product/180.html
+  -> YMCE1020-0110AAAFDON https://www.yes-lcd.com/product/185.html
+  -> VAdisplayformeter_Ye https://www.yes-lcd.com/product/155.html
+  -> VAdisplayforFitnesse https://www.yes-lcd.com/product/154.html
+  -> QVGAformedicaltreatm https://www.yes-lcd.com/product/153.html
+  -> dotmatrixdisplayform https://www.yes-lcd.com/product/152.html
+  -> 128123_YesOptoelectr https://www.yes-lcd.com/product/150.html
+  -> 8colordisplayformete https://www.yes-lcd.com/product/148.html
+  -> 640120BSTN_YesOptoel https://www.yes-lcd.com/product/212.html
+  -> 320240NFSTN-Z_YesOpt https://www.yes-lcd.com/product/211.html
+  -> TN负显_YesOptoelectron https://www.yes-lcd.com/product/200.html
+  -> YDDC41573TN_YesOptoe https://www.yes-lcd.com/product/199.html
+  -> YDDO0081TN_YesOptoel https://www.yes-lcd.com/product/198.html
+  -> TN黑底亮字_YesOptoelectr https://www.yes-lcd.com/product/197.html
+  -> 320240FSTN_YesOptoel https://www.yes-lcd.com/product/210.html
+  -> 320240BSTN_YesOptoel https://www.yes-lcd.com/product/209.html
+  -> 12864YSTN_YesOptoele https://www.yes-lcd.com/product/208.html
+  -> 12864NFSTN-Z_YesOpto https://www.yes-lcd.com/product/207.html
+  -> YTS700TLBC-02-100C_Y https://www.yes-lcd.com/product/252.html?productCateId=75

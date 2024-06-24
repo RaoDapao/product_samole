@@ -1,0 +1,28 @@
+-> root http://www.suntific.com.cn
+  -> 潍坊星泰克微电子材料有限公司-SUN-1 http://www.suntific.com.cn/chanpinzhongxin.html
+    -> SUN-502P 正性光刻胶 
+    -> SUN-100P 系列紫外正性光刻胶 
+    -> SUN-1700P 系列高感度正性光刻胶 
+    -> SUN-1600N 系列纳米压印光刻胶 
+    -> SUN-2100N 系列耐酸腐蚀光刻胶 
+    -> BM 光刻胶 
+    -> 临时键合胶 
+    -> LOR 光刻胶 
+    -> 聚酰亚胺 
+    -> SUN-1100P 系列厚膜正性光刻胶 
+    -> SUN-KrF100 正性光刻胶 
+    -> SUN-DeePR 耐深腐蚀负胶 
+    -> SiResist 系列高硅光刻胶 
+    -> SUN-8i 紫外负性光刻胶 
+    -> SUN-lift1300 系列紫外负性剥离光刻胶 
+    -> SUN-2000N 负性光刻胶 
+  -> SUN-502P正性光刻胶 http://www.suntific.com.cn/products/ledx/sun_502pzhengxingguangkejiao.html
+  -> SUN-100P系列紫外正性光刻胶 http://www.suntific.com.cn/products/ledx/sun_100pxilieziwaizhengxingguangkejiao.html
+    -> 光刻胶 
+    -> 配套试剂 
+  -> SUN-KrF100正性光刻胶 http://www.suntific.com.cn/products/ic/sun_krf100zhengxingguangkejiao.html
+  -> SUN-DeePR耐深腐蚀负胶 http://www.suntific.com.cn/products/tvs/sun_deeprnaishenfushifujiao.html
+  -> SUN-HM-DP系列高硅光刻胶 http://www.suntific.com.cn/products/ic/sun_hm_dpxiliegaoguiguangkejiao.html
+  -> SUN-8i紫外负性光刻胶 http://www.suntific.com.cn/products/ic/sun_8iziwaifuxingguangkejiao.html
+  -> SUN-lift1300系列紫外负性剥离 http://www.suntific.com.cn/products/ic/sun_lift1300xilieziwaifuxingbaoliguangkejiao.html
+  -> SUN-2000N负性光刻胶 http://www.suntific.com.cn/products/display/sun_2000nfuxingguangkejiao.html

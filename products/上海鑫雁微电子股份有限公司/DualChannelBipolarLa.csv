@@ -1,0 +1,10 @@
+产品网址：http://en.golden-chip.com/product.aspx?classid=442
+产品结构：root->DualChannelBipolarLatchedHallIC_GoChipElectronicTechnology(Shanghai)Co.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Dual Channel Bipolar Latched Hall IC|无|内部采用睡眠机制降低功耗，平均功耗可达 uA 极；具有低功耗、高灵敏度、强抗干扰能力等典型特点；典型应用于智能三表、智能门锁、智能开关控制、空气净化器等小家电、扫地机器人、TWS 耳机充电仓等|
+
+Model,Magnetic switch point,Package form,Temperature range,Voltage range,Output current,Download
+GH1423,±40GS,TO-94,50mA,3.8Vdc~30.0Vdc,-40℃~150℃,Download
+GH1428,±20GS,TO-94,25mA,3.8Vdc~24.0Vdc,-40℃~125℃,Download

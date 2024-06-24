@@ -1,0 +1,7 @@
+产品网址：https://www.smartx.com/blog/2024/04/iomesh-kubeblocks-solution
+产品结构：root->整合IOMesh&KubeBlocks产品优势，面向云原生数据库场景的联合解决方案发布–SmartX
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|IOMesh|无|Kubernetes 原生的企业级分布式存储产品，可对 Kubernetes 集群内的存储资源进行整合与管理，并为运行在 Kubernetes 集群上的数据库提供稳定、高性能的持久化块存储资源|
+|KubeBlocks|无|可统一管理和部署 MySQL、PostgreSQL、Redis、MongoDB、Kafka 等多种数据库，并支持对其自动化运维|

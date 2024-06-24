@@ -1,0 +1,43 @@
+产品网址：https://www.longsys.com/products/embedded-storage/embedded-storage/automotive-industriai-wide-temperature-industriai-emmc.html
+产品结构：root->FORESEEIndustrialeMMC64GB|ReliableAutomotiveeMMC|Longsys
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Automotive/Industrial Wide-temperature/Industrial eMMC|无|工作在恶劣环境下，长时间连续工作；高可靠性和长使用寿命，平均故障间隔时间超过 2000 万小时；具有良好的读写性能和可靠性，有助于降低 CPU 平台开发难度|
+
+Product Series,PN,NAND Flash,Capacity,Interface/Protocol,Package,Operating Temperature,Operating Voltage,Size
+Automotive eMMC Grade2,FEMDME004G-A8A39,pSLC,4GB,eMMC 5.1,FBGA153,-40°C~105°C,1.8V/3.3V,11.5*13*1.0 mm
+Automotive eMMC Grade2,FEMDME008G-A8A39,MLC,8GB,eMMC 5.1,FBGA153,-40°C~105°C,1.8V/3.3V,11.5*13*1.0 mm
+Automotive eMMC Grade2,FEMDME008G-A8A43,pSLC,8GB,eMMC 5.1,FBGA153,-40°C~105°C,1.8V/3.3V,11.5*13*1.0 mm
+Automotive eMMC Grade2,FEMDME016G-A8A43,MLC,16GB,eMMC 5.1,FBGA153,-40°C~105°C,1.8V/3.3V,11.5*13*1.0 mm
+Automotive eMMC Grade2,FEMDME032G-A8A58,MLC,32GB,eMMC 5.1,FBGA153,-40°C~105°C,1.8V/3.3V,11.5*13*1.0 mm
+Automotive eMMC Grade2,FEMDME064G-A8A58,MLC,64GB,eMMC 5.1,FBGA153,-40°C~105°C,1.8V/3.3V,11.5*13*1.2 mm
+Automotive eMMC Grade3,FEMDMW008G-88A39,MLC,8GB,eMMC 5.1,FBGA153,-40°C~105°C,1.8V/3.3V,11.5*13*1.0 mm
+Automotive eMMC Grade3,FEMDMW016G-88A43,MLC,16GB,eMMC 5.1,FBGA153,-40°C~105°C,1.8V/3.3V,11.5*13*1.0 mm
+Automotive eMMC Grade3,FEMDMW032G-88A19,3D NAND,32GB,eMMC 5.1,FBGA153,-40°C~105°C,1.8V/3.3V,11.5*13*1.0 mm
+Automotive eMMC Grade3,FEMDMW064G-88A19,3D NAND,64GB,eMMC 5.1,FBGA153,-40°C~105°C,1.8V/3.3V,11.5*13*1.0 mm
+Automotive eMMC Grade3,FEMDMW128G-88A19,3D NAND,128GB,eMMC 5.1,FBGA153,-40°C~105°C,1.8V/3.3V,11.5*13*1.2 mm
+Industrial Wide-Temperature eMMC,FEMDRW008G-88A39,MLC,8GB,eMMC 5.1,FBGA153,-40℃~85℃,1.8V/3.3V,11.5*13*1.0 mm
+Industrial Wide-Temperature eMMC,FEMDRW016G-88A43,MLC,16GB,eMMC 5.1,FBGA153,-40℃~85℃,1.8V/3.3V,11.5*13*1.0 mm
+Industrial Wide-Temperature eMMC,FEMDRW032G-88A19,3D NAND,32GB,eMMC 5.1,FBGA153,-40℃~85℃,1.8V/3.3V,11.5*13*1.0 mm
+Industrial Wide-Temperature eMMC,FEMDRW064G-88A19,3D NAND,64GB,eMMC 5.1,FBGA153,-40℃~85℃,1.8V/3.3V,11.5*13*1.0 mm
+Industrial Wide-Temperature eMMC,FEMDRW128G-88A19,3D NAND,128GB,eMMC 5.1,FBGA153,-40℃~85℃,1.8V/3.3V,11.5*13*1.2 mm
+Industrial eMMC,FEMDRM008G-58A39,MLC,8GB,eMMC 5.1,FBGA153,-25°C~85°C,1.8V/3.3V,11.5*13*1.0 mm
+Industrial eMMC,FEMDRM016G-58A43,MLC,16GB,eMMC 5.1,FBGA153,-25°C~85°C,1.8V/3.3V,11.5*13*1.0 mm
+Industrial eMMC,FEMDRM032G-A3A55,3D NAND,32GB,eMMC 5.1,FBGA153,-25°C~85°C,1.8V/3.3V,11.5*13*1.0 mm
+Industrial eMMC,FSEIASLD-32G,3D NAND,32GB,eMMC 5.1,FBGA153,-25°C~85°C,1.8V/3.3V,11.5*13*1.0 mm
+Industrial eMMC,FSEIASLD-64G,3D NAND,64GB,eMMC 5.1,FBGA153,-25°C~85°C,1.8V/3.3V,11.5*13*1.0 mm
+Industrial eMMC,FEMDRM064G-A3A56,3D NAND,64GB,eMMC 5.1,FBGA153,-25°C~85°C,1.8V/3.3V,11.5*13*1.0 mm
+Industrial eMMC,FEMDRM128G-A3A56,3D NAND,128GB,eMMC 5.1,FBGA153,-25°C~85°C,1.8V/3.3V,11.5*13*1.0 mm
+Industrial eMMC,FSEIASLD-128G,3D NAND,128GB,eMMC 5.1,FBGA153,-25°C~85°C,1.8V/3.3V,11.5*13*1.2 mm
+
+
+Number,Platform
+01,Intel
+02,Allwinner
+03,MediaTek
+04,Amlogic
+05,Ambarella
+06,Rockchip
+07,Marvell
+（  The product supports mainstream platforms and only part of it is shown here.  ）,（  The product supports mainstream platforms and only part of it is shown here.  ）

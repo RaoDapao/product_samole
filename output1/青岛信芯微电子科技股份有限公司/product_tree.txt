@@ -1,0 +1,8 @@
+-> root http://hi-image.com
+  -> 显示芯片-青岛信芯微电子科技股份有限公司 https://www.hi-image.com/html/productcenter/displaychip
+    -> TV TCON 
+    -> Monitor TCON 
+    -> Notebook TCON 
+    -> 画质芯片 
+    -> SOC 芯片 
+    -> 模拟类芯片 

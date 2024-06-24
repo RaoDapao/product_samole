@@ -1,0 +1,169 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+上海维宏电子科技股份有限公司,AC 五轴头,http://www.weihong.com.cn/chanpinzhongxin/gaojingpeijian/20180531/317.html,无,广泛应用于……,root,1906551877,AC五轴头系列|维宏股份官网,8549767190,无,0,无,0
+上海维宏电子科技股份有限公司,CCD,http://www.weihong.com.cn/chanpinzhongxin/gaojingpeijian/20160424/22.html,无,支持自动、手动对刀，对刀类型包括固定对刀、浮动对刀、第一次对刀/换刀后对刀；具有补偿功能，包括工件补偿功能、丝杠误差补偿、反向间隙补偿、过象误差补偿、刀具补偿；支持 Internet（以太）组建局域网，前置 USB 接口，实现与 PC 机双向传输；支持多种文件格式，如*.g;*.nc;*.ug;*.demo;*.iso;*.eng;*.cut;*.dxf;*.plt;*.txt；支持 G54-G59 坐标系，支持扩展坐标系；具有多种加工工艺，如两点拍照、三点拍照、偏移补偿、最大偏移量检测、相机属性设定、阵列加工、标识类型、图像相似度；具有便捷操作功能，如工作面标定、偏距测量、倍率测量、相机方位设置、拍照延时设置、加工信息编辑、模拟加工、忽略标定；支持单 CCD、双 CCD；具有高速高精优化功能，多种插补算法，如 T 形、S 形、LEP；支持中文、英文；具有数控软件报警功能，如程序错误、操作错误、超程错误、PLC 错误、IO 通讯错误；具有强大的写保护功能，避免病毒入侵；广泛应用于玻璃磨边、玻璃切割、纱管分拣等行业,root,1906551877,CCD|维宏股份官网,7203381942,无,0,无,0
+上海维宏电子科技股份有限公司,集成数控系统,http://doc.weihong.com.cn:8889/zh-cn/doc/product_hardware/EMC.html,NK300CX、NK500,控制机床的组件之一,root,1906551877,EMC安装指导,5940684899,无,0,无,0
+上海维宏电子科技股份有限公司,EPC1100 系列,http://www.weihong.com.cn/chanpinzhongxin/zhinenshukong/20221205/645.html,EPC1100,支持 Intel Core i5 4460 四核处理器/Intel Core i3 4130 双核处理器，2*DDR3 U-DIMM，容量最高 16GB，128GB SSD mSATA，1*标准 VGA，支持最大分辨率 1920*1200@60Hz，1*标准 HDMI，支持最大分辨率 3840*2160@30Hz，2*千兆网口，2*USB3.0 端口，8*USB2.0 端口，1*RS485 串口，2*RS232 串口，立式紧凑型铝合金机箱，支持桌面和壁挂式安装，1*开机按钮，1*电源开关，1*电源状态灯，1*硬盘状态灯，PWM 智能风扇，110VAC-240VAC(ATX)，1*PCIE x 16，Windows 10 64 位,root,1906551877,EPC1100系列|维宏股份官网,2155318591,无,0,无,0
+上海维宏电子科技股份有限公司,EPC2000 系列,http://www.weihong.com.cn/chanpinzhongxin/zhinenshukong/20221206/646.html,无,处理器：Intel Core i5 3470 四核处理器<br>内存：2﹡DDR3L SO-DIMM，容量最高 16GB<br>磁盘：128GB SSD mSATA<br>显示：1﹡标准 VGA，支持最大分辨率 1920﹡1200@30Hz，1﹡标准 HDMI，支持最大分辨率 1920﹡1200@30Hz<br>网口：2﹡RJ45 千兆网口<br>USB：4﹡USB3.0 端口，5﹡USB2.0 端口<br>串口：1﹡RS485 串口，3﹡RS232 串口<br>整机结构：采用全密封铝型材箱体结构，防止灰尘进入<br>安装方式：支持桌面和壁挂式安装<br>指示和控制：电源开关/电源指示灯<br>散热系统：散热铝鳍片内嵌智能风扇辅助散热，内置铜管导热模组，可确保快速有效地散热<br>电源输入：19V DC<br>拓展：1﹡PCIE x 8<br>操作系统：Windows 10 64 位,root,1906551877,EPC2000系列|维宏股份官网,7783727277,无,0,无,0
+上海维宏电子科技股份有限公司,Mini 多轴伺服驱动器,http://www.weihong.com.cn/chanpinzhongxin/sifuqudong/20221206/647.html,无,主回路电源：单/三相 200V～240V，+10%，-15%，50/60Hz；控制电路电源：单相 200V～240V，+10%，-15%，50/60Hz；控制方式：SVPWM，矢量控制；编码器反馈：17/20/23/24/25 位绝对值或增量式编码器；指令方式：EtherCAT 高速总线；通信功能：通过 USB 与电脑（iMotion 软件）连接；再生制动电阻：内置，也可外置；动态制动：支持；控制模式：轮廓位置模式（PP）、周期同步位置模式（CSP）、回零模式（HM）、轮廓速度模式（PV）、周期同步速度模式（CSV）、轮廓转矩模式（TQ）、周期同步模式转矩（CST）；保护：硬件保护过压、欠压、过流、制动电阻过载、驱动器过热、编码器异常等；软件保护存储器故障、初始化故障、I/O 分配异常、过速、过载、制动电阻过载、位置偏差过大等；故障记录可记录 14 个故障及最近 3 个故障信息,root,1906551877,Mini多轴伺服驱动器|维宏股份官网,8928730465,无,0,无,0
+上海维宏电子科技股份有限公司,智能硬件,http://doc.weihong.com.cn:8889/zh-cn/doc/product_hardware/cnc_controller_nc60a.html,NC60A,是维宏 NC 系列工业控制计算机的又一新成员，性价比更优，体积更小巧紧凑。支持通过上位机软件在线更新 FPGA 程序，支持固件程序双备份，FLASH 数据修正和 DNA 校验保护功能，支持 Phoenix 通信，支持 PCIE 通信，面板键盘数据、主机按键与主板的通信，支持 PS2 通信协议，支持板卡类别、用户缩写和注册信息的数据存储及加密，硬件适配性强，可根据轴数、是否需要编码器反馈功能、是否使用总线功能，选配合适的朗达控制器，工作温度：-10℃~50℃，强大的操作系统，运行性能更优：操作系统：Win8.1-32bit，CPU：Intel Bay-Trail 双核 N2807，1.58GHz，内存：2GB，EMMC：32G,root,1906551877,NC60A,6417255006,无,0,无,0
+上海维宏电子科技股份有限公司,数控系统,http://www.weihong.com.cn/chanpinzhongxin/zhinenshukong/20180824/335.html,NC60A,支持多种文件格式，具有多种加工工艺和便捷操作功能，还具备多种差补算法和语言支持，同时具备数控软件报警功能,root,1906551877,NC60A|维宏股份官网,7791412685,无,0,无,0
+上海维宏电子科技股份有限公司,CCD R4,http://www.weihong.com.cn/chanpinzhongxin/zhinenshukong/20160424/19.html,NC65C,支持双 Z 轴轮动及联动；模拟电压输出 0-10V 控制；支持直排、圆盘刀库；支持自动、手动对刀，对刀类型包括固定对刀、浮动对刀、第一次对刀/换刀后对刀；具备工件补偿功能、丝杠误差补偿、反向间隙补偿、过象误差补偿、刀具补偿；可组建局域网，前置 USB 接口，实现与 PC 机双向传输；支持*.g、*.nc、*.ug、*.demo、*.iso、*.eng、*.cut、*.dxf、*.plt、*.txt 等文件格式；支持 G54-G59 坐标系，支持原点保存；具备阵列功能、旋转镜像、分层加工、循环加工等加工工艺；支持手轮引导、断点继续、选刀加工等便捷操作；采用多种插补算法，如 T 形、S 形、LEP；支持中文、英文软件语言；具备数控软件报警功能，可提示程序错误、操作错误、超程错误、PLC 错误、IO 通讯错误等；可支持第三方软件的安装，具有强大的写保护功能，避免病毒入侵,root,1906551877,NC65系列|维宏股份官网,7002168350,无,0,无,0
+上海维宏电子科技股份有限公司,NK105,http://www.weihong.com.cn/chanpinzhongxin/zhinenshukong/20160424/21.html,NK105G2、NK105G3,提供 8 档位多段主轴控制，支持直排刀库，支持自动、手动对刀，支持固定对刀、浮动对刀、第一次对刀/换刀后对刀，支持反向间隙补偿，支持*.g；*.nc；*.ug;*.demo;*.iso;*.eng;*.cut;*.dxf;*.plt;*.txt 文件格式，支持 G54-G59 坐标系，支持阵列功能、循环加工，支持断点继续、选刀加工，支持 T 形、S 形多种插补算法，支持中文、英语、波兰语、越南语，数控软件报警包括程序错误、操作错误、超程错误、PLC 错误、IO 通讯错误,root,1906551877,NK105系列|维宏股份官网,7391751267,无,0,无,0
+上海维宏电子科技股份有限公司,NK105 Banner,http://www.weihong.com.cn/chanpinzhongxin/jichengshukong/20160424/17.html,无,无,root,1906551877,NK200系列|维宏股份官网,504702917,无,0,无,0
+上海维宏电子科技股份有限公司,NK260/NK280,http://www.weihong.com.cn/chanpinzhongxin/jichengshukong/20160424/17.html,无,支持中文、英文；支持 G54-G59 坐标系，支持扩展坐标系；加工工艺包括阵列功能、旋转镜像、分层加工、循环加工；便捷操作包括手轮引导、断点继续、选刀加工；高速高精优化采用多种插补算法，如 T 形、S 形；具有数控软件报警功能，包括程序错误、操作错误、超程错误、PLC 错误、IO 通讯错误,root,1906551877,NK200系列|维宏股份官网,504702917,无,0,无,0
+上海维宏电子科技股份有限公司,NK280B 一体机,http://doc.weihong.com.cn:8889/zh-cn/doc/product_hardware/cnc_controller_nk280b.html,NK280B,通过主功能菜单按键、键盘按键、模式按键、紧停按键、辅助功能按键、倍率旋钮、运动控制按键和操作按键等，实现对机床的各种操作和控制，如进入不同功能区、切换操作模式、控制机床运动、调节主轴转速和进给速率等。背面接口可根据提示信息正确接线。,root,1906551877,NK280B一体机,6984076857,无,0,无,0
+上海维宏电子科技股份有限公司,NK300MA,http://www.weihong.com.cn/chanpinzhongxin/jichengshukong/20221206/648.html,无,支持三轴至六轴标准控制轴数，具有双核 CPU、2GB 内存、30GB 硬盘容量、1000Mbps 网口、10.4 英寸显示器等硬件规格；支持模拟电压输出 0-10V 控制的主轴功能；支持多种刀库类型的刀具管理功能；支持中文、英文软件语言；具有多种插补算法和高精度、高品质的优化功能,root,1906551877,NK300MA|维宏股份官网,2787190624,无,0,无,0
+上海维宏电子科技股份有限公司,NK300CX-H,http://www.weihong.com.cn/chanpinzhongxin/jichengshukong/20160424/18.html,NK300CX-H,支持三轴至五轴的标准控制轴数，具备模拟电压输出、刀具管理、插补编程、通讯、操作、软件语言等多种功能，广泛应用于高端模具机、四轴木工加工机、双 Z 双刀库雕铣机、钻攻中心、木工加工中心等领域,root,1906551877,NK300系列|维宏股份官网,5874942417,无,0,无,0
+上海维宏电子科技股份有限公司,NK530M,http://www.weihong.com.cn/chanpinzhongxin/jichengshukong/20200511/475.html,无,支持中文、英文；具有多种插补算法，如 S 型算法、LEP 算法、加速度梯形算法、高速梯形算法；具备前馈位置补偿、前馈速度补偿、HPCS 轮廓光顺等功能,root,1906551877,NK530M系列|维宏股份官网,645189130,无,0,无,0
+上海维宏电子科技股份有限公司,PM95A 运动控制卡,http://doc.weihong.com.cn:8889/zh-cn/doc/laser/%E9%85%8D%E5%A5%97%E7%A1%AC%E4%BB%B6/common/product_hardware/control_card_pm95a.html,PM95A,通常与维宏 NcStudio 运动控制软件配套使用，可完成各种雕刻机、雕铣机、钻孔机、切割机等的运动控制，功能强大，使用方便,root,1906551877,PM95A,5894719893,无,0,无,0
+上海维宏电子科技股份有限公司,PM95A,http://www.weihong.com.cn/chanpinzhongxin/yundongkongzhika/20160422/15.html,PM95A,支持三到五轴，控制信号为脉冲频率 1MHz，控制方式类型为位置控制，控制信息类型为差分信号，位置信号类型为脉冲+方向，通讯方式为外部通讯 PCI-E 和与朗达交互 PHOENIX 总线，主轴功能为模拟电压输出 0-10V 控制，刀具管理功能包括对刀模式支持自动、手动对刀，对刀类型包括固定对刀、浮动对刀、第一次对刀/换刀后对刀，补偿功能包括丝杠误差补偿、反向间隙补偿、过象误差补偿、刀具补偿，刀路文件支持文件格式为*.g；*.nc；*.ug;*.demo;*.iso;*.eng;*.cut;*.dxf;*.plt;*.txt，操作功能包括坐标系设定支持 G54-G59 坐标系，支持原点保存，加工工艺包括阵列功能、旋转镜像、循环加工，便捷操作包括手轮引导、断点继续、选刀加工，高速高精优化包括多种插补算法 T 形、S 形、LEP，软件语言支持中文、英文，可靠性及安全包括数控软件报警程序错误、操作错误、超程错误、PLC 错误、IO 通讯错误,root,1906551877,PM95A|维宏股份官网,4266273671,无,0,无,0
+上海维宏电子科技股份有限公司,CNC Controller Motion Card PM95A,http://www.weihong.com.cn/en/products,PM95A,无,root,1906551877,weihong,5819869297,无,0,无,0
+上海维宏电子科技股份有限公司,Integrated CNC Controller NK300CX,http://www.weihong.com.cn/en/products,NK300CX,无,root,1906551877,weihong,5819869297,无,0,无,0
+上海维宏电子科技股份有限公司,Integrated CNC Controller NK280 Series,http://www.weihong.com.cn/en/products,NK280 Series,无,root,1906551877,weihong,5819869297,无,0,无,0
+上海维宏电子科技股份有限公司,CNC Controller PC System NC65C,http://www.weihong.com.cn/en/products,NC65C,无,root,1906551877,weihong,5819869297,无,0,无,0
+上海维宏电子科技股份有限公司,CNC Controller DSP NK105 G2/G3,http://www.weihong.com.cn/en/products,NK105 G2/G3,无,root,1906551877,weihong,5819869297,无,0,无,0
+上海维宏电子科技股份有限公司,CNC Controller PC System NC68A,http://www.weihong.com.cn/en/products,NC68A,无,root,1906551877,weihong,5819869297,无,0,无,0
+上海维宏电子科技股份有限公司,CNC Controller PC System NC60A,http://www.weihong.com.cn/en/products,NC60A,无,root,1906551877,weihong,5819869297,无,0,无,0
+上海维宏电子科技股份有限公司,RC Robot Arm Series Controller,http://www.weihong.com.cn/en/products,无,无,root,1906551877,weihong,5819869297,无,0,无,0
+上海维宏电子科技股份有限公司,CCD Camera,http://www.weihong.com.cn/en/products,无,无,root,1906551877,weihong,5819869297,无,0,无,0
+上海维宏电子科技股份有限公司,Laser Cutting Head,http://www.weihong.com.cn/en/products,无,无,root,1906551877,weihong,5819869297,无,0,无,0
+上海维宏电子科技股份有限公司,WISE B1 Series Servo Driver,http://www.weihong.com.cn/en/products,WISE B1 Series,无,root,1906551877,weihong,5819869297,无,0,无,0
+上海维宏电子科技股份有限公司,Mini Multi-Axis Servo Drive,http://www.weihong.com.cn/en/products,无,无,root,1906551877,weihong,5819869297,无,0,无,0
+上海维宏电子科技股份有限公司,WISE Spindle Drive (WSDS),http://www.weihong.com.cn/en/products,WSDS,无,root,1906551877,weihong,5819869297,无,0,无,0
+上海维宏电子科技股份有限公司,Manual Pulse Generator Handwheel,http://www.weihong.com.cn/en/products,无,无,root,1906551877,weihong,5819869297,无,0,无,0
+上海维宏电子科技股份有限公司,Automatic Measurement Tool Sensor,http://www.weihong.com.cn/en/products,无,无,root,1906551877,weihong,5819869297,无,0,无,0
+上海维宏电子科技股份有限公司,Waterjet Five-axis Cutting Head,http://www.weihong.com.cn/en/products,无,无,root,1906551877,weihong,5819869297,无,0,无,0
+上海维宏电子科技股份有限公司,VT1000 系列,http://www.weihong.com.cn/chanpinzhongxin/gaojingpeijian/20221206/650.html,VT1000 系列,采样率为 1000Hz，静态定位精度为 0.001mm，动态响应精度为 0.01mm，伺服 DA 分辨率为 16bits，显示屏尺寸为 4.3 英寸，显示屏分辨率为 480*272，抱闸接口输出规格为 24V@1.5A，输入端口数量为 8（极性可配置），输出端口数量为 5（开漏输出），环境温度（使用时）为 0℃~50℃，环境温度（存放时）为-40°~70℃，环境湿度为 0%~90%（无凝露），耐震动<0.35mm（9Hz~150Hz)；<0.15mm（2Hz~9Hz），使用环境为无腐蚀性气体、尘埃、油雾，最大发热功率<10W，广泛应用于激光加工、金属铣削、金属车削、3C 制造、木工制造、冷切割等行业,root,1906551877,VT1000系列|维宏股份官网,6591661079,无,0,无,0
+上海维宏电子科技股份有限公司,VT320 系列,http://www.weihong.com.cn/chanpinzhongxin/gaojingpeijian/20221206/649.html,VT320 系列,广泛应用于激光加工、金属铣削、金属车削、3C 制造、木工制造、冷切割等行业，具有总线控制周期 1ms、采样率 2000Hz、静态定位精度 0.001mm、动态响应精度 0.005mm、伺服 DA 分辨率 16bits、抱闸接口输出规格 24V@1.5A、输入端口数量 5（极性可配置）、输出端口数量 4（开漏输出）、环境温度（使用时）0℃~50℃、环境温度（存放时）-40°~70℃、环境湿度 0%~90%（无凝露）、耐震动<0.35mm（9Hz~150Hz)；<0.15mm（2Hz~9Hz）、使用环境无腐蚀性气体、尘埃、油雾、最大发热功率<10W 等功能。,root,1906551877,VT320系列|维宏股份官网,5039361213,无,0,无,0
+上海维宏电子科技股份有限公司,WiseCAM for Sheet Metal 激光平面 CAM 软件,http://www.weihong.com.cn/chanpinzhongxin/CAD/2023/1109/698.html,无,图纸修复、图形编辑、零件导入、工艺应用、自动排版、自动排序、零件标签、排版报告等，广泛应用于橱柜、门窗、钢构、船舶、钣金加工等行业,root,1906551877,WiseCAMforSheetMetal|维宏股份官网,778142445,无,0,无,0
+上海维宏电子科技股份有限公司,WiseCAM for Tube 激光管材 CAM 软件,http://www.weihong.com.cn/chanpinzhongxin/CAD/2023/1109/697.html,无,三维绘制零件、装配体拆分、管材排版、管材共边、截面编辑、法向调整、碰撞检测等,root,1906551877,WiseCAMforTube|维宏股份官网,9072601472,无,0,无,0
+上海维宏电子科技股份有限公司,NK530M,http://www.weihong.com.cn/en/products/controller/20240528/28.html,NK530M,支持中文和英文，适用于路由器、模具机、玻璃磨边机、机器人手臂、绣花机等，具有多种插补算法，可实现高速高精度加工，支持多种刀具库类型，具有模拟电压输出、主轴定位、刚性攻丝等功能,root,1906551877,WISEServoDrive&Motor|weihong,8090179694,无,0,无,0
+上海维宏电子科技股份有限公司,wise 产品,http://www.weihong.com.cn/en/products/servodrive/20160417/13.html,B1 400W,包括位置控制、速度控制、扭矩控制、位置速度切换控制、位置扭矩切换控制和速度扭矩切换控制等多种控制模式，支持 17 位/20 位/23 位/24 位/25 位编码器，具有过压、欠压、过流、驱动过热、编码器异常等硬件保护和内存故障、初始化失败、I/O 分配错误、超速、过载、制动电阻过载、位置偏差过大等软件保护，可记录 14 种故障和最近 3 条详细报警信息，广泛应用于路由器机、模具机、玻璃磨边机、机器人手臂、绣花机等领域,root,1906551877,WISEServoDrive&Motor|weihong,8090179694,无,0,无,0
+上海维宏电子科技股份有限公司,运动控制卡,http://www.weihong.com.cn/chanpinzhongxin,PM95A,维宏卡，成就你我,root,1906551877,维宏股份官网,5329882944,无,0,无,0
+上海维宏电子科技股份有限公司,集成数控,http://www.weihong.com.cn/chanpinzhongxin,NK530M 系列,高端智能 数控专家,root,1906551877,维宏股份官网,5329882944,无,0,无,0
+上海维宏电子科技股份有限公司,集成数控,http://www.weihong.com.cn/chanpinzhongxin,NK300MA,智能控制，高速高精,root,1906551877,维宏股份官网,5329882944,无,0,无,0
+上海维宏电子科技股份有限公司,集成数控,http://www.weihong.com.cn/chanpinzhongxin,NK300 系列,创新智能，精动未来,root,1906551877,维宏股份官网,5329882944,无,0,无,0
+上海维宏电子科技股份有限公司,集成数控,http://www.weihong.com.cn/chanpinzhongxin,NK200 系列,超值体现价值,root,1906551877,维宏股份官网,5329882944,无,0,无,0
+上海维宏电子科技股份有限公司,智能数控,http://www.weihong.com.cn/chanpinzhongxin,NC65 系列,小身材，大智慧,root,1906551877,维宏股份官网,5329882944,无,0,无,0
+上海维宏电子科技股份有限公司,智能数控,http://www.weihong.com.cn/chanpinzhongxin,NC60A,浓缩至简，精益求精,root,1906551877,维宏股份官网,5329882944,无,0,无,0
+上海维宏电子科技股份有限公司,智能数控,http://www.weihong.com.cn/chanpinzhongxin,NK105 系列,智行千里，尽在掌控,root,1906551877,维宏股份官网,5329882944,无,0,无,0
+上海维宏电子科技股份有限公司,智能数控,http://www.weihong.com.cn/chanpinzhongxin,EPC1100 系列,优异性能，便捷易用,root,1906551877,维宏股份官网,5329882944,无,0,无,0
+上海维宏电子科技股份有限公司,智能数控,http://www.weihong.com.cn/chanpinzhongxin,EPC2000 系列,优异性能，便捷易用,root,1906551877,维宏股份官网,5329882944,无,0,无,0
+上海维宏电子科技股份有限公司,WISE 伺服驱动器,http://www.weihong.com.cn/chanpinzhongxin,维智 B1 系列伺服驱动器,大智所驱，大势所驱,root,1906551877,维宏股份官网,5329882944,无,0,无,0
+上海维宏电子科技股份有限公司,WISE 伺服驱动器,http://www.weihong.com.cn/chanpinzhongxin,Mini 多轴伺服驱动器,性能强劲，安全节能,root,1906551877,维宏股份官网,5329882944,无,0,无,0
+上海维宏电子科技股份有限公司,WISE 伺服驱动器,http://www.weihong.com.cn/chanpinzhongxin,维智主轴（WSDS）驱动器,简单易用，智能高效,root,1906551877,维宏股份官网,5329882944,无,0,无,0
+上海维宏电子科技股份有限公司,高精配件,http://www.weihong.com.cn/chanpinzhongxin,VT320 系列,随动控制器,root,1906551877,维宏股份官网,5329882944,无,0,无,0
+上海维宏电子科技股份有限公司,高精配件,http://www.weihong.com.cn/chanpinzhongxin,VT1000 系列,随动控制器,root,1906551877,维宏股份官网,5329882944,无,0,无,0
+上海维宏电子科技股份有限公司,高精配件,http://www.weihong.com.cn/chanpinzhongxin,手摇脉冲发生器,脉冲稳定，操作简单,root,1906551877,维宏股份官网,5329882944,无,0,无,0
+上海维宏电子科技股份有限公司,高精配件,http://www.weihong.com.cn/chanpinzhongxin,AC 五轴头系列,创新智能，精动未来,root,1906551877,维宏股份官网,5329882944,无,0,无,0
+上海维宏电子科技股份有限公司,高精配件,http://www.weihong.com.cn/chanpinzhongxin,CCD,敏锐视觉，精确制导,root,1906551877,维宏股份官网,5329882944,无,0,无,0
+上海维宏电子科技股份有限公司,工业物联网,http://www.weihong.com.cn/chanpinzhongxin,维宏云,云端工厂，一手掌握,root,1906551877,维宏股份官网,5329882944,无,0,无,0
+上海维宏电子科技股份有限公司,WiseCAM 软件,http://www.weihong.com.cn/chanpinzhongxin,WiseCAM for Sheet Metal,激光平面排版软件,root,1906551877,维宏股份官网,5329882944,无,0,无,0
+上海维宏电子科技股份有限公司,WiseCAM 软件,http://www.weihong.com.cn/chanpinzhongxin,WiseCAM for Tube,激光管材排版软件,root,1906551877,维宏股份官网,5329882944,无,0,无,0
+上海维宏电子科技股份有限公司,位置传感控制器,http://doc.weihong.com.cn:8889/zh-cn/doc/hardware/VT310E/00.VT310E.html,VT310E,通过前置放大器采集切割头喷嘴和工件之间的电容信息，再经由控制盒进行分析处理，能实现在高速运动状态下对位置高度的实时精准定位,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,WiseCAM 平面激光切割套料软件,http://doc.weihong.com.cn:8889/zh-cn/doc/wisecam/01.wisecam_plane/01.product/01.about.html,无,为平面激光加工，提供零件图纸的导入、修复，加工零件的工艺添加，零件的排版，零件路径的规划和加工文件的生成等 CAM 功能。让零件的加工更高效，加工质量更好，板材消耗率更少，加工更加安全。,root,1906551877,cam,7458831782,无,0,无,0
+上海维宏电子科技股份有限公司,平面坡口,http://doc.weihong.com.cn:8889,LS20A,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,中低功率系统,http://doc.weihong.com.cn:8889,LS2000M,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,中功率系统,http://doc.weihong.com.cn:8889,LS3000,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,中高功率系统,http://doc.weihong.com.cn:8889,LS4000M,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,高功率系统,http://doc.weihong.com.cn:8889,LS6000M,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,双头双梁卷料,http://doc.weihong.com.cn:8889,LS6500A,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,双头双梁高功率,http://doc.weihong.com.cn:8889,LS6800M,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,精密视觉定位系统,http://doc.weihong.com.cn:8889,LS8000M,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,小功率系统,http://doc.weihong.com.cn:8889,LS1500,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,平面功能,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,常见问题,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,单卡拉料,http://doc.weihong.com.cn:8889,TU2000,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,专业切管系统-双卡盘,http://doc.weihong.com.cn:8889,TU3200M,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,专业切管系统-四卡盘,http://doc.weihong.com.cn:8889,TU7500,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,板管一体系统,http://doc.weihong.com.cn:8889,LT3000,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,管切功能,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,平面独立套料软件,http://doc.weihong.com.cn:8889,WiseCAM,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,管切独立套料软件,http://doc.weihong.com.cn:8889,WiseCAM Tube,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,管切独立套料软件,http://doc.weihong.com.cn:8889,WiseCAM Tube Basic,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,配套硬件,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,开料机数控系统,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,贴标数控系统,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,贴标开料数控系统,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,门套机贴标开料数控系统,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,中控,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,七轴六面钻数控系统,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,九轴六面钻数控系统,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,石材加工中心数控系统,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,三轴雕刻数控系统,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,四轴雕刻数控系统,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,CCD 雕刻数控系统,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,NK105 三轴集成数控系统,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,NK105 四轴集成数控系统,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,NK280B 集成数控系统,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,NK300CX 集成数控系统,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,三轴水切割数控系统,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,五轴 AB 水切割数控系统,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,五轴 AC 水切割数控系统,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,两轴玻璃切割数控系统,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,四轴玻璃切割数控系统,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,CCD 玻璃切割数控系统,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,NK300CX 集成数控,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,V9 大玻璃磨边数控系统,http://doc.weihong.com.cn:8889,PM95A,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,NK280B 双头总线集成数控,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,V12 单 CCD 数控系统,http://doc.weihong.com.cn:8889,NC65C,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,NK300CX 多通道集成数控,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,V12 双 CCD 数控系统,http://doc.weihong.com.cn:8889,PM95A,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,V10 四轴及三轴双 Z 雕铣数控系统,http://doc.weihong.com.cn:8889,PM95A,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,V10 三轴及三轴双 Z 雕铣数控系统,http://doc.weihong.com.cn:8889,PM95A,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,NK280B GD60 磨刀机集成数控,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,V9 义齿机数控系统,http://doc.weihong.com.cn:8889,NC65C,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,Phoenix 雕刻数控系统,http://doc.weihong.com.cn:8889,NC65C,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,NK300CX 鞋模机集成数控,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,NK280B 外圆磨床集成数控,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,NK530M 集成数控,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,NK210T 车床集成数控系统,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,维智 A 系列伺服,http://doc.weihong.com.cn:8889,M-Ⅱ总线型,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,维智 A 系列伺服,http://doc.weihong.com.cn:8889,EtherCAT 总线型,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,维智 A 系列伺服,http://doc.weihong.com.cn:8889,模拟量﹒脉冲型,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,维智 A2 系列伺服,http://doc.weihong.com.cn:8889,M-Ⅱ总线型,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,维智 B1 系列伺服,http://doc.weihong.com.cn:8889,EtherCAT 总线型,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,维智 B1 系列伺服,http://doc.weihong.com.cn:8889,脉冲型,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,维智朗驱多轴,http://doc.weihong.com.cn:8889,M-Ⅱ总线型,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,维智朗驱多轴,http://doc.weihong.com.cn:8889,EtherCAT 总线型,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,维智 Mini 多轴伺服,http://doc.weihong.com.cn:8889,EtherCAT 总线型,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,维智 A 系列直线伺服,http://doc.weihong.com.cn:8889,M-Ⅱ总线型,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,维智 A 系列直线伺服,http://doc.weihong.com.cn:8889,EtherCAT 总线型,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,维智 A 系列直线伺服,http://doc.weihong.com.cn:8889,脉冲型,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,维智主轴伺服,http://doc.weihong.com.cn:8889,M-Ⅱ总线型,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,维智主轴伺服,http://doc.weihong.com.cn:8889,EtherCAT 总线型,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,维智主轴伺服,http://doc.weihong.com.cn:8889,模拟量﹒脉冲型,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,VT1000A1,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,VT310E,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,VT320E,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,运动控制卡,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,工控机,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,一体机,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,朗达控制器,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,扩展端子板,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,NcGateway 数据网关,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,NcCloud 维宏云,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,xFactory 智能工厂,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,NcStudio 编程,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,Phoenix 平台二次开发,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,注册管理工具,http://doc.weihong.com.cn:8889,无,无,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,NcStudio V15 激光平面切割控制系统,http://doc.weihong.com.cn:8889/zh-cn/doc/laser/LS2000M/cn/01.interface/product_introduction_2.html,LS2000M,适用于 6000W 及以下激光平面切割，支持焦点控制、起刀收刀工艺调节、多种交换台外部设备控制、摄像头监控、多种自动寻边方式、总线力矩防撞、快速一键裁板,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,NcStudio V15 激光平面切割控制系统,http://doc.weihong.com.cn:8889/zh-cn/doc/laser/LS3000/cn/01.interface/product_introduction_3.html,LS3000,适用于 10000W 及以下激光器中高功率切割，支持厚板加工振动抑制功能、拐角&圆弧工艺、沉孔加工、裁断线绘制及加工、喷嘴自动清洁标定功能、电容温度补偿、总线力矩防撞,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,NcStudio V15 激光平面切割控制系统,http://doc.weihong.com.cn:8889/zh-cn/doc/laser/LS4000M/cn/machine/product_introduction.html,LS4000M,适用于 12000W 及以下激光器高功率切割，具有无痕微连、支持外部切割头监控、无感穿孔、全新 UI 交互、厚板加工振动抑制、拐角&圆弧工艺等功能,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,激光平面切割高功率控制系统,http://doc.weihong.com.cn:8889/zh-cn/doc/laser/LS6000/cn/machine/product_introduction.html,LS6000M,适配 EtherCAT 总线和模拟量非总线系统，用于高功率切割机，适用于桥梁、造船、货运、航空等行业，具有批量加工、余料加工、切割头状态监控&阈值设定、气压闭环控制&气压诊断、焦点时间补偿、焦点温度补偿、五级穿孔、变频穿孔、工艺库、圆弧工艺、尖角工艺等功能,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,NcStudio-V15 双头双梁激光切割控制系统,http://doc.weihong.com.cn:8889/zh-cn/doc/laser/LS6500/cn/machine/overview.html,LS6500M,基于在线切割系统与 EtherCAT 总线系统开发，采用双通道技术，自主研发的高性能激光切割系统。适用于纺织机械、电梯制造、厨房设备、电器设备和机箱机柜等行业。支持单通道和双通道加工模式，文件拆分自分配通道 1 和通道 2，双梁实时防撞，双梁异步加工，支持生产排单，批量加工,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,V15 双头双梁激光平面切割控制系统,http://doc.weihong.com.cn:8889/zh-cn/doc/laser/LS6800/cn/topic_mfr/product/system_intro.html,LS6800A,基于在线切割系统与 EtherCAT 总线系统开发，采用双通道技术，自主研发的高性能激光切割系统。适用于纺织机械、电梯制造、厨房设备、电器设备和机箱机柜等行业。支持单通道和双通道加工模式，文件拆分自分配通道 1 和通道 2，双梁实时防撞，双梁异步加工，支持生产排单，批量加工。,root,1906551877,无,0,无,0,无,0
+上海维宏电子科技股份有限公司,随动 3.0,http://doc.weihong.com.cn:8889/zh-cn/doc/laser/%E5%8A%9F%E8%83%BD%E6%96%87%E6%A1%A3/%E5%B9%B3%E9%9D%A2/%E9%9A%8F%E5%8A%A8-cn/product/overview.html,无,利用电容值与距离的对应关系来实时控制 Z 轴上下浮动，以保证切割头与板材之间相对距离始终不变。具有可与任意切割头及喷嘴适配、电容参数自适应、支持振动抑制、一键伺服标定和电容标定、电容补偿、切割头防侧撞、边缘检测及出边检测、示波器功能、固件在线升级等特点。,root,1906551877,功能介绍,3886685826,无,0,无,0
+上海维宏电子科技股份有限公司,维宏对刀仪,http://www.weihong.com.cn/chanpinzhongxin/gaojingpeijian/20160417/11.html,无,可用于加工中心、数控铣床、木工雕刻机、石材雕刻机、广告行业雕刻机等,root,1906551877,手摇脉冲发生器|维宏股份官网,363656849,无,0,无,0
+上海维宏电子科技股份有限公司,维宏手摇脉冲发生器,http://www.weihong.com.cn/chanpinzhongxin/gaojingpeijian/20160417/11.html,无,可用于木工雕刻机、加工中心、数控铣床、数控车床等,root,1906551877,手摇脉冲发生器|维宏股份官网,363656849,无,0,无,0
+上海维宏电子科技股份有限公司,伺服驱动器,http://www.weihong.com.cn/chanpinzhongxin/sifuqudong/20160417/13.html,B1 400W,支持多种控制方式，包括轮廓位置模式、周期同步位置模式、回零模式、轮廓速度模式、周期同步速度模式、轮廓转矩模式、周期同步转矩模式等。具有硬件保护和软件保护功能，可记录故障信息。广泛应用于玻璃精雕机、加工中心、斜车、专业切割机等领域。,root,1906551877,维宏股份官网,5329882944,无,0,无,0
+上海维宏电子科技股份有限公司,驱动器,http://www.weihong.com.cn/chanpinzhongxin/sifuqudong/20200328/467.html,WSDS-15kW,"三相输入电源，三相 380V-440V，+10%-15%，50/60HZ，+5%-5%；SVPWM 控制；编码器反馈，20 位串行增量式编码器，17/23 位串行绝对式编码器，ABZ 增量编码器；脉冲方向出入信号，MECHATROLINK-Ⅱ高速总线；脉冲输出，通过差分驱动输出编码器脉冲（A、B、Z 相）；总线命令反馈数字量；通信功能，通过 USB 与电脑（IMOTION 软件）连接；继电器输出，2 组常开/常闭接点，触电容量：3A/AC250V,1A/DC30V；前面板，5 个按键，6 个 LED；再生放电电阻，外置；控制模式，包括位置控制、速度控制和转矩控制；保护，硬件保护，过压、欠压、缺相、过流、功率模块异常保护、驱动器过热、编码器异常等；软件保护，存储器故障、初始化故障、I/O 分配异常、过速、过载、制动电阻过载、位置偏差过大等；故障记录，可记录 14 个故障及 3 个故障信息",root,1906551877,维智主轴（WSDS）驱动器|维宏股份官网,6261442924,无,0,无,0
+上海维宏电子科技股份有限公司,车床数控系统,http://www.weihong.com.cn/plus/view.php?aid=423,KT828TD-C,无,首页,9782084943,车床数控系统,264700419,无,0,无,0
+上海维宏电子科技股份有限公司,车床数控系统,http://www.weihong.com.cn/plus/view.php?aid=423,KT21TA,无,首页,9782084943,车床数控系统,264700419,无,0,无,0
+上海维宏电子科技股份有限公司,车床数控系统,http://www.weihong.com.cn/plus/view.php?aid=423,KT821TI-V,无,首页,9782084943,车床数控系统,264700419,无,0,无,0
+上海维宏电子科技股份有限公司,车床数控系统,http://www.weihong.com.cn/plus/view.php?aid=423,18TTA-V,无,首页,9782084943,车床数控系统,264700419,无,0,无,0
+上海维宏电子科技股份有限公司,车床数控系统,http://www.weihong.com.cn/plus/view.php?aid=423,18TTA,无,首页,9782084943,车床数控系统,264700419,无,0,无,0
+上海维宏电子科技股份有限公司,车床数控系统,http://www.weihong.com.cn/plus/view.php?aid=423,KT821TI,无,首页,9782084943,车床数控系统,264700419,无,0,无,0
+上海维宏电子科技股份有限公司,车床数控系统,http://www.weihong.com.cn/plus/view.php?aid=423,KT820TI,无,首页,9782084943,车床数控系统,264700419,无,0,无,0
+上海维宏电子科技股份有限公司,车床数控系统,http://www.weihong.com.cn/plus/view.php?aid=423,KT830TI-V,无,首页,9782084943,车床数控系统,264700419,无,0,无,0
+上海维宏电子科技股份有限公司,车床数控系统,http://www.weihong.com.cn/plus/view.php?aid=423,KT802,无,首页,9782084943,车床数控系统,264700419,无,0,无,0

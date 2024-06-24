@@ -1,0 +1,13 @@
+产品网址：https://www.zhmsemi.com/products/sic_module/drivez62_sic.html
+产品结构：root
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|SiC Module|DriveZ62/SiC|A.LOW VCE(sat)<br>B.Low Switching Loss<br>C.Ultrasonic Welding of Power Terminals<br>D.Standard Housing|
+
+Package,Product,Product Status,VDSS(V),VGSS(V),ID(A),Configuration,typical value @Tj=25℃,typical value @Tj=25℃.1,typical value @Tj=25℃.2,typical value @Tj=25℃.3
+Package,Product,Product Status,VDSS(V),VGSS(V),ID(A),Configuration,RDS(on)(mΩ),VSD(V),Eon(mJ),Eoff(mJ)
+DriveZ62/sic,2B120E120T1P,Developing,1200,+25/-10,120,Half Bridge,10,1.60,T.B.D,T.B.D
+DriveZ62/sic,2B300E120T1P,Developing,1200,+25/-10,300,Half Bridge,4,1.60,T.B.D,T.B.D
+DriveZ62/sic,2B120E120T2P,Developing,1200,+20/-4,120,Half Bridge,15,2.00,T.B.D,T.B.D
+DriveZ62/sic,2B300E120T2P,Developing,1200,+20/-4,300,Half Bridge,6,2.00,T.B.D,T.B.D

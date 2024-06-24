@@ -1,0 +1,18 @@
+产品网址：https://en.taixin-semi.com/Product?productClassId=8
+产品结构：root->珠海泰芯半导体有限公司-产品中心
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|TX8C1010|TX8C1010|TX8C1010 是一款高性能低功耗的 8051 内核 MCU，工作主频最高为 32MHz，内置 4K+256 字节闪存存储器（支持类 EEPROM），512 字节 SRAM。模拟资源：1 个 12 位 200Ksps 的 ADC、2 个多功能比较器。定时器、PWM 资源（两者是互斥功能，同一个 Timer 不能同时使用）：2 个 16 位高级定时器，能支持 2 对互补输出或 4 个独立 PWM 输出（周期相同，占空比独立配置）；1 个 16 位通用定时器（都支持 Capture、Count、PWM 功能）；2 个 8 位通用定时器（可合成 1 个 16 位通用定时器，都支持 Capture、Count、PWM 功能）。标准的通信接口：1 个 SPI 接口和 2 个 UART 接口。支持宽范围电压供电，工作电压为 2.4V~5.5V（可以支持电池应用场景），工作温度范围-40℃~85℃。多种省电工作模式保证低功耗应用的要求，最低功耗模式 3uA。TX8C1010 提供 SOP8、MSOP10、SOP14、SOP16、QFN16 共计 5 种封装形式，根据不同的封装形式，器件中的外设资源配置不尽相同。应用场合：小家电、电子烟、蓝牙充电仓、无线充、玩具|
+
+Add/Hide  Parameter List,Type,Encapsulated Type,Chip-Set,Max Speed  (MHz),Flash  (KB),RAM  (Byte),EEPROM  (Byte),GPIO,Working Voltage  (V),Temperature  （℃）,Watchdog,PWM,UART,SPI,IIC,ADC,ACMP,Code Encryption,LPM
+Total:  5  Match:  5,,SOP16  SOP14  MSOP10  SOP8,,,,,,14  12  8  6,,,,,,,,14  12  8  6,,,
+Compare,,,,,,,,,,,,,,,,,,,
+Add/Hide  Parameter List,Type,Encapsulated Type,Chip-Set,Max Speed  (MHz),Flash  (KB),RAM  (Byte),EEPROM  (Byte),GPIO,Working Voltage  (V),Temperature  （℃）,Watchdog,PWM,UART,SPI,IIC,ADC,ACMP,Code Encryption,LPM
+Total:  5  Match:  5,,SOP16  SOP14  MSOP10  SOP8,8051,32,4,512,2*128,14  12  8  6,2.4 ~ 5.5,-40 ~ 85,1,4,2,1,0,14  12  8  6,2,√,3ua
+Compare,,,,,,,,,,,,,,,,,,,
+,TX8C1010SO8,SOP8,8051,32,4,512,2*128,6,2.4 ~ 5.5,-40 ~ 85,1,4,2,1,0,6,2,√,3ua
+,TX8C1010MS10,MSOP10,8051,32,4,512,2*128,8,2.4 ~ 5.5,-40 ~ 85,1,4,2,1,0,8,2,√,3ua
+,TX8C1010SO14,SOP14,8051,32,4,512,2*128,12,2.4 ~ 5.5,-40 ~ 85,1,4,2,1,0,12,2,√,3ua
+,TX8C1010SO16B,SOP16,8051,32,4,512,2*128,14,2.4 ~ 5.5,-40 ~ 85,1,4,2,1,0,14,2,√,3ua
+,TX8C1010SO16,SOP16,8051,32,4,512,2*128,14,2.4 ~ 5.5,-40 ~ 85,1,4,2,1,0,14,2,√,3ua

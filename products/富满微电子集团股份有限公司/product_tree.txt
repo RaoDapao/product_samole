@@ -1,0 +1,11 @@
+-> root https://www.superchip.cn
+  -> 产品_1 https://www.superchip.cn/front/product_list
+    -> 射频前端产品 
+    -> 电子烟系列 
+    -> AC-DC 电源产品 
+    -> LED 显示屏解决方案 
+    -> LED 照明系列 
+    -> USBPDSource 产品 
+    -> 沟槽型（Trench）和屏蔽栅沟槽（SGT）功率 MOSFET 产品 
+    -> 锂电池保护方案 
+    -> MCU 类 

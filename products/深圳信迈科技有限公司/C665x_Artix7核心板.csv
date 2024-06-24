@@ -1,0 +1,76 @@
+产品网址：https://www.szxinmai.com/html/2021/dsp%20c6000_1201/80.html
+产品结构：当前位置：首页->产品中心->C665x_Artix7核心板
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|C665x_Artix7 核心板|无|基于 TI KeyStone C66x 多核定点/浮点 DSP TMS320C665x + Xilinx Artix7 FPGA 处理器，适用于高端图像处理、高速大数据传输和音视频等大数据采集处理领域|
+
+CPU,单核 TMS320C6655/双核 TMS320C6657，主频 1.0/1.25GHz
+ROM,128/256MByte NAND FLASH
+RAM,512M/1G Byte DDR3
+EEPROM,1Mbit
+FLASH,32/64Mbit SPI NOR FLASH
+LED,1x 供电指示灯
+,1x 可编程指示灯
+传感器,1x TMP102，核心板温度传感器，I2C 接口
+连接器,2x 50pin 公头 B2B，2x 50pin 母头 B2B，间距 0.8mm，合高 5.0mm，共 200pin
+,1x 80pin 高速 B2B 连接器，间距 0.5mm，合高 5.0mm，信号速率可达 10GBaud
+拓展 IO,2x 25pin IDC3 简易牛角座，间距 2.54mm，含 EMIF16 拓展信号
+,2x 25pin IDC3 简易牛角座，间距 2.54mm，含 SPI、I2C、TIMER、GPIO 等拓展信号
+,2x 25pin IDC3 简易牛角座，间距 2.54mm，含 TSIP 拓展信号
+,1x SRIO 2.1 TX，1x SRIO 2.1 RX，4 通道，每通道最高通信速率 5GBaud
+,1x PCIe 4x（Gen2），2 通道，每通道最高通信速率 5GBaud
+,1x HyperLink，最高通信速率 40GBaud，KeyStone 处理器间互连的理想接口
+仿真器接口,1x 14pin TI Rev B JTAG 接口，间距 2.54mm
+按键,2x 复位按键
+,1x 非屏蔽中断按键
+,1x 用户可编程按键
+启动方式,1x 5bit 启动方式，选择拨码开关
+网络,2x Ethernet，10/100/1000M 自适应
+串口,1x UART0，USB 转串口，提供 4 针 TTL 电平测试端口
+,1x UART1，DB9 接口，提供 6 针 TTL 电平测试端口
+风扇接口,1x FAN，12V 供电，间距 2.54mm
+电源开关,1x 电源拨码开关
+电源接口,1x 12V 3A 直流输入 DC417 电源接口，外径 4.4mm，内径 1.65mm
+
+
+CPU,Xilinx Artix-7 XC7A100T FPGA
+RAM,256Mbit NOR FLASH
+ROM,2x 128M/256MByte DDR3
+EEPROM,2KBit
+网络,1x Ethernet，10/100/1000M 自适应
+LED,2x 供电指示灯
+,3x 可编程指示灯
+按键,2x 复位按键
+,2x 用户可编程按键
+ADC,双通道，1.8Vp-p，12bit，最高 250MHz 采样率，LVDS 信号输出
+DAC,175MHz，12bit，最大输出电流 5mA
+XADC,双通道，12bit，1MHz，1.25Vp-p
+拓展 IO,1x SRIO TX，1x SRIO RX，4 通道，单通道最高速率 5GBaud，HDMI 座
+,1x PCIe 4x（Gen2），2 通道，单通道最高通信速率 5GBaud
+,2x 48pin 欧式连接器，GPIO 拓展
+,1x I2C，HDMI 座
+仿真器接口  启动方式,1x 14pin JTAG 接口，间距 2.00mm  1x 2bit 启动方式选择拨码开关
+串口,1x UART，Micro USB 接口，提供 4 针 TTL 电平测试端口
+电源开关,1x 电源拨码开关
+电源接口,1x 12V 2A 直流输入 DC005 电源接口，外径 5.5mm，内径 2.1mm
+
+
+DSP 端软件支持,裸机、SYS/BIOS 操作系统
+CCS 版本号,CCS5.5
+软件开发套件提供,MCSDK
+Vivado 版本号,2015.2
+
+
+环境参数,最小值,典型值,最大值
+核心板工作温度,-40°C,/,85°C
+核心板工作电压,/,5.0V,/
+
+
+类别,电压典型值,电流典型值,功耗典型值
+核心板,9.0v,390mA,3.5W
+
+
+Unnamed: 0,核心板,评估底板
+PCB 尺寸,80mm*58mm,200mm*106.5mm
+固定安装孔数量,4,4

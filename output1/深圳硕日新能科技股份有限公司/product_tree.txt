@@ -1,0 +1,10 @@
+-> root http://www.szshuori.com
+  -> 太阳能充放电控制器-太阳能控制器_光伏储 https://www.szshuori.com/product/1.html
+    -> 太阳能控制器 
+    -> 太阳能家用控制器 
+    -> 太阳能路灯控制器 
+    -> 单相逆变器 
+    -> DC-DC 房车专用双电池系统 
+    -> 电池保护器 BP 系列 
+    -> 光伏储能逆变器 
+    -> 光伏储能系统 

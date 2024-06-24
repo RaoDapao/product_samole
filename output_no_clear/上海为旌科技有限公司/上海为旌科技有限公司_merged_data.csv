@@ -1,0 +1,10 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+上海为旌科技有限公司,智慧视觉,https://www.visinextek.com/chanpinxinghao/113.html,VS816,专业图像处理：最大支持 12M 像素；输入：MIPI/sub-LVDS，支持 2 sensor 输入；编码：H.265/H.264 4K@30fps,root,1906551877,VS816,7330959559,无,0,无,0
+上海为旌科技有限公司,智慧视觉,https://www.visinextek.com/chanpinxinghao/111.html,VS819L,专业图像处理，最大支持 12M 像素；输入：MIPI/sub-LVDS，支持 3 sensor 输入；编码：H.265/H.264 4K@45fps,root,1906551877,VS819L,5694422646,无,0,无,0
+上海为旌科技有限公司,VS835,https://www.visinextek.com/chanpinxinghao/112.html,无,解码：H.265/H.264，12 路 1080P@30fps；输入：8 lane - MIPI/sub-LVDS；显示：支持预览、回放；编码：H.265/H.264 4K@60fps，支持转码,root,1906551877,VS835,6205233874,无,0,无,0
+上海为旌科技有限公司,VS839,https://www.visinextek.com/chanpinxinghao/105.html,无,专业图像处理，最大支持 16M 像素；输入：8 lane - MIPI/sub-LVDS，支持 4 sensor 输入；多 sensor 拼接：支持最大 4 路 4M 像素视频流拼接；编解码：H.265/H.264 4K@60fps,root,1906551877,VS839,3742030920,无,0,无,0
+上海为旌科技有限公司,VS909,https://www.visinextek.com/chanpinxinghao448/131.html,无,高性能异构并行计算 CPU+NPU+DSP，全天候、全场景专业画质高动态 120dB，快启动,root,1906551877,VS909,4242583563,无,0,无,0
+上海为旌科技有限公司,智慧视觉,https://www.visinextek.com/chanpinxinghao448/130.html,VS919L,高性能异构并行计算 CPU+NPU+GPU+DSP，内置 ADIL-D 级别安全岛，全天候全场景画质，高动态 140dB，低延时，快启动,root,1906551877,VS919L,7155192991,无,0,无,0
+上海为旌科技有限公司,智慧视觉,https://www.visinextek.com/chanpinxinghao448/115.html,VS919,高性能异构并行计算 CPU+NPU+GPU+DSP，内置 ASIL-D 级别安全岛，全天候全场景画质，高动态 140dB，低延时，快启动,root,1906551877,VS919,3765157985,无,0,无,0
+上海为旌科技有限公司,VS919,https://visinextek.com/chanpinxinghao448/115.html,无,高性能异构并行计算 CPU+NPU+GPU+DSP，内置 ASIL-D 级别安全岛，全天候全场景画质，高动态 140dB，低延时，快启动,root,1906551877,VS919,3765157985,无,0,无,0
+上海为旌科技有限公司,为旌御行智驾芯片,https://www.visinextek.com/News/147.html,VS919 系列,高集成度，高计算效率，高安全性，低功耗及低延时；内部集成 ASIL-D 级安全岛，同时提供整体的 autosar 解决方案；通过自研 ISP，满足车载领域对高动态、全域降噪的要求，同时满足低光、强光及各种气象条件下的图像还原，降低机器推理难度；自研高效能 NPU，采用近存计算设计、乱序执行、多队列、多维度融合等先进技术，得到传统 GPU 计算数倍的有效算力；搭配为旌星图工具链，提供高质量解决方案的同时，降低了用户整体系统成本、研发成本和研发周期,root,1906551877,新闻中心,3147335844,无,0,无,0

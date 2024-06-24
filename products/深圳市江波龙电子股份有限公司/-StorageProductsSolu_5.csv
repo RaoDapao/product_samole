@@ -1,0 +1,17 @@
+产品网址：https://www.longsys.com/products/solid-state-drive/commercial-pcle-ssd/xp1000-pcie-ssd.html
+产品结构：root->-StorageProductsSolution–LongsysacquiredLEXAR&Foreseee
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|XP1000 PCIe SSD|无|适用于高性能 PC 设备，具有额外通道和更高的 Flash FPS，可实现高速性能；L1.2 低功耗，实现更低功耗和更长使用寿命；温度控制算法，在运行期间平衡速度和温度|
+
+Product Series,PN,NAND Flash,Capacity,Type,DRAM,Operating Temperature,Sequential Read Speed*,Sequential Write Speed*,Random Read Speed (IOPS)*,Random Write Speed (IOPS)*,Mean Time Between Failures (Hour)
+XP1000 PCIe SSD,FSB0C128G-C4C7200,3D TLC,128GB,M.2 2280,DRAM-less,0℃~70°C,1600MB/s,930MB/s,67K,170K,1.5 million hours
+XP1000 PCIe SSD,FSB0C256G-C4C7200,3D TLC,256GB,M.2 2280,DRAM-less,0℃~70°C,3300MB/s,1800MB/s,130K,240K,1.5 million hours
+XP1000 PCIe SSD,FSB0C512G-C4C7200,3D TLC,512GB,M.2 2280,DRAM-less,0℃~70°C,3400MB/s,2900MB/s,250K,260K,1.5 million hours
+XP1000 PCIe SSD,FSB0C001T-C4C7200,3D TLC,1TB,M.2 2280,DRAM-less,0℃~70°C,3400MB/s,3000MB/s,330K,260K,1.5 million hours
+XP1000 PCIe SSD,FSB0C002T-C4C7200,3D TLC,2TB,M.2 2280,DRAM-less,0℃~70°C,3400MB/s,3100MB/s,335K,260K,1.5 million hours
+XP1000 PCIe SSD,FSB0C128G-C4H1400,3D TLC,128GB,M.2 2280,DRAM-less,0℃~70°C,1600MB/s,650MB/s,64K,140K,1.5 million hours
+XP1000 PCIe SSD,FSB0C256G-C4H1400,3D TLC,256GB,M.2 2280,DRAM-less,0℃~70°C,3300MB/s,1300MB/s,126K,262K,1.5 million hours
+XP1000 PCIe SSD,FSB0C512G-C4H1400,3D TLC,512GB,M.2 2280,DRAM-less,0℃~70°C,3400MB/s,2600MB/s,240K,286K,1.5 million hours
+XP1000 PCIe SSD,FSB0C001T-C4H1400,3D TLC,1TB,M.2 2280,,0℃~70°C,3500MB/s,3200MB/s,366K,280K,1.5 million hours

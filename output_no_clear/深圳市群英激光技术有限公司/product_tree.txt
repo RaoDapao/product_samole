@@ -1,0 +1,16 @@
+-> root https://www.qylaser.com
+  -> 产品中心-柔性屏激光切割-深圳群英激光 https://www.qylaser.com/cpzx
+    -> 3D 动态振镜切割/雕刻/喷花机 
+    -> 激光飞行模切机 
+    -> 超快紫外皮秒切割蚀刻机 
+    -> （微米级）准直激光切割机 
+    -> 大型裁床 伺服龙门丝杆 四驱 激光切割机 
+  -> 3D动态振镜切割-雕刻-喷花机-深圳市群 https://www.qylaser.com/productinfo/2549581.html
+  -> 激光飞行模切机-深圳市群英激光技术有限公 https://www.qylaser.com/productinfo/2523264.html
+  -> 超快紫外皮秒切割蚀刻机-深圳市群英激光技 https://www.qylaser.com/productinfo/2549617.html
+  -> （微米级）准直激光切割机-深圳市群英激光 https://www.qylaser.com/productinfo/2549526.html
+  -> 大型裁床伺服龙门丝杆四驱激光切割机-深圳 https://www.qylaser.com/productinfo/2549626.html
+  -> 产品中心-柔性屏激光切割-深圳群英激光_1 https://www.qylaser.com/cpzx#
+  -> 产品分类结果页 https://www.qylaser.com/ProductInfoCategory?categoryId=924664
+  -> 激光飞行模切机-深圳市群英激光技术有限公_1 https://www.qylaser.com/productinfo/2523264.html#
+  -> 大型裁床伺服龙门丝杆四驱激光切割机-深圳_1 https://www.qylaser.com/productinfo/2549626.html#

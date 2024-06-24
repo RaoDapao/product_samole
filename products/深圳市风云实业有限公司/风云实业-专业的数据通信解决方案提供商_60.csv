@@ -1,0 +1,103 @@
+产品网址：https://www.szforward.com/product/productDetail_TSR80-03.html#
+产品结构：root->风云实业-专业的数据通信解决方案提供商
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|通用路由器|TSR80-03|无|
+
+型号名称,Tritium TSR80-03
+硬件规格,硬件规格
+体系架构,基于多核处理器的分布式转发
+固定端口,1个Console口  6个10/100/1000M RJ45以太网带外管理口  2个USB2.0接口  1个SD卡插槽  1路2M时钟BNC接口
+MCU 插槽,2
+FSU 插槽,0
+XFE 插槽数量,3
+XIM/NIM 插槽数量,12
+电源模块插槽,2
+电源规格,交流电压：198~242V
+最大功耗,700W
+物理尺寸(高×宽×深),266 mm×445 mm×500 mm（不含挂耳）  266 mm×487.6 mm×500 mm（含挂耳）
+性能规格,性能规格
+转发性能,32Mpps
+环境规格,环境规格
+工作环境,工作温度：0~40° C  相对湿度：10%~85%无冷凝
+存储环境,存储温度：-20~60° C  相对湿度：5%~95%无冷凝
+业务规格,业务规格
+网络互连,局域网协议  ARP，Ethernet，802.1Q、802.1ad、L3 Trunk  广域网协议  PPP，MP，PPP地址分配，支持基于FR的POS子接口
+局域网协议,ARP，Ethernet，802.1Q、802.1ad、L3 Trunk
+广域网协议,PPP，MP，PPP地址分配，支持基于FR的POS子接口
+网络协议,IP服务  支持基本的 TCP/IP 协议栈，包括 ICMP、IP、TCP、UDP、Socket（TCP/UDP/Raw IP）、ARP  IP应用  支持Ping、Traceroute  支持Telnet、TFTP Server/FTP Server  支持DHCP Server/DHCP Relay  支持DHCP Relay Option82  支持NTP Server/Client  IPv4单播  支持静态路由、ECMP、策略路由  支持RIPv1/v2、OSPFv2、BGP-4、IS-IS  IPv4组播  支持IGMP v1/v2/v3  支持PIM-DM、PIM-SM、PIM-SSM、MSDP、MBGP  支持Rosen MVPN、NG MVPN  IPv6协议栈  支持ND（Neighbor Discovery）  支持PMTU  支持IPv6Ping/IPv6Traceroute  IPv6单播  支持静态路由、ECMP、策略路由  支持RIPng、OSPFv3、IS-ISv6、BGP4+  IPv6组播  支持MLDv1/v2  支持PIM-SM for IPv6、PIM-DM for IPv6、SSM for IPv6  IPv6过渡技术  支持IPv6 over IPv4隧道：  支持手动配置Tunnel、自动隧道、6to4 tunnel、GRE、6PE  支持IPv4 over IPv6隧道  MPLS  支持LDP/mLDP  支持MPLS L3 VPN（域内/域间）  支持RSVP-TE（域内/域间）/P2MP-TE  支持DS-TE
+IP服务,支持基本的 TCP/IP 协议栈，包括 ICMP、IP、TCP、UDP、Socket（TCP/UDP/Raw IP）、ARP
+IP应用,支持Ping、Traceroute  支持Telnet、TFTP Server/FTP Server  支持DHCP Server/DHCP Relay  支持DHCP Relay Option82  支持NTP Server/Client
+IPv4单播,支持静态路由、ECMP、策略路由  支持RIPv1/v2、OSPFv2、BGP-4、IS-IS
+IPv4组播,支持IGMP v1/v2/v3  支持PIM-DM、PIM-SM、PIM-SSM、MSDP、MBGP  支持Rosen MVPN、NG MVPN
+IPv6协议栈,支持ND（Neighbor Discovery）  支持PMTU  支持IPv6Ping/IPv6Traceroute
+IPv6单播,支持静态路由、ECMP、策略路由  支持RIPng、OSPFv3、IS-ISv6、BGP4+
+IPv6组播,支持MLDv1/v2  支持PIM-SM for IPv6、PIM-DM for IPv6、SSM for IPv6
+IPv6过渡技术,支持IPv6 over IPv4隧道：  支持手动配置Tunnel、自动隧道、6to4 tunnel、GRE、6PE  支持IPv4 over IPv6隧道
+MPLS,支持LDP/mLDP  支持MPLS L3 VPN（域内/域间）  支持RSVP-TE（域内/域间）/P2MP-TE  支持DS-TE
+网络安全性,网络安全性
+端口安全,支持PAP，CHAP
+协议安全,支持路由协议认证：明文、MD5加密
+其他安全技术,支持IPv4/IPv6 ACL  支持IPv4/IPv6 URPF  支持防IP/端口扫描  支持MAC地址限制、MAC与IP绑定  支持SSH
+网络可靠性,支持主控板1+1冗余备份  支持交换板1+1冗余备份  支持线卡热插拔  支持电源模块N+M冗余备份  支持Graceful-Restart for IS-IS/OSPF/BGP  支持OSPF NSR  支持RSVP-FRR快速重路由技术  支持IP FRR  支持VRRP
+Qos,Qos
+流量分类,支持灵活流分类，IP/IP Precedence/DSCP等
+流量监管,支持CAR(Committed Access Rate)  支持Input/Output rate-limit限速
+调度算法,支持FIFO、PQ、WRR、CQ、WFQ、CBWFQ等
+输出队列,支持8个优先级输出流队列
+阻塞控制,支持WRED/RED
+流量整形,支持基于接口及端口队列的流量整形
+其他Qos技术,支持MPLS QoS  支持基于DiffServ和MPLS TE的DS-TE，支持8CT（Class Type）
+服务、管理、维护,服务、管理、维护
+网络管理,支持SLA网络性能测量技术  支持SNMPV1/V2c/V3  支持Local Syslog/Remote Syslog  支持Netflow v5/v9、IPFIX
+登陆方式,支持Console、Telnet、SSH登录
+
+
+局域网协议,ARP，Ethernet，802.1Q、802.1ad、L3 Trunk
+广域网协议,PPP，MP，PPP地址分配，支持基于FR的POS子接口
+
+
+IP服务,支持基本的 TCP/IP 协议栈，包括 ICMP、IP、TCP、UDP、Socket（TCP/UDP/Raw IP）、ARP
+IP应用,支持Ping、Traceroute  支持Telnet、TFTP Server/FTP Server  支持DHCP Server/DHCP Relay  支持DHCP Relay Option82  支持NTP Server/Client
+IPv4单播,支持静态路由、ECMP、策略路由  支持RIPv1/v2、OSPFv2、BGP-4、IS-IS
+IPv4组播,支持IGMP v1/v2/v3  支持PIM-DM、PIM-SM、PIM-SSM、MSDP、MBGP  支持Rosen MVPN、NG MVPN
+IPv6协议栈,支持ND（Neighbor Discovery）  支持PMTU  支持IPv6Ping/IPv6Traceroute
+IPv6单播,支持静态路由、ECMP、策略路由  支持RIPng、OSPFv3、IS-ISv6、BGP4+
+IPv6组播,支持MLDv1/v2  支持PIM-SM for IPv6、PIM-DM for IPv6、SSM for IPv6
+IPv6过渡技术,支持IPv6 over IPv4隧道：  支持手动配置Tunnel、自动隧道、6to4 tunnel、GRE、6PE  支持IPv4 over IPv6隧道
+MPLS,支持LDP/mLDP  支持MPLS L3 VPN（域内/域间）  支持RSVP-TE（域内/域间）/P2MP-TE  支持DS-TE
+
+
+型号,描述,配置说明
+一体化机箱组件,一体化机箱组件,一体化机箱组件
+TSR80-03-CHS,TSR80-03一体化机箱组件：横插，3个XFE转发处理引擎槽位，2个控制引擎槽位，2个电源槽位，含机箱，风扇,机箱不含交流电源，可配置1-2块
+控制引擎,控制引擎,控制引擎
+TSR80-03-MCU-E,TSR80-03高性能主控处理板(默认2GB板载电子盘+4GB板载内存),可配置1-2块
+电源模块,电源模块,电源模块
+PSU-AC1000,"交流电源模块(220VAC,1000W)",支持冗余备份，支持1＋1冗余备份
+转发处理引擎,转发处理引擎,转发处理引擎
+TSR80-03-XFE-4X-S,TSR80-X3系列XIM/NIM子卡处理引擎，每个引擎支持4个子卡扩展接口（不带TCAM），每个XFE支持2个XIM/NIM业务子卡槽位，1个NIM业务子卡槽位,最大支持3块，基础配置板卡
+XIM/NIM接口子卡,XIM/NIM接口子卡,XIM/NIM接口子卡
+XIM-OC48/OC12/OC3/GE-8S-S,"8端口OC48/OC12/OC3/GE复用光接口子卡（SFP,LC）",选配
+XIM-OC12/3/GE-8S-S,"8端口OC12/OC3/GE复用光接口子卡（SFP,LC）",选配
+XIM-OC3/GE-8S-S,"8端口OC3/GE复用光接口子卡（SFP,LC）",选配
+XIM-OC12/3/GE-4S-S,"4端口OC3/GE复用光接口子卡（SFP,LC）",选配
+XIM-GE-8S-S,"8端口以太千兆光接口子卡（SFP,LC）",选配
+XIM-GE-8T-S,8端口以太千兆电接口子卡（RJ45）,选配
+NIM-GE-8T-L2-S,8端口L2以太千兆电接口子卡（RJ45），支持L2交换功能,选配
+NIM-cOC3-2S-S,"2端口通道化OC3 POS光接口子卡（SFP,LC）",选配
+NIM-UE1-16DB50-S,"16端口E1-DB50-75ohm,BNC接口",选配
+NIM-UE1-8DB50-S,8端口E1-DB50-75ohm，BNC接口,选配
+NIM-UE1-4DB50-S,4端口E1-DB50-75ohm，BNC接口,选配
+XIM-10GE-1S+-S,"1端口以太万兆光接口子卡（SFP+,LC）LAN/WAN兼容模式",选配
+NIM-OC3-4S-S,"4端口OC3 POS光接口子卡（SFP,LC）",选配
+NIM-OC12-1S/OC3-2S-S,"1端口OC12+2端口OC3光接口子卡（SFP,LC）",选配
+NIM-OC12-1S-S,"1端口OC12 POS光接口子卡（SFP,LC）",选配
+NIM-OC3-2S-S,"2端口OC3 POS光接口子卡（SFP,LC）",选配
+XIM-OC192-1S+-S,"1端口OC192 POS光接口子卡（SFP+,LC）",选配
+XIM-GE-4C-S,"4端口以太千兆光电复用接口子卡（SFP,LC、RJ45）",选配
+XIM-GE-4T-S,4端口以太千兆电接口子卡（RJ45）,选配
+接口板配线,接口板配线,接口板配线
+CB-8E1-DB50-75ohm-1m,"75Ω中继电缆[DB50(针)-16*BNC(孔),8路,1米]",8/16口E1需要配置
+CB-4E1-DB50-75ohm-1m,"75Ω中继电缆[DB50(针)-8*BNC(孔),4路,1米]",4口E1需要配置

@@ -1,0 +1,5 @@
+-> root https://www.gzshixiang.com
+  -> Xrany元霓-实现无限可能Realiz https://www.gzshixiang.com/products/X1
+  -> Xrany元霓-实现无限可能Realiz_1 https://www.gzshixiang.com/products/G510
+  -> Xrany元霓-实现无限可能Realiz_2 https://www.gzshixiang.com/products/G330
+  -> Xrany元霓-实现无限可能Realiz_3 https://www.gzshixiang.com/products/G350

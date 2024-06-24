@@ -1,0 +1,104 @@
+-> root http://henghuiic.com
+  -> 产品与技术-新恒汇电子-新恒汇电子股份有 http://henghuiic.com/cn/Products
+    -> 智能卡封装载带 
+    -> 智能卡模块 
+    -> 晶圆测试减划 
+    -> 高精度蚀刻金属引线框架 
+    -> 物联网 eSIM 封装 
+  -> 产品信息-新恒汇电子-新恒汇电子股份有限 http://henghuiic.com/cn/ProductInfo
+  -> 产品与技术研发创新研发创新 
+    -> 产品信息 
+      -> 质量保障 
+        -> 首页 
+          -> 产品与技术 
+            -> 研发创新 http://henghuiic.com/cn/Innovation
+              -> AI 视觉检测技术 
+              -> 卷装（Reel to Reel）CSP 载带 
+              -> 金银合金镀层 
+              -> 单填充封装 
+              -> 合金线焊接技术 
+              -> 铝合金 
+  -> 产品与技术质量保障研发创新 
+    -> 产品信息 
+      -> 质量保障 
+        -> 首页 
+          -> 产品与技术 
+            -> 质量保障 http://henghuiic.com/cn/Qualification
+  -> 产品与技术智能卡封装载带研发创新 
+    -> 产品信息 
+      -> 质量保障 
+        -> 首页 
+          -> 产品与技术 
+            -> 产品信息 
+              -> 智能卡封装载带 http://henghuiic.com/cn/ProductInfo/CarrierTape
+  -> 产品与技术智能卡模块研发创新 
+    -> 产品信息 
+      -> 质量保障 
+        -> 首页 
+          -> 产品与技术 
+            -> 产品信息 
+              -> 智能卡模块 http://henghuiic.com/cn/ProductInfo/Module
+  -> 产品与技术晶圆测试减划研发创新 
+    -> 产品信息 
+      -> 质量保障 
+        -> 首页 
+          -> 产品与技术 
+            -> 产品信息 
+              -> 晶圆测试减划 http://henghuiic.com/cn/ProductInfo/Wafer
+  -> 产品与技术高精度蚀刻金属引线框架研发创新 
+    -> 产品信息 
+      -> 质量保障 
+        -> 首页 
+          -> 产品与技术 
+            -> 产品信息 
+              -> 高精度蚀刻金属引线框架 http://henghuiic.com/cn/ProductInfo/LeadFrame
+  -> 产品与技术物联网eSIM封装研发创新 
+    -> 产品信息 
+      -> 质量保障 
+        -> 首页 
+          -> 产品与技术 
+            -> 产品信息 
+              -> 物联网eSIM封装 http://henghuiic.com/cn/ProductInfo/eSIM
+  -> Products-HENGHUITech http://henghuiic.com/en/Products
+  -> Products-HENGHUITech_1 http://henghuiic.com/en/ProductInfo
+    -> Smart card packing tape 
+    -> SCOB 
+    -> Wafer Test & Scratch Reduction 
+    -> High precision etched metal lead frame 
+    -> IoT eSIM Packaging 
+  -> 首页 
+    -> 产品与技术 
+      -> 研发创新 
+        -> 金银合金镀层- http://henghuiic.com/cn/Innovation/134.html
+        -> 单填充封装- http://henghuiic.com/cn/Innovation/136.html
+      -> 质量保障 
+      -> 产品信息 
+        -> 智能卡封装载带 
+          -> 彩色电镀- http://henghuiic.com/cn/ProductInfo/CarrierTape/200.html
+          -> 电磁耦合产品- http://henghuiic.com/cn/ProductInfo/CarrierTape/199.html
+            -> 电磁耦合产品 
+          -> 高密度产品- http://henghuiic.com/cn/ProductInfo/CarrierTape/198.html
+          -> ASC高效单面产品- http://henghuiic.com/cn/ProductInfo/CarrierTape/197.html
+          -> 镀钯产品- http://henghuiic.com/cn/ProductInfo/CarrierTape/196.html
+          -> 选择电镀- http://henghuiic.com/cn/ProductInfo/CarrierTape/195.html
+        -> 智能卡模块 
+          -> 非接触式 http://henghuiic.com/cn/ProductInfo/Module/205.html
+          -> 6PIN接触式 http://henghuiic.com/cn/ProductInfo/Module/204.html
+          -> 8PIN接触式 http://henghuiic.com/cn/ProductInfo/Module/203.html
+          -> 6PIN双界面 http://henghuiic.com/cn/ProductInfo/Module/202.html
+          -> 8PIN双界面 http://henghuiic.com/cn/ProductInfo/Module/201.html
+        -> 晶圆测试减划 
+          -> 减薄划片8寸12寸产品- http://henghuiic.com/cn/ProductInfo/Wafer/232.html
+        -> 高精度蚀刻金属引线框架 
+          -> 高可靠性解决方案- http://henghuiic.com/cn/ProductInfo/LeadFrame/239.html
+          -> DR-QFN技术- http://henghuiic.com/cn/ProductInfo/LeadFrame/238.html
+          -> PPF电镀技术- http://henghuiic.com/cn/ProductInfo/LeadFrame/237.html
+          -> 压板电镀技术- http://henghuiic.com/cn/ProductInfo/LeadFrame/236.html
+          -> HSP电镀技术- http://henghuiic.com/cn/ProductInfo/LeadFrame/235.html
+        -> 物联网eSIM封装 
+          -> QFN4X4-24L贴片卡模块- http://henghuiic.com/cn/ProductInfo/eSIM/231.html
+          -> QFN4X4-16L贴片卡模块- http://henghuiic.com/cn/ProductInfo/eSIM/230.html
+          -> DFN3X3-8L贴片卡模块- http://henghuiic.com/cn/ProductInfo/eSIM/229.html
+          -> DFN2X2-8L贴片卡模块- http://henghuiic.com/cn/ProductInfo/eSIM/228.html
+          -> DFN3X3-12L贴片卡模块- http://henghuiic.com/cn/ProductInfo/eSIM/227.html
+          -> DFN5X6-8L贴片卡模块- http://henghuiic.com/cn/ProductInfo/eSIM/226.html

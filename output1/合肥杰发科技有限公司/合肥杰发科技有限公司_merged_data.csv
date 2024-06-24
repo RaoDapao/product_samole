@@ -1,0 +1,29 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+合肥杰发科技有限公司,智能座舱域控制芯片,https://autochips.com/products.html,AC8025,内置高性能 NPU，可提供高效的 AI 应用解决方案，同时拥有更强大灵活的视频输出能力，可最多支持车内 7 屏显示，以及长条屏和高清超大屏显示。满足 AEC-Q100 质量认证，仪表显示符合功能安全 ISO 26262 ASIL-B 认证等级,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,车规级座舱 SoC 芯片,https://autochips.com/products.html,AC8015,"可用于开发一芯多屏入门级座舱、车载信息娱乐系统、Display Audio, AR-HUD, 虚拟仪表等座舱域产品。支持多种系统的解决方案，AEC-Q100 认证",无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,车联网芯片,https://autochips.com/products.html,AC8257,内置 4G 高性能 Modem，支持冷启动 2s 内快速倒车，支持全高清视频输出，支持多路行车记录高清录制，支持 360° 3D 高清环视 AVM，支持 DMS 疲劳预警，支持有线和无线 CarPlay，支持远程控车及监控，3mA 超低功耗联网待机，支持 Android 9.0/10.0/11.0，工作温度-40℃~85℃,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,车联网模组,https://autochips.com/products.html,AC8257 车联网模组,满足车内-40℃~+85℃宽温要求，集成 4G T-Box、360 AVM 高清环视、有线&无线 CarPlay 手机互联功能，采用 14nm 先进工艺，芯片散热效果好，超十年供货有效期,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,前装 IVI SOC 芯片,https://autochips.com/products.html,AC8225,高性价比车载娱乐芯片平台，具有丰富音视频输入和输出接口、高集成度、高可靠性，可提供高性价比的前装车载娱乐方案，AEC-Q100 认证,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,后装 IVI SOC 芯片,https://autochips.com/products.html,AC8227L,高性价比车载娱乐芯片平台，集成度高、外围接口丰富、扩展性强、支持丰富多媒体应用，内置 ARM9 协处理器可支持 CVBS、HD 快速启动倒车,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,汽车应用处理器,https://autochips.com/products.html?pro=mcu&rid=5,AC8025,无,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,汽车应用处理器,https://autochips.com/products.html?pro=mcu&rid=5,AC8015,无,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,汽车应用处理器,https://autochips.com/products.html?pro=mcu&rid=5,AC8257,无,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,车联网模组,https://autochips.com/products.html?pro=mcu&rid=5,AC8257,无,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,汽车应用处理器,https://autochips.com/products.html?pro=mcu&rid=5,AC8225,无,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,汽车应用处理器,https://autochips.com/products.html?pro=mcu&rid=5,AC8227L,无,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,车规级微控制器,https://autochips.com/products.html?pro=mcu&rid=5,AC7840x,"高可靠性车规级 32 位 MCU，基于 ARM Cortex-M3 内核，拥有 256KB Flash,64KB RAM,2 路 CAN，LQFP64 和 LQFP80 两种封装。可靠性高，具备出色的 EMC/ESD 能力，主要应用于汽车电子和高可靠工业领域。功能安全：符合 ISO26262 ASIL-B，支持功能安全编译器；AUTOSAR：AUTOSAR 支持 V4.4，提供 MCAL 及配置工具，适配国内外主流三方 AUTOSAR 方案；信息安全：支持 SHE、支持通信加密及安全启动；高性能：Cortex-M4F 内核，120MHz 主频，1MB Code Flash, 支持双 Bank，支持 OTA，最大 128KB Data Flash；品质服务：单、双电机方案 Turnkey Solution，多种渠道的技术支持；高可靠性：符合 AEC-Q100 Grade1",无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,车规级微控制器,https://autochips.com/products.html?pro=mcu&rid=5,AC7802x,低功耗小封装车规级 32 位 MCU，基于 ARM Cortex-M0+内核，资源精简，拥有 32KB Code Flash，2KB Data Flash，2KB RAM。与 AC7801x 同封装可硬件兼容设计，软件接口兼容，方便客户平台化选型，支持需求向上拓展。AC7802x 可应用于汽车电子传感器，温控、开关、车灯等车规 MCU 应用场景,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,车规级微控制器,https://autochips.com/products.html?pro=mcu&rid=5,AC7801x,高性价比车规级 32 位 MCU，基于 ARM Cortex-M0+内核，拥有 128KB Flash，20KB RAM，1 路 CAN-FD/CAN，QFN32 和 LQFP48 两种封装。集成除法均方根运算单元，适用于 BLDC 电机控制场景，已大量应用于汽车电子及电机控制等应用场景,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,车规级微控制器,https://autochips.com/products.html?pro=mcu&rid=5,AC781x,高可靠性车规级 32 位 MCU，基于 ARM Cortex-M3 内核，拥有 256KB Flash，64KB RAM，2 路 CAN，LQFP64 和 LQFP80 两种封装。可靠性高，具备出色的 EMC/ESD 能力，主要应用于汽车电子和高可靠工业领域,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,音频功率放大器,https://autochips.com/products.html?pro=mcu&rid=5,AC7325,车规级 ClassAB 类音频功率放大器芯片,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,胎压监测专用传感器芯片,https://autochips.com/products.html?pro=mcu&rid=5,AC5121,首款全集成高性能胎压监测专用传感器芯片,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,软件平台,https://autochips.com/products.html?pro=mcu&rid=5,AVM,成熟量产的完整解决方案，满足客户定制化需求,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,解决方案,https://autochips.com/products.html?pro=mcu&rid=5,电机算法,AutoChips 自主知识产权电机控制算法,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,车载音频功率放大器,https://autochips.com/products.html?pro=soft&rid=3,无,车规级 ClassAB 类音频功率放大器芯片,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,胎压监测专用传感器芯片,https://autochips.com/products.html?pro=soft&rid=3,无,首款全集成高性能胎压监测专用传感器芯片,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,解决方案,https://autochips.com/products.html?pro=soft&rid=3,电机方案,AutoChips 自主知识产权电机控制算法,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,汽车应用处理器,https://autochips.com/products.html?pro=soft&rid=3,无,量产五代高性能、高可靠性的汽车应用处理器芯片,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,车规级微控制器,https://autochips.com/products.html?pro=soft&rid=3,无,量产四代覆盖全车应用的车辆微控制器芯片,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,360°3D 高清环视 AVM,https://autochips.com/products.html?pro=soft&rid=3,无,成熟量产的完整解决方案，满足客户定制化需求,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,电机算法,https://autochips.com/products.html?pro=solution&rid=2,无,AutoChips 自主知识产权电机控制算法，支持通用位置传感器及电流采样形式的广泛电机控制，可快速适配 App 实现电机应用方案,无,0,无,0,无,0,无,0
+合肥杰发科技有限公司,车规级 MCU,https://autochips.com/ndetail/1039.html,AC7840x,基于 ARM Cortex-M4F 内核，符合 AEC-Q100 Grade 1 要求，信息安全方面支持 SHE 标准，如安全启动、通信加密等。软件生态支持 AUTosar MCAL 4.4，可提供 MCAL 及配置工具，并适配国内外主流三方 Autosar 方案。拥有双 Bank Flash 用于存储程序，支持 OTA。可广泛应用于智能座舱、座椅控制、LED 车灯、空调控制器、T-Box、BCM 等领域,无,0,无,0,无,0,无,0

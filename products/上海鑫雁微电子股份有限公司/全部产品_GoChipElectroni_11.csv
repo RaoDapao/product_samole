@@ -1,0 +1,10 @@
+产品网址：http://en.golden-chip.com/product-6-2.aspx
+产品结构：root->全部产品_GoChipElectronicTechnology(Shanghai)Co.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|磁电式绝对值型编码器|无|能直接输出电机轴当前的角度位置信息，即电机在任何角度时，绝对值编码器都能通过传输协议与控制器通信，并将当前电机的角度信息发送给控制器|
+
+Model,Voltage,Max working current,Stator installation inner diameter,Rotor installation outer diameter,Max electrical speed,Allow movement,Download
+GHA16-023050NW-5L,5VDC(4.6～6.5VDC,<80mA(5VDC),22.9mm,50mm(Outer diameter of magnetic ring),20000rpm,Axis: ±0.5mm; Radial runout:<0.05mm,Download
+GHA16-058012N-5L,5VDC(4.6～6.5VDC),<65mA(5VDC),58mm,12mm(Outer diameter of magnetic ring),6000rpm,Axis: ±0.5mm; Radial runout:<0.05mm,Download

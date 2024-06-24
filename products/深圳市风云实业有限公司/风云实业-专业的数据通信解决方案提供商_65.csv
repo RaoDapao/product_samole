@@ -1,0 +1,43 @@
+产品网址：https://www.szforward.com/product/productDetail_S5100-28TS.html#
+产品结构：root->风云实业-专业的数据通信解决方案提供商
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|通用交换机|S5100-28TS|无|
+
+型号名称,S5100-28TS
+硬件规格,硬件规格
+固定端口,24×10/100/1000Base-T  4×SFP  1×RS232 RJ45 console接口  1×带外管理接口
+电源规格,固化交流电源，前置AC 91V – 264V 47-63Hz
+最大功耗,≤23W
+物理尺寸(宽×深×高),443mm×230mm×44mm
+性能规格,性能规格
+包转发率,96Mpps
+MAC容量,16K
+VLAN容量,4K
+ACL容量,1K
+业务规格,业务规格
+转发模式,存储转发
+端口特性,"支持Full- duplex, Half- duplex  支持IEEE802.3x flow control ( Full- duplex )  支持HOL防止首包阻塞，背压( Half- duplex )  支持VCT ( Virtual Cable Test )  支持UDLD, LLDP, LLDP-MED  支持IEEE 802.3ae, 802.3ab, 802.3z, 802.3u, 802.3  支持9K Jumbo frame  支持Port-Isolation  支持GE/FE光模块兼容  支持Port Mirror  支持64Kbps粒度端口限速"
+MAC特性,支持MAC binding  支持MAC filter  支持基于端口或VLAN的mac数量限制  支持MAC学习限速
+VLAN特性,支持Port-based VLAN  支持IEEE802.1Q VLAN  支持private VLAN  支持Protocol VLAN  支持Voice VLAN  支持MAC VLAN  支持普通QinQ  支持选择性QinQ  支持灵活QinQ  支持VLAN Translation  支持N:1 VLAN Translation
+端口聚合,支持LACP 802.3ad  支持负载均衡  支持128个聚合组  每个聚合组最大支持8端口聚合
+风暴抑制,支持Broadcast / Multicast / Unicast风暴抑制
+IP应用,支持MRPP  支持arp限速／arp重认证／anti arp scan／arp guard/免费ARP/DAI(动态arp检测)  支持DHCP Client、DHCP Relay  支持Option 82、Option 37/38  支持DHCP Snooping、DHCP Server  支持option 43/60；支持option 37/38  支持DNS Client
+路由,支持Static routing
+组播,支持IGMP v1/v2/v3 snooping、IGMP Fast leave  支持MLD v1/v2 snooping  支持组播VLAN、 IPv4/IPv6 DCSCM
+Qos,支持基于ACL流、VLAN ID、COS、TOS、DSCP  支持聚合PolicyMap  支持基于端口和基于VLAN的PolicyMap绑定  支持单速单桶双色、单速双桶三色、双速双桶三色监管  支持DSCP、COS/802.1p优先级、TOS等字段重写  支持每端口8个队列
+ACL,支持IP ACL，基于源/目的IP、IP协议类型、IP优先级、TCP/UDP源和目的端口号等字段进行匹配  支持MAC ACL，基于源/目的MAC、VLAN ID、COS等字段进行报文匹配  支持IP+MAC组合ACL  支持自定义ACL*  支持根据时间段生效ACL  支持基于端口和基于VLAN的ACL绑定  支持基于ACL的重定向  支持根据ACL匹配情况执行流量统计分析功能
+安全特性,支持端口限速  支持基于报文和字节数的广播风暴控制  支持端口/MAC绑定、MAC过滤  支持基于端口和基于VLAN的MAC数量限制  支持防ARP欺骗、防ARP扫描、ARP绑定  支持DHCP Snooping、ND Snooping  支持DAI  支持标准IEEE 802.1x、扩展IEEE 802.1x、Web Portal  支持TACACS+
+可靠性,支持STP，RSTP，MSTP  支持多进程MSTP*  支持LACP负载均衡  支持VRRP  支持EMVTE(ULPP+ULSM)和MRPP  支持G.8032标准环网协议  支持Loopback detection、VCT、DDM  支持断电告警Dying gasp功能  支持ULDP(实现Cisco UDLD同样功能)
+管理维护,支持CLI  支持以太网管口  支持HTTP  支持FTP/TFTP  支持SNTP/NTP  支持telnet用户名和密码的radius认证  支持SSH  支持Security IP安全网管功能  支持syslog  支持SNMPv1/v2c/v3  支持MIB接口，支持Trap  支持RMON 1，2，3，9四组  支持双IMG和多配置文件  支持LLDP  支持端口镜像、CPU镜像、RSPAN以及ERSPAN  支持sFlow流量监控  支持Reset一键还原  支持零接触配置*  支持Openflow 1.0*  支持IEEE1588时间同步* 支持Information Centor*  支持OAM*
+环境规格,环境规格
+工作湿度,工作湿度：10% - 90% (无凝结)
+工作温度,长期工作温度：-5℃-50℃  短期工作温度：-10℃-55℃
+存储环境,存储温度：-40-70° C  存储湿度：最大95%
+绿色节能,支持LED shut-off  支持802.3az EEE节能标准
+电磁安全,"FCC, CE, VCCI"
+
+
+型号,描述,配置说明
+S5100-28TS,S5100-28TS以太网交换机主机，24端口10/100/1000M以太网电接口，4端口SFP千兆接口，固化交流电源,必配，含主机，挂耳，脚垫，交流电源线缆，Console线缆，用户手册，保修卡，合格证

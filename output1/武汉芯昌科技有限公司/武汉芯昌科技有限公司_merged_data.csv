@@ -1,0 +1,19 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+武汉芯昌科技有限公司,模数转换器,http://si-change.com.cn/col.jsp?id=105,无,无,无,0,无,0,无,0,无,0
+武汉芯昌科技有限公司,线性稳压器,http://si-change.com.cn/col.jsp?id=105,无,无,无,0,无,0,无,0,无,0
+武汉芯昌科技有限公司,射频收发器,http://si-change.com.cn/col.jsp?id=105,无,无,无,0,无,0,无,0,无,0
+武汉芯昌科技有限公司,DC/DC 转换器,http://si-change.com.cn/col.jsp?id=105,无,无,无,0,无,0,无,0,无,0
+武汉芯昌科技有限公司,其他类芯片,http://si-change.com.cn/col.jsp?id=105,无,无,无,0,无,0,无,0,无,0
+武汉芯昌科技有限公司,模拟数字转换器,https://m.si-change.com.cn/col.jsp?id=114,XC2362,500KSPS、12 位、采样 A/D 转换器芯片，具有高分辨率、高速率、低功耗、小尺寸、单极性的基本特征。基于具有内部采样保持电路的逐次逼近寄存器架构。采用 2.35V-3.6V 单电源供电，具有省电模式，从单个 3V 电源消耗的电流只有 0.43mA。采用 6 引脚 SOT-23 封装，工作温度范围为-40℃至 85℃。非常适合于紧凑、低功率、高速系统,无,0,无,0,无,0,无,0
+武汉芯昌科技有限公司,模拟数字转换器,https://m.si-change.com.cn/col.jsp?id=114,XC121S101,12 位的 ADC 芯片，具有高分辨率、高速率、低功耗、小尺寸、单极性的基本特征。性能参数涵盖了 500KSPS 至 1MSPS 的较宽采样范围。基于具有内部采样保持电路的逐次逼近寄存器架构,无,0,无,0,无,0,无,0
+武汉芯昌科技有限公司,XC081S021,https://m.si-change.com.cn/col.jsp?id=104,XC021 系列,电压（伏）：3.3 - 5.25<br>分辨率（位）：8<br>采样率（KSPS）：50-200<br>P2P 兼容芯片型号：ADC081S021,无,0,无,0,无,0,无,0
+武汉芯昌科技有限公司,XC101S021,https://m.si-change.com.cn/col.jsp?id=104,XC021 系列,电压（伏）：3.3 - 5.25<br>分辨率（位）：10<br>采样率（KSPS）：50-200<br>P2P 兼容芯片型号：ADC101S021,无,0,无,0,无,0,无,0
+武汉芯昌科技有限公司,XC121S021,https://m.si-change.com.cn/col.jsp?id=104,XC021 系列,电压（伏）：3.3 - 5.25<br>分辨率（位）：12<br>采样率（KSPS）：50-200<br>P2P 兼容芯片型号：ADC121S021,无,0,无,0,无,0,无,0
+武汉芯昌科技有限公司,XC081S051,https://m.si-change.com.cn/col.jsp?id=104,XC051 系列,电压（伏）：3.3 - 5.25<br>分辨率（位）：8<br>采样率（KSPS）：200-500<br>P2P 兼容芯片型号：ADC081S051,无,0,无,0,无,0,无,0
+武汉芯昌科技有限公司,XC101S051,https://m.si-change.com.cn/col.jsp?id=104,XC051 系列,电压（伏）：3.3 - 5.25<br>分辨率（位）：10<br>采样率（KSPS）：200-500<br>P2P 兼容芯片型号：ADC101S051,无,0,无,0,无,0,无,0
+武汉芯昌科技有限公司,XC121S051,https://m.si-change.com.cn/col.jsp?id=104,XC051 系列,电压（伏）：3.3 - 5.25<br>分辨率（位）：12<br>采样率（KSPS）：200-500<br>P2P 兼容芯片型号：ADC121S051,无,0,无,0,无,0,无,0
+武汉芯昌科技有限公司,XC7910,https://m.si-change.com.cn/col.jsp?id=104,XC79 系列,电压（伏）：3.3 - 5.25<br>分辨率（位）：10<br>采样率（KSPS）：250<br>P2P 兼容芯片型号：AD7910,无,0,无,0,无,0,无,0
+武汉芯昌科技有限公司,XC7920,https://m.si-change.com.cn/col.jsp?id=104,XC79 系列,电压（伏）：3.3 - 5.25<br>分辨率（位）：12<br>采样率（KSPS）：250<br>P2P 兼容芯片型号：AD7920,无,0,无,0,无,0,无,0
+武汉芯昌科技有限公司,XC081S101,https://m.si-change.com.cn/col.jsp?id=104,XC101 系列,电压（伏）：3.3 - 5.25<br>分辨率（位）：8<br>采样率（KSPS）：500-1000<br>P2P 兼容芯片型号：ADC081S101,无,0,无,0,无,0,无,0
+武汉芯昌科技有限公司,XC101S101,https://m.si-change.com.cn/col.jsp?id=104,XC101 系列,电压（伏）：3.3 - 5.25<br>分辨率（位）：10<br>采样率（KSPS）：500-1000<br>P2P 兼容芯片型号：ADC101S101,无,0,无,0,无,0,无,0
+武汉芯昌科技有限公司,ADC 产品系列,https://m.si-change.com.cn/nd.jsp?id=36,无,无,无,0,无,0,无,0,无,0

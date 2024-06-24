@@ -1,0 +1,12 @@
+-> root http://www.jlsemi.com
+  -> 产品–景略半导体 https://www.jlsemi.com.cn/chanpin
+    -> JL3xx1 
+    -> JL11x1 
+    -> JL2xx1 
+    -> JL3851 
+    -> JH7x11 ASA leaf device 
+    -> JH7x22 Dual input ASA root device 
+    -> JH7x42 Quad input ASA root device 
+  -> 景略半导体车载以太网千兆PHY荣获“中国 https://www.jlsemi.com.cn/news/276.html
+  -> 产品–景略半导体_1 https://www.jlsemi.com.cn/chanpin#
+  -> 景略半导体车载以太网千兆PHY荣获“中国_1 https://www.jlsemi.com.cn/news/276.html#

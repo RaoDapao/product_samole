@@ -1,0 +1,34 @@
+-> root https://www.zjheli.com.cn
+  -> 首页 
+      -> 核心技术 http://www.zjheli.com.cn/pl63731977.html
+        -> 纹理蚀刻 http://www.zjheli.com.cn/pd765941098.html
+        -> 厚铜镀膜 http://www.zjheli.com.cn/pd714504098.html
+        -> 光刻技术 http://www.zjheli.com.cn/pd743504098.html
+      -> 光刻产品 http://www.zjheli.com.cn/pl69512077.html
+        -> 导光板 http://www.zjheli.com.cn/pd593000278.html
+        -> 玻璃纹理 http://www.zjheli.com.cn/pd768004098.html
+        -> MiniLED http://www.zjheli.com.cn/pd728789988.html
+        -> PhotoAG http://www.zjheli.com.cn/pd761689988.html
+        -> MetalMesh http://www.zjheli.com.cn/pd738004098.html
+        -> 汽车镜片 http://www.zjheli.com.cn/pd742204098.html
+        -> 码盘 http://www.zjheli.com.cn/pd778004098.html
+      -> 触控产品 http://www.zjheli.com.cn/pl67412077.html
+        -> On-cell http://www.zjheli.com.cn/pd780304098.html
+        -> 车载工控 http://www.zjheli.com.cn/pd710304098.html
+        -> 柔性Sensor http://www.zjheli.com.cn/pd779204098.html
+      -> 镀膜产品 http://www.zjheli.com.cn/pl60512077.html
+        -> ITO http://www.zjheli.com.cn/pd707317098.html
+        -> ITO+金属 http://www.zjheli.com.cn/pd766404098.html
+        -> 低反导电金属 http://www.zjheli.com.cn/pd738304098.html
+      -> 显示面板薄化 http://www.zjheli.com.cn/pl68412077.html
+      -> 显示模组 http://www.zjheli.com.cn/pl64865977.html
+        -> 激光切割-刀轮切割 http://www.zjheli.com.cn/pd716104098.html
+        -> 全自动绑定 http://www.zjheli.com.cn/pd706104098.html
+        -> 全贴合 http://www.zjheli.com.cn/pd785104098.html
+  -> Home 
+    -> ProductDisplay 
+      -> CoreTechnique http://en-zjheli.ldyjz.com/Core-Technology-pl66370977.html
+      -> LithographyProducts http://en.zjheli.com.cn/Lithography-Products-pl60470977.html
+        -> MiniLED_1 http://en.zjheli.com.cn/Mini-LED-pd797189988.html
+      -> TouchProducts http://en.zjheli.com.cn/Touch-Products-pl68370977.html
+  -> Changxing http://en.zjheli.com.cn/Vacuum-Coating-Products-pl61470977.html

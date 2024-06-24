@@ -1,0 +1,11 @@
+-> root http://www.infotmic.com.cn
+  -> 产品中心-上海盈方微电子有限公司 http://www.infotmic.com.cn/index.php/zh/cpzx
+    -> 影像处理器 
+    -> 应用处理器 
+    -> 其它芯片 
+  -> 盈方微携手腾讯科技推出首款微游戏机产品MiniStation-资讯中心-上海盈方微电子有限公司 http://www.infotmic.com.cn/index.php/zh/zxzx/2015/11-09/27.html
+  -> Products-yingfang http://www.infotmic.com.cn/index.php/en/Productss
+    -> Image Processor 
+    -> Application Processor 
+    -> Others 
+  -> InfoTMReleasesNewProductofPowerManagementIC-News-yingfang http://www.infotmic.com.cn/index.php/en/News/2016/09-30/83.html

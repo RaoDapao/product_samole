@@ -1,0 +1,15 @@
+-> root http://zhenhaoelec.com
+  -> 深圳市振浩微电子有限公司-深圳市振浩微电 http://zhenhaoelec.com/h-col-105.html
+    -> 射频芯片 
+    -> MCU 芯片 
+    -> 射频模块 
+  -> OOK无线产品编解码快速上手指南之EV1 http://zhenhaoelec.com/h-nd-113.html
+    -> 非接触式读写卡(NFC)芯片 
+    -> NFC 读写卡模块 
+    -> 雷达模块 
+    -> PKE 模块 
+  -> 首页 
+    -> 产品中心 
+      -> 射频芯片 http://zhenhaoelec.com/h-col-218.html
+      -> MCU芯片 http://zhenhaoelec.com/h-col-219.html
+      -> 样品申请 http://zhenhaoelec.com/h-col-232.html

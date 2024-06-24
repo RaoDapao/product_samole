@@ -1,0 +1,6 @@
+产品网址：http://www.microscapes.com.cn/product10.html#
+产品结构：root->SiteMap-SiteMap|IT-FreeWebsiteTemplatefromTemplates.com
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|IP 数据管理软件|无|采用 3 个独立的数据区域，分别是 IP 版本库，IP 实体库，IP 使用工作区，严格保证数据的一致性；项目管理与 IP 管理有机结合，有利于项目管理者充分把握项目动态；与主流 EDA 工具的数据库紧密结合，实现 EDA 数据的自动版本及权限管理；通过红绿灯机制检查不同数据区域的数据一致性；数据加锁解锁效率高，上千个 IP cell 数据的加锁解锁仅用时几秒；自动对 IP 进行完整性和一致性检查|

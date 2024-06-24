@@ -1,0 +1,27 @@
+-> root https://ipinyou.com
+  -> MaximizeYourMediaAct https://www.ipinyou.com/product/alphadesk
+    -> AlphaDesk 
+    -> Optimus DSP 
+    -> Trading Desk 
+    -> iCM 
+  -> DeepZero|iPinYouAdva https://www.ipinyou.com/product/alphadesk/optimusprime
+  -> DeepZero|iPinYouTrad https://www.ipinyou.com/product/alphadesk/td
+  -> DeepZero|iPinYouiCM- https://www.ipinyou.com/product/alphadesk/icm
+  -> DeepZero|iPinYouAlph https://www.ipinyou.com/product/alphadata
+    -> AlphaData™ 
+    -> Data Management Platform (DMP) 
+    -> Customer Data Platform (CDP) 
+    -> Marketing Automation 
+    -> Holmes AI 
+  -> DeepZerp|iPinYouDMP- https://www.ipinyou.com/product/alphadata/dmp
+  -> iPinYouCDP-DataAggre https://www.ipinyou.com/product/alphadata/cdp
+  -> DeepZero|iPinYouMark https://www.ipinyou.com/product/alphadata/ma
+  -> DeepZero|iPinYouHolm https://www.ipinyou.com/product/alphadata/holmes
+    -> Campaign Management 
+    -> DMP 
+    -> OTT and CTV Advertising Solution 
+    -> KOL Campaign Solution 
+    -> E-commerce Growth Solution 
+  -> DeepZero|iPinYouAdva_1 https://www.ipinyou.com/product/alphadesk/optimusprime/#
+  -> DeepZero|iPinYouAlph_1 https://www.ipinyou.com/product/alphadata/#
+  -> DeepZero|iPinYouMark_1 https://www.ipinyou.com/product/alphadata/ma/#

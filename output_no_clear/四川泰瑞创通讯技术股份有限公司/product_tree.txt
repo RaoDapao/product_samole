@@ -1,0 +1,59 @@
+-> root https://www.trixontech.com
+  -> China产品Factory,产品Sup https://www.trixontech.com/products
+    -> 100G QSFP28 
+    -> 100G CFP 
+    -> 40G QSFP+ 
+    -> 25G SFP28 
+    -> 10G 
+    -> 1.25G 
+    -> PON 
+    -> AOC 
+    -> Mux/ demux 
+  -> 产品证书-四川泰瑞创通讯技术股份有限公司 https://www.trixontech.com/product-certificate
+  -> China产品Factory,产品Sup_1 https://www.trixontech.com/products/#
+  -> China产品Factory,产品Sup_2 https://www.trixontech.com/products/page/3
+    -> Mux/demux 
+  -> ChinaProductsFactory https://www.trixontech.com/en/products
+    -> MUX/demux 
+  -> ProductCertificate-S https://www.trixontech.com/en/product-certificate
+  -> China产品Factory,产品Sup_3 https://www.trixontech.com/products/page/2/#
+  -> ChinaProductsFactory_1 https://www.trixontech.com/en/products/page/2
+    -> QSFP28 ER4 Lite 
+    -> XGPON OLT SFP+ 
+    -> 125M/155M Dual SC, 1310nm FP 
+    -> 1.25G SFP BIDI 
+    -> 6G SFP CWDM 
+    -> TSPMD12-O mux 
+    -> 10G SFP+ CWDM 
+    -> 10G OC192_STM64 SFP+ 
+    -> 25G SFP28 BIDI ER 
+    -> 25G SFP28 BIDI LR 
+    -> 1.25G SFP SR/LR/ER/ZR 
+    -> QSFP28 PSM4 
+    -> 10G XFP DWDM 
+    -> 10G XFP CWDM 
+    -> 1.25G BIDI 40km 
+    -> CFP4 LR4 Receiver 
+    -> CFP2 LR4 
+    -> XGSPON Combo OLT PON C+ 
+    -> XGSPON ONU SFP+ 
+    -> 1.25G BIDI LC 
+  -> ChinaProductsFactory_2 https://www.trixontech.com/en/products/page/4
+    -> QSFP28 LR4 10km 
+    -> CFP2-LR4 Receiver 
+    -> 40G QSFP+ LR4 
+    -> 25G SFP28 300m 
+    -> 10G SFP+ SR/LR/ER/ZR 
+    -> EPON OLT PX20+++ 
+    -> 100G AOC 
+    -> 10G SFP+ DWDM 
+    -> 1.25G SFP 120km 
+    -> STM-1/OC-3 SFP 
+    -> SGMII 
+    -> 10G SFP+ SR/LR/ER/ZR 
+    -> 10G SFP+ DWDM 
+    -> 10G SFP+ BIDI 
+    -> 40G QSFP+ LR4 
+    -> QSFP28 SR4 
+    -> 25G SFP28 LR 
+  -> ProductCertificate-S_1 https://www.trixontech.com/en/product-certificate/#

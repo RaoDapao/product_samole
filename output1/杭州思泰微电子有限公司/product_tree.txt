@@ -1,0 +1,6 @@
+-> root https://www.steadichips.com
+  -> 杭州思泰微电子有限公司 https://www.steadichips.com/page-67017.html
+    -> 电机驱动 
+    -> 传感器 
+    -> 信号链 
+    -> 电源管理 

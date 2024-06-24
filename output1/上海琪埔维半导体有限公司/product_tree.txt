@@ -1,0 +1,17 @@
+-> root http://www.chipways.com
+  -> CHIPWAYS-芯路通讯科技有限公司 http://www.chipways.com/product_list.html
+    -> 车规级 MCU 
+    -> 车规级 BMS AFE 
+    -> 车规级数字隔离 
+    -> 车规级霍尔传感器 
+    -> 汽车 V2X 
+  -> XL6600D 
+    -> SCH&PCB 
+      -> Library http://www.chipways.com/product_MCU_XL6600-.html
+  -> XL6601 
+    -> SCH&PCB 
+      -> Library_1 http://www.chipways.com/product_MCU_XL6601-.html
+  -> XL6608 
+    -> SCH&PCB 
+      -> Library_2 http://www.chipways.com/product_MCU_XL6608-.html
+  -> 国产车规BMS芯片里程碑｜CHIPWAY http://www.chipways.com/nd.jsp?fromColId=2&id=103

@@ -1,0 +1,16 @@
+-> root https://www.chinarpm.com
+  -> 首页 
+    -> 产品中心 
+      -> 轮胎设备 
+        -> 载重胎设备 https://www.chinarpm.com/article/13.html
+      -> 航空夹具 
+        -> 夹具 https://www.chinarpm.com/article/17.html
+      -> 智能物流 https://www.chinarpm.com/cate/19.html
+      -> 工业互联网 
+        -> 产品 https://www.chinarpm.com/article/52.html
+    -> 新闻资讯 
+      -> 新闻资讯 https://www.chinarpm.com/article/729.html
+        -> 轮胎设备 
+        -> 航空夹具 
+        -> 智能物流 
+        -> 工业互联网 

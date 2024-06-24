@@ -1,0 +1,47 @@
+-> root https://www.szfar.com
+  -> 产品中心-深圳飞安瑞科技股份有限公司 http://www.szfar.com/products.html
+    -> 个人护理产品 
+    -> 空气净化器 
+    -> 厨房电器 
+    -> 其它家电 
+    -> BLDC 电机 
+    -> 新能源 
+    -> 智能家居 
+  -> 产品中心-深圳飞安瑞科技股份有限公司_1 http://www.szfar.com/products.html#
+  -> 2010年3月，深圳飞安瑞电子科技有限公 http://www.szfar.com/2019-03-28_56720.html
+  -> 产品设计-深圳飞安瑞科技股份有限公司 http://www.szfar.com/2019-03-28_70782.html
+  -> 软件服务-深圳飞安瑞科技股份有限公司 http://www.szfar.com/2019-03-28_56016.html
+  -> 美容仪-深圳飞安瑞科技股份有限公司 http://www.szfar.com/_50933.html
+  -> 高速风梳-深圳飞安瑞科技股份有限公司 http://www.szfar.com/_50717.html
+  -> 剃须刀-深圳飞安瑞科技股份有限公司 http://www.szfar.com/_51955.html
+  -> 理疗仪-深圳飞安瑞科技股份有限公司 http://www.szfar.com/_96822.html
+  -> 理疗仪-深圳飞安瑞科技股份有限公司_1 http://www.szfar.com/physiotherapy-instrument.html
+  -> 美容仪-深圳飞安瑞科技股份有限公司_1 http://www.szfar.com/cosmetic-instrument.html
+  -> 电动牙刷-深圳飞安瑞科技股份有限公司 http://www.szfar.com/electric-toothbrush_51378.html
+  -> 电动牙刷-深圳飞安瑞科技股份有限公司_1 http://www.szfar.com/electric-toothbrush.html
+  -> 空气处理-深圳飞安瑞科技股份有限公司 http://www.szfar.com/_99933.html
+  -> 风扇-深圳飞安瑞科技股份有限公司 http://www.szfar.com/_53866.html
+  -> 加温器-深圳飞安瑞科技股份有限公司 http://www.szfar.com/_55291.html
+  -> 空气净化器-深圳飞安瑞科技股份有限公司 http://www.szfar.com/air-cleaner_96961.html
+  -> 空气净化器-深圳飞安瑞科技股份有限公司_1 http://www.szfar.com/air-cleaner_53199.html
+  -> 空气净化器-深圳飞安瑞科技股份有限公司_2 http://www.szfar.com/air-cleaner.html
+  -> 香薰机-深圳飞安瑞科技股份有限公司 http://www.szfar.com/aromatherapy-machine.html
+  -> 搅面机-深圳飞安瑞科技股份有限公司 http://www.szfar.com/_50220.html
+  -> 破壁机-深圳飞安瑞科技股份有限公司 http://www.szfar.com/_53061.html
+  -> 搅拌机-深圳飞安瑞科技股份有限公司 http://www.szfar.com/_72331.html
+  -> 烤箱-深圳飞安瑞科技股份有限公司 http://www.szfar.com/_53729.html
+  -> 洗碗机-深圳飞安瑞科技股份有限公司 http://www.szfar.com/_53105.html
+  -> 咖啡机-深圳飞安瑞科技股份有限公司 http://www.szfar.com/_87020.html
+  -> 烤箱-深圳飞安瑞科技股份有限公司_1 http://www.szfar.com/oven_56389.html
+  -> 洗碗机-深圳飞安瑞科技股份有限公司_1 http://www.szfar.com/dishwasher_72351.html
+  -> 洗碗机-深圳飞安瑞科技股份有限公司_2 http://www.szfar.com/dishwasher.html
+  -> 棉被烘干机-深圳飞安瑞科技股份有限公司 http://www.szfar.com/quilt-dryer.html
+  -> BLDC驱动-深圳飞安瑞科技股份有限公司 http://www.szfar.com/bldc%E9%A9%B1%E5%8A%A8_63777.html
+  -> AC扇-深圳飞安瑞科技股份有限公司 http://www.szfar.com/ac%E6%89%87.html
+  -> DC塔扇-深圳飞安瑞科技股份有限公司 http://www.szfar.com/dc%E5%A1%94%E6%89%87.html
+  -> 新能源-深圳飞安瑞科技股份有限公司 http://www.szfar.com/_57687.html
+  -> 智能家居-深圳飞安瑞科技股份有限公司 http://www.szfar.com/_71369.html
+  -> 智能鞋柜-深圳飞安瑞科技股份有限公司 http://www.szfar.com/_55818.html
+  -> 扫地机器人-深圳飞安瑞科技股份有限公司 http://www.szfar.com/_55082.html
+  -> 仿生拖把-深圳飞安瑞科技股份有限公司 http://www.szfar.com/_56305.html
+  -> 产品制造-深圳飞安瑞科技股份有限公司 http://www.szfar.com/2019-03-28_57181.html#

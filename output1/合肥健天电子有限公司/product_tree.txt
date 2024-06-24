@@ -1,0 +1,45 @@
+-> root http://www.genvic.com
+  -> 当前位置 
+    -> 首页 
+      -> 产品技术 
+        -> MCU http://www.genvic.com/public/index/product/mcu.html
+          -> 智能灯光系统 
+        -> 专用芯片 
+          -> 产品技术- http://www.genvic.com/public/index/product/chip.html
+        -> 系统解决方案 http://www.genvic.com/public/index/product/module.html
+        -> HPA信号链 http://www.genvic.com/public/index/product/hpa.html
+        -> 32位MCU http://www.genvic.com/public/en/product/index.html
+          -> 芯片 
+          -> 无线充电底座 
+          -> 流水灯 
+          -> 晶圆 
+  -> 三线圈无线充 http://www.genvic.com/public/index/scheme/details/id/00000000020.html
+  -> 手表无线充 http://www.genvic.com/public/index/scheme/details/id/00000000021.html
+  -> 三色灯无线充 http://www.genvic.com/public/index/scheme/details/id/00000000022.html
+  -> 电机无线充 http://www.genvic.com/public/index/scheme/details/id/00000000024.html
+  -> QC3.0无线充 http://www.genvic.com/public/index/scheme/details/id/00000000025.html
+  -> TWS耳机M0系列 http://www.genvic.com/public/index/scheme/details/id/00000000026.html
+  -> TWS耳机OTP系列 http://www.genvic.com/public/index/scheme/details/id/00000000027.html
+  -> 5W无线充 http://www.genvic.com/public/index/scheme/details/id/00000000028.html
+  -> 10W无线充-M0系列 http://www.genvic.com/public/index/scheme/details/id/00000000029.html
+  -> 10W无线充-Flash系列 http://www.genvic.com/public/index/scheme/details/id/00000000030.html
+  -> 15W无线充-flash系列 http://www.genvic.com/public/index/scheme/details/id/00000000031.html
+  -> 智能灯控 http://www.genvic.com/public/index/scheme/details/id/00000000033.html
+  -> 流水灯充电线 http://www.genvic.com/public/index/scheme/details/id/00000000037.html
+  -> 指夹式血氧仪 http://www.genvic.com/public/index/scheme/details/id/00000000039.html
+  -> 电动车仪表盘 http://www.genvic.com/public/index/scheme/details/id/00000000040.html
+    -> Home 
+      -> Product 
+        -> Mcu http://www.genvic.com/public/en/product/mcu.html
+        -> Sensor http://www.genvic.com/en/product/alot.html
+          -> 光纤生命体征传感器 
+          -> 光纤柔性弯曲传感器 
+        -> Module http://www.genvic.com/en/product/module.html
+          -> RK3288 模块 
+          -> 红外测温模块 
+          -> 电源模块 
+        -> Specialchip http://www.genvic.com/public/en/product/chip.html
+          -> 无线充电发射器芯片 
+          -> 无线充电芯片 
+          -> 无线充电发射器控制 SoC 芯片 
+          -> 无线充电接收器芯片 

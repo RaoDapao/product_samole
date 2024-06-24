@@ -1,0 +1,40 @@
+-> root https://www.meenyi.com
+  -> 产品应用-成都明夷电子科技股份有限公司 https://www.meenyi.com/cn/product/index.html
+    -> 射频 
+    -> 光电 
+    -> Wi-Fi 
+    -> 以太网 PHY 
+  -> 产品系列-成都明夷电子科技股份有限公司 https://www.meenyi.com/cn/plan/index.html
+    -> 射频系列芯片 
+    -> 光电典型产品 
+    -> Wi-Fi 前端 FEM 
+    -> Wi-Fi SOC 套片 
+    -> 以太网 PHY 芯片 
+  -> 射频-成都明夷电子科技股份有限公司 https://www.meenyi.com/cn/plan/detail.html?id=1
+    -> 驱动放大器系列 
+    -> 开关系列 
+    -> 开关低噪放 Rx FEM 系列 
+    -> 可变增益放大器系列 
+    -> AD/DA 及模拟器件 
+    -> 分立式 GaN 管芯系列 
+  -> 光电-成都明夷电子科技股份有限公司 https://www.meenyi.com/cn/plan/detail.html?id=2
+    -> 光电芯片 
+    -> 光电芯片 
+    -> 光电芯片 
+    -> TO 
+    -> DML/EML Driver/CDR/TIA 
+    -> CDR+DML/EML Driver/CDR/TIA 
+    -> Driver/TIA 
+  -> Applications-MEENYI https://www.meenyi.com/en/product/index.html
+    -> RFIC 
+    -> OEIC 
+    -> PHY 
+  -> Products-MEENYI https://www.meenyi.com/en/plan/index.html
+  -> RFIC-MEENYI https://www.meenyi.com/en/plan/detail.html?id=1
+  -> OEIC-MEENYI https://www.meenyi.com/en/plan/detail.html?id=2
+  -> 明夷科技亮相第23届中国光博会-成都明夷 https://www.meenyi.com/cn/blog/detail.html?id=6
+    -> 10G EML Driver 
+    -> 10G PON OLT Combo 方案 
+    -> 10G PON ONU 套片 
+    -> 10G SFP+ Transceiver 
+    -> 25G Transceiver 芯片 

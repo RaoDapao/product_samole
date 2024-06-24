@@ -1,0 +1,5 @@
+-> root https://www.innomemtech.com
+  -> 产品应用 https://www.innomemtech.com/application
+  -> 产品列表 https://www.innomemtech.com/cplb
+  -> 产品应用_1 https://www.innomemtech.com/filedownload/723570
+  -> 领跑国内新型存储器技术及应用赛道——新忆 https://www.innomemtech.com/newsinfo/6869573.html

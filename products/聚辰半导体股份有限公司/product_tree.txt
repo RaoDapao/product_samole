@@ -1,0 +1,22 @@
+-> root https://www.giantec-semi.com
+  -> 首页 
+    -> 产品中心 
+      -> EEPROM芯片 https://www.giantec-semi.com/eepromxp
+      -> NORFlash芯片 https://www.giantec-semi.com/norxp
+      -> 音圈马达驱动芯片 https://www.giantec-semi.com/yqmd
+      -> 智能卡芯片 https://www.giantec-semi.com/zhinengkaxinpian
+    -> 服务支持 
+      -> 产品支持 
+        -> 应用指南 https://www.giantec-semi.com/yyzn
+        -> 封装信息 https://www.giantec-semi.com/fzxx
+    -> 关于聚辰 
+      -> 新闻中心_1 https://www.giantec-semi.com/news/317
+        -> 1.2V/1.8V 自适应电源电压 EEPROM 芯片 
+  -> ApplicationGuide-GiantecSemiconductorCorporation https://en.giantec-semi.com/Application-Guide
+    -> EEPROM 
+    -> NOR Flash 
+    -> VCM driver 
+    -> Smart card 
+  -> VCMdriver-GiantecSemiconductorCorporation https://en.giantec-semi.com/yqmd/164
+  -> Smartcard-GiantecSemiconductorCorporation https://en.giantec-semi.com/zhinengkaxinpian/166
+  -> NextgenerationEEPROMproductwithtemperaturesensorGT34TS04hadbeenlaunched-GiantecSemiconductorCorporation https://en.giantec-semi.com/Newsroom/Next-generation-EEPROM-product-with-temperature-sensor-GT34TS04-had-been-launched

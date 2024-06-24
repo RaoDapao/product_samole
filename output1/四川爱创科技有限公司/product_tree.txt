@@ -1,0 +1,16 @@
+-> root http://www.aichance.com.cn
+  -> 小型家电类产品-产品中心-四川爱创科技有限公司 http://www.aichance.com.cn/product/3.html
+    -> 智能售酒机 
+    -> 智能 MINI 唱吧 
+    -> 共享冰箱 
+    -> 智能鲜榨橙汁机 
+    -> 混合果汁机 
+    -> 胶囊咖啡机 
+    -> 智能蒸汽洗车机 
+    -> 星箔系列艺术电视 
+    -> 复式对开四门设计的冰箱产品 
+    -> 全无尘空调 
+    -> 5G 生态成套家电 
+  -> 产品中心-四川爱创科技有限公司 http://www.aichance.com.cn/product/show/14.html
+    -> 变频控制方案 
+    -> 智能售卖终端 

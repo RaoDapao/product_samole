@@ -1,0 +1,32 @@
+-> root http://www.hxinwei.com
+  -> 产品中心-华芯威半导体科技（北京）有限责任公司 http://www.hxinwei.com/cpzx
+    -> 肖特基二极管 
+    -> 碳化硅场效应晶体管 
+    -> 碳化硅功率模块 
+    -> 特种模块电源 
+    -> 智能配电组合 
+    -> 车载直流电源系列 
+    -> 肖特基二极管（SBD） 
+    -> 金属氧化物场效应晶体管（MOSFET） 
+    -> 碳化硅功率模块 
+    -> 10kW 直流 540V 电源 
+  -> 肖特基二极管-华芯威半导体科技（北京）有限责任公司 http://www.hxinwei.com/productinfo/900714.html
+  -> 碳化硅场效应晶体管-华芯威半导体科技（北京）有限责任公司 http://www.hxinwei.com/productinfo/918002.html
+  -> 碳化硅功率模块-华芯威半导体科技（北京）有限责任公司 http://www.hxinwei.com/productinfo/900757.html
+  -> 特种模块电源-华芯威半导体科技（北京）有限责任公司 http://www.hxinwei.com/productinfo/1315481.html
+  -> 智能配电组合-华芯威半导体科技（北京）有限责任公司 http://www.hxinwei.com/productinfo/1287516.html
+  -> 车载直流电源系列-华芯威半导体科技（北京）有限责任公司 http://www.hxinwei.com/productinfo/1287250.html
+  -> 产品分类结果页 http://www.hxinwei.com/ProductInfoCategory?categoryId=600106
+  -> 产品分类结果页_1 http://www.hxinwei.com/ProductInfoCategory?categoryId=600107
+  -> 产品分类结果页_2 http://www.hxinwei.com/ProductInfoCategory?categoryId=668970,675022,675025,679448
+    -> 阵面雷达电源组合 
+  -> 产品分类结果页_3 http://www.hxinwei.com/ProductInfoCategory?categoryId=679448
+  -> 产品分类结果页_4 http://www.hxinwei.com/ProductInfoCategory?categoryId=675025
+    -> 无人机机载电源 
+  -> 智能配电组合-华芯威半导体科技（北京）有限责任公司_1 http://www.hxinwei.com/productinfo/1287516.html?templateId=1133605
+  -> 测发控电源-华芯威半导体科技（北京）有限责任公司 http://www.hxinwei.com/productinfo/1287237.html?templateId=1133605
+  -> 测发控电源-华芯威半导体科技（北京）有限责任公司_1 http://www.hxinwei.com/productinfo/1287237.html
+  -> 10kW直流540V电源-华芯威半导体科技（北京）有限责任公司 http://www.hxinwei.com/productinfo/1287204.html
+  -> 阵面雷达电源组合-华芯威半导体科技（北京）有限责任公司 http://www.hxinwei.com/productinfo/1287186.html
+  -> 无人机机载电源-华芯威半导体科技（北京）有限责任公司 http://www.hxinwei.com/productinfo/1287162.html
+  -> 测发控电源-华芯威半导体科技（北京）有限责任公司_2 http://www.hxinwei.com/productinfo/1287237.html?templateId=1133605#

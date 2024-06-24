@@ -1,0 +1,68 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+上海芯圣电子股份有限公司,8051 MCU,http://www.holychip.cn/en/products/list-177.html,无,无,8051MCU,6259977697,无,0,无,0,无,0
+上海芯圣电子股份有限公司,8051 核单片机,https://www.holychip.cn/products/list-177.html,无,无,8051核单片机,1850464416,无,0,无,0,无,0
+上海芯圣电子股份有限公司,Arm® Cortex®-M,http://www.holychip.cn/en/products/list-165.html,无,无,Arm®Cortex®|M,7363549900,无,0,无,0,无,0
+上海芯圣电子股份有限公司,雾化专用单片机,https://www.holychip.cn/products/list-165.html,无,无,ARM核单片机,6516161655,无,0,无,0,无,0
+上海芯圣电子股份有限公司,手电专用单片机,https://www.holychip.cn/products/list-165.html,无,无,ARM核单片机,6516161655,无,0,无,0,无,0
+上海芯圣电子股份有限公司,充电器专用芯片,https://www.holychip.cn/products/list-165.html,无,无,ARM核单片机,6516161655,无,0,无,0,无,0
+上海芯圣电子股份有限公司,锂电充放电管理芯片,https://www.holychip.cn/products/list-165.html,无,无,ARM核单片机,6516161655,无,0,无,0,无,0
+上海芯圣电子股份有限公司,电机驱动,https://www.holychip.cn/products/list-165.html,无,无,ARM核单片机,6516161655,无,0,无,0,无,0
+上海芯圣电子股份有限公司,LDO,https://www.holychip.cn/products/list-165.html,无,无,ARM核单片机,6516161655,无,0,无,0,无,0
+上海芯圣电子股份有限公司,车规 LDO,https://www.holychip.cn/products/list-165.html,无,无,ARM核单片机,6516161655,无,0,无,0,无,0
+上海芯圣电子股份有限公司,协议芯片,https://www.holychip.cn/products/list-165.html,无,无,ARM核单片机,6516161655,无,0,无,0,无,0
+上海芯圣电子股份有限公司,MOS,https://www.holychip.cn/products/list-165.html,无,无,ARM核单片机,6516161655,无,0,无,0,无,0
+上海芯圣电子股份有限公司,霧化專用單片機,http://www.holychip.cn/hk/products/list-165.html,无,无,ARM核單片機,108063964,无,0,无,0,无,0
+上海芯圣电子股份有限公司,手電筒專用單片機,http://www.holychip.cn/hk/products/list-165.html,无,无,ARM核單片機,108063964,无,0,无,0,无,0
+上海芯圣电子股份有限公司,充電器專用晶片,http://www.holychip.cn/hk/products/list-165.html,无,无,ARM核單片機,108063964,无,0,无,0,无,0
+上海芯圣电子股份有限公司,鋰電充放電管理晶片,http://www.holychip.cn/hk/products/list-165.html,无,无,ARM核單片機,108063964,无,0,无,0,无,0
+上海芯圣电子股份有限公司,電機驅動,http://www.holychip.cn/hk/products/list-165.html,无,无,ARM核單片機,108063964,无,0,无,0,无,0
+上海芯圣电子股份有限公司,車規 LDO,http://www.holychip.cn/hk/products/list-165.html,无,无,ARM核單片機,108063964,无,0,无,0,无,0
+上海芯圣电子股份有限公司,協議芯片,http://www.holychip.cn/hk/products/list-165.html,无,无,ARM核單片機,108063964,无,0,无,0,无,0
+上海芯圣电子股份有限公司,Atomization Purpose MCU,http://www.holychip.cn/en/products/list-277.html,无,PFG 功能最小步进 1KHz，Software LCD，多系统时钟，调频不影响系统时钟,AtomizationPurposeMCU,9502237563,无,0,无,0,无,0
+上海芯圣电子股份有限公司,Automotive LDO,http://www.holychip.cn/en/products/list-286.html,无,VIN (V)：40，VOUT (V)：5.0V，ACCU：±1%，IBAT (mA)：350，IQ：0.14uA，CE：/，Package：SOP8，SOP8-P,AutomotiveLDO,6611859482,无,0,无,0,无,0
+上海芯圣电子股份有限公司,Automotive MCU,http://www.holychip.cn/en/products/list-241.html,无,无,AutomotiveMCU,5503541220,无,0,无,0,无,0
+上海芯圣电子股份有限公司,Charger Purpose MCU,http://www.holychip.cn/en/products/list-279.html,无,"支持 12+3,（1/4VDD、OP2 输出端、温度检测）,通道 12 位 ADC 检测；支持 14+3,（1/4VDD、OP2 输出端、温度检测）,通道 12 位 ADC 检测；支持 14+3（1/4VDD、温度检测）通道 12 位 ADC 检测；支持 5 个通道 12 位 ADC 检测；支持 8+3,（1/4VDD、OP2 输出端、温度检测）,通道 12 位 ADC 检测；2 个 12bit,DAC,0/1；16bit*3groups Timer；8bit*1 PWM；1 UART；工作温度-40°C~+85°C；Voltage 2.0V－5.5V；Package SOP16、SOP8、SSOP20、SSOP24",ChargerPurposeMCU,5860234700,无,0,无,0,无,0
+上海芯圣电子股份有限公司,Dedicated protocol chip,http://www.holychip.cn/en/products/list-283.html,无,Charging and data transmission of mobile devices，Power collection and data transmission of mobile devices,Dedicatedprotocolchip,3438958393,无,0,无,0,无,0
+上海芯圣电子股份有限公司,Flashlight Purpose MCU,http://www.holychip.cn/en/products/list-278.html,无,Charge 500mA，集成过温保护，端口大灌电流 1A*3，锂电池过充过放保护,FlashlightPurposeMCU,1439970841,无,0,无,0,无,0
+上海芯圣电子股份有限公司,General Purpose MCU,http://www.holychip.cn/en/products/list-273.html,无,无,GeneralPurposeMCU,1067454435,无,0,无,0,无,0
+上海芯圣电子股份有限公司,OTP 烧录器,https://www.holychip.cn/Applications/index/id/63.html,无,无,应用资料,2010505996,HA资料包,6772796497,无,0,无,0
+上海芯圣电子股份有限公司,OTP 仿真器,https://www.holychip.cn/Applications/index/id/63.html,无,无,应用资料,2010505996,HA资料包,6772796497,无,0,无,0
+上海芯圣电子股份有限公司,8051 烧录器,https://www.holychip.cn/Applications/index/id/63.html,无,无,应用资料,2010505996,HA资料包,6772796497,无,0,无,0
+上海芯圣电子股份有限公司,8051 仿真器,https://www.holychip.cn/Applications/index/id/63.html,无,无,应用资料,2010505996,HA资料包,6772796497,无,0,无,0
+上海芯圣电子股份有限公司,8051 多文件烧录器,https://www.holychip.cn/Applications/index/id/63.html,无,无,应用资料,2010505996,HA资料包,6772796497,无,0,无,0
+上海芯圣电子股份有限公司,MTP 烧录器,https://www.holychip.cn/Applications/index/id/63.html,无,无,应用资料,2010505996,HA资料包,6772796497,无,0,无,0
+上海芯圣电子股份有限公司,MTP 仿真器,https://www.holychip.cn/Applications/index/id/63.html,无,无,应用资料,2010505996,HA资料包,6772796497,无,0,无,0
+上海芯圣电子股份有限公司,开发辅助工具,https://www.holychip.cn/Applications/index/id/63.html,无,无,应用资料,2010505996,HA资料包,6772796497,无,0,无,0
+上海芯圣电子股份有限公司,SDK 配套资料,https://www.holychip.cn/Applications/index/id/63.html,无,无,应用资料,2010505996,HA资料包,6772796497,无,0,无,0
+上海芯圣电子股份有限公司,驱动,https://www.holychip.cn/Applications/index/id/63.html,无,无,应用资料,2010505996,HA资料包,6772796497,无,0,无,0
+上海芯圣电子股份有限公司,旧版工具资料合集,https://www.holychip.cn/Applications/index/id/63.html,无,无,应用资料,2010505996,HA资料包,6772796497,无,0,无,0
+上海芯圣电子股份有限公司,新版工具测试版,https://www.holychip.cn/Applications/index/id/63.html,无,无,应用资料,2010505996,HA资料包,6772796497,无,0,无,0
+上海芯圣电子股份有限公司,红外模拟探头额温枪方案,https://www.holychip.cn/Applications/index/id/63.html,无,无,应用资料,2010505996,HA资料包,6772796497,无,0,无,0
+上海芯圣电子股份有限公司,电源产品,https://www.holychip.cn/Applications/index/id/63.html,无,无,应用资料,2010505996,HA资料包,6772796497,无,0,无,0
+上海芯圣电子股份有限公司,血氧仪方案,https://www.holychip.cn/Applications/index/id/63.html,无,无,应用资料,2010505996,HA资料包,6772796497,无,0,无,0
+上海芯圣电子股份有限公司,HA 资料包,https://www.holychip.cn/Applications/index/id/63.html,无,无,应用资料,2010505996,HA资料包,6772796497,无,0,无,0
+上海芯圣电子股份有限公司,照明与显示,https://www.holychip.cn/Applications/index/id/63.html,无,无,应用资料,2010505996,HA资料包,6772796497,无,0,无,0
+上海芯圣电子股份有限公司,通讯产品,https://www.holychip.cn/Applications/index/id/63.html,无,无,应用资料,2010505996,HA资料包,6772796497,无,0,无,0
+上海芯圣电子股份有限公司,芯圣电子兼容 STM8S 系列 MCU 配套资料大全,https://www.holychip.cn/Applications/index/id/63.html,无,无,应用资料,2010505996,HA资料包,6772796497,无,0,无,0
+上海芯圣电子股份有限公司,Li-Battery,http://www.holychip.cn/en/products/list-280.html,无,无,Li|Battery,868937926,无,0,无,0,无,0
+上海芯圣电子股份有限公司,MOSFET,http://www.holychip.cn/en/products/list-284.html,无,无,MOSFET,9910341941,无,0,无,0,无,0
+上海芯圣电子股份有限公司,Motor Drives,http://www.holychip.cn/en/products/list-281.html,无,"A full bridge DC Motor driver with over-temperature protection(OTP)，内置过温保护的,单通道直流电机驱动",MotorDrives,7410829496,无,0,无,0,无,0
+上海芯圣电子股份有限公司,RISC MCU,http://www.holychip.cn/en/products/list-191.html,无,无,RISCMCU,7772452650,无,0,无,0,无,0
+上海芯圣电子股份有限公司,TOUCH MCU,http://www.holychip.cn/en/products/list-253.html,无,无,TOUCHMCU,1758393333,无,0,无,0,无,0
+上海芯圣电子股份有限公司,OTP 烧录器,https://www.holychip.cn/Development/index.html,HC-PM18,无,开发工具,7353616390,OTP烧录器,231239739,无,0,无,0
+上海芯圣电子股份有限公司,OTP 仿真器,https://www.holychip.cn/Development/index/id/44.html,HC-ICD,Holychip In-Circuit Debugger,开发工具,7353616390,OTP仿真器,2632788041,无,0,无,0
+上海芯圣电子股份有限公司,8051 烧录器,https://www.holychip.cn/Development/index/id/45.html,HC-PM51,无,开发工具,7353616390,8051烧录器,2490844632,无,0,无,0
+上海芯圣电子股份有限公司,8051 仿真器,https://www.holychip.cn/Development/index/id/46.html,HC-LINK,无,开发工具,7353616390,8051仿真器,5607470634,无,0,无,0
+上海芯圣电子股份有限公司,8051 多文件烧录器,https://www.holychip.cn/Development/index/id/47.html,HC-PM51,无,开发工具,7353616390,8051多文件烧录器,7803575671,无,0,无,0
+上海芯圣电子股份有限公司,MTP 烧录器,https://www.holychip.cn/Development/index/id/48.html,HC-PM18 PRO,Holychip Programmer,开发工具,7353616390,MTP烧录器,7586116550,无,0,无,0
+上海芯圣电子股份有限公司,MTP 仿真器,https://www.holychip.cn/Development/index/id/49.html,HC-ICD PRO,Holychip In-Circuit Debugger,开发工具,7353616390,MTP仿真器,6349003615,无,0,无,0
+上海芯圣电子股份有限公司,开发辅助工具,https://www.holychip.cn/Development/index/id/61.html,HC-ISP、HCTouch VLAB,无,开发工具,7353616390,旧版工具资料合集,9526788204,无,0,无,0
+上海芯圣电子股份有限公司,新版工具测试版,https://www.holychip.cn/Development/index/id/61.html,HC-LINK V5.0,无,开发工具,7353616390,旧版工具资料合集,9526788204,无,0,无,0
+上海芯圣电子股份有限公司,充電器專用晶片,http://www.holychip.cn/hk/products/list-279.html,HC8M601,ROM：4K*8，RAM：128*8，EEPROM：128*8，I/O：6，ADC：支持 5 个通道 12 位 ADC 检测，DAC：/，Timer：16bit*3 组，PWM：8bit*1，UART：1，工作温度：-40°C~+85°C，Voltage：2.0V－5.5V，Package：SOP8,產品中心,1063044196,充電器專用晶片,2146160644,无,0,无,0
+上海芯圣电子股份有限公司,充電器專用晶片,http://www.holychip.cn/hk/products/list-279.html,HC8M612,ROM：4K*8，RAM：128*8，EEPROM：128*8，I/O：8，ADC：支持 8+3（1/4VDD、OP2 输出端、温度检测）通道 12 位 ADC 检测，DAC：2 个 12bit，DAC，0/1，Timer：16bit*3 组，PWM：8bit*1，UART：1，工作温度：-40°C~+85°C，Voltage：2.0V－5.5V，Package：SOP16,產品中心,1063044196,充電器專用晶片,2146160644,无,0,无,0
+上海芯圣电子股份有限公司,充電器專用晶片,http://www.holychip.cn/hk/products/list-279.html,HC8M602,ROM：4K*8，RAM：128*8，EEPROM：128*8，I/O：14，ADC：支持 14+3（1/4VDD、温度检测）通道 12 位 ADC 检测，DAC：/，Timer：16bit*3 组，PWM：8bit*1，UART：1，工作温度：-40°C~+85°C，Voltage：2.0V－5.5V，Package：SOP16,產品中心,1063044196,充電器專用晶片,2146160644,无,0,无,0
+上海芯圣电子股份有限公司,充電器專用晶片,http://www.holychip.cn/hk/products/list-279.html,HC8M603,ROM：4K*8，RAM：128*8，EEPROM：128*8，I/O：12，ADC：支持 12+3（1/4VDD、OP2 输出端、温度检测）通道 12 位 ADC 检测，DAC：2 个 12bit，DAC，0/1，Timer：16bit*3 组，PWM：8bit*1，UART：1，工作温度：-40°C~+85°C，Voltage：2.0V－5.5V，Package：SSOP20,產品中心,1063044196,充電器專用晶片,2146160644,无,0,无,0
+上海芯圣电子股份有限公司,手電筒專用單片機,http://www.holychip.cn/hk/products/list-278.html,HC18P018A0,Charge 500mA，集成過溫保護，端口大灌電流 1A*3，鋰電池過充過放保護,產品中心,1063044196,手電筒專用單片機,568894258,无,0,无,0
+上海芯圣电子股份有限公司,触摸单片机,https://www.holychip.cn/products/list-253.html,无,无,触摸单片机,8118771226,无,0,无,0,无,0
+上海芯圣电子股份有限公司,车规单片机,http://www.holychip.cn/hk/products/list-241.html,无,无,產品中心,1063044196,車規單片機,8748036483,无,0,无,0
+上海芯圣电子股份有限公司,通用单片机,https://www.holychip.cn/products/list-273.html,无,无,通用单片机,6696538174,无,0,无,0,无,0

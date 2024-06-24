@@ -1,0 +1,24 @@
+-> root https://www.si-in.com
+  -> 产品中心-聚芯微电子有限责任公司 https://www.si-in.com/cpzx
+    -> 桥式传感器信号调理芯片 
+    -> 模拟输入智能音频功放芯片 
+    -> 飞行时间（Time-of-Flight）传感器 
+    -> 线性马达驱动芯片 
+    -> 光学传感器 
+  -> ToF3D图像传感器-武汉市聚芯微电子有 https://www.si-in.com/productinfo/1230813.html
+  -> 智能音频-武汉市聚芯微电子有限责任公司 https://www.si-in.com/productinfo/1231061.html
+  -> 压力传感器信号调理芯片-武汉市聚芯微电子 https://www.si-in.com/productinfo/1231129.html
+  -> 触觉感知-武汉市聚芯微电子有限责任公司 https://www.si-in.com/productinfo/1591091.html
+  -> 光学感知-武汉市聚芯微电子有限责任公司 https://www.si-in.com/productinfo/1706823.html
+    -> 智能音频芯片 
+    -> 5um VGA 级背照式高分辨率 ToF 飞行时间传感器芯片 
+    -> 光学传感芯片 
+  -> 产品分类结果页 https://www.si-in.com/ProductInfoCategory?categoryId=329550
+  -> 产品分类结果页_1 https://www.si-in.com/ProductInfoCategory?categoryId=329551
+  -> 智能音频-武汉市聚芯微电子有限责任公司_1 https://www.si-in.com/productinfo/1231061.html#
+  -> 产品分类结果页_2 https://www.si-in.com/ProductInfoCategory?categoryId=329552
+  -> 产品分类结果页_3 https://www.si-in.com/ProductInfoCategory?categoryId=799827
+  -> OpticalSensing-武汉市聚芯 https://www.si-in.com/productinfo/2432293.html?templateId=1133605
+  -> 光学感知-武汉市聚芯微电子有限责任公司_1 https://www.si-in.com/productinfo/1706823.html#
+  -> 光学感知-武汉市聚芯微电子有限责任公司_2 https://www.si-in.com/productinfo/1706823.html?templateId=1133605
+  -> OpticalSensing-武汉市聚芯_1 https://www.si-in.com/productinfo/2432293.html?templateId=1133605#

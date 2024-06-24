@@ -1,0 +1,10 @@
+-> root https://lingchip.com
+  -> 灵芯微电子 
+    -> 产品中心 
+      -> 灵芯微电子_灵芯微_ https://www.lingchip.com/service.html
+        -> WiFi-SoC 芯片 
+        -> 5.8G 雷达传感器 
+        -> 物联网 BLE 芯片 
+        -> 手机射频前端芯片 
+        -> 模块射频前端芯片 
+        -> 高精度电源芯片 

@@ -1,0 +1,11 @@
+产品网址：https://www.njsme.com/?aPRODUCTSPRODUCTSC200V/86.html
+产品结构：root->AutomotiveModules-HalfBridge-1700VSiC-HalfBridge-南京银茂微电子制造有限公司-
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Automotive Modules-Half Bridge|1700VSiC|无|
+
+VDSS=1700V,VDSS=1700V.1,VDSS=1700V.2,VDSS=1700V.3,VDSS=1700V.4,VDSS=1700V.5
+Part Number,Voltage(V),Current(A),RDS(on)@25℃,Comments,Links
+MSC300HF170T2LS,1700,300,8mΩ,With SiC FRD,
+,,,,,

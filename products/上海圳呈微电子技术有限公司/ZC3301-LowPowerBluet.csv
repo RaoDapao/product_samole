@@ -1,0 +1,14 @@
+产品网址：https://www.unisim-micro.com/productinfo/521279.html
+产品结构：root->ZC3301-LowPowerBluetooth4.1Dual-ModeIoTSoC-上海圳呈微电子技术有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Bluetooth SoC 芯片|ZC3301|ZC3301 是一款高度集成的低功耗 SoC，适用于蓝牙物联网应用。它兼容蓝牙 4.1 规范，具有低功耗、蓝牙 3.0、2.1+EDR 等功能。支持蓝牙智能家居、蓝牙可穿戴设备、蓝牙健康监测、蓝牙遥控器、蓝牙 HID、MPOS 等应用。具有高速低功耗 CPU、高性能 DSP、片上 Flash、高性能音频编解码器、硬件加密、片上 2.4GHz RF 收发器、集成功率放大器、嵌入式 8 通道 10 位 1Mbps SAR ADC、嵌入式 RTC 和 256 字节 NVRAM、PCM 和 I2S 兼容接口、高速 UART、低速 UART、4 组 PWM 接口、4 线 SPI 接口、I2C 接口、SPI、GPIO 等平台特性。与传统蓝牙解决方案相比，该 SoC 提供了低成本、灵活和更强大的蓝牙低功耗智能解决方案。支持蓝牙 V4.1 SPEC、蓝牙低功耗（BLE）、蓝牙 V2.1+EDR 兼容、支持 AFH 动态检测信道质量并提高传输质量、嵌入低级蓝牙协议（LMP、L2CAP、RFCOMM、SDP 等）、支持蓝牙智能固件包括安全管理器（SM）、属性协议（ATT）、通用属性配置文件（GATT）和通用访问配置文件（GAP）、接收灵敏度：-90dbm、功率放大器发射功率输出：+9dBm、工作温度：0~+70°C。采用 QFN 封装 40 引脚 5*5mm。|
+
+Parameter,Conditions,Unit s,Min,Typical,Max
+Frequency  Range,,MH Z,2400,-,2484
+RX  Sensitivity@1Mbps,BER=0.1  %,dBm,-82,-90,-92
+RX  Sensitivity@2Mbps,BER=0.1  %,dBm,-80,-90,-92
+Transmit  Output Power,BR(GFSK  ),dBm,-30,-,10
+Transmit  Output Power,EDR2(π/4  -DQPSK),dBm,-30,-,8
+Transmit  Output Power,EDR3(8- DPSK),dBm,-30,-,8

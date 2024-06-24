@@ -1,0 +1,6 @@
+产品网址：https://www.toll-semi.com/products-pmu-power/305.html
+产品结构：root->IM6001-电源模块-拓尔微
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|电源模块|IM6001|5.5V Input, 1A, Synchronous Step-down Converter with Integrated Inductor，集成电感、MOSFET 和控制器，输入电压范围为 2.9V 至 5.5V，支持 1V 至 VIN 的输出电压范围，典型输出电流高达 1A，效率高达 93%，具有超低的 IQ 为 40μA，采用恒定导通时间（COT）控制方案，具有超快的瞬态响应，3MHz PWM 操作在连续模式下，100%占空比在降压模式下，启用引脚控制，内部软启动，热关断，小尺寸，低轮廓，3mm×3mm×0.9mm QFN-13 封装|

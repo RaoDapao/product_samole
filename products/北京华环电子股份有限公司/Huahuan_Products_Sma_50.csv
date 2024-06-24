@@ -1,0 +1,40 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=98&ncid=99&deid=163
+产品结构：root->Huahuan_Products_SmartEnterpriseGateway_H9MO-LMXE.V8E
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Smart Enterprise Gateway|H9MO-LMXE.V8E|是一款运营商级、高性价比、紧凑、大容量的 SDH 和 IP 网络集成传输平台，专为城域和接入网络中的应用而设计，可方便地为服务提供商传输传统 TDM 和不断增加的以太网数据流量。通过 H9MO-LMXE.V8E，多种服务可以轻松地在 SDH 网络和 IP 城域网上传输。它支持 SDH 交叉连接矩阵和分组交换核心，符合 MEF 定义的运营商以太网标准。H9MO-LMXE.V8E 是一款基于卡的紧凑 SDH 和 IP 网络集成设备，主要设计为核心 SDH/IP 网络和多个远程 CPE 盒之间的网关节点，也可作为典型环网或网状网络中的多业务 SDH ADM 节点。H9MO-LMXE 的 3U 高 19 英寸宽机箱有 19 个插槽，其中 2 个插槽用于 1+1 电源卡，1 个插槽用于网络管理卡，2 个插槽用于 TDM 交叉连接卡，2 个插槽用于分组交换卡，12 个插槽用于通用服务卡。H9MO-LMXE.V8E 支持多种 SDH 网络功能，如 1+1 MSP、SNCP 保护，管理通道可以是 DCC/E1/VC12，支持高达 STM-64，E1 BERT 测试嵌入，内部时钟/外部时钟/线路时钟/时钟保持，以太网服务支持 GFP 封装、VC12 虚拟级联和 LCAS、PVLAN、801.1Q VLAN 和 QinQ，大交叉连接矩阵容量为 384*384 VC-4 级全交叉连接或 136*136 VC-4 的 VC-12 或 VC-3 级全交叉连接，192 个远程站点的以太网通过 4*E1 聚合，192 个以太网通过 SDH 聚合。H9MO-LMXE.V8E 支持多种分组交换网络功能，如支持高达 10 千兆以太网光接口，符合 MPLS-TP 标准，符合 ITU-T G.8031、G.8032，支持 E-Line、E-Tree 和 E-LAN，以太网聚合卡 1+1 冗余，支持 LACP、802.1Q、QinQ、xSTP 等，支持运营商级 OAM（IEEE 802.3ah、IEEE 802.1ag、ITU-T Y.1731），支持 SAToP，支持 RMON，以太网聚合 48 个远程以太网 CPE。H9MO-LMXE.V8E 在不同端口上支持以下服务：STM-1o/STM-1e/STM-4/STM-16/STM-64、10GE（光）、GE/FE（光和电）、E1/V.35/E3/DS3、数字用户线接入。|
+
+Index,Index.1,Performance Parameter
+SDH Uplink Interface (NNI),Uplink Capacity,"8×STM-1o, or 4×STM-1e, or 4×STM-4, or 4×STM-16, or 4×STM-64"
+SDH Uplink Interface (NNI),Connector,SC/PC or FC/PC
+SDH Uplink Interface (NNI),Spec.,"S1.1, S1.2, L1.1, L1.2, S4.1, S4.2, L4.1, L4.2, S16.1, S16.2, L16.1, L16.2, S64.1, S64.2, L64.1, L64.2"
+SDH Uplink Interface (NNI),Spec.,Dual/Single fiber bi-directional interface are optional
+Ethernet Uplink Interface (NNI),Uplink Capacity,2×10GE optical interfaces(1+1 Redundancy)
+Ethernet Uplink Interface (NNI),Connector,"SFP+ Optical Module, LC/PC"
+PDH interface,Max E1 Qty,288
+PDH interface,Max E3/DS3 Qty,12
+PDH interface,Max V.35 Qty,24
+Ethernet,Max GE(Electrical) Qty,24
+Ethernet,Max FE(Electrical) Qty,72
+Ethernet,Max GE(Optical) Qty,144
+Cross-connect & Switching Capacity,Uplink by STM-1,High order: 20×20 VC-4s  Low order: 1260×1260 VC12s
+Cross-connect & Switching Capacity,Uplink by STM-4,High order: 32×32 VC-4s  Low order: 2016×2016 VC-12s
+Cross-connect & Switching Capacity,Uplink by STM-16,High order: 96×96 VC-4s  Low order: 3024×3024 VC-12s
+Cross-connect & Switching Capacity,Uplink by STM-64,High order: 384×384 VC-4s  Low order: 8568×8568 VC-12s
+Cross-connect & Switching Capacity,Uplink by 10GX,IP Switching capacity of 64Gbps
+Management,Interface,10/100 Base-T (can be cascaded)
+EOW interface,EOW interface,Standard socket RJ11
+Physical Dimension(H/D/W),Physical Dimension(H/D/W),3U: 136 × 240 ×440 (mm)
+Power,Supply,-48V DC or dual power supply
+Power,Consumption,≤100W
+Environment,Temperature,0°C  ~50°C
+Environment,Humidity,≤90 %(non-condensing)
+Weight,Weight,≤8 kg
+
+
+Items,Standards and Protocols
+SDH Interface,"ITU-T G.957, G.707"
+E1 port,"ITU-T G.703  , G.704"
+Clock port,ITU-T  G.823
+Ethernet port,IEEE 802  G.7041/G.704 2/G.7043 and G.8040

@@ -1,0 +1,12 @@
+产品网址：http://en.cellwise-semi.com/products/index?ptype=usb_ic&type=USB%20Charging%20Controller%20with%20Current%20Limitation
+产品结构：root->CellWiseMicroelectronics
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Battery Protection|无|Full Protection、2nd Protection、AFE|
+|Fuel Gauge|无|Voltage Sense Only、Voltage & Current Sense|
+|Power Management IC|无|Battery Charger、DCDC Convertor、LDO、Low Iq Load Switch|
+|USB Port Charging Controller|无|USB Charging Controller with Current Limitation、USB Charging Controller with Communication Function、USB Charging Controller|
+|Brushed DC Motor Smart Controller|无|Brushed DC Motor Smart Controller|
+
+

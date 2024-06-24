@@ -1,0 +1,37 @@
+-> root http://ismartware.com
+  -> 锂电池快充放管理芯片 http://ismartware.com/goods-1.html
+    -> 快充协议芯片 
+    -> 无线充系列 
+    -> 加密 IC 
+    -> ACDC 
+  -> 喜报|智融科技“移动电源SOC集成快充协 http://ismartware.com/article-5-264.html
+    -> 多快充协议双口充电芯片 
+    -> 同步 4 管双向升降压充放电控制器 
+  -> 智融科技有限公司2020秋季产品交流会圆 http://ismartware.com/article-5-84.html
+    -> SW3526 双 C 架构 
+    -> 200W 氮化镓多口充 
+    -> 带快充及 HUB 功能的氮化镓多口充 
+    -> SW2305 协议 IC 
+    -> SW2112 协议 IC 
+  -> SW3536-SW3537-SW3538 http://ismartware.com/article-18-300.html
+    -> SW3536-SW3537-SW3538-SW3539-SW3556-SW3557-SW3558-SW3559 
+  -> SW3521S-SW3522S-SW35 http://ismartware.com/article-18-299.html
+    -> SW3521S-SW3522S-SW3523S-SW3526S-SW3528S 
+  -> SW2325-SW2327-SW2328 http://ismartware.com/article-18-301.html
+    -> SW2325-SW2327-SW2328-SW2325H 
+  -> SW1106-SW1125-SW1123 http://ismartware.com/article-18-302.html
+    -> SW1106-SW1125-SW1123-SW1121 
+    -> 移动电源 
+    -> 快充协议 
+    -> 车充适配器 
+    -> 无线充 
+    -> 锂电池充电管理 IC 
+    -> 加密产品 
+    -> 多协议 PD 快充 
+    -> 多口快充 
+    -> 多口车载充 
+    -> 无线充 TX 
+    -> 经典移动电源 
+    -> 首颗快充移动电源 
+    -> 超级快充移动电源 
+    -> SW1608-SW1655 

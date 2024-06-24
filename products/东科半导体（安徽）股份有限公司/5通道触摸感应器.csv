@@ -1,0 +1,9 @@
+产品网址：https://www.dkpower.cn/5tongdaochumoganyingqi.html
+产品结构：首页->产品中心->触摸感应系列->5通道触摸感应器
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|5 通道触摸感应器|无|无|
+
+Product,VDD Operation Voltage,Channels,Minimum Detective Capacitance,Input Capacitance Range,Operation Current,Output Sink Current,Package
+DK705,2.5V-6.5V,5,0.1pF,10-100pF,1.7mA,10mA,SOP-16

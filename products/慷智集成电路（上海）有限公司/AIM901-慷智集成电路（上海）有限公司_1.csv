@@ -1,0 +1,6 @@
+产品网址：https://en.aimicron.com/Products/29
+产品结构：root->AIM901-慷智集成电路（上海）有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|INTELLIGENT AUTOMOTIVE HIGH-DEFINITION AUDIO AND VIDEO TRANSMISSION SERDES CHIPSETS|AIM901|DVP 并行图像输入，PCLK 最大 130MHz；AHDL-II 单通道串行输出；支持 720P/1920P/1M 像素相机应用；通过单根同轴电缆或屏蔽双绞线（STP）实现高速视频、双向控制数据和电源传输；可调节扩频输出降低 EMI 和增强 EMC 耐受性；能够长距离传输，最长可达 15m 电缆；多个 GPIO，支持向相机输出帧同步；视频/控制数据的错误检测/纠正（ECC/CRC）；内置自测（BIST）和片上视频模式发生器，用于系统诊断；单 1.8V 电源，IO 支持 1.8V 和 3.3V；汽车级工作温度和 ESD 保护；非常小的 24 引脚（4mm*4mm）QFN 封装，适合相机集成|

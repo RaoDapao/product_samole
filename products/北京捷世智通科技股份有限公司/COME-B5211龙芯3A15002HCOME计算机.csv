@@ -1,0 +1,20 @@
+产品网址：http://icpc.cn/cms/item/view?table=product&id=100
+产品结构：当前位置：首页->产品与服务->龙芯->模块->COME-B5211龙芯3A15002HCOME计算机
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|COME-B5211 龙芯 3A1500 2H COME 计算机模块|COME-B5211|以龙芯 3A 多核处理器和龙芯 2H 桥片为核心的主板模块，内部集成 ATI M72-based 图像引擎，支持双屏显示，兼容 ComExpressType 5 型引脚定义，可应用于国防军工、航空航天、网络安全、能源等控制领域，支持 4GB DDR3 内存，含有 4 个 PCI Expressx1 通道，1 个 x4 通道，2 个 SerialATA 端口，4 个 USB2.0 端口和 1 个千兆网口|
+
+
+
+
+处理器,龙芯四核处理器3A1500
+桥片,龙芯2H1000
+内存,4GB DDR3内存颗粒  支持SPI BIOS
+规范,"COM Express ©Basic,  Pin-out Type 5 compatible"
+A-B Connector,PCIE Lanes 0-3：支持4x1/1x4  支持单通道LVDS  IxVGAv 2xSerial ports  2x SATA、1x AC'97/HDA Digital interface  4x USB 2.0、1x gigabit LAN> 1xLPC BUS 8xGPI。、1xl2C  IxExternal BIOS  IxReset Function  IxPower Button Support、IxPower Good  4xVCC 5V SB contacts、12xVCC  12V contacts
+C-D Connector,1x gigabit LAN  x12 VCC_12v contacts
+尺寸规格(HxWxD),95 x 125 x 2mm
+温度,"40°C下相对湿度93%,非冷凝(参照IEC60068-2-78)"
+电源,"12V,可配置AT/ATX模式"
+性能规范,"温度0至6(TC,商业级版本  温度TDB,工业级版本"

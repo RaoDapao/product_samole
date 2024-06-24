@@ -1,0 +1,22 @@
+产品网址：http://icpc.cn/cms/item/view?table=product&id=86
+产品结构：当前位置：首页->产品与服务->PowerPC->模块->CPB0066MPC8548COMExpress嵌入式
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|CPB0066 MPC8548 COM Express 嵌入式模块计算机|CPB0066|符合 COM Express 规范，采用飞思卡尔 MPC8548 处理器，具有丰富的网络和串行通讯及控制接口，强大的网络吞吐能力和运算处理能力。模块结构设计采用 COM Express™ Type 2 架构，全部使用表面贴装工艺，带散热冷板，整体结构紧凑，高抗振动，高抗冲击，高可靠性设计。能够满足工业领域的高性能要求和恶劣环境下的应用。可应用于工业控制，视频处理，石油化工、交通控制等。|
+
+
+
+
+CPU,Up to 1333MHz MPC8548
+内存,1GB-DDR2
+外部总线,1x PCI2.2 bus  1x RapidIO(x4)  4x PCIE(x1)  1x 32bit Local Bus，4个IRQ外部中断
+存储,64MB NOR FLASH
+外围接口,2 x UART (TTL)  2x SATA1.0（150MB/s）  3 x USB2.0  4 x 10/100/1000 Base-T网口  1 x I²C
+其它,实时时钟、温度检测、复位输入和输出、GPIO
+功耗,典型15W@12V
+湿度,工作：10%～95%  非工作：10%～95%
+温度,工作：分为A、B、C三档，详见订货信息  存储：-55℃～+85℃
+冲击,20G
+振动,5Hz-500Hz随机
+尺寸,95mm x 125mm x 15mm

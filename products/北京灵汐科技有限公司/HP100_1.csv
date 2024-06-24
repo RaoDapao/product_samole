@@ -1,0 +1,27 @@
+产品网址：https://www.lynxi.com/ka2003/12.html
+产品结构：产品中心类脑计算加速卡->领启®KA200(-S)系列->HP100
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|类脑计算加速卡|HP100|搭载 1 颗领启®KA200(-S)类脑芯片，提供超强 AI 推理性能。整板峰值功耗仅为 25W，算力可达 48 TOPS@INT8、24 TFLOPS@FP16，为云端/边缘端的推理提供低成本、低功耗、大算力的解决方案。可广泛应用于智慧城市、智慧交通、智慧金融、脑科学研究等场景。|
+
+计算单元数量,30 组计算单元
+神经元数量,25 万个
+神经突触,2500 万个
+AI 算力48,48 TOPS@INT8；24 TFLOPS@FP16
+能耗比,≥ 1TSops/W
+内存容量,8 GB
+内存峰值带宽,25.6GB/s
+内存位宽,64 bit
+内存运行频率,1600 MHz
+图像预处能力,独特内置硬件图像处理加速引擎  Resize、Mirror、Flip、Rotate、Crop、Padding、C2C、Affine、Merge
+编解码能力,支持 H.264、H.265视频格式硬件解码，  最高视频解码性能 500fps@1920*1080  支持 H.264、H.265 视频格式硬件编码，最高视频编码性  能250fps@1920*1080  支持JPEG 图 像 硬 件 解 码， 最 高 图 像 解 码 性 能  250fps@1920*1080  支持JPEG 图 像 硬 件 编 码， 最 高 图 像 编 码 性 能  300fps@1920*1080
+峰值功耗,25w
+外形尺寸,169.53mm×68.9mm（含半高挡板条） 169.53mm×111.15mm（含全高挡板条）
+链路接口,PCIe 4.0 x4
+散热方式,被动散热
+工作环境温度,0 ℃～ 55 ℃
+操作系统,Ubuntu 18.04
+支持框架,DNN：TensorFlow、Pytorch、PaddlePaddle、Caffe、MxNet、Keras、ONNX等  SNN：Neuron等
+支持模型,DNN：Resnet、Inception、VGG、Mobilenet、Yolo、SSD、Squeezenet、Senet、DenseNet等  SNN：Microcircuit等
+编译工具,LyngorⓇ Compiler

@@ -1,0 +1,14 @@
+-> root https://jsic-tech.com
+  -> 首页 
+        -> MCU 控制器芯片 
+        -> MCU 控制器芯片 
+        -> MCU 控制器芯片 
+        -> MCU 控制器芯片 
+        -> MCU 控制器芯片 
+        -> Sub-GHz无线通信芯片 https://jsic-tech.com/detail139.html
+      -> 高性能显示芯片 https://jsic-tech.com/detail138.html
+      -> 智能音频处理芯片 https://jsic-tech.com/detail140.html
+      -> 电机驱动芯片 https://jsic-tech.com/detail582.html
+        -> 4K 高速显示芯片 
+        -> 智能数字助听器芯片 
+        -> 32 位 MCU 

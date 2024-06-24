@@ -1,0 +1,22 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+上海奉天电子股份有限公司,High Voltage Water Heater,https://www.shfte.com/?product-19,无,无,root,1906551877,无,0,无,0,无,0
+上海奉天电子股份有限公司,DC-AC Inverter,https://www.shfte.com/?product-19,CAR DC-AC Inverter、Truck DC-AC Inverter,无,root,1906551877,无,0,无,0,无,0
+上海奉天电子股份有限公司,DC-DC Converter,https://www.shfte.com/?product-19,48V/12V DCDC Converter、24V/12V DC-DC Converter、12V start stop voltage stabilizer,无,root,1906551877,无,0,无,0,无,0
+上海奉天电子股份有限公司,On board charger OBC,https://www.shfte.com/?product-19,OBC+DCDC+PDU assembly of on-board charger、OBC+DCDC+DCAC assembly of on-board charger,无,root,1906551877,无,0,无,0,无,0
+上海奉天电子股份有限公司,Internet of Vehicles module,https://www.shfte.com/?product-19,Vehicle Network USB Adapter、Automobile Communication Gateway,无,root,1906551877,无,0,无,0,无,0
+上海奉天电子股份有限公司,Automatic Air Conditioning Controller,https://www.shfte.com/?product-19,无,无,root,1906551877,无,0,无,0,无,0
+上海奉天电子股份有限公司,高压水加热器,https://www.shfte.com/?product,无,无,root,1906551877,无,0,无,0,无,0
+上海奉天电子股份有限公司,DC-AC 逆变器,https://www.shfte.com/?product,轿车 DC-AC 逆变器、卡车 DC-AC 逆变器,无,root,1906551877,无,0,无,0,无,0
+上海奉天电子股份有限公司,DC-DC 转换器,https://www.shfte.com/?product,48V/12V DC-DC 转换器、24V/12V DC-DC 转换器、12V 启停稳压器,无,root,1906551877,无,0,无,0,无,0
+上海奉天电子股份有限公司,车载充电机 OBC,https://www.shfte.com/?product,车载充电机 OBC+DCDC+PDU 总成、车载充电机 OBC+DCDC+DCAC 总成,无,root,1906551877,无,0,无,0,无,0
+上海奉天电子股份有限公司,车联网模块,https://www.shfte.com/?product,USB 模块、汽车通信网关,无,root,1906551877,无,0,无,0,无,0
+上海奉天电子股份有限公司,自动空调控制器,https://www.shfte.com/?product,无,无,root,1906551877,无,0,无,0,无,0
+上海奉天电子股份有限公司,纯正弦波逆变器,https://www.shfte.com/?product_2,1000W,无,root,1906551877,无,0,无,0,无,0
+上海奉天电子股份有限公司,纯正弦波逆变器,https://www.shfte.com/?product_2,2000W,无,root,1906551877,无,0,无,0,无,0
+上海奉天电子股份有限公司,纯正弦波逆变器,https://www.shfte.com/?product_2,2200W,无,root,1906551877,无,0,无,0,无,0
+上海奉天电子股份有限公司,48V/12V DCDC 转换器,https://www.shfte.com/?product_2,1800W,无,root,1906551877,无,0,无,0,无,0
+上海奉天电子股份有限公司,48V/12V DCDC 转换器,https://www.shfte.com/?product_2,3000W,无,root,1906551877,无,0,无,0,无,0
+上海奉天电子股份有限公司,24V/12V DCDC 转换器,https://www.shfte.com/?product_2,180W,无,root,1906551877,无,0,无,0,无,0
+上海奉天电子股份有限公司,自动空调控制器,https://www.shfte.com/?product_4,USB HUB(A+C)模块、汽车通信网关、空调控制器、空调控制器面板,无,root,1906551877,无,0,无,0,无,0
+上海奉天电子股份有限公司,高压水加热器,https://www.shfte.com/?lm5/3469.html,3 代,工作温度：-40℃至 120℃；产品重量：<2.5Kg；电流要求：峰值电流<25A（HV side），平均电流<20A（HV side）；热转换效率：>95%；通信接口：CAN 或 LIN；产品功率：6.5KW（@inlet 60℃，10L/min）；输出控制：恒定功率控制、恒定水温控制、档位控制；绝缘耐压：2.7KV DC，60S；绝缘电阻：>200MOhm（U：1000VDC t：60s）；防护等级：IP 6K9K，IP67；安全与保护：高压过流、短路保护、高压欠过压保护、负载开路诊断、过温、IGBT 开路与短路诊断、高压互锁信号诊断、冷却液流速异常诊断保护、主动与被动放电等,root,1906551877,高压水加热器3代,4356122502,无,0,无,0
+上海奉天电子股份有限公司,高压水加热器,https://www.shfte.com/?lm5/3638.html,4 代,工作温度：-40℃至 120℃；产品重量：≤1.9Kg；电流要求：峰值电流<25A（HV side），平均电流<20A（HV side）；热转换效率：>95%；通信接口：CAN 或 LIN；产品功率：6.5KW/5KW（@inlet 60℃，10L/min）；输出控制：恒定功率控制、恒定水温控制、档位控制；绝缘耐压：2.7KV DC，60S；绝缘电阻：>200MOhm（U：1000VDC t：60s）；防护等级：IP 6K9K，IP67；安全与保护：高压过流、短路保护、高压欠过压保护、负载开路诊断、过温、IGBT 开路与短路诊断、高压互锁信号诊断、冷却液流速异常诊断保护、主动与被动放电等,root,1906551877,高压水加热器4代,5752562584,无,0,无,0

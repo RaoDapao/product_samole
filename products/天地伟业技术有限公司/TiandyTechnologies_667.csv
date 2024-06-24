@@ -1,0 +1,40 @@
+产品网址：https://en.tiandy.com/index.php?s=/Home/Product/detail/id/996.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|PoE Switch|TC-P3S06|·4*10/100/1000M PoE 端口+2*1000M SFP 端口<br>·符合 IEEE 802.3、IEEE 802.3u、IEEE802.3ab、IEEE802.3z 标准<br>·以太网端口 10/100/1000M 速率自适应<br>·兼容 IEEE802.3af（15.4w）、IEEE802.3at（30W）<br>·端口 1 支持 BT 40W<br>·流控模式：全双工采用 IEEE 802.3x 标准，半双工采用背压标准<br>·支持端口自动翻转（Auto MDI/MDIX）<br>·面板指示灯监控工作状态并帮助故障分析<br>·一键智能切换，支持 VLAN、默认、扩展|
+
+I/O Interface,Unnamed: 1
+Power,AC INPUT (100-240V)
+Ethernet,"4 Port 10/100/1000M PoE,  2 Port 1000M SFP"
+Performance,
+Bandwidth,12 Gbps
+Throughput,8.928Mpps
+Packet Buffer,1Mbit
+MAC Address,2K
+Transfer Mode,Store and forward
+Standard,
+Network Protocol,IEEE802.3  IEEE802.3u  IEEE802.3ab  IEEE802.3z  IEEE802.3x
+PoE Protocol,IEEE802.3af (15.4W)  IEEE802.3at (30W)  POE port output voltage: DC 52V  POE power supply core: 1/2+; 3/6
+Industrial Standard,EMS: EN61000-4-2 (ESD)、 EN61000-4-5 (Surge
+Network Medium,10BASE-T: Cat 3、4、5 UTP (≤100 meter)  100BASE-TX: Cat5 or more UTP (≤100 meter)  1000Base-TX: Cat5 or more UTP/STP (≤100 meter)
+Function,
+LED Indicators,"PWR (power supply), Mode (DIP), 1-6(Link & Data)"
+PWR,On: Powered on  Off: Powered off
+POE LED Buttons,"Dual color light selection: default green (link data), switch yellow light (POE)"
+DIP Switch,
+VLAN,"Port isolation mode. In this mode, the PoE ports (1-4) of the switch cannot communicate with each other and can only communicate with the UP-link port."
+Default,"Normal mode, all port can communicate with each other, the transmission distance is within 100 meters, the transmission rate is 10M / 100/1000M adaptive;"
+Extend,"Link extension mode, 3-4 ports PoE power supply and data transmission distance can be extended to 220 meters, the transmission rate becomes 10M"
+Environment,
+Working Environment,"Working Temperature: -10~50°C  Storage Temperature: -40~70°C  Working Humidity:10%~90%, non-condensing  Storage Temperature:5%~95%, non-condensing"
+Physical Specifications,
+Dimension,Product Dimension: 200*118*44.5mm  Package Dimension: 245*190*60mm  N.W:0.67kg  G.W:0.97kg
+Packing Info,Carton MEAS:520*320*400mm  Packing Qty:20 units  Packing Weight:20.4KG
+Power Voltage,Input Voltage: AC 100-240 V  Power supply:52V /1.25A
+Power,Product power: maximum 5W  POE power: maximum 60W
+
+
+Date,Title,Type
+2024-05-20,TC-P3S06 SpecH0402AT60,pdf

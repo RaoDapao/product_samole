@@ -1,0 +1,44 @@
+-> root http://www.golden-chip.com
+  -> 首页 
+    -> 产品中心 
+      -> 开关型霍尔传感器芯片 http://www.golden-chip.com/product.aspx?classid=440
+      -> 马达驱动系列 http://www.golden-chip.com/product-2.aspx
+      -> 齿轮传感系列 http://www.golden-chip.com/product-3.aspx
+      -> 漏电保护系列 http://www.golden-chip.com/product-4.aspx
+      -> 电感式接近开关系列 http://www.golden-chip.com/product-5-1.aspx
+      -> 编码器 http://www.golden-chip.com/product-6.aspx
+      -> otter保护器 http://www.golden-chip.com/product-7.aspx
+      -> 线性霍尔传感器芯片 http://www.golden-chip.com/product.aspx?classid=453
+      -> 微功耗霍尔传感器芯片 http://www.golden-chip.com/product.aspx?classid=441
+      -> 电感式接近开关专用集成电路 http://www.golden-chip.com/product-5-4.aspx
+      -> 智能座舱传感系列 http://www.golden-chip.com/product-6-1.aspx
+      -> 磁电式绝对值型编码器 http://www.golden-chip.com/product-6-2.aspx
+      -> 通用型磁传感系列 http://www.golden-chip.com/product.aspx?classid=400
+      -> 全部产品 http://www.golden-chip.com/product.aspx
+          -> 通用型磁传感芯片 
+          -> 马达驱动芯片 
+          -> 齿轮传感芯片 
+          -> 智能座舱传感芯片 
+          -> 电感式接近开关芯片 
+  -> SwitchHallsensorchip http://en.golden-chip.com/product.aspx?classid=440
+  -> 全部产品_GoChipElectroni http://en.golden-chip.com/product-2.aspx
+  -> 全部产品_GoChipElectroni_1 http://en.golden-chip.com/product-3.aspx
+  -> 全部产品_GoChipElectroni_2 http://en.golden-chip.com/product-4.aspx
+  -> 全部产品_GoChipElectroni_3 http://en.golden-chip.com/product-5-1.aspx
+  -> 全部产品_GoChipElectroni_4 http://en.golden-chip.com/product-6.aspx
+  -> 全部产品_GoChipElectroni_5 http://en.golden-chip.com/product-7.aspx
+  -> All-poleHallIC_GoChi http://en.golden-chip.com/product.aspx?classid=453
+  -> MicropowerHallsensor http://en.golden-chip.com/product.aspx?classid=441
+  -> DualChannelBipolarLa http://en.golden-chip.com/product.aspx?classid=442
+  -> _GoChipElectronicTec http://en.golden-chip.com/product.aspx?classid=458
+  -> 全部产品_GoChipElectroni_6 http://en.golden-chip.com/product-1.aspx
+  -> 全部产品_GoChipElectroni_7 http://en.golden-chip.com/product-5-2.aspx
+  -> 全部产品_GoChipElectroni_8 http://en.golden-chip.com/product-5-3.aspx
+  -> 全部产品_GoChipElectroni_9 http://en.golden-chip.com/product-5-4.aspx
+  -> 全部产品_GoChipElectroni_10 http://en.golden-chip.com/product-6-1.aspx
+  -> 全部产品_GoChipElectroni_11 http://en.golden-chip.com/product-6-2.aspx
+  -> NewProductRelease|GH http://en.golden-chip.com/infodetail.aspx?PID=195
+  -> GH4112NewProductlaun http://en.golden-chip.com/infodetail.aspx?PID=193
+  -> HallIC_GoChipElectro http://en.golden-chip.com/product.aspx?classid=400
+  -> 全部产品_GoChipElectroni_12 http://en.golden-chip.com/product.aspx
+  -> GH4112NewProductlaun_1 http://en.golden-chip.com/infodetail.aspx?PID=193#

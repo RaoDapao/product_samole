@@ -1,0 +1,8 @@
+产品网址：https://www.indiemicro.com/archives/product/ind83205
+产品结构：root->英迪芯微
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Automotive Embedded Motor Controller|iND83205|ARM cortex-M0 核@16MHz，64KB FLASH+16KB SRAM，支持最大 45mA 高压恒流源 RGB LED 驱动器，100uA 步长电流大小，3*16 位 PWM，集成内部 LDO，LED PN 结电压检测电路，硬件过压和过温保护，2*LIN V2.2 控制器和收发器，LIN 自动寻址和 LIN 地址扩展，4*通用 IO，内部温度传感器，10 位 SAR ADC，QFN 4×4-20pins，0.5mm 间距，接地垫封装，AEC-Q100 认证|
+
+

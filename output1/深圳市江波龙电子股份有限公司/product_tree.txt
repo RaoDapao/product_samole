@@ -1,0 +1,50 @@
+-> root http://www.longsys.com
+  -> LeadingEmbeddedStora https://www.longsys.com/products/embedded-storage
+  -> MobileFORESEEEPLUSan https://www.longsys.com/products/mobile-memory/mobile-memory/memory-card.html
+    -> Memory Card 
+    -> EPLUS V10 microSD 
+    -> EPLUS V30 SD/microSD 
+    -> Industrial SD/microSD 
+    -> Industrial WT SD/microSD 
+    -> Industrial pSLC microSD 
+  -> MemoryCards|FORESEEU https://www.longsys.com/products/memory-module
+    -> Memory Module 
+    -> FORESEE DDR Memory Module 
+  -> FORESEEeMMCStorageSo https://www.longsys.com/products/embedded-storage/embedded-storage/subsize-emmc.html
+  -> FORESEEuMCPStorage|C https://www.longsys.com/products/embedded-storage/embedded-storage/umcp.html
+  -> -StorageProductsSolu https://www.longsys.com/products/embedded-storage/micro-storage/automotive-ufs.html
+  -> EnhanceYourTechwithF https://www.longsys.com/products/embedded-storage/embedded-storage/emmc.html
+  -> FORESEEUFSStoragewit https://www.longsys.com/products/embedded-storage/embedded-storage/ufs.html
+  -> FORESEEeMCPStorage|C https://www.longsys.com/products/embedded-storage/embedded-storage/emcp.html
+  -> FORESEELPDDRStorage| https://www.longsys.com/products/embedded-storage/embedded-storage/lpddr.html
+  -> FORESEEePOPStoragefo https://www.longsys.com/products/embedded-storage/embedded-storage/epop.html
+  -> -StorageProductsSolu_1 https://www.longsys.com/products/embedded-storage/micro-storage/spi-nand-flash.html
+  -> FORESEEDDR3L|Over40P https://www.longsys.com/products/embedded-storage/micro-storage/ddr3l.html
+  -> -StorageProductsSolu_2 https://www.longsys.com/products/embedded-storage/micro-storage/nand-based-mcp.html
+  -> -StorageProductsSolu_3 https://www.longsys.com/products/solid-state-drive/commercial-pcle-ssd/xp2000-pcie-ssd.html
+  -> -StorageProductsSolu_4 https://www.longsys.com/products/solid-state-drive/enterprise-ssd/foresee-uncia-3836-series-sata-ssd.html
+  -> FORESEEORCA4836Serie https://www.longsys.com/products/solid-state-drive/enterprise-ssd/foresee-orca-4836-series-nvme-ssd.html
+  -> -StorageProductsSolu_5 https://www.longsys.com/products/solid-state-drive/commercial-pcle-ssd/xp1000-pcie-ssd.html
+  -> IndustrialSSD|IATF16 https://www.longsys.com/products/solid-state-drive/industrial-ssd/industrial-ssd.html
+  -> CommercialDDR4DIMM-S https://www.longsys.com/products/memory-module/commercial-memory-module/commercial-ddr4-dimm.html
+  -> -StorageProductsSolu_6 https://www.longsys.com/products/memory-module/enterprise-memory-module/enterprise-ddr4-r-dimm.html
+  -> CommercialDDR5DIMM-S https://www.longsys.com/products/memory-module/commercial-memory-module/commercial-ddr5-dimm.html
+  -> ParallelNANDFlash|Co https://www.longsys.com/products/embedded-storage/micro-storage/parallel-nand-flash.html
+  -> FORESEEAutomotiveUFS https://www.longsys.com/products/embedded-storage/embedded-storage/automotive-ufs.html
+  -> FORESEEIndustrialeMM https://www.longsys.com/products/embedded-storage/embedded-storage/automotive-industriai-wide-temperature-industriai-emmc.html
+    -> ePOP 
+    -> uMCP 
+  -> -StorageProductsSolu_7 https://www.longsys.com/products/solid-state-drive/commercial-pcle-ssd/xp2200-pcie-bga-ssd.html
+  -> BoostSpeedwithForese https://www.longsys.com/products/solid-state-drive/commercial-pcle-ssd/xp2200-pcie-ssd.html
+  -> -StorageProductsSolu_8 https://www.longsys.com/products/solid-state-drive/commercial-sata-ssd/s326-sata-ssd.html
+  -> FORESEESATASSD64GBwi https://www.longsys.com/products/solid-state-drive/commercial-sata-ssd/s423-sata-ssd.html
+  -> -StorageProductsSolu_9 https://www.longsys.com/products/solid-state-drive/commercial-sata-ssd/s435-s326-sata-ssd.html
+  -> -StorageProductsSolu_10 https://www.longsys.com/products/memory-module/industrial-ddr4-dimm/industrial-ddr4-dimm.html
+  -> -StorageProductsSolu_11 https://www.longsys.com/products/memory-module/commercial-memory-module/5336.html
+  -> -StorageProductsSolu_12 https://www.longsys.com/products/memory-module/enterprise-memory-module/5337.html
+  -> -StorageProductsSolu_13 https://www.longsys.com/products/memory-module/enterprise-memory-module/foresee-aquila-series-ddr5-rdimm.html
+    -> FORESEE uMCP 
+    -> FORESEE ePOP 
+    -> Lexar CFexpress 
+    -> Lexar 633x microSD-1TB 
+    -> Lexar NVMe Gen4x4 M.2 2280 SSD 

@@ -1,0 +1,6 @@
+产品网址：https://www.aimicron.com/product/1
+产品结构：root->AIM915-慷智集成电路（上海）有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|智能车载高清视频传输 SERDES 芯片|AIM915|LVDS 4 Data Lane + 1 Clock Lane 视频输入转 AHDL 单通道串行输出；支持最快 Pixel Clock 85MHz. 720P RGB888；单根同轴电缆或双绞线支持正向高速视频输送，双向控制信号互传；超低功耗，超低辐射(EMI)，超强抗干扰(EMC)；支持超长电缆远距离传输；多个 GPIO 更好的支持触摸屏系统；Build In Self Test（BIST）和视频数据发生器方便系统测试；单电源 3.3V 供电，IO 支持 1.8V 和 3.3V；车规 AECQ100 认证；QFN40PIN (6mm*6mm) 封装|

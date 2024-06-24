@@ -1,0 +1,39 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+驭芯科技（上海）有限公司,轮速传感器感应单元,http://www.smgsensor.com/product.aspx?classid=442,无,无,ABS轮速,3985456695,无,0,无,0,无,0
+驭芯科技（上海）有限公司,带线束轮速传感器,http://www.smgsensor.com/product.aspx?classid=442,无,无,ABS轮速,3985456695,无,0,无,0,无,0
+驭芯科技（上海）有限公司,轮速传感器及 EPB 线束总成,http://www.smgsensor.com/product.aspx?classid=442,无,无,ABS轮速,3985456695,无,0,无,0,无,0
+驭芯科技（上海）有限公司,EPB 线束,http://www.smgsensor.com/product.aspx?classid=442,无,无,ABS轮速,3985456695,无,0,无,0,无,0
+驭芯科技（上海）有限公司,节气门位置传感器,http://www.smgsensor.com/product.aspx?classid=0,无,无,无,0,无,0,无,0,无,0
+驭芯科技（上海）有限公司,H128 系列旋转编码器,http://www.smgsensor.com/product.aspx?classid=0,H128 系列,无,无,0,无,0,无,0,无,0
+驭芯科技（上海）有限公司,AP05 编码器,http://www.smgsensor.com/product.aspx?classid=0,AP05,无,无,0,无,0,无,0,无,0
+驭芯科技（上海）有限公司,AP02 系列磁性增量式旋转编码器,http://www.smgsensor.com/product.aspx?classid=0,AP02 系列,无,无,0,无,0,无,0,无,0
+驭芯科技（上海）有限公司,EGR 阀盖板位置传感器,http://www.smgsensor.com/product.aspx?classid=0,无,无,无,0,无,0,无,0,无,0
+驭芯科技（上海）有限公司,速度类传感器,http://www.smgsensor.com/proclass.aspx,无,根据目标轮转动时产生磁场强度的变化，通过方波信号提供速度信息，部分型号同时输出方向信息。根据感应方式的不同，一般有侧读式和顶读式两种,无,0,无,0,无,0,无,0
+驭芯科技（上海）有限公司,角度类传感器,http://www.smgsensor.com/proclass.aspx,无,用于角度位置的检测，输出信号与旋转角度成线性比例输出,无,0,无,0,无,0,无,0
+驭芯科技（上海）有限公司,盖板类传感器,http://www.smgsensor.com/proclass.aspx,无,无,无,0,无,0,无,0,无,0
+驭芯科技（上海）有限公司,旋转编码器,http://www.smgsensor.com/proclass.aspx,无,无,无,0,无,0,无,0,无,0
+驭芯科技（上海）有限公司,H039 系列旋转位置传感器,http://www.smgsensor.com/product.aspx,H039 系列,无,无,0,无,0,无,0,无,0
+驭芯科技（上海）有限公司,单路角度传感器,http://www.smgsensor.com/prodetail.aspx?PID=675,H039 系列,用于角度位置的检测，输出信号与旋转角度成线性比例输出,无,0,无,0,无,0,无,0
+驭芯科技（上海）有限公司,单路角度传感器,http://smgsensor.com/product.aspx?classid=440,H050 系列,无,单路角度传感器,7780408134,无,0,无,0,无,0
+驭芯科技（上海）有限公司,单路角度传感器,http://smgsensor.com/product.aspx?classid=440,H040 系列,无,单路角度传感器,7780408134,无,0,无,0,无,0
+驭芯科技（上海）有限公司,双路角度传感器,http://www.smgsensor.com/product.aspx?classid=441,H137,无,双路角度传感器,8222927228,无,0,无,0,无,0
+驭芯科技（上海）有限公司,旋转编码器,http://www.smgsensor.com/prodetail.aspx?PID=672,AP02 系列,通过高性能磁感应技术将磁铁的旋转运动转换为两路正交的正余弦信号输出,无,0,无,0,无,0,无,0
+驭芯科技（上海）有限公司,旋转编码器,http://www.smgsensor.com/prodetail.aspx?PID=673,AP05,检测电机旋转位置的变化，输出线性信号,旋转编码器AP05编码器,2609574609,无,0,无,0,无,0
+驭芯科技（上海）有限公司,旋转编码器,http://www.smgsensor.com/prodetail.aspx?PID=674,H128 系列,无,无,0,无,0,无,0,无,0
+驭芯科技（上海）有限公司,旋转编码器,http://www.smgsensor.com/product.aspx?classid=408,AP02 系列磁性增量式,无,旋转编码器,7707024619,无,0,无,0,无,0
+驭芯科技（上海）有限公司,H150 曲轴传感器,http://smgsensor.com/product.aspx?classid=444,H150,无,曲轴凸轮轴转速,7107304437,无,0,无,0,无,0
+驭芯科技（上海）有限公司,H139 曲轴传感器,http://smgsensor.com/product.aspx?classid=444,H139,无,曲轴凸轮轴转速,7107304437,无,0,无,0,无,0
+驭芯科技（上海）有限公司,H138 凸轮轴传感器,http://smgsensor.com/product.aspx?classid=444,H138,无,曲轴凸轮轴转速,7107304437,无,0,无,0,无,0
+驭芯科技（上海）有限公司,H126 速度传感器,http://smgsensor.com/product.aspx?classid=444,H126,无,曲轴凸轮轴转速,7107304437,无,0,无,0,无,0
+驭芯科技（上海）有限公司,H120 曲轴速度传感器,http://smgsensor.com/product.aspx?classid=444,H120,无,曲轴凸轮轴转速,7107304437,无,0,无,0,无,0
+驭芯科技（上海）有限公司,H151 速度传感器,http://smgsensor.com/product.aspx?classid=444,H151,无,曲轴凸轮轴转速,7107304437,无,0,无,0,无,0
+驭芯科技（上海）有限公司,速度和方向传感器,http://www.smgsensor.com/product.aspx?classid=443,H107 系列,无,电机转速,2054255776,无,0,无,0,无,0
+驭芯科技（上海）有限公司,电机转速,http://www.smgsensor.com/product.aspx?classid=443#,H107 系列,速度和方向传感器,电机转速,2054255776,无,0,无,0,无,0
+驭芯科技（上海）有限公司,H039 系列旋转位置传感器,http://www.smgsensor.com/product.aspx?classid=410,H039,无,角度类传感器,2940484530,无,0,无,0,无,0
+驭芯科技（上海）有限公司,H137 方向盘转角传感器,http://www.smgsensor.com/product.aspx?classid=410,H137,无,角度类传感器,2940484530,无,0,无,0,无,0
+驭芯科技（上海）有限公司,H069K 手柄开关位置传感器,http://www.smgsensor.com/product.aspx?classid=410,H069K,无,角度类传感器,2940484530,无,0,无,0,无,0
+驭芯科技（上海）有限公司,AS08 踏板油门总成,http://www.smgsensor.com/product.aspx?classid=410,AS08,无,角度类传感器,2940484530,无,0,无,0,无,0
+驭芯科技（上海）有限公司,AS07 手油门总成,http://www.smgsensor.com/product.aspx?classid=410,AS07,无,角度类传感器,2940484530,无,0,无,0,无,0
+驭芯科技（上海）有限公司,AS04 电子油门总成,http://www.smgsensor.com/product.aspx?classid=410,AS04,无,角度类传感器,2940484530,无,0,无,0,无,0
+驭芯科技（上海）有限公司,H150 曲轴传感器,http://www.smgsensor.com/product.aspx?classid=418,无,无,速度类传感器,8687842919,无,0,无,0,无,0
+驭芯科技（上海）有限公司,H139 曲轴传感器,http://www.smgsensor.com/product.aspx?classid=418,无,无,速度类传感器,8687842919,无,0,无,0,无,0

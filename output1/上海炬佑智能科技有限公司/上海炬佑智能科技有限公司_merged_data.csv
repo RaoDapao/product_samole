@@ -1,0 +1,9 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+上海炬佑智能科技有限公司,ToF Sensor,http://www.opnous.com/product?cat=1&pid=20,OPN8001、OPN8008、OPN8132,ToF Sensor 是 ToF 系统 Rx 部分的核心组成，炬佑提供多种规格的 Sensor 芯片，满足不同应用需求,无,0,无,0,无,0,无,0
+上海炬佑智能科技有限公司,ISP 芯片,http://www.opnous.com/product?cat=1&pid=21,OPN6001、OPN6002,接收 ToF sensor 产生的 raw 数据，借助片上低功耗高性能计算引擎实时计算出深度等信息。相较于传统借助外置算力进行深度解算的方案，炬佑 ISP 芯片简化了 ToF 深度运算，大大降低用户开发难度。同时，ISP 芯片内置了 Cortex-M3 的 ARM 核，提供了实现客户定制化算法的灵活性。,无,0,无,0,无,0,无,0
+上海炬佑智能科技有限公司,MIPI 接口 ToF 模组,http://www.opnous.com/product?cat=1&pid=22,OPNM8508C、OPNM8508PA、OPNM8708B,通过搭配不同分辨率传感器芯片，光源和镜头组件，形成多种产品规格，适合不同的应用需求。直接采用该模组，客户不必关注 ToF 底层硬件细节，极大地降低了使用 ToF 产品的开发难度，提升了开发效率。并且，这些模组都是经由炬佑深度合作的头部模组厂商批量生产，是在保证品质稳定可靠的前提下提供的性价比充分优化的产品。,无,0,无,0,无,0,无,0
+上海炬佑智能科技有限公司,USB ToF 相机解决方案,http://www.opnous.com/product?cat=1&pid=23,OPNCAM8508C、OPNCAM8508PA、OPNCAM8708B,在 MIPI ToF 模组基础上，增加 ISP 深度数据处理模块和 USB 数据传输模块，构成了基于 USB 3.0 UVC 协议的 ToF 相机解决方案。其中又细分为两个子系列，分别是适合中近距离应用的紧凑型 Dolphin 相机和适合中远距离应用的 Hawk 相机。配合 windows 和 ARM Linux 平合相关 SDK，USB 相机方案既可以作为炬佑 ToF 产品的评估套件使用，又可以作为独立的 USBToF 方案，快速集成到终端产品中,无,0,无,0,无,0,无,0
+上海炬佑智能科技有限公司,IoT 解决方案,http://www.opnous.com/product?cat=1&pid=23,OPNS3001、OPNS3030、OPNS3031、OPNS3033,融合 ToF 传感、深度计算和应用算法于一体的 IoT 解决方案，具有低成本、小尺寸、零外置算力要求、易于系统集成的特点。将传统的 ToF 距离传感器升级为事件(Event)触发传感器，适合诸如白色家电智能投影与电视，智慧照明，智慧家居，智慧停车等众多 IoT 应用场景,无,0,无,0,无,0,无,0
+上海炬佑智能科技有限公司,VCSEL Driver,http://www.opnous.com/product?cat=3&pid=19,OPN7011,对 Sensor 输出的高速快门脉冲进行功率放大后驱动 VCSEL 激光器，并提供多重保护机制，确保系统可靠工作和人眼安全,无,0,无,0,无,0,无,0
+上海炬佑智能科技有限公司,VCSEL Driver,http://www.opnous.com/product?cat=3&pid=19,OPN7013,对 Sensor 输出的高速快门脉冲进行功率放大后驱动 VCSEL 激光器，并提供多重保护机制，确保系统可靠工作和人眼安全,无,0,无,0,无,0,无,0
+上海炬佑智能科技有限公司,VCSEL Driver,http://www.opnous.com/product?cat=3&pid=19,OPN7020,对 Sensor 输出的高速快门脉冲进行功率放大后驱动 VCSEL 激光器，并提供多重保护机制，确保系统可靠工作和人眼安全,无,0,无,0,无,0,无,0

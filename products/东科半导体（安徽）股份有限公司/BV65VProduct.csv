@@ -1,0 +1,12 @@
+产品网址：https://www.dkpower.cn/BV65VProduct.html
+产品结构：首页->产品中心->SR同步整流系列->BV65VProduct
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|BV 65V Product|无|无|
+
+Product,Characteristics,BV,RDS(on),Topology,VDD Operation Voltage,Output Power,Operating Mode,Package
+DK5V65R25S,SR Converter,65V,25mΩ,PSR/SSR,5.5V,"9V, 2.1A",DCM/QR/CCM,SM-7 (兼容TO-277)
+DK5V65R25H,SR Converter,65V,25mΩ,PSR/SSR,5.1V,"9V, 2.1A",DCM/QR/CCM,SM-7 (兼容TO-277)
+DK5V65R30S,SR Converter,65V,30mΩ,PSR/SSR,5.5V,"9V, 1.5A",DCM/QR/CCM,SM-7 (兼容TO-277)
+DK5V65R30H,SR Converter,65V,30mΩ,PSR/SSR,5.1V,"9V, 1.5A",DCM/QR/CCM,SM-7 (兼容TO-277)

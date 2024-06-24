@@ -1,0 +1,53 @@
+-> root http://video-sy.com
+  -> 首页 
+    -> 产品中心 http://video-sy.com/Product
+      -> 手术示教系统 http://video-sy.com/?thread-37-1-0.html
+        -> 术野摄像机 http://video-sy.com/?thread-45-1-0.html
+          -> 高清 http://video-sy.com/?show-68-1.html
+        -> 4K术野摄像机 http://video-sy.com/?thread-47-1-0.html
+        -> 手术示教终端 http://video-sy.com/?thread-39-1-0.html
+          -> 4K http://video-sy.com/?show-81-1.html
+        -> 手术示教移动推车 http://video-sy.com/?thread-38-1-0.html
+          -> 教学实训推车 
+          -> 术野摄像机吊臂 
+        -> 移动会诊推车 http://video-sy.com/?thread-58-1-0.html
+      -> 实训教学系统 http://video-sy.com/?thread-60-1-0.html
+        -> 实训教学推车 
+        -> 实训教学推车 
+        -> 实训教学推车 
+        -> 实训教学推车 
+        -> 触控式实训教学工作站 
+        -> 实训教学特写摄像机 
+      -> 视频会议系统 http://video-sy.com/?thread-7-1-0.html
+        -> 高清视频会议MCU http://video-sy.com/?thread-14-1-0.html
+          -> 高清视频会议 MCU 
+          -> 高清视频会议 MCU 
+        -> 高清视频会议终端 http://video-sy.com/?thread-13-1-0.html
+          -> SY-6100V系列 http://video-sy.com/?show-51-1.html
+        -> 4K视频会议摄像机 http://video-sy.com/?thread-59-1-0.html
+          -> 4K 视频会议摄像机 
+          -> 4K 视频会议摄像机 
+        -> 视频会议摄像机 http://video-sy.com/?thread-46-1-0.html
+          -> 高清_1 http://video-sy.com/?show-16-1.html
+        -> 视频会议周边设备 http://video-sy.com/?thread-43-1-0.html
+          -> 摄像机控制键盘 
+          -> 4 路高清 SDI 硬盘录像机 
+          -> 数字信号转换器 
+          -> 8 路 SDI 硬盘录像机 
+      -> 录播服务器 http://video-sy.com/?thread-54-1-0.html
+        -> 录播服务器 http://video-sy.com/?thread-55-1-0.html
+          -> 会议 http://video-sy.com/?show-65-1.html
+          -> 互动 http://video-sy.com/?show-63-1.html
+          -> 网络 http://video-sy.com/?show-47-1.html
+          -> 4K录播一体机，4K http://video-sy.com/?show-83-1.html
+          -> 录播一体机，SY-8108 http://video-sy.com/?show-84-1.html
+        -> 集中控制 http://video-sy.com/?thread-56-1-0.html
+      -> 光纤传输设备 http://video-sy.com/?thread-10-1-0.html
+        -> 光纤通讯模块 http://video-sy.com/?thread-25-1-0.html
+          -> SFP+ http://video-sy.com/?show-26-1.html
+          -> SFP http://video-sy.com/?show-30-1.html
+            -> DWDM http://video-sy.com/?show-33-1.html
+            -> CWDM http://video-sy.com/?show-32-1.html
+            -> BIDI http://video-sy.com/?show-31-1.html
+          -> DWDMSFP+ http://video-sy.com/?show-29-1.html
+        -> 高清光纤传输器 http://video-sy.com/?thread-26-1-0.html

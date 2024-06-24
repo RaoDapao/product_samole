@@ -1,0 +1,23 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+上海裕芯电子科技有限公司,Battery Management IC,https://www.shiningic.com/en/producterlist.aspx?classid=010104,无,无,Home,5562944741,BatteryManagementIC,2075625231,无,0,无,0
+上海裕芯电子科技有限公司,DC-DC 直流转换,https://www.shiningic.com/zh/producterlist.aspx?classid=010113,无,无,当前位置首页,9289361623,DC|DC直流转换,2023467789,无,0,无,0
+上海裕芯电子科技有限公司,DC-LED,https://www.shiningic.com/zh/producterlist.aspx?classid=010114,无,无,当前位置首页,9289361623,DC|LED,2668056508,无,0,无,0
+上海裕芯电子科技有限公司,Security Products,https://www.shiningic.com/en/articledetail.aspx?detailid=44,无,无,Home,5562944741,News,871524969,IndustryNews,3611736404,无,0
+上海裕芯电子科技有限公司,PMIC- Consumer Electronics,https://www.shiningic.com/en/producterlist.aspx?classid=010103,无,无,root,1906551877,PMIC|ConsumerElectronics,8591620386,无,0,无,0
+上海裕芯电子科技有限公司,输入过压保护(V):6.8,https://www.shiningic.com/en/producterlist.aspx?classid=010103,充电电流(mA):800,充电截止电压(V):4.2/4.35,root,1906551877,PMIC|ConsumerElectronics,8591620386,无,0,无,0
+上海裕芯电子科技有限公司,PMIC-Mobile Lighting,http://www.shiningic.com/en/producterlist.aspx?classid=010103,无,无,root,1906551877,PMIC|ConsumerElectronics,8591620386,无,0,无,0
+上海裕芯电子科技有限公司,PMIC-Solar Drive,http://www.shiningic.com/en/producterlist.aspx?classid=010103,无,无,root,1906551877,PMIC|ConsumerElectronics,8591620386,无,0,无,0
+上海裕芯电子科技有限公司,PMIC-Consumer Electronics,http://www.shiningic.com/en/producterlist.aspx?classid=010103,无,无,root,1906551877,PMIC|ConsumerElectronics,8591620386,无,0,无,0
+上海裕芯电子科技有限公司,System and Sensor,http://www.shiningic.com/en/producterlist.aspx?classid=010103,无,无,root,1906551877,PMIC|ConsumerElectronics,8591620386,无,0,无,0
+上海裕芯电子科技有限公司,PMIC-Consumer Electronics,https://www.shiningic.com/en/productdetail.aspx?detailid=55&classid1=0101&classid2=010103,YS3605*,DC-DC 直流转换 Boost 转换器，输入电压 2.6-5.5V，限流 0.5-2.5A，开关频率 1000KHz，输出电压 12V(MAX)，静态电流 190uA，参考电压 0.6V，同步升压 N，特点为异步升压，过流保护点可调，封装 SOT23-6,root,1906551877,YS3605*,4489268029,无,0,无,0
+上海裕芯电子科技有限公司,PMIC-Consumer Electronics,https://www.shiningic.com/en/productdetail.aspx?detailid=56&classid1=0101&classid2=010103,YX2116*,DC-DC 直流转换 Boost 转换器，输入电压 0.9-5.0V，限流 1A，开关频率 1200KHz，输出电压 3.0-5.1V，静态电流 1uA，参考电压 1.15V，同步升压，特点为超低静态功耗、IC 关断时输出断开，封装为 SOT23-6/DFN2*2-6,root,1906551877,YX2116*,858135970,无,0,无,0
+上海裕芯电子科技有限公司,YX2118,https://www.shiningic.com/en/productdetail.aspx?detailid=57&classid1=0101&classid2=010103,YX2118,DC-DC 直流转换 Boost 转换器，输入电压 0.9~5.0V，限流 0.8A，开关频率 350KHz，输出电压 2.5~5.0V，静态电流 12uA，同步升压，特点为 PFM，封装为 SOT23/SOT23-5/SOT89-3,root,1906551877,YX2118,9761947657,无,0,无,0
+上海裕芯电子科技有限公司,YX2811*,https://www.shiningic.com/en/productdetail.aspx?detailid=58&classid1=0101&classid2=010103,YX2811*,电源 SOC 个护产品，输入电压 4.5~6V，输入过压保护 6.8V，充电电流 800mA，充电截止电压 4.2/4.35V，放电电流 2700mA，欠压保护 3.0V，特点是集成单节锂电池充电管理功能、按键检测功能的马达驱动专用芯片，内置两种按键控制方式，支持三档调节，应用于小风扇、电动牙刷、剃须刀、电推剪、修毛器、上水器等，封装为 ESOP8,root,1906551877,YX2811*,3340084233,无,0,无,0
+上海裕芯电子科技有限公司,太阳能 LED 照明驱动,https://www.shiningic.com/zh/producterlist.aspx?classid=010111,无,无,当前位置首页,9289361623,太阳能LED照明驱动,5829267889,无,0,无,0
+上海裕芯电子科技有限公司,电池管理芯片,https://www.shiningic.com/zh/producterlist.aspx?classid=010112,无,无,当前位置首页,9289361623,电池管理芯片,1146063125,无,0,无,0
+上海裕芯电子科技有限公司,电源管理芯片,https://www.shiningic.com/zh/producterlist.aspx?classid=010108,无,无,当前位置首页,9289361623,电源管理芯片,7152989967,无,0,无,0
+上海裕芯电子科技有限公司,安防产品,https://www.shiningic.com/zh/articledetail.aspx?detailid=24,无,家庭安全作为智能家居不可或缺的重要部分，一直是安防企业关注的重要市场,当前位置首页,9289361623,新闻资讯,9223654674,行业新闻,8177038299,无,0
+上海裕芯电子科技有限公司,运算放大器,https://www.shiningic.com/zh/?detailid=24,YX4188、YX4096、YX4076、YX1102、YX861A、YX8180,无,root,1906551877,"PMIC,PowerManagementIC,BatteryManagementIC",5838551672,无,0,无,0
+上海裕芯电子科技有限公司,马达驱动,https://www.shiningic.com/zh/?detailid=24,YX8628H,无,root,1906551877,"PMIC,PowerManagementIC,BatteryManagementIC",5838551672,无,0,无,0
+上海裕芯电子科技有限公司,运算放大器,https://www.shiningic.com/zh/?detailid=350,无,无,root,1906551877,"PMIC,PowerManagementIC,BatteryManagementIC",5838551672,无,0,无,0
+上海裕芯电子科技有限公司,马达驱动,https://www.shiningic.com/zh/?detailid=350,无,无,root,1906551877,"PMIC,PowerManagementIC,BatteryManagementIC",5838551672,无,0,无,0

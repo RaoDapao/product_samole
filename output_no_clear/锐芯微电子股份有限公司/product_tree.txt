@@ -1,0 +1,93 @@
+-> root https://brigates.com
+  -> 高端图像芯片定制设计服务-锐芯微电子股份 http://www.brigates.com/Product/31.html
+    -> sCMOS 科学相机 
+    -> X 射线探测器 
+  -> 高灵敏度摄像机芯-锐芯微电子股份有限公司 http://www.brigates.com/Product/49.html
+  -> 科学相机-锐芯微电子股份有限公司 http://www.brigates.com/Product/50.html
+  -> X射线探测器-锐芯微电子股份有限公司 http://www.brigates.com/Product/80.html
+  -> 化学发光成像平板-锐芯微电子股份有限公司 http://www.brigates.com/Product_list/88.html
+    -> 化学发光成像平板 
+    -> 化学发光成像平板 
+  -> 面阵图像传感器-锐芯微电子股份有限公司 http://www.brigates.com/Product/85.html
+    -> 面阵图像传感器 
+    -> 面阵图像传感器 
+    -> 面阵图像传感器 
+    -> 面阵图像传感器 
+    -> 面阵图像传感器 
+    -> 面阵图像传感器 
+  -> Venus 
+    -> 8KL http://www.brigates.com/Product/86.html
+      -> 线阵图像传感器 
+      -> 线阵图像传感器 
+      -> 线阵图像传感器 
+      -> 线阵图像传感器 
+      -> 线阵图像传感器 
+  -> sCMOS图像传感器-锐芯微电子股份有限 http://www.brigates.com/Product/79.html
+    -> sCMOS 图像传感器 
+    -> sCMOS 图像传感器 
+    -> sCMOS 图像传感器 
+    -> sCMOS 图像传感器 
+  -> sCMOS科学相机-锐芯微电子股份有限公 http://www.brigates.com/Product/48.html
+  -> X射线CMOS图像传感器-锐芯微电子股份 http://www.brigates.com/Product/84.html
+  -> X-CT探测器-锐芯微电子股份有限公司 http://www.brigates.com/Product/83.html
+  -> X射线CMOSTDI线阵探测器-锐芯微电 http://www.brigates.com/Product/82.html
+    -> X 射线 CMOS TDI 线阵探测器 
+    -> X 射线 CMOS TDI 线阵探测器 
+  -> X射线CMOS平板探测器-锐芯微电子股份 http://www.brigates.com/Product/81.html
+  -> PM001-锐芯微电子股份有限公司 http://www.brigates.com/product/57.html
+  -> PM002-锐芯微电子股份有限公司 http://www.brigates.com/product/58.html
+  -> BGM001-锐芯微电子股份有限公司 http://www.brigates.com/product/61.html
+  -> BGM002-锐芯微电子股份有限公司 http://www.brigates.com/product/69.html
+  -> BGM003-锐芯微电子股份有限公司 http://www.brigates.com/product/68.html
+  -> BGM102-锐芯微电子股份有限公司 http://www.brigates.com/product/60.html
+  -> 科学相机-锐芯微电子股份有限公司_1 http://www.brigates.com/Product_list/1740197904599789568-6-6.html
+  -> PicasX1512D-锐芯微电子股份有 http://www.brigates.com/product/78.html
+  -> supX1008-锐芯微电子股份有限公司 http://www.brigates.com/product/77.html
+  -> MonetX0801-锐芯微电子股份有限 http://www.brigates.com/product/76.html
+  -> MonetX2301-锐芯微电子股份有限 http://www.brigates.com/product/75.html
+  -> proX1512-锐芯微电子股份有限公司 http://www.brigates.com/product/71.html
+  -> proX3023-锐芯微电子股份有限公司 http://www.brigates.com/product/52.html
+  -> X射线探测器-锐芯微电子股份有限公司_1 http://www.brigates.com/Product_list/1740198021708951552-6-6.html
+  -> LDP1512F-锐芯微电子股份有限公司 http://www.brigates.com/Product_dt/16.html
+  -> LDP1512E-锐芯微电子股份有限公司 http://www.brigates.com/Product_dt/17.html
+  -> RV400-锐芯微电子股份有限公司 http://www.brigates.com/product/74.html
+  -> ES101-锐芯微电子股份有限公司 http://www.brigates.com/product/73.html
+  -> BG0851-锐芯微电子股份有限公司 http://www.brigates.com/product/35.html
+  -> BG0836-锐芯微电子股份有限公司 http://www.brigates.com/product/32.html
+  -> BG0808-锐芯微电子股份有限公司 http://www.brigates.com/product/67.html
+  -> BG0806-锐芯微电子股份有限公司 http://www.brigates.com/product/33.html
+  -> 面阵图像传感器-锐芯微电子股份有限公司_1 http://www.brigates.com/Product_list/1740198298951561216-6-6.html
+  -> 面阵图像传感器-锐芯微电子股份有限公司_2 http://www.brigates.com/Product_list/1740198298951561216-12-6.html
+  -> Venus_4K-锐芯微电子股份有限公司 http://www.brigates.com/product/62.html
+  -> Venus_8K-锐芯微电子股份有限公司 http://www.brigates.com/product/63.html
+  -> Venus_8KL-锐芯微电子股份有限公 http://www.brigates.com/product/64.html
+  -> Venus_16K-锐芯微电子股份有限公 http://www.brigates.com/product/65.html
+  -> Adonis-锐芯微电子股份有限公司 http://www.brigates.com/product/66.html
+  -> PM006-锐芯微电子股份有限公司 http://www.brigates.com/Product_dt/12.html
+  -> PM009-锐芯微电子股份有限公司 http://www.brigates.com/Product_dt/13.html
+  -> BGXP01-锐芯微电子股份有限公司 http://www.brigates.com/product/56.html
+  -> BGXP02-锐芯微电子股份有限公司 http://www.brigates.com/product/54.html
+  -> BGXP03-锐芯微电子股份有限公司 http://www.brigates.com/product/55.html
+  -> proCT32-锐芯微电子股份有限公司 http://www.brigates.com/product/53.html
+  -> proX3035-锐芯微电子股份有限公司 http://www.brigates.com/product/59.html
+  -> 产品及服务-产品及服务-锐芯微电子股份有 http://www.brigates.com/product/17
+  -> 科学相机-产品及服务-锐芯微电子股份有限 http://www.brigates.com/product/27
+    -> PM009 
+    -> PM006 
+    -> PM001 
+    -> PM002 
+    -> BGM001 
+  -> sCMOS科学相机-产品及服务-锐芯微电 http://www.brigates.com/product/28
+  -> sCMOS图像传感器-产品及服务-锐芯微 http://www.brigates.com/product/29
+  -> 科学相机-锐芯微电子股份有限公司_2 http://www.brigates.com/Product_list/1740197904599789568-0-6.html
+  -> X射线探测器-产品及服务-锐芯微电子股份 http://www.brigates.com/product/20
+  -> X射线CMOS平板探测器-产品及服务-锐 http://www.brigates.com/product/24
+  -> 化学发光成像平板-产品及服务-锐芯微电子 http://www.brigates.com/Product/1.html
+  -> 面阵图像传感器-产品及服务-锐芯微电子股 http://www.brigates.com/product/21
+  -> BG0803-锐芯微电子股份有限公司 http://www.brigates.com/product/34.html
+  -> BG0703-锐芯微电子股份有限公司 http://www.brigates.com/product/36.html
+  -> BG0701-锐芯微电子股份有限公司 http://www.brigates.com/product/37.html
+  -> BG0601-锐芯微电子股份有限公司 http://www.brigates.com/product/41.html
+  -> BG0691-锐芯微电子股份有限公司 http://www.brigates.com/product/39.html
+  -> BG0605-锐芯微电子股份有限公司 http://www.brigates.com/product/40.html
+  -> BG0695-锐芯微电子股份有限公司 http://www.brigates.com/product/38.html

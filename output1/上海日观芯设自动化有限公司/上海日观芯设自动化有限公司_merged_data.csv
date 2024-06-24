@@ -1,0 +1,6 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+上海日观芯设自动化有限公司,一站式数字签核平台,https://www.rigoron.com.cn/col.jsp?id=106,无,无,无,0,无,0,无,0,无,0
+上海日观芯设自动化有限公司,时序约束管理与验证,https://www.rigoron.com.cn/col.jsp?id=106,RigorCons,是一个强大的时序约束验证和管理工具，它可以帮助验证 SoC、5G、GPU、CPU 等芯片中的复杂 SDC 时序约束。为任何层次结构和模式自动生成和管理 SDC，从而显著缩短时序收敛周期，保证签核的质量和效率,无,0,无,0,无,0,无,0
+上海日观芯设自动化有限公司,静态时序分析,https://www.rigoron.com.cn/col.jsp?id=106,RigorTime,是一项全方位时序分析产品，旨在解决最先进的时序要求，包括信号完整性（SI）分析、基于路径的分析（PBA）、片上变化（LVF、OCV）、多模和多角分析（MMMC）、层次化分析等。不仅仅是一个分析工具，它还与 TAI 系统深度集成。通过灵活的脚本语言，将时序签核与设计流程紧密结合，加快整个设计流程的时间收敛速度，大大提高设计收敛效率,无,0,无,0,无,0,无,0
+上海日观芯设自动化有限公司,芯片设计效率管理工具,https://www.rigoron.com.cn/col.jsp?id=106,RigorFlow,适合于所有从事数字芯片设计的团队，它将产品物理实现流程与有效提升设计效率的特性相结合，在进行芯片开发时很大程度地降低了设计过程中的设计风险。同时也降低了设计工程师操作难度，JetFlow 为设计团队提供易于操作、多人协同可视化的流程管理界面，简单快捷的实现 IC 设计流程中各个环节的任务创建、执行、状态监控和关键日志信息智能提取器等功能，进一步弥补了工程师的经验不足、提升设计效率，使工程师能够更加专注于实现 IC 设计性能指标方面的工作,无,0,无,0,无,0,无,0
+上海日观芯设自动化有限公司,物理验证工具,https://www.rigoron.com.cn/col.jsp?id=106,RigorDRC,是一个全面的物理设计规则检查软件，支持互连线、单元、器件的设计规则检查，更适宜于处理超大规模的版图。JetDRC 有友好的图形界面工具，便于设计者快速修复发现的设计违例之处，专注在支持国内成熟工艺和先进工艺节点,无,0,无,0,无,0,无,0

@@ -1,0 +1,6 @@
+产品网址：http://www.edadoc.com/product/High_Speed
+产品结构：root->提供高速串行信号仿真，PCIE、SATA、SAS、SFP、10G-KR、100G-KR4、56GPAM4112GPAM4等-一博
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|高速串行|无|对 PCIE5、SATA、SAS、SFP28、10GBase-KR、100GBase-KR、56G/112G PAM4 等高速串行信号进行仿真，包括层叠设计、板材选型、基于 S 参数的无源通道评估和基于 Hspice/AMI 模型的有源仿真等流程|

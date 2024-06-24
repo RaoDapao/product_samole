@@ -1,0 +1,33 @@
+产品网址：http://icpc.cn/cms/item/view?table=product&id=93
+产品结构：root->RVS7000i76UVPX主板-北京捷世智通科技股份有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|RVS7000 i7 6U VPX 主板|无|第四代 Intel Core i7 处理器 6U VPX 刀片，系统框图包括 Intel 第四代 Haswell 核心 Core i7 系列处理器、双通道 DDR3 内存、数据面支持 2 路 SERDES 万兆以太网接口和 1 路 PCIe x8 接口、扩展面支持 1 路 PCIe x16 总线可灵活配置成 2 路 PCIe x8、1 路 SRIO x4 R2.1 兼容总线、板载 2.5 寸硬盘接口支持 SATA Gen3 6Gbps、丰富的 I/O 输出接口、支持 USB3.0、支持千兆以太网、支持宽温工作|
+
+
+
+
+处理器,"μFC‐BGA四核Intel®Core™ i7‐4700EQ处理器，2.4/1.7GHz, 6MB三级缓存，功耗47/37W","μFC‐BGA四核Intel®Core™ i7‐4700EQ处理器，2.4/1.7GHz, 6MB三级缓存，功耗47/37W.1"
+BIOS,"AMI ® EFI BIOS, 8MB SPI Flash","AMI ® EFI BIOS, 8MB SPI Flash"
+芯片组,英特尔QM87芯片组,英特尔QM87芯片组
+内存,8GB DDR3‐1600 SDRAM  l通道A板载内存至少4GB  l通道B板载内存至少4GB,8GB DDR3‐1600 SDRAM  l通道A板载内存至少4GB  l通道B板载内存至少4GB
+存储,1x 2.5寸硬盘接口，最高支持SATA III 6Gbps  3x SATA III（后出线）  2路SATAII端口（后出线）,1x 2.5寸硬盘接口，最高支持SATA III 6Gbps  3x SATA III（后出线）  2路SATAII端口（后出线）
+数据面总线,"2x 10GbE, MAUI 接口  1x PCIe x8 接口，该PCIe x8 接口可支持配置成2 组x4","2x 10GbE, MAUI 接口  1x PCIe x8 接口，该PCIe x8 接口可支持配置成2 组x4"
+扩展面总线,1x PCIe x16 扩展总线，支持配置成2 组x8,1x PCIe x16 扩展总线，支持配置成2 组x8
+控制面总线,2x 1000BASET‐T 以太网接口,2x 1000BASET‐T 以太网接口
+显示,1x VGA 至前面板或后出线P3（二选一）  2x DVI 显示接口（后出线）,1x VGA 至前面板或后出线P3（二选一）  2x DVI 显示接口（后出线）
+USB,1x USB3.0 TypeA连接器  2x USB2.0 TypeA连接器  6路USB2.0端口（后出线）  2路USB3.0端口（后出线）,1x USB3.0 TypeA连接器  2x USB2.0 TypeA连接器  6路USB2.0端口（后出线）  2路USB3.0端口（后出线）
+以太网,2x千兆以太网RJ45连接器  2路1000BASE‐T以太网接口（后出线）  1路1000BASE‐T以太网接口（后出线）,2x千兆以太网RJ45连接器  2路1000BASE‐T以太网接口（后出线）  1路1000BASE‐T以太网接口（后出线）
+音频,"后出线音频接口Line‐in,Line‐out， HP‐out","后出线音频接口Line‐in,Line‐out， HP‐out"
+串口,1x串口DB9连接器  2路RS232/485/422串口（后出线）  2路TTL串口（后出线）,1x串口DB9连接器  2路RS232/485/422串口（后出线）  2路TTL串口（后出线）
+开关,1x复位按键,1x复位按键
+指示灯,电源LED，硬盘状态指示灯，WDT指示灯，HW指示灯,电源LED，硬盘状态指示灯，WDT指示灯，HW指示灯
+键盘鼠标,PS/2 接口（后出线）,PS/2 接口（后出线）
+后I/O接口,1 路PCIe x2 端口（后出线）  4 路GPIO 接口，TTL 电平（后出线）,1 路PCIe x2 端口（后出线）  4 路GPIO 接口，TTL 电平（后出线）
+产品尺寸,"6U, 4HP(20.32 mm)  PCB厚度为1.8mm，公差+0.0/‐0.2mm  233.35mm x 160mm (长X宽）  配有P0/P1/P2/P3/P4/P5/P6连接器","6U, 4HP(20.32 mm)  PCB厚度为1.8mm，公差+0.0/‐0.2mm  233.35mm x 160mm (长X宽）  配有P0/P1/P2/P3/P4/P5/P6连接器"
+电源指标,Vs1: +12 VDC  Vs2: +12 VDC  Vs3: +5 VDC  AUX: +3.3VDC,Vs1: +12 VDC  Vs2: +12 VDC  Vs3: +5 VDC  AUX: +3.3VDC
+工作温度,宽温,宽温
+存储温度,‐50 ~ 100℃,‐50 ~ 100℃
+相对湿度,95%非冷凝,95%非冷凝
+操作系统,Microsoft DOS  Microsoft Windows XP系列（含64位版本）  Microsoft Windows ® 7系列（含64位版本）  Microsoft Windows 8系列  Linux 2.6或以上  Wind River VxWorks 6.6或以上,Microsoft DOS  Microsoft Windows XP系列（含64位版本）  Microsoft Windows ® 7系列（含64位版本）  Microsoft Windows 8系列  Linux 2.6或以上  Wind River VxWorks 6.6或以上

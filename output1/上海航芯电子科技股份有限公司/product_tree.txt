@@ -1,0 +1,146 @@
+-> root https://www.aisinochip.com
+  -> 首页 
+    -> 产品介绍 https://www.aisinochip.com/index.php/content/index/id/51.html
+      -> USBKEY芯片 https://www.aisinochip.com/index.php/product/child/id/126/pid/51.html
+        -> ACL16系列_2 https://www.aisinochip.com/index.php/product/show/id/19/catid/126.html
+        -> ACH512系列_2 https://www.aisinochip.com/index.php/product/show/id/24/catid/126.html
+        -> 暂无内容！暂无内容！暂无内容！暂无内容！暂无内容！_1 https://www.aisinochip.com/index.php?m=product&a=show&id=13&catid=126
+          -> USBKEY 芯片 
+          -> 安全认证芯片 
+          -> 大容量存储芯片 
+          -> 车规级安全芯片 
+          -> 通用 MCU 
+      -> 安全认证芯片 https://www.aisinochip.com/index.php/product/child/id/206/pid/51.html
+        -> ACL16_AHM系列_1 https://www.aisinochip.com/index.php/product/show/id/89/catid/206.html
+        -> ACL16_AEC系列_1 https://www.aisinochip.com/index.php/product/show/id/90/catid/206.html
+        -> ACL16_S系列_1 https://www.aisinochip.com/index.php/product/show/id/22/catid/206.html
+        -> ACL16系列_3 https://www.aisinochip.com/index.php/product/show/id/23/catid/206.html
+      -> 大容量存储芯片 https://www.aisinochip.com/index.php/product/child/id/127/pid/51.html
+        -> ACH512系列_3 https://www.aisinochip.com/index.php/product/show/id/20/catid/127.html
+      -> 车规级安全芯片 https://www.aisinochip.com/index.php/product/child/id/226/pid/51.html
+        -> ACL16车规级芯片_1 https://www.aisinochip.com/index.php/product/show/id/56/catid/226.html
+        -> ACL16_S车规级芯片_1 https://www.aisinochip.com/index.php/product/show/id/91/catid/226.html
+      -> 通用MCU_1 https://www.aisinochip.com/index.php/product/mcu/id/216.html
+      -> ACM32车规级MCU_1 http://www.aisinochip.com/index.php/product/child/id/256.html
+        -> 车规级 ACM32A070 
+        -> 车规级 ACM32A403 
+      -> ACM32MCU生态系统_1 http://www.aisinochip.com/index.php/product/child/id/221.html
+        -> 评估开发板 
+        -> 评估开发板 
+        -> 开发工具 
+        -> 开发工具 
+        -> 开发工具 
+        -> 开发工具 
+        -> 开发工具 
+        -> 固件及软件 
+        -> 固件及软件 
+        -> 固件及软件 
+        -> 固件及软件 
+    -> 通用MCU 
+      -> ACM32F0x0 https://www.aisinochip.com/index.php/product/child1/id/217.html
+        -> ACM32F030K8U7_1 https://www.aisinochip.com/index.php/product/detail/id/25.html
+        -> ACM32F030K8T7_1 https://www.aisinochip.com/index.php/product/detail/id/26.html
+        -> ACM32F030C8T7_1 https://www.aisinochip.com/index.php/product/detail/id/27.html
+        -> ACM32F030R8T7_1 https://www.aisinochip.com/index.php/product/detail/id/28.html
+        -> ACM32F070KBU7*_1 https://www.aisinochip.com/index.php/product/detail/id/29.html
+        -> ACM32F070KBU7C*_1 https://www.aisinochip.com/index.php/product/detail/id/30.html
+        -> ACM32F070KBT7*_1 https://www.aisinochip.com/index.php/product/detail/id/31.html
+        -> ACM32F070CBU7C*_1 https://www.aisinochip.com/index.php/product/detail/id/32.html
+        -> ACM32F070CBT7*_1 https://www.aisinochip.com/index.php/product/detail/id/57.html
+        -> ACM32F070RBT7S*_1 https://www.aisinochip.com/index.php/product/detail/id/58.html
+        -> ACM32F070RBT7*_1 https://www.aisinochip.com/index.php/product/detail/id/61.html
+      -> ACM32G1x3 https://www.aisinochip.com/index.php/product/child1/id/218.html
+        -> ACM32G103KBU6*_1 https://www.aisinochip.com/index.php/product/detail/id/38.html
+        -> ACM32G103CBU6*_1 https://www.aisinochip.com/index.php/product/detail/id/39.html
+        -> ACM32G103CBT6*_1 https://www.aisinochip.com/index.php/product/detail/id/40.html
+        -> ACM32G103RBT6*_1 https://www.aisinochip.com/index.php/product/detail/id/41.html
+        -> ACM32G103KCU6*_1 https://www.aisinochip.com/index.php/product/detail/id/42.html
+        -> ACM32G103CCU6*_1 https://www.aisinochip.com/index.php/product/detail/id/43.html
+        -> ACM32G103CCT6*_1 https://www.aisinochip.com/index.php/product/detail/id/62.html
+        -> ACM32G103RCT6S*_1 https://www.aisinochip.com/index.php/product/detail/id/63.html
+        -> ACM32G103RCT6*_1 https://www.aisinochip.com/index.php/product/detail/id/64.html
+        -> ACM32G103VCT6*_1 https://www.aisinochip.com/index.php/product/detail/id/65.html
+      -> ACM32F4x3 https://www.aisinochip.com/index.php/product/child1/id/219.html
+        -> ACM32F403KCU7_1 https://www.aisinochip.com/index.php/product/detail/id/44.html
+        -> ACM32F403CCT7_1 https://www.aisinochip.com/index.php/product/detail/id/45.html
+        -> ACM32F403RCT7_1 https://www.aisinochip.com/index.php/product/detail/id/46.html
+        -> ACM32F403VCT7_1 https://www.aisinochip.com/index.php/product/detail/id/47.html
+        -> ACM32F403KEU7*_1 https://www.aisinochip.com/index.php/product/detail/id/48.html
+        -> ACM32F403CET7*_1 https://www.aisinochip.com/index.php/product/detail/id/49.html
+        -> ACM32F403RET7S*_1 https://www.aisinochip.com/index.php/product/detail/id/50.html
+        -> ACM32F403RET7*_1 https://www.aisinochip.com/index.php/product/detail/id/51.html
+        -> ACM32F403VET7*_1 https://www.aisinochip.com/index.php/product/detail/id/52.html
+        -> ACM32F403VKT7_1 https://www.aisinochip.com/index.php/product/detail/id/80.html
+      -> ACM32FP001 https://www.aisinochip.com/index.php/product/child1/id/224.html
+        -> ACM32FP001RBT7*_1 https://www.aisinochip.com/index.php/product/detail/id/55.html
+      -> ACM32FP40x https://www.aisinochip.com/index.php/product/child1/id/220.html
+        -> ACM32FP401KEU7*_1 https://www.aisinochip.com/index.php/product/detail/id/34.html
+        -> ACM32FP401KGU6*_1 https://www.aisinochip.com/index.php/product/detail/id/35.html
+        -> ACM32FP401KKU6*_1 https://www.aisinochip.com/index.php/product/detail/id/36.html
+        -> ACM32FP402KKU6*_1 https://www.aisinochip.com/index.php/product/detail/id/37.html
+        -> ACM32FP401CKU6_1 https://www.aisinochip.com/index.php/product/detail/id/53.html
+        -> ACM32FP401REU7_1 https://www.aisinochip.com/index.php/product/detail/id/54.html
+        -> ACM32FP401RKU6*_1 https://www.aisinochip.com/index.php/product/detail/id/59.html
+        -> ACM32FP402TEU7*_1 https://www.aisinochip.com/index.php/product/detail/id/60.html
+      -> ACM32FP421 https://www.aisinochip.com/index.php/product/child1/id/270.html
+        -> ACM32FP421FGU6_1 https://www.aisinochip.com/index.php/product/detail/id/85.html
+        -> ACM32FP421KGU6_1 https://www.aisinochip.com/index.php/product/detail/id/86.html
+        -> ACM32FP421FIU6_1 https://www.aisinochip.com/index.php/product/detail/id/87.html
+        -> ACM32FP421KIU6_1 https://www.aisinochip.com/index.php/product/detail/id/88.html
+      -> 车规级ACM32A070 https://www.aisinochip.com/index.php/product/child1/id/254.html
+        -> ACM32A070KBU7_1 https://www.aisinochip.com/index.php/product/detail/id/70.html
+        -> ACM32A070KBT7_1 https://www.aisinochip.com/index.php/product/detail/id/71.html
+        -> ACM32A070CBT7_1 https://www.aisinochip.com/index.php/product/detail/id/72.html
+        -> ACM32A070RBT7S_1 https://www.aisinochip.com/index.php/product/detail/id/73.html
+        -> ACM32A070RBT7_1 https://www.aisinochip.com/index.php/product/detail/id/74.html
+      -> 车规级ACM32A403 https://www.aisinochip.com/index.php/product/child1/id/255.html
+        -> ACM32A403KEU7_1 https://www.aisinochip.com/index.php/product/detail/id/75.html
+        -> ACM32A403CET7_1 https://www.aisinochip.com/index.php/product/detail/id/76.html
+        -> ACM32A403RET7S_1 https://www.aisinochip.com/index.php/product/detail/id/77.html
+        -> ACM32A403RET7_1 https://www.aisinochip.com/index.php/product/detail/id/78.html
+        -> ACM32A403VET7_1 https://www.aisinochip.com/index.php/product/detail/id/79.html
+    -> 开发评估板 
+      -> 开发工具 
+        -> 中间件、爱好者应用项目 
+          -> 第三方技术社区 
+            -> 开发板&样片&调试器购买_1 https://www.aisinochip.com/index.php/product/child/id/257/pid/51.html
+              -> MCU 生态系统 
+      -> 技术分享 
+    -> 电机控制方案 
+        -> 安全通讯模块 
+        -> 设备认证安全 
+        -> 智能设备防盗版解决方案 
+        -> V2X 安全认证方案 
+        -> ETC 方案 
+        -> T-BOX 方案 
+        -> 指纹模块 
+        -> 指纹 U 盘/指纹 Key 
+        -> 单芯片安全指纹门锁 
+        -> 一代 KEY 
+        -> 二代 KEY 
+        -> 音频 KEY 
+        -> 蓝牙 KEY 
+        -> 高速 KEY 
+        -> 电机控制方案 
+        -> 旋钮温控器方案 
+        -> BMS 方案 
+        -> 智能电动牙刷方案 
+        -> 热敏打印机方案 
+        -> 全自动咖啡机设计方案 
+        -> 激光测距仪应用 
+        -> 工业通用变频器应用 
+        -> 智能断路器应用 
+        -> BMS 电池管理应用 
+        -> 电动滑板车应用 
+        -> 冰箱压缩机变频方案 
+        -> 分体式水控应用 
+        -> 两轮车充电桩方案 
+        -> LED 灯箱控制器方案 
+        -> 胎压监测仪方案 
+        -> 编程直流电源应用 
+        -> TF/SD 卡方案 
+        -> 加密 U 盘/硬盘方案 
+        -> 互联网支付终端方案 
+        -> MPOS 方案 
+        -> 密码键盘方案 
+  -> 上海航芯电子科技股份有限公司 https://www.aisinochip.com/index.php/product/child.html

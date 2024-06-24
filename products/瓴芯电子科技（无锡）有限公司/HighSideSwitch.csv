@@ -1,0 +1,14 @@
+产品网址：https://www.len-technology.com/en/products/high-side-driver-chip
+产品结构：root->HighSideSwitch
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|High Side Switch|无|Can drive various types of loads, including inductive, capacitive, and resistive.|
+
+Orderable PN,Vin Min (V),Vin Max (V),Channels,Rdson (mohm),Iout (A),Iout limit (A),Fault,Current Sense,Package,Product grade,Operating junction temperature,Functional safety supported,Status
+LNS37100BQ1TSR,4,36,1,100,4.0,"Adj, 7(Max)",Yes,Yes,TSSOP-EP14,Automotive,-40 to 150,Functional Safety Supported,RTM
+LNS37100AQ1AJR,4,36,1,100,4.0,"Adj, 7(Max)",Yes,No,TSSOP-EP14,Automotive,-40 to 150,Functional Safety Supported,RTM
+LNQ37160BQ1TSR,4,40,4,160,2.5,"Adj, 5(Max)",Yes,Yes,TSSOP-EP28,Automotive,-40 to 150,Functional Safety Supported,RTM
+LNQ37160AQ1TSR,4,40,4,160,2.5,"Adj, 5(Max)",Yes,No,TSSOP-EP28,Automotive,-40 to 150,Functional Safety Supported,RTM
+LNQ37000BQ1ALR,4,40,4,1000,0.75,"Adj, 1(Max)",Yes,Yes,TSSOP-EP20,Automotive,-40 to 150,Functional Safety Supported,RTM
+LNQ37000AQ1ALR,4,40,4,1000,0.75,"Adj, 1(Max)",Yes,No,TSSOP-EP20,Automotive,-40 to 150,Functional Safety Supported,RTM

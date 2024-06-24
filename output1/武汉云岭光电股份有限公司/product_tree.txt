@@ -1,0 +1,89 @@
+-> root https://www.eliteoptronics.com
+  -> 光芯片Chip产品-武汉云岭光电股份有限公司 http://www.eliteoptronics.com/opticalChipProducts/index.htm
+    -> 1310nm 2.5G FP chip 
+    -> 1310nm 10G FP chip 
+    -> 1270nm 2.5G DFB chip 
+    -> 1310nm 2.5G DFB Chip 
+    -> 1490nm 2.5G DFB chip 
+    -> 1310nm 10G DFB chip 
+    -> 10G BiDi 1270/1330nm DFB chip 
+    -> 10G CWDM 1271/1291/1311/1331/1351/1371nm DFB chip 
+    -> 10G CWDM 1471/1491/1511/1531/1551/1571nm DFB chip 
+    -> 1310nm 25G DFB chip 
+    -> 25G BiDi 1270/1330nm DFB chip 
+    -> 25G CWDM4 DFB Chip 
+    -> 1550nm 10G EML chip 
+    -> 1310nm 25G EML chip 
+    -> 2.5G PIN PD chip 
+    -> 10G PIN PD chip 
+    -> 25G PIN PD chip 
+    -> 4*25G PIN PD chip 
+    -> 50G PIN PD Chip 
+  -> 封装TO-CAN产品-武汉云岭光电股份有限公司 http://www.eliteoptronics.com/packagingTocanProducts/index.htm
+  -> 电芯片产品-武汉云岭光电股份有限公司 http://www.eliteoptronics.com/electricChipProducts/index.htm
+  -> 产品中心-武汉云岭光电股份有限公司 http://www.eliteoptronics.com/Product/index.htm
+    -> 2.5G 1310nm FP TO-CAN 
+    -> 2.5G 1270nm DFB TO-CAN 
+    -> 2.5G 1310nm DFB TO-CAN 
+    -> 2.5G 1490nm DFB TO-CAN 
+    -> 10G 1310nm FP TO-CAN 
+    -> 10G 1270nm DFB TO-CAN 
+    -> 10G 1310nm DFB TO-CAN 
+    -> 10G BiDi 1270/1330nm DFB TO-CAN 
+    -> 10G CWDM 1271/1291/1311/1331/1351/1371nm DFB TO-CAN 
+    -> 10G CWDM 1471/1491/1511/1531/1551/1571nm DFB TO-CAN 
+    -> 25G 1310nm EML TO-CAN 
+    -> 25G 1310nm DFB TO-CAN 
+    -> 25G BIDI 1270/1330nm DFB TO-CAN 
+    -> CWDM 25G 1271/1291/1311/1331/1351/1371nm DFB TO-CAN 
+    -> 2.5G PIN-TIA TO-CAN 
+    -> 2.5G Super TIA PD TO-CAN 
+    -> 10G PIN-TIA TO-CAN 
+    -> 25G PIN-TIA TO-CAN 
+    -> 10G Burst Transimpedance Amplifier 
+    -> 10G Clock Data Recovery 
+    -> 10G LD Driver 
+  -> 封装TO-CAN产品-武汉云岭光电股份有限公司_1 http://www.eliteoptronics.com/toCanLaser/index.htm
+    -> Laser 
+    -> Laser 
+    -> Laser 
+    -> Laser 
+    -> Laser 
+    -> Laser 
+    -> Laser 
+    -> Laser 
+    -> Laser 
+    -> Laser 
+    -> Laser 
+    -> Laser 
+    -> Laser 
+    -> Laser 
+  -> 封装TO-CAN产品-武汉云岭光电股份有限公司_2 http://www.eliteoptronics.com/toCanDetector/index.htm
+    -> Detector 
+    -> Detector 
+    -> Detector 
+    -> Detector 
+  -> 电芯片产品-武汉云岭光电股份有限公司_1 http://www.eliteoptronics.com/TransimpedanceAmplifiers/index.htm
+  -> 电芯片产品-武汉云岭光电股份有限公司_2 http://www.eliteoptronics.com/ClockDataRecovery/index.htm
+  -> 电芯片产品-武汉云岭光电股份有限公司_3 http://www.eliteoptronics.com/LDDriver/index.htm
+  -> PackageTO-CANProducts-WuhanEliteOptronicsCo.,Ltd http://en.eliteoptronics.com/packagingTocanProducts/index.htm
+    -> Package TO-CAN Products 
+    -> Package TO-CAN Products 
+    -> Package TO-CAN Products 
+    -> Package TO-CAN Products 
+    -> Package TO-CAN Products 
+    -> Package TO-CAN Products 
+    -> Package TO-CAN Products 
+    -> Package TO-CAN Products 
+    -> Package TO-CAN Products 
+    -> Package TO-CAN Products 
+    -> Package TO-CAN Products 
+    -> Package TO-CAN Products 
+    -> Package TO-CAN Products 
+    -> Package TO-CAN Products 
+    -> Package TO-CAN Products 
+    -> Package TO-CAN Products 
+    -> Package TO-CAN Products 
+    -> Package TO-CAN Products 
+  -> Products-WuhanEliteOptronicsCo.,Ltd http://en.eliteoptronics.com/Product/index.htm
+  -> OpticalChipProducts-WuhanEliteOptronicsCo.,Ltd http://en.eliteoptronics.com/chipDetector/index.htm

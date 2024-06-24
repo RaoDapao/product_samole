@@ -1,0 +1,87 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=100&ncid=102&deid=167
+产品结构：root->Huahuan_Products_NetworkManagementSystem_H9MO-LMFEmini-MSTP
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|H9MO-LMFE mini-MSTP|H9MO-LMFE|是一款运营商级、高性价比、紧凑（仅 1U 高）的 STM-1/STM-4/STM-16 SDH/MSPP 平台，专为城域和接入网络中的应用而设计，便于服务提供商高效传输传统 TDM 和新兴数据流量。它是一款基于卡的紧凑型 SDH 设备，主要设计为核心 SDH 网络和多个远程 CPE 盒之间的网关节点，也可作为典型环网或网状网络中的多业务 SDH ADM 节点。1U 高 19 英寸宽的机箱有 8 个插槽，其中 2 个插槽用于 DC（1+1）/AC 电源，1 个插槽用于网络管理卡，1 个插槽用于 STM-1/STM-4/STM-16 上行链路，4 个插槽用于服务（STM-1、以太网、E1、E3/DS3、V.35 等）。支持多种 SDH 网络功能，如 1+1 MSP、SNCP 保护，管理通道可为 DCC/E1/VC12，支持高达 STM-16，内置 E1 BERT 测试，内部时钟/外部时钟/线路时钟/时钟保持，以太网服务支持 GFP 封装、VC12 虚拟级联和 LCAS、PVLAN、802.1Q VLAN 和 QinQ，大交叉连接矩阵容量，支持高达 46*VC-4 的 VC-4 级全交叉连接和 24*VC-4 的 VC-12 或 VC-3 级全交叉连接，64 个远程站点的以太网通过 8*E1 聚合，252 个远程站点的以太网通过 1*E1 聚合，64 个以太网通过 SDH 聚合。支持不同端口的以下服务：STM-1o/STM-1e/STM-4/STM-16、GE/FE（光和电）、E1/V.35/E3/DS3。由聚合卡和支路业务卡组成，有 8 个插槽，包括 2 个热备用电源卡插槽、1 个管理卡插槽、1 个 SDH 交叉连接卡插槽和 4 个支路卡插槽。|
+
+Cross-connection Capacity,High Order: 46*46 VC4s  Low Order: 1512*1512 VC12s
+Cross-connection mode,"bidirectional, unidirectional, multicast/broadcast and loopback"
+
+
+Index,Index.1,Index.2,Performance Parameter
+SDH/PDH Interface,Max,STM-1,2 aggregation + 8 tributary STM-1 optical interfaces (Can be SFP)
+SDH/PDH Interface,Max,STM-4,"2 aggregation STM-4 interface,, SFP"
+SDH/PDH Interface,Max,STM-16,"2 aggregation STM-16 interface, SFP"
+SDH/PDH Interface,Connector,Connector,SC/PC or FC/PC or SFP
+SDH/PDH Interface,Spec.,Spec.,"S-1.1, S1.2, L-1.1, L-1.2, S4.1, S4.2, L4.1, L4.2, S16.1, S16.2, L16.1, L16.2"
+SDH/PDH Interface,Spec.,Spec.,Single fiber bi-directional interface can be optionally supported
+Service Card,PWR01,PWR01,"DC-48V power card, 1+1 backup"
+Service Card,PWR02A,PWR02A,Power Card ~220V AC
+Service Card,PWR02B,PWR02B,Power Card ~110V AC
+Service Card,NM02,NM02,Network Management Card
+Service Card,OX01A,OX01A,Dual STM-1 aggregation optical card
+Service Card,OX01Q,OX01Q,Four STM-1 aggregation optical card
+Service Card,OX01S,OX01S,Dual STM-1 aggregation optical card (SFP)
+Service Card,OX04A,OX04A,Dual STM-4 aggregation optical card (SFP)
+Service Card,OX16A,OX16A,Dual STM-16 aggregation optical card (SFP)
+Service Card,EX01,EX01,Dual STM-1 aggregation electrical card
+Service Card,OS01,OS01,"Dual STM-1 tributary optical card, SC or FC"
+Service Card,OS01S,OS01S,"Dual STM-1 tributary optical card, SFP"
+Service Card,OS02,OS02,2 Ethernet +Dual STM-1 tributary optical card
+Service Card,OS02A,OS02A,2 Separate Ethernet +Dual STM-1 tributary optical card
+Service Card,OS03,OS03,1 Ethernet +Single STM-1 tributary optical card
+Service Card,OS04A,OS04A,Dual STM-4 tributary optical card
+Service Card,OP02,OP02,2×E1+1×V.35 PDH card
+Service Card,OP03,OP03,2×E1+1×100Base-Tx PDH card
+Service Card,OP05,OP05,4×E1+1×100Base-Tx PDH card
+Service Card,OP06,OP06,4×E1 PDH card
+Service Card,EP01,EP01,"24×E1 (75  W  or 120  W  RJ45, occupies 2 slots)"
+Service Card,EP01A,EP01A,"24×E1 (120  W  , DB60)"
+Service Card,EP03,EP03,12×E1 (75  W  or 120  W  RJ45)
+Service Card,EP03A,EP03A,"12×E1 (120  W  , DB60)"
+Service Card,EP02,EP02,1×E3/DS3
+Service Card,FE01,FE01,4 FE over 4 VCG trunks (EoS)
+Service Card,FE02,FE02,"4 Fx over 4 VCG trunks (EoS), SFP"
+Service Card,FE04,FE04,4 FE over 1~16E1 (EoE)
+Service Card,FE05,FE05,"4 Fx over 1~16E1 (EoE), SFP"
+Service Card,FE06,FE06,"Ethernet aggregation, EOS, aggregation ratio: 8:2, dual FE ports"
+Service Card,FE06A,FE06A,"Ethernet aggregation, EOS, aggregation ratio: 4:1, single FE port"
+Service Card,FE07,FE07,"EOE, Ethernet aggregation, aggregation ratio: 8:2, dual FE ports"
+Service Card,GX01A,GX01A,"EOS, Ethernet aggregation, aggregation ratio: 8:1, single GE electrical or optical port"
+Service Card,GX02A,GX02A,"EOE, Ethernet aggregation, aggregation ratio: 8:1, single GE electrical or optical port"
+Service Card,GX05,GX05,"EOS, Ethernet aggregation, aggregation ratio: 16:1, dual GE electrical or optical port"
+Service Card,GX06,GX06,"EOE, Ethernet aggregation, aggregation ratio: 16:1, dual GE electrical or optical port"
+Service Card,GXS06,GXS06,"Standard EOE, Ethernet aggregation, aggregation ratio: 16:1, dual GE electrical or optical port"
+Service Card,EA05,EA05,"EOS, Ethernet aggregation, aggregation ratio: 16:1, no outer Ethernet port"
+Service Card,EA06,EA06,"EOE, Ethernet aggregation, aggregation ratio: 16:1, no outer Ethernet port"
+Service Card,EAS06,EAS06,"Standard EOE, Ethernet aggregation, aggregation ratio: 16:1, no outer Ethernet port"
+Service Card,GE01,GE01,2 GE Opitcal/Electrical port over 2 VCGs Trunk (VC-4 Level)
+Service Card,ED01,ED01,2×V.35 Card (framed or unframed)
+Service Card,DX01,DX01,VC-4/VC-3/VC-12 level cross connection
+Service Card,DX02,DX02,"Full 64E1 DS0 cross connection (2048×2048,64K)"
+Service Card,LA01,LA01,Order wire and external clock card
+PDH interface,Max E1,Max E1,72 E1s
+PDH interface,Max E3/DS3,Max E3/DS3,4 E3/DS3
+Ethernet,Interface,Interface,"10/100Base-Tx or 100Base-Tx, Comply with IEEE 802.3"
+Ethernet,Max FE Interface,Max FE Interface,16 FE ports (14 FE01 or FE02 cards support)
+Ethernet,Encapsulation,Encapsulation,"Comply with ITU-T G.7041 (VCAT, GFP, LCAS)"
+V.35,Max Interface,Max Interface,8 V.35 interfaces (framed or unframed) DCE/DTE
+Cross-connect Capacity,Uplink STM-1,Uplink STM-1,High order 12×12 VC-4s  Low order 756×756 VC12s
+Cross-connect Capacity,Uplink STM-4,Uplink STM-4,High order 16×16 VC-4s  Low order 1008×1008 VC-12s
+Cross-connect Capacity,Uplink STM-16,Uplink STM-16,High order 46×46 VC-4s  Low order 1512×1512 VC-12s
+Management,Interface,Interface,10/100 Base-T (can be cascaded)
+EOW interface,EOW interface,EOW interface,Standard socket RJ11
+Physical Dimension(H/D/W),Physical Dimension(H/D/W),Physical Dimension(H/D/W),1U: 440 × 44 ×280 (mm)
+Power,Supply,Supply,-48V DC / 220V AC
+Power,Consumption,Consumption,≤40W
+Environment,Temperature,Temperature,0°C~50°C
+Environment,Humidity,Humidity,≤90 %(non-condensing)
+Weight (full-load),Weight (full-load),Weight (full-load),≤3.5KG
+
+
+Items,Standards and Protocols
+SDH Interface,"ITU-T G.957, G.707"
+E1 port,"ITU-T G.703  , G.704"
+Clock port,ITU-T  G.823
+Ethernet port,IEEE 802  G.7041/G.704 2/G.7043 and G.8040

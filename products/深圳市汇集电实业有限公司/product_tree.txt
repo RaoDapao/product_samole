@@ -1,0 +1,43 @@
+-> root http://www.huitronic.com
+  -> 保险丝--联系我们果博东方公司客服电话1 http://www.huitronic.com/product.php
+    -> 电容 
+    -> 沟槽工艺肖特基 
+    -> 场效应 MOS 管 
+    -> AEM 可恢复式保险丝 
+    -> AEM 薄膜贴片保险丝 
+    -> 10D 系列压敏电阻 
+    -> SMD0805 
+    -> SMD0603（0603） 
+  -> 保险丝--联系我们果博东方公司客服电话1_1 http://www.huitronic.com/product.php?lm=54
+    -> 保险丝 
+    -> 保险丝 
+  -> MOS管--联系我们果博东方公司客服电话 http://www.huitronic.com/product.php?lm=55
+  -> 静电保护器--联系我们果博东方公司客服电 http://www.huitronic.com/product.php?lm=56
+  -> 电源管理IC--联系我们果博东方公司客服 http://www.huitronic.com/product.php?lm=58
+  -> 二极管--联系我们果博东方公司客服电话1 http://www.huitronic.com/product.php?lm=59
+  -> 电容--联系我们果博东方公司客服电话19 http://www.huitronic.com/product.php?lm=57
+  -> 压敏电阻--联系我们果博东方公司客服电话 http://www.huitronic.com/product.php?lm=60
+  -> 产品应用--联系我们果博东方公司客服电话 http://www.huitronic.com/application.php
+  -> 电容--联系我们果博东方公司客服电话19_1 http://www.huitronic.com/product_show.php?id=181
+  -> 沟槽工艺肖特基--联系我们果博东方公司客 http://www.huitronic.com/product_show.php?id=180
+  -> 场效应MOS管--联系我们果博东方公司客 http://www.huitronic.com/product_show.php?id=179
+  -> AEM可恢复式保险丝--联系我们果博东方 http://www.huitronic.com/product_show.php?id=178
+  -> AEM薄膜贴片保险丝--联系我们果博东方 http://www.huitronic.com/product_show.php?id=177
+  -> 10D系列压敏电阻--联系我们果博东方公 http://www.huitronic.com/product_show.php?id=176
+  -> SMD0805--联系我们果博东方公司客 http://www.huitronic.com/product_show.php?id=172
+  -> SMD0603(0603)--联系我们果 http://www.huitronic.com/product_show.php?id=170
+  -> AEM车用系列保险丝--联系我们果博东方 http://www.huitronic.com/product_show.php?id=169
+  -> AEM叠层贴片保险丝--联系我们果博东方 http://www.huitronic.com/product_show.php?id=168
+  -> AEM静电抑制器--联系我们果博东方公司 http://www.huitronic.com/product_show.php?id=163
+  -> 车载充电DC-DC转换器--联系我们果博 http://www.huitronic.com/product_show.php?id=164
+  -> Fuse--联系我们果博东方公司客服电话 http://www.huitronic.com/en/product.php
+    -> Fuse 
+    -> Varistor 
+    -> SMD 
+  -> Fuse--联系我们果博东方公司客服电话_1 http://www.huitronic.com/en/product.php?lm=54
+  -> MOStransistor--联系我们果 http://www.huitronic.com/en/product.php?lm=55
+  -> Electrostaticprotect http://www.huitronic.com/en/product.php?lm=56
+  -> PowermanagementIC--联 http://www.huitronic.com/en/product.php?lm=58
+  -> Diode--联系我们果博东方公司客服电 http://www.huitronic.com/en/product.php?lm=59
+  -> Capacitance--联系我们果博东 http://www.huitronic.com/en/product.php?lm=57
+  -> Varistor--联系我们果博东方公司 http://www.huitronic.com/en/product.php?lm=60

@@ -1,0 +1,8 @@
+产品网址：https://www.sensylink.com/html/web//product/reguanlixinpian/tongyongfengshanguanlixinpian/index.html
+产品结构：首页->产品中心->热管理芯片->通用风扇管理芯片
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|通用风扇管理芯片|CTF2301|温度、电压和风扇转速数据可通过 SMBus/I2C 总线接口直接读取，集成内部闭环风扇控制策略|
+|通用风扇管理芯片|CTF2304|温度、电压和风扇转速数据可通过 SMBus/I2C 总线接口直接读取，集成内部闭环风扇控制策略|
+|通用风扇管理芯片|CT80|温度、电压和风扇转速数据可通过 SMBus/I2C 总线接口直接读取，集成内部闭环风扇控制策略|

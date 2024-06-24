@@ -1,0 +1,9 @@
+-> root https://szdtwcw.com
+  -> 深圳电通纬创微电子股份有限公司 https://szdtwcw.com/pl.jsp
+    -> SOP/ESOP 系列 
+    -> SSOP 系列 
+    -> MSOP 系列 
+    -> DFN/QFN 系列 
+    -> SOT 系列 
+    -> TSOT 系列 
+    -> TSSOP 系列 

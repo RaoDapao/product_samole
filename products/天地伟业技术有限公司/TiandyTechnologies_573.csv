@@ -1,0 +1,9 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/875.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Network Camera|TC-A52A2|1/2.8 英寸 200 万像素 CMOS 传感器；照度：彩色：0.0002Lux（AGC ON@F1.6），黑白：0.0001Lux（AGC ON@F1.6）；支持三流，主流最高分辨率为 1080P@25fps（系统）；支持智能分析：跑步、徘徊、热图、人群聚集、人数统计（垂直、绊线、区域、队列）、视频诊断、双绊线、停车、丢失物品、遗留物品、虚拟 8；支持音频 1 输入 1 输出，报警 2 输入 2 输出，1 通道 RS485，RTC，支持 TF 卡（最大 512G），内置 MIC，硬复位；支持网络协议：IPv4、IPv6、IGMP、ICMP、ARP、TCP/IP、UDP、DHCP、PPPoE、RTSP、RTCP、DNS、DDNS、NTP、FTP、UPnP、HTTP、HTTPS、802.1x、SNMP、QoS、RTMP（推流）；RTP、SMTP；支持智能监控和人脸捕获的双模切换；人脸捕获：支持年龄、性别、口罩、眼镜；支持未戴口罩报警；单屏人脸检测和捕获数量：16、8；DC12V±25%电源，支持 POE 供电；工作温度和湿度：-35°C~65°C，湿度小于 95%（无冷凝）；焦点检测、音频异常、值后检测|
+
+Date,Title,Type
+2023-10-16,TC-A52A2 Spec 2 E V4.0 Box Camera,pdf

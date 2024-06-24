@@ -1,0 +1,4 @@
+-> root http://gwic.com.cn
+  -> 首页 
+    -> 产品中心 
+      -> 探测器 http://gwic.com.cn/detector.html

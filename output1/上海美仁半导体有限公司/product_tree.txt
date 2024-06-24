@@ -1,0 +1,14 @@
+-> root https://www.mrsemicn.com
+    -> 触控 MCU 
+    -> 主控 MCU 
+    -> 变频 MCU 
+    -> IOT 芯片 
+  -> 空调方案-上海美仁半导体有限公司 https://www.mrsemicn.com/productinfo/513033.html
+    -> MCU 
+    -> 功率芯片 
+    -> 电源芯片 
+  -> 洗衣机方案-上海美仁半导体有限公司 https://www.mrsemicn.com/productinfo/513036.html
+  -> 冰箱方案-上海美仁半导体有限公司 https://www.mrsemicn.com/productinfo/513032.html
+  -> 微波炉方案-上海美仁半导体有限公司 https://www.mrsemicn.com/productinfo/513035.html
+  -> 产品分类结果页_1 https://www.mrsemicn.com/ProductInfoCategory?categoryId=515414
+  -> 冰箱方案-上海美仁半导体有限公司_1 https://www.mrsemicn.com/productinfo/513032.html?templateId=1133605

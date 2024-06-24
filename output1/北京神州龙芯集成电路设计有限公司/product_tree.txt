@@ -1,0 +1,13 @@
+-> root http://china-cpu.com
+  -> 首页 
+      -> 网站首页 https://www.china-cpu.com/product-35-0-0.html
+        -> GSC3290 多串口联网服务器开发板 
+        -> GSC3290 开发板 
+        -> GSC3280 多串口服务器开发板 
+        -> GSC3280 开发板 
+        -> 工业互联网通用网关 
+        -> SZLX8025 嵌入式模块 
+        -> SZLX9020 嵌入式模块 
+        -> SZLX8020 嵌入式模块 
+        -> SZLX8015 嵌入式模块 
+  -> 招贤纳士-产品研发部岗位招聘-北京神州龙 https://www.china-cpu.com/job-101-0-118.html

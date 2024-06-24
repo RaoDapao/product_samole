@@ -1,0 +1,6 @@
+产品网址：https://en.aimicron.com/Products/34
+产品结构：root->AIM935-慷智集成电路（上海）有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|INTELLIGENT AUTOMOTIVE HIGH-DEFINITION AUDIO AND VIDEO TRANSMISSION SERDES CHIPSETS|AIM935|支持 MIPI CSI-2 1,2,4 D-PHY 数据通道收发器，单链路数据速率高达 5 Gbps；AHDL-II 单通道串行输出；支持 1MP/2MP/5MP/8MP，30fps/60fps 分辨率；能够通过单根同轴电缆或屏蔽双绞线（STP）传输高速视频、双向控制数据和电源；具有强大的 EMI/EMC 耐受性和最小功耗；能够进行长距离传输；多个 GPIO，支持向摄像机输出帧同步；视频/控制数据的错误检测/纠正（ECC/CRC）；符合功能安全/ISO26262 ASIL-B 标准；内置系统诊断的自测试（BIST）；1.8V 和 1.2V 电源，IO 支持 1.8V 和 3.3V；AEC-Q100 2 级认证和 ESD 保护；32 引脚（5mm*5mm）QFN 封装|

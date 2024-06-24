@@ -1,0 +1,61 @@
+-> root http://www.dalianrijia.com
+  -> 产品中心_产品中心_大连日佳电子有限公司 http://www.dalianrijia.com/product/5
+    -> 智能柔性装联设备 
+    -> 东京日磁植物工厂 
+    -> 智能仓库 
+    -> 智能制造管理系统看板 
+    -> 智能制造管理系统 
+    -> 智能组装机器人 
+  -> 智能柔性装联设备_产品中心_大连日佳电子 http://www.dalianrijia.com/product/11
+  -> IAMES_产品中心_大连日佳电子有限公 http://www.dalianrijia.com/product/12
+  -> 其他产品_产品中心_大连日佳电子有限公司 http://www.dalianrijia.com/product/8
+  -> EMS加工_产品中心_大连日佳电子有限公 http://www.dalianrijia.com/product/6
+    -> 工业计费终端 
+    -> 车载无线终端 
+    -> PCBA 工业电路板 
+    -> PCBA 车载娱乐电路板 
+    -> PCBA 轨道交通电路板 
+    -> PCBA 医疗电路板 
+  -> 轨道交通产品_产品中心_大连日佳电子有限 http://www.dalianrijia.com/product/9
+    -> 轨道交通产品-运行灯 
+    -> 轨道交通产品-司机室顶灯 
+    -> 轨道交通产品-吸顶灯 
+    -> 轨道交通产品-棚下灯 
+    -> 轨道交通产品-导光板吸顶灯 
+  -> 植物照明产品_产品中心_大连日佳电子有限 http://www.dalianrijia.com/product/10
+    -> 潍坊寒亭区农业综合示范区植物工厂 
+    -> 北京房县首城农业田园综合体 
+    -> 其他产品-工业照明 
+    -> 植物灯照明产品 
+  -> 东京日磁植物工厂_大连日佳电子有限公司 http://www.dalianrijia.com/product/38.html
+  -> 智能柔性装联设备-检查_大连日佳电子有限 http://www.dalianrijia.com/product/55.html
+  -> 智能仓库_大连日佳电子有限公司 http://www.dalianrijia.com/product/52.html
+  -> 智能柔性装联设备-切割_大连日佳电子有限 http://www.dalianrijia.com/product/59.html
+  -> 智能柔性装联设备-炉前检查_大连日佳电子 http://www.dalianrijia.com/product/58.html
+  -> 智能柔性装联设备-插件_大连日佳电子有限 http://www.dalianrijia.com/product/57.html
+  -> 智能柔性装联设备-焊接_大连日佳电子有限 http://www.dalianrijia.com/product/56.html
+  -> 智能柔性装联设备-组装_大连日佳电子有限 http://www.dalianrijia.com/product/54.html
+  -> 智能制造管理系统看板_大连日佳电子有限公 http://www.dalianrijia.com/product/53.html
+  -> 智能制造管理系统_大连日佳电子有限公司 http://www.dalianrijia.com/product/51.html
+  -> 智能组装机器人_大连日佳电子有限公司 http://www.dalianrijia.com/product/50.html
+  -> 智能柔性装联设备-喷涂_大连日佳电子有限 http://www.dalianrijia.com/product/48.html
+  -> 智能光学检测机器人_大连日佳电子有限公司 http://www.dalianrijia.com/product/47.html
+  -> 自主研发-IC分装检查机_大连日佳电子有 http://www.dalianrijia.com/product/44.html
+  -> 智能柔性机械手插件机_大连日佳电子有限公 http://www.dalianrijia.com/product/28.html
+  -> V-MAN画像检测_大连日佳电子有限公司 http://www.dalianrijia.com/product/25.html
+  -> 车载电子-智能灯管_大连日佳电子有限公司 http://www.dalianrijia.com/product/19.html
+  -> 工业计费终端_大连日佳电子有限公司 http://www.dalianrijia.com/product/41.html
+  -> 车载无线终端_大连日佳电子有限公司 http://www.dalianrijia.com/product/40.html
+  -> PCBA工业电路板_大连日佳电子有限公司 http://www.dalianrijia.com/product/35.html
+  -> PCBA车载娱乐电路板_大连日佳电子有限 http://www.dalianrijia.com/product/33.html
+  -> PCBA轨道交通电路板_大连日佳电子有限 http://www.dalianrijia.com/product/34.html
+  -> PCBA医疗电路板_大连日佳电子有限公司 http://www.dalianrijia.com/product/32.html
+  -> 轨道交通产品-运行灯_大连日佳电子有限公 http://www.dalianrijia.com/product/24.html
+  -> 轨道交通产品-司机室顶灯_大连日佳电子有 http://www.dalianrijia.com/product/22.html
+  -> 轨道交通产品-吸顶灯_大连日佳电子有限公 http://www.dalianrijia.com/product/23.html
+  -> 轨道交通产品-棚下灯_大连日佳电子有限公 http://www.dalianrijia.com/product/21.html
+  -> 轨道交通产品-导光板吸顶灯_大连日佳电子 http://www.dalianrijia.com/product/20.html
+  -> 潍坊寒亭区农业综合示范区植物工厂_大连日 http://www.dalianrijia.com/product/39.html
+  -> 北京房县首城农业田园综合体_大连日佳电子 http://www.dalianrijia.com/product/37.html
+  -> 其他产品-工业照明_大连日佳电子有限公司 http://www.dalianrijia.com/product/29.html
+  -> 植物灯照明产品_大连日佳电子有限公司 http://www.dalianrijia.com/product/30.html

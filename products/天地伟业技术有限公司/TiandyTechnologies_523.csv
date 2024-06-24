@@ -1,0 +1,81 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/879.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|WiFi|TC-H334S|Metal+plastic housing，S+265/H.265/H.264B/H.264M/H.264H，Color:0.02Lux@(F1.6,AGC ON),B/W:0Lux with IR，IR Range 50m，Built-in Mic, Built-in Speaker，Support microSD/microSDHC/microSDXC card, up to 512 GB，Support Smart surveillance，Operating Conditions -30℃~60℃(No turning on the light), Humidity 95% or less (no condensation)，DC12V±25%,MAX 12W，IP66|
+
+Camera,Unnamed: 1
+Image Sensor,"1/2.8""CMOS"
+Min. Illumination,"Color:0.02Lux@(F1.6,AGC ON),B/W:0Lux with IR"
+Shutter Time,1s~1/100000s
+Day&Night,IR-cut filter with auto switch (ICR)
+WDR,DWDR
+S/N,>38dB
+Angle Adjustment,0~340°(P); 15~110°
+Lens,
+Lens Type,Fixed focal lens
+Focal Length,4mm
+Lens Mount,M12
+Aperture Range,F1.6
+Field of View,87.7°(H); 46.7°(V); 98.6°(D)
+DORI Distance,Detect:65.3m Observe:25.9m Recognize:13.1m Identify:6.5m
+Illuminator,
+IR LEDs,2
+IR Distance,50m
+Wavelength,850nm
+White LEDs,2
+Whitelight Distance,15m
+Compression Standard,
+Video Compression,S+265/H.265/H.264B/H.264M/H.264H
+Video Bit Rate,32k~4Mbps
+Audio Compression,G.711A/G.711U
+Audio Sampling Rate,8kHz/16kHz
+Image,
+Max. Resolution,2304×1296@25fps
+Main Stream,"PAL:25fps(2304×1296, 1920×1080, 1280×720, 704×576, 640×480) NTSC:24fps(2304×1296), 30fps(1920×1080, 1280×720, 704×480, 640×480)"
+Sub Stream,"PAL:25fps(704×576, 704×288, 352×288, 640×360) NTSC:30fps(704×480, 704×240, 352×240, 640×360)"
+BLC,Yes
+HLC,Yes
+AGC,Yes
+3D DNR,Yes
+White Balance,Auto/Semi-Auto/Manual/Sunshine/Nature Light/Warmlight Lamp/Daylight Lamp/Filament Lamp/Lock White Balance
+OSD,"Overlay of additional characters in 1 regions, 1 line, with a maximum of 48 characters or 16 Chinese characters per region; 16*16/32*32"
+Privacy Mask,4 black static areas
+Defog,Yes
+Feature,
+Alarm Trigger,Voltage Alarm; Disk Full; Disk R/W Error; IP Address Conflict
+Linkage Method,trigger sound; trigger warmlight; trigger recording; trigger capture; notify surveillance center
+Auto-Tracking,Auto-Tracking
+Network,
+ANR,Yes
+Protocols,HTTP; TCP/IP; UDP; ICMP; DHCP; DNS; NTP; IPv4; Telnet; Unicast; RTSP; FTP
+System Compatibility,ONVIF Profile S/T/G; CGI; Milestone
+Remote Connection,≤2
+Client,Easy7 Smart Client
+Moblie Client,EasyLive Plus
+Wi-Fi,
+Transmission distance,Up tp 30m( based on actual environment)
+Wireless standard,IEEE802.11b/ 802.11g/802.11n
+Frequency range,2.4 GHz ~ 2.4835 GHz
+Channel bandwidth,20/40MHz
+Wi-Fi security,WPA-PSK/WPA2-PSK
+Interface,
+Communication Interface,"1*RJ-45,10/100 Mbps self-adaptive Ethernet port"
+Reset Button,Yes
+On-board storage,"Support microSD/microSDHC/microSDXC card, up to 512 GB"
+General,
+Web Client Language,2 languages English/Turkish
+Operating Temperature,-30℃~60℃(No turning on the light)
+Operating Humidity,Humidity 95% or less (no condensation)
+Storage Temperature,-30℃~60℃(No turning on the light)
+Storage Humidity,Humidity 95% or less (no condensation)
+Power Supply,"DC12V±25%,MAX 12W"
+Protection,Surge4000V; ESD6000V; IP66
+Boundary Dimensions,264(L)165(W)140(H)mm
+Package Dimensions,185(L)155(W)285(H)mm
+GrossWeight,1.22kg
+
+
+Date,Title,Type
+2024-04-02,1D.20010.004074_TC-H334S I5WCWIFI4mmV4.1_en,pdf

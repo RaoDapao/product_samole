@@ -1,0 +1,104 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+陕西迪泰克新材料有限公司,CZT-NIS 便携式核素识别仪,https://www.imdetek.com/products/cxcp-181.html,无,高能量分辨率、宽探测范围、具备自适应稳谱功能、内置谱仪放大器，既可直接读出能谱数据，也可查看高斯信号、纯国产化制造、根据不同场景匹配不同规格碲锌镉探测器无需准直和屏蔽即可满足多场景测量需求,root,1906551877,CZT|NIS便携式核素识别仪|仪器设备,812425537,无,0,无,0
+陕西迪泰克新材料有限公司,CZT-γCam 多像素γ能谱成像系统,https://www.imdetek.com/cxtcjmk/npcx-322.html,无,使用多像素成像模块，可实现 5×5 个模块无死区拼接，共计 6400 个像素，成像面积达 127×127mm²。可输出所有像素的能谱数据，通过标准以太网接口与上位机连接，实现参数配置、数据处理、成像分析等功能,root,1906551877,CZT|γCam多像素γ能谱成像系统|能谱成像|成像探测及模块,9563224761,无,0,无,0
+陕西迪泰克新材料有限公司,碲锌镉,https://www.imdetek.com/news/zpcp-196.html,无,是唯一能在室温状态下工作，并且能在每秒每平方毫米面积上处理百万到千万级个光子的半导体，其灵敏度可以达到极限，连微弱到几乎没有的宇宙本底射线的辐射量也能快速精准地捕捉到；具有优异的光电性能，可以在室温状态下直接将 X 射线和γ射线转光子变为电子，是迄今为止制造室温 X 射线及γ射线探测器最为理想的半导体材料,root,1906551877,重磅产品|新闻中心,641855964,无,0,无,0
+陕西迪泰克新材料有限公司,DPU-1000-01 高低压电源,https://www.imdetek.com/products/hdzxbj-175.html,DPU-1000-01,低纹波、低温漂、低噪声、稳定性强，可对核探测领域的探头、电子学设备提供可靠供电，达到较高的核性能，同时可配合公司的探头和其他电子学设备形成能谱采集系统,root,1906551877,DPU|1000|01高低压电源|核电子学部件,639358080,无,0,无,0
+陕西迪泰克新材料有限公司,DT-01A 探头,https://www.imdetek.com/news/zpcp-348.html,DT-01A,基于平面型碲锌镉（CZT）晶体开发的超小外形尺寸能谱级探测器，主要用于 X 射线和低能γ射线能谱测试，可用于国土安全、反恐、核科学技术、能谱检测、工业探伤、食品安全检测、环境监测、医疗诊断等方面，具有便携、操作简单、高能量分辨率、高灵敏度、低噪声、室温工作、状态稳定等特点,root,1906551877,DT|01A探头|重磅产品|新闻中心,6210565724,无,0,无,0
+陕西迪泰克新材料有限公司,DT-01C1 CZT 辐射探头,https://www.imdetek.com/news/zpcp-349.html,DT-01C1,基于半球型 CZT 晶体开发的超小外形尺寸能谱探头，具备 X 射线和低能γ射线能谱探测功能，能量分辨率极高。内部包含 CZT 晶体、低噪声电荷灵敏前放电路，可将入射的 X/γ射线转换成相应幅度的指数衰减信号，通过配带的五芯线缆与自主研发的高压电源、谱仪放大器配合，直接输入多道脉冲分析仪中进行能谱采集。,root,1906551877,DT|01C1CZT辐射探头|重磅产品|新闻中心,3832556845,无,0,无,0
+陕西迪泰克新材料有限公司,DT-01C1P CZT 三防探头,https://www.imdetek.com/news/zpcp-338.html,DT-01C1P,基于平面型碲锌镉晶体开发的超小外形尺寸三防探头，可适用于周围环境湿度与腐蚀环境较恶劣的场所。具备 X 射线和低能γ射线能谱测试功能，能量分辨率极高。,root,1906551877,DT|01C1PCZT三防探头|重磅产品|新闻中心,9815207910,无,0,无,0
+陕西迪泰克新材料有限公司,DT-01C2 探头,https://www.imdetek.com/news/zpcp-339.html,DT-01C2,基于半球型碲锌镉晶体开发的小尺寸能谱探头，具备 X 射线和γ射线能谱测试功能，能量分辨率极高。内部包含 CZT 晶体、低噪声电荷灵敏前放电路，将入射的 X/γ射线转换成相应幅度的指数衰减信号，通过配套的五芯线缆和高压电源、谱仪放大器配合直接输入多道脉冲分析仪中进行能谱采集,root,1906551877,DT|01C2探头|重磅产品|新闻中心,5099517152,无,0,无,0
+陕西迪泰克新材料有限公司,DT-01 系列能谱探头,https://www.imdetek.com/jljc/xnpfx-160.html,DT-01 系列,基于 CZT 晶体开发的超小外形尺寸能谱探头，具备 X 射线和γ射线能谱测试功能，能量分辨率极高。内部包含 CZT 晶体、低噪声电荷灵敏前放电路，可将入射的 X/γ射线转换成相应幅度的指数衰减信号，通过配套的五芯线缆和高压电源、谱仪放大器配合直接输入多道脉冲分析仪中进行能谱采集,root,1906551877,DT|01系列能谱探头|X/γ能谱分析|X/γ/β/α辐射探测,7270698087,无,0,无,0
+陕西迪泰克新材料有限公司,碲锌镉（CZT）半球型探测器,https://www.imdetek.com/news/zpcp-343.html,DT-H01,具备 X 射线和中高能γ射线探测功能，具有极高的能量分辨率，应用于核素识别仪、剂量率仪等核仪表及空间探测等领域,root,1906551877,DT|H01碲锌镉（CZT）半球型探测器|重磅产品|新闻中心,4471690947,无,0,无,0
+陕西迪泰克新材料有限公司,碲锌镉低剂量探测器（平面型）,https://www.imdetek.com/news/zpcp-345.html,DT-P01,具备 X 射线和低能γ射线探测功能，具有很高的能量分辨率，应用于国土安全、核科学技术等领域。可根据用户的使用要求，设计为多种尺寸、形状和规格。室温工作、高能量分辨率、快速响应、长时间稳定性。,root,1906551877,DT|重磅产品|新闻中心,4259276441,无,0,无,0
+陕西迪泰克新材料有限公司,高分辨率像素探测器,https://www.imdetek.com/news/zpcp-342.html,DT-PA01,基于碲锌镉（CZT）晶体开发，具备极高的能量分辨率和空间分辨率，应用于工业检测、天文观测等领域,root,1906551877,DT|PA01高分辨率像素探测器|重磅产品|新闻中心,839260360,无,0,无,0
+陕西迪泰克新材料有限公司,DT-PA02 系列 SPECT、γ相机用探测器,https://www.imdetek.com/cxtcjmk/npcx-167.html,DT-PA02 系列,基于 CZT 晶体开发的大尺寸像素探测器，具备极高的能量分辨率和空间分辨率，大晶体尺寸可有效降低系统对入射射线剂量的要求，主要应用于核医学成像、γ相机等专业领域,root,1906551877,DT|PA02系列SPECT、γ相机用探测器|能谱成像|成像探测及模块,7963977587,无,0,无,0
+陕西迪泰克新材料有限公司,DTK-01C2000 CZT 探测器,https://www.imdetek.com/news/zpcp-340.html,DTK-01C2000,基于半球碲锌镉晶体开发的超小外形尺寸能谱探测装置，具备 X 射线和低能γ射线能谱测试功能，内部包含 CZT 晶体和低噪声电荷灵敏前放电路，可将入射的 X、γ射线转化成相应幅度的指数衰减信号，通过配带的五芯线缆与高压电源、谱仪放大器配合直接接入多道能谱采集系统中,root,1906551877,DTK|01C2000CZT探测器|重磅产品|新闻中心,8007032169,无,0,无,0
+陕西迪泰克新材料有限公司,Dubhe-01 伽马相机,https://www.imdetek.com/products/cxcp-180.html,无,高能量分辨率、高空间分辨率、25 个以内模块任意拼接、电磁屏蔽性好，可实现 5X5 个模块无死区拼接，共计 6400 个像素，成像面积达 127X127mm²，可输出所有像素的能谱数据，通过标准以太网接口与上位机连接，实现参数配置、数据处理、成像分析等功能,root,1906551877,Dubhe|01伽马相机|仪器设备,8890868062,无,0,无,0
+陕西迪泰克新材料有限公司,γ-ray Spectrum Acquisition System,https://en.imdetek.com/Products/Solutions.html,无,性能评估新半导体设备,root,1906551877,"Educational|ShaanxiImdetekCo.,Ltd",8787628350,无,0,无,0
+陕西迪泰克新材料有限公司,α-ray Spectrum Vacuum Test System,https://en.imdetek.com/Products/Solutions.html,无,α 谱探测器光谱测量,root,1906551877,"Educational|ShaanxiImdetekCo.,Ltd",8787628350,无,0,无,0
+陕西迪泰克新材料有限公司,X-ray Testing System,https://en.imdetek.com/Products/Solutions.html,无,X 射线探测器性能测试,root,1906551877,"Educational|ShaanxiImdetekCo.,Ltd",8787628350,无,0,无,0
+陕西迪泰克新材料有限公司,DPU-1000-01 高压电源,https://en.imdetek.com/Products/Electronics.html,DPU-1000-01,无,root,1906551877,"Electronics|ShaanxiImdetekCo.,Ltd",2472779147,无,0,无,0
+陕西迪泰克新材料有限公司,MA-01A 前置放大器,https://en.imdetek.com/Products/Electronics.html,MA-01A,无,root,1906551877,"Electronics|ShaanxiImdetekCo.,Ltd",2472779147,无,0,无,0
+陕西迪泰克新材料有限公司,Ma-01C 电荷灵敏前置放大器,https://en.imdetek.com/Products/Electronics.html,Ma-01C,无,root,1906551877,"Electronics|ShaanxiImdetekCo.,Ltd",2472779147,无,0,无,0
+陕西迪泰克新材料有限公司,MCA-01 数字多道分析器,https://en.imdetek.com/Products/Electronics.html,MCA-01,无,root,1906551877,"Electronics|ShaanxiImdetekCo.,Ltd",2472779147,无,0,无,0
+陕西迪泰克新材料有限公司,PSA-01 便携式频谱分析仪,https://en.imdetek.com/Products/Electronics.html,PSA-01,无,root,1906551877,"Electronics|ShaanxiImdetekCo.,Ltd",2472779147,无,0,无,0
+陕西迪泰克新材料有限公司,DT-01C1P CZT 三重防护探头,https://en.imdetek.com/News/FlagshipProducts.html,DT-01C1P,无,root,1906551877,"FlagshipProducts|NEWS|ShaanxiImdetekCo.,Ltd",9204692521,无,0,无,0
+陕西迪泰克新材料有限公司,DT-PA01 高分辨率像素探测器,https://en.imdetek.com/News/FlagshipProducts.html,DT-PA01,无,root,1906551877,"FlagshipProducts|NEWS|ShaanxiImdetekCo.,Ltd",9204692521,无,0,无,0
+陕西迪泰克新材料有限公司,PDT-01A1α 能谱探头,https://en.imdetek.com/News/FlagshipProducts.html,PDT-01A1,无,root,1906551877,"FlagshipProducts|NEWS|ShaanxiImdetekCo.,Ltd",9204692521,无,0,无,0
+陕西迪泰克新材料有限公司,CZT-NIS Portable Radionuclide Identifier,https://en.imdetek.com/Products/Instruments.html,无,海关、边境和入境检查、科学研究等领域的应用,root,1906551877,"Instruments|ShaanxiImdetekCo.,Ltd",9801627856,无,0,无,0
+陕西迪泰克新材料有限公司,CZT-P-γCam Gamma Cam,https://en.imdetek.com/Products/Instruments.html,无,海关、边境和入境检查、科学研究等领域的应用,root,1906551877,"Instruments|ShaanxiImdetekCo.,Ltd",9801627856,无,0,无,0
+陕西迪泰克新材料有限公司,RAM-01 Radiation Dosimeter,https://en.imdetek.com/Products/Instruments.html,无,个人剂量率报警、核工业中的剂量监测等,root,1906551877,"Instruments|ShaanxiImdetekCo.,Ltd",9801627856,无,0,无,0
+陕西迪泰克新材料有限公司,IRD-P01 Radiation Dosimeter,https://en.imdetek.com/Products/Instruments.html,无,个人剂量率报警、核工业中的剂量监测等,root,1906551877,"Instruments|ShaanxiImdetekCo.,Ltd",9801627856,无,0,无,0
+陕西迪泰克新材料有限公司,IRD-04 Smart Dosimeter,https://en.imdetek.com/Products/Instruments.html,无,核工业、军事、安全人员等领域的应用,root,1906551877,"Instruments|ShaanxiImdetekCo.,Ltd",9801627856,无,0,无,0
+陕西迪泰克新材料有限公司,IRD-04A 腕表式个人剂量仪,https://www.imdetek.com/products/cxcp-177.html,IRD-04A,可监测剂量率、心率、血压等，进行数据储存，并通过物联网将数据传输至可视化平台，具有高灵敏度、宽探测范围、低探测下限的特点。应用于核工业、军队、安检人员涉核岗位、医学放射科相关医护人员及护士、孕妇等辐射敏感人群。,root,1906551877,IRD|04A腕表式个人剂量仪|仪器设备,1504651415,无,0,无,0
+陕西迪泰克新材料有限公司,电子剂量计,https://www.imdetek.com/products/cxcp-178.html,IRD-P01,低探测能量下限、高灵敏度、便携小巧、纯国产化制造，可用于个人剂量率报警、核医学科剂量监测、核工业剂量监测等领域,root,1906551877,IRD|P01电子剂量计|仪器设备,1629071405,无,0,无,0
+陕西迪泰克新材料有限公司,电荷灵敏放大器模块,https://www.imdetek.com/products/hdzxbj-173.html,MA-01C,低噪声、适配性强、便携操作简单，可用于半导体探测器及其他探测器信号读出，为低噪声、高增益电荷灵敏的前置放大器，可用于碲锌镉、硅半导体及其他探测器的能谱测试，相比国外产品，具有灵敏度高、噪声低、使用方便、接口灵活等优点，可间接提供偏置高压，配合 NIM 机箱，探测器测试工装可非常方便的对各种尺寸的半导体探测器进行能谱测试,root,1906551877,MA|01C电荷灵敏放大器模块|核电子学部件,2326449971,无,0,无,0
+陕西迪泰克新材料有限公司,数字多道脉冲分析仪,https://www.imdetek.com/products/hdzxbj-172.html,MCA-01,低噪声、高线性度、宽频率响应范围、便携、操作简单，集成数字多道(DMCA)、PC 终端上位机软件等，实现对核辐射探测器的便携、快捷、准确的能谱采集分析,root,1906551877,MCA|01数字多道脉冲分析仪|核电子学部件,8655209490,无,0,无,0
+陕西迪泰克新材料有限公司,MPS-256 多像素能谱成像模块,https://www.imdetek.com/cxtcjmk/npcx-166.html,无,由单个或多个 CZT 成像单元组成，单个 CZT 成像单元采用 16X16 像素型探测器，匹配后端低噪声专用 ASIC 读出，测量能量范围 20keV~700keV，满足在γ相机、SPECT 等领域的应用,root,1906551877,MPS|256多像素能谱成像模块|能谱成像|成像探测及模块,3677906505,无,0,无,0
+陕西迪泰克新材料有限公司,α能谱探头,https://www.imdetek.com/jljc/npfx-162.html,PDT-01A1/PDT-01A1R,基于平面型碲锌镉晶体开发的超小外形尺寸带电粒子探头，对α射线的能量分辨率极高。内部包含 CZT 晶体、低噪声电荷灵敏前放电路，可将入射的α粒子转换成相应幅度的指数衰减信号，通过配带的五芯线缆与高压电源、谱仪放大器配合直接输入多道能谱采集系统中,root,1906551877,PDT|01A1/PDT|01A1Rα能谱探头|α能谱分析|X/γ/β/α辐射探测,4186793767,无,0,无,0
+陕西迪泰克新材料有限公司,α 能谱探头,https://www.imdetek.com/news/zpcp-341.html,PDT-01A1,基于平面型碲锌镉晶体开发的超小外形尺寸带电粒子探头，在真空环境下对α射线的能量分辨率极高，内部包含 CZT 晶体、低噪声电荷灵敏前放电路，可将入射的α粒子转换成响应幅度的指数衰减信号，通过配带的五芯线缆与高压电源、谱仪放大器配合直接输入多道能谱采集系统中,root,1906551877,PDT|01A1α能谱探头|重磅产品|新闻中心,5127640001,无,0,无,0
+陕西迪泰克新材料有限公司,PSA-01 便携式检谱分析仪,https://www.imdetek.com/products/hdzxbj-171.html,PSA-01,低噪声、高线性度、宽频率响应范围、便携、操作简单。可进行主放增益、高压、成形时间的调节，搭配上位机软件可进行核能谱采集显示、分析处理、数据保存等功能。设备内部采用锂电池供电，无需外接电源，可进行多达 10000 次的充电。与公司的 CZT 探头系列产品配合将构成完整的 X 射线、γ射线能谱采集平台,root,1906551877,PSA|01便携式检谱分析仪|核电子学部件,4329704567,无,0,无,0
+陕西迪泰克新材料有限公司,RAM-01 核辐射检测仪,https://www.imdetek.com/products/cxcp-179.html,RAM-01,高灵敏度辐射报警仪表，体积小，重量轻，灵敏度高，可用于个人剂量率报警、核医学科剂量监测、核工业剂量监测、单兵装备等领域,root,1906551877,RAM|01核辐射检测仪|仪器设备,7409010842,无,0,无,0
+陕西迪泰克新材料有限公司,RDMA-01 CZT 剂量最小系统,https://www.imdetek.com/jljc/xjljc-157.html,无,采用高灵敏度、宽探测范围的新型室温半导体探测器--碲锌镉（CdZnTe，以下简称 CZT）探测器，集成低噪声电荷灵敏前放与超低功耗高压与低功耗后端数字处理电路，内置智能算法，可将探测到的 X、γ射线信号转化为剂量数据通过串口直接输出,root,1906551877,RDMA|01CZT剂量最小系统|X/γ剂量监测|X/γ/β/α辐射探测,6963074588,无,0,无,0
+陕西迪泰克新材料有限公司,SPCW 宽剂量范围探测模块,https://www.imdetek.com/news/zpcp-347.html,无,基于 CZT 探测器的计数型模块，内部由 CZT 复合探测器、高增益电荷灵敏前放大器和 SK 成型电路组成，可实现 0.1μGy/h~1Gy/h 剂量率的探测，具有 10keV 的低能下限和极佳的能量响应。应用于 X-ray 检测、辐射剂量率仪探头、便携式计数仪表等领域。工作原理为外部输入的偏置高压为 CZT 晶体提供内建电场，入射的 X/γ射线在晶体内部产生电子空穴对，低噪声的电荷灵敏前放电路将电子空穴对收集，经整形电路最终输出高斯脉冲信号。同时可以通过模块内部两个信号的切换实现低剂量率至高剂量率辐射场的覆盖。,root,1906551877,SPCW宽剂量范围探测模块|重磅产品|新闻中心,6816349760,无,0,无,0
+陕西迪泰克新材料有限公司,SPC 平面型计数模块,https://www.imdetek.com/news/zpcp-346.html,SPC1002 / SPC0502,产品内部由 10x10x2mm³ 或 5x5x2mm³ 多种规格可选探测器、高增益电荷灵敏放大器及 SK 成型电路组成。外观小巧，稳定性强，可用于计量仪表的核心模块。,root,1906551877,SPC平面型计数模块|重磅产品|新闻中心,7858952322,无,0,无,0
+陕西迪泰克新材料有限公司,CZT-γCam Multi-pixel γ ray Imaging System,https://en.imdetek.com/Products/ImagingModules.html,无,应用于医疗成像、工业安全成像,root,1906551877,"SPECTImaging|ShaanxiImdetekCo.,Ltd",1381890765,无,0,无,0
+陕西迪泰克新材料有限公司,"DT-PA02 series SPECT, γ ray Imaging Detector",https://en.imdetek.com/Products/ImagingModules.html,无,应用于便携式成像设备、核医学成像,root,1906551877,"SPECTImaging|ShaanxiImdetekCo.,Ltd",1381890765,无,0,无,0
+陕西迪泰克新材料有限公司,MPS-256 Multi-pixel γ ray Imaging Module,https://en.imdetek.com/Products/ImagingModules.html,无,应用于便携式成像设备、核医学成像,root,1906551877,"SPECTImaging|ShaanxiImdetekCo.,Ltd",1381890765,无,0,无,0
+陕西迪泰克新材料有限公司,DT-PA01 Compton Imaging Detector,https://en.imdetek.com/Products/ImagingModules.html,无,应用于国土安全、核科学与技术,root,1906551877,"SPECTImaging|ShaanxiImdetekCo.,Ltd",1381890765,无,0,无,0
+陕西迪泰克新材料有限公司,像素型探测器,https://www.imdetek.com/news/zpcp-369.html,DT-PA02,主要用于核医学成像、γ相机等领域，具有极高的能量分辨率和空间分辨率，大尺寸晶体可有效降低系统对于入射射线剂量的要求,root,1906551877,重磅产品|新闻中心,641855964,无,0,无,0
+陕西迪泰克新材料有限公司,多像素能谱成像模块,https://www.imdetek.com/news/zpcp-369.html,MPS-256,集成了碲锌镉探测器与后端低噪声专用 ASIC 芯片，可通过直接拼接法做二次开发。模块可输出入射γ射线的能量信息及位置信息，经后端电子学处理可得到每个像素的能谱，满足在γ相机、SPECT 等领域应用,root,1906551877,重磅产品|新闻中心,641855964,无,0,无,0
+陕西迪泰克新材料有限公司,多像素γ能谱成像系统,https://www.imdetek.com/news/zpcp-369.html,CZT-γCam,使用多像素能谱成像模块，可实现 25 个以内模块任意拼接，该系统可输出所有像素的能谱数据，通过标准以太网接口和上位机链接，实现参数配置、数据处理、成像分析等功能,root,1906551877,重磅产品|新闻中心,641855964,无,0,无,0
+陕西迪泰克新材料有限公司,伽马相机,https://www.imdetek.com/news/zpcp-369.html,CZT-P-γCam,由探测器模块、准直器模块、高压模块、电子学电路、WIFI 模块、电源模块等组成。平行孔准直器可对较低能量放射源进行准直，准确测量出放射源的位置及形状,root,1906551877,重磅产品|新闻中心,641855964,无,0,无,0
+陕西迪泰克新材料有限公司,核辐射剂量计,https://en.imdetek.com/News/FlagshipProducts-311.html,RAM-01,由通过连续三年航天级验证的碲锌镉核辐射半导体探测器材料制成，制备过程严格按照航天标准，能提供精确可靠的辐射监测数据,root,1906551877,"TheHighlyAnticipatedThreeRadiationDosimeters,PurchaseLinkisHere!|FlagshipProducts|NEWS|ShaanxiImdetekCo.,Ltd",4261993632,无,0,无,0
+陕西迪泰克新材料有限公司,核辐射剂量计,https://en.imdetek.com/News/FlagshipProducts-311.html,IRD-P01,由通过连续三年航天级验证的碲锌镉核辐射半导体探测器材料制成，制备过程严格按照航天标准，能提供精确可靠的辐射监测数据,root,1906551877,"TheHighlyAnticipatedThreeRadiationDosimeters,PurchaseLinkisHere!|FlagshipProducts|NEWS|ShaanxiImdetekCo.,Ltd",4261993632,无,0,无,0
+陕西迪泰克新材料有限公司,核辐射剂量计,https://en.imdetek.com/News/FlagshipProducts-311.html,IRD-04,由通过连续三年航天级验证的碲锌镉核辐射半导体探测器材料制成，制备过程严格按照航天标准，能提供精确可靠的辐射监测数据,root,1906551877,"TheHighlyAnticipatedThreeRadiationDosimeters,PurchaseLinkisHere!|FlagshipProducts|NEWS|ShaanxiImdetekCo.,Ltd",4261993632,无,0,无,0
+陕西迪泰克新材料有限公司,DT-P01 系列低中能谱探测器,https://en.imdetek.com/Products/Products.html,DT-P01 系列,应用于国土安全、环境监测等领域,root,1906551877,"X/γ|rayDoseMonitoring|ShaanxiImdetekCo.,Ltd",8360880743,无,0,无,0
+陕西迪泰克新材料有限公司,SPCW 宽剂量率范围检测模块,https://en.imdetek.com/Products/Products.html,SPCW,应用于低能射线监测、X 射线检测,root,1906551877,"X/γ|rayDoseMonitoring|ShaanxiImdetekCo.,Ltd",8360880743,无,0,无,0
+陕西迪泰克新材料有限公司,RDMA-01 CZT 最小剂量测量系统,https://en.imdetek.com/Products/Products.html,RDMA-01,应用于剂量率计、便携式仪器、可穿戴设备等,root,1906551877,"X/γ|rayDoseMonitoring|ShaanxiImdetekCo.,Ltd",8360880743,无,0,无,0
+陕西迪泰克新材料有限公司,DT-P01 系列中低能量能谱探测器,https://www.imdetek.com/products/products.html,DT-P01,应用于国土安全、环境检测、空间探测、工业检测、核科学技术等领域,root,1906551877,X/γ剂量监测,8571284398,无,0,无,0
+陕西迪泰克新材料有限公司,SPCW 宽剂量范围探测模块,https://www.imdetek.com/products/products.html,SPCW,应用于低能射线监测、X-Ray 检测等领域,root,1906551877,X/γ剂量监测,8571284398,无,0,无,0
+陕西迪泰克新材料有限公司,RDMA-01 CZT 剂量最小系统,https://www.imdetek.com/products/products.html,RDMA-01,应用于剂量率仪、便携式仪器仪表、穿戴式设备等领域,root,1906551877,X/γ剂量监测,8571284398,无,0,无,0
+陕西迪泰克新材料有限公司,DT-P01 系列中低能量能谱探测器,https://www.imdetek.com/products/jljc.html,DT-P01 系列,应用于国土安全、环境检测、空间探测、工业检测、核科学技术等领域,root,1906551877,X/γ剂量监测,8571284398,无,0,无,0
+陕西迪泰克新材料有限公司,γ 能谱测量系统,https://www.imdetek.com/nptc/jxljjfa-184.html,无,能谱测试系统主要用于半导体探测器的能谱评测，由定制化测试工装、电荷灵敏前置放大器、便携式检谱分析仪（数字多道脉冲分析仪、高低压电源）和上位机处理软件组成。可实现碲锌镉(CZT)、碲化镉(CT)、钙钛矿(ABX3)、硅（Si）半导体等多种类型半导体器件的计数率、分辨率等性能评测。,root,1906551877,γ能谱测量系统|教学类|解决方案,8643519476,无,0,无,0
+陕西迪泰克新材料有限公司,高空间分辨便携式伽马相机,https://www.imdetek.com/news/zpcp-330.html,CZT-P-γCam,由基于 CZT 晶体开发的大尺寸像素探测器模块、准直器模块、高压模块、数据处理单元、电源模块等组成，具备极高的能量分辨率和空间分辨率，支持多核素成像，可准确测量出放射源的位置、种类和强度。重点应用于核医学领域，也可扩展至安检及工业检测、核安全、空间探测等领域,root,1906551877,重磅产品|新闻中心,641855964,无,0,无,0
+陕西迪泰克新材料有限公司,智能辐射检测仪,https://www.imdetek.com/news/zpcp-354.html,IRD-02,基于蓝牙的新型便携式、智能化仪表，采用高灵敏度、宽探测范围的新型室温半导体探测器-碲锌镉探测器，具备手机智能 APP，可实现实时剂量率报警，历史峰值查询等功能，小巧轻便，适合随身携带，可应用于医院、日常辐射安全监测和环保等各种民用场合,root,1906551877,重磅产品|新闻中心,641855964,无,0,无,0
+陕西迪泰克新材料有限公司,RAM-01 核辐射检测仪,https://www.imdetek.com/products/cxcp.html,无,应用于个人剂量率报警、核医学科剂量监测、核工业剂量监测、单兵装备等领域,root,1906551877,仪器设备,9488112827,无,0,无,0
+陕西迪泰克新材料有限公司,IRD-P01 电子剂量计,https://www.imdetek.com/products/cxcp.html,无,应用于个人剂量率报警、核医学科剂量监测、核工业剂量监测等领域,root,1906551877,仪器设备,9488112827,无,0,无,0
+陕西迪泰克新材料有限公司,IRD-04A 腕表式个人剂量仪,https://www.imdetek.com/products/cxcp.html,无,应用于核工业、军队、安检人员涉核岗位、医学放射科相关医护人员及护士、孕妇等辐射敏感人群,root,1906551877,仪器设备,9488112827,无,0,无,0
+陕西迪泰克新材料有限公司,CZT 硬 X 射线监测系统,https://www.imdetek.com/news/zpcp-336.html,无,基于 CZT 优异的光电性能和灵敏度，结合国内托卡马克相关科研单位的实际需求，量身打造的一套针对托卡马克装置中产生的高能硬 X 射线的监测系统，该系统可以为预防高能硬 X 射线引发的一系列问题提供数据支撑，从而确保托卡马克能够长期稳定的运行,root,1906551877,创新应用|重磅产品|新闻中心,3055858819,无,0,无,0
+陕西迪泰克新材料有限公司,腕表式个人剂量仪,https://www.imdetek.com/news/zpcp-375.html,无,可监测 X/γ 个人剂量率、血压、心率、运动计步，提供个人阈值报警和可视化预警平台。采用碲锌镉探测器，具有高灵敏度、宽探测范围，操作简单，携带方便。监测预警平台，智能关爱服务，“云+端+服”架构下的辐射与健康监测，依托云平台大数据的优势，提供从数据采集到数据服务为一体的系统方案。,root,1906551877,重磅产品|新闻中心,641855964,无,0,无,0
+陕西迪泰克新材料有限公司,IRD-P01 个人剂量计,https://www.imdetek.com/news/zpcp-311.html,无,无,root,1906551877,重磅产品|新闻中心,641855964,无,0,无,0
+陕西迪泰克新材料有限公司,IRD-04 腕表式个人剂量仪,https://www.imdetek.com/news/zpcp-311.html,无,无,root,1906551877,重磅产品|新闻中心,641855964,无,0,无,0
+陕西迪泰克新材料有限公司,γ能谱测量系统,https://www.imdetek.com/products/nptc.html,无,应用于新型半导体器件性能评测,root,1906551877,教学类,5705954150,无,0,无,0
+陕西迪泰克新材料有限公司,α能谱真空测量系统,https://www.imdetek.com/products/nptc.html,无,应用于α能谱探测器能谱测量、半导体材料缺陷分析,root,1906551877,教学类,5705954150,无,0,无,0
+陕西迪泰克新材料有限公司,X 射线光电测试系统,https://www.imdetek.com/products/nptc.html,无,应用于 X 射线探测器性能测试,root,1906551877,教学类,5705954150,无,0,无,0
+陕西迪泰克新材料有限公司,腕表式个人剂量仪,https://www.imdetek.com/news/zpcp-357.html,QZ44-13503W,具有良好的能量响应和更高的能量线性，操作简单，携带方便。装有健康传感器，可监测血压、心率、运动计步。可通过手机下载同步 APP，实现数据可视化，实时数据、位置可视；历史数据、历史轨迹可查询；通过网络连接，APP 与终端无距离限制；设备可以通过蓝牙连接，设置电子围栏越界报警。可与“辐射与健康监测预警管理系统”对接，设备数据实时传输到数据平台，实现人员位置、剂量、心率等功能的后台实时监测。,root,1906551877,重磅产品|新闻中心,641855964,无,0,无,0
+陕西迪泰克新材料有限公司,IRD-NIS 核素识别仪,https://www.imdetek.com/news/zpcp-316.html,无,集成成型放大器、高压电源、数字化多道脉冲分析仪（DMCA）、终端显示屏及上位机软件等，可以脱离外部供电进行独立采集，抗干扰能力强，可连接 CZT、闪烁体等多种辐射探测器，成为高分辨辐射能谱仪，给出辐射能谱、核素种类和剂量等信息，主要应用于反恐、海关、出入境检查、核电、军工等领域，同时在矿产分析、建材检测、环境监测、辐射防护、实验室教学等民用领域也具有广泛的应用优势,root,1906551877,日本“逆流而行”|重磅产品|新闻中心,6803335094,无,0,无,0
+陕西迪泰克新材料有限公司,腕表式剂量仪,https://www.imdetek.com/news/zpcp-312.html,无,采用碲锌镉探测器，可快速检测日常食物、日用品及环境中的辐射情况，实时显示辐射剂量，还具有心率监测、血压监测、运动、通话、GPS 定位等 6 大核心功能,root,1906551877,重磅产品|新闻中心,641855964,无,0,无,0
+陕西迪泰克新材料有限公司,RAM-01 核辐射报警仪,https://www.imdetek.com/news/zpcp-312.html,无,采用第三代室温半导体——碲锌镉探测器，具有探测灵敏度高、探测下限低、响应速度快等优点，能准确监测食物、日用品、家居环境或工作场所中的辐射水平，并及时发出警报,root,1906551877,重磅产品|新闻中心,641855964,无,0,无,0
+陕西迪泰克新材料有限公司,MA-01C 电荷灵敏放大器模块,https://www.imdetek.com/products/hdzxbj.html,MA-01C,科学试验、仪器仪表集成、剂量能谱测试系统搭建,root,1906551877,核电子学部件,665446612,无,0,无,0
+陕西迪泰克新材料有限公司,MCA-01 数字多道脉冲分析仪,https://www.imdetek.com/products/hdzxbj.html,MCA-01,科学试验、仪器仪表集成、能谱测试平台搭建,root,1906551877,核电子学部件,665446612,无,0,无,0
+陕西迪泰克新材料有限公司,智能辐射检测仪,https://www.imdetek.com/news/zpcp-324.html,IRD-C01,可测量实时辐射剂量率并记录累积剂量，尺寸小巧便于携带，重量仅 60g 左右，可待机 200 小时以上,root,1906551877,核辐射离我们远吗？|重磅产品|新闻中心,7681640627,无,0,无,0
+陕西迪泰克新材料有限公司,医用辐射检测仪,https://www.imdetek.com/news/zpcp-324.html,IRD-M01,可实现碘-131(I-131)、锝-99m(Tc-99m)、氟-18(F-18)三种核医学科常见核素识别，并同时具备实时剂量、累计剂量、和超阈值报警等功能,root,1906551877,核辐射离我们远吗？|重磅产品|新闻中心,7681640627,无,0,无,0
+陕西迪泰克新材料有限公司,腕表式个人剂量仪,https://www.imdetek.com/news/zpcp-324.html,IRD-04,可监测 X/γ 剂量率、血压、心率、运动计步，搭配手机 app 可实现数据健康分析,root,1906551877,核辐射离我们远吗？|重磅产品|新闻中心,7681640627,无,0,无,0
+陕西迪泰克新材料有限公司,光子计数线阵探测器,https://www.imdetek.com/news/zpcp-363.html,DT-PL01,基于 CZT 晶体开发的线阵像素电极结构探测器，具备 X 射线计数及成像功能，具有极高的 X 射线灵敏度、线性度及稳定性，主要应用于大辐射剂量光子的计数及成像系统,root,1906551877,重磅产品|新闻中心,641855964,无,0,无,0
+陕西迪泰克新材料有限公司,多像素光子计数模块,https://www.imdetek.com/news/zpcp-363.html,MPC-32,可将连续 X 射线谱分能区直接转化为数字信号，可通过设置电子学阈值滤除低能噪声，降低噪声对成像质量的影响。多能区相对于传统的“伪双能”，可实现 5 能区同时读出并且图像无重叠，区分度更好，物质识别精度更高,root,1906551877,重磅产品|新闻中心,641855964,无,0,无,0
+陕西迪泰克新材料有限公司,光子计数 X 射线成像系统,https://www.imdetek.com/news/zpcp-363.html,MXA-128,基于碲锌镉光子计数线阵探测器开发的测试系统，包括 4 个多像素光子计数模块及温度控制电路。支持多能区测试，主要用于行李安检、骨密度测量等 X 射线成像领域,root,1906551877,重磅产品|新闻中心,641855964,无,0,无,0
+陕西迪泰克新材料有限公司,辐射剂量仪,https://www.imdetek.com/news/ggsk-327.html,无,实时测量并记录航天员所受照辐射剂量,root,1906551877,神舟十五号发射成功|高光时刻|新闻中心,211473840,无,0,无,0
+陕西迪泰克新材料有限公司,CZT 探测器,https://www.imdetek.com/news/ggsk-327.html,无,灵敏度高、响应速度快，能够准确计量辐射数据,root,1906551877,神舟十五号发射成功|高光时刻|新闻中心,211473840,无,0,无,0
+陕西迪泰克新材料有限公司,PDT-01A1 α 能谱探头,https://www.imdetek.com/news/zpcp_2.html,PDT-01A1,无,root,1906551877,第2页|重磅产品|新闻中心,955045297,无,0,无,0
+陕西迪泰克新材料有限公司,DT-PA01 高分辨率像素探测器,https://www.imdetek.com/news/zpcp_3.html,无,无,root,1906551877,第3页|重磅产品|新闻中心,7119370146,无,0,无,0
+陕西迪泰克新材料有限公司,DT-01C2 探头,https://www.imdetek.com/news/zpcp_3.html,无,无,root,1906551877,第3页|重磅产品|新闻中心,7119370146,无,0,无,0
+陕西迪泰克新材料有限公司,DT-01C1 CZT 辐射探头,https://www.imdetek.com/news/zpcp_3.html,无,无,root,1906551877,第3页|重磅产品|新闻中心,7119370146,无,0,无,0
+陕西迪泰克新材料有限公司,DT-01A 探头,https://www.imdetek.com/news/zpcp_3.html,无,无,root,1906551877,第3页|重磅产品|新闻中心,7119370146,无,0,无,0
+陕西迪泰克新材料有限公司,SPC 平面型计数模块,https://www.imdetek.com/news/zpcp_3.html,无,无,root,1906551877,第3页|重磅产品|新闻中心,7119370146,无,0,无,0
+陕西迪泰克新材料有限公司,DT-P01 碲锌镉低剂量探测器（平面型）,https://www.imdetek.com/news/zpcp_3.html,无,无,root,1906551877,第3页|重磅产品|新闻中心,7119370146,无,0,无,0
+陕西迪泰克新材料有限公司,探头,https://www.imdetek.com/news/zpcp_4.html,DT-01C2,无,root,1906551877,第4页|重磅产品|新闻中心,7000305730,无,0,无,0
+陕西迪泰克新材料有限公司,智能辐射检测仪,https://www.imdetek.com/news/zpcp_4.html,无,无,root,1906551877,第4页|重磅产品|新闻中心,7000305730,无,0,无,0
+陕西迪泰克新材料有限公司,碲锌镉光子计数线阵探测器及成像系统,https://www.imdetek.com/news/zpcp_4.html,无,无,root,1906551877,第4页|重磅产品|新闻中心,7000305730,无,0,无,0
+陕西迪泰克新材料有限公司,SPECT、伽马相机用碲锌镉像素探测器及成像系统,https://www.imdetek.com/news/zpcp_4.html,无,无,root,1906551877,第4页|重磅产品|新闻中心,7000305730,无,0,无,0
+陕西迪泰克新材料有限公司,DT-PA02 系列 SPECT、γ相机用探测器,https://www.imdetek.com/products/cxtcjmk.html,无,应用领域：便携式成像设备、SPECT、空间辐射分析,root,1906551877,能谱成像,5071108130,无,0,无,0
+陕西迪泰克新材料有限公司,DT-PA03 康普顿探测器,https://www.imdetek.com/products/cxtcjmk.html,无,应用领域：国土安全、核科学技术、便携式成像设备、核反恐,root,1906551877,能谱成像,5071108130,无,0,无,0
+陕西迪泰克新材料有限公司,CZT-PES 便捷式高分辨检谱分析仪,https://www.imdetek.com/news/zpcp-329.html,无,可实现高精度、高灵敏度的辐射能谱监测，集成成型放大器、高压电源、数字化多道脉冲分析仪（DMCA）、终端显示屏及上位机软件等，可脱离外部供电进行独立采集，抗干扰能力强。可连接 CZT、闪烁体等多种辐射探测器，成为高分辨辐射能谱仪，给出辐射能谱、核素种类和剂量等信息。,root,1906551877,重磅产品|新闻中心,641855964,无,0,无,0
+陕西迪泰克新材料有限公司,DT-01C1 系列探头,https://www.imdetek.com/news/zpcp-329.html,无,基于能谱型 CZT 晶体开发的小尺寸能谱探头，具备 X 和γ射线能谱测试功能，能量分辨率极高，在室温下小于 1.8%@662keV。内部包含 CZT 晶体和低噪声电荷灵敏前放电路，将入射的 X/γ射线转换成相应幅度的指数衰减信号，可配套检谱仪直接进行能谱采集，也可通过配套迪泰克自产的高低压电源和数字化多道脉冲分析仪进行能谱采集。,root,1906551877,重磅产品|新闻中心,641855964,无,0,无,0

@@ -1,0 +1,27 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+上海唐辉电子有限公司,MCU+Crystal,http://en.tang-sh.com/products/2.html,无,无,AllProducts|AllProducts,4240970435,无,0,无,0,无,0
+上海唐辉电子有限公司,RTC + Battery/Capacitor,http://en.tang-sh.com/products/2.html,Japanese Epson RTC module + Japanese Panasonic battery/capacitor、Japan Epson RTC module、Japanese Panasonic battery、Japan Panasonic capacitor,无,AllProducts|AllProducts,4240970435,无,0,无,0,无,0
+上海唐辉电子有限公司,Gyro Sensors，IMUs and Accelerometers,http://en.tang-sh.com/products/2.html,Gyro Sensors、Accelerometers、IMUs,无,AllProducts|AllProducts,4240970435,无,0,无,0,无,0
+上海唐辉电子有限公司,"Gyro Sensors,IMUs and Accelerometers",http://en.tang-sh.com/products_detail/1.html,XV7001BB、XV7011BB、XV7021BB、XV7181BB、GGPM01/02、M-A352AD10、M-G370 等,Epson 陀螺仪是角速度传感器，具有良好的温度特性、低功耗、低成本和良好的稳定性。可用于清洁机器人传感器模块等领域，提供低成本、高可靠性的传感解决方案。还可用于各种类型的无人驾驶车辆，集成三个单轴角速度传感器和三个单轴加速度传感器，用于精确测量三个方向的角速度和加速度变化,"GyroSensors,IMUsandAccelerometers",8220466440,无,0,无,0,无,0
+上海唐辉电子有限公司,惯性测量单元（IMU）,http://www.tang-sh.com/products_detail/11.html,M-G370 等系列,是一种核心参数达到光纤陀螺仪级别的高精度 MEMS 三轴陀螺仪/六轴陀螺仪，集成了三个单轴角速度传感器和 3 个单轴加速度传感器，用以同时精确测量三个方向的角速度和加速度变化。广泛适用于自动无人驾驶汽车、AGV 物流搬运小车、无人舰船及其他多种工业产品和系统，用来测量数据和控制运动等。,IMU,3212738132,无,0,无,0,无,0
+上海唐辉电子有限公司,Japanese Epson RTC  module + Japanese Panasonic battery/capacitor,http://en.tang-sh.com/products_detail/7.html,RX8130CE、RX8111CE、RX8900CE,集成 32.768kHz 石英晶体振荡器和实时时钟芯片，具有振荡电路、时钟功能、日历功能和报警功能，无需频率调整，开机后实时显示准确时间，实现精确计时和低功耗，适用于独立模式设备,JapaneseEpsonRTCmodule+JapanesePanasonicbattery/capacitor,4320908906,无,0,无,0,无,0
+上海唐辉电子有限公司,KHz 晶振,http://www.tang-sh.com/products_detail/19.html,无,晶体谐振器，英文是 Crystal Units，简称为晶体（也有人称为无源晶振）。目前市场上使用广泛的是石英晶片为基材的晶体晶振。32.768kHz 晶体谐振器。包括贴片音叉晶振，圆柱形和 DIP 型。AT 晶体谐振器采用 AT 切割方式，基于基波的频率范围覆盖 4MHz~64MHz。多种规格尺寸可选。SAW 谐振器 300MHz 至 870MHz 高频率用途，超薄超小尺寸，可应用在汽车无鈅门锁等领域、近场通信等专用低功耗无线通信上,KHz晶振,3899648012,无,0,无,0,无,0
+上海唐辉电子有限公司,MCU+晶振,http://www.tang-sh.com/products_detail/6.html,无,MCU 又称单片微型计算机或单片机，是把中央处理器的频率与规格做适当缩减，并将内存、计数器、USB、A/D 转换、UART、PLC、DMA 等周边接口，甚至 LCD 驱动电路都整合在单一芯片上，形成芯片级的计算机，为不同的应用场合做不同组合控制。晶振是产生 MCU 所需的时钟频率的电子元件，晶振提供的时钟频率越高，单片机运行速度就越快。MCU 接收的一切指令的执行都是建立在其晶振提供的时钟频率。晶振分为晶体谐振器和晶体振荡器，晶体谐振器是无源晶振，晶体振荡器内置了石英晶体谐振器和配套电路，免去了麻烦的振荡电路匹配调试，信号质量好，而且连接方式相对简单。常见的四脚有源晶振的引脚接法：一脚悬空，二脚接地，三脚接输出，四脚接电压。6 脚和 10 脚晶振多用在温补晶振或差分晶振等领域。,MCU+晶振,2788353027,无,0,无,0,无,0
+上海唐辉电子有限公司,MHz 晶体,http://www.tang-sh.com/products_detail/20.html,无,晶振是晶体振荡器的简称，也被称为有源晶振。和其对应的是晶体谐振器，简称为晶体。目前市场上使用广泛的是石英晶片为基材的晶体晶振。,MHz晶体,3115482120,无,0,无,0,无,0
+上海唐辉电子有限公司,RTC + Battery/Capacitor,http://en.tang-sh.com/products_1.html,无,无,1,5573088411,无,0,无,0,无,0
+上海唐辉电子有限公司,Gyro Sensors，IMUs and Accelerometers,http://en.tang-sh.com/products_1.html,无,无,1,5573088411,无,0,无,0,无,0
+上海唐辉电子有限公司,Other Products,http://en.tang-sh.com/products_1.html,无,无,1,5573088411,无,0,无,0,无,0
+上海唐辉电子有限公司,RTC 时钟+电池/电容,http://www.tang-sh.com/products_1.html,无,无,其他产品,2419336346,无,0,无,0,无,0
+上海唐辉电子有限公司,陀螺仪传感器，IMU 和加速度计,http://www.tang-sh.com/products_1.html,无,无,其他产品,2419336346,无,0,无,0,无,0
+上海唐辉电子有限公司,高精度 OCXO、TCXO、铷原子钟、氢原子钟、高精高速 ADC、传感器、北斗定位芯片（模组）等,http://www.tang-sh.com/products_1.html,无,无,其他产品,2419336346,无,0,无,0,无,0
+上海唐辉电子有限公司,RTC 时钟+电池/电容,http://www.tang-sh.com/products/2.html,日本爱普生 RTC 时钟模块+日本松下电池/电容,无,无,0,无,0,无,0,无,0
+上海唐辉电子有限公司,加速度计,http://www.tang-sh.com/products_detail/15.html,M-A352AD10,是一个三轴数字信号输出的加速度传感器，具有低噪声、高稳定、低功耗的技术特点，并采用爱普生的 QMEMS 工艺技术制成。同时具有高精度和高耐久的特点。能适用于各种大量程的应用，比如 SHM，地震观察，工业设备的状态监控，工业机械姿态检测（比如基建机器或设备，农用机械或工具，还有机器人）。,加速度计,6041077928,无,0,无,0,无,0
+上海唐辉电子有限公司,日本松下电容,http://www.tang-sh.com/products_detail/21.html,无,无,日本松下电容,6236790799,无,0,无,0,无,0
+上海唐辉电子有限公司,日本松下电池,http://www.tang-sh.com/products_detail/18.html,CR2032,可以实现长期稳定供电，是 RTC 的可靠保障，在 20°C 常温环境下，配合 RTC 模块，可以达到 10 年以上的持续供电，松下 BR 类电池甚至可以实现 15 年以上的寿命。内阻长期稳定，耐高温、性能稳定，是 RTC 值得信赖的守护者,日本松下电池,8252530526,无,0,无,0,无,0
+上海唐辉电子有限公司,日本爱普生 RTC 时钟模块+日本松下电池/电容,http://www.tang-sh.com/products_detail/7.html,RX8130CE、RX8111CE、RX8900CE,实时时钟模块是将 32.768kHz 石英晶体振荡器和实时时钟芯片合为一体的产品，具备振荡电路、时钟功能、日历功能和报警功能等。集成了晶体单元就意味着 EPSON 实时时钟模块不需要频率调整，设备开机后实时显示当前准确时间。爱普生实时时钟模块的产品线实现了精确计时和低功耗，对于在单机模式设备上的应用非常理想。,无,0,无,0,无,0,无,0
+上海唐辉电子有限公司,日本爱普生 RTC 时钟模块,http://www.tang-sh.com/products_detail/17.html,无,爱普生具有内置 XTAL 的各种实时时钟模块（RTC）可以节省功耗，提供优良的精度并简化系统设计。多亏了警报和时间戳等丰富的可选功能，RTC 可以在计时之外涵盖多个其他任务。,日本爱普生RTC时钟模块,7948127318,无,0,无,0,无,0
+上海唐辉电子有限公司,陀螺仪传感器,http://www.tang-sh.com/products_detail/10.html,XV7001BB、XV7011BB、XV7021BB、XV7181BB,角速度传感器，具有温度特性好、功耗低、成本低、稳定性好等特点，可用于扫地机器人、无人自动驾驶汽车等领域,陀螺仪传感器,4014975132,无,0,无,0,无,0
+上海唐辉电子有限公司,GGPM01/02 陀螺仪模块,http://www.tang-sh.com/products_detail/1.html,无,内置 XV7001BB 或 XV7011BB 单轴角速度传感器，为清扫机器人提供低成本、高可靠性的传感解决方案,无,0,无,0,无,0,无,0
+上海唐辉电子有限公司,高精度 MEMS 三轴陀螺仪/六轴陀螺仪,http://www.tang-sh.com/products_detail/1.html,无,集成了三个单轴角速度传感器和 3 个单轴加速度传感器，用以同时精确测量三个方向的角速度和加速度变化,无,0,无,0,无,0,无,0
+上海唐辉电子有限公司,M-A352AD10 三轴加速度传感器,http://www.tang-sh.com/products_detail/1.html,无,具有低噪声、高稳定、低功耗的技术特点，采用爱普生的 QMEMS 工艺技术制成，适用于各种大量程的应用,无,0,无,0,无,0,无,0
+上海唐辉电子有限公司,M-G370 等系列惯性测量单元（IMU）,http://www.tang-sh.com/products_detail/1.html,无,核心参数达到光纤陀螺仪级别的高精度 MEMS 三轴陀螺仪/六轴陀螺仪，集成了 3 个单轴角速度传感器和 3 个单轴加速度传感器，用以同时精确测量三个方向的角速度和加速度变化,无,0,无,0,无,0,无,0

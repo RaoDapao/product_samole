@@ -1,0 +1,16 @@
+产品网址：https://www.zhmsemi.com/products/industrial_igbt_module/drivep3.html
+产品结构：root
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|DriveP3|无|A. Low VCE(sat)<br>B. Low Inductance Case<br>C. High Short Circuit Capability (10us)|
+
+Package,Product,Vces(V),Ic(A),VCE(sat)(V),Configuration,typical value @Tj=25℃,typical value @Tj=25℃.1,typical value @Tj=25℃.2
+Package,Product,Vces(V),Ic(A),VCE(sat)(V),Configuration,VF(V),Eon(mJ),Eoff(mJ)
+DriveP3,PMD50M120S1P_T3,1200,50,1.60,PIM,1.90,3.2,2.6
+DriveP3,PMD75M120S1P_T3,1200,75,1.60,PIM,1.90,3.1,5.0
+DriveP3,PMD75M120S1P_T4,1200,75,1.60,PIM,1.90,3.1,5.0
+DriveP3,PMD100M120S1P_T4,1200,100,1.70,PIM,1.90,3.8,5.3
+DriveP3,PMD150M120S1P_T4,1200,150,1.70,PIM,1.90,5.2,9.1
+DriveP3,PMD100TA120S1P_T4,1200,100,1.90,PIM,2.00,4.9,4.6
+DriveP3,PMD150TA120S1P_T4,1200,150,1.90,PIM,2.00,6.5,7.0

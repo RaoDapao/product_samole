@@ -1,0 +1,6 @@
+产品网址：https://en.aimicron.com/Products/20
+产品结构：root->AIM951-慷智集成电路（上海）有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|INTELLIGENT AUTOMOTIVE HIGH-DEFINITION AUDIO AND VIDEO TRANSMISSION SERDES CHIPSETS|AIM951|8 路 MIPI DSI 数据+2 路时钟支持双视频输入；单 AHDL-II 链路高达 150MHz 像素时钟 1080P RGB888；双 AHDL-II 链路高达 300MHz 像素时钟 3KP RGB888；多种颜色格式和功能模式用于系统应用；具有从 DSI 到 AHDL-II 的 2X2 MUX（多路复用器），支持不同格式数据和多个虚拟通道；快速 GPIO 支持 SPI 控制信号通过；能够通过单根同轴电缆或屏蔽双绞线（STP）传输高速视频、双向控制数据；可调节扩频输出以降低 EMI；能够进行长距离传输；多个 GPIO 更好地支持触摸屏应用；支持 7.1 高清晰度环绕声音频应用；视频/控制数据的错误检测/纠正（ECC/CRC）；内置自测（BIST）和片上视频模式发生器用于系统诊断；1.8V 和 1.1V 电源，IO 支持 1.8V 和 3.3V；AEC-Q100 2 级合格和 ESD 保护；64 引脚（9mm*9mm）QFN 封装|

@@ -1,0 +1,48 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+上海芯龙半导体技术股份有限公司,降压型 DC-DC 转换器,https://www.xlsemi.com/products_DC_DC_buck_mv.html,无,输入电压从 3.6V 到 45V，输出功率最高可达 100W，具有高效率、高可靠性、高性价比等优势，覆盖绝大部分电子设备应用需求。提供专用于车载供电优化的开关电源变换芯片，最大输入工作电压可到 40V，兼容常规的车载蓄电池(轿车 12V/卡车 24V)，输出电流能力 0A~5A，系统转换效率最高可达 92%以上，内置恒压恒流控制环路模块，可满足绝大部分车载电子产品的供电应用，例如：车载充电器、行车记录仪、车载显示屏等。,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,AC-DC 电源管理,https://www.xlsemi.com/products_AC_DC_N_Isolated.html,非隔离型变换器,应用于电视、冰箱、洗衣机、厨卫电器、智能家居等领域,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,中压降压同步整流恒压+恒流芯片,https://www.xlsemi.com/products_DC_DC_buck_mvsr.html,无,工作电压范围 5~45V，最大开关电流 4A，内置恒压+恒流功能模块，支持输出电流调节及多路并联输出，具有出色的瞬态负载响应特性、线性调整率和负载调整率，转换效率最高可达 96%，内置补偿模块，外围电路精简，可靠性高；可应用于汽车电子、工业控制、消费类电子等领域,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,高压降压电源芯片,https://www.xlsemi.com/products_DC_DC_buck_hv.html,无,用于便携式设备、移动设备、车载设备的电源变换；常用于蓄电池供电设备的电源管理（支持的蓄电池电压有 12V、24V、36V、48V、60V、72V、84V 等），芯龙技术采用业界先进的制造工艺，提供输入电压从 5V 到 100V，输出电流能力从 0 到 2.1A，开关频率不同，封装外形不同，高效率，高功率密度，高性价比的全系列高压降压开关直流电源变换芯片,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,高压降压同步整流恒压型电源芯片,https://www.xlsemi.com/products_DC_DC_buck_hvsr.html,无,输入电压 5-80V，输出电压任意调整，输出电流 0.6-1.5A，支持降压隔离拓扑；具有高精度、高一致性、高效率、高可靠性等特点。产品广泛应用于 GPS 定位、电池管理、通讯基站、智慧消防等,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,中压升压（内置 SBD）,https://www.xlsemi.com/products_DC_DC_boost_mvsbd.html,无,中压升压恒压型电源芯片，内置整流肖特基二极管，输入电压 2.5-25V，输出电压 3-32V，开关频率 1.2M，采用小型化封装，支持 SEPIC 拓扑；具有高精度、高效率、高性价比、高可靠性及外围电路简洁、系统成本低廉、性能优异等特点。产品广泛应用于面板电源、GPS 定位、可穿戴便携式电子设备等,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,中压升压同步整流,https://www.xlsemi.com/products_DC_DC_boost_mvsr.html,无,应用于车载影音系统、仪表、电梯控制板、家电主控、厨卫主控、智能家居、传感器供电、携式电子设备、智能家居、电子门禁系统、音响功放、汽车应急电源、LED 照明、车载冰箱、背光驱动、工业机器人、打印机、道闸、储能电源、共享充电仓、超级电容充电等领域,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,高压升压型电源芯片,https://www.xlsemi.com/products_DC_DC_boost_hv.html,无,输入电压 3.6V 至 40V，输出电压 5V 至 60V，开关电流能力 0A 至 5A，系统转换效率最高可达 95%以上，输出功率 0~100W，可实现升压、升降压等电压变换；具有高耐压、大功率、高效率、高可靠性等优势。广泛应用于基站天线、声卡驱动、音响功放、移动通讯、远程抄表、共享充电仓、仪器仪表、工业电源等,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,降压恒流驱动,https://www.xlsemi.com/products_DC_DC_led_buck.html,无,LED 照明驱动芯片支持降压、升压、升降压等多种拓朴结构，系统转换效率高达 98%，具有高耐压、大功率、高效率、高可靠性等优势。应用领域包括舞台照明、隧道照明、汽车 LED 驱动、太阳能路灯、户外照明、特种照明、应急照明、智慧消防、背光驱动等,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,降压同步整流恒流驱动,https://www.xlsemi.com/products_DC_DC_led_bucksr.html,无,降压型 LED 照明同步整流驱动芯片，工作电压范围 5~90V，具有大功率、高效率、高可靠性、高精度、外围电路简单等优势。应用领域包括舞台照明、隧道照明、汽车 LED 驱动、太阳能路灯、户外照明、特种照明、应急照明、智慧消防、背光驱动等,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,升压恒流驱动,https://www.xlsemi.com/products_DC_DC_led_boost.html,无,LED 照明驱动芯片支持降压、升压、升降压等多种拓朴结构，系统转换效率高达 98%，具有高耐压、大功率、高效率、高可靠性等优势。应用领域包括舞台照明、隧道照明、汽车 LED 驱动、太阳能路灯、户外照明、特种照明、应急照明、智慧消防、背光驱动等,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,升压恒流驱动（内置 SBD）,https://www.xlsemi.com/products_DC_DC_led_boostsbd.html,无,内置整流肖特基二极管的 LED 照明驱动芯片，支持升压、升降压等多种拓扑结构，输入电压支持 2.5-25V，输出支持 1-10 串，恒流精度最高可达±3%，支持使能引脚调光，系统外围电路简洁，转换效率 87%以上，具有高频、高性价比、高精度、高效率、高可靠性等优势,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,BMS,https://www.xlsemi.com/products_BMS_monitors_balancers.html,电池监控与均衡器,应用于无人机、电动工具、电动汽车、电动自行车、扫地机器人及储能系统等,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,降压型变换器,https://www.xlsemi.com/products_DC_DC_led_backlight.html,中压降压、中压降压同步整流、高压降压、高压降压同步整流,无,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,升压型变换器,https://www.xlsemi.com/products_DC_DC_led_backlight.html,中压升压（内置 SBD）、中压升压同步整流、高压升压,无,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,LED 驱动,https://www.xlsemi.com/products_DC_DC_led_backlight.html,降压恒流驱动、降压同步整流恒流驱动、升压恒流驱动、升压恒流驱动（内置 SBD）、背光驱动,应用于舞台照明、隧道照明、汽车 LED 驱动、太阳能路灯、户外照明、特种照明、应急照明、智慧消防、背光驱动等领域,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,AC-DC 电源管理,https://www.xlsemi.com/products_AC_DC_Isolated.html,隔离型变换器,应用于电视、冰箱、洗衣机、厨卫电器、智能家居等领域,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,电池保护器,https://www.xlsemi.com/products_BMS_protectors.html,无,应用于无人机、电动工具、电动汽车、电动自行车、扫地机器人及储能系统等,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,主动均衡器,https://www.xlsemi.com/products_BMS_active.html,无,应用于无人机、电动工具、电动汽车、电动自行车、扫地机器人及储能系统等,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,霍尔传感器,https://www.xlsemi.com/products_MEMS_linear_hall.html,无,应用于 BMS、电机控制、电动车、仪器仪表等领域,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,电流传感器,https://www.xlsemi.com/products_MEMS_current_sensors.html,无,无,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,非接触式温度传感器,https://www.xlsemi.com/products_MEMS_IR_non_contact.html,无,应用于工业测温，额温枪，耳温计，无线蓝牙耳机，笔记本电脑和服务器热管理等,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,非制冷红外热电堆阵列传感器,https://www.xlsemi.com/products_MEMS_IR_thermopile.html,无,应用领域：智慧安防，温度场感知，行为/动作识别，燃烧探测，汽车辅助驾驶等,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,非制冷氧化钒红外焦平面传感器,https://www.xlsemi.com/products_MEMS_IR_Vox.html,无,应用领域：电力巡检，石油化工，安防监控，智能驾驶，智能座舱等,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,压力传感器,https://www.xlsemi.com/products_MEMS_pressure_absolute.html,无,应用于气压计、高度计、TPMS 汽车胎压监测、汽车 TMAP（发动机进气压力传感器）等,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,DC-DC 电源管理,https://www.xlsemi.com/products_MD_IPM.html,降压型变换器,中压降压、中压降压同步整流、高压降压、高压降压同步整流、升压型变换器、中压升压（内置 SBD）、中压升压同步整流、高压升压、LED 驱动、降压恒流驱动、降压同步整流恒流驱动、升压恒流驱动、升压恒流驱动（内置 SBD）、背光驱动,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,AC-DC 电源管理,https://www.xlsemi.com/products_MD_IPM.html,非隔离型变换器、隔离型变换器,无,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,BMS,https://www.xlsemi.com/products_MD_IPM.html,电池监控与均衡器、电池保护器、主动均衡器,无,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,Motor Drivers,https://www.xlsemi.com/products_MD_IPM.html,IPM,无,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,信号链,https://www.xlsemi.com/products_MD_IPM.html,直流电源载波通讯,无,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,音频功放,https://www.xlsemi.com/products_MD_IPM.html,AB 类音频功率放大器、D 类音频功率放大器,无,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,MEMS 传感器,https://www.xlsemi.com/products_MD_IPM.html,霍尔传感器、红外传感器、压力传感器,霍尔开关传感器、线性传感器、电流传感器、非分光红外型气体探测器、非接触式温度传感器、非制冷红外热电堆阵列探测器、非制冷氧化钒红外焦平面探测器、表压传感器、绝压传感器,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,降压型变换器,https://www.xlsemi.com/products_MD_IPM.html#,中压降压、中压降压同步整流、高压降压、高压降压同步整流、升压型变换器、中压升压（内置 SBD）、中压升压同步整流、高压升压、LED 驱动、降压恒流驱动、降压同步整流恒流驱动、升压恒流驱动、升压恒流驱动（内置 SBD）、背光驱动,无,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,非隔离型变换器,https://www.xlsemi.com/products_MD_IPM.html#,无,无,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,隔离型变换器,https://www.xlsemi.com/products_MD_IPM.html#,无,无,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,电池监控与均衡器,https://www.xlsemi.com/products_MD_IPM.html#,无,无,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,IPM,https://www.xlsemi.com/products_MD_IPM.html#,无,无,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,直流电源载波通讯,https://www.xlsemi.com/products_MD_IPM.html#,无,无,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,AB 类音频功率放大器,https://www.xlsemi.com/products_MD_IPM.html#,无,无,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,D 类音频功率放大器,https://www.xlsemi.com/products_MD_IPM.html#,无,无,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,霍尔传感器,https://www.xlsemi.com/products_MD_IPM.html#,霍尔开关传感器、线性传感器、电流传感器,无,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,红外传感器,https://www.xlsemi.com/products_MD_IPM.html#,非分光红外型气体探测器、非接触式温度传感器、非制冷红外热电堆阵列探测器、非制冷氧化钒红外焦平面探测器,无,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,压力传感器,https://www.xlsemi.com/products_MD_IPM.html#,表压传感器、绝压传感器,无,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,非分光红外型气体探测器,https://www.xlsemi.com/products_MEMS_IR_NDIR.html#,无,"用于 CO2,CH4,CO 等气体探测，新风系统，室内空气质量监测，汽车座舱环境控制，矿井安全监测等",root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,BMS,https://www.xlsemi.com/products_BMS_protectors.html#,无,电池监控与均衡器、电池保护器、主动均衡器,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,红外传感器,https://www.xlsemi.com/products_MEMS_linear_hall.html#,无,非分光红外型气体探测器、非接触式温度传感器、非制冷红外热电堆阵列探测器、非制冷氧化钒红外焦平面探测器,root,1906551877,无,0,无,0,无,0
+上海芯龙半导体技术股份有限公司,霍尔开关传感器,https://www.xlsemi.com/products_MEMS_hall_switch.html,无,包含单极、锁存、全极等系列，具有宽工作电压、低静态电流、50mA 负载能力及宽工作温度范围等优势，采用集电极开路输出架构，具有较强的抗电磁干扰能力,root,1906551877,无,0,无,0,无,0

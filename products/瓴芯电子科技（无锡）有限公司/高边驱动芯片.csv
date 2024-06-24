@@ -1,0 +1,14 @@
+产品网址：https://www.len-technology.com/products/high-side-driver-chip
+产品结构：root->高边驱动芯片
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|高边驱动芯片|无|可以驱动感性、容性、阻性等不同类型负载|
+
+产品型号,输入电压Min (V),输入电压Max (V),通道数,导通电阻 (mohm),输出电流 (A),限流值 (A),报错信号,电流采集,封装,产品等级,工作结温,功能安全类别,状态
+LNS37100BQ1TSR,4,36,1,100,4.0,"可调, 7(Max)",有,有,TSSOP-EP14,车规级,-40 to 150,Functional Safety Capable,已量产
+LNS37100AQ1AJR,4,36,1,100,4.0,"可调, 7(Max)",有,无,TSSOP-EP14,车规级,-40 to 150,Functional Safety Capable,已量产
+LNQ37160BQ1TSR,4,40,4,160,2.5,"可调, 5(Max)",有,有,TSSOP-EP28,车规级,-40 to 150,Functional Safety Capable,已量产
+LNQ37160AQ1TSR,4,40,4,160,2.5,"可调, 5(Max)",有,无,TSSOP-EP28,车规级,-40 to 150,Functional Safety Capable,已量产
+LNQ37000BQ1ALR,4,40,4,1000,0.75,"可调, 1(Max)",有,有,TSSOP-EP20,车规级,-40 to 150,Functional Safety Capable,已量产
+LNQ37000AQ1ALR,4,40,4,1000,0.75,"可调, 1(Max)",有,无,TSSOP-EP20,车规级,-40 to 150,Functional Safety Capable,已量产

@@ -1,0 +1,9 @@
+-> root https://www.visinextek.com
+  -> VS839_产品型号_为旌科技 https://www.visinextek.com/chanpinxinghao/105.html
+  -> VS819L_产品型号_为旌科技 https://www.visinextek.com/chanpinxinghao/111.html
+  -> VS816_产品型号_为旌科技 https://www.visinextek.com/chanpinxinghao/113.html
+  -> VS835_产品型号_为旌科技 https://www.visinextek.com/chanpinxinghao/112.html
+  -> VS919_产品型号_为旌科技 https://www.visinextek.com/chanpinxinghao448/115.html
+  -> VS919L_产品型号_为旌科技 https://www.visinextek.com/chanpinxinghao448/130.html
+  -> VS909_产品型号_为旌科技 https://www.visinextek.com/chanpinxinghao448/131.html
+  -> VS919_产品型号_为旌科技_1 https://visinextek.com/chanpinxinghao448/115.html

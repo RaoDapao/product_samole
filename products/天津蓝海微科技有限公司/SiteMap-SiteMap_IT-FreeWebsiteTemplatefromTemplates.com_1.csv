@@ -1,0 +1,6 @@
+产品网址：http://www.microscapes.com.cn/product14.html
+产品结构：root->SiteMap-SiteMap|IT-FreeWebsiteTemplatefromTemplates.com
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|寄生参数提取网表中器件一致性比较工具 plumb|无|自动对 RC 网表进行等价处理，把寄生电容自动开路，把寄生电阻自动短路，然后与原始的 cdl 网表进行 LVS 比较，以检查 RC 提取工具的网表输出是否与原始 cdl 网表等价。支持标准的 spice 格式网表，有命令行和图形界面两种启动方式。|

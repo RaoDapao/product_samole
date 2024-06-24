@@ -1,0 +1,20 @@
+产品网址：https://www.njsme.com/?aPRODUCTSPRODUCTSC200V/80.html
+产品结构：root->AutomotiveModules-HalfBridge-200V-HalfBridge-南京银茂微电子制造有限公司-
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Automotive Modules-Half Bridge|200V|无|
+
+VDSS=200V,VDSS=200V.1,VDSS=200V.2,VDSS=200V.3,VDSS=200V.4,VDSS=200V.5
+Part Number,Voltage(V),Current(A),RDS(on)@10V,Comments,Links
+MM450HF20B1S,200V,450,2.00mΩ,,
+MM550HF20B1S,200V,550,1.60mΩ,,
+MM650HF20B1S,200V,650,1.30mΩ,,
+,,,,,
+,,,,,
+VDSS=200V,VDSS=200V,VDSS=200V,VDSS=200V,VDSS=200V,VDSS=200V
+Part Number,Voltage(V),Current(A),RDS(on)@10V,Comments,Links
+MM450HF20T2LS,200,450,2.00mΩ,with FRD,
+MM550HF20T2LS,200,550,1.60mΩ,with FRD,
+MM650HF20T2LS,200,650,1.30mΩ,with FRD,
+,,,,,

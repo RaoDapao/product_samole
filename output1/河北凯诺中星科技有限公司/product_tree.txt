@@ -1,0 +1,28 @@
+-> root https://www.flextouch.com.cn
+  -> 产品中心_浙江鑫柔科技有限公司 https://www.flextouch.com.cn/product/introduction
+  -> 手机及智能穿戴应用_手机及智能穿戴_浙江 https://www.flextouch.com.cn/product/info/flextouch25.html
+  -> 平板及笔电_平板笔电_浙江鑫柔科技有限公 https://www.flextouch.com.cn/product/info/flextouch26.html
+  -> 电子纸应用_电子纸应用_浙江鑫柔科技有限 https://www.flextouch.com.cn/product/info/flextouch29.html
+  -> 车载_手机及智能穿戴_浙江鑫柔科技有限公 https://www.flextouch.com.cn/product/info/flextouch27.html
+  -> 工控_手机及智能穿戴_浙江鑫柔科技有限公 https://www.flextouch.com.cn/product/info/flextouch28.html
+  -> 标准产品_Sensor公模方案_浙江鑫柔 https://www.flextouch.com.cn/product/info/flextouch30.html
+  -> 產品中心_浙江鑫柔科技有限公司 https://www.flextouch.com.cn/tc/product/introduction
+  -> 手機及智慧穿戴應用_产品应用_浙江鑫柔科 https://www.flextouch.com.cn/tc/product/info/flextouch25.html
+  -> 平板及筆電_产品应用_浙江鑫柔科技有限公 https://www.flextouch.com.cn/tc/product/info/flextouch26.html
+  -> 電子紙應用_产品应用_浙江鑫柔科技有限公 https://www.flextouch.com.cn/tc/product/info/flextouch29.html
+  -> 車載_产品应用_浙江鑫柔科技有限公司 https://www.flextouch.com.cn/tc/product/info/flextouch27.html
+  -> 工控_产品应用_浙江鑫柔科技有限公司 https://www.flextouch.com.cn/tc/product/info/flextouch28.html
+  -> 標準產品_产品应用_浙江鑫柔科技有限公司 https://www.flextouch.com.cn/tc/product/info/flextouch30.html
+  -> TypicalSpecification https://www.flextouchtech.com/product/introduction
+  -> TypicalSpecification_1 https://www.flextouchtech.com/product/specifications
+  -> TouchDisplayModules_ https://www.flextouchtech.com/product/modules
+  -> MobileandSmartWearab https://www.flextouchtech.com/product/info/flextouch25.html
+  -> TabletandLaptop__Fle https://www.flextouchtech.com/product/info/flextouch26.html
+  -> E-Paper_E-paper_Flex https://www.flextouchtech.com/product/info/flextouch29.html
+  -> Automotive__FlexTouc https://www.flextouchtech.com/product/info/flextouch27.html
+  -> IndustrialControl__F https://www.flextouchtech.com/product/info/flextouch28.html
+  -> StandardTouchSensors https://www.flextouchtech.com/product/info/flextouch30.html
+    -> ThinkBook Plus Gen 5 Hybrid 
+    -> Zenbook DUO 
+    -> HP Spectre x360 14 
+    -> Dell XPS line 

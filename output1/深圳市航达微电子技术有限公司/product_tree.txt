@@ -1,0 +1,118 @@
+-> root http://hawdar.com
+  -> 首页 
+    -> 产品中心 https://hawdar.com/index.php?catid=2
+      -> AESA上下变频器 https://hawdar.com/index.php?catid=68
+        -> Ka波段平板天线变频器- https://hawdar.com/index.php?id=176
+        -> Ku波段平板天线变频器- https://hawdar.com/index.php?id=177
+      -> 抗5G干扰LNB、LNA https://hawdar.com/index.php?catid=52
+        -> 卫星通信射频传输系统国产化方案提供商- https://hawdar.com/index.php?id=146
+        -> Surp@ss系列抗5G干扰一体化解决方案- https://hawdar.com/index.php?id=145
+        -> Surp@ssⅡ抗5G干扰LNB（增强型）- https://hawdar.com/index.php?id=50
+        -> Surp@ssⅡ抗5G干扰LNA（增强型）- https://hawdar.com/index.php?id=137
+        -> Surp@ssⅠ抗5G干扰LNB- https://hawdar.com/index.php?id=128
+        -> Surp@ss抗5G干扰波导滤波器- https://hawdar.com/index.php?id=141
+      -> LNAs https://hawdar.com/index.php?catid=28
+        -> LNA备份系统 https://hawdar.com/index.php?catid=33
+          -> Ku波段低噪声放大器1:2备份系统- https://hawdar.com/index.php?id=48
+          -> Ku波段低噪声放大器1:1备份系统- https://hawdar.com/index.php?id=43
+          -> C波段低噪声放大器1:1备份系统- https://hawdar.com/index.php?id=42
+        -> C频段-LNA https://hawdar.com/index.php?catid=34
+          -> C波段低噪放- https://hawdar.com/index.php?id=44
+        -> Ku频段-LNA https://hawdar.com/index.php?catid=35
+          -> Ku波段低噪放- https://hawdar.com/index.php?id=47
+        -> Ka频段-LNA https://hawdar.com/index.php?catid=36
+          -> Ka波段低噪放- https://hawdar.com/index.php?id=46
+        -> LNA电源监控 https://hawdar.com/index.php?catid=53
+        -> L频段-LNA https://hawdar.com/index.php?catid=58
+          -> L波段低噪放- https://hawdar.com/index.php?id=154
+        -> P频段-LNA https://hawdar.com/index.php?catid=59
+          -> P波段低噪放- https://hawdar.com/index.php?id=155
+        -> S频段-LNA https://hawdar.com/index.php?catid=60
+          -> S波段低噪放- https://hawdar.com/index.php?id=156
+        -> X频段LNA https://hawdar.com/index.php?catid=61
+      -> LNBs https://hawdar.com/index.php?catid=11
+        -> C频段LNB https://hawdar.com/index.php?catid=37
+          -> 卫星通信国产领先水平LNAs-LNBs- https://hawdar.com/index.php?id=147
+          -> Surp@ssCS系列C波段LNB单本振- https://hawdar.com/index.php?id=49
+          -> Surp@ssCD系列C波段LNB双本振- https://hawdar.com/index.php?id=149
+        -> Ku频段LNB https://hawdar.com/index.php?catid=39
+          -> 全国产化Ku波段LNB单本振- https://hawdar.com/index.php?id=174
+          -> Surp@ssKuS系列Ku波段LNB单本振- https://hawdar.com/index.php?id=132
+          -> Surp@ssKuD系列Ku波段LNB双本振- https://hawdar.com/index.php?id=150
+          -> Surp@ssKuD2系列Ku波段LNB双本振双输出- https://hawdar.com/index.php?id=52
+          -> Surp@ssKuT系列Ku波段LNB三本振- https://hawdar.com/index.php?id=56
+          -> Surp@ssKuQ系列Ku波段LNB四本振- https://hawdar.com/index.php?id=138
+        -> Ka频段LNB https://hawdar.com/index.php?catid=50
+          -> Surp@ssKaS系列Ka波段LNB单本振- https://hawdar.com/index.php?id=54
+          -> Surp@ssKaD系列Ka波段LNB双本振- https://hawdar.com/index.php?id=55
+          -> Surp@ssKaD2系列Ka波段LNB双本振双输出- https://hawdar.com/index.php?id=151
+          -> Surp@ssKaT系列Ka波段LNB三本振- https://hawdar.com/index.php?id=57
+          -> Surp@ssKaQ系列Ka波段LNB四本振- https://hawdar.com/index.php?id=152
+          -> Surp@ssKaQ2系列Ka波段LNB四本振双输出- https://hawdar.com/index.php?id=153
+        -> S频段LNB https://hawdar.com/index.php?catid=55
+          -> Surp@ssSS系列S波段LNB- https://hawdar.com/index.php?id=133
+        -> X频段LNB https://hawdar.com/index.php?catid=57
+          -> Surp@ssXS系列X波段LNB- https://hawdar.com/index.php?id=139
+        -> 宽带LNB https://hawdar.com/index.php?catid=56
+          -> Surp@ssW系列 https://hawdar.com/index.php?id=134
+        -> LNB电源监控 https://hawdar.com/index.php?catid=54
+          -> LNB供电及本振单元- https://hawdar.com/index.php?id=100
+            -> 产品型号 
+            -> 功能描述 
+      -> BUCs https://hawdar.com/index.php?catid=10
+        -> Ka频段BUC https://hawdar.com/index.php?catid=44
+          -> Ka波段BUC（6W、10W、20W、40W）- https://hawdar.com/index.php?id=75
+        -> Ku频段BUC https://hawdar.com/index.php?catid=45
+          -> Ku波段BUC（3W）- https://hawdar.com/index.php?id=140
+          -> Ku波段BUC（4W）- https://hawdar.com/index.php?id=78
+          -> Ku波段BUC（6W-8W）- https://hawdar.com/index.php?id=130
+          -> Ku波段BUC（16W~60W）- https://hawdar.com/index.php?id=131
+          -> Ku波段mini-BUC（16W）- https://hawdar.com/index.php?id=159
+        -> C频段BUC https://hawdar.com/index.php?catid=46
+          -> C波段BUC（100W、200W、400W）- https://hawdar.com/index.php?id=77
+          -> C波段BUC（20W、40W）- https://hawdar.com/index.php?id=76
+      -> BDCs https://hawdar.com/index.php?catid=64
+        -> AESA上下变频器 https://hawdar.com/index.php?catid=65
+          -> Ka波段平板阵列天线上-下变频器- https://hawdar.com/index.php?id=171
+        -> Ku波段BDC https://hawdar.com/index.php?catid=66
+        -> Ka波段BDC https://hawdar.com/index.php?catid=67
+      -> 变频器 https://hawdar.com/index.php?catid=9
+        -> L/C/Ku/Ka频段上变频器 https://hawdar.com/index.php?catid=40
+          -> Ka波段上变频器- https://hawdar.com/index.php?id=61
+          -> Ku波段上变频器- https://hawdar.com/index.php?id=60
+          -> C波段上变频器- https://hawdar.com/index.php?id=59
+          -> L波段上变频器- https://hawdar.com/index.php?id=58
+        -> L/C/Ku/Ka频段下变频器 https://hawdar.com/index.php?catid=41
+          -> Ka波段下变频器- https://hawdar.com/index.php?id=65
+          -> Ku波段下变频器- https://hawdar.com/index.php?id=64
+          -> C波段下变频器- https://hawdar.com/index.php?id=63
+          -> L波段下变频器- https://hawdar.com/index.php?id=62
+        -> 插卡式上下变频器 https://hawdar.com/index.php?catid=47
+          -> 智能 https://hawdar.com/index.php?id=105
+      -> 线路放大器 https://hawdar.com/index.php?catid=30
+        -> L波段双通道 https://hawdar.com/index.php?id=84
+        -> Ku波段双通道 https://hawdar.com/index.php?id=83
+        -> C波段1:1备份 https://hawdar.com/index.php?id=82
+        -> C波段双通道 https://hawdar.com/index.php?id=81
+    -> 技术服务 
+      -> 产品试用申请 https://hawdar.com/index.php?catid=17
+        -> AESA 上下变频器 
+        -> LNAs 
+        -> LNBs 
+        -> BUCs 
+        -> BDCs 
+        -> 变频器 
+        -> 线路放大器 
+      -> 资料下载 
+        -> 产品手册 https://hawdar.com/index.php?catid=24
+          -> 相控阵天线（AESA）上下变频器 
+          -> Surp@ss C 频段 5G 抗干扰 LNB\LNA 
+          -> LNA 低噪放 
+          -> LNA 备份系统 
+          -> LNB 产品目录 
+          -> S/X 波段 LNB 
+          -> C 波段 LNB 
+          -> Ku 波段 LNB 
+          -> Ka 波段 LNB 
+          -> BUC 上变频功率放大模块 
+    -> 关于公司 

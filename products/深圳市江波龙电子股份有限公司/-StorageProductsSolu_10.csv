@@ -1,0 +1,25 @@
+产品网址：https://www.longsys.com/products/memory-module/industrial-ddr4-dimm/industrial-ddr4-dimm.html
+产品结构：root->-StorageProductsSolution–LongsysacquiredLEXAR&Foreseee
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Industrial DDR4 DIMM|无|允许在更恶劣的应用领域中实现安全、可靠和耐用的解决方案|
+
+Product Series,PN,Capacity,Interface,Architecture,Data Rate,CL Value,Timing,Clock,Operating Voltage,Gold Fingers (Edge Connectors),Operating Temperature,Size,ECC
+F4SN,F4SNW-4GHE32B000,4GB,DDR4 SODIMM,1R×16,3200Mbps,22,22-22-22,1600MHz,1.2V,30u”,-40℃~85℃,69.60*30.00 mm,without ECC
+F4SN,F4SNW-8GHE32A000,8GB,DDR4 SODIMM,1R×8,3200Mbps,22,22-22-22,1600MHz,1.2V,30u”,-40℃~85℃,69.60*30.00 mm,without ECC
+F4SN,F4SNW-QGHC32A000,16GB,DDR4 SODIMM,1R×8,3200Mbps,22,22-22-22,1600MHz,1.2V,30u”,-40℃~85℃,69.60*30.00 mm,without ECC
+F4SN,F4SNW-RGHC32C000,32GB,DDR4 SODIMM,2R×8,3200Mbps,22,22-22-22,1600MHz,1.2V,30u”,-40℃~85℃,69.60*30.00 mm,without ECC
+F4SN,F4SNS-4GHE32B000,4GB,DDR4 SODIMM,1R×16,3200Mbps,22,22-22-22,1600MHz,1.2V,30u”,0℃~85℃,69.60*30.00 mm,without ECC
+F4SN,F4SNS-8GHE32A000,8GB,DDR4 SODIMM,1R×8,3200Mbps,22,22-22-22,1600MHz,1.2V,30u”,0℃~85℃,69.60*30.00 mm,without ECC
+F4SN,F4SNS-QGHC32A000,16GB,DDR4 SODIMM,1R×8,3200Mbps,22,22-22-22,1600MHz,1.2V,30u”,0℃~85℃,69.60*30.00 mm,without ECC
+F4SN,F4SNS-RGHC32C000,32GB,DDR4 SODIMM,2R×8,3200Mbps,22,22-22-22,1600MHz,1.2V,30u”,0℃~85℃,69.60*30.00 mm,without ECC
+F4SE,F4SES-8GHE32A000,8GB,DDR4 SODIMM,1R×8,3200Mbps,22,22-22-22,1600MHz,1.2V,30u”,0℃~85℃,69.60*30.00 mm,with ECC
+F4SE,F4SES-QGHC32A000,16GB,DDR4 SODIMM,1R×8,3200Mbps,22,22-22-22,1600MHz,1.2V,30u”,0℃~85℃,69.60*30.00 mm,with ECC
+F4SE,F4SES-RGHC32C000,32GB,DDR4 SODIMM,2R×8,3200Mbps,22,22-22-22,1600MHz,1.2V,30u”,0℃~85℃,69.60*30.00 mm,with ECC
+
+
+Number,Platform
+01,Intel
+02,AMD
+（  The product supports mainstream platforms and only part of it is shown here.  ）,（  The product supports mainstream platforms and only part of it is shown here.  ）

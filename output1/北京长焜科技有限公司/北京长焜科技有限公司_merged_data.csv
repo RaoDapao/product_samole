@@ -1,0 +1,39 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+北京长焜科技有限公司,4G 基站,https://bjcktech.com/index.php/Home/Product/index/id/39.html,BS6212 T1800,集成 4G 基站,4GBaseStation,1385431598,无,0,无,0,无,0
+北京长焜科技有限公司,4G 基站,https://bjcktech.com/index.php/Home/Product/index/id/39.html,BS6212 F1800,集成 4G 基站,4GBaseStation,1385431598,无,0,无,0,无,0
+北京长焜科技有限公司,4G 微基站,https://bjcktech.com/index.php/Home/Product/index/id/39.html,BS6110 T1800,集成 4G 微基站,4GBaseStation,1385431598,无,0,无,0,无,0
+北京长焜科技有限公司,4G 微基站,https://bjcktech.com/index.php/Home/Product/index/id/39.html,BS6120(P) F1821,集成 4G 微基站,4GBaseStation,1385431598,无,0,无,0,无,0
+北京长焜科技有限公司,分布式 4G 基站 BBU,https://bjcktech.com/index.php/Home/Product/index/id/39.html,B6200,分布式 4G 基站的 BBU,4GBaseStation,1385431598,无,0,无,0,无,0
+北京长焜科技有限公司,分布式 4G 基站 RRU,https://bjcktech.com/index.php/Home/Product/index/id/39.html,R6212,分布式 4G 基站的 RRU,4GBaseStation,1385431598,无,0,无,0,无,0
+北京长焜科技有限公司,4G 基站,https://bjcktech.com/index.php/Home/Product/view/id/253.html,BS6110 T1800,内置基带单元和射频单元功能，支持 TD-LTE 1.8GHz 频段，具有两个射频通道（2T2R），最大射频功率为 250mW，满足行业客户专用网络定制室内 LTE 信号覆盖的要求。具有一体化设计、高集成度、高数据吞吐量、节能和高环境适应性等特点。,无,0,无,0,无,0,无,0
+北京长焜科技有限公司,4G 基站,https://bjcktech.com/index.php/Home/Product/view/id/254.html,BS6120(P) F1821,内置基带单元和射频单元功能，基于先进的 SoC 基站解决方案和运营商级硬件和软件平台。支持 FDD LTE B1/B3 频段，具有两个或四个射频通道（2T2R 或 4T4R）。每个通道的最大射频功率为 250mW。内置 UWB（超宽带）定位功能，满足地下采矿覆盖的定制需求。具有一体化设计和高集成度、高数据吞吐量、LTE 和 UWB 定位双模式、节能和高环境适应性等特点。,无,0,无,0,无,0,无,0
+北京长焜科技有限公司,4G 基站,https://bjcktech.com/index.php/Home/Product/view/id/255.html,B6200,是基于 SDR 平台的分布式 4G 宏基站的基带单元，符合 TD-LTE 技术和宽带集群通信（B-TrunC）标准。具有大容量设计和便捷扩展、成熟稳定、易于安装和灵活组网、节能和便于维护等特点。,无,0,无,0,无,0,无,0
+北京长焜科技有限公司,4G 基站,https://bjcktech.com/index.php/Home/Product/view/id/256.html,R6212,是分布式 4G 宏基站的远程射频单元，基于 SDR 平台。符合 TD-LTE 技术和宽带集群通信（B-TrunC）标准。支持双射频载波，最大载波带宽可达 40MHz，可提供高数据吞吐量和大用户容量。具有两个射频通道（2T2R），每个通道的最大射频功率为 30W，满足定制的长距离 LTE 信号覆盖要求。易于部署，支持远程运维和在线软件升级，维护和操作方便。支持高效自然冷却技术，节能环保，无噪音运行。防护等级为 IP66，工作温度范围为-40℃至+55℃，可适应各种户外应用环境。,无,0,无,0,无,0,无,0
+北京长焜科技有限公司,4G Terminal,https://bjcktech.com/index.php/Home/Product/index/id/41.html,CP610,工业 4G 户外 CPE 产品,4GTerminal,6251505238,无,0,无,0,无,0
+北京长焜科技有限公司,4G Terminal,https://bjcktech.com/index.php/Home/Product/index/id/41.html,CP615,工业 4G 户外 CPE 产品,4GTerminal,6251505238,无,0,无,0,无,0
+北京长焜科技有限公司,4G 终端,https://bjcktech.com/index.php/Home/Product/view/id/265.html,CP615,CP615 是一款工业户外 4G CPE 产品，专为符合 3GPP 定义的 Release9 标准的 4G 网络而设计。它支持 TD-LTE 1.4GHz 和 1.8GHz 频段，集成了 LTE 调制解调器、网络路由器和数据接入点功能，可帮助客户构建户外 4G 高速物联网（IoT）网络，实现远程数据访问和视频监控。CP615 具有高可靠性，可连续运行 7*24 小时，符合运营商级可靠性要求。它支持多种 LTE 载波带宽和 3GPP 组织定义的灵活上下行时隙分配，如 3:1、2:2、1:3 时隙分配。CP615 支持下行双天线 MIMO，最大无线发射功率为 5W。它还具有丰富的网络路由功能，如路由配置和管理、动态域名解析、DHCP、多 IP 配置、数据链路备份等。RS232 串口功能可选。CP615 支持防火墙和 VPN 功能，以提高网络安全性。此外，它支持 SNMP 协议、定制的 EMS 软件、一键启动功能，并支持远程自动软件升级，可根据客户需求定制软件功能。CP615 的防护等级为 IP65，工作温度范围为-40℃至+55℃，使其能够在各种户外应用环境中工作。,无,0,无,0,无,0,无,0
+北京长焜科技有限公司,5G 基站,https://bjcktech.com/index.php/Home/Product/index/id/25.html,MetaBTS BS5514,集成 5G 基站,5GBaseStation,4723114445,无,0,无,0,无,0
+北京长焜科技有限公司,5G 基站,https://bjcktech.com/index.php/Home/Product/index/id/25.html,MetaBTS BS5524,集成 5G 基站,5GBaseStation,4723114445,无,0,无,0,无,0
+北京长焜科技有限公司,5G 基站,https://bjcktech.com/index.php/Home/Product/index/id/25.html,MetaBTS BS5622,集成 5G 基站,5GBaseStation,4723114445,无,0,无,0,无,0
+北京长焜科技有限公司,5G 基站,https://bjcktech.com/index.php/Home/Product/index/id/25.html,MetaBTS BS5604,集成 5G Femto 基站,5GBaseStation,4723114445,无,0,无,0,无,0
+北京长焜科技有限公司,5G 基站,https://bjcktech.com/index.php/Home/Product/index/id/25.html,MetaBTS BS5504,集成 5G 微基站,5GBaseStation,4723114445,无,0,无,0,无,0
+北京长焜科技有限公司,5G 基站,https://bjcktech.com/index.php/Home/Product/index/id/25.html,MetaBTS B5120,分布式 5G 基站的 BBU,5GBaseStation,4723114445,无,0,无,0,无,0
+北京长焜科技有限公司,5G 基站,https://bjcktech.com/index.php/Home/Product/index/id/25.html,MetaBTS E5100,分布式 5G 微基站的 rHUB,5GBaseStation,4723114445,无,0,无,0,无,0
+北京长焜科技有限公司,5G 基站,https://bjcktech.com/index.php/Home/Product/index/id/25.html,MetaBTS R5104/R5102,分布式 5G 微基站的 pRRU,5GBaseStation,4723114445,无,0,无,0,无,0
+北京长焜科技有限公司,5G 基站,https://bjcktech.com/index.php/Home/Product/index/id/25.html,Customized Products,5G RAN 平台上的定制产品,5GBaseStation,4723114445,无,0,无,0,无,0
+北京长焜科技有限公司,5G Terminal,https://bjcktech.com/index.php/Home/Product/index/id/27.html,CP5104-IA00,Industrial 5G indoor CPE product,5GTerminal,9521889529,无,0,无,0,无,0
+北京长焜科技有限公司,5G Terminal,https://bjcktech.com/index.php/Home/Product/index/id/27.html,CP5104-OA00,Industrial 5G outdoor CPE product,5GTerminal,9521889529,无,0,无,0,无,0
+北京长焜科技有限公司,5G Terminal,https://bjcktech.com/index.php/Home/Product/index/id/27.html,CP5104-OB00,Industrial 5G outdoor CPE product,5GTerminal,9521889529,无,0,无,0,无,0
+北京长焜科技有限公司,Core Network,https://bjcktech.com/index.php/Home/Product/index/id/24.html,Meta5GC 200,All in One 5G CN product,CoreNetwork,1320260617,无,0,无,0,无,0
+北京长焜科技有限公司,Core Network,https://bjcktech.com/index.php/Home/Product/index/id/24.html,Meta5GC 2000,Carrier-grade 5G CN on NFV,CoreNetwork,1320260617,无,0,无,0,无,0
+北京长焜科技有限公司,Core Network,https://bjcktech.com/index.php/Home/Product/index/id/24.html,ECN200,Integrated 4G CN product,CoreNetwork,1320260617,无,0,无,0,无,0
+北京长焜科技有限公司,Core Network,https://bjcktech.com/index.php/Home/Product/index/id/24.html,ECN600,Integrated 4G CN product,CoreNetwork,1320260617,无,0,无,0,无,0
+北京长焜科技有限公司,Core Network,https://bjcktech.com/index.php/Home/Product/index/id/24.html,ICN200,IP Multl-media Subsystem product,CoreNetwork,1320260617,无,0,无,0,无,0
+北京长焜科技有限公司,Core Network,https://bjcktech.com/index.php/Home/Product/index/id/24.html,ICN600,IP Multl-media Subsystem product,CoreNetwork,1320260617,无,0,无,0,无,0
+北京长焜科技有限公司,Core Network,https://bjcktech.com/index.php/Home/Product/index/id/24.html,BCN200,Broadband Trunking CN product,CoreNetwork,1320260617,无,0,无,0,无,0
+北京长焜科技有限公司,Core Network,https://bjcktech.com/index.php/Home/Product/index/id/24.html,BCN1000,Broadband Trunking CN product,CoreNetwork,1320260617,无,0,无,0,无,0
+北京长焜科技有限公司,Meta5GC 200,https://bjcktech.com/index.php/Home/Product/view/id/172.html,无,Meta5GC 200 是一款一体化 5G 核心网产品，专为符合 3GPP 定义的 5GC 国际标准的专用网络而设计。它基于承载级软件和硬件架构，所有 5GC 网络元素都集成在一个 2U 高度的 X86 服务器的单个物理节点内。具有大容量和高集成密度、高融合性和可靠性、先进的设计和便捷的运维等特点。,无,0,无,0,无,0,无,0
+北京长焜科技有限公司,Meta5GC 2000,https://bjcktech.com/index.php/Home/Product/view/id/220.html,无,Meta5GC 2000 是一种面向电信运营商的、支持数百万用户的运营商级 5G 核心网产品，符合 3GPP 定义的 5GC 国际标准。它基于 NFV（网络功能虚拟化）技术和运营商级软件和硬件架构，所有 5GC 网络元素都集成在 Meta5GC 2000 内部。具有数百万用户的容量，基于 NFV 技术平台和运营商级全 IP 软件和硬件架构，Meta5GC 2000 可以通过 X86 服务器池实现数百万用户的容量。NFV 技术平台和 X86 服务器池可以为电信运营商实现灵活的容量配置，以构建不同规模的 5GC 网络。符合标准协议且易于构建，Meta5GC 2000 符合 3GPP 组织定义的 5G 核心网标准协议，并支持 SA 或 NSA 网络模式。所有 5GC 网络元素都可以集中或分布式部署，UPF 网络元素可以与 Meta5GC 2000 分离并位于 5G NR 接入网络附近。Meta5GC 2000 支持灵活的网络协议，以满足 5G 工业应用的需求和发展趋势。高可靠性和便捷的 O&M，Meta5GC 2000 基于运营商级软件和硬件架构，可以连续运行 7*24 小时，符合运营商级可靠性要求。Meta5GC 2000 的 O&M 功能的集中和远程管理帮助运营商方便地管理核心网络，满足电信运营商的网络管理架构要求。O&M 功能可以根据运营商的要求进行定制。,无,0,无,0,无,0,无,0
+北京长焜科技有限公司,5G 基带单元,https://bjcktech.com/index.php/Home/Product/view/id/196.html,无,"基于 5G DU 基带板，采用 19""标准 1U 高度机箱，内置一块或两块基带板。可与不同频段的 pRRU 组成 5G 室内分布式基站系统，或与 2T2R 两通道或 4T4R 四通道高射频功率 RRU 组成 5G 室外分布式基站系统",无,0,无,0,无,0,无,0
+北京长焜科技有限公司,5G DU 单元（基于 X86 架构）,https://bjcktech.com/index.php/Home/Product/view/id/196.html,无,根据客户需求，5G DU 基带板可通过 PCI-E 接口插入 X86/ARM 平台 RAN 服务器中作为 5G DU 板运行，满足客户在 5G 单模、4G&5G 双模等各种场景的部署要求,无,0,无,0,无,0,无,0
+北京长焜科技有限公司,集成 5G 基站,https://bjcktech.com/index.php/Home/Product/view/id/196.html,无,集成 5G 大功率基站源于 5G DU 基带单元，支持 4T4R 四通道，每通道射频功率为 5W/10W，载波带宽为 100MHz（Sub-6G）。可定制支持 3GPP 规划的不同频段，如 TDD 2.6GHz、3.5GHz 频段等,无,0,无,0,无,0,无,0

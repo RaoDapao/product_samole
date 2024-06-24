@@ -1,0 +1,33 @@
+-> root https://www.lssec.cn
+  -> 首页 
+    -> 产品中心 https://www.lssec.cn/?cat=2
+      -> 多链路 https://www.lssec.cn/?cat=3
+        -> 多链路手机伴侣 
+        -> 多链路 4G 网关 
+        -> 多链路安全路由器 
+        -> 多链路 5G 超高清视频传输设备（编解型） 
+        -> 多链路平板电脑 
+        -> 多链路移动车载台 
+        -> 多链路加固式笔记本电脑 
+        -> 多链路安全手机（二代） 
+      -> 守密者 https://www.lssec.cn/?cat=18
+      -> 其它 https://www.lssec.cn/?cat=46
+    -> PRODUCTS https://www.lssec.cn/?cat=2&lang=en
+      -> IPSec VPN Multi link Security Gateway 
+      -> Universal circuit board 
+      -> Multi-Link Mobile Companion 
+      -> Multi link 4G gateway 
+      -> Multi link secure router 
+      -> Multi link 5G ultra high definition video transmission equipment (decoding type) 
+      -> “Defender” Sun Moon Safe Portable Hard Drive 
+      -> “Defender” data security disk 
+      -> Multi link tablet computer 
+      -> “Tiger seal” secure mobile hard disk 
+      -> Multi link mobile vehicle station 
+      -> Multi link reinforced laptop 
+    -> PRODUCTS(第2页) https://www.lssec.cn/?cat=2&paged=2
+        -> 正文 https://www.lssec.cn/?p=7567
+          -> Multi link Communication Guarantee Terminal 
+          -> Multi link 5G Integrated Communication System 
+    -> TechnicalSupport 
+      -> Downloads 

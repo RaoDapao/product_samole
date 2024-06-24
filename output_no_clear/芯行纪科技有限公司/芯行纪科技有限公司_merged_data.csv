@@ -1,0 +1,15 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+芯行纪科技有限公司,智能布局规划工具,http://www.xtimes-da.com/?a=page&p=amazefp,AmazeFP,将机器学习技术与布局规划引擎结合，提供高度智能的拥塞感知、便捷的数据流分析和宏单元自动整理对齐功能，有效解决数字芯片后端设计阶段的布局规划难题，助力用户快速获取高质量布局规划方案，减少迭代次数，节约研发成本，提速产品上市时间。,root,1906551877,无,0,无,0,无,0
+芯行纪科技有限公司,数字布局布线工具,http://www.xtimes-da.com/index.php?a=page&p=amaze_sys,AmazeSys,包含宏单元布局规划、电源规划、布局、时钟树综合、布线、优化、寄生参数提取以及时序功耗分析等全功能模块，支持先进工艺制程下的超大规模设计，可完成数字芯片从 Netlist 到 GDS 的完整设计流程，快速达成性能、功耗、面积优化等设计目标，实现设计端到制造端的交付,root,1906551877,无,0,无,0,无,0
+芯行纪科技有限公司,AmazeFP-ME,http://www.xtimes-da.com/index.php?a=page&p=amazefp_me,无,作为一款 EDA 机器学习的工具，在 AmazeFP 的基础上，能够快速探索庞大解空间，无需用户手动调参，配备优异且精准的数据、图形分析功能，可为用户提供高效便捷的设计体验。在应对高难度、宏单元数量巨大的设计时，可帮助用户极大提高效率，得到更好的 Floorplan。,root,1906551877,无,0,无,0,无,0
+芯行纪科技有限公司,数字布局布线工具,http://www.xtimes-da.com/index.php?a=page&p=amazedrc_lite,无,无,root,1906551877,无,0,无,0,无,0
+芯行纪科技有限公司,智能布局规划工具,http://www.xtimes-da.com/index.php?a=page&p=amazedrc_lite,无,无,root,1906551877,无,0,无,0,无,0
+芯行纪科技有限公司,DRC 快速收敛工具,http://www.xtimes-da.com/index.php?a=page&p=amazedrc_lite,无,无,root,1906551877,无,0,无,0,无,0
+芯行纪科技有限公司,ECO 工具,http://www.xtimes-da.com/index.php?a=page&p=amazedrc_lite,无,无,root,1906551877,无,0,无,0,无,0
+芯行纪科技有限公司,工业软件许可文件管理系统,http://www.xtimes-da.com/index.php?a=page&p=amazedrc_lite,无,无,root,1906551877,无,0,无,0,无,0
+芯行纪科技有限公司,AmazeSys,http://www.xtimes-da.com/index.php?a=page&p=amazedrc_lite,无,无,root,1906551877,无,0,无,0,无,0
+芯行纪科技有限公司,AmazeFP,http://www.xtimes-da.com/index.php?a=page&p=amazedrc_lite,无,无,root,1906551877,无,0,无,0,无,0
+芯行纪科技有限公司,AmazeDRCLite,http://www.xtimes-da.com/index.php?a=page&p=amazedrc_lite,AmazeDRCLite,针对国内先进 FinFET 工艺进行布局布线阶段设计规则检查（DRC）收敛，能在极小单位时间内快速地通过高效的方式修复数量巨大的规则违例,root,1906551877,无,0,无,0,无,0
+芯行纪科技有限公司,AmazeECO,http://www.xtimes-da.com/index.php?a=page&p=amazedrc_lite,无,无,root,1906551877,无,0,无,0,无,0
+芯行纪科技有限公司,Industriallm,http://www.xtimes-da.com/index.php?a=page&p=amazedrc_lite,无,无,root,1906551877,无,0,无,0,无,0
+芯行纪科技有限公司,数字后端一站式优化修复工具,http://www.xtimes-da.com/index.php?a=page&p=amazeeco,AmazeECO,作为可应对挑战性设计快速指标收敛的数字后端一站式优化修复工具，AmazeECO 凭借其内嵌的丰富核心引擎以及智能化特点，可精准、高效地实现时序、功耗、物理设计规则的优化和修复收敛，加速用户完成整体后端流程，帮助用户在对违例进行修改调整的同时，确保其余部分的布局布线、时序、功耗等不受影响，以最短的时间顺利推进至流片节点。,root,1906551877,无,0,无,0,无,0

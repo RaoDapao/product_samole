@@ -1,0 +1,54 @@
+-> root http://dyhcqx.com
+  -> 首页 
+      -> 链条式清洗线- http://dyhcqx.com/product/65
+      -> 全自动表面喷涂处理清洗机- http://dyhcqx.com/product/66
+      -> 全自动航空部件超声波清洗机- http://dyhcqx.com/product/69
+      -> 全自动液晶玻璃清洗机- http://dyhcqx.com/product/74
+      -> 天然气热风循环加热系统- http://dyhcqx.com/product/77
+      -> 热风循环烘道- http://dyhcqx.com/product/83
+      -> 震箱式电镀手工线- http://dyhcqx.com/product/86
+      -> 链条式刃具喷洗线- http://dyhcqx.com/product/64
+      -> 全自动不锈钢餐具清洗机- http://dyhcqx.com/product/68
+      -> 全自动铝煅件清洗机- http://dyhcqx.com/product/72
+      -> 全自动机械零部件清洗机- http://dyhcqx.com/product/70
+      -> 工业纯水机- http://dyhcqx.com/product/59
+      -> 全自动饰品镀前超声波清洗机- http://dyhcqx.com/product/73
+      -> 工业反渗透纯水机- http://dyhcqx.com/product/60
+      -> 震板- http://dyhcqx.com/product/84
+      -> 链式清洗机- http://dyhcqx.com/product/63
+      -> 工业冷水机- http://dyhcqx.com/product/62
+      -> 震箱电镀垂直升降线- http://dyhcqx.com/product/85
+      -> 全自动金属工具清洗机- http://dyhcqx.com/product/71
+    -> 工业清洗机 http://dyhcqx.com/product/type/28
+    -> 电镀行业清洗机 http://dyhcqx.com/product/type/29
+    -> 标准型号清洗机 http://dyhcqx.com/product/type/30
+    -> 磁性材料清洗机 http://dyhcqx.com/product/type/31
+    -> 电子行业清洗机 http://dyhcqx.com/product/type/32
+      -> 半导体超声波清洗机 
+      -> 全自动钟表工业、光学机械等精密工业清洗机 
+      -> 全，半自动太阳能行业 
+      -> 全自动电子 PCB 线路板清洗机 
+    -> 光学行业清洗机 http://dyhcqx.com/product/type/33
+    -> 零件轴承清洗机 http://dyhcqx.com/product/type/34
+    -> 三氯乙烯清洗机 http://dyhcqx.com/product/type/35
+    -> 汽摩配件清洗机 http://dyhcqx.com/product/type/36
+    -> 五金行业清洗机 http://dyhcqx.com/product/type/37
+    -> 钟表行业清洗机 http://dyhcqx.com/product/type/39
+    -> 油雾烟雾净化器 http://dyhcqx.com/product/type/40
+      -> CNC 机床油雾烟雾过滤器 
+    -> 高压清洗机 http://dyhcqx.com/product/type/62
+    -> 全自动清洗机 http://dyhcqx.com/product/type/63
+    -> 商用超声波洗碗机 http://dyhcqx.com/product/type/60
+    -> 产品 
+      -> 电子行业四槽清洗机- http://dyhcqx.com/product/186
+    -> 多槽式医疗器械清洗机 http://dyhcqx.com/product/138
+    -> 多槽封闭式清洗机 http://dyhcqx.com/product/140
+    -> 全自动试管杯具超声波清洗机 http://dyhcqx.com/product/139
+    -> 全自动医疗器械清洗机 http://dyhcqx.com/product/144
+  -> 清洗工艺：上料 
+    -> 超声波粗洗 
+      -> 超声波精洗 
+        -> 高压喷洗 
+          -> 风切 
+            -> 热风烘干 
+              -> 下料。 http://dyhcqx.com/product/80

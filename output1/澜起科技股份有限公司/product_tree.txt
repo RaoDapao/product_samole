@@ -1,0 +1,4 @@
+-> root https://www.montage-tech.com/cn
+  -> DDR5产品|澜起科技 https://www.montage-tech.com/cn/Memory_Interface/DDR5
+  -> DDR4产品|澜起科技 https://www.montage-tech.com/cn/Memory_Interface/DDR4
+  -> DDR3-2产品|澜起科技 https://www.montage-tech.com/cn/Memory_Interface/DDR3/2

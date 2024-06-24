@@ -1,0 +1,21 @@
+产品网址：https://www.len-technology.com/products/linear-regulators/linear-regulators-details/ln21045
+产品结构：root->LN21045Q1-
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|线性稳压器|LN21045Q1|车规级，42V，450mA，低静态电流|
+
+正常工作电压Min (V),4
+正常工作电压Max (V),42
+输出电压范围(V),5/0.6～24可调
+输出电流 (mA),Up to 450
+工作静态电流 (uA),5.5
+关断静态电流 (uA),0.8
+PSRR,70dB@100Hz
+Dropout,650mV@450mA
+其它功能,Enable pin；  Internal Soft Start;
+完整保护,Over current protection；  Over temperature shuntdown and recovery；
+封装,TO-252
+产品等级,AEC-Q100 Grade1
+工作结温,-40 to 150
+功能安全类别,Functional Safety Capable

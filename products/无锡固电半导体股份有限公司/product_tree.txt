@@ -1,0 +1,40 @@
+-> root https://www.iscsemi.com
+  -> 产品-无锡固电半导体股份有限公司isc https://www.iscsemi.com/supply
+    -> MOSFET 单管 
+    -> MOSFET 模块 
+    -> IGBT 单管 
+    -> IGBT 模块 
+    -> 双极型晶体管 BJT 
+    -> 可控硅 单管 
+    -> 可控硅 模块 
+    -> 肖特基二极管 SBD 单管 
+    -> 肖特基二极管 SBD 模块 
+    -> 快恢复二极管 FRD 单管 
+    -> 快恢复二极管 FRD 模块 
+    -> SiC 二极管 单管 
+    -> SiC 二极管 模块 
+    -> SiC MOSFET 单管 
+    -> SiC MOSFET 模块 
+    -> 芯片和圆片 
+  -> 首页 
+    -> 产品 https://www.iscsemi.com/supply/4.html
+    -> 关于我们 
+      -> 新闻中心 https://www.iscsemi.com/about/xwzx/95.html
+  -> Products-InchangeSemiconductorCompany(ISC) https://www.iscsemi.com/en/supply
+    -> MOSFETs 
+    -> MOSFET Power Modules 
+    -> IGBTs 
+    -> IGBT Power Modules 
+    -> Bipolar Transistors 
+    -> Thyristors 
+    -> Thyristors Power Modules 
+    -> Schottky Diodes 
+    -> Schottky Diodes Power Modules 
+    -> Fast Recovery Diodes 
+    -> Fast Recovery Diodes Power Modules 
+    -> SiC Schottky Diodes 
+    -> SiC Diode Modules 
+    -> SiC MOSFETs 
+    -> SiC MOSFET Power Modules 
+    -> Wafer & Die 
+  -> Home 

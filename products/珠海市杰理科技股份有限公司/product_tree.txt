@@ -1,0 +1,76 @@
+-> root https://zh-jieli.com
+  -> 产品中心-珠海市杰理科技股份有限公司 https://zh-jieli.com/product
+    -> 音箱类芯片 
+    -> 耳机芯片 
+    -> 智能手表类芯片 
+    -> 视频类芯片 
+    -> 大健康类芯片 
+    -> IoT 类芯片 
+    -> 智能玩具类芯片 
+  -> 音箱类芯片-珠海市杰理科技股份有限公司 https://zh-jieli.com/product/product.php?class2=112
+  -> 耳机芯片-珠海市杰理科技股份有限公司 https://zh-jieli.com/product/product.php?class2=113
+  -> 智能手表类芯片-珠海市杰理科技股份有限公 https://zh-jieli.com/product/product.php?class2=114
+  -> 大健康类芯片-珠海市杰理科技股份有限公司 https://zh-jieli.com/product/product.php?class2=145
+  -> IoT类芯片-珠海市杰理科技股份有限公司 https://zh-jieli.com/product/product.php?class2=151
+  -> K歌音箱系列芯片-珠海市杰理科技股份有限 https://zh-jieli.com/product/showproduct.php?id=70
+  -> TWS耳机系列芯片-珠海市杰理科技股份有 https://zh-jieli.com/product/showproduct.php?id=64
+  -> 第一代智能手表芯片-珠海市杰理科技股份有 https://zh-jieli.com/product/showproduct.php?id=67
+  -> 语音控制面板系列芯片-珠海市杰理科技股份 https://zh-jieli.com/product/showproduct.php?id=90
+  -> 血压计系列芯片-珠海市杰理科技股份有限公 https://zh-jieli.com/product/showproduct.php?id=98
+  -> 智能骑行系列芯片-珠海市杰理科技股份有限 https://zh-jieli.com/product/showproduct.php?id=93
+  -> 绘本故事机系列芯片-珠海市杰理科技股份有 https://zh-jieli.com/product/showproduct.php?id=103
+  -> OWS耳机系列芯片-珠海市杰理科技股份有 https://zh-jieli.com/product/showproduct.php?id=65
+  -> ANC-ENC降噪耳机系列芯片-珠海市杰 https://zh-jieli.com/product/showproduct.php?id=26
+  -> 翻译笔系列芯片-珠海市杰理科技股份有限公 https://zh-jieli.com/product/showproduct.php?id=104
+  -> 挂脖-运动耳机系列芯片-珠海市杰理科技股 https://zh-jieli.com/product/showproduct.php?id=54
+  -> 户外-随身音箱系列芯片-珠海市杰理科技股 https://zh-jieli.com/product/showproduct.php?id=69
+  -> 广播音箱系列芯片-珠海市杰理科技股份有限 https://zh-jieli.com/product/showproduct.php?id=68
+  -> 直播麦系列芯片-珠海市杰理科技股份有限公 https://zh-jieli.com/product/showproduct.php?id=79
+  -> 调音台-直播声卡系列芯片-珠海市杰理科技 https://zh-jieli.com/product/showproduct.php?id=80
+  -> 无线低音炮系列芯片-珠海市杰理科技股份有 https://zh-jieli.com/product/showproduct.php?id=81
+  -> 声霸系列芯片-珠海市杰理科技股份有限公司 https://zh-jieli.com/product/showproduct.php?id=82
+  -> WiFi音箱系列芯片-珠海市杰理科技股份 https://zh-jieli.com/product/showproduct.php?id=83
+  -> 头戴耳机系列芯片-珠海市杰理科技股份有限 https://zh-jieli.com/product/showproduct.php?id=84
+  -> 话务耳机系列芯片-珠海市杰理科技股份有限 https://zh-jieli.com/product/showproduct.php?id=85
+  -> 游戏耳机系列芯片-珠海市杰理科技股份有限 https://zh-jieli.com/product/showproduct.php?id=86
+  -> 辅听耳机系列芯片-珠海市杰理科技股份有限 https://zh-jieli.com/product/showproduct.php?id=87
+  -> 第二代智能手表芯片JL7012-珠海市杰 https://zh-jieli.com/product/showproduct.php?id=33
+  -> 行车记录仪系列芯片-珠海市杰理科技股份有 https://zh-jieli.com/product/showproduct.php?id=91
+  -> 智能门锁系列芯片-珠海市杰理科技股份有限 https://zh-jieli.com/product/showproduct.php?id=92
+  -> 血氧仪系列芯片-珠海市杰理科技股份有限公 https://zh-jieli.com/product/showproduct.php?id=99
+  -> 耳温枪系列芯片-珠海市杰理科技股份有限公 https://zh-jieli.com/product/showproduct.php?id=100
+  -> 额温枪系列芯片-珠海市杰理科技股份有限公 https://zh-jieli.com/product/showproduct.php?id=101
+  -> 胎心仪系列芯片-珠海市杰理科技股份有限公 https://zh-jieli.com/product/showproduct.php?id=102
+  -> 蓝牙自拍器系列芯片-珠海市杰理科技股份有 https://zh-jieli.com/product/showproduct.php?id=94
+  -> 蓝牙电动牙刷系列芯片-珠海市杰理科技股份 https://zh-jieli.com/product/showproduct.php?id=95
+  -> 蓝牙按摩仪系列芯片-珠海市杰理科技股份有 https://zh-jieli.com/product/showproduct.php?id=96
+  -> 声控小风扇芯片-珠海市杰理科技股份有限公 https://zh-jieli.com/product/showproduct.php?id=97
+  -> 儿童启蒙插卡学习机系列芯片-珠海市杰理科 https://zh-jieli.com/product/showproduct.php?id=105
+  -> 口算宝系列芯片-珠海市杰理科技股份有限公 https://zh-jieli.com/product/showproduct.php?id=106
+  -> 发声书系列芯片-珠海市杰理科技股份有限公 https://zh-jieli.com/product/showproduct.php?id=107
+  -> 语音灯系列芯片-珠海市杰理科技股份有限公 https://zh-jieli.com/product/showproduct.php?id=109
+  -> 双语学习机系列芯片-珠海市杰理科技股份有 https://zh-jieli.com/product/showproduct.php?id=108
+  -> 音乐棒棒糖系列芯片-珠海市杰理科技股份有 https://zh-jieli.com/product/showproduct.php?id=110
+  -> 产品中心-珠海市杰理科技股份有限公司_1 https://zh-jieli.com/product/index.php?class1=110&page=2
+  -> 产品中心-珠海市杰理科技股份有限公司_2 https://zh-jieli.com/product/index.php?class1=110&page=3
+    -> 其他新应用系列芯片 
+  -> 翻译耳机系列芯片-珠海市杰理科技股份有限 https://zh-jieli.com/product/showproduct.php?id=88
+  -> 其他新应用系列芯片-珠海市杰理科技股份有 https://zh-jieli.com/product/showproduct.php?id=89
+  -> 智能手表类芯片-珠海市杰理科技股份有限公_1 https://zh-jieli.com/product/product.php?class2=114#
+    -> 第二代智能手表芯片 JL7012 
+  -> 语音控制面板系列芯片-珠海市杰理科技股份_1 https://zh-jieli.com/product/showproduct.php?id=90#
+  -> 血压计系列芯片-珠海市杰理科技股份有限公_1 https://zh-jieli.com/product/showproduct.php?id=98#
+  -> 第二代智能手表芯片JL7012-珠海市杰_1 https://zh-jieli.com/product/showproduct.php?id=33#
+  -> 血氧仪系列芯片-珠海市杰理科技股份有限公_1 https://zh-jieli.com/product/showproduct.php?id=99#
+  -> 额温枪系列芯片-珠海市杰理科技股份有限公_1 https://zh-jieli.com/product/showproduct.php?id=101#
+  -> 音乐棒棒糖系列芯片-珠海市杰理科技股份有_1 https://zh-jieli.com/product/showproduct.php?id=110#
+  -> 芯机遇，新未来丨杰理科技再次荣获“中国芯 https://zh-jieli.com/blog/shownews.php?id=128
+  -> 产品中心-珠海市杰理科技股份有限公司_3 https://zh-jieli.com/product/index.php?class1=110&page=2#
+  -> 产品中心-珠海市杰理科技股份有限公司_4 https://zh-jieli.com/product/index.php?class1=110&page=3#
+  -> 大健康类芯片-珠海市杰理科技股份有限公司_1 https://www.zh-jieli.com/product/product.php?class2=145
+  -> 语音控制面板系列芯片-珠海市杰理科技股份_2 https://www.zh-jieli.com/product/showproduct.php?id=90
+  -> ANC-ENC降噪耳机系列芯片-珠海市杰_1 https://www.zh-jieli.com/product/showproduct.php?id=26
+  -> 第二代智能手表芯片JL7012-珠海市杰_2 https://www.zh-jieli.com/product/showproduct.php?id=33
+  -> 耳温枪系列芯片-珠海市杰理科技股份有限公_1 https://www.zh-jieli.com/product/showproduct.php?id=100
+  -> 蓝牙按摩仪系列芯片-珠海市杰理科技股份有_1 https://www.zh-jieli.com/product/showproduct.php?id=96
+  -> 双语学习机系列芯片-珠海市杰理科技股份有_1 https://www.zh-jieli.com/product/showproduct.php?id=108

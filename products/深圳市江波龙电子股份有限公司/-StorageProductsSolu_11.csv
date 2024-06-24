@@ -1,0 +1,11 @@
+产品网址：https://www.longsys.com/products/memory-module/commercial-memory-module/5336.html
+产品结构：root->-StorageProductsSolution–LongsysacquiredLEXAR&Foreseee
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Commercial Memory Module|LPCAMM2|加速设备上的 AI 落地，引领内存新形态；基于 LPDDR5/5x，数据速率高达 7500Mbps；与 PCB 大面积接触，提高散热性能；与 SODIMMs 相比，功耗降低 50%以上；与 SODIMMs 相比，节省 60%以上空间；容量从 16GB 到 64GB 可选；高速连接器触点，减少损坏和 ESD；支持升级和低维护成本|
+
+Product Series,PN,Capacity,Interface,Bit Width,Architecture,Data Rate,Operating Voltage,Gold Fingers (Edge Connectors),Operating Temperature,Size
+LPCAMM2,FL5EC7500CQGH8,16GB,CAMM2,128bit,1Rx16,7500Mbps,VIN BULK 4.25V~5.5V,"≥2μ""",0℃~85℃,78x23mm
+LPCAMM2,FL5EC7500CWGH8,32GB,CAMM2,128bit,1Rx16,7500Mbps,VIN BULK 4.25V~5.5V,"≥2μ""",0℃~85℃,78x23mm
+LPCAMM2,FL5EC7500CRGH8,64GB,CAMM2,128bit,1Rx16,7500Mbps,VIN BULK 4.25V~5.5V,"≥2μ""",0℃~85℃,78x23mm

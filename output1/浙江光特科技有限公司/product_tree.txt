@@ -1,0 +1,36 @@
+-> root http://www.gtphotonics.com
+  -> 浙江光特科技有限公司 http://www.gtphotonics.com/products
+    -> InGaAs PIN 光芯片 
+    -> InGaAs PIN 光芯片 
+    -> InGaAs PIN 光芯片 
+    -> InGaAs PIN 光芯片 
+    -> InGaAs PIN 光芯片 
+    -> InGaAs PIN 光芯片 
+    -> APD 光芯片 
+    -> APD 光芯片 
+    -> APD 光芯片 
+    -> APD 光芯片 
+    -> APD 光芯片 
+    -> MPD 监视光芯片 
+  -> 浙江光特科技有限公司_1 http://www.gtphotonics.com/products?product_category=5
+  -> 浙江光特科技有限公司_2 http://www.gtphotonics.com/products?product_category=7
+  -> 浙江光特科技有限公司_3 http://www.gtphotonics.com/products?product_category=8
+  -> 浙江光特科技有限公司_4 http://www.gtphotonics.com/products?product_category=6
+  -> InGaAsΦ60μmAnalogPDC http://www.gtphotonics.com/page97?product_id=68
+  -> InGaAs10GPINPDChip http://www.gtphotonics.com/page97?product_id=10
+  -> InGaAs10GPINPDChip_1 http://www.gtphotonics.com/page97?product_id=67
+  -> InGaAs25GPINPDChip(G http://www.gtphotonics.com/page97?product_id=17
+  -> InGaAs4×25GPINPDArra http://www.gtphotonics.com/page97?product_id=16
+  -> InGaAs1mmPDChip http://www.gtphotonics.com/page97?product_id=69
+  -> InGaAsΦ1000μmAPDChip http://www.gtphotonics.com/page97?product_id=26
+  -> InGaAsΦ500μmAPDChip http://www.gtphotonics.com/page97?product_id=25
+  -> InGaAsΦ200μmAPDChip http://www.gtphotonics.com/page97?product_id=24
+  -> InGaAs10GbpsAPDChip( http://www.gtphotonics.com/page97?product_id=21
+  -> InGaAs2.5GAPDChip http://www.gtphotonics.com/page97?product_id=11
+  -> LinearInGaAs300μmMPD http://www.gtphotonics.com/page97?product_id=30
+  -> InGaAs1*16APDArray http://www.gtphotonics.com/page97?product_id=154
+  -> LinearInGaAs200μmMPD http://www.gtphotonics.com/page97?product_id=29
+  -> InGaAs300umMPDChip http://www.gtphotonics.com/page97?product_id=23
+  -> InGaAs250umMPDChip http://www.gtphotonics.com/page97?product_id=8
+  -> InGaAs200umMPDChip http://www.gtphotonics.com/page97?product_id=18
+  -> 硅光子集成芯片 http://www.gtphotonics.com/page97?product_id=22

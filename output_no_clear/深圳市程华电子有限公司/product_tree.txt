@@ -1,0 +1,110 @@
+-> root http://chenghuadz.cn
+  -> 首页 
+    -> 产品中心 https://www.chenghuadz.com/products
+      -> DC-DC降压恒流 https://www.chenghuadz.com/products/jyhl
+        -> 原装欧创芯OC55022.5A25WLED照明 https://www.chenghuadz.com/products/jyhl/89.html
+        -> 欧创芯OC5010B内置MOSLED驱动2.5A https://www.chenghuadz.com/products/jyhl/87.html
+        -> 欧创芯OC5011B外置MOSLED驱动10A https://www.chenghuadz.com/products/jyhl/84.html
+        -> 欧创芯OC5262内置MOSLED驱动2.5A https://www.chenghuadz.com/products/jyhl/82.html
+        -> 欧创芯OC5260内置MOSLED驱动2.5A https://www.chenghuadz.com/products/jyhl/81.html
+      -> DC-DC升压恒流 https://www.chenghuadz.com/products/syhl
+        -> 欧创芯原装OC67802.5A100V大功率LED照明 https://www.chenghuadz.com/products/syhl/62.html
+      -> DC-DC升降压恒流 https://www.chenghuadz.com/products/sjyhl
+        -> LED 升降压恒流驱动 
+        -> LED 恒流驱动芯片 
+      -> LED线性恒流 https://www.chenghuadz.com/products/xxhl
+        -> 原装欧创芯OC7100LED台灯线性方案PWM调光 https://www.chenghuadz.com/products/xxhl/96.html
+        -> 原装欧创芯OC7140LED台灯线性方案PWM调光 https://www.chenghuadz.com/products/xxhl/94.html
+        -> 原装欧创芯OC7141线性方案PWM调光 https://www.chenghuadz.com/products/xxhl/93.html
+        -> 原装欧创芯OC7135内置MOS400MA5.5V https://www.chenghuadz.com/products/xxhl/92.html
+        -> 原装欧创芯OC7100BLED台灯线性方案内置MOS https://www.chenghuadz.com/products/xxhl/54.html
+        -> 原装欧创芯OC7102BLED台灯线性方案内置MOS https://www.chenghuadz.com/products/xxhl/53.html
+      -> DC-DC降压恒压 https://www.chenghuadz.com/products/jyhy
+        -> 原装欧创芯OC58655B100V6A外置MOS https://www.chenghuadz.com/products/jyhy/118.html
+        -> 原装欧创芯OC58658100V1.5A内置MOS https://www.chenghuadz.com/products/jyhy/117.html
+        -> 原装欧创芯OC58650100V2A内置MOS https://www.chenghuadz.com/products/jyhy/116.html
+        -> 原装欧创芯OC5865260V2.5A内置MOS https://www.chenghuadz.com/products/jyhy/115.html
+        -> 欧创芯OC586260V0.8A内置MOS https://www.chenghuadz.com/products/jyhy/105.html
+      -> DC-DC升压恒压 https://www.chenghuadz.com/products/syhy
+        -> 欧创芯OC6800B2.5A https://www.chenghuadz.com/products/syhy/112.html
+      -> MOSFET驱动器 https://www.chenghuadz.com/products/mosfet
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+        -> MOSFET 驱动器 
+      -> 二三极管 https://www.chenghuadz.com/products/esjg
+        -> 肖特基二极管 
+        -> 肖特基二极管 
+        -> 肖特基二极管 
+        -> 肖特基二极管 
+        -> 肖特基二极管 
+        -> 肖特基二极管 
+        -> 肖特基二极管 
+        -> 肖特基二极管 
+        -> 肖特基二极管 
+        -> 肖特基二极管 
+  -> 【产品中心】欧创芯LED驱动IC_电源管 http://www2.chenghuadz.com/chanpinzhongxin
+    -> MOSFET 
+    -> DC-DC LED 驱动 IC 
+    -> DC-DC 电源管理 IC 
+    -> 二极管 
+    -> 三极管 
+    -> 可控硅 
+    -> 电机驱动 IC 
+    -> 线性稳压 IC 
+  -> 欧创芯（OCX）OC5800L—宽输入电 http://www2.chenghuadz.com/gongsixinwen/325.html

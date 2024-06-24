@@ -1,0 +1,6 @@
+-> root https://www.xatgck.com
+  -> 首页 
+    -> 产品中心 https://www.xatgck.com/product
+      -> PCT3000 半导体热特性试验系统 
+      -> HTXB 环境老化试验系统 
+      -> DCT2000 晶体管直流参数测试系统 

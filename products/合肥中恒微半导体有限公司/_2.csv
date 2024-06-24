@@ -1,0 +1,13 @@
+产品网址：https://www.zhmsemi.com/products/ev_igbt_module/drivez1w_c6.html
+产品结构：root
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|DriveZ1W_C6|无|A.LOW VCE(sat)<br>B.Low Switching Losses<br>C.Ultrasonic Welding of Power Terminals|
+
+Package,Product,Vces(V),Ic(A),VCE(sat)(V),Configuration,typical value @Tj=25℃,typical value @Tj=25℃.1,typical value @Tj=25℃.2
+Package,Product,Vces(V),Ic(A),VCE(sat)(V),Configuration,VF(V),Eon(mJ),Eoff(mJ)
+DriveZ1W_C6,6K300M08A1E-C6,750,300,1.55,six-pack,1.60,1.9,24.7
+DriveZ1W_C6,6K400M08A1E-C6,750,400,1.55,six-pack,1.60,2.4,29.3
+DriveZ1W_C6,6K550M08A1E-C6,750,550,1.40,six-pack,1.75,3.2,36.7
+DriveZ1W_C6,6K660M08A1E-C6,750,660,1.40,six-pack,1.75,3.8,39.8

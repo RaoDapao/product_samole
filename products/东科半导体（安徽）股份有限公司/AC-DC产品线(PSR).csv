@@ -1,0 +1,15 @@
+产品网址：https://www.dkpower.cn/ACDCchanpinxianPSR.html
+产品结构：首页->产品中心->AC-DC电源管理系列->AC-DC产品线(PSR)
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|AC-DC 产品线(PSR)|无|无|
+
+Product,Characteristics,Topology,SW Voltage,Standby Power,Output Power,CC/CV Precision,Operating frequency,Package,VCC Operation Voltage
+DK935,Low Standby-Power CC/CV PSR Converter,Flyback,850V,<75mW,5W,±8%/±5%,Variable,SOP-7,Self-powered
+DK913,Low Standby-Power CC/CV PSR Converter,Flyback,700V,<75mW,12W,±5%/±3%,Variable,SOP-8,Self-powered
+DK912,Low Standby-Power CC/CV PSR Converter,Flyback,700V,<300mW,12W/15W,±5%/±3%,Variable,SOP-8/DIP-8,Self-powered
+DK910,Low Standby-Power CC/CV PSR Converter,Flyback,700V,<75mW,10W,±5%/±3%,Variable,SOP-8,Self-powered
+DK906,Low Standby-Power CC/CV PSR Converter,Flyback,700V,<300mW,6W,±5%/±3%,Variable,SOP-8,Self-powered
+DK905,Low Standby-Power CC/CV PSR Converter,Flyback,700V,<75mW,5W,±5%/±3%,Variable,SOP-8,Self-powered
+DK903,Low Standby-Power CC/CV PSR Converter,Flyback,700V,<75mW,3W,±5%/±3%,Variable,SOP-8,Self-powered

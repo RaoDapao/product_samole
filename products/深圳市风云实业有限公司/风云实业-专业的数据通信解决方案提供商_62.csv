@@ -1,0 +1,67 @@
+产品网址：https://www.szforward.com/product/productDetail_S8600-04.html#
+产品结构：root->风云实业-专业的数据通信解决方案提供商
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|通用交换机|S8600-04|无|
+
+型号名称,S8600-04
+硬件规格,硬件规格
+外形尺寸(高×宽×深),270mm × 445mm × 420mm (6U)
+重量,≤30kg
+引擎插槽,2个或者1个(横插)
+业务插槽,2个或者3个(横插)
+电源插槽,2个(横插)
+可用接口类型,支持FE接口  支持GE接口  支持10GE接口
+管理端口,1端口Console接口  1端口10/100Mbase-TX带外管理以太网接口
+电源,AC：输入100-240V，50/60 Hz；  DC：输入-36V - -72V；输出12V/25A，5V/10A
+最大功率,400W
+工作环境温度,0℃～45℃
+环境相对湿度,10%～90%(无冷凝)
+性能规格,性能规格
+体系结构,基于高性能ASIC芯片分布式转发
+包转发率,771Mpps
+MAC容量,32K/每业务槽
+业务规格,业务规格
+端口特性,支持IEEE802.3x流控(全双工)  支持基于端口速率百分比的广播风暴抑制  支持基于端口pps的广播风暴抑制
+端口汇聚,支持手工聚合  支持802.3ad动态LACP聚合  支持基于源MAC/目的MAC负载均衡  支持基于源IP/目的IP负载均衡  每个GE组最大聚合数量8个端口  每个10GE组最大聚合数量4端口
+VLAN特性,支持4K个VLAN  支持基于端口的VLAN  支持基于802.1Q VLAN  支持Private VLAN  支持IP Subnet VLAN  支持Protocol VLAN  支持Voice VLAN  支持MAC VLAN  支持QinQ  支持GVRP  支持Multicast VLAN
+IP应用,支持DHCP Snooping、DHCP Relay、DHCP Server  支持DHCP Snooping Option82  支持DHCP Relay Option82  支持DHCPv6 Server/client  支持ARP代理  支持DNS代理和DNS透明代理
+IPv4单播,支持静态路由，ECMP，策略路由  支持动态路由：RIPv1/v2，OSPFv2，BGP-4
+IPv4组播,支持受控组播  支持IGMP Snooping  支持IGMP Query  支持IGMP Proxy  支持IGMP v2/v3  支持PIM-DM、PIM-SM、SSM、静态组播、边界组播、Anycast-RP、MSDP、DVMRP  支持Multicast VLAN
+IPv6协议栈,支持ND(Neighbor Discovery)  支持无状态地址自动配置  支持重复地址检测 (DAD)  支持PMTU Discovery  支持IPv6-Ping/IPv6-Tracert/IPv6-Telnet/IPv6-TFTP  支持手动配置Tunnel、6to4 tunnel、ISATAP、6PE
+IPv6单播,支持静态路由，ECMP，策略路由  支持RIPng、OSPFv3、BGP4+
+IPv6组播,支持IPv6受控组播  支持MLDv1/v2 Snooping  支持MLDv1/v2、PIM-SM/DM for IPv6、SSM for IPv6、IPv6 anycast-RP 、IPv6静态组播、IPv6 边界组播、IPv6组播隧道  支持IPv6 Multicast VLAN
+MPLS,支持LDP、RSVP  支持域内/域间MPLS VPN
+二层环网协议,支持STP、RSTP、MSTP  支持loop-detection  支持ULDP  支持LLDP
+虚拟化技术,支持IPv4与IPv6 QoS  支持将多台物理交换机虚拟化为1台逻辑交换机  支持跨物理设备的链路聚合与备份  支持虚拟交换机的统一管理
+镜像,支持N:1端口镜像  支持N:4端口镜像  支持CPU端口镜像  支持本地端口镜像(LSPAN)  支持远程端口镜像(RSPAN)  支持远程路由端口镜像(ERSPAN)  支持基于物理端口的镜像
+QoS,"基于硬件的QoS，加载规则后不影响转发性能  支持Ingress和Egress端口限速  每端口8个队列  支持SP、WRR、SWRR等队列调度算法  支持基于802.1p、ToS、端口、DiffServ进行流量分类  支持采用ACL进行流量分类，根据分类结果设置COS, TOS, DSCP  支持Traffic Shapping(流量整形)  支持优先级Mark/Remark"
+ACL,基于硬件的ACL，加载规则后不影响转发性能  支持标准和扩展ACL  支持基于IPv4/v6子网的ACL  支持基于MAC的ACL  支持基于IPv4/v6地址的ACL  支持基于IPv4/v6-MAC的ACL  支持基于端口号的ACL  支持基于支持非法帧过滤  支持基于VLAN、Tag/Untag的ACL  支持基于IP优先级：DSCP、ToS、Precedence的ACL  支持基于CoS的ACL  支持基于ACL的REDIRECT，基于ACL的流统计  支持基于时间段(Time Range)的ACL  支持ACL深度内容用于QoS分类标准
+可靠性,支持引擎热备份  支持电源热备份  支持板卡热插拔  支持风扇热插拔  支持VRRP、Graceful Restart for OSPF/BGP
+安全特性,支持用户分级管理和口令保护，SSH2.0  支持MAC地址黑洞、设置端口MAC地址学习最大个数  支持MAC+IP+PORT+VLAN绑定  支持IEEE 802.1X认证、AAA认证、Radius认证  支持IP源地址保护、端口隔离  支持Local-access group技术有效防御DDOS攻击  支持防范tcp syn flood攻击  支持授权的地址telnet登录  支持到CP带宽限制  支持定向广播转发抑制功能  支持带源地址路由转发抑制功能  支持动态ARP检测，DHCP报文检测，ND报文检测，DHCPv6 Snooping  支持IPv4/IPv6 Urpf(松散/严格)  支持BPDU Guard，Loop Guard，Root Guard，BPDU Skewing
+管理与维护,支持IPv4/IPv6 FTP/TFTP加载升级  支持命令行接口(CLI)，Telnet，Console口配置  支持网络测试命令PING、Traceroute、Multicast Traceroute  支持SNMP v1/v2、SNMP v3  支持IPv4/IPv6的SNMP的用户IP安全检查  支持MIB和TRAP  支持RMON (Remote Monitoring)1，2，3，9四组  支持IPv4/IPv6 SYSlog：系统日志，分级告警，调试配置信息输出  支持IPv4/IPv6 NTP  支持IPv4/IPv6的syslog
+流量监控,支持IPFIX流量监控标准，支持1：1的流量采集  支持SFlow流量分析功能，可以实现基于协议或地址的流量监控和统计
+环境规格,环境规格
+工作环境,工作温度：0-50℃ C 工作湿度：10-90%无凝结
+存储环境,存储温度：-40-70° C 存储湿度：5-95%无凝结
+电磁安全,"FCC, CE, VCCI"
+
+
+型号,描述,配置说明
+S8604交换机主机,S8604交换机主机,S8604交换机主机
+S8600-04-Chassis,一体化机箱组件：横插，2-3个业务板槽位，2-1个引擎业务板槽位，2个电源槽位，含机箱，风扇，1个PSU-AC400-S电源,主机含1块电源
+S8600-04-Chassis-DC,一体化机箱组件：横插，2-3个业务板槽位，2-1个引擎业务板槽位，2个电源槽位，含机箱，风扇，1个PSU-DC400-S电源,主机含1块电源
+S8604交换机电源,S8604交换机电源,S8604交换机电源
+PSU-AC600-S,"交流电源模块(220VAC,600W)",选配
+PSU-AC400-S,"交流电源模块(220VAC,400W)",选配
+S8604控制交换引擎业务板,S8604控制交换引擎业务板,S8604控制交换引擎业务板
+S8600-04-RSU-10GE-1X/GE-24TS-S,"S8600-04增强型主控交换引擎(默认64MB板载电子盘+256MB内存条), 1端口万兆以太网光接口(XFP,LC), 24端口千兆以太网电接口(RJ45), 含12端口百兆/千兆以太网Combo光接口(SFP,LC)",可配置1-2块，配置两块时不支持双主控冗余
+S8600-04-RSU-10GE-1X/GE-24ST-S,"S8600-04增强型主控交换引擎(默认64MB板载电子盘+256MB内存条), 1端口万兆以太网光接口(XFP,LC), 24端口百兆/千兆以太网光接口(SFP,LC), 含12端口千兆以太网Combo电接口(RJ45)",可配置1-2块，配置两块时不支持双主控冗余
+S8604交换机B类业务板(MAC容量32K，不支持MPLS VPN),S8604交换机B类业务板(MAC容量32K，不支持MPLS VPN),S8604交换机B类业务板(MAC容量32K，不支持MPLS VPN)
+S8600B-GE-24TS-S,"S8600S系列24端口百兆/千兆以太网电接口(RJ45), 含12端口千兆以太网Combo光接口(SFP,LC)业务板(B类)",选配
+S8600B-GE-24ST-S,"S8600S系列24端口百兆/千兆以太网光接口(SFP,LC),含12端口百兆/千兆以太网Combo电接口(RJ45)业务板(B类)",选配
+S8600B-GE-48T-S,S8600S系列48端口千兆以太网电接口(RJ45)业务板(B类),选配
+S8600B-GE-48S-S,"S8600S系列48端口千兆以太网光接口(SFP,LC)业务板(B类)",选配
+S8600B-10GE-2X/GE-24ST-S,"S8600S系列2端口万兆以太网光接口(XFP,LC)+24端口百兆/千兆以太网光接口(SFP,LC),含12端口百兆/千兆以太网Combo电接口(RJ45)业务板(B类)",选配
+S8600B-10GE-4X-S,"S8600S系列4端口万兆以太网光接口(XFP,LC)业务板(B类)",选配

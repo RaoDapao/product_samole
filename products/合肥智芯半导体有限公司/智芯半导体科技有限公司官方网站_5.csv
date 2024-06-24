@@ -1,0 +1,20 @@
+产品网址：https://www.zhixin-semi.com/index/index/product.html?id=7
+产品结构：root->智芯半导体科技有限公司官方网站
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|汽车级电机驱动芯片|Z20A8300A 系列|应用于汽车中、大功率电机控制的三相 MOS 管栅极驱动，可在 5.5V 至 50V 的电源范围内驱动 6 个 N-MOS 管。三个半桥可以独立运行，也可以作为无刷直流电机或永磁同步电机的三相桥驱动器。芯片内部集成两个电荷泵，可支持 100%PWM 占空比输出以及高边 N-MOS 防反接保护。此外，集成了三个具有可编程增益和偏置的低侧电流检测放大器，三个放大器可独立使用，同时集成了过流保护比较器。另外，集成了各种监测及故障诊断机制，可提供芯片级、PCB 级以及系统级的安全诊断机制，同时提供 SPI 接口以配置芯片参数及反馈详细的故障诊断信息，使得该芯片可以支持 ASIL-B 的系统设计。|
+
+Software Name,Version
+SDK,"SDK_Z20K11xM_ReleaseRTM1.4,Z20A8300A_Driver_Alpha_v0.2"
+Example code,Z20k11x_BLDC_Beta_v0.6
+MotorControlPCTool,MotorControlPCTool_BLDC_Alpha_v0.2
+
+
+Document,Version
+Product Brief,0.3
+DataSheet,0.2
+Z20A8300A demo_board_QSG_REV1.0,1.0
+Z20A8300A Demo Release Notes,0.2
+Demo Kit GUI for BLDC Motor Control,0.2
+MotorControlPCTool_BLDC_Release Notes,0.2

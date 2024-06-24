@@ -1,0 +1,28 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+华大半导体有限公司,8 英寸 SiC 外延片,https://www.hdsc.com.cn/News-241,无,无,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,FPGA,https://www.hdsc.com.cn/News-105,无,无,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,安全芯片,https://www.hdsc.com.cn/News-124,CIU98_B,广泛应用于车联网安全领域，尤其在国标 GB17691-2018（简称“国六”）的排污监测安全防护中，产品以高可靠、高稳定、高安全等特点成为车联网领域的主要供货产品，是车联网安全领域规模应用的行业内高可靠安全芯片产品，推动并保障了“国六”排放标准的顺利实施，产品在未来两年的预期销量将达到百万颗,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,车规级 16pin 隔离型 IGBT 栅极驱动芯片,https://www.hdsc.com.cn/News-144,无,用于汽车电子领域,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,6 英寸 N 型 SiC 衬底,https://www.hdsc.com.cn/News-144,无,可用于制备功率器件、射频器件等，助力新基建 5G 建设,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,4 英寸碳化硅基氮化镓 HEMT 外延片,https://www.hdsc.com.cn/News-144,无,可用于制备功率器件、射频器件等，助力新基建 5G 建设,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,物联网 SE 芯片,https://www.hdsc.com.cn/News-144,无,在车联网 T-BOX、智能高速、家电配件防伪、智能门锁、智能燃气远程抄表等方案中保障信息安全,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,MCU,https://www.hdsc.com.cn/News-148,HC32L136,基于 ARM Cortex-M0+内核，采用多项超低功耗设计技术，集成 12bit 1Msps 逐次逼近型 SAR ADC、LCD 驱动、运算放大器 OPA 以及多路 UART、SPI、I²C 等丰富的通讯外设，能够妥善处理功耗与资源之间的平衡，内建 128 位 AES、TRNG 硬件真随机数产生器和 Unique-ID 唯一序列号等安全模块，并支持 1.8V~5.5V 宽电压工作范围，具备高整合度、超低功耗、高可靠性特性,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,8 吋 SiC 外延片,https://www.hdsc.com.cn/News-231,无,相比 6 吋面积增加 78%，可较大幅度降低碳化硅器件成本，为进一步推进碳化硅材料的降本增效提供有力支持。技术指标上，8 吋 SiC 外延片厚度均匀性可实现≤3%、掺杂浓度均匀性≤5%、表面致命缺陷≤0.5/cm²。,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,北斗多模导航 SOC 芯片,https://www.hdsc.com.cn/News-26,HD8020,可支持 BDS、GPS、GLONASS、GALILEO 多系统定位；可支持芯片安全加密功能，为安全北斗位置服务提供芯片功能支撑；更可支持面向应用二次开发的 SDK 全套开发包,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,EEPROM 存储器电路,https://www.hdsc.com.cn/Category22,无,上海贝岭的非挥发存储器串口 IIC 类 24C 系列产品，容量从 2K--2M，以及各类封装形式，包括 SOP、TSSOP、DIP、UDFN、WLCSP、TSOT,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,新型显示芯片,https://www.hdsc.com.cn/Category22,无,晶门科技是无源矩阵 OLED（“PMOLED”）显示芯片市场的领导者，该产品在小尺寸移动显示应用中极具竞争优势。除了提供从图标、单色和灰度显示到全彩色高度集成的全系列 PMOLED 驱动芯片外，晶门科技还通过推出内置字符 ROM 的新型 PMOLED 显示芯片来继续扩展其产品组合。随着晶门科技 OLED 驱动器技术的成功，其 PMOLED 驱动器采用了专有的驱动方案来降低系统功耗并增强显示性能。它们是便携式设备的理想显示解决方案,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,MCU,https://www.hdsc.com.cn/Category94,HC32F4A0,无,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,MCU,https://www.hdsc.com.cn/Category94,HC32F460,无,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,MCU,https://www.hdsc.com.cn/Category94,HC32F45x,无,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,MCU,https://www.hdsc.com.cn/Category94,HC32A460,无,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,MCU,https://www.hdsc.com.cn/Category94,HC32D391,无,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,MCU,https://www.hdsc.com.cn/Category94,HC32F460A460F451F452D390D391,无,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,MCU,https://www.hdsc.com.cn/Category94,HC32L176L196F176F196,无,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,MCU,https://www.hdsc.com.cn/Category94,HC32L15X,无,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,MCU,https://www.hdsc.com.cn/Category97,无,无,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,MCU,https://www.hdsc.com.cn/Public/Uploads/uploadfile/files/20220223/20220223170708_6215f93c5e930.xlsx,HC32L130、HC32F030、HC32L136,无,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,车规级带完整保护功能的隔离驱动产品,https://www.hdsc.com.cn/News-217,HSA6880-Q,采用磁隔离技术，带有完整的保护功能，可靠性等级达到车规 AEC-Q100 Grade1 标准，已在新能源汽车主驱电控系统标杆客户大批量装机应用,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,安全芯片,https://www.hdsc.com.cn/News-93,CIU 系列,集成阿里云 Link ID² 设备身份认证服务，支持全部国际算法和国密算法，支持多个不同的接口（I²C/UART/SPI/7816/USB 等），包括消费应用和工业应用两个级别，可满足物联网安全应用的绝大部分场景，如智能家电、智能门锁、智能抄表、智能网关等,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,TPCM 模块,https://www.hdsc.com.cn/News-62,无,具备自主防御能力，对计算机系统基础平台整个运行过程进行保护,root,1906551877,央视CCTV,1212249862,无,0,无,0
+华大半导体有限公司,智能计量芯片,https://www.hdsc.com.cn/News-137,BL093,通过电表厂商进入充电桩市场的解决方案,root,1906551877,无,0,无,0,无,0
+华大半导体有限公司,图腾柱 PFC 专用电源管理芯片,https://www.hdsc.com.cn/News-137,无,采用专利创新型的架构，具有模数混合的架构设计，实现了软硬一体，响应速度快，极大减少了客户软件工作量，在充电桩、OBC 等市场应用具备独特的优势,root,1906551877,无,0,无,0,无,0

@@ -1,0 +1,11 @@
+产品网址：https://www.unicmicro.com/news/186
+产品结构：首页->广芯微->关于我们->新闻集锦
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|高性能电控 MCU|无|集成 Cortex-M4F 内核，204MHz 最高主频，256KB eFlash，64KB SRAM，内置 CANFD，高精度 ADC，比较器和运放，内置 Gate driver 与 LDO，支持 FOC、PFC+FOC、双电机控制应用|
+|经济型 FOC 电控 MCU|无|集成 Cortex-M0+内核，48MHz 主频，64KB eFlash，内置 CAN2.0，25 路高精度 PWM，内置 Gate driver，支持 FOC 电控应用|
+|通用 MCU|无|32 位 Cortex M4、Cortex M0+内核处理器，超低功耗设计，宽电压范围、工业温度范围，高性能 ESD，EFT|
+|Sub-GHz RF 芯片|无|支持 200-960MHz 通讯频段，FSK/OOK 调试方式，0.1-300k bps 数据率，支持 FEC、自动回复等|
+|低频低功耗 RF 接收芯片|无|3 路独立天线通道，30-300KHz 通讯频段，8kbps 数据率，1.7uA 单通道工作电流|
+|快充协议 SoC|无|集成 RISC-V 内核，支持 TCPM+TCPC，全栈 PD3.0/PD3.1 快充协议，支持 USB-type C/UFCS|

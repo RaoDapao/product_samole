@@ -1,0 +1,36 @@
+-> root https://www.szkemao.com
+  -> 产品中心_1 https://www.szkemao.com/index.php?s=products
+    -> 全自动贴胶机 
+    -> 车载双联屏自动组装线 
+    -> FCT 功能测试系统 
+    -> 报警器语音杂音测试系统 
+    -> 快充测试系统 
+    -> 水泵 FCT 测试机 
+    -> 软板测试机 
+    -> BYD 测试机 
+    -> 长安 HF140 测试机 
+  -> 组装设备部 https://www.szkemao.com/index.php?s=products-73
+    -> 电池保护盖自动组装线 
+    -> CPU 芯片自动组装线 
+  -> 测试设备部 https://www.szkemao.com/index.php?s=products-74
+  -> 喷胶、点胶设备部 https://www.szkemao.com/index.php?s=products-75
+    -> 全自动背胶固化机 
+    -> 全自动点胶机 
+  -> 包装设备部 https://www.szkemao.com/index.php?s=products-76
+    -> 光学膜自动包装机 
+    -> 发动机气压传感器自动测试包装机 
+  -> 工装夹具 https://www.szkemao.com/index.php?s=products-77
+    -> Smart KB 检测类治具 
+    -> Smart KB 组装治具 
+    -> 屏幕点亮测试治具 
+    -> TP 成品测试治具 
+  -> 首页 
+    -> 产品中心 
+      -> 组装设备部_1 https://www.szkemao.com/index.php?s=view-8
+      -> 测试设备部_1 https://www.szkemao.com/index.php?s=view-13
+      -> 精密零件加工 https://www.szkemao.com/index.php?s=view-26
+      -> 工装夹具_1 https://www.szkemao.com/index.php?s=view-20
+      -> 包装设备部_1 https://www.szkemao.com/index.php?s=view-12
+      -> 喷胶、点胶设备部_1 https://www.szkemao.com/index.php?s=view-6
+  -> 产品中心_2 https://www.szkemao.com/index.php?s=products-0-2
+  -> 产品中心_3 https://www.szkemao.com/index.php?s=products-0-3

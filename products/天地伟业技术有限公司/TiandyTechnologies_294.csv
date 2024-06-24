@@ -1,0 +1,77 @@
+产品网址：https://korea.tiandy.com/index.php?s=/Home/Product/detail/id/532.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|네트워크 카메라|슈퍼라이트|2MP Fixed IR Turret Camera，TC-C32HN，Spec: I3/E/Y/C/2.8mm/V4.2，Metal+Plastic Housing，Up to 1920x1080@30fps，Min. illumination Color: 0.02Lux@F2.0，Smart IR, IR Range: 30m，Built-In Mic，Support tripwire and perimeter，Operating Conditions -30℃~60℃, 0~95% RH，POE, IP66|
+
+Camera,Unnamed: 1
+Image Sensor,"1/2.8"" CMOS"
+Signal System,PAL/NTSC
+Min. Illumination,"Color:0.02Lux@(F2.0,AGC ON),B/W:0Lux with IR"
+Shutter Time,"1s to 1/100,000s"
+Day & Night,Dual IR Cut Filter with Auto Switch
+WDR,Digital WDR
+Angle Adjustment,"pan 0~340°,tilt 0~75°,roate 0~360°"
+Lens,
+Lens Type,Fixed
+Focus,2.8mm
+Lens Mount,M12
+Aperture,"F2.0,Fixed"
+FOV,Horizontal field of view:99.7°; Vertical field of view:55.1°
+Illuminator,
+IR LEDs,2
+IR Range,Up to 30m
+Wavelength,850nm
+White LEDs/Warmlights,
+Compression Standard,
+Video Compression,S+265/H.265/H.264
+Video Bit Rate,32Kbps~6Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D
+Audio Bit Rate,"8K,32K,48Kbps"
+Image,
+Max. Resolution,1920x1080
+Main Stream,"PAL:25fps(1920x1080,1280x720,704x576,640x480)"
+,"NTSC:30fps(1920x1080,1280x720,704x480,640x480)"
+Sub Stream,"PAL:25fps(704x576,704x288,640x360,352x288)"
+,"NTSC:30fps(704x480,704x240,640x360,352x240)"
+Third Stream,
+Image Setting,"Saturation,brightness,contrast,sharpness,adjustable by client software or web browser"
+Image Enhancement,BLC/3D DNR/HLC
+ROI,Support 8 fixed regions of coding
+OSD,"16x16,32x32,48x48,adaptable size,Letters Such as Week,Date,Time,Total 1 Regions"
+Picture Overlay,
+Privacy Mask,"Yes,4 regions"
+Smart Defog,Yes
+Feature,
+Alarm Trigger,"Motion Detection,Mask Alarm,IP Address Conflict"
+Video Analytics,"Tripwire,Perimeter"
+Early Warning(EW),
+Network,
+ANR,
+Protocols,"RTSP,HTTP,TCP/IP,UDP,UPnP,ICMP,DHCP,DNS,DDNS,Easy DDNS,NTP,IPv4"
+System Compatibility,"ONVIF(PROFILE S/T/G),SDK,CGI,Milestone,P2P(Mutually exclusive with Profile G)"
+Remote Connection,2
+Client,"Easy7,EasyLive Plus"
+Web Version,Web6
+Interface,
+Communication Interface,1 RJ45 10M/ 100M self adaptive Ethernet port
+Audio I/O,Mic in
+Alarm I/O,
+Speaker,
+Reset Button,
+On-board storage,
+General,
+Web Client Language,"17 languages  English,Russian,Spanish,Korean,Italian,Turkish,Simple Chinese,Traditional Chinese,Thai,French,Polish,Dutch,Hebraism,Arabic,Vietnamese,German,Ukrainian"
+Operating Conditions,"-30℃～60℃,0～95% RH"
+Power Supply,PoE(802.3af)
+Power Consumption,MAX:5W(POE)
+Protection,IP66
+Heater,
+Dimensions,117x117x96mm(4.61x4.61x3.78inch)
+GrossWeight,0.42Kg(0.93lb)
+NetWeight,0.29Kg(0.64lb)
+
+
+날짜,제목,유형
+2022-12-05,TC-C32HN Spec I3-E-Y-C-2.8mm-V4.2,pdf

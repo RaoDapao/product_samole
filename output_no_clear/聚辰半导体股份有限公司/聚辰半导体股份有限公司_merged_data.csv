@@ -1,0 +1,17 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+聚辰半导体股份有限公司,EEPROM,https://en.giantec-semi.com/Application-Guide,无,无,root,1906551877,ApplicationGuide|GiantecSemiconductorCorporation,7936635512,无,0,无,0
+聚辰半导体股份有限公司,NOR Flash,https://en.giantec-semi.com/Application-Guide,无,无,root,1906551877,ApplicationGuide|GiantecSemiconductorCorporation,7936635512,无,0,无,0
+聚辰半导体股份有限公司,VCM driver,https://en.giantec-semi.com/Application-Guide,无,无,root,1906551877,ApplicationGuide|GiantecSemiconductorCorporation,7936635512,无,0,无,0
+聚辰半导体股份有限公司,Smart card,https://en.giantec-semi.com/Application-Guide,无,无,root,1906551877,ApplicationGuide|GiantecSemiconductorCorporation,7936635512,无,0,无,0
+聚辰半导体股份有限公司,EEPROM 芯片,https://www.giantec-semi.com/eepromxp,I2C 系列、SPI 系列、Microwire 系列、SPD/SPD+TS 系列、A2、A1,EEPROM 是一类通用型的非易失性存储芯片，在断电情况下仍能保留所存储的数据信息，可以在计算机或专用设备上擦除已有信息重新编程，耐擦写性能至少 100 万次。聚辰的 EEPROM 产品具有高可靠性、宽电压、高兼容性、低功耗等特点，产品广泛应用于智能手机、液晶面板、蓝牙模块、通讯、计算机及周边、医疗仪器、白色家电、汽车电子、工业控制等领域。,您的当前位置,5773865161,无,0,无,0,无,0
+聚辰半导体股份有限公司,EEPROM,https://en.giantec-semi.com/Newsroom/Next-generation-EEPROM-product-with-temperature-sensor-GT34TS04-had-been-launched,GT34TS04,支持 2.2V~3.6V 供电电压范围，最大温度传感器分辨率为 0.0625℃，最小温度传感器精度为±0.5℃,root,1906551877,NextgenerationEEPROMproductwithtemperaturesensorGT34TS04hadbeenlaunched|GiantecSemiconductorCorporation,9041215871,无,0,无,0
+聚辰半导体股份有限公司,NOR Flash 芯片,https://www.giantec-semi.com/norxp,1.65~3.6V、2.7~3.6V、1.65~1.95V、1.0~1.4V、1.0~2.0V,以其合适的容量、灵活的存取操作、非易失性产品特性，适合作为智能设备的指令程序存储器。随着 5G、IOT、AMOLED、TDDI、TWS 及汽车电子等应用市场快速发展，NOR Flash 的需求保持持续增长动力。特别是在汽车电子、5G 基站等需要高可靠性的应用场景，NOR Flash 已成为刚需，其价值不可替代。聚辰半导体推出的 SPI NOR Flash 产品，可覆盖从消费级到工业级，直至汽车级的所有应用，产品在可靠性、功耗、温度和速度等关键性能指标方面达到国内外前沿水准,您的当前位置,5773865161,无,0,无,0,无,0
+聚辰半导体股份有限公司,EEPROM 芯片,https://www.giantec-semi.com/fzxx,无,无,您的当前位置,5773865161,无,0,无,0,无,0
+聚辰半导体股份有限公司,NOR Flash 芯片,https://www.giantec-semi.com/fzxx,无,无,您的当前位置,5773865161,无,0,无,0,无,0
+聚辰半导体股份有限公司,音圈马达驱动芯片,https://www.giantec-semi.com/fzxx,无,无,您的当前位置,5773865161,无,0,无,0,无,0
+聚辰半导体股份有限公司,智能卡芯片,https://www.giantec-semi.com/fzxx,无,无,您的当前位置,5773865161,无,0,无,0,无,0
+聚辰半导体股份有限公司,EEPROM 芯片,https://www.giantec-semi.com/yyzn,24 Series、25 Series、93 Series、34 Series,无,您的当前位置,5773865161,无,0,无,0,无,0
+聚辰半导体股份有限公司,音圈马达驱动芯片,https://www.giantec-semi.com/yyzn,VCM Driver,无,您的当前位置,5773865161,无,0,无,0,无,0
+聚辰半导体股份有限公司,智能卡芯片,https://www.giantec-semi.com/yyzn,GT9772,无,您的当前位置,5773865161,无,0,无,0,无,0
+聚辰半导体股份有限公司,音圈马达驱动芯片,https://www.giantec-semi.com/news/317,GT9764V,在保持之前型号的驱动能力和驱动电流性能的基础上，进一步缩小芯片尺寸面积，有效降低芯片成本，并在芯片中集成了具有聚辰自主知识产权的音圈马达算法。首创了通信接口电平自适应技术，以适应 1.2/1.8V 接口电平，满足了当下及未来手机内部通信总线会同时存在多种电平的要求，且不产生静态功耗。设计了 11 位高精度 DAC，以满足未来市场上对于大推力大行程马达的需求,您的当前位置,5773865161,无,0,无,0,无,0
+聚辰半导体股份有限公司,1.2V/1.8V 自适应电源电压 EEPROM 芯片,https://www.giantec-semi.com/news/317,GT24P128G,是一款拥有具有聚辰自主知识产权的全球首款支持 1.2V 电压的 128Kbit EEPROM 产品，主要应用于智能手机摄像头模组。完全兼容工业标准的 IIC 接口协议，可擦写次数为 100 万次，数据保留时间 100 年，支持低压下 1MHZ 快速读写/芯片软件写保护及 7bit 器件地址可配置功能，解决了摄像头模组应用市场内常见的总线地址冲突问题。在兼容主流 1.8V 应用的同时支持 1.2V 应用，将终端用户的使用体验提升到新高度，并已率先通过高通平台测试,您的当前位置,5773865161,无,0,无,0,无,0

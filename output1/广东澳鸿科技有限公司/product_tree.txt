@@ -1,0 +1,16 @@
+-> root http://www.gdaohong.com
+  -> 首页 
+    -> 产品中心_7 http://www.gdaohong.com/page5
+      -> 基准电压源 IC 
+      -> 三端稳压 IC 
+      -> LDO 
+      -> 运算放大器 
+      -> 电源管理 IC 
+      -> 达林顿管 
+      -> 光耦 
+      -> MOS 管 
+      -> 三极管 
+      -> 二极管 
+      -> 功率开关管 
+    -> 小家电电源产品 http://www.gdaohong.com/page14
+    -> 电机驱动产品 http://www.gdaohong.com/page16

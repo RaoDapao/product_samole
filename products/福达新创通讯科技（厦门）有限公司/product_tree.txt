@@ -1,0 +1,11 @@
+-> root https://www.vidagrid.com
+  -> 首页 
+    -> 产品中心 
+      -> VidaGrid管理云平台 https://www.vidagrid.com/lists/32.html
+        -> VidaGrid 管理云平台 
+        -> 边缘网关数据采集器 
+        -> 工业级云端路由器 
+        -> VPN 路由器 
+        -> 数据采集棒 
+        -> VPN 通讯模块 
+        -> 交换机 

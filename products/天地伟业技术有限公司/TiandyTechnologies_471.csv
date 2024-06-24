@@ -1,0 +1,109 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/506.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Thermal & Optical Bi-spectrum AI PTZ Camera|TC-H358M|·Up to Optical:2560×1440@25fps Thermal:384×288@25fps<br>·Optical: Color: 0.001lux@ (F1.6, AGC ON), B/W: 0lux with IR<br>·S+265/H.265/H.264/M-JPEG<br>·Optical Zoom Optical:44X<br>·IR Range Up to 300m<br>·Built-in Micro SD card slot, up to 512 GB<br>·Support Smart surveillance, Capture facial images<br>·Support Human/Vehicle Classification<br>·Operating Conditions -40℃～70℃(IR OFF) -40℃～40℃(IR ON), 0～95%<br>·AC24V±25%\DC36V±25%<br>·IP66|
+
+Camera,Unnamed: 1
+Image Sensor,"1/1.8""CMOS"
+Min. Illumination,"Optical: Color: 0.001lux@ (F1.6, AGC ON), B/W: 0lux with IR"
+Shutter Time,1s~1/100000s
+Day&Night,IR-cut filter with auto switch (ICR)
+WDR,120dB
+Lens,
+Focal Length,Optical:6mm～264mm Thermal:50mm
+Optical Zoom,Optical:44X
+Digital Zoom,Optical:16X
+Zoom Speed,<6s
+Aperture Range,Optical:F1.6~F5.3
+Field of View,Optical:61.8°～2.3°(H) Thermal:7.5°(H) ; Optical:36.3°～1.3°(V) Thermal:5.6°(V) ; Optical:69°～2.6°(D)
+Focus Control,Optical:Auto/Semi-auto/Manual
+Iris Control,Optical:Auto
+Close Focus Distance,Optical:100mm~1500mm
+DORI Distance,Optical: Detect:2620m Observe:1040m Recognize:524m Identify:262m
+Pan&Tilt,
+Pan Range,360°
+Tilt Range,-21°～90° (Default -13°～90°)
+Tilt Speed,Manual Speed:0.1°～120°/s Preset: 180°/s
+3D Position,Yes
+Preset,500
+Cruise,"16, up to 32 presets per cruise"
+Scan,8
+Pattern,"8, each with 600s memory or 1000 orders"
+Scheduled Task,Preset、Cruise、Scan、Pattern
+North Point,Yes
+Power-off Memory,Yes
+Preset Freezing,Yes
+Illuminator,
+IR LEDs,11
+IR Distance,Up to 300m
+Wavelength,850nm
+IR Irradiation Angle,Adjustable by Zoom
+White LEDs,2
+Whitelight Distance,30m
+Compression Standard,
+Video Compression,S+265/H.265/H.264/M-JPEG
+Video Bit Rate,32Kbps~16Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D/AAC_LC
+Audio Sampling Rate,8KHz/32KHz/48KHz
+Image,
+Max. Resolution,Optical:2560×1440@25fps Thermal:384×288@25fps
+Main Stream,"Optical: PAL:25fps(3072×1728, 2560×1440, 2304×1296, 1920×1080, 1280×720) 50fps(2560×1440, 2304×1296, 1920×1080, 1280×720) NTSC:30fps(3072×1728,  2560×1440, 2304×1296, 1920×1080, 1280×720) 60fps(2560×1440, 2304×1296, 1920×1080, 1280×720) Thermal: PAL:25fps(384×288) NTSC:30fps(384×288)"
+Sub Stream,"Optical: PAL:25fps(704×576, 704×288, 352×288, 640×360) NTSC:30fps(704×480, 704×240, 352×240, 640×360) Thermal: PAL:25fps(384×288)  NTSC:30fps(384×288)"
+Third Stream,"Optical: PAL:25fps(1920×1080, 1280×720, 704×576, 704×288, 352×288, 640×480) NTSC:30fps(1920×1080, 1280×720, 704×480, 704×240, 352×240, 640×480)  Thermal: PAL:25fps(384×288) NTSC:30fps(384×288)"
+BLC,Yes
+HLC,Yes
+AGC,Yes
+White Balance,Yes
+ROI,Optical:7 Dynamic Areas for Both Main and Sub Stream
+EIS,Yes
+OSD,"5 regions(Each region can have a maximum of 127 characters,up to 5 lines); 16*16/24*24/32*32/48*48/64*64/96*96/128*128/adaptable size; Vector/Lattice"
+Defog,Yes
+Flip,Normal/Inverted Flip
+Regional Exposure,Yes
+Regional Focus,Optical:Yes
+Demist,Yes
+Privacy Mask,24 regions
+Feature,
+Alarm Trigger,"Optical:Motion Detection Thermal:Motion Detection; Optical:Mask Alarm Thermal:N/A; Disk Full; Disk R/W Error; IP Address Conflict; MAC Address Conflict;  FTP Server Exception ; Event Input,Event Output; Network cable disconnected"
+Linkage Method,send email; trigger sound; trigger warmlight; trigger recording; trigger capture; notify surveillance center
+Video Analytics,Human/Vehicle Classification; Optical:Tripwire Thermal:Tripwire; Optical:Double Tripwire Thermal:Double Tripwire; Optical:Perimeter Thermal:Perimeter;  Optical:Object Abandon Thermal:N/A; Optical:Object Lost Thermal:N/A; Optical:Heatmap Thermal:N/A; Optical:Loitering Thermal:N/A; Optical:Running Thermal:N/A; Optical:N/A Thermal:N/A; Optical:People Counting Thermal:N/A; Optical:Crowed Thermal:N/A; Optical:Safety Helmet Detection Thermal:N/A; Optical:On Duty  Detection Thermal:N/A; Optical:Video Abnormal Thermal:N/A; Audio Abnormal Thermal:N/A
+Early Warning(EW),Early Warning(EW)
+Auto-Tracking,Auto-Tracking
+Face Mode,Capture facial images
+Network,
+ANR,ANR
+Protocols,HTTP; HTTPS; TCP/IP; UDP; UPnP; ICMP; IGMP; SNMP v1; DHCP; DNS; DDNS; Easy DDNS; NTP; SMTP; TLS; SSL; IPv4; IPv6; PPPOE; Unicast; Multicast; ARP; RTP; RTSP;  FTP; PING
+System Compatibility,ONVIF Profile S/T/G; CGI
+Remote Connection,≤7
+User/Host,Up to 32 users. 4 user levels
+Client,Easy7 Smart Client
+Moblie Client,EasyLive Plus
+Interface,
+Communication Interface,2*RJ45 10M/100M/1000M self adaptive Ethernet port
+Audio I/O,"1*Input Impedance 1kΩ,2.0~2.4Vp-p; 1*Output Impedance 600Ω"
+Alarm I/O,"8,Switching; 2,Switching,Voltage≤DC24V,Current≤1A"
+Reset Button,Yes
+On-board storage,"Built-in Micro SD card slot, up to 512 GB"
+RS-485,RS485
+Wiper,Yes
+Electronic Compass,Yes
+GPS/BDS,Yes
+General,
+Web Client Language,16 languages Simple Chinese/English/Traditional Chinese/Spanish/Italian/ Korean/Turkish/Russian/Thai/ Polish/French/Dutch/ Hebraism/Vietnamese/Arabic/Farsi
+Operating Temperature,-40℃～70℃(IR OFF) -40℃～40℃(IR ON)
+Operating Humidity,0～95%
+Storage Temperature,-40℃～70℃
+Storage Humidity,0～95%(non-condensing)
+Power Supply,AC24V±25%\DC36V±25%
+Protection,Surge protection 4000V; Lightning proof 6000V; IP66
+Material,Metal
+Boundary Dimensions,308mm(D)x505mm(H)
+Package Dimensions,460(L)*460(W)*720(H)mm
+GrossWeight,21.4Kg
+NetWeight,11.85kg
+
+
+Date,Title,Type
+2024-04-07,1D.20020.000281_TC-H358M 44XITA_en,pdf

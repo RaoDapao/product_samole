@@ -1,0 +1,19 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+武汉市聚芯微电子有限责任公司,SIP 系列光学传感 ICs,https://www.si-in.com/productinfo/2432293.html?templateId=1133605,SIP3515、SIP3617、SIP1225、SIP3625,包括 ALS（环境光传感）、接近/颜色/多光谱/闪烁传感和 ToF（飞行时间）传感能力，具有高性能 IP 和先进光学设计，可满足智能设备中光学传感的广泛需求,OpticalSensing,6608220702,无,0,无,0,无,0
+武汉市聚芯微电子有限责任公司,ToF 3D 图像传感器,https://www.si-in.com/productinfo/1230813.html,SIF2X10,采用背照式技术，具有高精度、小像素尺寸、高分辨率、低功耗、全集成等特点，可广泛应用于人工智能、人脸识别、自动驾驶、AR/VR、3D 建模、动作捕捉、机器视觉等领域,ToF3D图像传感器,2048748510,无,0,无,0,无,0
+武汉市聚芯微电子有限责任公司,桥式传感器信号调理芯片,https://www.si-in.com/cpzx,SIP99X1 系列,具有快速响应特性的高精度、高可靠性，适用于汽车、工业、医疗、家电等多种应用,无,0,无,0,无,0,无,0
+武汉市聚芯微电子有限责任公司,模拟输入智能音频功放芯片,https://www.si-in.com/cpzx,SIA810X 系列,具有独立知识产权，凭借差异化的产品及优秀的性价比已得到主流手机厂商的认可,无,0,无,0,无,0,无,0
+武汉市聚芯微电子有限责任公司,飞行时间（Time-of-Flight）传感器,https://www.si-in.com/cpzx,无,用于 3D 成像，采用了背照式（BSI）技术，具有高精度、小像素尺寸、高分辨率、低功耗、全集成等特点，可广泛应用于人工智能、人脸识别、自动驾驶、AR/VR、3D 建模、动作捕捉、机器视觉等领域,无,0,无,0,无,0,无,0
+武汉市聚芯微电子有限责任公司,线性马达驱动芯片,https://www.si-in.com/cpzx,SIH,具有自动刹车功能，主要用于高端智能手机，可穿戴设备，平板等电子产品的触感反馈功能实现,无,0,无,0,无,0,无,0
+武汉市聚芯微电子有限责任公司,光学传感器,https://www.si-in.com/cpzx,SIP 系列,包含 ALS、Proximity、Color、多光谱，Flicker 及测距 ToF 等，产品拥有自主知识产权的高性能核心 IP 和先进光学元件设计，可充分满足客户越来越高的性能指标要求，搭配相应算法提供完整解决方案,无,0,无,0,无,0,无,0
+武汉市聚芯微电子有限责任公司,ToF 3D 图像传感器,https://www.si-in.com/ProductInfoCategory?categoryId=329550,无,采用背照式（BSI）技术，具有高精度、小像素尺寸、高分辨率、低功耗、全集成等特点，可广泛应用于人工智能、人脸识别、自动驾驶、AR/VR、3D 建模、动作捕捉、机器视觉等领域，在手机、安防、汽车等主流市场拥有光明的商业落地前景,无,0,无,0,无,0,无,0
+武汉市聚芯微电子有限责任公司,智能音频,https://www.si-in.com/ProductInfoCategory?categoryId=329551,SIA810X 系列,是聚芯研发的具有独立知识产权的模拟输入智能音频功放芯片，凭借差异化的产品及优秀的性价比已得到主流手机厂商的认可,无,0,无,0,无,0,无,0
+武汉市聚芯微电子有限责任公司,压力传感器信号调理芯片,https://www.si-in.com/ProductInfoCategory?categoryId=329552,SIP99X1 系列,具有快速响应特性的高精度、高可靠性的桥式传感器信号调理芯片，适用于汽车、工业、医疗、家电等多种应用,无,0,无,0,无,0,无,0
+武汉市聚芯微电子有限责任公司,触觉感知,https://www.si-in.com/ProductInfoCategory?categoryId=799827,无,ToF、Audio、传感器信号调理、Haptics、光感,无,0,无,0,无,0,无,0
+武汉市聚芯微电子有限责任公司,聚芯 SIP 系列光学感知传感器芯片,https://www.si-in.com/productinfo/1706823.html,SIP3515、SIP3517、SIP1225、SIP3625,SIP 系列光学传感器的规划全面覆盖了智能电子设备对光感器件的需求，包含 ALS、Proximity、Color、多光谱，Flicker 及测距 ToF 等。产品拥有自主知识产权的高性能核心 IP 和先进光学元件设计，可充分满足客户越来越高的性能指标要求，搭配相应算法提供完整解决方案。现已推出针对全面屏窄缝方案的 SIP3515、SIP3517 ALS+Proximity 三合一模组，其中 SIP3515 模组使用 IR LED，SIP3517 模组使用 IR VCSEL，拥有极高的灵敏度和强大的 Crosstalk 抑制能力，可支持无导光柱和垫高设计；SIP1225 小尺寸超薄高灵敏度 ALS，可满足有感光需求的各种智能电子设备；针对 OLED 屏下方案的 SIP3625 Color+Proximity 二合一模组，搭配屏下光感算法，提升 Proximity SNR 以降低整体方案成本。后续还将推出 Color+Flicker，多光谱+Flikcer 等多种产品。,光学感知,8946222520,无,0,无,0,无,0
+武汉市聚芯微电子有限责任公司,SIP 系列光学感知传感器芯片,https://www.si-in.com/productinfo/1706823.html#,SIP3515、SIP3517、SIP1225、SIP3625,规划全面覆盖智能电子设备对光感器件的需求，包含 ALS、Proximity、Color、多光谱、Flicker 及测距 ToF 等。产品拥有自主知识产权的高性能核心 IP 和先进光学元件设计，可充分满足客户越来越高的性能指标要求，搭配相应算法提供完整解决方案,光学感知,8946222520,无,0,无,0,无,0
+武汉市聚芯微电子有限责任公司,智能音频芯片,https://www.si-in.com/newsinfo/1796837.html,无,已在 OPPO、小米、三星等一线手机厂商完成上亿颗出货,无,0,无,0,无,0,无,0
+武汉市聚芯微电子有限责任公司,5um VGA 级背照式高分辨率 ToF 飞行时间传感器芯片,https://www.si-in.com/newsinfo/1796837.html,无,已成功流片，并在数家行业头部客户完成了技术评估和测试并获批量订单,无,0,无,0,无,0,无,0
+武汉市聚芯微电子有限责任公司,线性马达驱动芯片,https://www.si-in.com/newsinfo/1796837.html,无,即将实现规模化量产,无,0,无,0,无,0,无,0
+武汉市聚芯微电子有限责任公司,光学传感芯片,https://www.si-in.com/newsinfo/1796837.html,无,即将实现规模化量产,无,0,无,0,无,0,无,0
+武汉市聚芯微电子有限责任公司,SIH 系列线性马达驱动,https://www.si-in.com/productinfo/1591091.html,SIH68XX、SIH61XX,根据产品定位的不同已经发展出丰富的细分型号，配合完全自主研发的 SIHaptics core 算法，可实现随音震动，用户手感交互等全新音触觉融合体验。其中 SIH68XX 高压驱动芯片采用动态 booster 自动超驱，其优秀的自动刹车可提供非常好的长短震反馈效果，适合驱动逐渐在中高端手机和移动设备上普及的 X/Z 轴线性马达，SIH61XX 常压驱动芯片同样适用于驱动 X/Z 轴线性马达或转子马达，性价比高，在中低端手机和移动设备市场有广泛的应用。,触觉感知,3618829382,无,0,无,0,无,0

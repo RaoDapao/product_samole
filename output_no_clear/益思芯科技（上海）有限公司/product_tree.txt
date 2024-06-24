@@ -1,0 +1,8 @@
+-> root http://www.resnics.com
+  -> 产品信息-益思芯Resnics http://www.resnics.com/product
+    -> DPU 
+    -> 智能网卡 
+    -> FPGA 加速卡 
+  -> DPU-益思芯Resnics http://www.resnics.com/product/dpu
+  -> 智能网卡-益思芯Resnics http://www.resnics.com/product/netcard
+  -> FPGA加速卡-益思芯Resnics http://www.resnics.com/product/fpga

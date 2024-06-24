@@ -1,0 +1,11 @@
+产品网址：https://www.njsme.com/?aPRODUCTSPRODUCTSD500V/88.html
+产品结构：root->SiCMOS-FullBridge-1700SiC-FullBridge-南京银茂微电子制造有限公司-
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Full Bridge|SiC MOS-Full Bridge-1700SiC|无|
+
+VDSS=1700V,VDSS=1700V.1,VDSS=1700V.2,VDSS=1700V.3,VDSS=1700V.4,VDSS=1700V.5
+Part Number,Voltage(V),Current(A),RDS(on)@25℃,Comments,Links
+MSC50FF170T5H,1700,50,45mΩ,With SiC FRD,
+,,,,,

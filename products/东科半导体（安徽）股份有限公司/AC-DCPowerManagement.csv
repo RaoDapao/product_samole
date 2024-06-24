@@ -1,0 +1,23 @@
+产品网址：https://www.dkpower.cn/ACDCdianyuanguanlixilie.html
+产品结构：Home->PRODUCT->AC-DCPowerManagement
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|AC-DC 电源管理|无|无|
+
+Product,Characteristics,Topology,Standby Power,Output Power,GaN FET BV/Rdson,fMAX,Package,VDD Range
+DK2649PA,Low Standby-Power Off-line PWM Converter,Flyback,<75mW,15W,650V,Variable,DIP8,9V-34V
+DK2649CC,Low Standby-Power Off-line PWM Converter,Flyback,<75mW,22W,650V,Variable,SOP-8,9V-34V
+DK225MP,Low Standby-Power Off-line PWM Converter,Flyback,<75mW,22W,650V,Variable,SOP-8,9.5V-36.5V
+DK225MD,Low Standby-Power Off-line PWM Converter,Flyback,<75mW,30W,650V,Variable,DIP8,9.5V-36.5V
+DK220MD,Low Standby-Power Off-line PWM Converter,Flyback,<75mW,24W,650V,Variable,DIP8,9.5V-36.5V
+DK125,PWM Converter,Flyback,<270mW,24W,700V,65KHZ,DIP8,Self-powered
+DK124,PWM Converter,Flyback,<240mW,18W,700V,65KHZ,DIP8,Self-powered
+DK112C,PWM Converter,Flyback,<270mW,12W,700V,65KHZ,DIP8,Self-powered
+DK112,PWM Converter,Flyback,<270mW,12W,700V,65KHZ,DIP8,Self-powered
+DK1203-DIP,PWM Converter,Flyback,<270mW,12W,700V,65KHZ,DIP8,Self-powered
+DK1203-SOP,PWM Converter,Flyback,<270mW,10W,700V,65KHZ,SOP-8,Self-powered
+DK2649CB-DIP,Low Standby-Power Off-line PWM Converter,Flyback,<75mW,20W,650V,Variable,DIP-8,9V-34V
+DK2649CB-SOP,Low Standby-Power Off-line PWM Converter,Flyback,<75mW,20W,650V,Variable,SOP-8,9V-34V
+DK220MP,Low Standby-Power Off-line PWM Converter,Flyback,<75mW,20W,650V,Variable,SOP-8,9.5V-36.5V
+DK106,PWM converter,Flyback,<270mW,6W,700V,65KHZ,DIP8/SOP8,Self-powered

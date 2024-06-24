@@ -1,0 +1,24 @@
+-> root http://szwongchu.com
+  -> 代理品牌 http://szwongchu.com/brand/product.html
+    -> 5G 蜂窝通信模组 
+    -> 5G 蜂窝通信模组 
+    -> 5G 蜂窝通信模组 
+    -> 车规级模组 
+  -> 代理品牌_1 http://szwongchu.com/brand/product.html?title=5G
+  -> 代理品牌_2 http://szwongchu.com/brand/product.html?title=4G
+    -> N720 
+    -> N75 
+    -> N77-CA 
+    -> N720V5 
+    -> N58 
+    -> N715 
+    -> N716 
+    -> N706 
+    -> N700 
+  -> 代理品牌_3 http://szwongchu.com/brand/product.html?title=%E8%BD%A6%E8%A7%84%E7%BA%A7%E6%A8%A1%E7%BB%84
+  -> 代理品牌_4 http://szwongchu.com/brand/product.html?title=%E6%99%BA%E8%83%BD%E6%A8%A1%E7%BB%84
+    -> 智能模组 
+    -> 智能模组 
+    -> 智能模组 
+    -> 智能模组 
+    -> 智能模组 

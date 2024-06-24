@@ -1,0 +1,545 @@
+-> root https://www.huahuan.com
+  -> 首页 
+    -> 产品中心 
+      -> 北京华环电子股份有限公司_ https://www.huahuan.com/index.php?m=default.product&fid=2
+      -> 分组传输接入系列 
+        -> 北京华环电子股份有限公司_产品中心_ https://www.huahuan.com/index.php?m=default.product&fid=2&ccid=20
+          -> 智能传输接入设备 
+          -> IPRAN 汇聚设备 
+          -> 接入设备 
+          -> 汇聚设备 
+      -> 以太网接入系列 
+        -> 北京华环电子股份有限公司_产品中心__1 https://www.huahuan.com/index.php?m=default.product&fid=2&ccid=21
+          -> 光纤 4G 双路由保护器设备 
+          -> 双光保护型光纤收发器 
+          -> 双通道隔离型光纤收发器 
+          -> 多端口型光纤收发器设备 
+          -> 单端口型光纤收发器 
+          -> 智能光纤收发器设备 
+      -> 协议转换器系列 
+        -> 北京华环电子股份有限公司_产品中心__2 https://www.huahuan.com/index.php?m=default.product&fid=2&ccid=22
+          -> H0FL-5P 型集中式光纤收发器/协议转换器机框 
+          -> H0FL-P 系列集中式光纤收发器/协议转换器机框 
+      -> PCM综合业务传输接入系列 
+        -> 北京华环电子股份有限公司_产品中心__3 https://www.huahuan.com/index.php?m=default.product&fid=2&ccid=23
+          -> H5600.V5 设备 
+          -> H5600.VII 设备 
+          -> H5600 系列设备 
+          -> H9MO-LMP30 系列设备 
+          -> H9MO-LMXE+系列设备 
+          -> H5001 
+      -> 数字交叉连接系列 
+        -> 北京华环电子股份有限公司_产品中心__4 https://www.huahuan.com/index.php?m=default.product&fid=2&ccid=25
+          -> 数字交叉连接设备 
+          -> 数字交叉连接设备 
+      -> 智能网关系列 
+        -> 北京华环电子股份有限公司_产品中心__5 https://www.huahuan.com/index.php?m=default.product&fid=2&ccid=27
+      -> SmallCell皮基站系列 
+        -> 北京华环电子股份有限公司_产品中心__6 https://www.huahuan.com/index.php?m=default.product&fid=2&ccid=108
+      -> OTN光网络系列 
+        -> 北京华环电子股份有限公司_产品中心__7 https://www.huahuan.com/index.php?m=default.product&fid=2&ccid=123
+          -> HT8000 设备 
+          -> HT8000 系列 EDFA 设备 
+          -> HT8000 系列光线路保护 OLP 设备 
+          -> HT8000 系列接入型 OTN 盒式设备 
+      -> DCI-BOX和城域波分系列 
+        -> 北京华环电子股份有限公司_产品中心__8 https://www.huahuan.com/index.php?m=default.product&fid=2&ccid=129
+      -> 网管软件 
+        -> 北京华环电子股份有限公司_产品中心__9 https://www.huahuan.com/index.php?m=default.product&fid=2&ccid=132
+      -> 光传输接入系列 
+        -> 北京华环电子股份有限公司_产品中心__10 https://www.huahuan.com/index.php?m=default.product&fid=2&ccid=19
+          -> H9MO-LMXE.VX 型 SDH/IPRAN 双平面传输接入设备 
+          -> H10MOS 系列 PDH 光端机 
+          -> H9MO-LME 系列 SDH 光端机 
+          -> H9MO-LMFE 型 MSAP 汇聚接入设备 
+          -> H9MO-LMXE 系列 MSAP 汇聚接入设备 
+          -> H9MO-LMXE.V8E 型双平面汇聚接入设备 
+    -> 解决方案 
+      -> DCI-BOX、城域波分（模块化波分）解决方案 
+        -> 北京华环电子股份有限公司_解决方案_ https://www.huahuan.com/index.php?m=default.project_detail&fid=4&ccid=131&deid=190
+  -> Huahuan_Products https://huahuan.com/en/index.php?m=default.product&fid=2
+    -> IPRAN CPE 
+    -> IP/MPLS/IPRAN 聚合 
+    -> Products 
+      -> IP/MPLS/IPRAN 
+      -> PTN/MPLS-TP 
+        -> Huahuan_Products_ https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=35
+          -> PTN CPE 
+          -> PTN Aggregation Devices 
+          -> PTN 设备 
+      -> EthernetAccess 
+        -> Huahuan_Products__1 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=36
+          -> Media Converter 
+          -> Fiber-Optic/4G Dual-routing Protector 
+          -> Ethernet Aggregation 
+          -> Ethernet Demarcation device Series 
+          -> Ethernet Demarcation Device 
+          -> Ethernet Demarcation Device 
+      -> GPON 
+        -> Huahuan_Products__2 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=37
+          -> GPON ONT 
+          -> OLT 
+      -> SDH+MPLS+PCMHybridMux 
+        -> Huahuan_Products__3 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=38
+          -> SDH+MPLS+PCM Hybrid Mux 
+          -> SDH+MPLS+PCM Hybrid Mux 
+          -> SDH+MPLS+PCM Hybrid Mux 
+          -> SDH+MPLS+PCM Hybrid Mux 
+      -> SDH/PDHMultiplexer 
+        -> Huahuan_Products__4 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=39
+          -> SDH/PDH 复用器 
+          -> SDH/PDH 复用器 
+          -> SDH/PDH 复用器 
+          -> SDH/PDH 复用器 
+          -> SDH/PDH 复用器 
+          -> SDH/PDH 复用器 
+      -> PCM 
+        -> Huahuan_Products__5 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=40
+          -> Compact PCM Mux 
+          -> Compact PCM Mux 
+          -> PCM Mux 
+      -> ProtocolConverter 
+        -> Huahuan_Products__6 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=42
+          -> V.35/E1 Converter 
+          -> EoPDH Converter Series 
+          -> Converter Rack 
+          -> Compact Converter Rack 
+      -> TDMoIP 
+        -> Huahuan_Products__7 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=43
+      -> OLP 
+        -> Huahuan_Products__8 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=46
+      -> DSLRouter 
+        -> Huahuan_Products__9 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=177
+      -> SmallCell 
+        -> Huahuan_Products__10 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=192
+          -> Small Cell 
+          -> Small Cell 
+      -> SDWAN 
+        -> Huahuan_Products__11 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=197
+      -> uCPEhardware 
+        -> Huahuan_Products__12 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=198
+          -> uCPE hardware 
+          -> uCPE hardware 
+          -> uCPE hardware 
+      -> Ethernetswitch 
+        -> Huahuan_Products__13 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=199
+      -> xWDM/OTN 
+        -> Huahuan_Products__14 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=45
+        -> Huahuan_ https://huahuan.com/en/index.php?m=default.project_detail&fid=4&ccid=4&deid=143
+      -> UtilitySolution 
+  -> Huahuan_Products_Sma https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44
+  -> Huahuan_Products_Wir https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47
+  -> Huahuan_Products_SFP https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48
+  -> Huahuan_Products_Net https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=49
+  -> Huahuan_Products_Pre https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=190
+  -> Huahuan_Products_1 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=50
+  -> Huahuan_Products_2 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=54
+  -> Huahuan_Products_3 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=56
+  -> Huahuan_Products_4 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=60
+  -> Huahuan_Products_5 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=75
+  -> Huahuan_Products_6 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=83
+  -> Huahuan_Products_7 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=86
+  -> Huahuan_Products_8 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=88
+  -> Huahuan_Products_9 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=90
+    -> Compact IPRAN/MPLS Platform 
+    -> Compact PTN Platform 
+    -> Carrier Ethernet/EDD/NID 
+    -> GPON 
+    -> SDH+PCM Integrated Service 
+    -> Compact SDH+PCM Multiplexer 
+    -> SDH+MPLS-TP Dual-core Mux 
+    -> SDH Multiplexer 
+    -> PDH Multiplexer 
+    -> Integrated Service Access 
+    -> Compact PCM Multiplexer 
+    -> EoPDH Converter 
+    -> V.35 over E1 Converter 
+    -> EoSDH Converter 
+    -> Ethernet over E3/DS3 Converter 
+    -> TDM over IP 
+    -> Enterprise Gateway 
+    -> Optical Line Protection 
+    -> IP Radio 
+    -> Optical Module 
+    -> NMS 
+    -> PTP/IEEE 1588 Grandmaster 
+    -> Small Cell HSC103 Femto C 
+    -> Small Cell HSC312 Nano Cell 
+  -> Huahuan_Products_10 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=93
+    -> H5600 综合业务接入设备 
+    -> H9MO-LMXE+.V2 综合接入复用器 
+  -> Huahuan_Products_11 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=96
+  -> Huahuan_Products_12 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=195
+  -> Huahuan_Products_13 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=98
+  -> Huahuan_Products_14 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=100
+    -> Compact SDH Multiplexer 
+    -> mini-MSTP 
+    -> MSTP 
+    -> Compact SDH Multiplexer 
+  -> Huahuan_Products_15 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=105
+  -> Huahuan_Products_16 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=107
+  -> Huahuan_Products_17 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=109
+  -> Huahuan_Products_18 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=119
+    -> H0FL-P.V5 Converter Rack 
+    -> H0FL Compact Converter Rack 
+  -> Huahuan_Products_19 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=125
+  -> Huahuan_Products_20 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=130
+  -> Huahuan_Products_21 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=132
+    -> Fiber-Optic/4G Dual-routi... 
+    -> PON Optical Module 
+    -> SDH+PCM Integrated Servic... 
+    -> SDH+MPLS+PCM Hybrid Multi... 
+    -> Ethernet over E3/DS3 Conv... 
+    -> PTP/IEEE 1588 Grandmaster... 
+    -> Small Cell HSC103 Femto C... 
+  -> Huahuan_Products_22 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=141
+  -> Huahuan_Products_23 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=145
+  -> Huahuan_Products_24 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=196
+  -> Huahuan_Products_25 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=151
+  -> Huahuan_Products_26 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=153
+  -> Huahuan_Products_H20 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=50&ncid=51&deid=144
+  -> Huahuan_Products_H20_1 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=54&ncid=55&deid=84
+  -> Huahuan_Products_27 https://huahuan.com/en/index.php?m=default.product&fid=2&page=1
+  -> Huahuan_Products_Sma_1 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=50
+  -> Huahuan_Products_Sma_2 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=54
+  -> Huahuan_Products_Sma_3 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=56
+  -> Huahuan_Products_Sma_4 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=60
+    -> PTN Aggregation Platform 
+    -> PTN Aggregation Platform 
+  -> Huahuan_Products_Sma_5 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=75
+    -> H18EDD-2402B 以太网汇聚接入设备 
+    -> H18EDD-0402P 以太网分界设备系列 
+    -> H18EDD-0402C 以太网分界设备 
+    -> H18EDD-0204P-8E1 以太网分界设备 
+  -> Huahuan_Products_Sma_6 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=83
+  -> Huahuan_Products_Sma_7 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=86
+  -> Huahuan_Products_Sma_8 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=88
+    -> GPON OLT 
+  -> Huahuan_Products_Sma_9 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=90
+  -> Huahuan_Products_Sma_10 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=93
+    -> SDH+PCM Integrated Service Access 
+    -> SDH+PCM Integrated Service Access 
+  -> Huahuan_Products_Sma_11 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=96
+  -> Huahuan_Products_Sma_12 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=195
+  -> Huahuan_Products_Sma_13 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=98
+  -> Huahuan_Products_Sma_14 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=100
+  -> Huahuan_Products_Sma_15 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=105
+  -> Huahuan_Products_Sma_16 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=107
+  -> Huahuan_Products_Sma_17 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=109
+  -> Huahuan_Products_Sma_18 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=119
+  -> Huahuan_Products_Sma_19 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=125
+  -> Huahuan_Products_Sma_20 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=130
+  -> Huahuan_Products_Sma_21 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=132
+  -> Huahuan_Products_Sma_22 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=169
+  -> Huahuan_Products_Sma_23 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=141
+  -> Huahuan_Products_Sma_24 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=145
+  -> Huahuan_Products_Sma_25 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=196
+  -> Huahuan_Products_Sma_26 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=153
+  -> Huahuan_Products_Sma_27 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=193
+  -> Huahuan_Products_Sma_28 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=194
+  -> Huahuan_Products_Sma_29 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=145&ncid=146&deid=180
+  -> Huahuan_Products_Sma_30 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&page=1
+  -> Huahuan_Products_Wir_1 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=50
+  -> Huahuan_Products_Wir_2 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=54
+  -> Huahuan_Products_Wir_3 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=56
+  -> Huahuan_Products_Wir_4 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=60
+  -> Huahuan_Products_Wir_5 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=75
+  -> Huahuan_Products_Wir_6 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=86
+  -> Huahuan_Products_Wir_7 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=88
+  -> Huahuan_Products_Wir_8 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=90
+  -> Huahuan_Products_Wir_9 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=93
+  -> Huahuan_Products_Wir_10 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=98
+  -> Huahuan_Products_Wir_11 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=100
+  -> Huahuan_Products_Wir_12 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=105
+  -> Huahuan_Products_Wir_13 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=109
+  -> Huahuan_Products_Wir_14 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=119
+  -> Huahuan_Products_Wir_15 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=125
+  -> Huahuan_Products_Wir_16 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=145
+  -> Huahuan_Products_Wir_17 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=196
+  -> Huahuan_Products_Wir_18 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=151
+  -> Huahuan_Products_Wir_19 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=153
+  -> Huahuan_Products_Wir_20 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=155
+  -> Huahuan_Products_Wir_21 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=160
+  -> Huahuan_Products_Wir_22 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=191
+  -> Huahuan_Products_Wir_23 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=193
+  -> Huahuan_Products_Wir_24 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=194
+  -> Huahuan_Products_Wir_25 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=153&ncid=154&deid=192
+  -> Huahuan_Products_Wir_26 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&page=1
+  -> Huahuan_Products_SFP_1 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=50
+  -> Huahuan_Products_SFP_2 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=54
+  -> Huahuan_Products_SFP_3 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=56
+  -> Huahuan_Products_SFP_4 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=60
+  -> Huahuan_Products_SFP_5 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=75
+  -> Huahuan_Products_SFP_6 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=83
+  -> Huahuan_Products_SFP_7 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=88
+  -> Huahuan_Products_SFP_8 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=93
+  -> Huahuan_Products_SFP_9 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=195
+  -> Huahuan_Products_SFP_10 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=98
+  -> Huahuan_Products_SFP_11 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=100
+  -> Huahuan_Products_SFP_12 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=107
+  -> Huahuan_Products_SFP_13 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=109
+  -> Huahuan_Products_SFP_14 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=119
+  -> Huahuan_Products_SFP_15 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=125
+  -> Huahuan_Products_SFP_16 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=130
+  -> Huahuan_Products_SFP_17 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=141
+  -> Huahuan_Products_SFP_18 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=145
+  -> Huahuan_Products_SFP_19 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=196
+  -> Huahuan_Products_SFP_20 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=155
+  -> Huahuan_Products_SFP_21 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=193
+  -> Huahuan_Products_SFP_22 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=194
+  -> Huahuan_Products_Net_1 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=49&ncid=54
+  -> Huahuan_Products_Net_2 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=49&ncid=88
+  -> Huahuan_Products_Net_3 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=49&ncid=90
+  -> Huahuan_Products_Net_4 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=49&ncid=109
+  -> Huahuan_Products_Net_5 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=49&ncid=119
+  -> Huahuan_Products_Net_6 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=49&ncid=169
+  -> Huahuan_Products_Net_7 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=49&ncid=151
+  -> Huahuan_Products_Net_8 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=49&ncid=153
+  -> Huahuan_Products_Net_9 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=49&ncid=193
+  -> Huahuan_Products_Pre_1 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=190&ncid=50
+  -> Huahuan_Products_Pre_2 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=190&ncid=54
+  -> Huahuan_Products_Pre_3 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=190&ncid=75
+    -> Ethernet Aggregation and Access Device 
+    -> Ethernet Demarcation Device Series 
+    -> Carrier-Class Ethernet Demarcation Device 
+  -> Huahuan_Products_Pre_4 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=190&ncid=86
+  -> Huahuan_Products_Pre_5 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=190&ncid=88
+  -> Huahuan_Products_Pre_6 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=190&ncid=90
+  -> Huahuan_Products_Pre_7 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=190&ncid=93
+  -> Huahuan_Products_Pre_8 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=190&ncid=98
+  -> Huahuan_Products_Pre_9 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=190&ncid=100
+  -> Huahuan_Products_Pre_10 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=190&ncid=109
+  -> Huahuan_Products_Pre_11 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=190&ncid=130
+  -> Huahuan_Products_Pre_12 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=190&ncid=132
+  -> Huahuan_Products_Pre_13 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=190&ncid=169
+  -> Huahuan_Products_Pre_14 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=2&ncid=190&deid=202
+  -> Huahuan_Products_Pre_15 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=190&page=1
+  -> Huahuan_Products_28 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=54&page=1
+  -> Huahuan_Products_H20_2 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=56&ncid=59&deid=154
+  -> Huahuan_Products_29 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=56&page=1
+  -> Huahuan_Products_H20_3 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=60&ncid=61&deid=147
+  -> Huahuan_Products_H20_4 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=60&ncid=63&deid=146
+  -> Huahuan_Products_30 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=60&page=1
+  -> Huahuan_Products_H18 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=75&ncid=76&deid=91
+  -> Huahuan_Products_H18_1 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=75&ncid=78&deid=90
+  -> Huahuan_Products_H18_2 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=75&ncid=77&deid=89
+  -> Huahuan_Products_H18_3 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=75&ncid=80&deid=88
+  -> Huahuan_Products_31 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=75&page=1
+  -> Huahuan_Products_Med https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=36&ncid=83&deid=155
+  -> Huahuan_Products_H16 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=86&ncid=87&deid=94
+  -> Huahuan_Products_H18_4 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=88&ncid=92&deid=195
+  -> Huahuan_Products_H18_5 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=88&ncid=91&deid=83
+  -> Huahuan_Products_32 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=88&page=1
+  -> Huahuan_Products_H56 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=93&ncid=95&deid=161
+  -> Huahuan_Products_H9M https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=93&ncid=94&deid=160
+  -> Huahuan_Products_H9M_1 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=96&ncid=175&deid=162
+  -> Huahuan_Products_33 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=96&page=1
+  -> Huahuan_Products_H9M_2 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=38&ncid=195&deid=199
+  -> Huahuan_Products_H9M_3 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=98&ncid=99&deid=163
+  -> Huahuan_Products_H9M_4 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=100&ncid=104&deid=168
+  -> Huahuan_Products_H9M_5 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=100&ncid=102&deid=167
+  -> Huahuan_Products_H9M_6 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=100&ncid=101&deid=166
+  -> Huahuan_Products_H9M_7 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=100&ncid=103&deid=165
+  -> Huahuan_Products_34 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=100&page=1
+  -> Huahuan_Products_H10 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=105&ncid=178&deid=169
+  -> Huahuan_Products_35 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=105&page=1
+  -> Huahuan_Products_H56_1 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=107&ncid=108&deid=170
+  -> Huahuan_Products_36 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=107&page=1
+  -> Huahuan_Products_H50 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=109&ncid=110&deid=172
+  -> Huahuan_Products_H9M_8 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=109&ncid=111&deid=171
+  -> Huahuan_Products_37 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=109&page=1
+  -> Huahuan_Products_H0F https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=119&ncid=121&deid=185
+  -> Huahuan_Products_H0F_1 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=119&ncid=122&deid=184
+  -> Huahuan_Products_38 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=119&page=1
+  -> Huahuan_Products_EoP https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=42&ncid=125&deid=186
+  -> Huahuan_Products_H0F_2 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=130&ncid=131&deid=187
+  -> Huahuan_Products_H0F_3 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=141&ncid=180&deid=178
+  -> Huahuan_Products_39 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=141&page=1
+  -> Huahuan_Products_HEG https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=145&ncid=146&deid=180
+  -> Huahuan_Products_OTN https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=45&ncid=196&deid=200
+    -> OTN 接入设备 
+    -> OTN 接入设备 
+    -> OTN 接入设备 
+    -> OTN/xWDM 
+    -> Packet OTN/xWDM 
+    -> OTN/xWDM 
+  -> Huahuan_Products_H16_1 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=153&ncid=154&deid=192
+  -> Huahuan_Products_40 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=&ncid=153&page=1
+  -> Huahuan_Products_Sma_31 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=50&ncid=51&deid=144
+  -> Huahuan_Products_Sma_32 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=50&page=1
+  -> Huahuan_Products_Sma_33 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=54&ncid=55&deid=84
+  -> Huahuan_Products_Sma_34 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=54&page=1
+  -> Huahuan_Products_Sma_35 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=56&ncid=59&deid=154
+  -> Huahuan_Products_Sma_36 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=60&ncid=61&deid=147
+  -> Huahuan_Products_Sma_37 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=60&ncid=63&deid=146
+  -> Huahuan_Products_Sma_38 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=75&ncid=76&deid=91
+  -> Huahuan_Products_Sma_39 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=75&ncid=77&deid=89
+  -> Huahuan_Products_Sma_40 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=75&ncid=80&deid=88
+  -> Huahuan_Products_Sma_41 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=75&page=1
+  -> Huahuan_Products_Sma_42 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=36&ncid=83&deid=155
+  -> Huahuan_Products_Sma_43 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=86&ncid=87&deid=94
+  -> Huahuan_Products_Sma_44 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=88&ncid=91&deid=83
+  -> Huahuan_Products_Sma_45 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=93&ncid=95&deid=161
+  -> Huahuan_Products_Sma_46 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=93&ncid=94&deid=160
+  -> Huahuan_Products_Sma_47 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=93&page=1
+  -> Huahuan_Products_Sma_48 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=96&ncid=175&deid=162
+  -> Huahuan_Products_Sma_49 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=38&ncid=195&deid=199
+  -> Huahuan_Products_Sma_50 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=98&ncid=99&deid=163
+  -> Huahuan_Products_Sma_51 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=100&ncid=104&deid=168
+  -> Huahuan_Products_Sma_52 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=100&ncid=102&deid=167
+  -> Huahuan_Products_Sma_53 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=100&ncid=101&deid=166
+  -> Huahuan_Products_Sma_54 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=100&ncid=103&deid=165
+  -> Huahuan_Products_Sma_55 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=100&page=1
+  -> Huahuan_Products_Sma_56 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=105&page=1
+  -> Huahuan_Products_Sma_57 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=107&ncid=108&deid=170
+  -> Huahuan_Products_Sma_58 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=107&page=1
+  -> Huahuan_Products_Sma_59 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=109&ncid=110&deid=172
+  -> Huahuan_Products_Sma_60 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=109&ncid=111&deid=171
+    -> H9MO-LMP30 Compact PCM Mux 
+  -> Huahuan_Products_Sma_61 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=109&page=1
+  -> Huahuan_Products_Sma_62 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=119&ncid=121&deid=185
+  -> Huahuan_Products_Sma_63 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=119&ncid=122&deid=184
+  -> Huahuan_Products_Sma_64 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=119&page=1
+  -> Huahuan_Products_Sma_65 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=42&ncid=125&deid=186
+  -> Huahuan_Products_Sma_66 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=141&ncid=180&deid=178
+  -> Huahuan_Products_Sma_67 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=44&ncid=145&page=1
+  -> Huahuan_Products_Sma_68 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=45&ncid=196&deid=200
+  -> Huahuan_Products_Sma_69 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=153&ncid=154&deid=192
+  -> Huahuan_Products_Wir_27 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=50&ncid=51&deid=144
+  -> Huahuan_Products_Wir_28 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=50&page=1
+  -> Huahuan_Products_Wir_29 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=54&ncid=55&deid=84
+  -> Huahuan_Products_Wir_30 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=54&page=1
+  -> Huahuan_Products_Wir_31 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=56&ncid=59&deid=154
+  -> Huahuan_Products_Wir_32 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=60&ncid=61&deid=147
+  -> Huahuan_Products_Wir_33 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=60&ncid=63&deid=146
+  -> Huahuan_Products_Wir_34 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=75&ncid=77&deid=89
+  -> Huahuan_Products_Wir_35 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=75&ncid=80&deid=88
+  -> Huahuan_Products_Wir_36 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=75&page=1
+  -> Huahuan_Products_Wir_37 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=36&ncid=83&deid=155
+  -> Huahuan_Products_Wir_38 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=88&ncid=91&deid=83
+  -> Huahuan_Products_Wir_39 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=93&ncid=95&deid=161
+  -> Huahuan_Products_Wir_40 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=93&page=1
+  -> Huahuan_Products_Wir_41 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=96&page=1
+  -> Huahuan_Products_Wir_42 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=38&ncid=195&deid=199
+  -> Huahuan_Products_Wir_43 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=98&ncid=99&deid=163
+  -> Huahuan_Products_Wir_44 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=100&ncid=104&deid=168
+  -> Huahuan_Products_Wir_45 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=100&ncid=102&deid=167
+  -> Huahuan_Products_Wir_46 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=100&ncid=101&deid=166
+  -> Huahuan_Products_Wir_47 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=100&ncid=103&deid=165
+  -> Huahuan_Products_Wir_48 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=107&ncid=108&deid=170
+  -> Huahuan_Products_Wir_49 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=109&ncid=110&deid=172
+  -> Huahuan_Products_Wir_50 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=109&ncid=111&deid=171
+  -> Huahuan_Products_Wir_51 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=109&page=1
+  -> Huahuan_Products_Wir_52 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=119&ncid=121&deid=185
+  -> Huahuan_Products_Wir_53 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=119&ncid=122&deid=184
+  -> Huahuan_Products_Wir_54 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=130&ncid=131&deid=187
+  -> Huahuan_Products_Wir_55 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=141&ncid=180&deid=178
+  -> Huahuan_Products_Wir_56 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=145&ncid=146&deid=180
+  -> Huahuan_Products_Wir_57 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=47&ncid=145&page=1
+  -> Huahuan_Products_Wir_58 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=45&ncid=196&deid=200
+  -> Huahuan_Products_SFP_23 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=50&ncid=51&deid=144
+  -> Huahuan_Products_SFP_24 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=54&ncid=55&deid=84
+  -> Huahuan_Products_SFP_25 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=54&page=1
+  -> Huahuan_Products_SFP_26 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=56&ncid=59&deid=154
+  -> Huahuan_Products_SFP_27 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=56&page=1
+  -> Huahuan_Products_SFP_28 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=60&ncid=61&deid=147
+  -> Huahuan_Products_SFP_29 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=60&ncid=63&deid=146
+  -> Huahuan_Products_SFP_30 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=75&ncid=76&deid=91
+  -> Huahuan_Products_SFP_31 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=75&ncid=78&deid=90
+  -> Huahuan_Products_SFP_32 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=75&ncid=77&deid=89
+  -> Huahuan_Products_SFP_33 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=75&ncid=80&deid=88
+  -> Huahuan_Products_SFP_34 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=75&page=1
+  -> Huahuan_Products_SFP_35 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=83&page=1
+  -> Huahuan_Products_SFP_36 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=86&ncid=87&deid=94
+  -> Huahuan_Products_SFP_37 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=88&ncid=92&deid=195
+  -> Huahuan_Products_SFP_38 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=88&ncid=91&deid=83
+  -> Huahuan_Products_SFP_39 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=93&ncid=95&deid=161
+  -> Huahuan_Products_SFP_40 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=93&ncid=94&deid=160
+    -> H9MO-LMXE+.V2 Integrated Access Multiplexer 
+  -> Huahuan_Products_SFP_41 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=93&page=1
+  -> Huahuan_Products_SFP_42 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=96&ncid=175&deid=162
+  -> Huahuan_Products_SFP_43 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=38&ncid=195&deid=199
+  -> Huahuan_Products_SFP_44 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=98&ncid=99&deid=163
+  -> Huahuan_Products_SFP_45 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=98&page=1
+  -> Huahuan_Products_SFP_46 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=100&ncid=104&deid=168
+  -> Huahuan_Products_SFP_47 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=100&ncid=102&deid=167
+  -> Huahuan_Products_SFP_48 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=100&ncid=101&deid=166
+  -> Huahuan_Products_SFP_49 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=100&ncid=103&deid=165
+  -> Huahuan_Products_SFP_50 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=100&page=1
+  -> Huahuan_Products_SFP_51 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=105&ncid=178&deid=169
+  -> Huahuan_Products_SFP_52 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=107&ncid=108&deid=170
+  -> Huahuan_Products_SFP_53 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=109&ncid=110&deid=172
+  -> Huahuan_Products_SFP_54 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=109&ncid=111&deid=171
+  -> Huahuan_Products_SFP_55 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=109&page=1
+  -> Huahuan_Products_SFP_56 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=119&ncid=122&deid=184
+  -> Huahuan_Products_SFP_57 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=42&ncid=125&deid=186
+  -> Huahuan_Products_SFP_58 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=48&ncid=125&page=1
+  -> Huahuan_Products_SFP_59 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=141&ncid=180&deid=178
+  -> Huahuan_Products_SFP_60 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=145&ncid=146&deid=180
+  -> Huahuan_Products_SFP_61 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=45&ncid=196&deid=200
+  -> Huahuan_Products_SFP_62 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=153&ncid=154&deid=192
+  -> Huahuan_Products_Net_10 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=50&ncid=51&deid=144
+  -> Huahuan_Products_Net_11 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=54&ncid=55&deid=84
+  -> Huahuan_Products_Net_12 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=49&ncid=54&page=1
+  -> Huahuan_Products_Net_13 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=56&ncid=59&deid=154
+  -> Huahuan_Products_Net_14 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=60&ncid=61&deid=147
+  -> Huahuan_Products_Net_15 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=60&ncid=63&deid=146
+  -> Huahuan_Products_Net_16 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=75&ncid=76&deid=91
+  -> Huahuan_Products_Net_17 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=75&ncid=78&deid=90
+  -> Huahuan_Products_Net_18 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=75&ncid=80&deid=88
+  -> Huahuan_Products_Net_19 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=49&ncid=75&page=1
+  -> Huahuan_Products_Net_20 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=36&ncid=83&deid=155
+  -> Huahuan_Products_Net_21 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=86&ncid=87&deid=94
+  -> Huahuan_Products_Net_22 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=88&ncid=92&deid=195
+  -> Huahuan_Products_Net_23 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=88&ncid=91&deid=83
+  -> Huahuan_Products_Net_24 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=93&ncid=95&deid=161
+  -> Huahuan_Products_Net_25 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=93&ncid=94&deid=160
+  -> Huahuan_Products_Net_26 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=49&ncid=93&page=1
+  -> Huahuan_Products_Net_27 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=96&ncid=175&deid=162
+  -> Huahuan_Products_Net_28 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=38&ncid=195&deid=199
+  -> Huahuan_Products_Net_29 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=98&ncid=99&deid=163
+  -> Huahuan_Products_Net_30 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=100&ncid=104&deid=168
+  -> Huahuan_Products_Net_31 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=100&ncid=102&deid=167
+  -> Huahuan_Products_Net_32 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=100&ncid=101&deid=166
+  -> Huahuan_Products_Net_33 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=100&ncid=103&deid=165
+  -> Huahuan_Products_Net_34 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=49&ncid=105&page=1
+  -> Huahuan_Products_Net_35 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=107&ncid=108&deid=170
+  -> Huahuan_Products_Net_36 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=109&ncid=110&deid=172
+  -> Huahuan_Products_Net_37 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=109&ncid=111&deid=171
+  -> Huahuan_Products_Net_38 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=49&ncid=109&page=1
+  -> Huahuan_Products_Net_39 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=119&ncid=122&deid=184
+  -> Huahuan_Products_Net_40 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=141&ncid=180&deid=178
+  -> Huahuan_Products_Net_41 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=153&ncid=154&deid=192
+  -> Huahuan_Products_Pre_16 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=50&ncid=51&deid=144
+  -> Huahuan_Products_Pre_17 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=54&ncid=55&deid=84
+    -> H0FL-510B 
+    -> H20RN-2000 
+  -> Huahuan_Products_Pre_18 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=56&ncid=59&deid=154
+  -> Huahuan_Products_Pre_19 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=190&ncid=56&page=1
+  -> Huahuan_Products_Pre_20 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=60&ncid=61&deid=147
+  -> Huahuan_Products_Pre_21 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=60&ncid=63&deid=146
+  -> Huahuan_Products_Pre_22 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=75&ncid=76&deid=91
+  -> Huahuan_Products_Pre_23 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=75&ncid=80&deid=88
+  -> Huahuan_Products_Pre_24 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=190&ncid=75&page=1
+  -> Huahuan_Products_Pre_25 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=86&ncid=87&deid=94
+  -> Huahuan_Products_Pre_26 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=88&ncid=91&deid=83
+    -> H18GL-G1600 OLT 
+  -> Huahuan_Products_Pre_27 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=93&ncid=95&deid=161
+    -> H5600 Integrated Service Access Device 
+  -> Huahuan_Products_Pre_28 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=93&ncid=94&deid=160
+  -> Huahuan_Products_Pre_29 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=96&ncid=175&deid=162
+  -> Huahuan_Products_Pre_30 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=38&ncid=195&deid=199
+  -> Huahuan_Products_Pre_31 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=98&ncid=99&deid=163
+  -> Huahuan_Products_Pre_32 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=100&ncid=104&deid=168
+  -> Huahuan_Products_Pre_33 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=100&ncid=102&deid=167
+  -> Huahuan_Products_Pre_34 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=100&ncid=101&deid=166
+  -> Huahuan_Products_Pre_35 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=100&ncid=103&deid=165
+  -> Huahuan_Products_Pre_36 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=107&ncid=108&deid=170
+  -> Huahuan_Products_Pre_37 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=109&ncid=111&deid=171
+  -> Huahuan_Products_Pre_38 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=190&ncid=109&page=1
+  -> Huahuan_Products_Pre_39 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=119&ncid=121&deid=185
+  -> Huahuan_Products_Pre_40 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=119&ncid=122&deid=184
+  -> Huahuan_Products_Pre_41 https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=190&ncid=119&page=1
+  -> Huahuan_Products_Pre_42 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=141&ncid=180&deid=178
+  -> Huahuan_Products_Pre_43 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=45&ncid=196&deid=200
+  -> Huahuan_Products_Pre_44 https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=153&ncid=154&deid=192

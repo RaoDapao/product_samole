@@ -1,0 +1,11 @@
+产品网址：http://en.redpowersemi.com/products/igbt/66.html
+产品结构：root->MSeries-AnhuiRedPowerMicroelectronicsCo.,Ltd
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|IGBT Module|M Series|采用 Trench FS 技术，具有高 RBSOA 能力、低开关损耗、低 VCEsat，典型应用于电机驱动器、商用农业车辆、太阳能应用、高功率转换器|
+
+Part No.,Housing,Configuration,Voltage Class,Technology,Ic(com),VCE(sat),Dimensions
+RG450B12MM4,EconoDUAL 3,Dual,1200 V,Trench-FS,450 A,1.65,152*62*17mm
+RG450B12MM4R,EconoDUAL 3,Dual,1200 V,Micro Trench-FS,450 A,1.65,152*62*17mm
+RG600B12MM4,EconoDUAL 3,Dual,1200 V,Trench-FS,600 A,1.65,152*62*17mm

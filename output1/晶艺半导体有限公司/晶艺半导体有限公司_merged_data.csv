@@ -1,0 +1,34 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+晶艺半导体有限公司,ACDC,http://latticeart.com/product_category.php?id=11,无,无,ACDC,2081082553,无,0,无,0,无,0
+晶艺半导体有限公司,BLDC 控制器,http://latticeart.com/product_category.php?id=19,无,无,BLDC控制器,2747020031,无,0,无,0,无,0
+晶艺半导体有限公司,BMS 产品,http://latticeart.com/product_application.php?id=4,无,手持电动工具、后备电源、电动自行车、无线吸尘器、扫地机器人,BMS产品产品应用,5368756595,无,0,无,0,无,0
+晶艺半导体有限公司,锂电池保护芯片,http://latticeart.com/product_category.php?id=13,无,基于 LASemi 独特的电路设计和封装设计，具有低工作电流、高精度、客户关键参数定制的先进特性,BMS产品线,4269259223,无,0,无,0,无,0
+晶艺半导体有限公司,DCDC,http://latticeart.com/product_category.php?id=12,无,无,DCDC,196078724,无,0,无,0,无,0
+晶艺半导体有限公司,Fiber Optic Control,http://latticeart.com/product_category.php?id=21,无,无,FiberOpticControl,3284431797,无,0,无,0,无,0
+晶艺半导体有限公司,Gate Driver,http://latticeart.com/product_category.php?id=17,无,无,GateDriver,8737132408,无,0,无,0,无,0
+晶艺半导体有限公司,FiberOpticControl,http://latticeart.com/product.php?id=72,产品中心,晶艺半导体有限公司,LA1000S|FiberOpticControl,7589290188,无,0,无,0,无,0
+晶艺半导体有限公司,LA1000S,http://latticeart.com/product.php?id=72,无,1. 2.7-5.5V 宽输入电压范围；2. 1% 2.5V REF 精度；3. 高达 1.5A TEC 电流能力；4. 30mohm 内部功率 MOSFET；5. 1MHz 缺省开关频率；6. 外部 SYNC 功能；7. EN/SD 控制上电时序；8. QFN16（2mmx3mm)封装。,LA1000S|FiberOpticControl,7589290188,无,0,无,0,无,0
+晶艺半导体有限公司,DCDC,http://latticeart.com/product.php?id=73,产品中心,晶艺半导体有限公司,LA2902S|DCDC,7604728158,无,0,无,0,无,0
+晶艺半导体有限公司,DCDC,http://latticeart.com/product.php?id=73,LA2902S,用于掉电喘息供电功能的储能和续能得控制 IC：1. 4.5-18V 款输入电压范围；2. Storage 至 VIN 最大 2.5A 的续流能力；3. 内置 250mA 的储能电容充电电流限；4. 用户可编程的存储和续能电压；5. 掉电喘息工作状态 FLAG 指示；6. SOIC8 封装。,LA2902S|DCDC,7604728158,无,0,无,0,无,0
+晶艺半导体有限公司,ACDC,http://latticeart.com/product.php?id=32,产品中心,晶艺半导体有限公司,LA4291|ACDC,7208568459,无,0,无,0,无,0
+晶艺半导体有限公司,LA4291,http://latticeart.com/product.php?id=32,无,1. 专利的 FB2 设计，可令系统待机功耗低至 25mW 以下，并实现快速待机唤醒功能；<br>2. 高至 30V 的 VCC 工作范围，700V/4.1Ohm 的功率 MOSFET 集成；<br>3. 频率抖动技术及低的音频噪声设计；<br>4. 40uA 静态工作电流，可以选择更小容值的 VCC 电容，降低系统成本；<br>5. 短路和过温度保护；<br>6. 小体积 SSOP24L 低热阻封装。,LA4291|ACDC,7208568459,无,0,无,0,无,0
+晶艺半导体有限公司,BLDC控制器,http://latticeart.com/product.php?id=37,产品中心,晶艺半导体有限公司,LA6100|BLDC控制器,5983890989,无,0,无,0,无,0
+晶艺半导体有限公司,BLDC 控制器,http://latticeart.com/product.php?id=37,LA6100,1. 4.5 至 40V 的宽输入电压范围；<br>2. 内置栅驱动器，直接驱动外部 PMOS+NMOS；<br>3. 专利的控制算法可实现全波，梯形波，正弦波和三角波任一相电流波形；<br>4. 自动超前角对齐；<br>5. 集成可调软启动配置；<br>6. PWM 调速，调速曲线可设定，全转速范围高效率，低噪音控制；<br>7. 集成最小停转/最小维持转速功；<br>8. 堵转保护，过流保护；<br>9. 集成可调驱动载波频率；<br>10. FG 和 RD 指示输出；<br>11. TSSOP20L 封装。,LA6100|BLDC控制器,5983890989,无,0,无,0,无,0
+晶艺半导体有限公司,GateDriver,http://latticeart.com/product.php?id=33,产品中心,晶艺半导体有限公司,LA7101|GateDriver,6125434190,无,0,无,0,无,0
+晶艺半导体有限公司,Gate Driver,http://latticeart.com/product.php?id=33,LA7101,1. BST 耐压超过 600V；2. 脚位兼容 IR2101；3. 上下通道输出延时匹配；4. 兼容 3.3V、5V、15V 逻辑输入；5. 内置死区时间防止上下通道直通,LA7101|GateDriver,6125434190,无,0,无,0,无,0
+晶艺半导体有限公司,智能功率模块,http://latticeart.com/product.php?id=47,产品中心,晶艺半导体有限公司,LAD1M0250|智能功率模块,2559610364,无,0,无,0,无,0
+晶艺半导体有限公司,智能功率模块,http://latticeart.com/product.php?id=47,LAD1M0250,"1. 集成 1 颗高可靠性 HVIC，2 颗 2.4ohm,2A/500V 快恢复 MOSFET；2. DIP8 小体积，低成本封装；3. >10us 短路电流耐固能力；4. 集成保护特性：Shoot-through 保护、VCC&BST-SW UVLO 保护检测、过温度保护",LAD1M0250|智能功率模块,2559610364,无,0,无,0,无,0
+晶艺半导体有限公司,智能功率模块,http://latticeart.com/product.php?id=46,LAS1M0250,1. 集成 1 颗高可靠性 HVIC，2 颗 500V 快恢复 MOSFET 的半桥 IPM 产品系列；2. 专利的 LasSOP-10 封装设计：- Fuse-Lead 设计实现高效率和低热阻，可节省或减小散热器- 高压引脚宽爬电距离- 编带包装实现加工高效性- SOP 实现小体积，分布式布局减小 PCB 体积 3. >20us 短路电流耐固能力；4. 业内最佳的高可靠和高抗干扰的 HVIC 设计；5. 集成全面保护特性：- Shoot-through 保护- VCC&BST-SW UVLO 保护检测- 高精度过温度保护,LAS1M0250|智能功率模块,6885195849,无,0,无,0,无,0
+晶艺半导体有限公司,智能功率模块,http://latticeart.com/product.php?id=49,LAS1M0261,1. 创新的半桥智能功率模块集成 1 颗高可靠性 HVIC，2 颗 600V/3A 快恢复 MOSFET；2. 集成高压自举二极管；3. 错误状态输出和关断功能；4. 专利的 LasSOP-10 封装设计：Fuse-Lead 设计实现高效率和低热阻，可节省或减小散热器；高压引脚宽爬电距离；编带包装实现加工高效性；SOP 实现小体积，分布式布局减小 PCB 体积；5. >20us 短路电流耐固能力；6. 业内最佳的高可靠和高抗干扰的 HVIC 设计；7. 集成全面保护特性：Shoot-through 保护；VCC&BST-SW UVLO 保护检测；高精度过温度保护；过流保护功能。,LAS1M0261|智能功率模块,4280012674,无,0,无,0,无,0
+晶艺半导体有限公司,智能功率模块,http://latticeart.com/product.php?id=51,LAS1N0561,1. 首创的半桥 IGBT 智能功率模块集成 1 颗高可靠性 HVIC，2 颗 650V/5A IGBT 和 2 颗 650V 快恢复二极管；<br>2. 集成高压自举二极管；<br>3. 错误状态输出和关断功能；<br>4. 专利的 LasSOP-10 封装设计：<br>- Fuse-Lead 设计实现高效率和低热阻，可节省或减小散热器；<br>- 高压引脚宽爬电距离；<br>- 编带包装实现加工高效性；<br>- SOP 实现小体积，分布式布局减小 PCB 体积；<br>5. >10us 短路电流耐固能力；<br>6. 业内最佳的高可靠和高抗干扰的 HVIC 设计；<br>7. 集成全面保护特性：<br>- Shoot-through 保护；<br>- VCC&BST-SW UVLO 保护检测；<br>- 高精度过温度保护；<br>- 过流保护功能。,LAS1N0561|智能功率模块,7597397198,无,0,无,0,无,0
+晶艺半导体有限公司,Load Swtich&Hot-swap,http://latticeart.com/product_category.php?id=16,无,无,LoadSwtich&Hot|swap,6913901486,无,0,无,0,无,0
+晶艺半导体有限公司,智能功率模块,http://latticeart.com/product_category.php,无,无,无,0,无,0,无,0,无,0
+晶艺半导体有限公司,步进马达驱动,http://latticeart.com/product_category.php,无,无,无,0,无,0,无,0,无,0
+晶艺半导体有限公司,锂电保护,http://latticeart.com/product_category.php,无,无,无,0,无,0,无,0,无,0
+晶艺半导体有限公司,电机驱动,http://latticeart.com/product_application.php,无,无,无,0,无,0,无,0,无,0
+晶艺半导体有限公司,电源管理,http://latticeart.com/product_application.php,无,无,无,0,无,0,无,0,无,0
+晶艺半导体有限公司,锂电池管理,http://latticeart.com/product_application.php,BMS 产品,无,无,0,无,0,无,0,无,0
+晶艺半导体有限公司,锂电池管理,http://latticeart.com/product_application.php?id=3,无,无,电机驱动产品应用,4073652339,无,0,无,0,无,0
+晶艺半导体有限公司,电机驱动产品线,http://latticeart.com/product_category.php?id=6,无,提供大功率和低功率电机驱动器，用于从消费电子到工业，通讯到家电系统的广泛应用。包括栅驱动器、MOS 智能功率模块、高功率 IGBT 智能功率模块、直流无刷/步进控制器等系列产品。具备体积小、低温升、高可靠性、高效率低噪音算法控制等特性,电机驱动产品线,2087108933,无,0,无,0,无,0
+晶艺半导体有限公司,电机驱动器,http://www.latticeart.com/product_category.php?id=6,无,用于从消费电子到工业，通讯到家电系统的广泛应用，包括栅驱动器、MOS 智能功率模块、高功率 IGBT 智能功率模块、直流无刷/步进控制器等系列产品，具备体积小、低温升、高可靠性、高效率、低噪音算法控制等特性,电机驱动产品线,2087108933,无,0,无,0,无,0
+晶艺半导体有限公司,电源管理产品,http://latticeart.com/product_category.php?id=10,无,基于 LASemi 独特的 BCD 工艺，高低压功率 MOSFET，封装技术和芯片电路设计开发，具备高效率、高可靠、低 EMI、小体积、低待机损耗、低纹波等特性,电源产品线,4809830194,无,0,无,0,无,0

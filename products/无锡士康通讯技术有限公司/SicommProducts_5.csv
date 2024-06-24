@@ -1,0 +1,6 @@
+产品网址：http://www.sicommtech.com/zh/products/sct3252b.html
+产品结构：root->SicommProducts
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|数字中继台基带处理芯片|SCT3252B|针对 DMR 和 DPMR 两种不同标准研发，实现了 DMR 标准和 dPMR 标准需要的中继台相关基本功能，方便客户从模拟中继台转换到数字中继台，支持 DMR Tier1 和 Tier2、空中接口物理层、数据链路层、呼叫控制层等，支持多种声码器|

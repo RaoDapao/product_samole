@@ -1,0 +1,10 @@
+产品网址：https://www.awinic.com/en/productList
+产品结构：root->Awinic
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Digital smart K auto|AW88461CSR|12V BOOST Digital Smart K Audio Amplifier with Speaker Voltage and Current Sense|
+
+Part No.,PVDD Voltage(V),Boost Type,Protection,Control Interface,Temperature,Package (mm)
+AW88460CSR  New,10.25,Adaptive Boost,MEC+TPC,IIC,-40℃~85℃,WLCSP 2.2X2.2-36B(0.515)
+AW88461CSR  New,12.0,Adaptive Boost,MEC+TPC,IIC,-40℃~85℃,WLCSP 2.2X2.2-36B(0.515)

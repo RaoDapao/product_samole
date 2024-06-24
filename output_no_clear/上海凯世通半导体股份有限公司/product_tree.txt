@@ -1,0 +1,21 @@
+-> root http://www.kingstonesemi.com
+  -> 核心产品-上海凯世通半导体股份有限公司 http://www.kingstonesemi.com/cn/productlist/50-1.html
+    -> 光伏离子注入机 
+    -> 光伏离子注入机 
+    -> 光伏离子注入机 
+    -> 光伏离子注入机 
+    -> 离子注入机 
+    -> 离子注入机 
+  -> iStellar-500-核心产品-上海 http://www.kingstonesemi.com/cn/product/223.html
+  -> IPV-6000-核心产品-上海凯世通半 http://www.kingstonesemi.com/cn/product/224.html
+  -> iPV-3000-核心产品-上海凯世通半 http://www.kingstonesemi.com/cn/product/121.html
+  -> iPV-2000-核心产品-上海凯世通半 http://www.kingstonesemi.com/cn/product/120.html
+  -> 离子注入-核心产品-上海凯世通半导体股份 http://www.kingstonesemi.com/cn/product/119.html
+    -> IonSolar 
+    -> iPV-6000 
+    -> iPV-3000 
+  -> PRODUCT-KingstoneSem http://www.kingstonesemi.com/en/productlist/86-1.html
+    -> 离子注入 
+  -> iPV-3000-PRODUCT-Kin http://www.kingstonesemi.com/en/product/154.html
+  -> iPV-2000-PRODUCT-Kin http://www.kingstonesemi.com/en/product/153.html
+  -> IonImplant-PRODUCT-K http://www.kingstonesemi.com/en/product/152.html

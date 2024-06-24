@@ -1,0 +1,75 @@
+-> root https://www.unisim-micro.com
+  -> 产品-上海圳呈微电子技术有限公司 https://www.unisim-micro.com/cp
+    -> Bluetooth 5.1 Audio SoC 
+    -> Bluetooth 4.2 Stereo Headset SoC 
+    -> Bluetooth 4.2 Audio SoC 
+    -> Low Power Bluetooth 4.1 Dual-Mode IoT SoC 
+    -> Bluetooth 2.1 HID SoC 
+  -> 产品分类 https://www.unisim-micro.com/ProductInfoCategory?categoryId=523313,523314,523315,523316,523317,523318,523319,523321,523324,523325,523329,523330&PageInfoId=0
+    -> Multimedia processor SoC 
+    -> Voice Processor SoC 
+  -> 产品分类_1 https://www.unisim-micro.com/ProductInfoCategory?categoryId=518096&PageInfoId=0
+  -> 客制化产片-上海圳呈微电子技术有限公司 https://www.unisim-micro.com/kzhcp
+    -> 云数据处理 SoC 芯片 
+    -> 图像处理 SoC 芯片 
+    -> 医疗物联 SoC 芯片 
+    -> 智能语音 SoC 芯片 
+  -> ClouddataprocessingS https://www.unisim-micro.com/productinfo/512522.html?templateId=248856
+  -> 3DGraphicsprocessorS https://www.unisim-micro.com/productinfo/519786.html?templateId=248856
+  -> AIoTSoC-上海圳呈微电子技术有限公 https://www.unisim-micro.com/productinfo/519791.html?templateId=248856
+  -> SmartvoiceSoC-上海圳呈微电 https://www.unisim-micro.com/productinfo/519933.html?templateId=248856
+  -> 语音识别模组-上海圳呈微电子技术有限公司 https://www.unisim-micro.com/productinfo/519435.html?templateId=248576
+  -> 个性化智能语音交互系统-上海圳呈微电子技 https://www.unisim-micro.com/productinfo/519458.html?templateId=248576
+  -> 产品技术-上海圳呈微电子技术有限公司 https://www.unisim-micro.com/cpjs
+    -> Bluetooth SoC 芯片 
+    -> IOT 芯片 
+  -> ZC3200-Bluetooth5.1A https://www.unisim-micro.com/productinfo/512517.html
+  -> ZC3190-Bluetooth4.2S https://www.unisim-micro.com/productinfo/521187.html
+  -> ZC3180-Bluetooth4.2A https://www.unisim-micro.com/productinfo/521250.html
+  -> ZC3301-LowPowerBluet https://www.unisim-micro.com/productinfo/521279.html
+  -> ZC3620-Bluetooth2.1H https://www.unisim-micro.com/productinfo/521311.html
+  -> 产品分类_2 https://www.unisim-micro.com/ProductInfoCategory?categoryId=523313,523314,523315,523316,523318,523319,523321,523324,523325,523329,528578,528579&PageInfoId=0
+  -> 产品分类_3 https://www.unisim-micro.com/ProductInfoCategory?categoryId=523314,523318,523319,523321&PageInfoId=0
+  -> 产品分类_4 https://www.unisim-micro.com/ProductInfoCategory?categoryId=523315,523324,523325&PageInfoId=0
+    -> 多媒体处理器 SoC 
+    -> 语音处理器 SoC 
+  -> ZC2980-Multimediapro https://www.unisim-micro.com/productinfo/521342.html
+  -> ZC7906-VoiceProcesso https://www.unisim-micro.com/productinfo/521385.html
+  -> 产品分类_5 https://www.unisim-micro.com/ProductInfoCategory?categoryId=523316,523329&PageInfoId=0
+    -> 蓝牙数据传输芯片 
+    -> 蓝牙数据传输芯片 
+    -> 蓝牙数据传输芯片 
+  -> ZC5605-ZC5615-Blueto https://www.unisim-micro.com/productinfo/521369.html
+  -> 产品-上海圳呈微电子技术有限公司_1 https://www.unisim-micro.com/cp#
+  -> 产品分类_6 https://www.unisim-micro.com/ProductInfoCategory?categoryId=523316,523313,523314,523315,523318,523319,523321,523324,523325,523329,528578,528579&PageInfoId=0
+  -> 产品分类_7 https://www.unisim-micro.com/ProductInfoCategory?categoryId=523332
+  -> 产品分类_8 https://www.unisim-micro.com/ProductInfoCategory?categoryId=523333
+    -> 蓝牙/智能语音芯片 
+  -> 3DGraphicsprocessorS_1 https://www.unisim-micro.com/productinfo/519786.html?templateId=248856#
+  -> 产品分类_9 https://www.unisim-micro.com/ProductInfoCategory?categoryId=523334
+  -> AIoTSoC-上海圳呈微电子技术有限公_1 https://www.unisim-micro.com/productinfo/519791.html?templateId=248856#
+  -> 产品分类_10 https://www.unisim-micro.com/ProductInfoCategory?categoryId=523335
+  -> SmartvoiceSoC-上海圳呈微电_1 https://www.unisim-micro.com/productinfo/519933.html?templateId=248856#
+  -> 产品分类_11 https://www.unisim-micro.com/ProductInfoCategory?categoryId=526376
+  -> 算法科学家-上海圳呈微电子技术有限公司 https://www.unisim-micro.com/productinfo/527503.html?templateId=248576
+  -> 产品分类_12 https://www.unisim-micro.com/ProductInfoCategory?categoryId=526377
+  -> 产品分类_13 https://www.unisim-micro.com/ProductInfoCategory?categoryId=523313,523314,523315,523316,523318,523319,523321,523324,523325,523329,528578,528579
+  -> ZC3200-Bluetooth5.1A_1 https://www.unisim-micro.com/productinfo/512517.html#
+  -> ZC3190-Bluetooth4.2S_1 https://www.unisim-micro.com/productinfo/521187.html#
+  -> ZC3180-Bluetooth4.2A_1 https://www.unisim-micro.com/productinfo/521250.html#
+  -> 产品分类_14 https://www.unisim-micro.com/ProductInfoCategory?categoryId=523313,523314,523315,523316,523318,523319,523321,523324,523325,523329,528578,528579&PageInfoId=0#
+  -> 产品分类_15 https://www.unisim-micro.com/ProductInfoCategory?categoryId=523315,523324,523325&PageInfoId=0#
+    -> 音响蓝牙多媒体芯片 
+  -> 产品分类_16 https://www.unisim-micro.com/ProductInfoCategory?categoryId=523316,523329&PageInfoId=0#
+  -> 产品分类_17 https://www.unisim-micro.com/ProductInfoCategory?categoryId=523316,523313,523314,523315,523318,523319,523321,523324,523325,523329,528578,528579&PageInfoId=0#
+  -> ClouddataprocessingS_1 https://www.unisim-micro.com/productinfo/512522.html
+  -> 3DGraphicsprocessorS_2 https://www.unisim-micro.com/productinfo/519786.html
+  -> AIoTSoC-上海圳呈微电子技术有限公_2 https://www.unisim-micro.com/productinfo/519791.html
+  -> SmartvoiceSoC-上海圳呈微电_2 https://www.unisim-micro.com/productinfo/519933.html
+  -> 语音识别模组-上海圳呈微电子技术有限公司_1 https://www.unisim-micro.com/productinfo/519435.html
+  -> 产品分类_18 https://www.unisim-micro.com/ProductInfoCategory?categoryId=526379
+  -> 产品分类_19 https://www.unisim-micro.com/ProductInfoCategory?categoryId=523313,523314,523315,523316,523318,523319,523321,523324,523325,523329,528578,528579#
+  -> ClouddataprocessingS_2 https://www.unisim-micro.com/productinfo/512522.html#
+  -> SmartvoiceSoC-上海圳呈微电_3 https://www.unisim-micro.com/productinfo/519933.html#
+  -> 算法科学家-上海圳呈微电子技术有限公司_1 https://www.unisim-micro.com/productinfo/527503.html
+  -> 可视化编程APP-上海圳呈微电子技术有限 https://www.unisim-micro.com/productinfo/519465.html

@@ -1,0 +1,110 @@
+-> root https://inovance-automotive.com
+  -> 首页 
+    -> 产品和解决方案 
+      -> 新能源乘用车频道页 
+        -> 乘用车动力总成 https://www.inovance-automotive.com/solve/index8.html
+          -> 方案组成 
+            -> 正文产品参数应用车型 https://www.inovance-automotive.com/content/details17_1961.html
+      -> 新能源乘用车解决方案 
+        -> 电机 https://www.inovance-automotive.com/product/list84.html
+          -> 正文产品参数应用车型_1 https://www.inovance-automotive.com/content/details84_1262.html
+          -> 正文 https://www.inovance-automotive.com/content/details84_971.html
+        -> 电控 https://www.inovance-automotive.com/product/list85.html
+          -> 正文_1 https://www.inovance-automotive.com/content/details85_978.html
+          -> 正文产品参数应用车型_2 https://www.inovance-automotive.com/content/details85_1100.html
+        -> 电源 https://www.inovance-automotive.com/product/list86.html
+          -> 正文产品参数应用车型_3 https://www.inovance-automotive.com/content/details86_1151.html
+          -> 正文_2 https://www.inovance-automotive.com/content/details86_985.html
+        -> 动力总成 https://www.inovance-automotive.com/product/list87.html
+          -> 正文_3 https://www.inovance-automotive.com/content/details87_991.html
+          -> 正文产品参数应用车型_4 https://www.inovance-automotive.com/content/details87_1164.html
+      -> 新能源商用车解决方案 
+        -> 轻卡解决方案 https://www.inovance-automotive.com/solve/index101.html
+          -> 方案组成 
+            -> 正文产品参数应用车型_5 https://www.inovance-automotive.com/content/details109_1556.html
+        -> 客车解决方案 https://www.inovance-automotive.com/solve/index102.html
+          -> 方案组成 
+            -> 正文产品参数应用车型_6 https://www.inovance-automotive.com/content/details113_1569.html
+        -> 重卡解决方案 https://www.inovance-automotive.com/solve/index103.html
+          -> 方案组成 
+            -> 正文产品参数应用车型_7 https://www.inovance-automotive.com/content/details117_1597.html
+        -> 微面解决方案 
+          -> 方案组成 
+            -> 正文_4 https://www.inovance-automotive.com/content/details105_1001.html
+            -> 正文产品参数应用车型_8 https://www.inovance-automotive.com/content/details105_1481.html
+        -> 轻卡动力总成 https://www.inovance-automotive.com/product/indexchild22.html
+      -> 新能源商用物流车解决方案 
+        -> 轻卡动力总成 
+          -> 方案组成 
+            -> 正文_5 https://www.inovance-automotive.com/content/details31_101.html
+        -> 正文_6 https://www.inovance-automotive.com/content/details10_1821.html
+          -> 电控 
+  -> LM61微面电机了解详情 
+    -> LS32二合一总成了解详情 
+      -> LC3E了解详情 
+        -> LD34四合一控制器了解详情 
+          -> PC326.6kW三合一电源了解详情 
+            -> LD21控制器了解详情 
+              -> LM61微面电机了解详情 
+                -> LS32二合一总成了解详情 https://www.inovance-automotive.com/product/list83.html
+                  -> 二合一总成 
+                  -> 四合一控制器 
+                  -> 控制器 
+                  -> 发卡电机 
+                  -> 发卡电机 
+  -> TBOX了解详情 
+    -> 五合一集成控制器了解详情 
+      -> 高速单减了解详情 
+        -> TBOX了解详情 
+          -> 五合一集成控制器了解详情 https://www.inovance-automotive.com/solve/index29.html
+    -> 微面单驱控制器了解详情 
+      -> 微面电机了解详情 
+        -> TBOX了解详情 
+          -> 微面单驱控制器了解详情 https://www.inovance-automotive.com/solve/index34.html
+  -> Homepage 
+      -> Passengercarsolution 
+        -> E-motor https://en.inovance-automotive.com/product/list84.html
+        -> Inverter https://en.inovance-automotive.com/product/list85.html
+        -> Powersupply https://en.inovance-automotive.com/product/list86.html
+          -> Power supply 
+          -> Power supply 
+          -> Power supply 
+          -> Power supply 
+        -> Assembly https://en.inovance-automotive.com/product/list87.html
+  -> LD34Details 
+    -> LM39-4Details 
+      -> LD35-2Details 
+        -> LD32Details 
+          -> LD34Details 
+            -> LM39-4Details https://en.inovance-automotive.com/product/list83.html
+              -> Mini Van solution 
+              -> Mini Van solution 
+              -> Mini Van solution 
+              -> Light Truck solution 
+              -> Light Truck solution 
+              -> Light Truck solution 
+              -> Bus solution 
+              -> Bus solution 
+              -> Heavy Truck solution 
+              -> Heavy Truck solution 
+              -> Heavy Truck solution 
+  -> Passengercarpowertra https://en.inovance-automotive.com/product/index.html
+  -> 直驱电机（380平台电机）了解详情 
+    -> 纯电动五合一控制器了解详情 
+      -> 混动五合一控制器了解详情 
+        -> 辅驱五合一控制器了解详情 
+          -> 直驱电机（380平台电机）了解详情 
+            -> 纯电动五合一控制器了解详情 https://www.inovance-automotive.com/solve/index23.html
+  -> PC32了解详情 
+    -> LS32了解详情 
+      -> LD21控制器了解详情 
+        -> LM61微面电机了解详情 
+          -> LD34了解详情 
+            -> PC32了解详情 
+              -> LS32了解详情 https://www.inovance-automotive.com/solve/index76.html
+  -> 电源三合一了解详情 
+    -> 电源三合一了解详情 
+      -> 电源三合一了解详情 
+        -> 电源三合一了解详情 
+          -> 电源三合一了解详情 
+            -> 电源三合一了解详情 https://www.inovance-automotive.com/solve/index38.html

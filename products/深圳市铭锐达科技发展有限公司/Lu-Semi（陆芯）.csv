@@ -1,0 +1,42 @@
+产品网址：http://www.mrdkj.com/products/2
+产品结构：root->Lu-Semi（陆芯）
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Lu-Semi（陆芯）|无|涵盖全电压段的 IGBT、MOSFET、Diodes、Power IC 以及宽禁带（SiC、GaN）功率器件，并提供整体的电源管理解决方案|
+
+Unnamed: 0,产品型号  Part Number,电压等级  BV,额定电流  Ic@100℃,封装形式  Package,应用领域  Application,对标英飞凌产品型号  Comparable Infineon part number
+650V  单管产品系列  Discrete Product Family,YGF20N65T1  YGK20N65T1  YGP20N65T1,650V,20A,TO220F  TO263  TO220,变频器/逆变器/电机控制,"IKP15N60T,IKP15N65H5,IRGB4620D"
+650V  单管产品系列  Discrete Product Family,YGW30N65F1,650V,30A,TO247,变频器/逆变器/电机控制,IKW30N60H3
+650V  单管产品系列  Discrete Product Family,YGW40N65F1,650V,40A,TO247,变频器/逆变器/电机控制,IRGP4640D，IRGP4062D
+650V  单管产品系列  Discrete Product Family,YGW50N65F1A,650V,50A,TO247,焊机/逆变器/UPS,IKW50N60H3
+650V  单管产品系列  Discrete Product Family,YGW50N65F1A1,650V,50A,TO247,焊机/逆变器/UPS,IKW50N65H5
+650V  单管产品系列  Discrete Product Family,YGW50N65T1,650V,50A,TO247,焊机/逆变器/UPS,
+650V  单管产品系列  Discrete Product Family,YGW60N65F1A1,650V,60A,TO247,焊机/逆变器/UPS,IKW60N60H3
+650V  单管产品系列  Discrete Product Family,YGW60N65T1,650V,60A,TO247,焊机/逆变器/UPS,IKW60N60H3
+650V  单管产品系列  Discrete Product Family,YGW75N65F1A,650V,75A,TO247,焊机/逆变器/UPS,IKW75N60H3
+650V  单管产品系列  Discrete Product Family,YGW75N65T1,650V,75A,TO247,焊机/逆变器/UPS,
+650V  单管产品系列  Discrete Product Family,YGL200N65,650V,200A,TO264,高频开关,
+,,,,,,
+1200V/1350V 单管产品系列  Discrete Product Family,YGW10N120T1,1200V,10A,TO247,电机驱动/UPS,IKW08N120T2
+1200V/1350V 单管产品系列  Discrete Product Family,YGW15N120T1,1200V,15A,TO247,电机驱动/UPS,IKW15N120T2
+1200V/1350V 单管产品系列  Discrete Product Family,YGW15N120F1A  YGW15N120F1A1,1200V,15A,TO247,感应加热/逆变器,"IKW15N120H3,IHW15N120R3"
+1200V/1350V 单管产品系列  Discrete Product Family,YGW15N135F1A,1350V,15A,TO247,感应加热,IHW15N120R3
+1200V/1350V 单管产品系列  Discrete Product Family,YGW20N120F1,1200V,20A,TO247,感应加热,"IHW20N120R3, IHW20N120R5"
+1200V/1350V 单管产品系列  Discrete Product Family,YGW25N120F1A1,1200V,25A,TO247,焊机/逆变器/UPS,IKW25N120H3
+1200V/1350V 单管产品系列  Discrete Product Family,YGW25N120U1,1200V,25A,TO247,焊机/逆变器/UPS,IKW25N120H3
+1200V/1350V 单管产品系列  Discrete Product Family,YGW25N135F1A,1350V,25A,TO247,感应加热,"IHW20N135R3, IHW20N135R5"
+1200V/1350V 单管产品系列  Discrete Product Family,YGW25N135F2,1350V,25A,TO247,感应加热,"IHW20N135R3, IHW20N135R5"
+1200V/1350V 单管产品系列  Discrete Product Family,YGW25N120T1,1200V,25A,TO247,电机驱动/UPS,IKW25N120T2
+1200V/1350V 单管产品系列  Discrete Product Family,YGW30N120F1,1200V,30A,TO247,感应加热/逆变器,"IHW30N120R3, IHW30N120R5"
+1200V/1350V 单管产品系列  Discrete Product Family,YGW30N135F1,1350V,30A,TO247,感应加热/逆变器,IHW30N135R3
+1200V/1350V 单管产品系列  Discrete Product Family,YGW40N120F1A,1200V,40A,TO247,焊机/逆变器/UPS,IKW40N120H3
+1200V/1350V 单管产品系列  Discrete Product Family,YGW40N120F1A1  YGW40N120F1A2,1200V,40A,TO247,焊机/逆变器/UPS,IKW40N120H3
+1200V/1350V 单管产品系列  Discrete Product Family,YGW40N120F1C,1200V,40A,TO247,焊机/逆变器/UPS,IKW40N120H3
+1200V/1350V 单管产品系列  Discrete Product Family,YGW40N120T1B,1200V,40A,TO247,电机驱动/UPS,IKW40N120T2
+1200V/1350V 单管产品系列  Discrete Product Family,YGW40N120T1B1,1200V,40A,TO247,电机驱动/UPS,IKW40N120T2
+1200V/1350V 单管产品系列  Discrete Product Family,AU40N120T1,1200V,40A,TO247,汽车级电机驱动,AUIRG4PH50S
+,,,,,,
+模块  Module,YG600R120EW1,1200V,600A,EconoDual,新能源汽车,2MBI600VN-120-50 (Fuji)
+模块  Module,ESG400B07AJIZ  YG400R07E1,650V,400A,Half-Bridge,新能源汽车,FF400R07KE4
+模块  Module,YG800R07E1,650V,800A,HP2,新能源汽车,FS800R07A2E3

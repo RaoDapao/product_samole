@@ -1,0 +1,17 @@
+产品网址：https://www.len-technology.com/products/linear-regulators
+产品结构：root->线性稳压器
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|线性稳压器|无|具备静态电流低、瞬态响应好等技术优势|
+
+产品型号,输入电压Min (V),输入电压Max (V),输出电压Min (V),输入电压Max (V).1,输出电流 (mA),静态电流 (uA),输出电压状态指示,使能,封装,产品等级,工作结温,功能安全类别,状态
+LN210421Q1CFR,4.0,42,0.6,24,450,5.5,无,有,DFN-8,车规级,-40 to 150,Functional Safety Capable,样品
+LN210451Q1TAR,4.0,42,0.6,24,450,7.5,无,有,TO-252,车规级,-40 to 150,Functional Safety Capable,样品
+LN210455Q1TAR,4.0,42,0.6,24,100,5.5,无,有,TO-252,车规级,-40 to 150,Functional Safety Capable,样品
+LN20545Q1EFR,4.0,42,5 (固定),5 (固定),450,5.5,无,有,SOIC-EP8,车规级,-40 to 150,Functional Safety Capable,已量产
+LN20045Q1EFR,4.0,42,0.6,24,450,7.5,有,有,SOIC-EP8,车规级,-40 to 150,Functional Safety Capable,已量产
+LN20542Q1-DFR,2.75,42,5 (固定),5 (固定),200,5.5,无,有,MSOP-EP8,车规级,-40 to 150,Functional Safety Capable,已量产
+LN20342Q1-DFR,2.75,42,3.3 (固定),3.3 (固定),200,5.5,无,有,MSOP-EP8,车规级,-40 to 150,Functional Safety Capable,已量产
+LN20042Q1-DFR,2.75,42,0.6,24,200,7.5,有,有,MSOP-EP8,车规级,-40 to 150,Functional Safety Capable,已量产
+LN20041Q1-DFR,2.75,42,0.6,24,100,7.5,有,有,MSOP-EP8,车规级,-40 to 150,Functional Safety Capable,已量产

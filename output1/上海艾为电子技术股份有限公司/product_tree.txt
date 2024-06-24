@@ -1,0 +1,185 @@
+-> root http://www.awinic.com
+  -> Awinic https://www.awinic.com/en/findProductsByCompetitor
+    -> Auto K 
+    -> Auto K 
+    -> Auto K 
+    -> Auto K 
+    -> Haptic 
+    -> Motor drivers 
+    -> Motor drivers 
+    -> Camera AF & OIS 
+    -> Power management 
+    -> Power management 
+    -> Power management 
+    -> Power management 
+    -> Power management 
+    -> Power management 
+    -> Power management 
+    -> Power management 
+    -> Power management 
+    -> Power management 
+    -> Power management 
+    -> Power management 
+    -> Signal chain 
+    -> Signal chain 
+    -> Signal chain 
+    -> Signal chain 
+    -> Signal chain 
+    -> Signal chain 
+    -> Signal chain 
+    -> RFFE 
+    -> RFFE 
+    -> RFFE 
+    -> RFFE 
+    -> Smart sensor ICs 
+    -> Smart sensor ICs 
+    -> Smart sensor ICs 
+    -> Smart sensor ICs 
+  -> Awinic_1 https://www.awinic.com/en/findProductsByPackage
+    -> Haptic drivers 
+    -> Haptic drivers 
+    -> Haptic drivers 
+    -> DC motor drivers 
+    -> Stepper motor drivers 
+    -> OCP 
+    -> OCP 
+    -> Breathing LED drivers 
+    -> Breathing LED drivers 
+    -> Flash/IR LED drivers 
+    -> Flash/IR LED drivers 
+    -> Flash/IR LED drivers 
+    -> Flash/IR LED drivers 
+    -> Flash/IR LED drivers 
+    -> Backlight LED drivers 
+    -> Backlight LED drivers 
+    -> Display power ICs 
+    -> Display power ICs 
+    -> OVP 
+    -> OVP 
+    -> DC/DC converters 
+    -> DC/DC converters 
+    -> DC/DC converters 
+    -> LDO regulators 
+    -> Chargers 
+    -> Chargers 
+    -> Chargers 
+    -> Chargers 
+    -> Power switches 
+    -> Power switches 
+    -> USB Type-C & PD 
+    -> USB Type-C & PD 
+    -> USB Type-C & PD 
+    -> USB Type-C & PD 
+    -> USB Type-C & PD 
+    -> MOSFET 
+    -> MIPI switches 
+    -> Vref & Reset Ics 
+    -> Comparators 
+    -> Comparators 
+    -> Analog switches 
+    -> Amplifiers 
+    -> Amplifiers 
+    -> Interfaces 
+    -> Interfaces 
+    -> Interfaces 
+    -> Logic & voltage translators 
+    -> Logic & voltage translators 
+    -> Cellular LNA 
+    -> Cellular LNA 
+    -> WCN LNA 
+    -> WCN LNA 
+    -> WCN LNA 
+    -> RF switches 
+    -> RF switches 
+    -> RF switches 
+    -> RF switches 
+    -> RF switches 
+    -> RF switches 
+    -> RF switches 
+    -> Hall 
+    -> Hall 
+    -> Hall 
+    -> Capacitive sensor controllers 
+    -> Capacitive sensor controllers 
+    -> SAR sensors 
+    -> Force sensor controllers 
+    -> Force sensor controllers 
+  -> Awinic_2 https://www.awinic.com/en/productList
+  -> Awinic官网 https://www.awinic.com/cn/findProductsByCompetitor?productCptLoop=
+    -> 车载音频功放 
+    -> 中大功率音频功放 
+    -> 模拟音频功放 
+    -> 模拟音频功放 
+    -> 模拟音频功放 
+    -> 模拟音频功放 
+    -> 数字音频功放 
+    -> 触觉反馈驱动 
+    -> 触觉反馈驱动 
+    -> 触觉反馈驱动 
+    -> 直流电机驱动 
+    -> 自动对焦&光学防抖 
+    -> 自动对焦&光学防抖 
+    -> 自动对焦&光学防抖 
+    -> 过流保护 
+    -> 过流保护 
+    -> 呼吸灯驱动 
+    -> 呼吸灯驱动 
+    -> 闪光灯/红外灯驱动 
+    -> 闪光灯/红外灯驱动 
+    -> 闪光灯/红外灯驱动 
+    -> 闪光灯/红外灯驱动 
+    -> 闪光灯/红外灯驱动 
+    -> 背光 LED 驱动 
+    -> 背光 LED 驱动 
+    -> 显示电源芯片 
+    -> 显示电源芯片 
+    -> 过压保护 
+    -> 过压保护 
+    -> DC/DC 转换器 
+    -> DC/DC 转换器 
+    -> DC/DC 转换器 
+    -> 线性稳压器 
+    -> 充电管理 IC 
+    -> 充电管理 IC 
+    -> 充电管理 IC 
+    -> 充电管理 IC 
+    -> 功率开关 
+    -> 功率开关 
+    -> USB 接口芯片 
+    -> USB 接口芯片 
+    -> USB 接口芯片 
+    -> USB 接口芯片 
+    -> USB 接口芯片 
+    -> MIPI 开关 
+    -> 基准&复位芯片 
+    -> 比较器 
+    -> 比较器 
+    -> 模拟开关 
+    -> 放大器 
+    -> 放大器 
+    -> 接口芯片 
+    -> 接口芯片 
+    -> 接口芯片 
+    -> 逻辑&电平转换 
+    -> 逻辑&电平转换 
+    -> 蜂窝通信低噪声放大器 
+    -> 蜂窝通信低噪声放大器 
+    -> 无线连接低噪声放大器 
+    -> 无线连接低噪声放大器 
+    -> 无线连接低噪声放大器 
+    -> 射频开关 
+    -> 射频开关 
+    -> 射频开关 
+    -> 射频开关 
+    -> 天线调谐开关 
+    -> 天线调谐开关 
+    -> 霍尔传感器 
+    -> 霍尔传感器 
+    -> 霍尔传感器 
+    -> 电容检测控制器 
+    -> 电容检测控制器 
+    -> SAR 传感器 
+    -> 压力检测控制器 
+    -> 压力检测控制器 
+  -> Awinic_3 https://www.awinic.com/en/findProductsByCompetitor#
+    -> BDC motor drivers 

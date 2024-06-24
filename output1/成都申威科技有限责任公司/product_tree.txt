@@ -1,0 +1,39 @@
+-> root http://www.swcpu.cn
+  -> 首页 
+    -> 产品中心 http://www.swcpu.cn/list-129-1.html
+      -> 高性能多线程处理器 http://www.swcpu.cn/list-130-1.html
+        -> 申威26010- http://www.swcpu.cn/show-130-261-1.html
+      -> 高性能单核处理器 http://www.swcpu.cn/list-176-1.html
+        -> 申威111- http://www.swcpu.cn/show-176-262-1.html
+          -> 高性能单核处理器 
+          -> 高性能多核处理器 
+          -> 申威国产 IO 套片 
+          -> 申威平台整机产品 
+      -> 高性能多核处理器 http://www.swcpu.cn/list-190-1.html
+        -> 申威221- http://www.swcpu.cn/show-190-255-1.html
+        -> 申威411- http://www.swcpu.cn/show-190-256-1.html
+        -> 申威421- http://www.swcpu.cn/show-190-257-1.html
+        -> 申威421M- http://www.swcpu.cn/show-190-258-1.html
+        -> 申威1621- http://www.swcpu.cn/show-190-254-1.html
+      -> 申威国产IO套片 http://www.swcpu.cn/list-185-1.html
+        -> SW-ICH2- http://www.swcpu.cn/show-185-260-1.html
+        -> SW-ICH1- http://www.swcpu.cn/show-185-259-1.html
+      -> 申威平台整机产品 http://www.swcpu.cn/list-222-1.html
+        -> 申威3231ATCA计算刀片- http://www.swcpu.cn/show-222-300-1.html
+        -> 神威3231刀片计算机- http://www.swcpu.cn/show-222-299-1.html
+        -> 神威蜀山831Mini计算机- http://www.swcpu.cn/show-222-298-1.html
+        -> 神威831台式机- http://www.swcpu.cn/show-222-297-1.html
+        -> 神威3231双路服务器- http://www.swcpu.cn/show-222-296-1.html
+        -> 神威嵌入式工控机（NOFAN）- http://www.swcpu.cn/show-222-295-1.html
+        -> 神威421M瘦客户机- http://www.swcpu.cn/show-222-292-1.html
+        -> 神威421一体机- http://www.swcpu.cn/show-222-291-1.html
+        -> 神威1621服务器- http://www.swcpu.cn/show-222-290-1.html
+        -> 神威421台式机- http://www.swcpu.cn/show-222-289-1.html
+    -> 兼容适配 
+      -> 业务说明 
+        -> 申威平台兼容适配认证业务介绍- http://www.swcpu.cn/show-224-260-1.html
+      -> 兼容适配列表 
+        -> 搭载申威处理器的计算机产品入围央采目录- http://www.swcpu.cn/show-156-225-1.html
+          -> 方正申威一体机 
+          -> 联想申威服务器 
+          -> 方正申威笔记本 

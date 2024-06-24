@@ -1,0 +1,9 @@
+-> root http://www.infotmic.com.cn
+  -> 产品中心-上海盈方微电子有限公司 http://www.infotmic.com.cn/index.php/zh/cpzx
+    -> 影像处理器 
+    -> 应用处理器 
+    -> 其它芯片 
+  -> Products-yingfang http://www.infotmic.com.cn/index.php/en/Productss
+    -> Image Processor 
+    -> Application Processor 
+    -> Others 

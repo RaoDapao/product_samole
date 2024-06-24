@@ -1,0 +1,20 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=50&ncid=51&deid=144
+产品结构：root->Huahuan_Products_H20RN-161SeriesIPRANCPE
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|IPRAN CPE|H20RN-161|提供强大的容量、高端口密度和多种端口，支持 GE/FE/E1 端口，适用于提供商的 IP/MPLS 传输网络边缘，可提供 L2 VPN、L3 VPN 和 CES 服务，具有管理、二层、三层、OAM、MPLS、可靠性、QoS 和同步等功能|
+
+Item,Descriptions
+Dimension,43.6mm(1U) × 380mm ×200mm(H x W x D)
+Power Supply,AC 220V or DC -48V
+Consumption,<25w
+Operation Temperature,-5  ℃  to 50  ℃
+Storage Temperature,-20  ℃  to 70  ℃
+Humidity,0% to 95% (non-condensing)
+
+
+Model,Info
+H20RN-161-2GX.4GE-SP,2×GX+4×GE+BITS+NM+Console
+H20RN-161-4GX.4GE-SP,4×GX+4×GE+BITS+NM+Console
+H20RN-161-4GX.4GE.4E1-SP,4×GX+4×GE+4×E1+BITS+NM+Console

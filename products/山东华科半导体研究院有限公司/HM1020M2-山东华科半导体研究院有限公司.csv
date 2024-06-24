@@ -1,0 +1,31 @@
+产品网址：http://www.hkhonm.com/product_detail/76.html
+产品结构：root->HM1020M2-山东华科半导体研究院有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|塔式服务器|HM1020M2|本机型为单路塔式服务器，基于 Intel Mehlow 平台平台，使用 C242 芯片组。支持一颗 Intel® Xeon® E-2100/2200 series 处理器。最多支持 4 条 2666 MT/s DDR4 内存，最大内存容量 64GB，支持 UDIMM 类型内存，支持内存镜像功能和内存热备功能，可提供优异的速度和高可用性。最大支持 4 块 3.5 英寸 SATA HDD/4 块 2.5 英寸 SAS HDD/4 块 2.5 英寸 SATA SSD，支持板载 M.2。提供灵活、弹性的 I/O 功能，4 个 PCI-Express 3.0 扩展槽，提供足够的升级空间，满足客户对系统功能和性能的需求。节能降噪，支持单电和电源冗余，低噪音设计。|
+
+Unnamed: 0,HM1020M,备  注
+CPU,"Intel®Xeon®E-2100Processor  Family, Mehlow  platform  95W  以内",
+CPU,"Intel®Xeon®E-2200Processor  Family, Mehlow  platform  95W  以内",
+CPU,Intel®Pentium®  Gold  Processor  Series,
+PCH,Intel®  CNL PCH-H  Chipset (Intel  ®  C242),
+Memory,4*  DDR4  ECC  UDIMM,
+Memory,2666MHz,
+Memory,16G,
+PCIe 扩展槽,"主板板载  4  个  PCI  Express  3.0  slots,  外接卡支持竖插，具体包括：  1  *  PCIe  Gen3  x16  (x16  signals,  f  r  om  CPU)；  1  *  PCIe  Gen3  x4  (x1  signals,  f  r  om  PCH)；  1  *  PCIe  Gen3  x8  (x4  signals,  f  r  om  PCH)；  1  *  PCIe  Gen3  x4  (x1  signals,  f  r  om  PCH)",
+SATA 控制器,集成  SATA 控制器，支持 SATA3.0,
+Networking,2*port  1GbE  LAN  ports  on  board,
+I/O 接口,前置：  1*USB3.0; 1*USB2.0,
+I/O 接口,后置：  4*USB3.0  ;  1*VGA  ;  2*RJ45;UID  button；1*Dedicated  IPMI  LAN,
+内置  M.2,1*  2280/22110  SATA/PCIe  M.2,PCIe  M.2  只支  持  X2  带宽
+管理特性,Aspeed2500,
+管理,使用平台通用  BMC  配置，无特殊要求；,
+BIOS,使用平台通用  BIOS 配置，无特殊要求；  支持  UEFI  和  legacy  模式，默认支持  UEFI，  可选  legacy；  提供在线  BIOS  刷新工具，可以在系统下刷新  BIOS；  支持批量刷新；,
+按键指示灯,前置：电源按键；复位按键；光驱按键；  前置：  POWER  指示灯；  LAN1  状态灯；  LAN2  状态灯  ；  HDD  状态灯,
+硬盘,4*3.5  寸  SATA  HDD  或  4*2.5  寸  SAS  HDD  或  4*SATA  SSD,SAS  HDD  需搭  配  raid/SAS  卡
+光驱,支持  SATA 接口 DVD 光驱,
+PSU,支持单电（  300W/550W）和电源冗余（500W）,
+工作温度,0℃ ~40℃,
+噪声要求,Idle  ≤  30dB  &  满载  ≤  40dB,
+Video,提供  V  G  A  接口输出视频信号，主板  I  /  O  端口标准  V  G  A  接口；显示芯  片缓存  64M  B,

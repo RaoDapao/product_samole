@@ -1,0 +1,76 @@
+-> root https://www.smics.com
+  -> 首页 
+    -> 晶圆代工解决方案 
+      -> 工艺平台 
+        -> Analog&Power 
+          -> 中芯国际- https://www.smics.com/site/productdetail/2886
+        -> DDIC 
+          -> 中芯国际-_1 https://www.smics.com/site/productdetail/2921
+        -> IGBT 
+          -> 中芯国际-_2 https://www.smics.com/site/productdetail/2940
+        -> eNVM 
+          -> 中芯国际-_3 https://www.smics.com/site/productdetail/2964
+        -> NVM 
+          -> 中芯国际-_4 https://www.smics.com/site/productdetail/2970
+        -> MixedSignal&RF 
+          -> 中芯国际-_5 https://www.smics.com/site/productdetail/2991
+        -> IoTSolutions 
+          -> 中芯国际-_6 https://www.smics.com/site/productdetail/3020
+        -> Automotive 
+          -> 中芯国际-_7 https://www.smics.com/site/productdetail/3023
+    -> 企业社会责任 
+      -> 社会责任政策、战略和制度 
+        -> 负责任矿物 
+          -> 中芯国际-_8 https://www.smics.com/site/responsibility_products
+  -> 首頁 
+    -> 晶圓代工解決方案 
+      -> 工藝平臺 
+        -> Analog&Power 
+          -> 中芯国际-_9 https://www.smics.com/tc/site/productdetail/2886
+        -> DDIC 
+          -> 中芯国际-_10 https://www.smics.com/tc/site/productdetail/2921
+        -> IGBT 
+          -> 中芯国际-_11 https://www.smics.com/tc/site/productdetail/2940
+        -> eNVM 
+          -> 中芯国际-_12 https://www.smics.com/tc/site/productdetail/2964
+        -> NVM 
+          -> 中芯国际-_13 https://www.smics.com/tc/site/productdetail/2970
+        -> MixedSignal&RF 
+          -> 中芯国际-_14 https://www.smics.com/tc/site/productdetail/2991
+        -> IoTSolutions 
+          -> 中芯国际-_15 https://www.smics.com/tc/site/productdetail/3020
+        -> Automotive 
+    -> 企業社會責任 
+      -> 社會責任政策、戰略和制度 
+        -> 負責任礦物 
+          -> 中芯国际-_16 https://www.smics.com/tc/site/responsibility_products
+  -> Home 
+    -> FoundrySolutions 
+      -> TechnologyPlatform 
+        -> Analog&Power 
+          -> SMIC- https://www.smics.com/en/site/productdetail/2886
+        -> DDIC 
+          -> SMIC-_1 https://www.smics.com/en/site/productdetail/2921
+        -> IGBT 
+          -> SMIC-_2 https://www.smics.com/en/site/productdetail/2940
+        -> eNVM 
+          -> SMIC-_3 https://www.smics.com/en/site/productdetail/2964
+        -> NVM 
+          -> SMIC-_4 https://www.smics.com/en/site/productdetail/2970
+        -> MixedSignal&RF 
+          -> SMIC-_5 https://www.smics.com/en/site/productdetail/2991
+        -> IoTSolutions 
+          -> SMIC-_6 https://www.smics.com/en/site/productdetail/3020
+        -> Automotive 
+          -> SMIC-_7 https://www.smics.com/en/site/productdetail/3023
+    -> 企業の社会的責任 
+      -> CSR方針/戦略/仕組み 
+        -> 責任ある鉱物 https://www.smics.com/jp/site/responsibility_products
+  -> SMIC-Analog&Power https://www.smics.com/jp/site/productdetail/2886
+  -> SMIC-DDIC https://www.smics.com/jp/site/productdetail/2921
+  -> SMIC-eNVM https://www.smics.com/jp/site/productdetail/2964
+  -> SMIC-NVM https://www.smics.com/jp/site/productdetail/2970
+  -> SMIC-MixedSignal&RF https://www.smics.com/jp/site/productdetail/2991
+  -> SMIC-IoTSolutions https://www.smics.com/jp/site/productdetail/3020
+  -> SMIC-Automotive https://www.smics.com/jp/site/productdetail/3023
+  -> SMIC-ResponsibleMine https://www.smics.com/en/site/responsibility_products

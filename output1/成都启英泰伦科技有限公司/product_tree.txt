@@ -1,0 +1,9 @@
+-> root http://chipintelli.com
+  -> 语音芯片 
+    -> AI语音芯片 
+      -> CI11系列 http://chipintelli.com/zh-cn/product/index.html?category_id=59
+      -> CI13系列 http://chipintelli.com/zh-cn/product/index.html?category_id=60
+    -> AI语音Wi-FiCombo芯片 
+      -> CI230系列 http://www.chipintelli.com/zh-cn/product/index.html?category_id=61
+    -> AI语音BLE芯片 
+      -> CI231系列 http://chipintelli.com/zh-cn/product/index.html?category_id=113

@@ -1,0 +1,10 @@
+-> root https://www.lonten.cc
+  -> 首页 
+    -> 产品中心 
+      -> 超结MOSFET https://www.lonten.cc/chaojie_MOSFET.html
+      -> 高压平面MOSFET https://www.lonten.cc/gaoyapingmian_MOSFET.html
+      -> 中低压沟槽MOSFET https://www.lonten.cc/zhongdiyagoucao_MOSFET.html
+      -> 中低压SGTMOSFET https://www.lonten.cc/zhongdiyaSGT_MOSFET.html
+      -> IGBT https://www.lonten.cc/IGBT.html
+      -> SiC肖特基二极管 https://www.lonten.cc/sic_xtjejg.html
+    -> 应用领域 

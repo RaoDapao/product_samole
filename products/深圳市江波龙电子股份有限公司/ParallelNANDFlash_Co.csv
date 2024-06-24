@@ -1,0 +1,35 @@
+产品网址：https://www.longsys.com/products/embedded-storage/micro-storage/parallel-nand-flash.html
+产品结构：root->ParallelNANDFlash|ComprehensiveTested|Longsys
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Parallel NAND Flash|无|经过 50 个大项 80 个子项的全面测试，实际缺陷百万分率（DPPM）小于 100；支持 OTP，为客户安全存储信息提供更多空间；工作电压符合主流产品标准；工作温度范围为-40°C 至+85°C，满足工业级产品的温度要求；容量从 1Gbit 到 8Gbit，可满足各种容量需求；数据保留期长达 10 年，具有 100,000 次写入/擦除周期|
+
+Product Series,NAND Flash,Capacity,Package,Operating Temperature,Voltage,Bit Width,Size,P/N
+PPI SLC NAND Flash,SLC NAND,1Gbit,TSOP48,-40~85℃,2.7~3.6V,x8,12*20mm,FSNS8A001G-TWT
+PPI SLC NAND Flash,SLC NAND,1Gbit,TFBGA48,-40~85℃,2.7~3.6V,x8,8*6mm,FSNS8A001G-EWT
+PPI SLC NAND Flash,SLC NAND,1Gbit,TSOP48,-40~85℃,1.7~1.95V,x8,12*20mm,FSNU8A001G-TWT
+PPI SLC NAND Flash,SLC NAND,1Gbit,TFBGA48,-40~85℃,1.7~1.95V,x8,8*6mm,FSNU8A001G-EWT
+PPI SLC NAND Flash,SLC NAND,2Gbit,TSOP48,-40~85℃,2.7~3.6V,x8,12*20mm,FSNS8A002G-TWT
+PPI SLC NAND Flash,SLC NAND,2Gbit,TFBGA48,-40~85℃,2.7~3.6V,x8,8*6mm,FSNS8A002G-EWT
+PPI SLC NAND Flash,SLC NAND,2Gbit,TSOP48,-40~85℃,1.7~1.95V,x8,12*20mm,FSNU8A002G-TWT
+PPI SLC NAND Flash,SLC NAND,2Gbit,TFBGA48,-40~85℃,1.7~1.95V,x8,8*6mm,FSNU8A002G-EWT
+PPI SLC NAND Flash,SLC NAND,4Gbit,TSOP48,-40~85℃,2.7~3.6V,x8,12*20mm,FSNS8B004G-TWT
+PPI SLC NAND Flash,SLC NAND,4Gbit,BGA63,-40~85℃,2.7~3.6V,x8,9*11mm,FSNS8B004G-BWT
+PPI SLC NAND Flash,SLC NAND,4Gbit,TSOP48,-40~85℃,1.7~1.95V,x8,12*20mm,FSNU8B004G-TWT
+PPI SLC NAND Flash,SLC NAND,4Gbit,BGA63,-40~85℃,1.7~1.95V,x8,9*11mm,FSNU8B004G-BWT
+PPI SLC NAND Flash,SLC NAND,8Gbit,TSOP48,-40~85℃,2.7~3.6V,x8,12*20mm,FSNS8B008G-TWT
+PPI SLC NAND Flash,SLC NAND,8Gbit,BGA63,-40~85℃,2.7~3.6V,x8,9*11mm,FSNS8B008G-BWT
+PPI SLC NAND Flash,SLC NAND,8Gbit,TSOP48,-40~85℃,1.7~1.95V,x8,12*20mm,FSNU8B008G-TWT
+PPI SLC NAND Flash,SLC NAND,8Gbit,BGA63,-40~85℃,1.7~1.95V,x8,9*11mm,FSNU8B008G-BWT
+
+
+Number,Platform
+01,Intel
+02,Allwinner
+03,MediaTek
+04,Amlogic
+05,Ambarella
+06,Rockchip
+07,Marvell
+（  The product supports mainstream platforms and only part of it is shown here.  ）,（  The product supports mainstream platforms and only part of it is shown here.  ）

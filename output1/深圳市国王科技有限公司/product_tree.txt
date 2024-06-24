@@ -1,0 +1,22 @@
+-> root http://www.kingsemi.com.cn
+  -> 首页 
+    -> 产品中心可控硅 http://www.kingsemi.com.cn/product.html
+    -> 产品中心 http://www.kingsemi.com.cn/productmore/90.html
+    -> 产品中心SIC二极管-SICMOS http://www.kingsemi.com.cn/product/26.html
+    -> 产品中心MOSFET http://www.kingsemi.com.cn/product/27.html
+    -> 产品中心AC-DC-DC-DC http://www.kingsemi.com.cn/product/29.html
+      -> AC-DC/DC-DC 
+      -> AC-DC/DC-DC 
+      -> MCU 
+      -> 二三极管 
+      -> 光电器件 
+      -> 被动器件 
+      -> 运放 
+      -> 霍尔器件 
+      -> 协议 IC 
+    -> 产品中心二三极管 http://www.kingsemi.com.cn/product/30.html
+    -> 产品中心光电器件 http://www.kingsemi.com.cn/product/31.html
+    -> 产品中心MCU http://www.kingsemi.com.cn/product/42.html
+    -> 产品中心运放 http://www.kingsemi.com.cn/product/43.html
+    -> 产品中心霍尔器件 http://www.kingsemi.com.cn/product/44.html
+    -> 产品中心协议IC http://www.kingsemi.com.cn/product/45.html

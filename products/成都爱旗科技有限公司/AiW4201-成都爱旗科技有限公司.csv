@@ -1,0 +1,12 @@
+产品网址：https://www.aichtech.com/zh-hans/Product/Show-39.html
+产品结构：root->AiW4201-成都爱旗科技有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|无线联接（AIoT）|AiW4201|是一款高度集成的 2.4GHz STA WiFi 芯片，集成 IEEE 802.11b/g/n 基带和 RF 电路，包括功率放大器 PA、低噪声放大器 LNA、RF balun、天线开关以及电源管理模块等；支持 20MHz 标准带宽和 5MHz/10MHz 窄带宽，提供最大 72.2Mbit/s 物理层速率和更远的覆盖距离。芯片集成高性能 32bit 微处理器和安全处理引擎；提供 UART 和 GPIO 接口，同时支持 SDIO2.0 接口，时钟最高支持 50MHz。WiFi 基带实现正交频分复用（OFDM）技术，并向下兼容直接序列扩频（DSSS）、补码键控（CCK）技术，支持 IEEE 802.11b/g/n 协议的各种数据速率。适应于 IP Camera、OTT（Over The Top）、STB、TV 等领域|
+
+1×1 2.4GHz ch1~ch14
+IEEE 802.11b/g/n
+集成TX/RX Switch、Balun
+支持WFA WPA/WPA2 personal、WPS2.0
+QFN-32，5mm×5mm

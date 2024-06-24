@@ -1,0 +1,72 @@
+-> root https://holly-wave.com
+  -> 首页 
+    -> 产品与服务 https://holly-wave.com/products
+      -> 仿真设计软件 https://holly-wave.com/products/simulation-design-software
+        -> CAE仿真软件 https://holly-wave.com/products/simulation-design-software/rdsim
+          -> 三维电磁仿真软件 https://holly-wave.com/products/simulation-design-software/rdsim/3demss
+          -> 天线布局仿真软件 https://holly-wave.com/products/simulation-design-software/rdsim/apds
+          -> 霍莱沃仿真云平台 https://holly-wave.com/products/simulation-design-software/rdsim/2
+        -> 设计优化软件 https://holly-wave.com/products/simulation-design-software/rdesign
+          -> 相控阵设计优化软件 https://holly-wave.com/products/simulation-design-software/rdesign/pados
+      -> 测量系统 https://holly-wave.com/products/measurement-system
+        -> 相控阵校准测量 https://holly-wave.com/products/measurement-system/pacm
+          -> 平面近场测量系统 
+          -> 多探头平面近场测量系统 
+          -> 柱面近场测量系统 
+          -> 球面近场测量系统 
+          -> 多探头球面近场测量系统 
+          -> 室内远场测量系统 
+          -> 室外远场测量系统 
+          -> 紧缩场测量系统 
+          -> 一体化紧缩场测量系统 
+        -> 电磁隐身测量 https://holly-wave.com/products/measurement-system/emsm
+          -> 紧缩场散射（隐身）测量 https://holly-wave.com/products/measurement-system/emsm/smcatr
+          -> 近场散射（隐身）测量 https://holly-wave.com/products/measurement-system/emsm/nfsm
+          -> 现场散射（隐身）测量 https://holly-wave.com/products/measurement-system/emsm/ossm
+        -> 射频测量 https://holly-wave.com/products/measurement-system/rfm
+          -> 智能化测量系统 
+          -> 星载设备测量系统 
+        -> 相关产品 https://holly-wave.com/products/measurement-system/msc
+      -> 阵列及天线产品 https://holly-wave.com/products/array-antenna-products
+        -> 新型相控阵 https://holly-wave.com/products/array-antenna-products/ipa
+          -> 数字相控阵 https://holly-wave.com/products/array-antenna-products/ipa/dpa
+          -> 低成本相控阵 https://holly-wave.com/products/array-antenna-products/ipa/lcpa
+        -> 共形、共口径天线 https://holly-wave.com/products/array-antenna-products/casaa
+          -> 多模复合天线 https://holly-wave.com/products/array-antenna-products/casaa/mca
+          -> 集成化共形天线 https://holly-wave.com/products/array-antenna-products/casaa/ica
+    -> 测量系统 
+      -> 相控阵校准测量 
+        -> 近场测量 
+          -> 平面近场测量系统 https://holly-wave.com/products/measurement-system/pacm/nfm/pnfm
+          -> 多探头平面近场测量系统 https://holly-wave.com/products/measurement-system/pacm/nfm/mppnfm
+          -> 柱面近场测量系统 https://holly-wave.com/products/measurement-system/pacm/nfm/cnfm
+          -> 球面近场测量系统 https://holly-wave.com/products/measurement-system/pacm/nfm/snfm
+          -> 多探头球面近场测量系统 https://holly-wave.com/products/measurement-system/pacm/nfm/mpsm
+        -> 远场测量 
+          -> 室内远场测量系统 https://holly-wave.com/products/measurement-system/pacm/ffm/iffm
+          -> 室外远场测量系统 https://holly-wave.com/products/measurement-system/pacm/ffm/offm
+        -> 紧缩场测量 
+          -> 紧缩场测量系统 https://holly-wave.com/products/measurement-system/pacm/catrm/catrm
+          -> 一体化紧缩场测量系统 https://holly-wave.com/products/measurement-system/pacm/catrm/icatrm
+      -> 射频测量 
+        -> 智能化测量 
+          -> 多探头近场OTA测量系统 https://holly-wave.com/products/measurement-system/rfm/im/mpom
+          -> 天线智能化测量系统 https://holly-wave.com/products/measurement-system/rfm/im/aim
+          -> 多功能智能测量系统 https://holly-wave.com/products/measurement-system/rfm/im/mfim
+          -> 伺服传感器自动化测量系统 https://holly-wave.com/products/measurement-system/rfm/im/stam
+          -> 集成模块一体化测量系统 https://holly-wave.com/products/measurement-system/rfm/im/imim
+        -> 星载设备测量 
+          -> 卫星有效载荷通用测量系统 https://holly-wave.com/products/measurement-system/rfm/ddm/spm
+          -> 模块筛选及温巡老炼自动测量系统 https://holly-wave.com/products/measurement-system/rfm/ddm/rmmtcam
+          -> 真空微放电检测系统 https://holly-wave.com/products/measurement-system/rfm/ddm/mdm
+          -> 时频基准单元测量系统 https://holly-wave.com/products/measurement-system/rfm/ddm/tfrmm
+      -> 相关产品 
+        -> 天线产品 
+          -> 紧缩场反射面高性能标准馈源 https://holly-wave.com/products/measurement-system/msc/ap/2
+          -> 反射面 https://holly-wave.com/products/measurement-system/msc/ap/ra
+          -> 双极化低散射探头 https://holly-wave.com/products/measurement-system/msc/ap/dlpmsp
+          -> 双极化宽带探头 https://holly-wave.com/products/measurement-system/msc/ap/dlpwp
+    -> 支持 https://holly-wave.com/support/#
+      -> 仿真设计软件 
+      -> 测量系统 
+      -> 阵列及天线产品 

@@ -1,0 +1,54 @@
+-> root https://www.xlsemi.com
+  -> 上海芯龙半导体技术股份有限公司 https://www.xlsemi.com/products_DC_DC_buck_mv.html
+  -> 上海芯龙半导体技术股份有限公司_1 https://www.xlsemi.com/products_AC_DC_N_Isolated.html
+  -> 上海芯龙半导体技术股份有限公司_2 https://www.xlsemi.com/products_BMS_monitors_balancers.html
+  -> 上海芯龙半导体技术股份有限公司_3 https://www.xlsemi.com/products_MD_IPM.html
+    -> DC-DC 电源管理 
+    -> Motor Drivers 
+    -> 信号链 
+    -> 音频功放 
+    -> MEMS 传感器 
+  -> 上海芯龙半导体技术股份有限公司_4 https://www.xlsemi.com/products_HBS.html
+  -> 上海芯龙半导体技术股份有限公司_5 https://www.xlsemi.com/products_AB_audio.html
+  -> 上海芯龙半导体技术股份有限公司_6 https://www.xlsemi.com/products_D_audio.html
+  -> 上海芯龙半导体技术股份有限公司_7 https://www.xlsemi.com/products_MEMS_hall_switch.html
+  -> 上海芯龙半导体技术股份有限公司_8 https://www.xlsemi.com/products_MEMS_IR_NDIR.html
+  -> 上海芯龙半导体技术股份有限公司_9 https://www.xlsemi.com/products_MEMS_pressure_gauge.html
+  -> 上海芯龙半导体技术股份有限公司_10 https://www.xlsemi.com/products_DC_DC_buck_mvsr.html
+  -> 上海芯龙半导体技术股份有限公司_11 https://www.xlsemi.com/products_DC_DC_buck_hv.html
+  -> 上海芯龙半导体技术股份有限公司_12 https://www.xlsemi.com/products_DC_DC_buck_hvsr.html
+  -> 上海芯龙半导体技术股份有限公司_13 https://www.xlsemi.com/products_DC_DC_boost_mvsbd.html
+  -> 上海芯龙半导体技术股份有限公司_14 https://www.xlsemi.com/products_DC_DC_boost_mvsr.html
+  -> 上海芯龙半导体技术股份有限公司_15 https://www.xlsemi.com/products_DC_DC_boost_hv.html
+  -> 上海芯龙半导体技术股份有限公司_16 https://www.xlsemi.com/products_DC_DC_led_buck.html
+  -> 上海芯龙半导体技术股份有限公司_17 https://www.xlsemi.com/products_DC_DC_led_bucksr.html
+  -> 上海芯龙半导体技术股份有限公司_18 https://www.xlsemi.com/products_DC_DC_led_boost.html
+  -> 上海芯龙半导体技术股份有限公司_19 https://www.xlsemi.com/products_DC_DC_led_boostsbd.html
+  -> 上海芯龙半导体技术股份有限公司_20 https://www.xlsemi.com/products_DC_DC_led_backlight.html
+    -> 降压型变换器 
+    -> 升压型变换器 
+    -> LED 驱动 
+  -> 上海芯龙半导体技术股份有限公司_21 https://www.xlsemi.com/products_AC_DC_Isolated.html
+  -> 上海芯龙半导体技术股份有限公司_22 https://www.xlsemi.com/products_BMS_protectors.html
+  -> 上海芯龙半导体技术股份有限公司_23 https://www.xlsemi.com/products_BMS_active.html
+  -> 上海芯龙半导体技术股份有限公司_24 https://www.xlsemi.com/products_MEMS_linear_hall.html
+  -> 上海芯龙半导体技术股份有限公司_25 https://www.xlsemi.com/products_MEMS_current_sensors.html
+    -> 电流传感器 
+  -> 上海芯龙半导体技术股份有限公司_27 https://www.xlsemi.com/products_MEMS_IR_thermopile.html
+  -> 上海芯龙半导体技术股份有限公司_28 https://www.xlsemi.com/products_MEMS_IR_Vox.html
+  -> 上海芯龙半导体技术股份有限公司_29 https://www.xlsemi.com/products_MEMS_pressure_absolute.html
+  -> 上海芯龙半导体技术股份有限公司_30 https://www.xlsemi.com/products_AC_DC_N_Isolated.html#
+  -> 上海芯龙半导体技术股份有限公司_31 https://www.xlsemi.com/products_MD_IPM.html#
+    -> 非隔离型变换器 
+    -> 隔离型变换器 
+    -> 电池监控与均衡器 
+    -> IPM 
+    -> 红外传感器 
+  -> 上海芯龙半导体技术股份有限公司_32 https://www.xlsemi.com/products_D_audio.html#
+  -> 上海芯龙半导体技术股份有限公司_33 https://www.xlsemi.com/products_MEMS_IR_NDIR.html#
+  -> 上海芯龙半导体技术股份有限公司_34 https://www.xlsemi.com/products_MEMS_pressure_gauge.html#
+  -> 上海芯龙半导体技术股份有限公司_35 https://www.xlsemi.com/products_DC_DC_buck_mvsr.html#
+  -> 上海芯龙半导体技术股份有限公司_36 https://www.xlsemi.com/products_DC_DC_buck_hvsr.html#
+  -> 上海芯龙半导体技术股份有限公司_37 https://www.xlsemi.com/products_AC_DC_Isolated.html#
+  -> 上海芯龙半导体技术股份有限公司_38 https://www.xlsemi.com/products_BMS_protectors.html#
+  -> 上海芯龙半导体技术股份有限公司_39 https://www.xlsemi.com/products_MEMS_linear_hall.html#

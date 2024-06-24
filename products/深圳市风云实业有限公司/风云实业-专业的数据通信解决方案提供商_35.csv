@@ -1,0 +1,52 @@
+产品网址：https://www.szforward.com/product/productDetail_S5300-EI.html
+产品结构：root->风云实业-专业的数据通信解决方案提供商
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|通用交换机|S5300-28TS、S5300-28ST、S5300-52TS|无|
+
+规格 / 型号,S5300-28TS-EI,S5300-28ST-EI,S5300-52TS-EI
+硬件规格,硬件规格,硬件规格,硬件规格
+固定端口,24端口10/100/1000Base-T  4端口Combo SFP  4端口10GE SFP+,24端口千兆SFP  8端口Combo 10/100/1000Base-T  4端口10GE SFP+,48端口10/100/1000Base-T  4端口10GE SFP+
+电源规格,交流：110V-242V 50-60Hz,交流：110V-242V 50-60Hz  直流：RPS（-12V）,交流：110V-242V 50-60Hz
+最大功耗,≤35W,≤65W,≤65W
+物理尺寸  (宽×深×高),440mm×325mm×44mm,440mm×325mm×44mm,440mm×325mm×44mm
+性能规格,性能规格,性能规格,性能规格
+包转发率,274Mbps,274Mbps,309Mbps
+MAC容量,16K,16K,16K
+VLAN容量,4K,4K,4K
+ACL容量,3K,3K,3K
+路由容量,13K,13K,13K
+端口队列,8,8,8
+业务规格,业务规格,业务规格,业务规格
+转发模式,存储转发,存储转发,存储转发
+端口特性,"支持Full- duplex, Half- duplex  支持IEEE802.3x flow control ( Full- duplex )  支持HOL防止首包阻塞，背压( Half- duplex )  支持VCT ( Virtual Cable Test )  支持UDLD, LLDP, LLDP-MED  支持IEEE 802.3ae, 802.3ab, 802.3z, 802.3u, 802.3  支持9K Jumbo frame  支持Loopback interface  支持Port loop detect  支持Port-Isolation  持GE/FE光模块兼容  支持Port Mirror  支持64Kbps粒度端口限速","支持Full- duplex, Half- duplex  支持IEEE802.3x flow control ( Full- duplex )  支持HOL防止首包阻塞，背压( Half- duplex )  支持VCT ( Virtual Cable Test )  支持UDLD, LLDP, LLDP-MED  支持IEEE 802.3ae, 802.3ab, 802.3z, 802.3u, 802.3  支持9K Jumbo frame  支持Loopback interface  支持Port loop detect  支持Port-Isolation  持GE/FE光模块兼容  支持Port Mirror  支持64Kbps粒度端口限速","支持Full- duplex, Half- duplex  支持IEEE802.3x flow control ( Full- duplex )  支持HOL防止首包阻塞，背压( Half- duplex )  支持VCT ( Virtual Cable Test )  支持UDLD, LLDP, LLDP-MED  支持IEEE 802.3ae, 802.3ab, 802.3z, 802.3u, 802.3  支持9K Jumbo frame  支持Loopback interface  支持Port loop detect  支持Port-Isolation  持GE/FE光模块兼容  支持Port Mirror  支持64Kbps粒度端口限速"
+MAC特性,支持MAC binding  支持MAC filter  支持MAC limit  支持设定MAC超时时间,支持MAC binding  支持MAC filter  支持MAC limit  支持设定MAC超时时间,支持MAC binding  支持MAC filter  支持MAC limit  支持设定MAC超时时间
+VLAN特性,"支持基于端口的VLAN  支持基于802.1Q的VLAN  支持Private VLAN  支持IP subnet VLAN  支持基于协议的VLAN  支持基于MAC的VLAN  支持组播VLAN  支持Voice VLAN  支持QinQ, Slective QinQ, Flexibe QinQ  支持GVRP","支持基于端口的VLAN  支持基于802.1Q的VLAN  支持Private VLAN  支持IP subnet VLAN  支持基于协议的VLAN  支持基于MAC的VLAN  支持组播VLAN  支持Voice VLAN  支持QinQ, Slective QinQ, Flexibe QinQ  支持GVRP","支持基于端口的VLAN  支持基于802.1Q的VLAN  支持Private VLAN  支持IP subnet VLAN  支持基于协议的VLAN  支持基于MAC的VLAN  支持组播VLAN  支持Voice VLAN  支持QinQ, Slective QinQ, Flexibe QinQ  支持GVRP"
+端口聚合,支持LACP 802.3ad  支持源MAC/目的MAC/源-目的MAC/源IP/目的IP/源-目的IP负载均衡  支持128个聚合组  每个聚合组最大支持8端口聚合,支持LACP 802.3ad  支持源MAC/目的MAC/源-目的MAC/源IP/目的IP/源-目的IP负载均衡  支持128个聚合组  每个聚合组最大支持8端口聚合,支持LACP 802.3ad  支持源MAC/目的MAC/源-目的MAC/源IP/目的IP/源-目的IP负载均衡  支持128个聚合组  每个聚合组最大支持8端口聚合
+二层环网,"支持802.1D STP  支持802.1W RSTP  支持802.1S MSTP  支持Root Guard, BPDU Guard, BPDU Forwarding, BPDU Tunnel","支持802.1D STP  支持802.1W RSTP  支持802.1S MSTP  支持Root Guard, BPDU Guard, BPDU Forwarding, BPDU Tunnel","支持802.1D STP  支持802.1W RSTP  支持802.1S MSTP  支持Root Guard, BPDU Guard, BPDU Forwarding, BPDU Tunnel"
+风暴抑制,支持Broadcast / Multicast / Unicast风暴抑制,支持Broadcast / Multicast / Unicast风暴抑制,支持Broadcast / Multicast / Unicast风暴抑制
+IP应用,"支持IPv4/IPv6 Protocol  支持IPv4/IPv6 PBR ( Policy Based Routing )  支持IPv4/IPv6 ECMP  支持VLSM, CIDR  支持VRRP, VRRPv3  支持BFD  支持ARP guard, Local ARP proxy, Proxy ARP, ARP binding, Gratuitous ARP, ARP limit  支持DHCP Server  支持DHCP Client  支持DHCP Relay, DHCP Relay Option 82  支持DHCP Snooping, DHCP Snooping Option 82  支持DNS Client, DNS proxy","支持IPv4/IPv6 Protocol  支持IPv4/IPv6 PBR ( Policy Based Routing )  支持IPv4/IPv6 ECMP  支持VLSM, CIDR  支持VRRP, VRRPv3  支持BFD  支持ARP guard, Local ARP proxy, Proxy ARP, ARP binding, Gratuitous ARP, ARP limit  支持DHCP Server  支持DHCP Client  支持DHCP Relay, DHCP Relay Option 82  支持DHCP Snooping, DHCP Snooping Option 82  支持DNS Client, DNS proxy","支持IPv4/IPv6 Protocol  支持IPv4/IPv6 PBR ( Policy Based Routing )  支持IPv4/IPv6 ECMP  支持VLSM, CIDR  支持VRRP, VRRPv3  支持BFD  支持ARP guard, Local ARP proxy, Proxy ARP, ARP binding, Gratuitous ARP, ARP limit  支持DHCP Server  支持DHCP Client  支持DHCP Relay, DHCP Relay Option 82  支持DHCP Snooping, DHCP Snooping Option 82  支持DNS Client, DNS proxy"
+IPv4单播,"支持IPv4 Default Routing, Static routing, Black hole route  支持RIPv1/v2  支持OSFPv2  支持BGPv4","支持IPv4 Default Routing, Static routing, Black hole route  支持RIPv1/v2  支持OSFPv2  支持BGPv4","支持IPv4 Default Routing, Static routing, Black hole route  支持RIPv1/v2  支持OSFPv2  支持BGPv4"
+IPv4组播,"支持IGMP v1/v2/v3, IGMP v1/v2/v3 Snooping  支持IGMP Proxy  支持IPv4 Multicast VLAN Register (MVR)  支持PIM-DM, PIM-SM, PIM-SSM, MSDP","支持IGMP v1/v2/v3, IGMP v1/v2/v3 Snooping  支持IGMP Proxy  支持IPv4 Multicast VLAN Register (MVR)  支持PIM-DM, PIM-SM, PIM-SSM, MSDP","支持IGMP v1/v2/v3, IGMP v1/v2/v3 Snooping  支持IGMP Proxy  支持IPv4 Multicast VLAN Register (MVR)  支持PIM-DM, PIM-SM, PIM-SSM, MSDP"
+IPv6协议,"支持ND ( Neighbor Discovery ), ND Snooping  支持无状态地址自动配置  支持重复地址检测 (DAD)  支持PMTU Discovery  支持ICMPv6, NDP, SNMP over IPv6, HTTP over IPv6, IPv6 Ping/tracer, IPv6 Telnet, IPv6 RADIUS+, IPv6 Syslog, IPv6 SNTP, IPv6 FTP/TFTP  支持DHCPv6 Server, DHCPv6 relay,  支持手动配置Tunnel、6to4 tunnel、ISATAP","支持ND ( Neighbor Discovery ), ND Snooping  支持无状态地址自动配置  支持重复地址检测 (DAD)  支持PMTU Discovery  支持ICMPv6, NDP, SNMP over IPv6, HTTP over IPv6, IPv6 Ping/tracer, IPv6 Telnet, IPv6 RADIUS+, IPv6 Syslog, IPv6 SNTP, IPv6 FTP/TFTP  支持DHCPv6 Server, DHCPv6 relay,  支持手动配置Tunnel、6to4 tunnel、ISATAP","支持ND ( Neighbor Discovery ), ND Snooping  支持无状态地址自动配置  支持重复地址检测 (DAD)  支持PMTU Discovery  支持ICMPv6, NDP, SNMP over IPv6, HTTP over IPv6, IPv6 Ping/tracer, IPv6 Telnet, IPv6 RADIUS+, IPv6 Syslog, IPv6 SNTP, IPv6 FTP/TFTP  支持DHCPv6 Server, DHCPv6 relay,  支持手动配置Tunnel、6to4 tunnel、ISATAP"
+IPv6单播,"支持IPv6 Default Routing, Static routing, Black hole route  支持RIPng  支持OSFPv3  支持BGPv4+","支持IPv6 Default Routing, Static routing, Black hole route  支持RIPng  支持OSFPv3  支持BGPv4+","支持IPv6 Default Routing, Static routing, Black hole route  支持RIPng  支持OSFPv3  支持BGPv4+"
+IPv6组播,"支持MLDv1/v2, MLDv1/v2 Snooping  支持IPv6 Multicast VLAN Register (MVR)  支持IPv6 PIM-SM/DM/SSM","支持MLDv1/v2, MLDv1/v2 Snooping  支持IPv6 Multicast VLAN Register (MVR)  支持IPv6 PIM-SM/DM/SSM","支持MLDv1/v2, MLDv1/v2 Snooping  支持IPv6 Multicast VLAN Register (MVR)  支持IPv6 PIM-SM/DM/SSM"
+MPLS,支持LDP  支持MPLS L3 VPN  支持MPLS L2 VPN,支持LDP  支持MPLS L3 VPN  支持MPLS L2 VPN,支持LDP  支持MPLS L3 VPN  支持MPLS L2 VPN
+端口镜像,支持1:1或N:1镜像  支持本地端口镜像（LSPAN）  支持远程端口镜像（RSPAN）  支持远程路由端口镜像(ERSPAN),支持1:1或N:1镜像  支持本地端口镜像（LSPAN）  支持远程端口镜像（RSPAN）  支持远程路由端口镜像(ERSPAN),支持1:1或N:1镜像  支持本地端口镜像（LSPAN）  支持远程端口镜像（RSPAN）  支持远程路由端口镜像(ERSPAN)
+QoS,"支持IPv4与IPv6 QoS  每端口支持8个队列  支持802.1p, IP Precedence, DSCP, TCP/UDP port number, ACL流量分类与标记  支持SP, WRR.SWRR  支持Traffic Shaping","支持IPv4与IPv6 QoS  每端口支持8个队列  支持802.1p, IP Precedence, DSCP, TCP/UDP port number, ACL流量分类与标记  支持SP, WRR.SWRR  支持Traffic Shaping","支持IPv4与IPv6 QoS  每端口支持8个队列  支持802.1p, IP Precedence, DSCP, TCP/UDP port number, ACL流量分类与标记  支持SP, WRR.SWRR  支持Traffic Shaping"
+ACL,"支持基于源/目的IP, 源/目的MAC, TCP/UDP端口号, DSCP, TOS, IP Precedence, Time range的ACL  支持在物理接口，VLAN，三层VLAN接口下应用ACL  支持基于ACL进行流量重定向  支持IPv4/IPv6 ACL","支持基于源/目的IP, 源/目的MAC, TCP/UDP端口号, DSCP, TOS, IP Precedence, Time range的ACL  支持在物理接口，VLAN，三层VLAN接口下应用ACL  支持基于ACL进行流量重定向  支持IPv4/IPv6 ACL","支持基于源/目的IP, 源/目的MAC, TCP/UDP端口号, DSCP, TOS, IP Precedence, Time range的ACL  支持在物理接口，VLAN，三层VLAN接口下应用ACL  支持基于ACL进行流量重定向  支持IPv4/IPv6 ACL"
+IEEE802.1x,支持基于端口、MAC、用户名的认证  支持基于时间和流量的计费  支持Guest VLAN和Auto VLAN,支持基于端口、MAC、用户名的认证  支持基于时间和流量的计费  支持Guest VLAN和Auto VLAN,支持基于端口、MAC、用户名的认证  支持基于时间和流量的计费  支持Guest VLAN和Auto VLAN
+安全特性,"支持Ping Sweep攻击监控  支持ICMP unreachable攻击防御  支持非法组播源攻击  支持多种DDOS攻击防御  支持多种病毒攻击防御  支持ARP binding, ARP limit, ARP guard, anti-ARP scan  支持CPU防御保护  支持URPF","支持Ping Sweep攻击监控  支持ICMP unreachable攻击防御  支持非法组播源攻击  支持多种DDOS攻击防御  支持多种病毒攻击防御  支持ARP binding, ARP limit, ARP guard, anti-ARP scan  支持CPU防御保护  支持URPF","支持Ping Sweep攻击监控  支持ICMP unreachable攻击防御  支持非法组播源攻击  支持多种DDOS攻击防御  支持多种病毒攻击防御  支持ARP binding, ARP limit, ARP guard, anti-ARP scan  支持CPU防御保护  支持URPF"
+可靠性,支持MSTP(802.1S)  支持VRRP  支持LACP  支持Cluster  支持多固件/多配置文件管理及更换,支持MSTP(802.1S)  支持VRRP  支持LACP  支持Cluster  支持多固件/多配置文件管理及更换,支持MSTP(802.1S)  支持VRRP  支持LACP  支持Cluster  支持多固件/多配置文件管理及更换
+管理维护,"支持IPv4/IPv6管理维护  支持命令行( CLI ) 配置  支持图形化( WEB ) 配置  支持Console, Telnet, SSHv1/v2, WEB, SSL  支持SNMPv1/v2c/v3  支持Public, Private MIB接口  支持RMON 1/2/3/9组  支持Syslog  支持Sflow for IPv4 and IPv6  支持FTP/ TFTP固件升级  支持FTP/ TFTP配置文件升级  支持多固件/多配置文件管理及更换  支持SNTP/NTP","支持IPv4/IPv6管理维护  支持命令行( CLI ) 配置  支持图形化( WEB ) 配置  支持Console, Telnet, SSHv1/v2, WEB, SSL  支持SNMPv1/v2c/v3  支持Public, Private MIB接口  支持RMON 1/2/3/9组  支持Syslog  支持Sflow for IPv4 and IPv6  支持FTP/ TFTP固件升级  支持FTP/ TFTP配置文件升级  支持多固件/多配置文件管理及更换  支持SNTP/NTP","支持IPv4/IPv6管理维护  支持命令行( CLI ) 配置  支持图形化( WEB ) 配置  支持Console, Telnet, SSHv1/v2, WEB, SSL  支持SNMPv1/v2c/v3  支持Public, Private MIB接口  支持RMON 1/2/3/9组  支持Syslog  支持Sflow for IPv4 and IPv6  支持FTP/ TFTP固件升级  支持FTP/ TFTP配置文件升级  支持多固件/多配置文件管理及更换  支持SNTP/NTP"
+环境规格,环境规格,环境规格,环境规格
+工作环境,工作温度：0-50° C  工作湿度：10-90%无凝结,工作温度：0-50° C  工作湿度：10-90%无凝结,工作温度：0-50° C  工作湿度：10-90%无凝结
+存储环境,存储温度：-40-70° C  存储湿度：5-95%无凝结,存储温度：-40-70° C  存储湿度：5-95%无凝结,存储温度：-40-70° C  存储湿度：5-95%无凝结
+电磁安全,"FCC, CE, VCCI","FCC, CE, VCCI","FCC, CE, VCCI"
+
+
+型号,描述,配置说明
+S5300-52TS-EI,48端口10/100/1000Base-T，4端口10G SFP+，主机内置双AC电源,必配
+S5300-28TS-EI,24端口10/100/1000Base-T，4端口Combo SFP，4端口10G SFP+，主机内置双AC电源,必配
+S5300-28ST-EI,24端口千兆SFP，8端口Combo 10/100/1000Base-T，4端口10G SFP+，内置双电源冗余输入（AC+RPS 12V）,必配

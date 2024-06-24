@@ -1,0 +1,15 @@
+-> root https://www.leiditech.com
+  -> 上海雷卯电子-静电保护元件TVS二极管_ https://www.leiditech.com/collections/esd
+    -> ESD 静电保护元件 
+    -> PESD 静电保护元件 
+    -> TVS 瞬态电压抑制二极管 
+    -> TSS 半导体放电管 
+    -> GDT 陶瓷气体放电管 
+    -> MOV 压敏电阻 
+    -> PPTC 自恢复保险丝 
+    -> MOSFET 场效应管 
+    -> RECTIFIER 整流管 
+    -> Zener 稳压管 
+    -> Inductor 电感 
+    -> Transceiver 收发器 
+    -> LDO 线性稳压器 

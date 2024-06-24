@@ -1,0 +1,34 @@
+产品网址：https://www.zhixin-semi.com/index/index/product.html?id=1
+产品结构：root->智芯半导体科技有限公司官方网站
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|汽车级微控制器|Z20K11x 系列|基于 ARM CORTEX M0+的中低端微控制器，高达 256K P FLASH + 128K D FLASH，2 路 CANFD 接口，4 路 UART/LIN 接口，多种封装类型，适用于车身控制、空调控制、照明控制、中小功率电机控制等各种应用|
+
+Software Name,Version
+SDK,1.8
+FreeRTOS,1.0
+CAN/LIN Bootloader,1.5.1
+Emulation EEPROM,1.3
+ZXPinsConfigurationTool,1.7.1
+CodeAutoGeneratorTool,1.2.1
+ZXCANBitRateCalculationTool,1.2
+
+
+Document,Version
+Product Brief,1.4
+Reference Manual,1.8
+Application Notes,1.2
+DataSheet,1.7
+Errata Sheet,2.0
+
+
+Document,Description
+Application Notes,Specification of how to use a component in an application or process
+Data Sheet,Specification of the performance and other characteristics of a component
+Release Notes,Description of changes and issues in an upcoming update
+Package Information,Package details of the component
+Reference Manual,Specification of how to use a component in an application process
+Product Brief,Essential information to evaluate a product for design suitability quickly
+User Guide,Procedural manual with step-by-step instructions on how to perform a set of tasks
+Supporting Manual,A manual or a user guide of a supporting development tool.

@@ -1,0 +1,22 @@
+-> root http://si-change.com.cn
+  -> 产品-武汉芯昌科技有限公司 http://si-change.com.cn/col.jsp?id=105
+    -> 模数转换器 
+    -> 线性稳压器 
+    -> 射频收发器 
+    -> DC/DC 转换器 
+    -> 其他类芯片 
+  -> 产品展示-武汉芯昌科技有限公司 https://m.si-change.com.cn/col.jsp?id=104
+    -> XC081S021 
+    -> XC101S021 
+    -> XC121S021 
+    -> XC081S051 
+    -> XC101S051 
+    -> XC121S051 
+    -> XC7910 
+    -> XC7920 
+    -> XC081S101 
+    -> XC101S101 
+  -> 产品介绍-武汉芯昌科技有限公司 https://m.si-change.com.cn/col.jsp?id=114
+    -> 模拟数字转换器 
+    -> 模拟数字转换器 
+  -> 芯昌科技ADC产品系列介绍-武汉芯昌科技 https://m.si-change.com.cn/nd.jsp?id=36

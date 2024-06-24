@@ -1,0 +1,59 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+天津普林电路股份有限公司,1-side 2-layer Aluminum Board,http://en.toppcb.com/product/59.html,无,Layer: 3<br>Board Thickness: 2.0mm<br>Min.Line/Space: 0.3/0.3mm<br>Surface: HASL Leaded,root,1906551877,1|side2|layerAluminumBoard|PRINTRONICSCIRCUITCORP.,5547496682,无,0,无,0
+天津普林电路股份有限公司,10 Layer rigid flex board,http://en.toppcb.com/product/57.html,无,Layer: 10<br>Board Thickness: 1.9mm<br>Min. Line/Space: 0.1/0.1mm<br>Surface: Immersion Gold,root,1906551877,10Layerrigidflexboard|PRINTRONICSCIRCUITCORP.,9037815573,无,0,无,0
+天津普林电路股份有限公司,10 层 POFV 工艺沉银印制板,http://www.toppcb.com/product/68.html,无,板厚 1.55mm，POFV 工艺，线宽/间距：5mil/5mil,root,1906551877,10层POFV工艺沉银印制板,7373290445,无,0,无,0
+天津普林电路股份有限公司,10 层 POFV 工艺航空 HDI 印制板,http://www.toppcb.com/product/74.html,无,板厚 1.8mm，盲孔：0.2mm，电镀填孔+POFV 工艺，表面粗糙度：Ra≤0.4um，Rz≤2.5um,root,1906551877,10层POFV工艺航空HDI印制板,5208626533,无,0,无,0
+天津普林电路股份有限公司,16 层板,http://en.toppcb.com/product/53.html,无,Layer: 16<br>Board Thickness: 2.4mm<br>Min. Line/Space: 0.1/0.1mm<br>Surface: Immersion Gold,root,1906551877,16LayerBoard|PRINTRONICSCIRCUITCORP.,884008704,无,0,无,0
+天津普林电路股份有限公司,1 step HDI,http://en.toppcb.com/product/61.html,无,Layer: 8<br>Board Thickness: 1.0mm<br>Min. Line/Space: 0.075/0.075mm<br>Surface: Immersion Gold,root,1906551877,1stepHDI|PRINTRONICSCIRCUITCORP.,4393189063,无,0,无,0
+天津普林电路股份有限公司,2-Step HDI,http://en.toppcb.com/product/51.html,无,Layer: 8<br>Board Thickness: 1.2mm<br>Min. Line/Space: 0.1/0.1mm<br>Surface: OSP,root,1906551877,2|StepHDI|PRINTRONICSCIRCUITCORP.,575910847,无,0,无,0
+天津普林电路股份有限公司,2 step HDI,http://en.toppcb.com/product/63.html,无,Layer: 8<br>Board thickness: 1.2 mm<br>Min.Line/Space: 0.075/0.075mm<br>Surface: Immersion Gold,root,1906551877,2stepHDI|PRINTRONICSCIRCUITCORP.,8967960642,无,0,无,0
+天津普林电路股份有限公司,32 层埋盲孔工艺阴阳铜结构航空 HDI 印制板,http://www.toppcb.com/product/73.html,无,板厚 3.2mm，芯料 0.05mm、0.08mm，内层阴阳铜结构，盲孔：0.125mm，电镀填孔工艺，50Ω、100Ω 两种阻抗,root,1906551877,无,0,无,0,无,0
+天津普林电路股份有限公司,6 层一阶 HDI 印制板,http://www.toppcb.com/product/82.html,无,板厚 1.6mm，盲孔：0.125mm，线宽/间距：4mil/4mil，50Ω、90Ω 两种阻抗,root,1906551877,6层一阶HDI印制板,2491414492,无,0,无,0
+天津普林电路股份有限公司,Immersion Silver surface,http://en.toppcb.com/product/69.html,无,无,root,1906551877,ImmersionSilversurface|PRINTRONICSCIRCUITCORP.,3140861189,无,0,无,0
+天津普林电路股份有限公司,Immersion Tin surface,http://en.toppcb.com/product/71.html,无,无,root,1906551877,ImmersionTinsurface|PRINTRONICSCIRCUITCORP.,9644191990,无,0,无,0
+天津普林电路股份有限公司,Military high layer board,http://en.toppcb.com/product/54.html,无,Layer: 12<br>Board Thickness: 2.0mm<br>Min. Line/Space: 0.1/0.1mm<br>Surface: Immersion Gold,root,1906551877,Militaryhighlayerboard|PRINTRONICSCIRCUITCORP.,4190623413,无,0,无,0
+天津普林电路股份有限公司,Multi-Layer Board with black solder mask,http://en.toppcb.com/product/65.html,无,无,root,1906551877,Multi|LayerBoardwithblacksoldermask|PRINTRONICSCIRCUITCORP.,6075898291,无,0,无,0
+天津普林电路股份有限公司,Multi-layer PCB,http://en.toppcb.com/product/67.html,无,具有不同阻焊颜色,root,1906551877,Multi|layerPCBwithdifferentsoldermaskcolors|PRINTRONICSCIRCUITCORP.,2343028375,无,0,无,0
+天津普林电路股份有限公司,Normal Board,http://en.toppcb.com/product/56.html,无,Layer: 8<br>Board Thickness: 1.9mm<br>Min.Line/Space: 0.5/0.15mm<br>Surface: Immersion Gold with deep routing,root,1906551877,NormalBoard|PRINTRONICSCIRCUITCORP.,8675030771,无,0,无,0
+天津普林电路股份有限公司,power supply board,http://en.toppcb.com/product/55.html,无,Layer: 10<br>Board Thickness: 2.9mm<br>Min.Line/Space: 0.2/0.2 (2 OZ copper)<br>Surface: HASL Lead free,root,1906551877,powersupplyboard|PRINTRONICSCIRCUITCORP.,3465247128,无,0,无,0
+天津普林电路股份有限公司,Rigid Flex Board,http://en.toppcb.com/product/60.html,无,Layer: 4<br>Board Thickness: 1.7mm<br>Min. Line/Space: 0.1/0.1mm<br>Surface: Immersion Gold,root,1906551877,RigidFlexBoard|PRINTRONICSCIRCUITCORP.,7189424333,无,0,无,0
+天津普林电路股份有限公司,Step board,http://en.toppcb.com/product/78.html,无,无,root,1906551877,Stepboard|PRINTRONICSCIRCUITCORP.,4357452160,无,0,无,0
+天津普林电路股份有限公司,step HDI with fine pitch,http://en.toppcb.com/product/52.html,无,Layer: 8<br>Board Thickness: 0.8mm<br>Min. Line/Space: 0.075/0.075mm<br>Surface: Immersion Gold+OSP,root,1906551877,stepHDIwithfinepitch|PRINTRONICSCIRCUITCORP.,4401050115,无,0,无,0
+天津普林电路股份有限公司,Multi-layer PCB with different solder mask colors,http://en.toppcb.com/product/5,无,无,root,1906551877,Tech.&Products|Tech.&Products|PRINTRONICSCIRCUITCORP.,4557383153,无,0,无,0
+天津普林电路股份有限公司,1 step HDI,http://en.toppcb.com/product/5,Layer: 8<br>Board Thickness: 1.0mm<br>Min. Line/Space: 0.075/0.075mm<br>Surface: Immersion Gold,无,root,1906551877,Tech.&Products|Tech.&Products|PRINTRONICSCIRCUITCORP.,4557383153,无,0,无,0
+天津普林电路股份有限公司,Rigid Flex Board,http://en.toppcb.com/product/5,Layer: 4<br>Board Thickness: 1.7mm<br>Min. Line/Space: 0.1/0.1mm<br>Surface: Immersion Gold,无,root,1906551877,Tech.&Products|Tech.&Products|PRINTRONICSCIRCUITCORP.,4557383153,无,0,无,0
+天津普林电路股份有限公司,1-side 2-layer Aluminum Board,http://en.toppcb.com/product/5,Layer: 3<br>Board Thickness: 2.0mm<br>Min.Line/Space: 0.3/0.3mm<br>Surface: HASL Leaded,无,root,1906551877,Tech.&Products|Tech.&Products|PRINTRONICSCIRCUITCORP.,4557383153,无,0,无,0
+天津普林电路股份有限公司,2-Step HDI,http://en.toppcb.com/product/5,Layer: 8<br>Board Thickness: 1.2mm<br>Min. Line/Space: 0.1/0.1mm<br>Surface: OSP,无,root,1906551877,Tech.&Products|Tech.&Products|PRINTRONICSCIRCUITCORP.,4557383153,无,0,无,0
+天津普林电路股份有限公司,step HDI with fine pitch,http://en.toppcb.com/product/5,Layer: 8<br>Board Thickness: 0.8mm<br>Min. Line/Space: 0.075/0.075mm<br>Surface: Immersion Gold+OSP,无,root,1906551877,Tech.&Products|Tech.&Products|PRINTRONICSCIRCUITCORP.,4557383153,无,0,无,0
+天津普林电路股份有限公司,2 step HDI,http://en.toppcb.com/product/5,Layer: 8<br>Board thickness: 1.2 mm<br>Min.Line/Space: 0.075/0.075mm<br>Surface: Immersion Gold,无,root,1906551877,Tech.&Products|Tech.&Products|PRINTRONICSCIRCUITCORP.,4557383153,无,0,无,0
+天津普林电路股份有限公司,16 Layer Board,http://en.toppcb.com/product/5,Layer: 16<br>Board Thickness: 2.4mm<br>Min. Line/Space: 0.1/0.1mm<br>Surface: Immersion Gold,无,root,1906551877,Tech.&Products|Tech.&Products|PRINTRONICSCIRCUITCORP.,4557383153,无,0,无,0
+天津普林电路股份有限公司,Military high layer board,http://en.toppcb.com/product/5,Layer: 12<br>Board Thickness: 2.0mm<br>Min. Line/Space: 0.1/0.1mm<br>Surface: Immersion Gold,无,root,1906551877,Tech.&Products|Tech.&Products|PRINTRONICSCIRCUITCORP.,4557383153,无,0,无,0
+天津普林电路股份有限公司,power supply board,http://en.toppcb.com/product/5,Layer: 10<br>Board Thickness: 2.9mm<br>Min.Line/Space: 0.2/0.2 (2 OZ copper)<br>Surface: HASL Lead free,无,root,1906551877,Tech.&Products|Tech.&Products|PRINTRONICSCIRCUITCORP.,4557383153,无,0,无,0
+天津普林电路股份有限公司,Normal Board,http://en.toppcb.com/product/5,Layer: 8<br>Board Thickness: 1.9mm<br>Min.Line/Space: 0.5/0.15mm<br>Surface: Immersion Gold with deep routing,无,root,1906551877,Tech.&Products|Tech.&Products|PRINTRONICSCIRCUITCORP.,4557383153,无,0,无,0
+天津普林电路股份有限公司,10 Layer rigid flex board,http://en.toppcb.com/product/5,Layer: 10<br>Board Thickness: 1.9mm<br>Min. Line/Space: 0.1/0.1mm<br>Surface: Immersion Gold,无,root,1906551877,Tech.&Products|Tech.&Products|PRINTRONICSCIRCUITCORP.,4557383153,无,0,无,0
+天津普林电路股份有限公司,一阶不规则叠层 HDI,http://www.toppcb.com/product/61.html,无,最高层数：8 层<br>板厚：1.0<br>最小线宽/最小间距：0.075/0.075<br>表面处理：沉镍金,root,1906551877,一阶不规则叠层HDI,8637038631,无,0,无,0
+天津普林电路股份有限公司,二阶 HDI,http://www.toppcb.com/product/51.html,无,最高层数：8 层<br>板厚：1.2<br>最小线宽/最小间距：0.075/0.075<br>表面处理：沉镍金,root,1906551877,二阶HDI,7901230810,无,0,无,0
+天津普林电路股份有限公司,二阶（细密间距）HDI,http://www.toppcb.com/product/52.html,无,最高层数：8 层<br>板厚：0.8<br>最小线宽/最小间距：0.075/0.075<br>表面处理：沉镍金+防氧化,root,1906551877,二阶（细密间距）HDI,6525436896,无,0,无,0
+天津普林电路股份有限公司,陶瓷印制电路板,http://www.toppcb.com/product/5,无,无,root,1906551877,无,0,无,0,无,0
+天津普林电路股份有限公司,高速高频印制电路板,http://www.toppcb.com/product/5,无,无,root,1906551877,无,0,无,0,无,0
+天津普林电路股份有限公司,微波印制电路板,http://www.toppcb.com/product/5,无,无,root,1906551877,无,0,无,0,无,0
+天津普林电路股份有限公司,多层新能源汽车用沉锡印制板,http://www.toppcb.com/product/5,无,无,root,1906551877,无,0,无,0,无,0
+天津普林电路股份有限公司,多种阻焊颜色印制板,http://www.toppcb.com/product/5,无,无,root,1906551877,无,0,无,0,无,0
+天津普林电路股份有限公司,刚挠结合印制板,http://www.toppcb.com/product/5,无,无,root,1906551877,无,0,无,0,无,0
+天津普林电路股份有限公司,阶梯板,http://www.toppcb.com/product/5,无,无,root,1906551877,无,0,无,0,无,0
+天津普林电路股份有限公司,一阶不规则叠层 HDI,http://www.toppcb.com/product/5,最高层数：8 层，板厚：1.0，最小线宽/最小间距：0.075/0.075，表面处理：沉镍金,无,root,1906551877,无,0,无,0,无,0
+天津普林电路股份有限公司,刚挠结合板,http://www.toppcb.com/product/5,最高层数：4 层（2、3 层软板），板厚：1.7，最小线宽/最小间距：0.1/0.1，表面处理：沉镍金,无,root,1906551877,无,0,无,0,无,0
+天津普林电路股份有限公司,单面双层铝基板,http://www.toppcb.com/product/5,最高层数：3 层，板厚：2.0，最小线宽/最小间距：0.3/0.3，表面处理：有铅热风,无,root,1906551877,无,0,无,0,无,0
+天津普林电路股份有限公司,BGA 盘中孔,http://www.toppcb.com/product/5,无,无,root,1906551877,无,0,无,0,无,0
+天津普林电路股份有限公司,二阶 HDI,http://www.toppcb.com/product/5,最高层数：8 层，板厚：1.2，最小线宽/最小间距：0.075/0.075，表面处理：沉镍金,无,root,1906551877,无,0,无,0,无,0
+天津普林电路股份有限公司,二阶（细密间距）HDI,http://www.toppcb.com/product/5,最高层数：8 层，板厚：0.8，最小线宽/最小间距：0.075/0.075，表面处理：沉镍金+防氧化,无,root,1906551877,无,0,无,0,无,0
+天津普林电路股份有限公司,高多层-16 层板,http://www.toppcb.com/product/5,最高层数：16 层，板厚：2.4，最小线宽/最小间距：0.1/0.1，表面处理：沉镍金,无,root,1906551877,无,0,无,0,无,0
+天津普林电路股份有限公司,高多层,http://www.toppcb.com/product/5,最高层数：12 层，板厚：2.0，最小线宽/最小间距：0.1/0.1，表面处理：沉镍金,无,root,1906551877,无,0,无,0,无,0
+天津普林电路股份有限公司,电源板,http://www.toppcb.com/product/5,最高层数：10 层，板厚：2.9，最小线宽/最小间距：0.2/0.2（厚铜 2oz，回流线圈），表面处理：无铅热风,无,root,1906551877,无,0,无,0,无,0
+天津普林电路股份有限公司,刚挠结合板,http://www.toppcb.com/product/60.html,无,最高层数：4 层（2、3 层软板），板厚：1.7，最小线宽/最小间距：0.1/0.1，表面处理：沉镍金,root,1906551877,刚挠结合板,6484857561,无,0,无,0
+天津普林电路股份有限公司,十层刚挠结合板,http://www.toppcb.com/product/57.html,无,最高层数：10 层（5、6 层软板），板厚：1.9，最小线宽/最小间距：0.1/0.1，表面处理：沉镍金,root,1906551877,十层刚挠结合板,5546218434,无,0,无,0
+天津普林电路股份有限公司,单面双层铝基板,http://www.toppcb.com/product/59.html,无,最高层数：3 层<br>板厚：2.0<br>最小线宽/最小间距：0.3/0.3<br>表面处理：有铅热风,root,1906551877,单面双层铝基板,6739140939,无,0,无,0
+天津普林电路股份有限公司,普通板,http://www.toppcb.com/product/56.html,无,最高层数：8 层<br>板厚：1.9<br>最小线宽/最小间距：0.5/0.15<br>表面处理：沉镍金（深度铣处理）,root,1906551877,普通板,7726271261,无,0,无,0
+天津普林电路股份有限公司,电源板,http://www.toppcb.com/product/55.html,无,最高层数：10 层<br>板厚：2.9<br>最小线宽/最小间距：0.2/0.2（厚铜 2oz，回流线圈）<br>表面处理：无铅热风,root,1906551877,电源板,4846071476,无,0,无,0
+天津普林电路股份有限公司,高多层-16 层板,http://www.toppcb.com/product/53.html,无,最高层数：16 层<br>板厚：2.4<br>最小线宽/最小间距：0.1/0.1<br>表面处理：沉镍金,root,1906551877,高多层|16层板,5137298028,无,0,无,0
+天津普林电路股份有限公司,高多层,http://www.toppcb.com/product/54.html,无,最高层数：12 层<br>板厚：2.0<br>最小线宽/最小间距：0.1/0.1<br>表面处理：沉镍金,root,1906551877,高多层,6077617100,无,0,无,0

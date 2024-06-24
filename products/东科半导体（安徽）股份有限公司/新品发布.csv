@@ -1,0 +1,47 @@
+产品网址：https://www.dkpower.cn/xinpinfabu.html
+产品结构：首页->产品中心->新品发布
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|AC-DC 电源管理系列|无|无|
+|AC-DC 产品线(SSR)|无|无|
+|AC-DC 产品线(GaN)|无|无|
+|AC-DC 产品线(PSR)|无|无|
+|AC-DC 产品线(Non-isolated)|无|无|
+|SR 同步整流系列|无|无|
+|BV 45V Product|无|无|
+|BV 60V Product|无|无|
+|BV 65V Product|无|无|
+|BV 85V Product|无|无|
+|BV 100V Product|无|无|
+|BV 120V Product|无|无|
+|BV 150V Product|无|无|
+|触摸感应系列|无|无|
+|1 通道触摸感应器|无|无|
+|2 通道触摸感应器|无|无|
+|4 通道触摸感应器|无|无|
+|5 通道触摸感应器|无|无|
+|8 通道触摸感应器|无|无|
+|9 通道触摸感应器|无|无|
+|12 通道触摸感应器|无|无|
+|USB PD 快充协议系列|无|无|
+|单口 C 协议|无|无|
+
+Product,Characteristics,Topology,Standby Power,Output Power,GaN FET BV/Rdson,fMAX,Package,VDD Range
+DK8012AP,QR-Lock GaN AC-DC Converter,QR-LOCK,<50mW,12W,700V/2200mΩ,250KHz,ESOP7,-0.3~60V
+DK8020AP,QR-Lock GaN AC-DC Converter,QR-LOCK,<50mW,20W,700V/1200mΩ,250KHz,ESOP7,-0.3~60V
+DK8025AP,QR-Lock GaN AC-DC Converter,QR-LOCK,<50mW,25W,700V/800mΩ,250KHz,ESOP7,-0.3~60V
+DK8035AP,QR-Lock GaN AC-DC Converter,QR-LOCK,<50mW,30W,700V/600mΩ,250KHz,ESOP7,-0.3~60V
+DK8607AD,Active Clamp Flyback (ACF) GaN AC-DC Converter,ACF,<50mW,65W,HS 700V/400mΩ+LS 700V/260mΩ,1MHz,DFN8*8,-0.3~26V
+DK8612AD,Active Clamp Flyback (ACF) GaN AC-DC Converter,ACF,<50mW,120W,HS 700V/400mΩ+LS 700V/260mΩ,1MHz,DFN8*8,-0.3~26V
+DK8710AD,Asymmetric Half Bridge (AHB) GaN AC-DC Converter,AHB,<50mW,100W,HS 700V/480mΩ+LS 700V/480mΩ,800KHz,DFN8*8,-0.3~27V
+DK8712AD,Asymmetric Half Bridge (AHB) GaN AC-DC Converter,AHB,<50mW,120W,HS 700V/350mΩ+LS 700V/350mΩ,800KHz,DFN8*8,-0.3~27V
+DK8715AD,Asymmetric Half Bridge (AHB) GaN AC-DC Converter,AHB,<50mW,150W,HS 700V/260mΩ+LS 700V/260mΩ,800KHz,DFN8*8,-0.3~27V
+DK8718AD,Asymmetric Half Bridge (AHB) GaN AC-DC Converter,AHB,<50mW,180W,HS 700V/150mΩ+LS 700V/150mΩ,800KHz,DFN8*8,-0.3~27V
+DK075G,QR-Lock GaN AC-DC Converter,QR-LOCK,<50mW,75W,700V/160mΩ,250KHz,DFN8*8,-0.3~30V
+DK065G,QR-Lock GaN AC-DC Converter,QR-LOCK,<50mW,65W,700V/260mΩ,250KHz,DFN8*8,-0.3~30V
+DK045G,QR-Lock GaN AC-DC Converter,QR-LOCK,<50mW,45W,700V/400mΩ,250KHz,PDFN5*6,-0.3~30V
+DK036G,QR-Lock GaN AC-DC Converter,QR-LOCK,<50mW,36W,700V/400mΩ,250KHz,PDFN5*6,-0.3~30V
+DK025G,QR-Lock GaN AC-DC Converter,QR-LOCK,<50mW,25W,700V/800mΩ,250KHz,PDFN5*6,-0.3~30V
+DK020G,QR-Lock GaN AC-DC Converter,QR-LOCK,<50mW,20W,700V/1200mΩ,250KHz,PDFN5*6,-0.3~30V
+DK012G,QR-Lock GaN AC-DC Converter,QR-LOCK,<50mW,12W,700V/2200mΩ,250KHz,PDFN5*6,-0.3~30V

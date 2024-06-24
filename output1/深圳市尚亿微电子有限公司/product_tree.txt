@@ -1,0 +1,5 @@
+-> root https://www.szsemi.com
+  -> 深圳市尚亿微电子有限公司 https://www.szsemi.com/col.jsp?id=103
+    -> LED 驱动芯片 
+    -> 开关电源管理芯片 
+    -> 消费类芯片 

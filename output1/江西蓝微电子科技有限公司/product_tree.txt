@@ -1,0 +1,72 @@
+-> root http://www.jxlwdz.cn
+  -> 江西蓝微电子科技有限公司【官网】|金基产品|银基产品|铜基产品|铝基产品|电子焊料|特种微细线-江西蓝微电子科技有限公司 http://www.jxlwdz.cn
+    -> 绝缘金丝 
+    -> 金合金丝 
+    -> 键合银丝 
+    -> 键合金丝 
+    -> 铜线自粘性漆包线 
+    -> 超/高张力合金自粘性漆包线 
+    -> 高张力铜包铝自粘性漆包线 
+    -> 铜包铝合金自粘性漆包线 
+    -> 银合金丝 
+    -> 电子焊料 
+    -> 键合铝丝 
+    -> 铜基键合丝 
+    -> 金银丝 
+  -> 金基产品-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/product.php?cid=18
+  -> 银基产品-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/product.php?cid=19
+  -> 铜基产品-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/product.php?cid=20
+  -> 铝基产品-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/product.php?cid=21
+  -> 电子焊料-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/product.php?cid=22
+  -> 特种微细线-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/product.php?cid=23
+  -> 绝缘金丝-金基产品-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=18&id=149
+  -> 金合金丝-金基产品-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=18&id=4
+  -> 键合银丝-银基产品-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=19&id=3
+  -> 键合金丝-金基产品-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=18&id=1
+  -> 铜线自粘性漆包线-特种微细线-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=23&id=176
+    -> 特种微细线 
+  -> 超-高张力合金自粘性漆包线-特种微细线-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=23&id=175
+  -> 高张力铜包铝自粘性漆包线-特种微细线-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=23&id=174
+  -> 铜包铝合金自粘性漆包线-特种微细线-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=23&id=173
+  -> 银合金丝-银基产品-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=19&id=172
+  -> 电子焊料-电子焊料-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=22&id=161
+  -> 铜基键合丝-铜基产品-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=20&id=159
+  -> 金银丝-银基产品-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=19&id=150
+    -> 镀钯合金键合丝 
+    -> 真空焊合金丝 
+    -> 绝缘覆层键合金线 
+    -> 硅铝键合丝 
+    -> 金银合金键合丝 
+    -> 高金合金键合丝 
+    -> 镀金银镧钙合金键合丝 
+  -> 公司产品-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/product.php?cid=3
+  -> 新产品证书-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/product.php?cid=60
+    -> 金银钯合金键合丝 
+    -> 银镧钙合金键合丝 
+  -> 镀钯合金键合丝—江西省新产品证书-新产品证书-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=60&id=169
+  -> 真空焊合金丝—江西省新产品证书-新产品证书-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=60&id=168
+  -> 绝缘覆层键合金线—江西省新产品证书-新产品证书-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=60&id=167
+  -> 硅铝键合丝—2019年新产品证书-新产品证书-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=60&id=117
+  -> 金银合金键合丝—江西省2019年新产品证书-新产品证书-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=60&id=116
+  -> 高金合金键合丝—江西省2018年新产品-新产品证书-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=60&id=98
+  -> 镀金银镧钙合金键合丝—江西省2018年新产品-新产品证书-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=60&id=97
+    -> 镀金银铕合金键合丝 
+    -> 镀金银钯合金单晶 
+    -> 单晶铜漆包线 
+    -> 镀金金银钯合金单晶键合丝 
+    -> 金银钯合金单晶键合丝 
+    -> 镀金铜钯合金单晶键合丝 
+    -> 银钯合金单晶键合丝 
+  -> 公司产品-江西蓝微电子科技有限公司_1 http://www.jxlwdz.cn/product.php?cid=3&page=2
+  -> 金银钯合金键合丝—江西省2018年新产品-新产品证书-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=60&id=96
+  -> 银镧钙合金键合丝—江西省2017年新产品-新产品证书-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=60&id=90
+  -> 新产品证书-江西蓝微电子科技有限公司_1 http://www.jxlwdz.cn/product.php?cid=60&page=2
+  -> 新产品证书-江西蓝微电子科技有限公司_2 http://www.jxlwdz.cn/product.php?cid=60&page=3
+    -> 镀金银钯合金单晶键合丝 
+  -> 镀金银铕合金键合丝—江西省2017年新产品-新产品证书-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=60&id=89
+  -> 镀金银钯合金单晶—江西省2015年新产品证书-新产品证书-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=60&id=75
+  -> 单晶铜漆包线—江西省2015年新产品证书-新产品证书-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=60&id=74
+  -> 镀金金银钯合金单晶键合丝—江西省2014年新产品证书-新产品证书-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=60&id=67
+  -> 金银钯合金单晶键合丝—江西省2014年新产品证书-新产品证书-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=60&id=65
+  -> 镀金铜钯合金单晶键合丝—江西省新产品证书-新产品证书-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=60&id=31
+  -> 银钯合金单晶键合丝—江西省2013年新产品证书-新产品证书-江西蓝微电子科技有限公司 http://www.jxlwdz.cn/productshow.php?cid=60&id=30

@@ -1,0 +1,29 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+天津蓝海微科技有限公司,寄生参数提取网表中器件一致性比较工具,http://www.microscapes.com.cn/services.html,plumb,无,root,1906551877,无,0,无,0,无,0
+天津蓝海微科技有限公司,PDK 图形化 QA 验证软件,http://www.microscapes.com.cn/services.html,Barde,无,root,1906551877,无,0,无,0,无,0
+天津蓝海微科技有限公司,RCX Runset 图形化 QA 验证软件,http://www.microscapes.com.cn/services.html,Tuta,无,root,1906551877,无,0,无,0,无,0
+天津蓝海微科技有限公司,版图验证工具规则文件的自动生成与自动验证软件,http://www.microscapes.com.cn/services.html,Scout,无,root,1906551877,无,0,无,0,无,0
+天津蓝海微科技有限公司,Drc Code 调试分析工具,http://www.microscapes.com.cn/services.html,Xcal,无,root,1906551877,无,0,无,0,无,0
+天津蓝海微科技有限公司,Memory Compiler 软件,http://www.microscapes.com.cn/services.html,Memory Compiler,无,root,1906551877,无,0,无,0,无,0
+天津蓝海微科技有限公司,ESD/Lach up 规则的版图自动检查工具,http://www.microscapes.com.cn/services.html,Helmet,无,root,1906551877,无,0,无,0,无,0
+天津蓝海微科技有限公司,版图保护电路的自动布线工具及自动检测工具,http://www.microscapes.com.cn/services.html,Shield,无,root,1906551877,无,0,无,0,无,0
+天津蓝海微科技有限公司,IP 数据管理工具,http://www.microscapes.com.cn/services.html,ICFM,无,root,1906551877,无,0,无,0,无,0
+天津蓝海微科技有限公司,版图显示工具（VGDS）和 DRC 错误分析工具（VGE）,http://www.microscapes.com.cn/services.html,VGDS&VGE,无,root,1906551877,无,0,无,0,无,0
+天津蓝海微科技有限公司,Wafer 上精确计算 Die 个数工具,http://www.microscapes.com.cn/services.html,DPW,无,root,1906551877,无,0,无,0,无,0
+天津蓝海微科技有限公司,晶圆级 3D 堆叠/2.5D 堆叠中网表合并工具,http://www.microscapes.com.cn/services.html,annex,无,root,1906551877,无,0,无,0,无,0
+天津蓝海微科技有限公司,Runset 培训教材,http://www.microscapes.com.cn/training_mainpage.html,无,对 Foundry 新入职工程师进行培训，帮助其较快投入项目开发工作，减少内部培训时间，提高理论和实践水平，提升解决公司技术难题和提升公司技术水平的潜力,root,1906551877,无,0,无,0,无,0
+天津蓝海微科技有限公司,Tuta 工具,http://www.microscapes.com.cn/product2.html,无,针对 RCX Runset 进行 QA 的图形化验证工具，主要功能包括 RCX Runset 精度分析和优化，具有自动化程度高、支持先进工艺验证、采用并行处理技术、生成多种报告文件等优势,root,1906551877,SiteMap|SiteMap,8508770395,无,0,无,0
+天津蓝海微科技有限公司,版图验证工具规则文件的自动生成与自动验证软件 Scout,http://www.microscapes.com.cn/product3.html,无,全球首次提出“工艺规则的形式化描述语言”概念，可自动生成可变参数的复杂器件版图，引入“图形关系”概念描述复杂图形的几何拓扑关系，应用于 Foundry 和 IC 设计公司开发版图验证规则文件的自动工具，提高手工绘制版图效率，进行工艺移植，生成参数化单元版图等,root,1906551877,SiteMap|SiteMap,8508770395,无,0,无,0
+天津蓝海微科技有限公司,XCal,http://www.microscapes.com.cn/product12.html,无,针对一个典型的 DRC Code，可图形化显示其 layer 的调用及依赖关系，加速用户分析优化 Code；自动分析 Drc code 的逻辑关系，生成树形结构图，以便更快理解其含义，加速 scout rule 的书写；针对自然语言描述的规则，自动提取 Drc Rule 注释语句中自然语言中的 layer 信息，并与 Drc code 中的 layer 进行比较，分析其一致性；运行 Drc 工具之后，可快速分析和定位 Drc code 的错误；具有 Layer 一致性比较功能，可自动查找出任意一个 Drc Rule 用到的所有原始层 layer，自动比较 Drc Rule 的原始层 layer 与 Test Pattern 的 layer 是否完全一致，自动比较 Drc Rule 的原始层与 Design Rule 中描述的原始层是否一致；与 RVE 工具结合可自动调试分析，自动生成 Drc code 中用到的中间变量 layer 的输出结果，并显示其错误结果，帮助用户快速定位 Drc code 的错误,root,1906551877,SiteMap|SiteMap,8508770395,无,0,无,0
+天津蓝海微科技有限公司,Memory Compiler 解决方案,http://www.microscapes.com.cn/product11.html,无,根据用户需求提供 Memory Compiler 的完整解决方案，提供开发端工具和客户端工具，用户可进行 Memory 架构的二次开发，开发工具简单易学，IC 设计工程师可自定义结构，自己编写脚本实现，大大提高了开发的灵活性和效率，特别适用于需要不断进行结构调整的渐进式开发。该方案提供 gds 和 cdl 匹配的自动验证功能，以及自动检查仿真结果的合理性，并提供 ROM Compiler 解决方案，以及提供独立工具 Liberty Generator,root,1906551877,SiteMap|SiteMap,8508770395,无,0,无,0
+天津蓝海微科技有限公司,产品型号,http://www.microscapes.com.cn/product1.html#,无,无,root,1906551877,SiteMap|SiteMap,8508770395,无,0,无,0
+天津蓝海微科技有限公司,功能描述,http://www.microscapes.com.cn/product1.html#,针对 PDK 进行 QA 的图形化验证工具，主要功能包括 Pcell QA 和 LVS Runset QA。Pcell QA 可自动验证 Pcell 的 LVS 正确性、仿真参数、连接性、CDF 参数、不同版本差异、ERC 正确性、Layer 一致性等；LVS Runset QA 可自动验证 LVS 的器件 property、仿真参数、连接性、ERC 正确性、Layer 一致性、Lvs Code 语法等。此外，Barde 工具还具有自动化程度高、连接关系自动生成与验证、独特的分组参数设置功能、支持先进工艺验证、验证流程支持主流工具、采用并行处理技术、生成多种报告文件等优势。,无,root,1906551877,SiteMap|SiteMap,8508770395,无,0,无,0
+天津蓝海微科技有限公司,PDK 的定制开发及服务,http://www.microscapes.com.cn/product7.html,无,提供版图验证规则文件 DRC/LVS/RCX 的主流 EDA 工具的 Runset 定制开发服务；支持特殊器件如液晶面板器件的版图验证规则书写，规则可保证寄生参数提取的精度；提供 Pcell 开发的定制服务，支持复杂器件如 RF 电路的螺旋电感 Pcell 书写,root,1906551877,SiteMap|SiteMap|IT,1568418250,无,0,无,0
+天津蓝海微科技有限公司,寄生参数提取网表中器件一致性比较工具 plumb,http://www.microscapes.com.cn/product14.html,无,自动对 RC 网表进行等价处理，把寄生电容自动开路，把寄生电阻自动短路，然后与原始的 cdl 网表进行 LVS 比较，以检查 RC 提取工具的网表输出是否与原始 cdl 网表等价。支持标准的 spice 格式网表，有命令行和图形界面两种启动方式。,root,1906551877,SiteMap|SiteMap|IT,1568418250,无,0,无,0
+天津蓝海微科技有限公司,版图自动检查工具,http://www.microscapes.com.cn/product4.html,Helmet,针对典型的 ESD/Latch up 规则，定制化开发版图自动检查工具，覆盖全面，有效提高芯片成品率和可靠性；基于主流 EDA 工具主流 DRC 工具系统，在其基础上进行接口二次开发，实现其欠缺功能，满足各种复杂需求；针对不同工艺，提供全套 ESD/Latch up 的规则文件及检查工具的完整工具包，用户可一键式操作达到检查目的，方便快捷；提供灵活脚本语言，用户可配置不同参数达到不同工艺的检查,root,1906551877,SiteMap|SiteMap|IT,1568418250,无,0,无,0
+天津蓝海微科技有限公司,版图保护电路的自动布线工具及自动检测工具 Shield,http://www.microscapes.com.cn/product5.html,无,为了防止芯片被物理攻击，在有效电路的版图中，自动加入保护层金属（Shield），该保护层的信号线受到持续的监控，保证芯片的安全不被破坏。在版图保护电路的自动检测工具中，针对连通性规则、均匀性规则、绕障碍规则、覆盖率规则、DRC 规则和安全性规则等进行全面检查，保证保护电路的高效合理性。支持保护电路单个信号线、多个信号线的自动布线。区域内可以有不同的障碍，布线工具可自动绕开障碍。用户可指定区域的任意位置和任意层次，进行保护电路的自动布线。用户可指定信号线的任意位置的起始点和终止点，进行保护电路的自动布线。自动进行保护电路的覆盖率检查、连通性检查、安全强度检查。,root,1906551877,SiteMap|SiteMap|IT,1568418250,无,0,无,0
+天津蓝海微科技有限公司,IP 数据管理软件,http://www.microscapes.com.cn/product10.html,无,采用 3 个独立的数据区域，分别是 IP 版本库，IP 实体库，IP 使用工作区，严格保证数据的一致性。项目管理与 IP 管理有机结合，有利于项目管理者充分把握项目动态。与主流 EDA 工具的数据库紧密结合，实现 EDA 数据的自动版本及权限管理。通过红绿灯机制检查不同数据区域的数据一致性。数据加锁解锁效率高，上千个 IP cell 数据的加锁解锁仅用时几秒。自动对 IP 进行完整性和一致性检查。,root,1906551877,SiteMap|SiteMap|IT,1568418250,无,0,无,0
+天津蓝海微科技有限公司,vgds 工具,http://www.microscapes.com.cn/product13.html,无,不需要工艺文件即可打开任意的 gds 文件显示，显示速度快，可显示层次化调用关系,root,1906551877,SiteMap|SiteMap|IT,1568418250,无,0,无,0
+天津蓝海微科技有限公司,vge 工具,http://www.microscapes.com.cn/product13.html,无,兼容主流 DRC 报错文件，可快速定位错误,root,1906551877,SiteMap|SiteMap|IT,1568418250,无,0,无,0
+天津蓝海微科技有限公司,Die,http://www.microscapes.com.cn/product8.html,无,通过迭代法，精确计算 Die 的个数；可设置多种控制参数；通过数据拟合，推测工艺参数，达到准确预测,root,1906551877,SiteMap|SiteMap|IT,1568418250,无,0,无,0
+天津蓝海微科技有限公司,晶圆级 3D 堆叠/2.5D 堆叠中网表合并工具,http://www.microscapes.com.cn/product15.html,无,完成 3DIC 中独立网表的自动连接，保证连接的正确性，支持 3 种连接方式：netname 连接方式、CCI 连接方式和 DEF 连接方式,root,1906551877,SiteMap|SiteMap|IT,1568418250,无,0,无,0

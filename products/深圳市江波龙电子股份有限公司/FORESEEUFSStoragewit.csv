@@ -1,0 +1,21 @@
+产品网址：https://www.longsys.com/products/embedded-storage/embedded-storage/ufs.html
+产品结构：root->FORESEEUFSStoragewithNewUFS2.2Features|Longsys
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|FORESEE UFS Storage|无|配备 UFS2.2 特性，如 HBP 和写增强器，为移动设备提供大容量存储；具有低功耗特点，确保智能手机电池续航；支持 UFS2.2 新特性，如写增强器和 HBP；使移动设备在存储性能上可与 PC 相媲美|
+
+Product Series,NAND Flash,Capacity,Package,Operating Temperature,Protocol and Interface,Operating Voltage,Size
+UFS,TLC,64GB,FBGA153,-25℃~85℃,UFS2.2,1.8V/3.3V,11.5*13*1.0mm
+UFS,TLC,128GB,FBGA153,-25℃~85℃,UFS2.2,1.8V/3.3V,11.5*13*1.0mm
+UFS,TLC,256GB,FBGA153,-25℃~85℃,UFS2.2,1.8V/3.3V,11.5*13*1.0mm
+UFS,TLC,512GB,FBGA153,-25℃~85℃,UFS2.2,1.8V/3.3V,11.5*13*1.0mm
+
+
+Number,Platform
+01,MediaTek
+02,Qualcomm
+03,UNISOC
+04,Allwinner
+05,Rockchip
+（  The product supports mainstream platforms and only part of it is shown here.  ）,（  The product supports mainstream platforms and only part of it is shown here.  ）

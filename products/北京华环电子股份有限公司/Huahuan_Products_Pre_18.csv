@@ -1,0 +1,62 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=56&ncid=59&deid=154
+产品结构：root->Huahuan_Products_PrecisionTimeProtocol(PTP)GrandmasterClock_H20PN-181seriesPTNCPE
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|PTN CPE|H20PN-181-2GX.4GE-P、H20PN-181-2GX.2GE.4E1-SP|在高性能 L2 交换服务的基础上，提供维护和部署的便利性、多业务支持、运营商级 OAM 管理、可靠的保护机制、QoS 策略、安全机制等服务优化措施，同时具有出色的可扩展性和可靠性。支持最新的运营商以太网属性，兼容 IEEE、ITU 和 MEF 标准。应用分组传输技术，支持完整的 OAM 功能，便于网络管理和维护。支持多种业务，包括 E-Line、E-LAN、E-Tree、CES 和 SDH。具有 QoS 管理、可靠保护机制、以太网 OAM 协议、实时 SLA 网络性能检测、基于 PWE3 协议框架的电路仿真等功能。|
+
+Device name,GE optical interface,GE electrical interface,E1 interface,NM port,CONSOLE  Port
+H20PN-181-2GX.4GE-P,"2, SFP","4,RJ45",0,"1,RJ45",1
+H20PN-181-2GX.2GE.4E1-SP,"2, SFP","2,RJ45",4,"1,RJ45",1
+
+
+Item,Descriptions
+Remote management,"In-band and out-band NM interface setup, telnet client and console port, SNMP V2C/V3, EzView management."
+IEEE 802.1ah,"Dying gasp, link fault, remote loopback"
+Ethernet OAM,"IEEE 802.1ag, Y.1731, performance monitoring and fault management, including CC/LB/LT/AIS/LCK/MD/MA/MEP/RME/fault ACK, frame delay measurement, RFC2544 test and in-service test."
+RMON,"Remote monitoring, 1/2/3/9 group MIB"
+Upgrade,Through FTP/TFTP
+Statistics,"Based on port, RFC1213 standard error frame statistics"
+SyncE,"External clock input, Ethernet line input, CES service input, local clock, external clock 2Mbit/2MHz, G.8262, G.781, using SSM-QL transmitting clock quality by ESMC"
+MPLS-TP,"MPLS-TP FLOW, MPLS-TPLSP, MPLS-TP TUNAL, CLEAR FLOW STATISTICS, MPLS-LSP OAM,MPLS-TP PW OAM, MPLS-TP segment OAM, protection switch"
+Link aggregation,"Six load sharing algorithms: S-MAC, D-MAC, S-MAC+D-MAC, S-IP, D-IP and S-IP+D-IP."
+VLAN,"IEEE 802.1Q, most 4094, access/trunk/hybrid mode"
+Q in Q,"Basic and flexible VLAN, support VLAN switch, outer TPID and inner TPID"
+Congestion control,"WRED(Weighted Random Early Detection), discarding ratio 1%-100%"
+ARP,Static and dynamic
+DHCP client,IPv4
+DDM,"Monitor optical port connection status and quality and the intelligent optical module’s emission optical power, reception optical power, temperature, work voltage, laser offset current, and other parameters."
+Flow control,IEEE802.3x under full-duplex
+LLDP,"Based on IEEE 802.1ab, NMS can quickly master topology and changing conditions of layer-2 network."
+SYSLOG,System log server information and table
+ELPS,G.8031
+ERPS,"G.8032,wrapping and steering protection revert, ≤50ms"
+QoS,"CoS priority, DSCP priority, SP/WRR/DRR/SP+WRR/SP+DRR"
+ACL,"IP ACL, MAC ACL,USER ACL,FILTER,ACL MAP"
+SLA,"L2/L3 SLA, L2 network latency/jitter testing, L2 discarding testing"
+
+
+10/100/1000 Base-Tx Interface,10/100/1000 Base-Tx Interface.1
+Interface specifications,"Complying with IEEE 802.3, IEEE-802.3u, IEEE 802.1Q, IEEE 802.1p"
+Interface rate,10M/100M/1000M
+Operation mode,"Auto-negotiation, 1000M full-duplex, 1000M half-duplex, 100M full-duplex, 100M half-duplex, 10M full-duplex, 10M half-duplex"
+Interface connector,RJ-45 socket
+Interface number,24
+100/1000Base-Fx Interface,100/1000Base-Fx Interface
+Interface specifications,"Complying with IEEE 802.3, IEEE-802.3z, IEEE 802.1Q, IEEE 802.1p, IEEE802.1ad, IEEE802.1d, IEEE802.1w, IEEE802.3ad, IEEE802.3ah, IEEE802.1ag, Y1731"
+Interface rate,100M/1000M
+Operation mode,"Auto-negotiation, 1000M full-duplex, 100M full-duplex"
+Interface connector,SFP socket
+Interface number,12
+Transmission wavelength and distance,Determined by optical module
+Power Supply,Power Supply
+Voltage,AC~220V / DC -48V(-36V~-72V)
+Power consumption,Power consumption
+Consumption,≤30W
+Environment,Environment
+Working temperature,-5ºC ~55ºC
+Storage temperature,-40ºC ~70ºC
+Relative humidity,10%~90%(non-condensing)
+Device,Device
+Size,W×D×H (mm):170×285×44
+Weight,≤1.3kg

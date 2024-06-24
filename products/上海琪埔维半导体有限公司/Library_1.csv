@@ -1,0 +1,28 @@
+产品网址：http://www.chipways.com/product_MCU_XL6601-.html
+产品结构：XL6601->SCH&PCB->Library
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|车规级 MCU|XL6601 系列|是同时满足 AEC-Q100 和 ISO 26262 ASIL B 功能安全标准的高性能汽车级微控制器芯片。具有 32 位低功耗和高性能 MCU，ARM Cortex-M3 内核，主频 104MHz，工作温度范围-40C~125℃，工作电压范围 2.7V~5.5V，2*24 通道可配置 8/10/12 位 ADC，高达 4MB Flash(ECC)，64KB SRAM(ECC)，支持多种通讯接口，满足严格的汽车 AEC-Q100Grade1 可靠性标准要求，满足 ISO 26262 ASIL-B 汽车功能安全等级标准要求，支持 AUTOSAR4.0 以上版本。应用目标为仪表系统、车身控制器、空调系统、车灯系统、后视镜控制、储能系统|
+
+
+
+
+名称/描述
+Chipways XL6601 Flyer
+
+
+名称/描述
+L6601 Series_Datasheet_Rev15
+
+
+名称/描述
+Reference Manual
+
+
+名称/描述
+Chipways Code Editor 使用手册  XL6601 _Hardware_Development_Guide_V1.1  XL6601 Freedemo board user manual
+
+
+名称/描述
+XL6601 Flash加解密及保护  C2E如何生成和调用静态库  XL6601系统时钟配置  XL6601如何读取flash数据  Flash模拟eeprom例程使用说明  C2E Hands On

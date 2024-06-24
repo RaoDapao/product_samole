@@ -1,0 +1,22 @@
+产品网址：http://icpc.cn/cms/item/view?table=product&id=37
+产品结构：当前位置：首页->产品与服务->龙芯->主板->CPCI-6001加固型龙芯3A2000-3A3000CPCI
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|CPCI-6001 加固型龙芯 3A2000-3A3000 CPCI 主板|CPCI-6001-RA、CPCI-6001-RC|是一款应用在各种恶劣环境下的嵌入式主板，能够在高强度冲击、震动和宽温等工业现场依然能够表现出优异的性能。遵循 CPCI PICMG 2.16 规范，以龙芯 3A2000 四核处理器搭配 AMD RS780E 桥片为核心，为用户提供了丰富的数据和应用接口。16GB/8GB DDR3 内存极好的提高了系统稳定性，风冷环境下 CPCI-6001-RA 散热性能表现优异，同时 CPCI-6001-RC 应用在导冷环境下。均能在宽温-40°C~+60°C 环境下长时间稳定工作。具有国产龙芯 3A 四核处理器、高通用性、加固型设计、适应高强度冲击、震动和宽温等工业现场、16GB/8GB DDR3 内存、丰富的外设接口、提供了一个 PMC/XMC 插槽扩展 I0 应用等特点。应用于军工应用、国家安全、需要自主化设计的重要项目|
+
+
+
+
+处理器/桥片,龙芯四核处理器3A2000/3A3000、AMD RS780E
+内存,16GB/8GB双通道DDR3内存颗粒
+板载接口,"以太网：CPCI-6001-RC:4个千兆网接口后出  CPCI-6001-RA:2个千兆网接口后出，3个前出，  前出网口其中的2个可以切换到后出，后出可达4个千兆网接口  SATA：支持2.5' SSD  串口：CPCI-6001-RA:前出1个调试RS232可以切换到后出，  后出可达2个RS232, 2个可配置RS232/RS422接口  CPCI-6001-RC:后出2个RS232,2个可配置RS232/RS422接口  CPCI总线：兼容PICMG 2.0 Rev 3.0, 32-bit/33MHz及5V, 3V3 VIO系统插槽位  PMC/XMC：一个32-bit/33Mhz导冷PMC插槽，Pn1-Pn2或者风冷XMC插槽 支持x8PCIeXMC卡、支持后出DVI-I  I/O后出:J3: 2x SATA, 1x DVI-I, 2x ETH acc. PICMG 2.16  J4: 8x GPIO, 6x USB2.0, 1x HDA, 1x DVI, 2x ETH, status led  J5: 1xDVI,1x VGA, 2x USB2.0, 4 serial port, status"
+前面板,3x千兆以太网，其中两路可以切换到CPCI后出，2x USB2.0接口  1xRJ45串口、1xVGA显示接口、状态指示灯
+监控,板载看门狗、板载RTC、IPMC支持温度/电压监控
+IPMI,BMC
+安全性,支持BIOS加密
+兼容性/规范,"CompactPCI® Core Specification PICMG 2.0 Rev. 3.0. Designed to meet or exceed:  » Safety:UL 1950, UL 94, CSA 22.2 No 950, EN 60950, IEC 950  » EMI/EMC: EN 55022/EN 55024, EN 50081-1/EN 6100-6-2"
+尺寸/重量,"233 x160x 20.5 mm, 6U, 4HP/800g"
+软件支持,PMON3.3、VMLINUX 2.6.32/3.0.10>中标麒麟4.0/5.0
+功耗,Maximum: up to 40 watts (quad-core)
+工作环境,"VITA 47 V2/OS1, -40°C to +60°C"

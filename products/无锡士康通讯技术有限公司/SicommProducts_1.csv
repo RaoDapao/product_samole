@@ -1,0 +1,6 @@
+产品网址：http://www.sicommtech.com/zh/products/sct3258.html
+产品结构：root->SicommProducts
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|数字对讲机基带信号处理芯片|SCT3258|支持 DPMR、DMR、NXDN、DCR 等多种制式，在外部 codec 的配合下，完成符合 DPMR/DMR 等标准的整个物理层、数据链路层以及大部分呼叫控制层的功能|

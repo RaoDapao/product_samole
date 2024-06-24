@@ -1,0 +1,26 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+广东华芯微特集成电路有限公司,32 位 MCU,https://www.synwit.cn/applicationscheme/173.html,SWM34SRET6,基于 ARM 安谋科技“星辰”STAR-MC1 内核，最高主频可达 150MHz 时钟，提供内置 512KB Flash，64KB SRAM，8MB SDRAM，具有 RGB565 或 MPU I8080 接口方式驱动 TFT-LCD 模组的 LCDC 模块，同时用于有丰富的接口可拓展，集显示和控制于一体,root,1906551877,86盒子|官网,8400348191,无,0,无,0
+广东华芯微特集成电路有限公司,屏驱 MCU,https://www.synwit.cn/chanpinbaozhuangxinxi,SWM19S,无,root,1906551877,官网,2353274229,无,0,无,0
+广东华芯微特集成电路有限公司,屏驱 MCU,https://www.synwit.cn/chanpinbaozhuangxinxi,SWM32S,无,root,1906551877,官网,2353274229,无,0,无,0
+广东华芯微特集成电路有限公司,屏驱 MCU,https://www.synwit.cn/chanpinbaozhuangxinxi,SWM34S,无,root,1906551877,官网,2353274229,无,0,无,0
+广东华芯微特集成电路有限公司,屏驱 MCU,https://www.synwit.cn/chanpinbaozhuangxinxi,SWM166,无,root,1906551877,官网,2353274229,无,0,无,0
+广东华芯微特集成电路有限公司,电机 MCU,https://www.synwit.cn/chanpinbaozhuangxinxi,SWM201,无,root,1906551877,官网,2353274229,无,0,无,0
+广东华芯微特集成电路有限公司,电机 MCU,https://www.synwit.cn/chanpinbaozhuangxinxi,SWM211,无,root,1906551877,官网,2353274229,无,0,无,0
+广东华芯微特集成电路有限公司,电机 MCU,https://www.synwit.cn/chanpinbaozhuangxinxi,SWM341,无,root,1906551877,官网,2353274229,无,0,无,0
+广东华芯微特集成电路有限公司,家电 MCU,https://www.synwit.cn/chanpinbaozhuangxinxi,SWM260,无,root,1906551877,官网,2353274229,无,0,无,0
+广东华芯微特集成电路有限公司,家电 MCU,https://www.synwit.cn/chanpinbaozhuangxinxi,SWM241,无,root,1906551877,官网,2353274229,无,0,无,0
+广东华芯微特集成电路有限公司,其他 MCU,https://www.synwit.cn/chanpinbaozhuangxinxi,SWM181,无,root,1906551877,官网,2353274229,无,0,无,0
+广东华芯微特集成电路有限公司,其他 MCU,https://www.synwit.cn/chanpinbaozhuangxinxi,SWM190,无,root,1906551877,官网,2353274229,无,0,无,0
+广东华芯微特集成电路有限公司,其他 MCU,https://www.synwit.cn/chanpinbaozhuangxinxi,SWM320,无,root,1906551877,官网,2353274229,无,0,无,0
+广东华芯微特集成电路有限公司,其他 MCU,https://www.synwit.cn/chanpinbaozhuangxinxi,SWM341,无,root,1906551877,官网,2353274229,无,0,无,0
+广东华芯微特集成电路有限公司,屏驱 MCU,https://www.synwit.cn/chanpinbaozhuangxinxi625,SWM19S、SWM32S、SWM34S、SWM166,无,root,1906551877,官网,2353274229,无,0,无,0
+广东华芯微特集成电路有限公司,电机 MCU,https://www.synwit.cn/chanpinbaozhuangxinxi625,SWM201、SWM211、SWM341,无,root,1906551877,官网,2353274229,无,0,无,0
+广东华芯微特集成电路有限公司,家电 MCU,https://www.synwit.cn/chanpinbaozhuangxinxi625,SWM260、SWM241,无,root,1906551877,官网,2353274229,无,0,无,0
+广东华芯微特集成电路有限公司,其他 MCU,https://www.synwit.cn/chanpinbaozhuangxinxi625,SWM181、SWM190、SWM320、SWM341,无,root,1906551877,官网,2353274229,无,0,无,0
+广东华芯微特集成电路有限公司,华芯微特电机调试上位机,https://www.synwit.cn/aboutus/427.html,无,方便用户进行配置参数，界面根据功能不同进行模块划分；通配性强，可调参数丰富并且不同电机不同硬件具备好的适配性；快捷实现电机的调试，可根据反馈数据曲线，在线调试动态参数；其他特点具备烧录功能，反馈数据记录报表功能,root,1906551877,官网,2353274229,无,0,无,0
+广东华芯微特集成电路有限公司,华芯微特屏驱上位机,https://www.synwit.cn/aboutus/427.html,无,提供方便、快捷、所见即所得的界面布局功能，以及细致的样式属性控制，用于帮助用户快速搭建基于 LVGL7.11、uGUI 的 UI 界面。下位机则在 LVGL、uGUI 的基础上，实现了一个 UI 框架，提供高效的 UI 数据管理，并且充分利用 SWM34S 芯片的图形加速功能，硬件资源丰富（支持 SWM166、SWM341、SWM19S），对 UI 的执行速度和效率进行了深入优化,root,1906551877,官网,2353274229,无,0,无,0
+广东华芯微特集成电路有限公司,自研上位机低 EZOC 代码应用,https://www.synwit.cn/aboutus/427.html,无,简单对象化控制（Easy Objectification Control，EZOC），在 UI Creator 软件上提供了丰富的 UI 设计功能，通过对特定对象的控制域写入参数，用户可以轻松地修改界面元素的外观、状态、内容、样式，触发界面元素的特定功能，以及触发全局系统的特定功能。这使得开发人员无需深入编写大量代码，而是通过简单的操作就能实现逻辑构建和功能实现,root,1906551877,官网,2353274229,无,0,无,0
+广东华芯微特集成电路有限公司,屏驱开发板,https://www.synwit.cn/applicationscheme/323.html,无,"板载 4.3""电容触摸屏、16MB SPI Flash、Micro SD 卡槽、按键、LED、SWD 接口、用户接口等资源，适用于屏幕板做界面交互逻辑，其他控制板与屏幕板进行数据通讯的场景",root,1906551877,屏驱开发板|官网,7252150122,无,0,无,0
+广东华芯微特集成电路有限公司,摩托车液晶仪表盘,https://www.synwit.cn/applicationscheme/172.html,无,LCD 参数：4.3″，分辨率 800*480；快速响应速度及发动机转速信息；支持多种风格的表盘信息,root,1906551877,摩托车液晶仪表盘|官网,9309395137,无,0,无,0
+广东华芯微特集成电路有限公司,电动助力车仪表盘,https://www.synwit.cn/applicationscheme/324.html,无,LCD 参数：5″，分辨率 376*960；快速响应速度及其他信息，无卡顿无闪烁；支持多种风格的表盘信息,root,1906551877,电动助力车仪表盘|官网,4307240728,无,0,无,0
+广东华芯微特集成电路有限公司,空调控制板,https://www.synwit.cn/applicationscheme/328.html,无,集成了 Wi-Fi 通信模块，实现远程操控；支持传统红外遥控；后台管理软件有设定温度值、设定风速值、运行模式、风门状态及告警信息等,root,1906551877,空调控制板|官网,5323757156,无,0,无,0

@@ -1,0 +1,7 @@
+-> root https://www.huaxintouch.cn
+  -> 高精度E方案 https://www.huaxintouch.cn/Product/index
+    -> 高精度 E 方案 
+    -> 高精度 E 方案 
+    -> 经典 G 方案 
+    -> 经典 G 方案 
+  -> 高精度E方案_1 https://www.huaxintouch.cn/Product/index/cat_id/2

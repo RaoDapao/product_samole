@@ -1,0 +1,42 @@
+-> root http://xmpcba.com
+  -> 小铭能承接什么样类型的产品加工？ http://xmpcba.com/home/questions/info/id/55/catId/54.html
+    -> PCBA 贴片加工服务 
+    -> SMT 贴片生产线 
+    -> 自研 MES、OA、CRM 系统 
+  -> PCBA产品案例 http://www.xmpcba.com/home/product/index/catId/51.html
+    -> 华为宽带载波模块 
+    -> 集中器模块 
+    -> 海外单相载波模块 
+    -> 海外三相载波板 
+    -> 三相载波模块 
+    -> 工控信号处理板 
+    -> 智能报警器 
+    -> 智能警报器 
+    -> 智能警报主板 
+    -> 工控板 PCBA 
+    -> VR 主板研发打样 
+    -> 导航主板 
+    -> 通讯设备 PCBA 
+    -> 网络通讯设备 PCBA 
+    -> 安防行业 PCBA 
+    -> 工控 PCBA 
+    -> 新能源 PCBA 
+    -> 医疗美容控制板 
+    -> 医疗主板 
+    -> 医疗电子 PCBA 
+    -> 智能调控器 
+    -> 智能调控器 2 
+    -> 智能调控器 3 
+    -> 汽车电子 PCBA 
+    -> 充电桩 PCBA 
+  -> PCBA产品案例_1 http://xmpcba.com/home/product/index/catId/51.html
+    -> 工控板 PCBA（正面） 
+    -> 工控板 PCBA（反面） 
+    -> 导航主板（正面） 
+    -> 导航主板（反面） 
+    -> 通讯 pcba 
+  -> 首页 
+    -> 小铭产品品质基准 https://www.xmpcba.com/home/xdzn/info/id/794/catId/66.html
+    -> SMT 快速贴片 
+    -> 元器件配送 
+    -> 小铭云打样服务 

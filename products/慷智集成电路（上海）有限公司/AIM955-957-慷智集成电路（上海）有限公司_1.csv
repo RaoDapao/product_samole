@@ -1,0 +1,6 @@
+产品网址：https://en.aimicron.com/Products/18
+产品结构：root->AIM955/957-慷智集成电路（上海）有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|INTELLIGENT AUTOMOTIVE HIGH-DEFINITION AUDIO AND VIDEO TRANSMISSION SERDES CHIPSETS|AIM955/957|8 路 LVDS 数据+1 路时钟通道视频输入转换为 AHDL-II 单/双通道串行输出；单链路高达 150MHz 像素时钟 1080P RGB888；双链路高达 300MHz 像素时钟 3KP RGB888；多种功能模式用于系统应用；快速 GPIO 支持 SPI 控制信号通过；支持通过单根同轴电缆或屏蔽双绞线（STP）传输高速视频、双向控制数据；可调节扩频输入以降低 EMI；能够进行长距离传输；多个 GPIO 更好地支持触摸屏应用；支持 7.1 高清环绕声音频应用；视频/控制数据的错误检测/纠正（ECC/CRC）；内置自测（BIST）和片上视频模式发生器用于系统诊断；1.8V 和 1.1V 电源，IO 支持 1.8V 和 3.3V；AEC-Q100 2 级合格和 ESD 保护；64 引脚（9mm*9mm）QFN 封装|

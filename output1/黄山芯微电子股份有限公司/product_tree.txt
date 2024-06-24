@@ -1,0 +1,17 @@
+-> root http://www.hsxinwei.com
+  -> 首页 
+    -> 产品中心 
+      -> 功率半导体器件产品 http://www.hsxinwei.com/index.php/product/111
+        -> 塑封器件 http://www.hsxinwei.com/index.php/product/113
+        -> 功率模块 http://www.hsxinwei.com/index.php/product/112
+      -> 功率半导体材料产品 http://hsxinwei.com/index.php/product/107
+        -> 铜金属化陶瓷片 http://www.hsxinwei.com/index.php/product/108
+        -> 抛光片 http://www.hsxinwei.com/index.php/product/109
+        -> 外延片 http://www.hsxinwei.com/index.php/product/110
+      -> 功率半导体芯片产品 http://hsxinwei.com/index.php/product/101
+        -> 晶闸管 http://www.hsxinwei.com/index.php/product/102
+        -> MOSFET http://www.hsxinwei.com/index.php/product/103
+        -> 带电极芯片 http://www.hsxinwei.com/index.php/product/115
+        -> 整流二极管 http://www.hsxinwei.com/index.php/product/104
+        -> 肖特基二极管 http://www.hsxinwei.com/index.php/product/105
+    -> 产品应用 http://hsxinwei.com/index.php/page/12

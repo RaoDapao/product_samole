@@ -1,0 +1,6 @@
+-> root http://www.xinrandianzi.com
+  -> 产品中心-无锡芯冉电子科技有限公司 http://www.xinrandianzi.com/cpzx
+    -> IGBT 单管 
+    -> IPM 
+    -> IGBT 模块 
+    -> IC 驱动 

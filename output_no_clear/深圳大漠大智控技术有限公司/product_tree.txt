@@ -1,0 +1,15 @@
+-> root https://www.dmduav.com
+  -> 室内|室外无人机编队-定制化无人机编队- https://www.dmduav.com/list-79.html
+  -> 室外V3编队无人机-室外编队产品-深圳大 https://www.dmduav.com/show-85-750.html
+  -> Products–Bestdroneli https://en.dmduav.com/products
+    -> Outdoor formation UAV 
+    -> Indoor formation UAV 
+    -> Outdoor Kongming lantern UAV 
+    -> Outdoor V3 formation UAV 
+  -> OutdoorformationUAV– https://en.dmduav.com/product-category/light-show-drone
+  -> IndoorformationUAV–B https://en.dmduav.com/product-category/indoor-lighting-drone
+  -> OutdoorV3formationUA https://en.dmduav.com/product/outdoor-v2-formation-uav
+  -> OutdoorKongminglante https://en.dmduav.com/product/outdoor-lantern-drone-light-show
+  -> OutdoorformationUAV–_1 https://en.dmduav.com/product-category/light-show-drone/#
+  -> IndoorformationUAV–B_1 https://en.dmduav.com/product-category/indoor-lighting-drone/#
+  -> OutdoorKongminglante_1 https://en.dmduav.com/product/outdoor-lantern-drone-light-show/#

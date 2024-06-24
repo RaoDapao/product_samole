@@ -1,0 +1,28 @@
+产品网址：https://www.longsys.com/products/embedded-storage/embedded-storage/lpddr.html
+产品结构：root->FORESEELPDDRStorage|BetterPerformance|Longsys
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|FORESEE LPDDR 存储|无|具有高性能和低功耗的特点，适用于智能手机和平板电脑等便携式设备|
+
+Product Series,Capacity,Package,Operating Temperature,Protocal/Interface,Bit Width,Operating Voltage,Data Rate,Size
+LPDDR,16Gbit,200Ball,-25℃~85℃,LPDDR4/4X,x32,1.1V/0.6V,3733Mbps,10*14.5*1.0mm
+LPDDR,16Gbit,200Ball,-25℃~85℃,LPDDR4/4X,x32,1.1V/0.6V,3733Mbps,10*14.5*1.0mm
+LPDDR,24Gbit,200Ball,-25℃~85℃,LPDDR4/4X,x32,1.1V/0.6V,3733Mbps,10*14.5*1.0mm
+LPDDR,24Gbit,200Ball,-25℃~85℃,LPDDR4/4X,x32,1.1V/0.6V,3733Mbps,10*14.5*1.0mm
+LPDDR,32Gbit,200Ball,-25℃~85℃,LPDDR4/4X,x32,1.1V/0.6V,3733Mbps,10*14.5*1.0mm
+LPDDR,32Gbit,200Ball,-25℃~85℃,LPDDR4/4X,x32,1.1V/0.6V,3733Mbps,10*14.5*1.0mm
+LPDDR,48Gbit,200Ball,-25℃~85℃,LPDDR4/4X,x32,1.1V/0.6V,3733Mbps,10*14.5*1.0mm
+LPDDR,64Gbit,200Ball,-25℃~85℃,LPDDR4/4X,x32,1.1V/0.6V,4266Mbps,10*14.5*1.0mm
+LPDDR,64Gbit,200Ball,-25℃~85℃,LPDDR4X,x32,0.6V,4266Mbps,10*14.5*1.0mm
+LPDDR,32Gbit,315Ball,-25℃~85℃,LPDDR5,x32,0.5V/0.3V,5500Mbps,12.4*15*1.0mm
+LPDDR,48Gbit,315Ball,-25℃~85℃,LPDDR5,x32,0.5V/0.3V,5500Mbps,12.4*15*1.1mm
+LPDDR,64Gbit,315Ball,-25℃~85℃,LPDDR5,x32,0.5V/0.3V,5500Mbps,12.4*15*1.1mm
+
+
+Number,Platform
+01,MediaTek
+02,Qualcomm
+03,Allwinner
+04,Rockchip
+（  The product supports mainstream platforms and only part of it is shown here.  ）,（  The product supports mainstream platforms and only part of it is shown here.  ）

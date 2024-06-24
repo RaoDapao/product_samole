@@ -1,0 +1,15 @@
+产品网址：http://www.edadoc.com/product/fixture
+产品结构：root->提供通用标准夹具服务-一博
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|测试夹具|U.2-SATA/SAS|小于 2.5 寸硬盘宽度，保证测试时与 DUT 无结构妨碍；满足 8639 接口 SATA/SAS 一致性测试；8639 转 SMA 接口，测试夹具采用 SMA 连接器通过 cable 与仪器连接|
+|测试夹具|8639-PCIe4|可切换 PCIe 传输速率功能，信号从 GEN1,GEN2,GEN3,GEN4 不同码型循环切换；尺寸与 2.5 寸硬盘宽度相同|
+|测试夹具|USB3.1 type A|满足 USB3.1 Type A 接口的信号一致性测试；向下兼容 USB3.0、USB2.0 信号一致性测试|
+|测试夹具|HDMI 2.1|用于 HDMI2.1 Type A 接口的主板信号质量测试/Cable 性能测试；可向下兼容 HDMI1.4 信号质量测试|
+|测试夹具|10/100/1000M 网口|满足 RJ45 接口 10M/100M/1000M 信号一致性测试|
+|测试夹具|SFP28 HCB/MCB|用于 SFP28 接口信号测试/光模块信号测试；满足 IEEE802.3 定义的 HCB/MCB 要求|
+|测试夹具|Interposer|用于 DDR4 x8/x16、DDR3 x8/x16、LPDDR4_200pin、Nand Flash_132pin 颗粒端信号测试；封装对封装|
+|测试夹具|QSFP28 HCB/MCB|用于 QSFP28 接口信号测试/光模块信号测试；满足 IEEE802.3 定义的 HCB/MCB 要求|
+|测试夹具|M.2 CBB_PCIe Gen5|用于测试 M.2 接口的硬盘 PCIe Gen5 及 SATA 信号测试；Key 位:Key M；可调整速率；满足 PCIe Gen5 一致性测试要求；MMPX Female 接口，需 MMPX Male-to-2.92mm 的 cable 与仪器连接进行测试|
+|测试夹具|M.2 CLB_PCIe Gen4|用于 M.2 接口的主板 PCIe Gen4 信号测试、阻抗测试；由 Riser 和 CLB 两块板组成；Key 位:Key M；满足 2280 的尺寸对结构的要求；满足 PCIe Gen4 信号一致性测试要求；可调整速率；2.92mm Female 接口，无需转接头，直接用 2.92mm Male cable 与仪器连接进行测试，更牢固耐用|

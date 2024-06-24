@@ -1,0 +1,12 @@
+产品网址：https://www.longsys.com/products/embedded-storage/micro-storage/automotive-ufs.html
+产品结构：root->-StorageProductsSolution–LongsysacquiredLEXAR&Foreseee
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Automotive UFS|无|高可靠性和长使用寿命，确保设备长时间全天候工作；兼容主流平台；支持 LDPC 算法、Write Booster、HPB、紧急停电保护、FFU 升级、FBA 数据加速等功能|
+
+Series,NAND Flash,Capacity,Package,Operating Temperature,Protocol,Interface,Voltage,Size
+Automotive UFS,3D NAND,64GB,FBGA153,-40℃~105℃,UFS 2.1,up to HS-GEAR3 2Lane,VCC：3.3V ；VCCQ2：1.8V,11.5*13 mm
+Automotive UFS,3D NAND,128GB,FBGA153,-40℃~105℃,UFS 2.1,up to HS-GEAR3 2Lane,VCC：3.3V ；VCCQ2：1.8V,11.5*13 mm
+Automotive UFS,3D NAND,128GB,FBGA153,-40℃~105℃,UFS 3.1,up to HS-GEAR4 2Lane,VCC：2.5V ；VCCQ2：1.2V,11.5*13 mm
+Automotive UFS,3D NAND,256GB,FBGA153,-40℃~105℃,UFS 3.1,up to HS-GEAR4 2Lane,VCC：2.5V ；VCCQ2：1.2V,11.5*13 mm

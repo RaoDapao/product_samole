@@ -1,0 +1,14 @@
+产品网址：http://en.golden-chip.com/product-1.aspx
+产品结构：root->全部产品_GoChipElectronicTechnology(Shanghai)Co.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|线性霍尔集成电路|无|电压输出随磁感应强度精确变化，具有低温漂、高灵敏度、良好线性度、宽工作温度范围（-40~+150℃）等特点，可应用于电子节气门、游戏手柄、非接触式电位器、水泵液位检测、黑色金属探测器、电流检测、位移检测、智能家居等领域|
+
+Model,Magnetic field range,Voltage range,Working current,Sensitivity(typ)),linear error,Package form,Download
+GH1321,-420~420GS,3.0~7.5VDC,5.0～8.7mA,5.0mV/GS,1%,TO-92S/SOT-23-3L/SOT--89-3L,Download
+GH1495A,-670~670GS,4.5~10.5VDC,5.0～8.7mA,3.125mV/GS,1%,TO-92S/SOT-89-3L,Download
+GH1496B,-840~840GS,4.5~10.5VDC,5.0～8.7mA,2.5mV/GS,1%,TO-92S/SOT-89-3L,Download
+GH39F,-1000~1000GS,3.0~6.5VDC,2.0～9.0mA,1.8mV/GS,0.70%,TO-92S/SOT-23-3L,Download
+GH1194E,-900~900GS,3.0~7.5VDC,5.5～9.5mA,2.0mV/GS,0.70%,TO-92S/SOT-23-3L,Download
+GH3562,-900~900GS,1.6~3.6VDC,2.35～2.75mA,4.5mV/GS 2.05mV/GS,1.20%,DFN2020-6L/DFN1616-3L,Download

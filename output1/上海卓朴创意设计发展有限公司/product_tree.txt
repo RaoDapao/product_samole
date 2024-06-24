@@ -1,0 +1,12 @@
+-> root http://geopoe.com
+  -> 首页 
+    -> 卓朴观点 
+          -> 黄金本能营销战略 
+          -> 名镇竹香黄金口号创作 
+          -> 中茶·海堤茶业“一杯好茶”战略产品打造 
+          -> “黄金本能”营销战略爆破行动 
+        -> 犀旺——开创专业运动营养饮料新赛道- https://www.geopoe.com/GeopoeViews/353.html
+    -> 卓朴方法 
+      -> 营销增长工具 
+        -> 5X产品盈利矩阵- https://www.geopoe.com/marketing-growth-system-tools/46.html
+        -> 产品形象力5环- https://www.geopoe.com/marketing-growth-system-tools/47.html

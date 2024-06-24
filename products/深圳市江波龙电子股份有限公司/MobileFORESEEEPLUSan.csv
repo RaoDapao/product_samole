@@ -1,0 +1,21 @@
+产品网址：https://www.longsys.com/products/mobile-memory/mobile-memory/memory-card.html
+产品结构：root->MobileFORESEEEPLUSandIndustrialMemoryCardSeries|Longsys
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Memory Card|无|分为商业 EPLUS 系列和工业系列，具有自开发固件、多项核心技术专利，广泛应用于安防监控、工业控制、汽车电子、医疗等领域|
+|EPLUS V10 microSD|无|用于电子教育、故事机、可穿戴设备等消费电子产品，支持快速读写响应，解决音频中断和失真问题，低功耗固件架构解决便携式设备的电池寿命问题|
+|EPLUS V30 SD/microSD|无|用于消费安防监控、行车记录仪、狩猎相机、运动相机等消费电子领域，支持 24 小时不间断视频输入，解决安防监控无法循环覆盖、停止录制和丢帧问题，V30 视频速度等级，支持 FHD、4K、8K 高清录制|
+|Industrial SD/microSD|无|用于工业安防监控摄像机、车载监控摄像机等工业应用，高耐久性和可靠性，支持 24 小时不间断视频输入和多通道监控视频输入，智能 GC 算法优化，保持长期数据输入稳定|
+|Industrial WT SD/microSD|无|用于汽车电子、工业控制等宽温、高可靠性要求的工业规模应用市场，严格的生产工艺，全面提高产品质量和可靠性，高可靠性，在恶劣环境下稳定运行|
+|Industrial pSLC microSD|无|用于高质量标准的应用，采用 NAND Flash pSLC 模式全面提高性能和耐久性，经过高低温冲击筛选，全面提高产品质量和可靠性|
+
+Product Series,PN,NAND Flash,Capacity,Interface,Speed Grade,Transmission Speed,Durability,Operating Temperature,Storage Temperature,Thermal Shock
+EPLUS V10 microSD,FC5NC1XXXG-E,TLC,8GB/16GB/32GB,UHS-I,C10 U1 V10 A1,Up to 100MB/s,/,-25℃~85℃,-40℃~85℃,/
+EPLUS V30 microSD,FC5NE2XXXG-E,TLC,32GB/64GB  128GB/512GB,UHS-I,C10 U3 V30 A2,Up to 100MB/s,/,-25℃~85℃,-40℃~85℃,/
+EPLUS V30 SD,FC8NE0XXXG-E,TLC,16GB/32GB/64GB  128GB/512GB,UHS-I,C10 U3 V30,Up to 100MB/s,/,-25℃~85℃,-40℃~85℃,/
+Industrial microSD,FC5MXXXXXG-I,Industrial TLC,8GB/16GB/32GB/64GB  128GB/256GB/512GB,UHS-I,C10 U1 V10 A1/A2  C10 U3 V30 A1/A2,Up to 100MB/s,3000 P/E,-25℃~85℃,-40℃~85℃,-25℃~85℃
+Industrial SD,FC8MXXXXXG-I,Industrial TLC,8GB/16GB/32GB/64GB  128GB/256GB/512GB,UHS-I,C10 U1 V10  C10 U3 V30,Up to 100MB/s,3000 P/E,-25℃~85℃,-40℃~85℃,-25℃~85℃
+Industrial WT microSD,FC5RXXXXXG-R,MLC/Industrial TLC,8GB/16GB/32GB/64GB  128GB/256GB,UHS-I,C10 U1 V10 A1/A2  C10 U3 V30 A1/A2,Up to 100MB/s,5000/3000 P/E,-40℃~85℃,-40℃~85℃,-40℃~85℃
+Industrial WT SD,FC8RXXXXXG-R,MLC/Industrial TLC,8GB/16GB/32GB/64GB  128GB/256GB,UHS-I,C10 U1 V10  C10 U3 V30,Up to 100MB/s,5000/3000 P/E,-40℃~85℃,-40℃~85℃,-40℃~85℃
+Industrial pSLC microSD,FC5SE2XXXG-S,pSLC,8GB/16GB/32GB  64GB/128GB,UHS-I,C10 U3 V30 A2,Up to 100MB/s,30000 P/E,-40℃~85℃,-40℃~85℃,-40℃~85℃

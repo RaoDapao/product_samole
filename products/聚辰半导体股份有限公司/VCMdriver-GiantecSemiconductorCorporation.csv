@@ -1,0 +1,23 @@
+产品网址：https://en.giantec-semi.com/yqmd/164
+产品结构：root->VCMdriver-GiantecSemiconductorCorporation
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|VCM driver|无|VCM 驱动器是智能手机摄像头模块的重要组成部分。在智能手机和拍照需求不断增长的推动下，VCM 驱动器市场稳步增长，并将随着多摄像头和具有自动对焦功能的前置摄像头的更多应用而继续增长。Giantec 不仅是全球 VCM 驱动器市场中全系列 VCM 驱动器产品的供应商之一，也是高性能 EEPROM 产品和 VCM 驱动器产品的唯一制造商。凭借稳定算法、参数自检和自动偏移校准等技术能力的开发，致力于不断进行技术改进和升级。并凭借强大的客户忠诚度，旨在挖掘包括闭环和 OIS（光学图像稳定）VCM 驱动器产品在内的更高附加值市场，以提高市场份额和品牌知名度。|
+
+P/N,Driver Type,Direction,Memory,VDD,Output Current,DAC,IO Voltage,I2C,I2C.1,I2C.2,Package,Status
+P/N,Driver Type,Direction,bit,V,mA,bit,V,Address for VCM,Address for EE,KHz,,Status
+GT9772,Open,Uni,,2.3 ~ 3.6,120,10,1.8,0x18,,1000,WLCSP6,MP
+GT9772H,Open,Uni,,2.3 ~ 3.6,120,10,1.8,0x1C,,1000,WLCSP6,MP
+GT9764BA,Open,Bi,,2.3 ~ 3.6,100,10,1.8,0x18,,1000,WLCSP6,MP
+GT9764BE,Open,Bi,,2.3 ~ 3.6,130,10,1.8,0x18,,1000,WLCSP6,MP
+GT9769,Open,Uni,80K,2.3 ~ 3.3,100,10,1.8,0x18/0x1C,0xA0/0xB0,1000,WLCSP6,MP
+GT9769C,Open,Uni,80K,2.3 ~ 3.3,120,10,1.8,0x18/0x1C,0xA0/0xB0,1000,WLCSP6,MP
+GT9778,Open,Bi,128K,2.3 ~ 3.6,100/130,10,1.8,Configurable,Configurable,1000,WLCSP6,MP
+
+
+P/N,Driver Type,Control Type,Application,Memory,VDD,Output Current,ADC,DAC,IO Voltage,I2C,Package,Status
+P/N,Driver Type,Control Type,Application,Byte,V,mA,bit,bit,V,I2C,Package,Status
+GT9786,Linear,Close-Loop,CLAF,32,2.6~3.6,150,12,12,1.8,1000kHz,WLCSP6,MP
+GT9786V,Linear,Close-Loop,OIS&CLAF,96,2.6~3.6,150mA,14,13,1.2/1.8,3400kHz,WLCSP6,Sample
+GT9881,Linear/PWM,Close-loop,OIS&CLAF,128K,2.6~3.6,200mA,14,14,1.8,1000kHz,WLCSP44,Sample

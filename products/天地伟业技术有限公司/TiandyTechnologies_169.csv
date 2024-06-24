@@ -1,0 +1,24 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/1128.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Streaming Media Server|TC-S3444|缓存：16GB<br>接口参数：4 个以太网端口，2 个 HDMI 端口，2 个 USB2.0 端口，2 个 USB3.0 端口<br>带宽：访问带宽 2048Mbps，转发带宽 2048Mbps|
+
+Controller,Unnamed: 1
+Processor,64-bit multi-core processor
+Cahce,The standard configuration is 16GB with four DDR4 memory slots
+Operating System,openEuler
+Interface Parameter,
+Network Interface,4 gigabit ethernet ports
+Video Interface,2 HDMI ports
+Hard Disk,Built-in SSD system disk  Supports four 1T to 8T hard disks
+Disk Type,"Supports 2.5""or 3.5"" SATA"
+USB Interface,2 front-end USB2.0 ports; 2 rear USB 3.0 ports
+Bandwidth,•  Access bandwidth: 2048Mbps  •Forwarding bandwidth: 2048Mbps  •Access IP: 2000 Access Channels: 4000(Tiandy Protocol)  •Access IP: 1000 Access Channels: 1000(Onvif Protocol)
+General Norm,
+Power Supply,AC  1  00V~AC240V; 50Hz
+Power,250W
+Operating Temperature,5°C~40°C
+Operating Humidity,10%~90% (No Condensation)
+Dimension,67  0  mm(L)×433mm(W)×43.5mm(H)

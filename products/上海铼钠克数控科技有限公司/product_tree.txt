@@ -1,0 +1,52 @@
+-> root http://www.lynuc.cn
+  -> 首页 
+    -> 产品中心 
+      -> 新品发布 http://www.lynuc.cn/product.aspx?cid=425
+        -> N5E- http://www.lynuc.cn/pro_detail.aspx?cid=425&id=121
+        -> N3E- http://www.lynuc.cn/pro_detail.aspx?cid=425&id=119
+        -> D4驱动器- http://www.lynuc.cn/pro_detail.aspx?cid=425&id=108&
+        -> N3- http://www.lynuc.cn/pro_detail.aspx?cid=425&id=107&
+        -> U3E-U5E-U6A- http://www.lynuc.cn/pro_detail.aspx?cid=425&id=93&
+        -> N5- http://www.lynuc.cn/pro_detail.aspx?cid=425&id=75&
+        -> 机械臂控制系统R6- http://www.lynuc.cn/pro_detail.aspx?cid=425&id=78&
+        -> 高速运动模组- http://www.lynuc.cn/pro_detail.aspx?cid=425&id=77&
+        -> D3驱控一体机- http://www.lynuc.cn/pro_detail.aspx?cid=425&id=76&
+      -> 数控系统 http://www.lynuc.cn/product.aspx?cid=426&
+        -> N5E-_1 http://www.lynuc.cn/pro_detail.aspx?cid=426&id=115
+        -> N5-_1 http://www.lynuc.cn/pro_detail.aspx?cid=426&id=105&
+        -> U3E-U5E-U6A-_1 http://www.lynuc.cn/pro_detail.aspx?cid=426&id=94&
+        -> U5- http://www.lynuc.cn/pro_detail.aspx?cid=426&id=68&
+        -> N3-_1 http://www.lynuc.cn/pro_detail.aspx?cid=426&id=66&
+      -> 操作面板 http://www.lynuc.cn/product.aspx?cid=427&
+        -> 15英寸嵌入式电容触控显示器- http://www.lynuc.cn/pro_detail.aspx?cid=427&id=118
+        -> 15寸铝合金上下分段面板- http://www.lynuc.cn/pro_detail.aspx?cid=427&id=114
+        -> 12寸铝合金上下分段面板- http://www.lynuc.cn/pro_detail.aspx?cid=427&id=113
+        -> 12寸薄膜上下分段面板- http://www.lynuc.cn/pro_detail.aspx?cid=427&id=112
+        -> 10.4寸薄膜上下分段面板（竖款）- http://www.lynuc.cn/pro_detail.aspx?cid=427&id=111&
+      -> 直线电机 http://www.lynuc.cn/product.aspx?cid=428&
+        -> 有芯 http://www.lynuc.cn/pro_detail.aspx?cid=428&id=70&
+        -> 无芯 http://www.lynuc.cn/pro_detail.aspx?cid=428&id=69&
+      -> 驱动器 http://www.lynuc.cn/product.aspx?cid=429&
+        -> 铼钠克PWM-L系列 http://www.lynuc.cn/pro_detail.aspx?cid=429&id=124
+        -> 沙迪克SPWMAMP- http://www.lynuc.cn/pro_detail.aspx?cid=429&id=99&
+      -> 工件样品 http://www.lynuc.cn/product.aspx?cid=430&
+        -> 汽车活塞- http://www.lynuc.cn/pro_detail.aspx?cid=430&id=106&
+        -> 维纳斯模型- http://www.lynuc.cn/pro_detail.aspx?cid=430&id=79&
+        -> 五轴叶轮- http://www.lynuc.cn/pro_detail.aspx?cid=430&id=81&
+        -> 组合曲面02- http://www.lynuc.cn/pro_detail.aspx?cid=430&id=88&
+        -> 镜面圆- http://www.lynuc.cn/pro_detail.aspx?cid=430&id=85&
+        -> 高光倒角- http://www.lynuc.cn/pro_detail.aspx?cid=430&id=86&
+        -> 米老鼠模型- http://www.lynuc.cn/pro_detail.aspx?cid=430&id=80&
+        -> 矿泉水瓶底座- http://www.lynuc.cn/pro_detail.aspx?cid=430&id=84&
+        -> 人脸模型- http://www.lynuc.cn/pro_detail.aspx?cid=430&id=83&
+        -> 接头工件- http://www.lynuc.cn/pro_detail.aspx?cid=430&id=82&
+        -> 组合曲面01- http://www.lynuc.cn/pro_detail.aspx?cid=430&id=87&
+        -> 浮雕龙模型- http://www.lynuc.cn/pro_detail.aspx?cid=430&id=89&
+      -> IO模块 http://www.lynuc.cn/product.aspx?cid=452&
+        -> PRIO- http://www.lynuc.cn/pro_detail.aspx?cid=452&id=122
+        -> R5A- http://www.lynuc.cn/pro_detail.aspx?cid=452&id=117
+        -> IOEM- http://www.lynuc.cn/pro_detail.aspx?cid=452&id=116
+    -> 新闻中心 
+      -> 公司新闻 
+        -> 铼钠克数控系统N3ME、N3RE产品正式发布- http://www.lynuc.cn/news_detail.aspx?cid=404&id=175
+        -> 新产品N5发布会召开- http://www.lynuc.cn/news_detail.aspx?cid=404&id=177

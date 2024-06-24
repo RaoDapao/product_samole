@@ -1,0 +1,41 @@
+-> root https://www.lynxi.com
+  -> 产品中心类脑芯片处理器 
+    -> 领启®KA200(-S)系列 
+      -> 领启®KA200(-S)_1 https://www.lynxi.com/lq2001/18.html
+      -> HE200_1 https://www.lynxi.com/lq2001/1.html
+        -> 类脑计算模组 
+        -> 类脑计算加速卡 
+        -> 类脑计算服务器 
+        -> 类脑计算边缘产品 
+        -> 软件开发平台 
+  -> 产品中心类脑计算模组 
+    -> 领启®KA200(-S)系列 
+      -> HM100_1 https://www.lynxi.com/lq2002/4.html
+  -> 产品中心类脑计算加速卡 
+    -> 领启®KA200(-S)系列 
+      -> HP100_1 https://www.lynxi.com/ka2003/12.html
+      -> HP201_1 https://www.lynxi.com/ka2003/20.html
+      -> HP300_1 https://www.lynxi.com/ka2003/21.html
+  -> 产品中心类脑计算服务器 
+    -> 领启®KA200(-S)系列 
+      -> SL400_1 https://www.lynxi.com/lingqiKA2001/36.html
+      -> SL600_1 https://www.lynxi.com/lingqiKA2001/35.html
+      -> SL800_1 https://www.lynxi.com/lingqiKA2001/14.html
+  -> 产品中心类脑计算边缘产品 
+    -> 领启®KA200(-S)系列 
+      -> HS102H_1 https://www.lynxi.com/lingqisupsupKA200xilie/37.html
+      -> HS100-L_1 https://www.lynxi.com/lingqisupsupKA200xilie/33.html
+      -> HS100_1 https://www.lynxi.com/lingqisupsupKA200xilie/27.html
+      -> HS110_1 https://www.lynxi.com/lingqisupsupKA200xilie/26.html
+      -> HS140_1 https://www.lynxi.com/lingqisupsupKA200xilie/34.html
+  -> 产品中心软件开发平台 
+    -> 软件开发平台_1 https://www.lynxi.com/LynOS/22.html
+    -> 类脑芯片领启®KA200(-S) 
+    -> 类脑计算模组 HM100 
+    -> 类脑计算边缘产品 HS140 
+    -> 类脑计算加速卡 HP300 
+    -> 类脑计算服务器 SL800 
+  -> 灵汐科技与黄河信产完成产品兼容性互认证，携手推动国产化生态建设！_1 https://www.lynxi.com/shengtaihezuo/52.html
+  -> 网络架构 
+    -> 算力集中部署_1 https://www.lynxi.com/chanpinjishu/45.html
+  -> 灵汐科技出席【科学城·云推介——为好产品发声】直播现场，共话后摩尔时代颠覆性技术_1 https://www.lynxi.com/qiyezixun/14.html

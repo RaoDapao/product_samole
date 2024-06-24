@@ -1,0 +1,10 @@
+产品网址：https://www.longsys.com/products/embedded-storage/embedded-storage/umcp.html
+产品结构：root->FORESEEuMCPStorage|CompactandLight|Longsys
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|FORESEE uMCP Storage|uMCP|Compact and light-weighted smart devices are enabled by FORESEE uMCP Storage, featuring high performance, better storage and lower power usage.|
+
+Product Series,Protocol,Capacity,DRAM Frequency,Package,Operating Temperature,Size,Operating Voltage
+uMCP,UFS2.2+LPDDR4x,64GB+32Gb,2133MHz,254ball,-25℃~85℃,11.5*13*1.0 mm,DRAM:VDD1=1.8V;VDD2=1.2V;VDDQ=0.6V  UFS:VCC: 2.7~3.6V;VCCQ2:1.7~1.95V
+uMCP,UFS2.2+LPDDR4x,128GB+32Gb,2133MHz,254ball,-25℃~85℃,11.5*13*1.0 mm,DRAM:VDD1=1.8V;VDD2=1.2V;VDDQ=0.6V  UFS:VCC: 2.7~3.6V;VCCQ2:1.7~1.95V

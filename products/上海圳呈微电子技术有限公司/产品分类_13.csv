@@ -1,0 +1,10 @@
+产品网址：https://www.unisim-micro.com/ProductInfoCategory?categoryId=523313,523314,523315,523316,523318,523319,523321,523324,523325,523329,528578,528579
+产品结构：root->产品分类
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Bluetooth 5.1 Audio SoC|ZC3200|结合了无线音频所需的特性和功能于单个 SoC，支持蓝牙 5.0 的 BDR/EDR 和 LE 标准等|
+|Bluetooth 4.2 Stereo Headset SoC|ZC3190|高度集成的蓝牙音频流处理和音频播放器 SoC|
+|Bluetooth 4.2 Audio SoC|ZC3180|高度集成的蓝牙音频流处理和音频播放器 SoC，提供低成本、低功耗、灵活且更强大的蓝牙音频解决方案|
+|Multimedia processor SoC|ZC2980|高度集成蓝牙音频和 MP3 播放器的多媒体处理器 SoC，提供低成本、低功耗、灵活且更强大的蓝牙音频解决方案|
+|Voice Processor SoC|ZC7906|高性能、低功耗的语音处理器 SoC，具有回声消除和噪声抑制功能，可用于不同应用的 LQFP48 和 QFN40|

@@ -1,0 +1,11 @@
+产品网址：https://www.axera-tech.com/Gong/1.html
+产品结构：首页->产品中心->爱芯元速——M55H
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|爱芯元速——M55H|无|超高性价比一体机方案。产品亮点：<br>·智能驾驶场景优化。自研创新的爱芯智眸 AI-ISP 图像处理技术，全面大幅提升复杂环境感知能力；<br>·通用性强。自研爱芯通元混合精度 NPU，支持低位宽混合精度，提供高性能工具链，满足 AI 算法持续演进，算力性能可达同级产品的两倍；<br>·安全可靠。完整支持数据闭环的国产 ADAS 芯片，支持国密级安全技术，实现硬件级数据加密；<br>·超低功耗。超低功耗的 ADAS 国产芯片，全面优化散热设计。|
+
+AI-ISP,"AI-HDR,AI-3DNR,AI-RLTM",NPU,8 TOPs
+CV-Engine,丰富的CV算子,CPU,"Quad A7,1.0GHz,7.6 KDMPS"
+编解码,"编码 4K@30fps,硬件打码",硬件接口,"3x4Lane MIPI CSI Rx,2x MIPI DSI/CSI Tx,1xRGMII"
+存储,"32bit 14.9GB/s LPDDR4/4x,eMMC,SDcard",封装大小,14.0x14.0mm

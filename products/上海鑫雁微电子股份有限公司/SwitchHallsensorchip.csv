@@ -1,0 +1,27 @@
+产品网址：http://en.golden-chip.com/product.aspx?classid=440
+产品结构：root->SwitchHallsensorchip_GoChipElectronicTechnology(Shanghai)Co.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Switch Hall sensor chip|无|内部采用睡眠机制降低功耗，平均功耗可达 uA 极；具有低功耗、高灵敏度、强抗干扰能力等典型特点；典型应用于智能三表、智能门锁、智能开关控制、空气净化器等小家电、扫地机器人、TWS 耳机充电仓等|
+
+Model,Magnetic switch point,Package form,Temperature range,Voltage range,Output current,Download
+GH1104,+50/+250GS,TO-92S/SOT23-3L/SOT23/SOT-89B,4.0~10.0mA,3.8Vdc~30.0Vdc,-40℃~150℃,Download
+GH143F,+160/+110GS,TO-92S/SOT-23-3LTO-92S,4.0~10.0mA,3.8~30.0VDC,-40℃~150℃,Download
+GH1132,+20/+200GS,TO-92S/SOT-23-3LTO-92S,5.5~10.0mA,3.8~30.0VDC,-40℃~150℃,Download
+GH1210,±45/±30GS,TO-92S/SOT-23-3L,2.0~5.0mA,2.8~24.0VDC,-40℃~150℃,Download
+GH1230,±30/±20GS,T0-92S/SOT23-3L,2.0~5.0mA,2.8~24.0VDC,-40℃~150℃,Download
+GH3144,+20/+240GS,TO-92S,3.0~8.0mA,3.8~30.0VDC,-40℃~85℃,Download
+GH1220,+120/+90G,TO-92S/SOT-23T0-92S/SOT23-3L/SOT23,2.0~5.0mA,2.8~24.0VDC,-40℃~125℃,Download
+GH1881,±25GS,TO-92S/SOT-23-3L,2.3~4.5mA,3.2~24.0VDC,40℃~125℃,Download
+GH1511A,±90GS,SOT-89B,3.5~9.0mA,3.8~30.0VDC,-40℃~150℃,Download
+GH1512,±60GS,TO-92S,4.0~6.0mA,2.5~30.0VDC,-30℃~150℃,Download
+GH177,±100GS,TO-92S,3.2~7.5mA,3.5~24.0VDC,-40℃~125℃,Download
+GH141F028,±120GS,TO-92S,3.5~9.0mA,3.8~30.0VDC,-40℃~150℃,Download
+GH41HA,±190GS,TO-92S,3.5~9.0mA,3.8Vdc~30.0Vdc,-40℃~150℃,Download
+GH1187,±100GS,TO-92S,3.2~7.5mA,3.8Vdc~30.0Vdc,-40℃~150℃,Download
+GH1122,±25GS,TO-92S,-40℃~125℃,2.0~5.0mA,3.0~24.0VDC,Download
+GH1120,±30GS,SIP-3L(TO-92S)/SC59(SOT23-3L),-40℃~125℃,2.0~5.0mA,3.5~24.0VDC,Download
+GH1713,±45GS,TO-92S,-40℃~150℃,2.5~4.5mA,3.8~70.0VDC,Download
+GH1715,±45GS,TO-92S,-40℃~150℃,2.5~4.5mA,3.8~70.0VDC,Download
+GH1248,±30/±20GS,TO-92S/SOT-23-3L,-40℃~85℃,5.0~20mA,1.8~5.5VDC,Download

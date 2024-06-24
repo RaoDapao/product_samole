@@ -1,0 +1,2 @@
+-> root http://listenai.com
+  -> 聆思 https://www.listenai.com/products/chips/csk6

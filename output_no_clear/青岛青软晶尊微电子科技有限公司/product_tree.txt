@@ -1,0 +1,6 @@
+-> root http://www.qstsking.com
+  -> 产教融合产品_青岛青软晶尊微电子科技有限 http://qstsking.com/cjrhcp.html
+    -> 集成电路产教融合实践平台 
+    -> 集成电路设计实验系统 
+    -> 集成电路制造仿真平台 
+    -> 集成电路封装测试实验平台 

@@ -1,0 +1,21 @@
+产品网址：https://www.indiemicro.com/cn/archives/product/ind86202
+产品结构：root->英迪芯微
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|血糖计 SOC 解决方案|IND86202|包含高效的 32 位 ARM M0 内核微处理器，集成 128KB flash 及 16KB SRAM、实时时钟、振荡器、休眠模式时钟、辅助时钟、看门狗定时器；高性能模拟前端可实现快速高精确度电化学测量，具备低校准要求；集成电源管理系统可实现 3V 电池或 5V USB 供电，集成充电泵产生 4.5V 电压供给 LCD 驱动；还集成多种接口，如 LCD 显示驱动、USB1.1 接口、UART、I2C、SPI 接口及 40 个 GPIO|
+
+参数名,参数值
+微处理器,ARM M0 32-Bit MCU
+Flash,128kB
+RAM,16kB
+GPIO,40
+模数转换（ADC）,1x12位
+数模转换（DAC）,2x14位 （HS) 2x12位（LS）
+PWM,6x16位
+USB,1xUSB1.1
+LCD驱动,4x32段/6x30段
+其他参数,"1xUART,1xI2C,1xSPI"
+供电范围,2.2-3.3V
+工作温度范围,-40C ~ +85C
+芯片封装,12x12 100pins QFN

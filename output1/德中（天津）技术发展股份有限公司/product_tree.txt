@@ -1,0 +1,52 @@
+-> root https://dct-china.cn
+  -> 产品视频-德中（天津）技术发展股份有限公 https://dct-china.cn/index/cate/index/cid/373.html
+    -> DirectLaser P 系列 直接激光电路结构成型设备 
+    -> DirectLaser S 系列 激光精密切割设备 
+    -> DirectLaser M 系列 陶瓷及精密金属激光加工设备 
+    -> DirectLaser U 系列 激光多功能微加工设备 
+    -> DirectLaser D 系列 激光精密钻孔设备 
+    -> StencilMat 系列 激光精密模板加工设备 
+    -> InfoLaser 系列 精密激光打标设备 
+    -> StencilCheck 系列 钢网检测设备 
+    -> 电路板实验室打样设备 
+    -> HybriDo 实验室激光机械微加工系统 
+    -> FreeDo 激光机械测量多功能微加工系统 
+    -> DL 系列 直接激光电路板打样设备 
+    -> DM 系列 直接机械电路板打样设备 
+    -> CS 系列 超声波/兆声波清洗系统 
+    -> MP 系列 多层板压合机 
+    -> LA 系列 贴膜机 
+    -> TP 系列 孔金属化设备 
+    -> BR 系列 刷板机 
+    -> EX 系列 曝光机 
+    -> DES 系列 显影/蚀刻/去膜设备 
+    -> WT 系列 实验室清洗水处理设备 
+    -> 数据处理软件 CircuitCAM 7 
+    -> 设备驱动软件 DreamCreaTor 3 
+    -> 电子设计及仿真 EDA 软件 
+  -> 直接制造远赴非洲，助力先进PCB制作技术 https://dct-china.cn/index/article/index/aid/1879.html
+    -> 激光精密加工设备 
+    -> 激光精密加工设备 
+    -> 激光精密加工设备 
+    -> 激光精密加工设备 
+    -> 激光精密加工设备 
+    -> 激光精密加工设备 
+    -> 激光精密加工设备 
+    -> 激光精密加工设备 
+    -> 电路板制作成套设备 
+    -> 电路板制作成套设备 
+    -> 电路板制作成套设备 
+    -> 电路板制作成套设备 
+    -> 电路板制作成套设备 
+    -> 电路板制作成套设备 
+    -> 电路板制作成套设备 
+    -> 电路板制作成套设备 
+    -> 电路板制作成套设备 
+    -> 电路板制作成套设备 
+    -> 电路板制作成套设备 
+    -> 电路板制作成套设备 
+    -> 工业软件 
+    -> 工业软件 
+    -> 工业软件 
+  -> 电控系统产品总监-德中（天津）技术发展股 https://dct-china.cn/index/article/index/aid/1645.html
+  -> 产品视频-德中（天津）技术发展股份有限公_1 http://www.dct-china.cn/index/cate/index/cid/373.html

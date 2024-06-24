@@ -1,0 +1,24 @@
+产品网址：https://www.giantec-semi.com/fzxx
+产品结构：您的当前位置：首页->服务支持->产品支持->封装信息
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|EEPROM 芯片|无|无|
+|NOR Flash 芯片|无|无|
+|音圈马达驱动芯片|无|无|
+|智能卡芯片|无|无|
+
+Package Type,Code,Dimensions,MSL,Qty per Tube,Qty per Inner box(Tube Packing),Qty per Reel,POD,MCD (AU),MCD (CU)
+SOP8,G,150mil wide,1.0,,,4000,,SOP-8-AL,SOP-8-CL  SOP-8-CN
+SOP8,G,150mil wide,3.0,,,4000,,,SOP-8-CN-L3
+SOP8,W,208mil wide,1.0,,,2000,,,
+TSSOP8,Z,3mm x 4.4mm,1.0,,,4000,,TSSOP-8-AL,TSSOP-8-CL  TSSOP-8-CN
+TSSOP8,Z,3mm x 4.4mm,3.0,,,4000,,,TSSOP-8-CN-L3
+MSOP8,S,3mm x 3mm,1.0,,,4000,,MSOP-8-AL,MSOP-8-CL  MSOP-8-CN
+UDFN8,UD,2mm x 3mm,1.0,,,5000/3000,,-,GIANTEC  L_MCD_UDFN-8-Cu
+XDFN8,XD,1.8 mm x 2.2mm,1.0,,,4000,,-,-
+UDFN5,UD5,1.4mm x 1.7mm,1.0,,,3000,,-,GIANTEC  L_MCD_UDFN-5
+CSP,C/CS/C4,--,1.0,--,--,--,-,-,-
+PDIP8,P,9.25mm x 6.35mm,,50,2500,,,-,PDIP-8-CN_60x60 &  80x80
+SOT23-5,TF,2.92mm x 1.60mm,3.0,/,/,3000,,-,SOT23-5-CN-L3
+MSOP8,S,3mm x 3mm,3.0,/,/,4000,,-,MSOP-8-CN-L3

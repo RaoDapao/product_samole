@@ -1,0 +1,11 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+湖南融创微电子有限公司,MCU 芯片,http://runtronic.com/mobile/wei.html,RC6F80204,内部包含 16K 字节 Flash，512 字节 SRAM，128 字节 EEPROM，4COM 12Segment LCD，4COM 8Seg...,MCU芯片,3744697200,无,0,无,0,无,0
+湖南融创微电子有限公司,MCU 芯片,http://runtronic.com/mobile/wei.html,RC6F80042,内部包含 4K 字节 Flash，256 字节 SRAM，1 个 8-bit 定时器、2 个 16-bit 定时器/计数器(可输出 4...,MCU芯片,3744697200,无,0,无,0,无,0
+湖南融创微电子有限公司,MCU 芯片,http://runtronic.com/mobile/wei.html,RC6F800X,12 位 ADC、4 路 PWM、4KB MTP、256B SRAM 和 18 个 GPIO，高性价比 1T 8051 内核 MCU。,MCU芯片,3744697200,无,0,无,0,无,0
+湖南融创微电子有限公司,MCU 芯片,http://runtronic.com/mobile/wei.html,RC6F8501,12 位 ADC、4 路 PWM、8KB MTP、256B SRAM 和 18 个 GPIO，高性价比 1T 8051 内核 MCU。,MCU芯片,3744697200,无,0,无,0,无,0
+湖南融创微电子有限公司,MCU 芯片,http://runtronic.com/mobile/wei.html,RC6F9003B,12 位 ADC、6 路 PWM、16KB MTP、1024B SRAM 和 18 个 GPIO，高性价比 1T 8051 内核 MCU。,MCU芯片,3744697200,无,0,无,0,无,0
+湖南融创微电子有限公司,高可靠存储器芯片,http://runtronic.com/mobile/sjy.html,无,无,设计服务业务,1742373140,无,0,无,0,无,0
+湖南融创微电子有限公司,MCU 芯片,http://runtronic.com/mobile/sjy.html,无,无,设计服务业务,1742373140,无,0,无,0,无,0
+湖南融创微电子有限公司,IP 产品,http://runtronic.com/mobile/sjy.html,无,融创微专注于高可靠设计技术，已发展和构建完成以高可靠、低成本为主的模拟 IP、存储 IP、高速接口 IP 为主的 IP 化平台，涵盖主流厂家 180nm~12nmCMOS 工艺。累计开发 IP30 多项，服务百家集成电路设计企业，产品广泛应用于物联网、智能家居、可穿戴、医疗电子、工业控制、商业航天等领域。,设计服务业务,1742373140,无,0,无,0,无,0
+湖南融创微电子有限公司,设计服务业务,http://runtronic.com/mobile/sjy.html,无,融创微致力于为客户提供从芯片定义到设计流片的全流程服务，包括：芯片架构定义、IP 选型、前端设计、DFT、验证、物理设计、版图、流片、封装和测试服务等。同时，融创微还可以帮助客户委外完成晶圆制造、封装和测试等，提供 Turn-key 一站式服务。服务产品涵盖消费电子、物联网、汽车电子和工业控制器领域。,设计服务业务,1742373140,无,0,无,0,无,0
+湖南融创微电子有限公司,静态随机存储器（SRAM）,http://runtronic.com/mobile/product.html,无,无,高可靠存储器芯片,4756562464,无,0,无,0,无,0

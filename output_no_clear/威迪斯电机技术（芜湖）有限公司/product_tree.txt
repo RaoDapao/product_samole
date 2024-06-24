@@ -1,0 +1,11 @@
+-> root http://www.wds-motor.com
+  -> 多合一总成-企业官网 http://www.wds-motor.com/newsinfo/2311436.html
+  -> 三合一总成-企业官网 http://www.wds-motor.com/newsinfo/2311449.html
+  -> 单电机电控产品-企业官网 http://www.wds-motor.com/newsinfo/2311516.html
+  -> 研发能力-企业官网 http://www.wds-motor.com/productinfo/75033.html
+  -> 实验能力-企业官网 http://www.wds-motor.com/productinfo/75042.html
+  -> 控制器产线-企业官网 http://www.wds-motor.com/productinfo/75050.html
+  -> 电机产线-企业官网 http://www.wds-motor.com/productinfo/75054.html
+  -> 总装产线-企业官网 http://www.wds-motor.com/productinfo/75062.html
+  -> 信息管理系统-企业官网 http://www.wds-motor.com/productinfo/75067.html
+  -> 信息管理系统-企业官网_1 http://www.wds-motor.com/productinfo/75067.html?templateId=1133605

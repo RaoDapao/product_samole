@@ -1,0 +1,8 @@
+-> root http://www.celfras.com
+  -> 江西联智集成电路有限公司 http://www.celfras.com/list.aspx?nid=3
+  -> JiangXiLianZhiLTD.co http://en.celfras.com/list.aspx?nid=3
+    -> Touch Control Chip Series 
+    -> Fingerprint Chip Series 
+    -> Low-Power Bluetooth Chip Series 
+    -> Power Management Chip Series 
+    -> Touch Display Integrated Chip Series 

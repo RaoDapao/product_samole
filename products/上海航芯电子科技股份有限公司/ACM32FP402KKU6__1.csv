@@ -1,0 +1,6 @@
+产品网址：https://www.aisinochip.com/index.php/product/detail/id/37.html
+产品结构：当前位置:首页->通用MCU->ACM32FP40x->ACM32FP402KKU6*
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|通用 MCU|ACM32FP402KKU6*|基于 ARMv8-M 架构，支持 Cortex-M33 和 Cortex-M4F 指令集，最高 180MHz 系统工作频率，支持浮点运算和 DSP，NVIC 中断控制器，DMA 支持 8 通道，12KB ROM，多达 192KB SRAM，多达 2560KB Flash，内部 64MHz RC 振荡器，内部 32KHz RC 振荡器，4~32MHz 外部晶体振荡器，32.768KHz 外部晶体振荡器，内置 PLL，对称算法：AES-128/-192/-256，随机数：TRNG，符合 FIPS140-2 要求，数学硬件加速：sin，cos，atan2，CRC：CRC-7/-8/-16/-32，特征多项式可配，HASH：SHA-1/-256，多达 80 个 GPIO（包括复用），支持边沿/电平中断，UART：4 路串口，支持 IrDA、LIN，硬件流控，LPUART：1 路低功耗 UART，支持 STOP 模式唤醒功能，SPI：4 路 SPI 接口，支持主/从模式，支持 Mode0/1/2/3 传输协议，支持 1/2/4 线传输。其中 1 路 SPI 支持外部存储器取指，I2S：1 路 I2S 接口，支持飞利浦、MSB、LSB、PCM 标准，I2C：2 路 I2C 接口，可选择主/从模式，支持 Standard/Fast/Fast-Plus 三种速率模式，USB2.0 FS：1 个控制端点和 4 个双向端点，10 个定时器：1 个 16 位高级定时器，支持输入捕获/输出比较，支持 PWM 输出/互补输出/死区插入/刹车/编码模式，6 个 16 位通用定时器，支持 PWM 输出，1 个 32 位通用定时器，支持 PWM 输出，2 个 16 位基本定时器，RTC：带日历功能，支持 ALARM 功能，支持 Tamper 检测功能，WDT：1 个系统 WDT，1 个独立 WDT，ADC：1 路 12bits ADC，16 个通道，速率 2Msps，DAC：1 路 12bitsDAC，2 个通道，速率 1Msps，LVD：支持低电压检测，可配置 8 阶比较电平，ESD：4KV（HBM），工作电压：1.7V~3.6V，功耗：典型工作电流 18mA@180MHz，STOP 最低电流<330μA，STANDBY 电流<2μA，封装形式：QFN32/QFN48/QFN64/QFN88，开发支持：ROM BOOT、支持 USB/SPI/UART 下载，DAP/ULINK2/J-LINK SWD 接口调试，ARM Keil MDK（5.29 版本及以上），开发板/Release 开发包，用户手册，数据手册，应用笔记，开发必读，开发板，SDK 驱动库，IDE 支持包，编程器，仿真器|

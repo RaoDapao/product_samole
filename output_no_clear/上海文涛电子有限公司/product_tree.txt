@@ -1,0 +1,60 @@
+-> root http://www.wtdz.net
+  -> 产品展示 http://www.wtdz.net/products
+    -> lcd 液晶模组、触摸屏 
+    -> LED 手电筒电路板 
+    -> 直饮机、水机、RO 机电脑板 
+    -> 家用净水机控制板 
+    -> 42mm 铝基板出口灯板 
+    -> 语音报警器用电脑板 
+    -> LED 闪灯板、光源、字幕 
+    -> 擦鞋机控制线路板 
+    -> 皮带控制器/收银台商品传送 
+    -> 抗干扰制冰机电脑板 
+    -> 按摩椅/器控制板开发 
+    -> 按摩器控制板开发 
+    -> 开水机控制线路板 
+    -> 全定制 LED 闪烁驱动板 
+    -> 带微型散热片的杯灯光源 
+    -> 12V2A 电源适配器插墙式 
+  -> 温度控制系列 http://www.wtdz.net/products/a
+    -> 通用制冰机电脑板 
+    -> 定制即热/即开开水机电脑板 
+  -> 电机控制系列 http://www.wtdz.net/products/b
+  -> LED灯具系列 http://www.wtdz.net/products/c
+  -> 电源开关适配器系列 http://www.wtdz.net/products/d
+  -> 语音电路系列 http://www.wtdz.net/products/e
+  -> 电量变送器 http://www.wtdz.net/products/f
+  -> 电路板加工 http://www.wtdz.net/products/g
+  -> 设计、开发 http://www.wtdz.net/products/a11
+  -> 认证咨询 http://www.wtdz.net/products/a1
+  -> lcd液晶模组、触摸屏 http://www.wtdz.net/products/g/93.html
+  -> LED手电筒电路板 http://www.wtdz.net/products/c/92.html
+  -> 直饮机、水机、RO机电脑板 http://www.wtdz.net/products/g/91.html
+  -> 家用净水机控制板 http://www.wtdz.net/products/g/90.html
+  -> 42mm铝基板出口灯板 http://www.wtdz.net/products/c/89.html
+  -> 语音报警器用电脑板 http://www.wtdz.net/products/e/87.html
+  -> LED闪灯板、光源、字幕 http://www.wtdz.net/products/c/86.html
+  -> 擦鞋机控制线路板 http://www.wtdz.net/products/b/85.html
+  -> 皮带控制器-收银台商品传送 http://www.wtdz.net/products/a11/84.html
+  -> 抗干扰制冰机电脑板 http://www.wtdz.net/products/a11/83.html
+  -> 按摩椅-器控制板开发 http://www.wtdz.net/products/a11/82.html
+  -> 按摩器控制板开发 http://www.wtdz.net/products/a11/81.html
+  -> 开水机控制线路板 http://www.wtdz.net/products/a/80.html
+  -> 全定制LED闪烁驱动板 http://www.wtdz.net/products/c/79.html
+  -> 带微型散热片的杯灯光源 http://www.wtdz.net/products/c/78.html
+  -> 12V2A电源适配器插墙式 http://www.wtdz.net/products/d/77.html
+  -> 产品展示_1 http://www.wtdz.net/products/index_2.html
+    -> 喷淋式制冰机电路板 
+    -> 电量变送器线路板 
+    -> 无线遥控开关板遥控插座 
+  -> 通用制冰机电脑板 http://www.wtdz.net/products/a/73.html
+  -> 定制即热-即开开水机电脑板 http://www.wtdz.net/products/a/72.html
+  -> 电源开关适配器系列_1 http://www.wtdz.net/products/d/#
+  -> 电量变送器线路板 http://www.wtdz.net/products/f/74.html
+  -> 电路板加工_1 http://www.wtdz.net/products/g/#
+  -> 喷淋式制冰机电路板 http://www.wtdz.net/products/g/75.html
+  -> 无线遥控开关板遥控插座 http://www.wtdz.net/products/g/71.html
+  -> LED闪灯板、光源、字幕_1 http://www.wtdz.net/products/c/86.html#
+  -> 12V2A电源适配器插墙式_1 http://www.wtdz.net/products/d/77.html#
+  -> 通用制冰机电脑板_1 http://www.wtdz.net/products/a/73.html#
+  -> 电量变送器线路板_1 http://www.wtdz.net/products/f/74.html#

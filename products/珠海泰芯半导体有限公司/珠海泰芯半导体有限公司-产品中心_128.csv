@@ -1,0 +1,18 @@
+产品网址：https://en.taixin-semi.com/Product?prouctSubClass=44
+产品结构：root->珠海泰芯半导体有限公司-产品中心
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|触控 MCU|TX8T3262|无|
+
+Add/Hide  Parameter List,Type,Encapsulated Type,Chip-Set,Max Speed  (MHz),Flash  (KB),RAM  (Byte),EEPROM  (Byte),GPIO,Working Voltage  (V),Temperature  （℃）,TouchKey,LED  （com*seg）,Advanced TM,GPTM,Watchdog,PWM,UART,SPI,IIC,ADC,CRC,Code Encryption,LPM
+Total:  5  Match:  5,,SOP16  TSSOP20  SOP28  SOP20,,,,,,14  18  26,,,14  18  26,8*6  8*10  8*12,,,,,,,,14  18  26,,,
+Compare,,,,,,,,,,,,,,,,,,,,,,,
+Add/Hide  Parameter List,Type,Encapsulated Type,Chip-Set,Max Speed  (MHz),Flash  (KB),RAM  (Byte),EEPROM  (Byte),GPIO,Working Voltage  (V),Temperature  （℃）,TouchKey,LED  （com*seg）,Advanced TM,GPTM,Watchdog,PWM,UART,SPI,IIC,ADC,CRC,Code Encryption,LPM
+Total:  5  Match:  5,,SOP16  TSSOP20  SOP28  SOP20,8051,48,16,2048,128,14  18  26,2.4 ~ 5.5,-40 ~ 105,14  18  26,8*6  8*10  8*12,6*16bit,5*16bit,1,6,2,1,1,14  18  26,1,√,<5ua
+Compare,,,,,,,,,,,,,,,,,,,,,,,
+,TX8T3262SO16B,SOP16,8051,48,16,2048,128,14,2.4 ~ 5.5,-40 ~ 105,14,8*6,6*16bit,5*16bit,1,6,2,1,1,14,1,√,<5ua
+,TX8T3262TS20,TSSOP20,8051,48,16,2048,128,18,2.4 ~ 5.5,-40 ~ 105,18,8*10,6*16bit,5*16bit,1,6,2,1,1,18,1,√,<5ua
+,TX8T3262SO28,SOP28,8051,48,16,2048,128,26,2.4 ~ 5.5,-40 ~ 105,26,8*12,6*16bit,5*16bit,1,6,2,1,1,26,1,√,<5ua
+,TX8T3262SO20,SOP20,8051,48,16,2048,128,18,2.4 ~ 5.5,-40 ~ 105,18,8*10,6*16bit,5*16bit,1,6,2,1,1,18,1,√,<5ua
+,TX8T3262SO16,SOP16,8051,48,16,2048,128,14,2.4 ~ 5.5,-40 ~ 105,14,8*6,6*16bit,5*16bit,1,6,2,1,1,14,1,√,<5ua

@@ -1,0 +1,22 @@
+产品网址：http://www.huitronic.com/product_show.php?id=170
+产品结构：root->SMD0603(0603)--联系我们果博东方公司客服电话19188566669
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|SMD0603 (0603)|SMD0603 (0603)|无|
+
+Model,V-max(Vdc),I-max(A),I-hold(A),I-trip(A),Agency?Appr oval
+SMD0603-005,15V,40A,0.05A,0.20A,RoHS
+SMD0603-005-24V,15V,40A,0.05A,0.20A,RoHS
+SMD0603-010,15V?,40A,0.10A,0.30A,RoHS
+,,,,,
+SMD0603-020,9V?,40A,0.20A,0.50A,UL/RoHS
+,,,,,
+SMD0603-025,9V?,40A,0.25A,0.55A,UL/RoHS
+,,,,,
+SMD0603-035,6V?,40A,0.35A,0.75A,UL/RoHS
+,,,,,
+SMD0603-050,6V?,40A,0.50A,1.00A,UL/RoHS
+,,,,,
+SMD0603-075,6V?,40A,0.75A,1.40A,UL/RoHS
+,,,,,

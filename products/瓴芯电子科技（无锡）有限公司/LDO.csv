@@ -1,0 +1,17 @@
+产品网址：https://www.len-technology.com/en/products/linear-regulators
+产品结构：root->LDO
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|LDO|无|Possesses technical advantages such as low quiescent current and good transient response.|
+
+Orderable PN,Vin Min (V),Vin Max (V),Vout Min (V),Vout Max (V),Iout (mA),Iq (uA),Pgood,Enable,Package,Product grade,Operating junction temperature,Functional safety supported,Status
+LN210421Q1CFR,4.0,42,0.6,24,450,5.5,No,Yes,DFN-8,Automotive,-40 to 150,Functional Safety Supported,Sample
+LN210451Q1TAR,4.0,42,0.6,24,450,7.5,No,Yes,TO-252,Automotive,-40 to 150,Functional Safety Supported,Sample
+LN210455Q1TAR,4.0,42,0.6,24,100,5.5,No,Yes,TO-252,Automotive,-40 to 150,Functional Safety Supported,Sample
+LN20545Q1EFR,4.0,42,5 (Fixed),5 (Fixed),450,5.5,No,Yes,SOIC-EP8,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN20045Q1EFR,4.0,42,0.6,24,450,7.5,Yes,Yes,SOIC-EP8,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN20542Q1-DFR,2.75,42,5 (Fixed),5 (Fixed),200,5.5,No,Yes,MSOP-EP8,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN20342Q1-DFR,2.75,42,3.3 (Fixed),3.3 (Fixed),200,5.5,No,Yes,MSOP-EP8,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN20042Q1-DFR,2.75,42,0.6,24,200,7.5,Yes,Yes,MSOP-EP8,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN20041Q1-DFR,2.75,42,0.6,24,100,7.5,Yes,Yes,MSOP-EP8,Automotive,-40 to 150,Functional Safety Supported,RTM

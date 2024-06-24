@@ -1,0 +1,11 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+深圳云天励飞技术股份有限公司,AI 芯片,https://www.intellif.com/int/chips.html,DeepEye1000,面向计算机视觉的深度学习神经网络处理器芯片，内置自研 CNN 网络加速引擎，提供强大的可编程运算能力，自定义指令集和编程框架，可广泛应用于智能摄像机、工业检测、机器人、无人机等领域,AI芯片,7072406107,无,0,无,0,无,0
+深圳云天励飞技术股份有限公司,AI 芯片,https://www.intellif.com/int/chips.html,DeepEdge10C,面向边缘视频智能计算推出的一颗高集成度、高性能、低功耗轻量级 SOC 主控芯片，广泛应用于数字城市的安防和泛安防领域的各类视频物联边缘计算场景,AI芯片,7072406107,无,0,无,0,无,0
+深圳云天励飞技术股份有限公司,AI 芯片,https://www.intellif.com/int/chips.html,DeepEdge10,面向边缘视频智能计算推出的一颗高集成度、低功耗、高性能 SoC 芯片，采用了云天励飞第四代自研神经网络处理器 NNP400T，可应用于数字城市的安防和泛安防领域的各类视频物联边缘计算场景,AI芯片,7072406107,无,0,无,0,无,0
+深圳云天励飞技术股份有限公司,AI 芯片,https://www.intellif.com/int/chips.html,DeepEdge10Max,一款面向边缘大模型推理的高性能 SOC 芯片，采用 D2D 的 chiplet 片上互联技术，实现单芯片算力的灵活可扩，满足人工智能大模型边缘推理对算力的需求，可广泛用于边缘 CV 大模型、NLP 大模型的私有化部署场景,AI芯片,7072406107,无,0,无,0,无,0
+深圳云天励飞技术股份有限公司,模组,https://www.intellif.com/int/chips.html,IPU X100,基于 DeepEye1000 神经网络处理器芯片边缘推理模组，提供 2.0TOPS 视觉 AI 算力，配合板卡的 AI 编译工具和软件开发 SDK 套件，可基于该板卡快速验证和实现智能视觉 AI 产品的设计，适用于边缘计算,AI芯片,7072406107,无,0,无,0,无,0
+深圳云天励飞技术股份有限公司,模组,https://www.intellif.com/int/chips.html,IPU X200,基于 DeepEdge10C 神经网络处理器芯片打造的边缘推理模组，提供 8Tops 的 AI 算力，配合板卡的 AI 编译工具和软件开发 SDK 套件，可基于该板卡快速验证和实现智能视觉 AI 产品的设计,AI芯片,7072406107,无,0,无,0,无,0
+深圳云天励飞技术股份有限公司,模组,https://www.intellif.com/int/chips.html,IPU A300,采用 SOC 芯片 Edge10 为主芯片，其有 10 核 CPU 及 12Tops 大算力，配合板卡的 AI 编译工具和软件开发 SDK 套件，可快速验证和实现智能视觉 AI 产品的设计,AI芯片,7072406107,无,0,无,0,无,0
+深圳云天励飞技术股份有限公司,卡,https://www.intellif.com/int/chips.html,IPU X1000,提供深度学习模型的定点化工具，提供通用模型的编译以及部署开发 SDK 套件，支持 Mxnet/Caffe/TensorFlow/Pytorch 等主流算法框架,AI芯片,7072406107,无,0,无,0,无,0
+深圳云天励飞技术股份有限公司,卡,https://www.intellif.com/int/chips.html,IPU X2000,支持国密 SM2/3/4 加解密算法、有完整的 TrustZone 安全环境、SKE(对称加密引擎)、数据加密更可靠,AI芯片,7072406107,无,0,无,0,无,0
+深圳云天励飞技术股份有限公司,卡,https://www.intellif.com/int/chips.html,IPU X5000,支持国密 SM2/3/4 加解密算法、有完整的 TrustZone 安全环境、SKE(对称加密引擎)、数据加密更可靠,AI芯片,7072406107,无,0,无,0,无,0

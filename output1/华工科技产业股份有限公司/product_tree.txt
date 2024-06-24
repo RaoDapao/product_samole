@@ -1,0 +1,39 @@
+-> root http://hgtech.com.cn
+  -> 产品与解决方案-华工科技-创新联动美好世 https://www.hgtech.com.cn/prosolution/index.jhtml
+    -> 激光智能装备 
+    -> 激光全息防伪产品 
+    -> 传感器 
+    -> 光通信 
+  -> 产品-华工科技-创新联动美好世界 https://www.hgtech.com.cn/products/index.jhtml
+  -> 激光全息防伪产品-华工科技-创新联动美好 https://www.hgtech.com.cn/jgqxfw/index.jhtml
+  -> 激光智能装备-华工科技-创新联动美好世界 https://www.hgtech.com.cn/jgznzb/80.jhtml
+  -> 传感器-华工科技-创新联动美好世界 https://www.hgtech.com.cn/sensors/78.jhtml
+  -> 光通信-华工科技-创新联动美好世界 https://www.hgtech.com.cn/lightcom/77.jhtml
+  -> 华工科技三家子公司产品获“湖北精品”认定 https://www.hgtech.com.cn/gsxw/4020.jhtml
+    -> 家用和类似用途制冷器具用 NTC 温度传感器 
+    -> 激光切割机 
+    -> 三维五轴高速激光切割机 
+    -> QCW 准连续光纤激光焊接系统 
+    -> GF3015 数控半导体激光切割机 
+    -> 10W 皮秒超快激光器 
+  -> 华工科技紫外激光晶圆切割机获首批国家自主 https://www.hgtech.com.cn/jsdt/3292.jhtml
+  -> 智能制造服务平台-华工科技-创新联动美好 https://www.hgtech.com.cn/znzzsolution/99.jhtml
+  -> 3C行业激光加工解决方案-华工科技-创新 https://www.hgtech.com.cn/3csolution/75.jhtml
+  -> PRODUCTS-hgtech-forH http://en.hgtech.com.cn/Products/index.htm
+    -> 激光设备 
+    -> 全息产品 
+    -> 电子元件 
+  -> HologramProducts-hgt http://en.hgtech.com.cn/HologramProducts/index.htm
+    -> Hologram Sticker 
+    -> Hot Stamping Foil 
+    -> Security Hologram 
+    -> Barcode Products 
+    -> Packaging Hologram 
+    -> Metalized Paper 
+  -> PRODUCTS-hgtech-forH_1 https://en.hgtech.com.cn/Products/index.htm
+  -> 华工科技智能制造-智能解决方案 https://www.hgtech.com.cn/special/20200902/caseProduction.html
+    -> PCB 智能生产解决方案 
+    -> PCB 智能工厂 MES 软件系统 
+    -> PCB 全流程追溯系统 
+    -> 制程追溯方案 
+    -> PCB 自动化设备 

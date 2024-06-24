@@ -1,0 +1,7 @@
+产品网址：http://itocec.com/Index/lists/catid/58.html
+产品结构：首页->产品与服务->大型PLC产品IL40系列->网关模块
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Modbus RTU 主站模块|IL40-E6030|用于将 Modbus RTU 从站设备接入 N 系列 PLC 的 EtherCAT 总线网络，实现 Modbus 从站设备与 N 系列 PLC 的互联|
+|CANopen 主站网关模块|IL40-E6200|用于将 CANopen 从站设备接入 N 系列 PLC 的 EtherCAT 总线网络，实现 CANopen 从站设备与 N 系列 PLC 的互联|

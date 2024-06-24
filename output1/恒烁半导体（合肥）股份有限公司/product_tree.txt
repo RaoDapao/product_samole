@@ -1,0 +1,14 @@
+-> root https://zbitsemi.com
+  -> 首页 
+    -> 产品中心 
+      -> SPINORFLASH https://zbitsemi.com/info.php?class_id=102
+      -> AI服务与产品 https://zbitsemi.com/info.php?class_id=102103
+      -> MCU微控制器 
+        -> ARMCotex-M0+- https://zbitsemi.com/info.php?class_id=102102
+        -> ARMCortex-M3- https://zbitsemi.com/info.php?class_id=102102102
+    -> 产品应用 
+      -> 解决方案 https://zbitsemi.com/info.php?class_id=103
+        -> NOR Flash 存储芯片 
+        -> 通用 32 位 MCU 芯片 
+        -> 存算一体终端推理 AI 芯片 
+  -> AI服务与产品-恒烁半导体（合肥）股份有 https://zbitsemi.com/info_display.php?id=102103

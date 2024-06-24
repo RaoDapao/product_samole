@@ -1,0 +1,6 @@
+产品网址：http://www.haier-ic.com/product/product_E_4DDR3_H3I4G16.html
+产品结构：当前位置：首页->芯片及方案->DDR3(H3I4G16LFG-PDA)
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|DDR3|H3I4G16LFG-PDA|JEDEC Standard Compliant；Power supplies: VDD & VDDQ = +1.5V ±0.075V；Operating temperature range: (Commercial) — Normal operating temperature: TC = 0~85°C — Extended temperature: TC = 85~95°C；Supports JEDEC clock jitter specification；Fully synchronous operation；Fast clock rate: 800/933/1066MHz；Differential Clock, CK & CK#；Bidirectional differential data strobe；— DQS & DQS#；8 internal banks for concurrent operation；8n-bit prefetch architecture；Pipelined internal architecture；Precharge & active power down；Programmable Mode & Extended Mode registers；Additive Latency (AL): 0, CL-1, CL-2；Programmable Burst lengths: 4, 8；Burst type: Sequential /Interleave；Output Driver Impedance Control；Average refresh period；— 8192 cycles/64ms (7.8μs at 0°C ≦ TC ≦ +85°C) — 8192 cycles/32ms (3.9μs at +85°C ≦ TC ≦ +95°C)；Write Leveling；ZQ Calibration；Dynamic ODT (Rtt_Nom & Rtt_WR)；RoHS compliant；Auto Refresh and Self Refresh；96-ball 7.5 x 13.5 x 1.2mm FBGA package；— Pb and Halogen Free|

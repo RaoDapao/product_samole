@@ -1,0 +1,18 @@
+产品网址：https://www.taixin-semi.com/Product/ProductDetail?productId=302
+产品结构：root->珠海泰芯半导体有限公司-产品中心
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|TXW806-G00|TXW806-G00|TXW806 是一款低功耗高性能高度集成的 2.4GHz Wi-Fi+小无线多模物联网 SOC 芯片，集成 IEEE 802.11 b/g/n 基带和 RF 电路，包括功率放大器 PA、低噪声放大器 LNA、RF balun、天线开关以及电源管理模块等。TXW806 Wi-Fi 基带实现正交频分复用（OFDM）技术，并向下兼容直接序列扩频（DSSS）、补码键控（CCK）技术，支持 IEEE 802.11 b/g/n 协议。支持 20MHz 标准带宽和 5MHz/10MHz 窄带宽，提供最大 72.2Mbit/s 物理层速率。TXW806 芯片集成高性能 32bit 微处理器；提供 USB2.0 High Speed Host/Device、SDMMC Host、RMII MAC、SPI Master & Device、UART、I2C、I2S、PDM 输入、支持红外传输、PWM、GPIO 以及多路 ADC 模拟输入等丰富的外设接口，同时支持 SDIO2.0 Slave 接口，时钟最高支持 50MHz；支持 RTOS 和第三方组件，并配套提供开放、易用的开发和调试环境。TXW806 系列的产品型号包括多个型号；芯片内置 SRAM 和 Flash，可独立运行，并支持在 SPI Flash 上运行程序。TXW806 提供 QFN56/QFN48/QFN40/QFN36/QFN32 等主流封装形式，根据不同的封装形式，器件中的外设资源配置不尽相同。应用场合：无线音视频应用|
+
+型号,工作频段(MHz),封装类型,主控,主频（MHz）,RAM（Byte）,GPIO,工作电压（V）,工作温度（℃）,TouchKey,LED（com*seg）,高级Timer,通用Timer,WatchDog,PWM,RTC,UART,SPI,IIC,ADC,DAC,CRC,代码加密,SDIO,USB,RMII,SDC,DVP,MJPEG,IIS,PDM,EPWM,M2M DMA,AES,CRC.1,TRNG,QSPI,视频编码
+TXW806-G00,2.4G,QFN48,CK803,180,294*1024,34,3 ~ 3.6,-40 ~ 85,30,8*12,6*16bit,6*32bit,1,18,1,4,5,2,2,2,1,√,1,1,1,1,1,1,2,1,6,2,1,1,1,1,√
+
+
+
+
+
+
+
+
+

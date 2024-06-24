@@ -1,0 +1,29 @@
+-> root http://www.zentel.com
+  -> 产品–浙江力积存储科技有限公司 https://www.zentel.com/%e4%ba%a7%e5%93%81
+    -> DRAM-SDR 
+    -> DRAM-DDR1 SDRAM 
+    -> DRAM-DDR2 SDRAM 
+    -> DRAM-DDR3 SDRAM 
+    -> DRAM-DDR4 SDRAM 
+    -> DRAM-Industrial SDR 
+    -> DRAM-Industrial DDR1 SDAM 
+    -> DRAM-Industrial DDR2 SDRAM 
+    -> DRAM-Industrial DDR3 SDRAM 
+    -> DRAM-Automotive SDR 
+    -> DRAM-Automotive DDR1 SDRAM 
+    -> DRAM-Automotive DDR2 SDRAM 
+    -> DRAM-Automotive DDR3 SDRAM 
+    -> DRAM-KGD SDR 
+    -> DRAM-KGD DDR1 SDRAM 
+    -> DRAM-KGD DDR2 SDRAM 
+    -> DRAM-KGD DDR3 SDRAM 
+    -> DRAM-KGD DDR4 SDRAM 
+    -> Module-SODIMM 
+    -> Module-UDIMM 
+    -> Module-VLP RDIMM 
+    -> Module-RDIMM 
+    -> NAND-Parallel NAND Flash 
+    -> NAND-Serial NAND Flash 
+  -> 产品–浙江力积存储科技有限公司_1 https://www.zentel.com/%E4%BA%A7%E5%93%81?filter_cat=74
+  -> 产品–浙江力积存储科技有限公司_2 https://www.zentel.com/%E4%BA%A7%E5%93%81?filter_cat=76
+  -> 产品–浙江力积存储科技有限公司_3 https://www.zentel.com/%E4%BA%A7%E5%93%81/?filter_cat=74

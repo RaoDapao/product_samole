@@ -1,0 +1,87 @@
+-> root https://www.indiemicro.com
+  -> 英迪芯微 https://www.indiemicro.com/archives/products/exterior-lighting
+  -> 英迪芯微_1 https://www.indiemicro.com/archives/products/interior-lighting
+    -> Interior lighting 
+    -> Interior lighting 
+    -> Interior lighting 
+  -> 英迪芯微_2 https://www.indiemicro.com/archives/products/automotive-power-management
+  -> 英迪芯微_3 https://www.indiemicro.com/archives/products/automotive-touch-sensor
+  -> 英迪芯微_4 https://www.indiemicro.com/archives/products/automotive-embedded-motor-controller
+  -> 英迪芯微_5 https://www.indiemicro.com/archives/products/automotive-interface-chip
+    -> Automotive/interface chip 
+    -> Healthcare controller 
+    -> X-by-wire for chasis 
+    -> EVK/LIN Gateway 
+  -> 英迪芯微_6 https://www.indiemicro.com/archives/products/healthcare-controller
+  -> 英迪芯微_7 https://www.indiemicro.com/archives/products/x-by-wire-for-chasis
+  -> 英迪芯微_8 https://www.indiemicro.com/archives/products/evk-lin-gateway
+  -> 英迪芯微_9 https://www.indiemicro.com/archives/products/%E5%A4%96%E9%A5%B0%E7%85%A7%E6%98%8E
+    -> On-board power supply 
+    -> Micromotor drive 
+    -> Touch 
+    -> Signal chain and interface 
+    -> Medical and health 
+  -> 英迪芯微_10 https://www.indiemicro.com/archives/product/ind83213a
+  -> 英迪芯微_11 https://www.indiemicro.com/archives/product/ind83220
+  -> 英迪芯微_12 https://www.indiemicro.com/archives/product/ind83080
+  -> 英迪芯微_13 https://www.indiemicro.com/archives/product/ind83204
+  -> 英迪芯微_14 https://www.indiemicro.com/archives/product/ind83211
+  -> 英迪芯微_15 https://www.indiemicro.com/archives/product/ind83212
+  -> 英迪芯微_16 https://www.indiemicro.com/archives/product/ind83209
+  -> 英迪芯微_17 https://www.indiemicro.com/archives/product/ind83205
+  -> 英迪芯微_18 https://www.indiemicro.com/archives/product/ind83402
+  -> 英迪芯微_19 https://www.indiemicro.com/archives/product/ind87400
+  -> 英迪芯微_20 https://www.indiemicro.com/archives/product/ind87421
+  -> 英迪芯微_21 https://www.indiemicro.com/archives/product/ind87431
+  -> 英迪芯微_22 https://www.indiemicro.com/archives/product/ind86201-bga120
+    -> iND86201-BGA120 
+  -> 英迪芯微_23 https://www.indiemicro.com/archives/product/ind86201-qfn88
+  -> 英迪芯微_24 https://www.indiemicro.com/archives/product/ind86202
+  -> 英迪芯微_25 https://www.indiemicro.com/archives/product/ind87452-2
+  -> 英迪芯微_26 https://www.indiemicro.com/archives/product/lin-gateway
+  -> 英迪芯微_27 https://www.indiemicro.com/archives/product/ind83212-evk
+  -> 英迪芯微_28 https://www.indiemicro.com/archives/product/ind83209-evk
+  -> 英迪芯微_29 https://www.indiemicro.com/archives/product/ind83211-evk
+  -> 英迪芯微_30 https://www.indiemicro.com/cn/archives/products/%e5%a4%96%e9%a5%b0%e7%85%a7%e6%98%8e
+  -> 英迪芯微_31 https://www.indiemicro.com/cn/archives/products/%e5%86%85%e9%a5%b0%e7%85%a7%e6%98%8e
+    -> 内饰照明 
+    -> 内饰照明 
+    -> 内饰照明 
+  -> 英迪芯微_32 https://www.indiemicro.com/cn/archives/products/%e8%bd%a6%e8%bd%bd%e7%94%b5%e6%ba%90
+  -> 英迪芯微_33 https://www.indiemicro.com/cn/archives/products/%e5%be%ae%e9%a9%ac%e8%be%be%e9%a9%b1%e5%8a%a8
+    -> 微马达驱动 
+    -> 微马达驱动 
+    -> 微马达驱动 
+  -> 英迪芯微_34 https://www.indiemicro.com/cn/archives/products/%e8%a7%a6%e6%8e%a7
+  -> 英迪芯微_35 https://www.indiemicro.com/cn/archives/products/%e4%bf%a1%e5%8f%b7%e9%93%be%e5%8f%8a%e6%8e%a5%e5%8f%a3
+    -> 信号链及接口 
+    -> 医疗及健康 
+    -> 底盘控制 
+    -> 开发板/Lin 分析仪 
+  -> 英迪芯微_36 https://www.indiemicro.com/cn/archives/products/%e5%8c%bb%e7%96%97%e5%8f%8a%e5%81%a5%e5%ba%b7
+  -> 英迪芯微_37 https://www.indiemicro.com/cn/archives/products/%e5%ba%95%e7%9b%98%e6%8e%a7%e5%88%b6
+  -> 英迪芯微_38 https://www.indiemicro.com/cn/archives/products/%e5%bc%80%e5%8f%91%e6%9d%bf-lin%e5%88%86%e6%9e%90%e4%bb%aa
+  -> 英迪芯微_39 https://www.indiemicro.com/cn/archives/products/%E5%A4%96%E9%A5%B0%E7%85%A7%E6%98%8E
+  -> 英迪芯微_40 https://www.indiemicro.com/cn/archives/products/%E5%86%85%E9%A5%B0%E7%85%A7%E6%98%8E
+  -> 英迪芯微_41 https://www.indiemicro.com/cn/archives/product/ind83213a
+  -> 英迪芯微_42 https://www.indiemicro.com/cn/archives/product/ind83220
+  -> 英迪芯微_43 https://www.indiemicro.com/cn/archives/product/ind83211
+  -> 英迪芯微_44 https://www.indiemicro.com/cn/archives/product/ind83204
+  -> 英迪芯微_45 https://www.indiemicro.com/cn/archives/product/%e5%a4%96%e9%a5%b0%e7%85%a7%e6%98%8e
+  -> 英迪芯微_46 https://www.indiemicro.com/cn/archives/product/ind83212
+  -> 英迪芯微_47 https://www.indiemicro.com/cn/archives/product/ind83205
+  -> 英迪芯微_48 https://www.indiemicro.com/cn/archives/product/%e5%86%85%e9%a5%b0%e7%85%a7%e6%98%8e
+  -> 英迪芯微_49 https://www.indiemicro.com/cn/archives/product/ind83402
+  -> 英迪芯微_50 https://www.indiemicro.com/cn/archives/product/ind87431
+  -> 英迪芯微_51 https://www.indiemicro.com/cn/archives/product/ind87421
+  -> 英迪芯微_52 https://www.indiemicro.com/cn/archives/product/ind
+  -> 英迪芯微_53 https://www.indiemicro.com/cn/archives/product/ind-2
+  -> 英迪芯微_54 https://www.indiemicro.com/cn/archives/product/ind-3
+  -> 英迪芯微_55 https://www.indiemicro.com/cn/archives/product/ind86202
+  -> 英迪芯微_56 https://www.indiemicro.com/cn/archives/product/ind86201-qfn88
+  -> 英迪芯微_57 https://www.indiemicro.com/cn/archives/product/ind86201
+  -> 英迪芯微_58 https://www.indiemicro.com/cn/archives/product/ind87452
+  -> 英迪芯微_59 https://www.indiemicro.com/cn/archives/product/lin-gateway
+  -> 英迪芯微_60 https://www.indiemicro.com/cn/archives/product/ind83212-evk
+  -> 英迪芯微_61 https://www.indiemicro.com/cn/archives/product/ind83209-evk
+  -> 英迪芯微_62 https://www.indiemicro.com/cn/archives/product/ind83211-evk

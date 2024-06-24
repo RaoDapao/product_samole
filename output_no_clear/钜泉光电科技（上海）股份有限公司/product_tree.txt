@@ -1,0 +1,42 @@
+-> root https://www.hitrendtech.com
+  -> 首页 
+    -> 产品中心 
+      -> 通讯产品IC https://www.hitrendtech.com/products?id=1
+      -> 计量产品IC https://www.hitrendtech.com/products?id=2
+      -> MCU产品IC https://www.hitrendtech.com/products?id=3
+      -> HT8922 https://www.hitrendtech.com/products/detail?id=1
+      -> HT8652 https://www.hitrendtech.com/products/detail?id=2
+      -> HT8580 https://www.hitrendtech.com/products/detail?id=11
+      -> HT8911 https://www.hitrendtech.com/products/detail?id=31
+      -> HT8611 https://www.hitrendtech.com/products/detail?id=32
+      -> HT7017 https://www.hitrendtech.com/products/detail?id=4
+      -> ATT7053C https://www.hitrendtech.com/products/detail?id=57
+      -> HT7032 https://www.hitrendtech.com/products/detail?id=54
+      -> HT7034 https://www.hitrendtech.com/products/detail?id=53
+      -> HT5019 https://www.hitrendtech.com/products/detail?id=22
+      -> HT5017 https://www.hitrendtech.com/products/detail?id=21
+      -> HT5015 https://www.hitrendtech.com/products/detail?id=20
+      -> HT5013 https://www.hitrendtech.com/products/detail?id=19
+      -> HT5027 https://www.hitrendtech.com/products/detail?id=18
+      -> HT5025 https://www.hitrendtech.com/products/detail?id=17
+      -> HT7136 https://www.hitrendtech.com/products/detail?id=16
+      -> HT7132 https://www.hitrendtech.com/products/detail?id=15
+      -> ATT7026E https://www.hitrendtech.com/products/detail?id=14
+      -> ATT7022E https://www.hitrendtech.com/products/detail?id=13
+      -> HT5023 https://www.hitrendtech.com/products/detail?id=6
+      -> HT7038 https://www.hitrendtech.com/products/detail?id=5
+      -> HT5033 https://www.hitrendtech.com/products/detail?id=61
+      -> HT6015 https://www.hitrendtech.com/products/detail?id=7
+      -> HT6023 https://www.hitrendtech.com/products/detail?id=8
+      -> HT6033 https://www.hitrendtech.com/products/detail?id=9
+      -> HT6025 https://www.hitrendtech.com/products/detail?id=23
+      -> HT6027 https://www.hitrendtech.com/products/detail?id=24
+      -> HT6017 https://www.hitrendtech.com/products/detail?id=25
+      -> HT6019 https://www.hitrendtech.com/products/detail?id=26
+      -> HT6035 https://www.hitrendtech.com/products/detail?id=59
+  -> 钜泉光电科技（上海）股份有限公司 https://www.hitrendtech.com/products/lists?id=1
+  -> 钜泉光电科技（上海）股份有限公司_1 https://www.hitrendtech.com/products/lists?id=2
+    -> 单相计量芯片 
+    -> 三相计量芯片 
+    -> 单相 SOC 芯片 
+    -> 三相 SOC 芯片 

@@ -1,0 +1,13 @@
+-> root https://www.zingsemi.com
+  -> 产品概况|上海新昇半导体科技有限公司 https://www.zingsemi.com/product/product_outline
+    -> 300mm 外延片 
+    -> 300mm 抛光片 
+    -> 300mm 测试片 
+  -> 产品信息|上海新昇半导体科技有限公司 https://www.zingsemi.com/product/product_info
+  -> 上海新昇半导体科技有限公司 https://www.zingsemi.com/product/product_outline/About-us.html
+    -> 单晶硅晶锭 
+    -> 原材料硅 
+    -> 硅圆片 
+  -> 产品概况|上海新昇半导体科技有限公司_1 https://www.zingsemi.com/product/product_outline/#
+  -> 上海新昇半导体科技有限公司_1 https://www.zingsemi.com/product/silicon/About-us.html
+  -> 硅圆片的制造与应用|上海新昇半导体科技有 https://www.zingsemi.com/product/silicon/#

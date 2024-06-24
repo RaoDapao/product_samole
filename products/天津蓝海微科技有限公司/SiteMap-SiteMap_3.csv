@@ -1,0 +1,6 @@
+产品网址：http://www.microscapes.com.cn/product11.html
+产品结构：root->SiteMap-SiteMap
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Memory Compiler 解决方案|无|根据用户需求提供 Memory Compiler 的完整解决方案，提供开发端工具和客户端工具，用户可进行 Memory 架构的二次开发，开发工具简单易学，IC 设计工程师可自定义结构，自己编写脚本实现，大大提高了开发的灵活性和效率，特别适用于需要不断进行结构调整的渐进式开发。该方案提供 gds 和 cdl 匹配的自动验证功能，以及自动检查仿真结果的合理性，并提供 ROM Compiler 解决方案，以及提供独立工具 Liberty Generator|

@@ -1,0 +1,49 @@
+-> root http://www.hpmicro.com
+  -> 先楫半导体 http://www.hpmicro.com/product/product.html?id=07e8d638-1c6c-44d1-9e53-a48d8560ad78
+    -> 微控制器 
+    -> 微控制器 
+    -> 微控制器 
+    -> 微控制器 
+    -> 微控制器 
+  -> 先楫半导体_1 http://www.hpmicro.com/product/series.html?id=0710b474-83e2-47b9-8631-784fa60a49bb
+  -> 先楫半导体_2 http://www.hpmicro.com/product/filterlist.html?id=07e8d638-1c6c-44d1-9e53-a48d8560ad78
+  -> 先楫半导体_3 http://www.hpmicro.com/product/series.html?id=b793ac43-1155-43f8-abf9-33626c063f0e
+  -> 先楫半导体_4 http://www.hpmicro.com/product/series.html?id=8491ea0d-198c-4c7d-ba40-c0a8356669f8
+  -> 先楫半导体_5 http://www.hpmicro.com/product/series.html?id=f1abdd22-f0fe-43bb-9f6e-eb2f5044d3de
+  -> 先楫半导体_6 http://www.hpmicro.com/product/series.html?id=e1869a4a-6f70-49d1-b4de-5d52e0824d79
+  -> 先楫半导体_7 http://www.hpmicro.com/product/file.html?id=d2c61127-0439-404f-a4d5-5f889eaf8597
+  -> 先楫半导体_8 http://www.hpmicro.com/product/tool.html?id=d2c61127-0439-404f-a4d5-5f889eaf8597
+  -> 先楫半导体_9 https://www.hpmicro.com/product/file.html?id=509fcefe-3805-4a15-8642-1c801d5f1d7a
+  -> 先楫半导体_10 http://www.hpmicro.com/resources/detail.html?id=a313eb8f-afbf-4d12-95a2-ce22bda8d3c0
+    -> SDK 
+  -> 先楫半导体_11 http://www.hpmicro.com/support/fplist.html?id=e6bd2d8f-e167-454f-9556-54bb2dc0db94&title=MCU%E4%BA%A7%E5%93%81%E8%AE%A8%E8%AE%BA%E5%8C%BA
+    -> HPM6750 
+    -> 5301EVKLite 
+    -> YT8531 
+    -> HPM6800 
+    -> HP6280 
+    -> HPM6360 
+    -> HPM6364 
+    -> HPM6750EVKMINI 
+  -> 先楫半导体_12 http://www.hpmicro.com/product/summary.html?id=b91101f2-ab2f-4c4c-bee3-a8d6f8cdd641
+  -> 先楫半导体_13 http://www.hpmicro.com/product/file.html?id=59a247e2-12e8-49bf-9300-3230230394ac
+  -> 先楫半导体_14 http://www.hpmicro.com/product/filterlist2.html?id=8491ea0d-198c-4c7d-ba40-c0a8356669f8&typeid=07e8d638-1c6c-44d1-9e53-a48d8560ad78
+  -> 先楫半导体_15 http://www.hpmicro.com/product/filterlist2.html?id=f1abdd22-f0fe-43bb-9f6e-eb2f5044d3de&typeid=07e8d638-1c6c-44d1-9e53-a48d8560ad78
+  -> 先楫半导体_16 http://www.hpmicro.com/product/summary.html?id=d2c61127-0439-404f-a4d5-5f889eaf8597
+  -> 先楫半导体_17 http://www.hpmicro.com/product/quality.html?id=d2c61127-0439-404f-a4d5-5f889eaf8597
+  -> 先楫半导体_18 https://www.hpmicro.com/product/series.html?id=f1abdd22-f0fe-43bb-9f6e-eb2f5044d3de
+  -> 先楫半导体_19 https://www.hpmicro.com/product/summary.html?id=509fcefe-3805-4a15-8642-1c801d5f1d7a
+  -> 先楫半导体_20 http://www.hpmicro.com/product/summary.html?id=59a247e2-12e8-49bf-9300-3230230394ac
+  -> 先楫半导体_21 http://www.hpmicro.com/product/summary.html?id=30e3ab09-6af3-49e0-a767-3289c3b392b5
+  -> 先楫半导体_22 http://www.hpmicro.com/product/summary.html?id=047883e5-42f1-4cd9-ade9-6021c3a1f6d0
+  -> 先楫半导体_23 https://www.hpmicro.com/support/fplist.html?id=e6bd2d8f-e167-454f-9556-54bb2dc0db94&title=MCU%E4%BA%A7%E5%93%81%E8%AE%A8%E8%AE%BA%E5%8C%BA
+    -> HPM6800 系列 
+    -> HPM6360/HPM6364 
+  -> 先楫半导体_24 https://www.hpmicro.com/product/summary.html?id=4856b92c-f5ba-409a-a709-04a3ba562009
+  -> 先楫半导体_25 https://www.hpmicro.com/product/summary.html?id=52eb450d-8915-4322-ab9b-a3cb6a0aea51
+  -> 先楫半导体_26 https://www.hpmicro.com/product/summary.html?id=b0e0cd6b-74c6-4986-9666-5641428c57cd
+  -> 先楫半导体_27 https://www.hpmicro.com/product/summary.html?id=700317b0-801e-4f03-8bd0-007687c85d57
+  -> 先楫半导体_28 https://www.hpmicro.com/product/summary.html?id=d7deff5c-cc2c-4b97-89c0-d007ca9b4686
+  -> 先楫半导体_29 https://www.hpmicro.com/about/detail.html?id=cdd47a77-e507-4afa-8d13-9f6435ecc4ad
+  -> 先楫半导体_30 https://www.hpmicro.com/about/detail.html?id=1d813126-ea05-48dc-bb82-b654cacb46b9
+  -> 先楫半导体_31 https://www.hpmicro.com/resources/detail.html?id=a313eb8f-afbf-4d12-95a2-ce22bda8d3c0

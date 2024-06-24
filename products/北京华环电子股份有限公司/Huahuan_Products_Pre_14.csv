@@ -1,0 +1,6 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=2&ncid=190&deid=202
+产品结构：root->Huahuan_Products_PrecisionTimeProtocol(PTP)GrandmasterClock_PrecisionTimeProtocol/1588v2GrandmasterClock
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Precision Time Protocol (PTP) Grandmaster Clock|无|GNSS 基于同步，支持单 SV 定时模式，仅需部分天空视图，±100ns 定时精度；PTP 主时钟，NTP 服务器，1PPS/ToD 输出，可调节电缆长度延迟补偿；基于高稳定性 OCXO，优于 1ppb 保持性能；支持多个 PTP 配置文件，在选定的配置文件内即插即用操作；100Base-T，PoE，低功耗；Web 服务器，SNMP，CLI 配置和管理接口|

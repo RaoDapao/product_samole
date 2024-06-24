@@ -1,0 +1,24 @@
+-> root https://www.hdsc.com.cn
+  -> 华大半导体有限公司 https://www.hdsc.com.cn/Category22
+    -> EEPROM 存储器电路 
+    -> 新型显示芯片 
+  -> 华大半导体MCU荣获2项“中国芯”优秀产品奖-华大半导体有限公司 https://www.hdsc.com.cn/News-148
+  -> 2023行家极光奖揭晓！华大半导体旗下中电化合物荣获“2023年度SiC衬底-外延最具影响力产品奖”-华大半导体有限公司 https://www.hdsc.com.cn/News-241
+  -> 华大半导体旗下中电化合物8吋SiC外延片首批产品交付-华大半导体有限公司 https://www.hdsc.com.cn/News-231
+  -> 【国产FPGA产品发布】安路科技新品发布会邀请函-华大半导体有限公司 https://www.hdsc.com.cn/News-105
+  -> 【国六安全芯片】华大半导体荣获第四届中国IoT创新奖产品金狮奖-华大半导体有限公司 https://www.hdsc.com.cn/News-124
+  -> 华大电子三款安全芯片产品获阿里云ID²INSIDE商标授权-华大半导体有限公司 https://www.hdsc.com.cn/News-93
+  -> 华大半导体旗下华大电子荣获2016年度“卫星导航定位优秀工程与产品奖特等奖”-华大半导体有限公司 https://www.hdsc.com.cn/News-26
+  -> 聚焦新基建战略华大半导体召开充电桩市场产品技术研讨会-华大半导体有限公司 https://www.hdsc.com.cn/News-137
+    -> 智能计量芯片 
+    -> 图腾柱 PFC 专用电源管理芯片 
+  -> 华大半导体车规级驱动产品荣获第六届集成电路产业技术创新奖-华大半导体有限公司 https://www.hdsc.com.cn/News-217
+  -> 【风雨无阻，同“芯”协力】华大半导体全系列产品为新基建助力-华大半导体有限公司 https://www.hdsc.com.cn/News-144
+    -> 车规级 16pin 隔离型 IGBT 栅极驱动芯片 
+    -> 6 英寸 N 型 SiC 衬底 
+    -> 4 英寸碳化硅基氮化镓 HEMT 外延片 
+    -> 物联网 SE 芯片 
+  -> 华大半导体有限公司_1 https://www.hdsc.com.cn/Category94
+  -> 央视CCTV-13新闻直播间展示了华大半导体TPCM模块产品-华大半导体有限公司 https://www.hdsc.com.cn/News-62
+  -> 华大半导体有限公司_2 https://www.hdsc.com.cn/Category97
+  -> 华大半导体有限公司_3 https://www.hdsc.com.cn/Public/Uploads/uploadfile/files/20220223/20220223170708_6215f93c5e930.xlsx

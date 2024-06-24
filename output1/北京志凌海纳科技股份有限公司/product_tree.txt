@@ -1,0 +1,169 @@
+-> root https://smartx.com
+  -> 一文解读VMwarebyBroadcom https://www.smartx.com/blog/2024/03/vmware-by-broadcom-replacement
+    -> vSphere Essentials Plus Kit 
+    -> vSphere Standard 
+    -> VMware vSphere Foundation 
+    -> VMware Cloud Foundation 
+  -> SmartX超融合基础设施及SMTXHa https://www.smartx.com/resource/doc/general-v40-halo
+    -> SmartX 超融合基础设施 
+    -> SMTX Halo 一体机 
+  -> 产品解析–SmartX https://www.smartx.com/blog/category/products-in-depth
+    -> SmartX 超融合 
+    -> SmartX 虚拟化内容合集 
+    -> SmartX 超融合虚拟机高可用构建思路 
+    -> SmartX 硬件兼容性查询工具、文档中心和 API 文档 
+    -> SmartX 超融合 
+    -> SmartX 超融合虚拟化与虚拟机管理关键技术与特性 
+    -> SKS 1.2 
+    -> SMTX 备份与容灾 
+    -> ZBS 的 RoCE 技术 
+    -> 分布式存储 
+    -> SKS 
+    -> 超融合系统疑难故障定位与解决实践 
+    -> SMTX Kubernetes 服务 
+    -> 分布式块存储 ZBS 
+    -> SmartX 超融合 5.1 
+    -> 网络交换机 
+    -> SmartX 超融合 
+    -> K8s 持久化存储 
+    -> IOMesh Pod HA 
+    -> SmartX Kubernetes 基础设施解决方案 
+    -> Everoute LB 
+    -> SmartX 超融合虚拟化下的网络 I/O 虚拟化技术 
+    -> GPU 直通 & vGPU 
+    -> 志凌海纳 SmartX 边缘计算解决方案 
+    -> IOMesh 
+    -> 新建集群 VS 滚动升级 
+    -> SmartX 存储性能测试工具 OWL 
+    -> 主流 K8s 持久化存储方案 
+    -> SMTX CloudMove 
+    -> IOMesh 1.0 
+    -> SmartX 超融合操作系统 
+    -> SKS 1.0 
+    -> SmartX 超融合硬盘健康检测机制 
+    -> 分布式存储可靠性 
+    -> VMware、Nutanix、SmartX 超融合技术与性能对比 
+    -> 超融合利旧用户实践 
+    -> SMTX 迁移工具 
+    -> 分布式存储 ZBS 
+    -> 分布式存储 ZBS 
+    -> knest 
+    -> SmartX 超融合替代可行性与迁移方案 
+    -> 微分段与备份产品 
+    -> VMware 与 SmartX 超融合 I/O 路径差异及其影响 
+    -> 微分段的三种实现方案 
+    -> 零信任 
+    -> K8s 多租户现有实现机制分析与优化 
+    -> 基于微分段的东西向安全防护 
+    -> 超融合不再需要缓存盘？vSAN 8 ESA 消除磁盘组 
+    -> VMware 超融合国产替代之性能对比篇 
+    -> VMware 与 SmartX 分布式存储缓存机制浅析与性能对比 
+    -> 数据保护产品 SMTX 备份与恢复 
+    -> SmartX Everoute 如何通过微分段技术实现 “零信任” 
+    -> 分布式块存储 ZBS 
+    -> VMware 与 SmartX 快照原理浅析与 I/O 性能对比 
+    -> 虚拟化数据中心的东西向访问控制 
+    -> Virtink 
+    -> SMTX 迁移工具 
+    -> 微分段应用场景与实现机制 
+    -> SmartX 超融合基础设施关键能力 
+    -> SmartX 超融合 
+    -> 管理平台 CloudTower 2.0 版本 
+    -> SmartX 超融合套件社区版 
+    -> 弹性副本恢复策略 
+    -> SmartX 超融合 
+    -> SMTX ZBS 
+    -> SmartX 超融合社区版 
+    -> 超融合的权威定义 
+    -> 零信任安全 
+    -> SPDK Vhost-user 
+    -> 超融合产品网络与安全组件 
+    -> SMTX ZBS 5.0 
+    -> 基于 VMware vSphere 的超融合平台 
+    -> K8s 云原生存储 IOMesh 
+    -> 傲腾持久内存存储加速精选解决方案 
+    -> SmartX 分布式块存储与商用 Ceph 存储产品 
+    -> 超低延迟超融合解决方案 
+    -> 分布式块存储解决方案 
+    -> 超融合一体机 
+    -> vSAN 与 SmartX ZBS 
+    -> 资源用量预测功能 
+    -> SMTX 虚拟机迁移工具 
+    -> SMTX OS 4.0 与 分布式块存储产品 SMTX ZBS 
+    -> 超融合产品选型 POC 要点之 – 可靠性篇 
+    -> SMTX OS 网络规划最佳实践 – Elf 平台 
+    -> SMTX OS 4.0 一键升级功能 
+    -> SMTX OS 4.0 数据智能再平衡策略 
+    -> SMTX OS 超融合硬件选配推荐指南 
+    -> SMTX ZBS 分布式块存储 Kubernetes CSI 实现 
+    -> Intel Optane SSD 与 SmartX 超融合 
+    -> SMTX OS 超融合硬件选配推荐指南 
+    -> CTO 深度解读 SMTX OS 3.5 产品特性 
+  -> SmartX超融合基础设施及SMTXHa_1 https://www.smartx.com/download-preview/doc/smtxOs40Halo/general_v40_halo.pdf
+  -> VMware替代Q&A｜如何以Smart https://www.smartx.com/blog/2024/04/vmware-replacement-qa-14
+    -> SmartX 超融合软件 SMTX OS 
+    -> SmartX HCI 全栈超融合基础设施 
+  -> 电子书推荐｜VMware替代与升级攻略： https://www.smartx.com/blog/2023/11/vmware-replace-collection-promo
+  -> SmartX联合华鲲振宇推出SmartX https://www.smartx.com/blog/2023/03/smtx-os-certified-products-2
+  -> 一文了解评估K8s原生存储产品需要关注的 https://www.smartx.com/blog/2023/08/k8s-storage-capabilities
+  -> 存储自动化、预测分析和人工智能的六个关键 https://www.smartx.com/blog/2020/07/intelligent-storage
+  -> TechTarget：超融合云基础概念解 https://www.smartx.com/blog/2020/06/tech-target
+  -> 2020年Forrester全球超融合品 https://www.smartx.com/blog/2020/05/forrester-smartx
+    -> 超融合软件 SMTX OS 
+    -> Halo 一体机 
+  -> 2019Gartner中国超融合市场格局 https://www.smartx.com/blog/2019/09/2019-gartner-report-smartx
+  -> 开源产品–SmartX https://www.smartx.com/blog/category/products-in-depth/open-source
+  -> VMware替代Q&A｜vSAN-VMw https://www.smartx.com/blog/2024/04/vmware-replacement-qa-11
+  -> VMware替代Q&A｜vSAN-VMw_1 https://www.smartx.com/blog/2024/04/vmware-replacement-qa-10
+  -> VMware替代Q&A｜选型VMware https://www.smartx.com/blog/2024/04/vmware-replacement-qa-6
+  -> VMware替代Q&A｜有哪些成熟的VM https://www.smartx.com/blog/2024/04/vmware-replacement-qa-5
+  -> VMware替代常见问题合集：评估、选型 https://www.smartx.com/blog/2024/04/vmware-replacement-qa-collection
+  -> 基于VMware，如何用SMTXZBS分 https://www.smartx.com/blog/2018/07/vmware-smartx-zbs
+  -> 性能翻倍！SmartX超融合与vSAN8 https://www.smartx.com/blog/2024/06/smartx-hci-vs-vsan8
+  -> 自贡市第一人民医院：超融合与SKS承载H https://www.smartx.com/blog/2024/03/zg-hospital
+    -> SMTX Kubernetes Service（SKS） 
+  -> 从物理机-云平台迁移至超融合？SMTXC https://www.smartx.com/blog/2023/07/smtx-cloudmove
+  -> VMware替代专题|VMware超融合 https://www.smartx.com/blog/2022/09/smartx-vs-vmware
+  -> SmartX虚拟化内容合集：特性、实践、 https://www.smartx.com/blog/2024/06/smartx-virtualization-collection
+    -> 原生虚拟化 ELF 
+    -> 跨平台迁移工具 SMTX 迁移工具 
+  -> SmartX硬件兼容性查询工具、文档中心 https://www.smartx.com/blog/2024/05/smartx-product-doc-tools
+    -> SmartX 硬件兼容性查询工具 
+    -> SmartX 文档中心 
+    -> SmartX API 文档 
+  -> 整合IOMesh&KubeBlocks产 https://www.smartx.com/blog/2024/04/iomesh-kubeblocks-solution
+    -> KubeBlocks 
+  -> 一文了解超融合虚拟化与虚拟机管理关键技术 https://www.smartx.com/blog/2024/04/virtualization-feature-collection
+  -> 志凌海纳SmartX信创进展合集：关键业 https://www.smartx.com/blog/2024/03/smartx-in-xc-2024-update
+  -> SMTX备份与容灾的部署前规划：复制与恢 https://www.smartx.com/blog/2024/03/smartx-backup-recovery-2
+  -> SMTX备份与容灾的部署前规划：备份与恢 https://www.smartx.com/blog/2024/03/smartx-backup-recovery-1
+  -> ZBS的RoCE技术支持与业务场景性能评 https://www.smartx.com/blog/2024/02/zbs-roce
+  -> 分布式存储与集中式存储（HDS）的性能对 https://www.smartx.com/blog/2024/01/zbs-hds-performance
+  -> 虚拟化和裸金属K8s哪个性能更好？一文了 https://www.smartx.com/blog/2024/01/sks-bare-metal-performance-2
+  -> 超融合系统疑难故障定位与解决实践3例（含 https://www.smartx.com/blog/2024/01/hci-fault-locating
+  -> 一文了解SmartX产品信创硬件选配最佳 https://www.smartx.com/blog/2023/12/smartx-xc-hardware-selection
+    -> SmartX 分布式块存储软件 SMTX ZBS 
+  -> 分布式块存储ZBS的自主研发之旅｜元数据 https://www.smartx.com/blog/2023/11/zbs-meta-server
+  -> 全栈升级|一文了解SmartX超融合5. https://www.smartx.com/blog/2023/11/smartx-hci-51-collection
+    -> SmartX HCI 5.1 版本 
+    -> SMTX OS 5.1 版本 
+    -> Everoute 软件定义网络与安全 2.0 版本 
+    -> SMTX CloudMove 工具 
+  -> 副本降级导致数据丢失？SmartX超融合 https://www.smartx.com/blog/2023/11/smartx-hci-temp-replica
+  -> 干货分享｜K8s持久化存储怎么做？这本电 https://www.smartx.com/blog/2023/11/k8s-storage-collection-promo
+  -> IOMeshPodHA：优化Kubern https://www.smartx.com/blog/2023/11/iomesh-pod-ha
+  -> 一文了解SmartXKubernetes https://www.smartx.com/blog/2023/10/smartx-kubernetes-solution
+    -> Kubernetes 服务 SKS 
+    -> 分布式块存储 SMTX ZBS 
+    -> Kubernetes 原生存储 IOMesh 
+  -> 为虚拟网络提供敏捷负载均衡：Everou https://www.smartx.com/blog/2023/10/smartx-everoute-lb
+  -> 志凌海纳SmartX成为首个通过上海软协 https://www.smartx.com/blog/2023/10/smtx-os-ssia-recognition
+  -> 志凌海纳SmartX2023年第三季度进 https://www.smartx.com/blog/2023/10/2023-q3-progress
+  -> 志凌海纳SmartX连续三年获评Gart https://www.smartx.com/blog/2023/09/2023-gartner-peer-insights
+  -> 金融场景探索｜以分布式存储驱动金融资管估 https://www.smartx.com/blog/2023/09/finance-valuation-test
+  -> GPU直通&vGPU：超融合为GPU应用 https://www.smartx.com/blog/2023/09/smartx-hci-gpu
+  -> 一文了解志凌海纳SmartX边缘计算解决 https://www.smartx.com/blog/2023/09/smartx-edge-computing
+    -> SmartX 边缘计算解决方案 
+    -> SmartX 超融合边缘计算解决方案 
+    -> SmartX 超融合内置分布式存储 
+    -> CloudTower 

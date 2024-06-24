@@ -1,0 +1,15 @@
+产品网址：https://en.taixin-semi.com/Product/ProductDetail?productId=238
+产品结构：root->珠海泰芯半导体有限公司-产品中心
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|TXW801|TX-M801-U|无|
+
+Type,Working Freq-Band(MHz),Encapsulated Type,Chip-Set,Max Speed（MHz）,RAM（Byte）,Working Voltage（V）,Temperature（℃）,Advanced TM,GPTM,WatchDog,Code Encryption,USB,M2M DMA,AES,CRC.1,TRNG
+TX-M801-U,2.4G,12.2*12.9,CK803,180,330*1024,3 ~ 3.6,-20 ~ 70,6*16bit,6*32bit,1,√,1,2,1,1,1
+
+
+
+
+
+

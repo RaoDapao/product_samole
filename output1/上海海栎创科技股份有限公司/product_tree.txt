@@ -1,0 +1,88 @@
+-> root http://www.hynitron.com
+  -> -上海海栎创科技股份有限公司 http://www.hynitron.com/product/phone
+    -> 高性能自互一体多点电容触控芯片 
+    -> 高性能自互一体多电容触控芯片 
+    -> 高性能自互一体多电容触控芯片 
+  -> -上海海栎创科技股份有限公司_1 http://www.hynitron.com/product/wearable
+    -> 可穿戴 
+    -> 可穿戴 
+    -> 可穿戴 
+    -> 可穿戴 
+    -> 可穿戴 
+  -> -上海海栎创科技股份有限公司_2 http://www.hynitron.com/product/iot
+    -> 高性能互电容多点触控芯片 
+  -> -上海海栎创科技股份有限公司_3 http://www.hynitron.com/product/audio
+    -> 音箱 
+    -> 音箱 
+    -> 音箱 
+    -> 音箱 
+    -> 音箱 
+    -> 音箱 
+  -> -上海海栎创科技股份有限公司_4 http://www.hynitron.com/product/pen
+  -> -上海海栎创科技股份有限公司_5 http://www.hynitron.com/product/phone/145
+  -> -上海海栎创科技股份有限公司_6 http://www.hynitron.com/product/phone/123
+  -> -上海海栎创科技股份有限公司_7 http://www.hynitron.com/product/phone/121
+  -> -上海海栎创科技股份有限公司_8 http://www.hynitron.com/product/wearable/334
+  -> -上海海栎创科技股份有限公司_9 http://www.hynitron.com/product/wearable/204
+  -> -上海海栎创科技股份有限公司_10 http://www.hynitron.com/product/wearable/126
+  -> -上海海栎创科技股份有限公司_11 http://www.hynitron.com/product/wearable/125
+  -> -上海海栎创科技股份有限公司_12 http://www.hynitron.com/product/wearable/124
+  -> -上海海栎创科技股份有限公司_13 http://www.hynitron.com/product/iot/207
+  -> -上海海栎创科技股份有限公司_14 http://www.hynitron.com/product/iot/205
+  -> -上海海栎创科技股份有限公司_15 http://www.hynitron.com/product/iot/198
+  -> -上海海栎创科技股份有限公司_16 http://www.hynitron.com/product/iot/197
+  -> -上海海栎创科技股份有限公司_17 http://www.hynitron.com/product/iot/196
+  -> -上海海栎创科技股份有限公司_18 http://www.hynitron.com/product/audio/335
+  -> -上海海栎创科技股份有限公司_19 http://www.hynitron.com/product/audio/134
+  -> -上海海栎创科技股份有限公司_20 http://www.hynitron.com/product/audio/133
+  -> -上海海栎创科技股份有限公司_21 http://www.hynitron.com/product/audio/132
+  -> -上海海栎创科技股份有限公司_22 http://www.hynitron.com/product/audio/131
+  -> -上海海栎创科技股份有限公司_23 http://www.hynitron.com/product/audio/130
+  -> -上海海栎创科技股份有限公司_24 http://www.hynitron.com/product/pen/208
+  -> -上海海栎创科技股份有限公司_25 http://www.hynitron.com/product/pen/206
+  -> -上海海栎创科技股份有限公司_26 http://www.hynitron.com/product/pen/129
+    -> NOLO Sonic VR 一体机 
+    -> 海栎创 HK01XS 单通道电容式触控芯片 
+    -> 有道词典笔 X6Pro 
+    -> 有道词典笔 S6 
+  -> -上海海栎创科技股份有限公司_29 http://www.hynitron.com/product/phone/145$
+  -> -上海海栎创科技股份有限公司_30 http://www.hynitron.com/product/wearable/334$
+  -> -上海海栎创科技股份有限公司_31 http://www.hynitron.com/product/iot/198$
+  -> -上海海栎创科技股份有限公司_32 http://www.hynitron.com/product/audio/133$
+  -> -上海海栎创科技股份有限公司_33 http://www.hynitron.com/product/audio/132$
+  -> -上海海栎创科技股份有限公司_34 http://www.hynitron.com/product/audio/130$
+  -> -上海海栎创科技股份有限公司_35 http://www.hynitron.com/product/pen/208$
+  -> -上海海栎创科技股份有限公司_36 http://www.hynitron.com/product/pen/206$
+  -> -ShanghaiHynitronTec http://en.hynitron.com/product/iot
+  -> -ShanghaiHynitronTec_1 http://en.hynitron.com/product/pen
+  -> -ShanghaiHynitronTec_2 http://en.hynitron.com/product/phone/121
+  -> -ShanghaiHynitronTec_3 http://en.hynitron.com/product/wearable/239
+  -> -ShanghaiHynitronTec_4 http://en.hynitron.com/product/wearable/238
+  -> -ShanghaiHynitronTec_5 http://en.hynitron.com/product/wearable/126
+  -> -ShanghaiHynitronTec_6 http://en.hynitron.com/product/iot/192
+  -> -ShanghaiHynitronTec_7 http://en.hynitron.com/product/iot/190
+  -> -ShanghaiHynitronTec_8 http://en.hynitron.com/product/iot/188
+  -> -ShanghaiHynitronTec_9 http://en.hynitron.com/product/iot/186
+  -> -ShanghaiHynitronTec_10 http://en.hynitron.com/product/iot/187
+  -> -ShanghaiHynitronTec_11 http://en.hynitron.com/product/audio/134
+  -> -ShanghaiHynitronTec_12 http://en.hynitron.com/product/audio/133
+  -> -ShanghaiHynitronTec_13 http://en.hynitron.com/product/audio/132
+  -> -ShanghaiHynitronTec_14 http://en.hynitron.com/product/audio/131
+  -> -ShanghaiHynitronTec_15 http://en.hynitron.com/product/audio/189
+  -> -ShanghaiHynitronTec_16 http://en.hynitron.com/product/pen/194
+  -> -ShanghaiHynitronTec_17 http://en.hynitron.com/product/pen/191
+  -> -ShanghaiHynitronTec_18 http://en.hynitron.com/product/pen/129
+  -> -ShanghaiHynitronTec_21 http://en.hynitron.com/product/phone/205$
+  -> -ShanghaiHynitronTec_22 http://en.hynitron.com/product/wearable/239$
+  -> -ShanghaiHynitronTec_23 http://en.hynitron.com/product/wearable/238$
+  -> -ShanghaiHynitronTec_24 http://en.hynitron.com/product/wearable/126$
+  -> -ShanghaiHynitronTec_25 http://en.hynitron.com/product/wearable/125$
+  -> -ShanghaiHynitronTec_26 http://en.hynitron.com/product/iot/190$
+  -> -ShanghaiHynitronTec_27 http://en.hynitron.com/product/iot/188$
+  -> -ShanghaiHynitronTec_28 http://en.hynitron.com/product/iot/186$
+  -> -ShanghaiHynitronTec_29 http://en.hynitron.com/product/iot/187$
+  -> -ShanghaiHynitronTec_30 http://en.hynitron.com/product/audio/134$
+  -> -ShanghaiHynitronTec_31 http://en.hynitron.com/product/audio/133$
+  -> -ShanghaiHynitronTec_32 http://en.hynitron.com/product/audio/132$
+  -> -ShanghaiHynitronTec_33 http://en.hynitron.com/product/audio/131$
+  -> -ShanghaiHynitronTec_34 http://en.hynitron.com/product/pen/129$

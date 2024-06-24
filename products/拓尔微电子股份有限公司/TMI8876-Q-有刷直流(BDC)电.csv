@@ -1,0 +1,6 @@
+产品网址：https://www.toll-semi.com/products-motordriveQSt/326.html
+产品结构：root->TMI8876/Q-有刷直流(BDC)电机驱动器-拓尔微
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|有刷直流(BDC)电机驱动器|TMI8876/Q|H-bridge Motor Driver with Integrated Current Sense and Regulation，可驱动一个双向有刷直流电机、两个单向有刷直流电机或其他阻性和感性负载，具有宽 4.5V 至 37V 工作电压、3.5A 峰值电流驱动、集成电流感应和调节、PH/EN 和 PWM 输入控制模式、逐周期或固定关断时间电流调节、支持 1.8V、3.3V、5V 逻辑输入、内置 5V 参考输出、超低功耗睡眠模式、VM 欠压锁定(UVLO)、过流保护(OCP)、热关断(TSD)、自动故障恢复和指示引脚、小封装等特性|

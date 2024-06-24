@@ -1,0 +1,11 @@
+产品网址：http://en.redpowersemi.com/products/igbt/77.html
+产品结构：root->KSeries【HighSpeed】-AnhuiRedPowerMicroelectronicsCo.,Ltd
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|IGBT Module|K Series【High Speed】|采用平面 FS 技术，具有高 RBSOA 能力和低关断损耗，适用于高频开关应用、焊接和感应加热等领域|
+
+Part No.,Housing,Configuration,Voltage Class,Technology,Ic(com),VCE(sat),Dimensions
+RG150B12KH3,62mm,2 PACK,1200 V,Planar-FS,150 A,2.5,106.4*61.4*30.5mm
+RG200B12KH3,62mm,2 PACK,1200 V,Planar-FS,200 A,2.5,106.4*61.4*30.5mm
+RG300B12KH3,62mm,2 PACK,1200 V,Planar-FS,300 A,2.5,106.4*61.4*30.5mm

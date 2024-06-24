@@ -1,0 +1,22 @@
+产品网址：https://www.len-technology.com/products/led/led-details/ln33x61
+产品结构：root->LN33X61Q1-
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|LED 驱动芯片|LN33X61Q1|车规级，60V，1.5A，同步降压型 LED 驱动|
+
+正常工作电压Min (V),3.5
+正常工作电压Max (V),60
+输出电流 (A),Up to 1.5
+同步整流（集成上管和下管）,是
+工作静态电流 (uA),70
+关断静态电流 (uA),1.2
+轻载模式,PFM
+开关频率 (KHz),200 to 2500
+EMI性能,支持展频
+其它功能,"Enable pin；  PWM/Analog Dimming；  Internal Compensation；  Fault Indicator for LED Short, Open；"
+完整保护,Accurate Peak and Valley Current Clamp；  Output short-circuit protection with hiccup mode；  Accurate Vin UVLO protection；  Over-temperature shuntdown and recovery；
+封装,SOIC-8EP
+产品等级,AEC-Q100 Grade1
+工作结温,-40 to 150
+功能安全类别,Functional Safety Capable

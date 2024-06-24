@@ -1,0 +1,29 @@
+-> root http://www.chiralst.com
+  -> 首页 
+    -> 产品中心 http://www.chiralst.com/products.html
+      -> 医药中间体 http://www.chiralst.com/products2/typeid/16.html
+      -> 电子化学品 http://www.chiralst.com/products2/typeid/13.html
+      -> 功能精细化学品 http://www.chiralst.com/products2/typeid/15.html
+      -> 四氮唑系列 http://www.chiralst.com/products2/typeid/1.html
+      -> 光致抗蚀剂材料 http://www.chiralst.com/products2/typeid/24.html
+      -> 手性化合物系列 http://www.chiralst.com/products2/typeid/17.html
+      -> 仿生农药 http://www.chiralst.com/products2/typeid/14.html
+      -> 杂环类化合物 http://www.chiralst.com/products2/typeid/19.html
+      -> 氨基酸 http://www.chiralst.com/products2/typeid/21.html
+      -> 氨基醇 http://www.chiralst.com/products2/typeid/22.html
+      -> 二醇系列 http://www.chiralst.com/products2/typeid/23.html
+      -> 手性小分子 http://www.chiralst.com/products2/typeid/25.html
+      -> 产品定制 http://www.chiralst.com/pro_dingzhi_zh/id/12.html
+      -> 光刻胶材料 http://www.chiralst.com/pro_dingzhi_zh/id/14.html
+  -> 5-Methyl-1H-tertazol http://www.chiralst.com/productse.html
+    -> Functional fine chemicals 
+    -> Pharmaceutical intermediates 
+    -> Electronic chemicals 
+    -> Biomimetic pesticide 
+  -> 5-Methyl-1H-tertazol_1 http://www.chiralst.com/products2e/typeid/1.html
+  -> 5-Methyl-1H-tertazol_2 http://www.chiralst.com/products2e/typeid/13.html
+  -> Currentpage:Home 
+    -> Products 
+      -> Electronicchemicals http://www.chiralst.com/products2e/typeid/14.html
+      -> Biomimeticpesticide http://www.chiralst.com/products2e/typeid/15.html
+  -> 5-Methyl-1H-tertazol_3 http://www.chiralst.com/index.php/Home/Index/products2e/typeid/13/p/2.html

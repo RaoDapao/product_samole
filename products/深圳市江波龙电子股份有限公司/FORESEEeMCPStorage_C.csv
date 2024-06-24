@@ -1,0 +1,19 @@
+产品网址：https://www.longsys.com/products/embedded-storage/embedded-storage/emcp.html
+产品结构：root->FORESEEeMCPStorage|CompactSmartDevice|Longsys
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|eMCP|无|复合产品，结合了 eMMC 和 LPDDR，确保智能设备紧凑轻便；产品简化了系统的 PCB 设计，减少了占用的 PCB 空间；在小封装中实现更高性能、更大容量和更低功耗|
+
+Product Series,Protocol,Capacity,DRAM Frequency,Package,Operating Temperature,Size,Operating Voltage
+eMCP3,eMMC5.1+LPDDR3,16GB+8Gb,800MHz,221ball,-25℃~85℃,11.5*13*1.0 mm,DRAM:VDD1=VDD2=1.8V;VDDQ=1.2V  eMMC:VCC:2.7~3.6V;VCCQ:1.7~1.95V/2.7~3.6V
+eMCP4x,eMMC5.1+LPDDR4x,64GB+32Gb,2133MHz,254ball,-25℃~85℃,11.5*13*1.0 mm,DRAM:VDD1=1.8V;VDD2=1.1V;VDDQ=0.6V  eMMC:VCC : 2.7~3.6V;VCCQ:1.7~1.95V/2.7~3.6V
+eMCP4x,eMMC5.1+LPDDR4x,128GB+32Gb,2133MHz,254ball,-25℃~85℃,11.5*13*1.0 mm,DRAM:VDD1=1.8V;VDD2=1.1V;VDDQ=0.6V  eMMC:VCC : 2.7~3.6V;VCCQ:1.7~1.95V/2.7~3.6V
+
+
+Number,Platform
+01,MediaTek
+02,Qualcomm
+03,Allwinner
+04,Rockchip
+（  The product supports mainstream platforms and only part of it is shown here.  ）,（  The product supports mainstream platforms and only part of it is shown here.  ）

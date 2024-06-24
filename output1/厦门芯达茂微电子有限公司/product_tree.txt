@@ -1,0 +1,14 @@
+-> root http://www.xindamao.com.cn
+  -> cycms http://www.xindamao.com.cn/product/lists/type/2
+    -> SiC MOSFET 
+    -> VD MOSFET 
+    -> SJ MOSFET 
+    -> SGT MOSFET 
+    -> PIM 
+    -> IPM 
+    -> IGBT 模块 
+    -> IGBT 模块 
+    -> IGBT 功率整合模块 
+    -> 智能 IGBT、MOS 模块 
+    -> 绝缘栅双极晶体管(IGBT) 
+  -> FAE工程师-人才招聘-厦门芯达茂微电子 http://www.xindamao.com.cn/Rczp/detail/id/29

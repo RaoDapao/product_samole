@@ -1,0 +1,23 @@
+产品网址：http://icpc.cn/cms/item/view?table=product&id=75
+产品结构：当前位置：首页->产品与服务->PowerPC->模块->CPB0843PPC-348型PMC计算机
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|CPB0843  PPC-348 型 PMC 计算机模块|CPB0843|是以 MPC8548 处理器为核心，采用 PowerQUICCIIIe500 内核，内部 CCB 达 533MHz。具有四路增强型千兆网络控制器，有强大的网络吞吐能力和运算处理能力。同时，该模块采用符合 IEEE1386.1 标准规范的 PMC 结构，并扩展 XMC 接口，运用 SMT 表面贴装工艺，加固导热铝合金冷板，具有整体结构紧凑、抗振动性好、控制通信功能卓越等特点，可应用于通信、石油石化等控制领域。|
+
+
+
+
+CPU,Freescale MPC8548 PowerQUICC III，up to 1.3GHz
+内存,"1GB DDR2 SDRAM ,64bit Bus Width"
+存储,"64MB, NOR FLASH"
+外部总线,"13位地址总线/ 8位数据总线  1x PCI 2.2总线,master,32bit/33MHz  1x I2C总线"
+功能接口,4x 10/100/1000Mbps自适应以太网口  1x RS232调试串口，1xRS232用户串口  2x GPOUT  4x外部中断接口  XMC接口（1路PCIexpress(x4) +1xSerial  RapidIO(x4)）
+其它,指示灯；RTC时钟
+功耗,典型功耗：16W@5V
+湿度,工作：10%～90%， 存储：5%～95%
+温度,工作：分为A、B、C三档，详见订货信息存储：-55℃～+85℃
+冲击,20G
+振动,5Hz～500Hz随机
+尺寸,149 mm x 74 mm x 14mm
+软件支持,Linux、VxWorks

@@ -1,0 +1,9 @@
+产品网址：http://itocec.com/Index/lists/catid/114.html
+产品结构：首页->产品与服务->小型网络增强型PLC产品IS23系列->网关模块
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|网关模块|IS23-E6020|ProfiBus DP 主站模块，主要完成 Profibus-DP 的通讯处理，并将处理好的数据发送给 CPU 模块，由 CPU 模块处理|
+|网关模块|IS23-E6030|Modbus RTU 主站网关模块，主要完成 Modbus RTU 的通讯处理，并将处理好的数据发送给 CPU 模块，由 CPU 模块处理|
+|网关模块|IS23-E6200|CANopen 主站网关模块，主要完成 CANopen 的通讯处理，并将处理好的数据发送给 CPU 模块，由 CPU 模块处理|
+|网关模块|IS23-E3000|无线 4G 模块|

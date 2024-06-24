@@ -1,0 +1,243 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+上海概伦电子股份有限公司,AC Dynamic Noise Measurement System,https://www.primarius-tech.com/en/products/data_test_system/9812ACen.html,9812AC,9812AC 是唯一一款基于前沿技术的交流激励下的商用低频噪声系统，为研究半导体器件开辟了新途径。它具有产生广泛动态偏置信号、滤波信号、监测偏置信号质量、放大信号以拾取输出噪声等功能，内置测量软件 NoiseProPlus 用于噪声测量和数据分析，适用于代工厂、IDM 和学术机构。,PRIMARIUS|9812AC,1231392476,无,0,无,0,无,0
+上海概伦电子股份有限公司,Low Frequency Noise Measurement System,https://www.primarius-tech.com/en/products/data_test_system/9812DXen.html,9812DX,是行业内低频噪声测量的黄金工具，帮助芯片制造商识别和消除缺陷，以实现可靠、高性能的芯片。它在测量速度、系统分辨率和不同类型测量要求的覆盖范围方面创下了新记录。支持所有器件类型，具有宽工作条件，包括高达 200V 的高压和低至 10pA 的极低电流。适用于高阻抗和低阻抗器件的完整测量条件范围，从 10Ω 到 10MΩ。在硬件和软件设计方面有显著和创新的改进。与半导体参数测试系统 FS-Pro 结合使用。广泛用于从 28nm 到 3nm 的最先进半导体工艺技术节点的开发。,PRIMARIUS|9812DX,7353985132,无,0,无,0,无,0
+上海概伦电子股份有限公司,9812E,https://www.primarius-tech.com/en/products/data_test_system/9812Een.html,无,Compact Low Frequency Noise Measurement System，是一款紧凑版的低频噪声测量系统，支持不同的测量要求，在系统硬件和软件设计上有显著创新改进，可与 Primarius 半导体参数测试系统 FS-Pro 配合使用，提供并行测试框架解决方案，显著提高测试效率和吞吐量,PRIMARIUS|9812E,829597698,无,0,无,0,无,0
+上海概伦电子股份有限公司,Semiconductor Parametric Analyzer,https://www.primarius-tech.com/en/products/data_test_system/9813DXCen.html,FS-Pro,无,PRIMARIUS|9813DXC,4753917063,无,0,无,0,无,0
+上海概伦电子股份有限公司,Low Frequency Noise,https://www.primarius-tech.com/en/products/data_test_system/9813DXCen.html,9812DX,无,PRIMARIUS|9813DXC,4753917063,无,0,无,0,无,0
+上海概伦电子股份有限公司,Low Frequency Noise,https://www.primarius-tech.com/en/products/data_test_system/9813DXCen.html,9812E,无,PRIMARIUS|9813DXC,4753917063,无,0,无,0,无,0
+上海概伦电子股份有限公司,Low Frequency Noise,https://www.primarius-tech.com/en/products/data_test_system/9813DXCen.html,9813DXC,9813DXC 是一款先进的低频噪声测量系统，适用于 14/10/7/5nm 技术节点，可用于工艺开发、质量评估和质量控制，以及 SPICE 模型提取的噪声表征等。它具有终极分辨率、多内置 LNA、全覆盖、并行测试、高速、创新架构和易于使用等特点。,PRIMARIUS|9813DXC,4753917063,无,0,无,0,无,0
+上海概伦电子股份有限公司,AC Dynamic Noise,https://www.primarius-tech.com/en/products/data_test_system/9813DXCen.html,9812AC,无,PRIMARIUS|9813DXC,4753917063,无,0,无,0,无,0
+上海概伦电子股份有限公司,Fab EDA,https://www.primarius-tech.com/en/products/analog_design_eda.html,无,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,AMS Design EDA,https://www.primarius-tech.com/en/products/analog_design_eda.html,无,提供高度可扩展和可定制的 IC 设计平台，以及广泛认可的仿真和分析解决方案，以满足各种工艺的多样化 IC 设计需求，从而提供基于 DTCO 方法的全面、应用驱动的 EDA 流程,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,Digital Design EDA,https://www.primarius-tech.com/en/products/analog_design_eda.html,无,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,Testing Systems,https://www.primarius-tech.com/en/products/analog_design_eda.html,无,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,Design Enablement Services,https://www.primarius-tech.com/en/products/analog_design_eda.html,无,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,SPICE Model,https://www.primarius-tech.com/en/products/analog_design_eda.html,无,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,Baseband Modeling,https://www.primarius-tech.com/en/products/analog_design_eda.html,BSIMProPlus,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,RF Modeling,https://www.primarius-tech.com/en/products/analog_design_eda.html,MeQLab,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,Model Extraction Automation,https://www.primarius-tech.com/en/products/analog_design_eda.html,SDEP,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,Model QA,https://www.primarius-tech.com/en/products/analog_design_eda.html,ME-Pro,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,PDK,https://www.primarius-tech.com/en/products/analog_design_eda.html,无,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,PCell Development,https://www.primarius-tech.com/en/products/analog_design_eda.html,PCellLab,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,PDK Verification,https://www.primarius-tech.com/en/products/analog_design_eda.html,PQLab,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,Standard Cell,https://www.primarius-tech.com/en/products/analog_design_eda.html,无,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,Library Characterization,https://www.primarius-tech.com/en/products/analog_design_eda.html,NanoCell,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,Library Validation,https://www.primarius-tech.com/en/products/analog_design_eda.html,LibWiz,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,Design Environment,https://www.primarius-tech.com/en/products/analog_design_eda.html,无,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,Schematic Capture,https://www.primarius-tech.com/en/products/analog_design_eda.html,NanoDesigner SE,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,Layout Editor,https://www.primarius-tech.com/en/products/analog_design_eda.html,NanoDesigner LS,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,Interactive Physical Verification,https://www.primarius-tech.com/en/products/analog_design_eda.html,NanoDesigner iV,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,Design Optimization,https://www.primarius-tech.com/en/products/analog_design_eda.html,NanoDesigner Optimizer,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,Circuit Simulation,https://www.primarius-tech.com/en/products/analog_design_eda.html,无,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,SPICE Simulator,https://www.primarius-tech.com/en/products/analog_design_eda.html,NanoSpice,通用并行 SPICE 模拟器,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,SPICE Simulator,https://www.primarius-tech.com/en/products/analog_design_eda.html,NanoSpice X,电路类型驱动的 SPICE 模拟器,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,SPICE Simulator,https://www.primarius-tech.com/en/products/analog_design_eda.html,NanoSpice Giga,大容量高精度 SPICE 模拟器,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,FastSPICE Simulator,https://www.primarius-tech.com/en/products/analog_design_eda.html,NanoSpice Pro,高性能 FastSPICE 模拟器,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,FastSPICE Simulator,https://www.primarius-tech.com/en/products/analog_design_eda.html,NanoSpice Pro X,先进的高性能 FastSPICE 模拟器,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,Mixed Signal,https://www.primarius-tech.com/en/products/analog_design_eda.html,NanoSpice MS,高性能混合信号仿真解决方案,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,Waveform Analysis,https://www.primarius-tech.com/en/products/analog_design_eda.html,NanoWave,大容量波形查看器,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,Circuit Analysis,https://www.primarius-tech.com/en/products/analog_design_eda.html,无,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,Yield Analysis,https://www.primarius-tech.com/en/products/analog_design_eda.html,NanoYield,高西格玛产量分析解决方案,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,Signal Integrity,https://www.primarius-tech.com/en/products/analog_design_eda.html,NanoSpice SI,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,Critical Path Analysis,https://www.primarius-tech.com/en/products/analog_design_eda.html,PathInspector,TR 级关键路径分析器,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,Power Device Design Verification,https://www.primarius-tech.com/en/products/analog_design_eda.html,PTM,无,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,ESD Verification,https://www.primarius-tech.com/en/products/analog_design_eda.html,ESDi,芯片级 HBM ESD 分析平台,PRIMARIUS|AMSDesignEDA,8552476461,无,0,无,0,无,0
+上海概伦电子股份有限公司,BSIMProPlus,https://www.primarius-tech.com/en/products/manufacturing_eda/BSIMProPlusen.html,无,是行业领先的先进半导体器件 SPICE 建模平台，具有全 SPICE 建模能力，可满足各种基带建模需求，内置并行 SPICE 引擎，支持最新的 CMC 行业标准 SPICE 模型、Verilog-A 和子电路模型，应用于 28nm/14nm/10nm/7nm/5nm/3nm 等各种技术节点，被领先客户用于工艺开发和 IC 设计,PRIMARIUS|BSIMProPlus,63248883,无,0,无,0,无,0
+上海概伦电子股份有限公司,Standard Cell,https://www.primarius-tech.com/en/products/engineering_service/Standard-Cell-Library-IP-Cores.html,NanoCell,无,PRIMARIUS|Characterization&Development,6085926114,无,0,无,0,无,0
+上海概伦电子股份有限公司,Design Environment,https://www.primarius-tech.com/en/products/engineering_service/Standard-Cell-Library-IP-Cores.html,NanoDesigner SE,无,PRIMARIUS|Characterization&Development,6085926114,无,0,无,0,无,0
+上海概伦电子股份有限公司,Circuit Simulation,https://www.primarius-tech.com/en/products/engineering_service/Standard-Cell-Library-IP-Cores.html,NanoSpice,无,PRIMARIUS|Characterization&Development,6085926114,无,0,无,0,无,0
+上海概伦电子股份有限公司,Circuit Analysis,https://www.primarius-tech.com/en/products/engineering_service/Standard-Cell-Library-IP-Cores.html,NanoYield,无,PRIMARIUS|Characterization&Development,6085926114,无,0,无,0,无,0
+上海概伦电子股份有限公司,Digital Simulation,https://www.primarius-tech.com/en/products/engineering_service/Standard-Cell-Library-IP-Cores.html,VeriSim,无,PRIMARIUS|Characterization&Development,6085926114,无,0,无,0,无,0
+上海概伦电子股份有限公司,Design & Verification,https://www.primarius-tech.com/en/products/engineering_service/Standard-Cell-Library-IP-Cores.html,TRASTA,无,PRIMARIUS|Characterization&Development,6085926114,无,0,无,0,无,0
+上海概伦电子股份有限公司,Floor Planning,https://www.primarius-tech.com/en/products/engineering_service/Standard-Cell-Library-IP-Cores.html,NavisPro,无,PRIMARIUS|Characterization&Development,6085926114,无,0,无,0,无,0
+上海概伦电子股份有限公司,Signal Integrity Analysis,https://www.primarius-tech.com/en/products/engineering_service/Standard-Cell-Library-IP-Cores.html,NanoSpice SI,无,PRIMARIUS|Characterization&Development,6085926114,无,0,无,0,无,0
+上海概伦电子股份有限公司,Power Design Analysis,https://www.primarius-tech.com/en/products/engineering_service/Standard-Cell-Library-IP-Cores.html,PTM,无,PRIMARIUS|Characterization&Development,6085926114,无,0,无,0,无,0
+上海概伦电子股份有限公司,Chip-to-Package Connectivity Verification,https://www.primarius-tech.com/en/products/engineering_service/Standard-Cell-Library-IP-Cores.html,PadInspector,无,PRIMARIUS|Characterization&Development,6085926114,无,0,无,0,无,0
+上海概伦电子股份有限公司,Parametric Testing,https://www.primarius-tech.com/en/products/engineering_service/Standard-Cell-Library-IP-Cores.html,FS-Pro,无,PRIMARIUS|Characterization&Development,6085926114,无,0,无,0,无,0
+上海概伦电子股份有限公司,Noise Measurement,https://www.primarius-tech.com/en/products/engineering_service/Standard-Cell-Library-IP-Cores.html,9812DX,无,PRIMARIUS|Characterization&Development,6085926114,无,0,无,0,无,0
+上海概伦电子股份有限公司,Noise Measurement,https://www.primarius-tech.com/en/products/engineering_service/Standard-Cell-Library-IP-Cores.html,9812E,无,PRIMARIUS|Characterization&Development,6085926114,无,0,无,0,无,0
+上海概伦电子股份有限公司,Noise Measurement,https://www.primarius-tech.com/en/products/engineering_service/Standard-Cell-Library-IP-Cores.html,9813DXC,无,PRIMARIUS|Characterization&Development,6085926114,无,0,无,0,无,0
+上海概伦电子股份有限公司,Data Testing,https://www.primarius-tech.com/en/products/engineering_service/Standard-Cell-Library-IP-Cores.html,Data Acquisition & Characterization,无,PRIMARIUS|Characterization&Development,6085926114,无,0,无,0,无,0
+上海概伦电子股份有限公司,SPICE Modeling,https://www.primarius-tech.com/en/products/engineering_service/Standard-Cell-Library-IP-Cores.html,Model Extraction & QA,无,PRIMARIUS|Characterization&Development,6085926114,无,0,无,0,无,0
+上海概伦电子股份有限公司,Testkey & Layout,https://www.primarius-tech.com/en/products/engineering_service/Standard-Cell-Library-IP-Cores.html,Testkey Design & Layout,无,PRIMARIUS|Characterization&Development,6085926114,无,0,无,0,无,0
+上海概伦电子股份有限公司,New Device,https://www.primarius-tech.com/en/products/engineering_service/Standard-Cell-Library-IP-Cores.html,New Device Solutions,无,PRIMARIUS|Characterization&Development,6085926114,无,0,无,0,无,0
+上海概伦电子股份有限公司,PDK,https://www.primarius-tech.com/en/products/engineering_service/Standard-Cell-Library-IP-Cores.html,Development & Verification,无,PRIMARIUS|Characterization&Development,6085926114,无,0,无,0,无,0
+上海概伦电子股份有限公司,IP Development,https://www.primarius-tech.com/en/products/engineering_service/Standard-Cell-Library-IP-Cores.html,Characterization & Development,无,PRIMARIUS|Characterization&Development,6085926114,无,0,无,0,无,0
+上海概伦电子股份有限公司,Data Acquisition & Characterization,https://www.primarius-tech.com/en/products/engineering_service/Data-Testingen.html,无,无,PRIMARIUS|DataAcquisition&Characterization,3014663704,无,0,无,0,无,0
+上海概伦电子股份有限公司,Design & Verification,https://www.primarius-tech.com/en/products/engineering_service.html,无,无,PRIMARIUS|DesignEnablementServices,9571625136,无,0,无,0,无,0
+上海概伦电子股份有限公司,Timing Analysis,https://www.primarius-tech.com/en/products/engineering_service.html,TRASTA,无,PRIMARIUS|DesignEnablementServices,9571625136,无,0,无,0,无,0
+上海概伦电子股份有限公司,Parametric Testing,https://www.primarius-tech.com/en/products/engineering_service.html,无,无,PRIMARIUS|DesignEnablementServices,9571625136,无,0,无,0,无,0
+上海概伦电子股份有限公司,Noise Measurement,https://www.primarius-tech.com/en/products/engineering_service.html,无,无,PRIMARIUS|DesignEnablementServices,9571625136,无,0,无,0,无,0
+上海概伦电子股份有限公司,Wafer Testing,https://www.primarius-tech.com/en/products/engineering_service.html,无,无,PRIMARIUS|DesignEnablementServices,9571625136,无,0,无,0,无,0
+上海概伦电子股份有限公司,SPICE Modeling,https://www.primarius-tech.com/en/products/engineering_service.html,无,无,PRIMARIUS|DesignEnablementServices,9571625136,无,0,无,0,无,0
+上海概伦电子股份有限公司,Model Extraction & QA,https://www.primarius-tech.com/en/products/engineering_service.html,无,无,PRIMARIUS|DesignEnablementServices,9571625136,无,0,无,0,无,0
+上海概伦电子股份有限公司,Testchip Design,https://www.primarius-tech.com/en/products/engineering_service.html,无,无,PRIMARIUS|DesignEnablementServices,9571625136,无,0,无,0,无,0
+上海概伦电子股份有限公司,Testkey Design & Layout,https://www.primarius-tech.com/en/products/engineering_service.html,无,无,PRIMARIUS|DesignEnablementServices,9571625136,无,0,无,0,无,0
+上海概伦电子股份有限公司,New Device,https://www.primarius-tech.com/en/products/engineering_service.html,无,无,PRIMARIUS|DesignEnablementServices,9571625136,无,0,无,0,无,0
+上海概伦电子股份有限公司,New Device Solutions,https://www.primarius-tech.com/en/products/engineering_service.html,无,无,PRIMARIUS|DesignEnablementServices,9571625136,无,0,无,0,无,0
+上海概伦电子股份有限公司,PDK Development,https://www.primarius-tech.com/en/products/engineering_service.html,无,无,PRIMARIUS|DesignEnablementServices,9571625136,无,0,无,0,无,0
+上海概伦电子股份有限公司,Development & Verification,https://www.primarius-tech.com/en/products/engineering_service.html,无,无,PRIMARIUS|DesignEnablementServices,9571625136,无,0,无,0,无,0
+上海概伦电子股份有限公司,IP Development,https://www.primarius-tech.com/en/products/engineering_service.html,无,无,PRIMARIUS|DesignEnablementServices,9571625136,无,0,无,0,无,0
+上海概伦电子股份有限公司,Characterization & Development,https://www.primarius-tech.com/en/products/engineering_service.html,无,无,PRIMARIUS|DesignEnablementServices,9571625136,无,0,无,0,无,0
+上海概伦电子股份有限公司,SPICE 模型,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,无,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,MeQLab,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,RF 建模,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,SDEP,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,模型提取自动化,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,ME-Pro,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,模型 QA,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,PCellLab,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,PCell 开发,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,PQLab,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,PDK 验证,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,NanoCell,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,标准单元库表征,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,LibWiz,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,库验证,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,NanoDesigner SE,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,原理图捕获,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,NanoDesigner LS,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,布局编辑器,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,NanoDesigner iV,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,交互式物理验证,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,NanoDesigner Optimizer,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,设计优化,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,NanoSpice,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,SPICE 模拟器,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,NanoSpice X,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,SPICE 模拟器,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,NanoSpice Giga,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,SPICE 模拟器,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,NanoSpice Pro,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,FastSPICE 模拟器,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,NanoSpice Pro X,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,FastSPICE 模拟器,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,NanoSpice MS,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,混合信号,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,NanoWave,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,波形分析,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,NanoYield,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,产量分析,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,NanoSpice SI,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,信号完整性,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,PathInspector,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,关键路径分析,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,PTM,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,功率器件设计验证,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,ESDi,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,ESD 验证,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,VeriSim,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,数字模拟,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,TRASTA,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,时序分析,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,NavisPro,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,Floor Planning,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,PadInspector,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,Chip-to-Package 连接性验证,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,FS-Pro,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,半导体参数分析仪,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,9812DX,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,低频噪声,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,9813DXC,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,低频噪声,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,9812AC,https://www.primarius-tech.com/en/products/engineering_service/PDK.html,无,AC 动态噪声,PRIMARIUS|Development&Verification,6826502058,无,0,无,0,无,0
+上海概伦电子股份有限公司,ESDi™,https://www.primarius-tech.com/en/aboutus/news/Enriching-the-Product-Matrix-Primarius-Launches-Chip-Level-HBM-ESD-Protection-Analysis-Platform-ESDi.html,无,是一个全面的先进全芯片 ESD（静电放电）网络验证工具套件，提供适用于设计过程各个阶段的 HBM（人体模型）验证解决方案，包括原理图级别和芯片级别，并已得到行业领先的芯片设计公司和制造商的认可和肯定,PRIMARIUS|PrimariusLaunchesChip|LevelHBMESDProtectionAnalysisPlatformESDi™&PowerDeviceDesignVerificationToolPTM™,6147818506,无,0,无,0,无,0
+上海概伦电子股份有限公司,PTM™,https://www.primarius-tech.com/en/aboutus/news/Enriching-the-Product-Matrix-Primarius-Launches-Chip-Level-HBM-ESD-Protection-Analysis-Platform-ESDi.html,无,是一套增强功率器件设计分析的工具，被顶级功率器件 IDM 和 Fabless 公司认可和采用。它可以高精度地提取 Rdson 并验证器件的开关行为，确保产品的可靠性和寿命,PRIMARIUS|PrimariusLaunchesChip|LevelHBMESDProtectionAnalysisPlatformESDi™&PowerDeviceDesignVerificationToolPTM™,6147818506,无,0,无,0,无,0
+上海概伦电子股份有限公司,FS-Pro 参数分析仪,https://www.primarius-tech.com/en/products/data_test_system.html,FS-Pro,提供灵活全面的器件测试，可对几乎所有类型的半导体器件进行快速准确的低频表征，广泛应用于半导体器件、LED 材料、二维材料器件和新型先进材料测试等研究领域，加速半导体器件和工艺的开发和评估,PRIMARIUS|TestingSystems,7239968302,无,0,无,0,无,0
+上海概伦电子股份有限公司,9812DX 低频噪声测试系统,https://www.primarius-tech.com/en/products/data_test_system.html,9812DX,低频噪声测量系统,PRIMARIUS|TestingSystems,7239968302,无,0,无,0,无,0
+上海概伦电子股份有限公司,9812E 低频噪声测试系统,https://www.primarius-tech.com/en/products/data_test_system.html,9812E,紧凑型低频噪声测量系统,PRIMARIUS|TestingSystems,7239968302,无,0,无,0,无,0
+上海概伦电子股份有限公司,9813DXC 低频噪声测试系统,https://www.primarius-tech.com/en/products/data_test_system.html,9813DXC,先进低频噪声测量系统,PRIMARIUS|TestingSystems,7239968302,无,0,无,0,无,0
+上海概伦电子股份有限公司,9812AC 交流动态噪声测试系统,https://www.primarius-tech.com/en/products/data_test_system.html,9812AC,交流动态噪声测量系统,PRIMARIUS|TestingSystems,7239968302,无,0,无,0,无,0
+上海概伦电子股份有限公司,动态交流噪声测试系统,https://www.primarius-tech.com/products/data_test_system/9812AC.html,9812AC,硬件系统包含生成大范围的动态偏置信号单元、信号滤波单元、监测偏置信号质量单元和低噪声放大信号单元等，以确保动态噪声信号的准确量测。配备专业的测试控制软件 NoiseProPlus，方便用户轻松设置和执行测试任务。可广泛应用于半导体代工厂、IDM 公司和学术机构。,9812AC,5350442178,无,0,无,0,无,0
+上海概伦电子股份有限公司,低频噪声测试系统,https://www.primarius-tech.com/products/data_test_system/9812DX.html,9812DX,作为单一完整的低频噪声测试系统，支持多种半导体器件类型在各种工作条件下（如 200V 高压、10pA 极低电流等）的高精度噪声测试。通过低频噪声测试，可以帮助芯片制造厂检测和排除工艺制造缺陷，确保芯片质量符合预期，提高芯片稳定性。具有晶圆级噪声测试精度和高测试带宽，最低测试噪声的电流精度低至 10^-27A^2/Hz，典型噪声测试速度提高至一个偏置条件仅需 20s、最高测试电压提高到 200V，通过并行测试架构解决方案以及协同 FS-Pro 半导体参数测试系统等方式大幅度提高测试效率和吞吐量，用于 28/14/10/7/5/3nm 等各工艺节点的先进工艺研发和高端集成电路设计，内置功能强大的 NoiseProPlus 软件，支持 1/f 噪声、RTN 噪声测试和数据分析,9812DX,5067784137,无,0,无,0,无,0
+上海概伦电子股份有限公司,低频噪声测试系统,https://www.primarius-tech.com/products/data_test_system/9812E.html,9812E,满足各种闪烁噪声和随机电报噪声/信号（RTN/RTS）测试要求，与概伦 FS-Pro 半导体参数测试系统搭配共同提供一整套并行测试框架解决方案，大幅提高测试效率和吞吐量，内置功能强大的 NoiseProPlus 软件，支持 1/f 噪声、RTN 噪声测试和数据分析,9812E,6565597839,无,0,无,0,无,0
+上海概伦电子股份有限公司,先进低频噪声测试系统,https://www.primarius-tech.com/products/data_test_system/9813DXC.html,9813DXC,支持多种半导体器件类型在各种工作条件下的高精度噪声测试，可帮助芯片制造厂检测和排除工艺制造缺陷，确保芯片质量符合预期，提高芯片稳定性。具有高精度、高速度、应用广泛、并行测试、集成化架构、易于操作等特点。适用于芯片制造工艺研发、质量评估、品质监控、半导体器件 SPICE 模型开发、电路设计、性能优化、半导体物理和材料研究等领域。,9813DXC,9235748311,无,0,无,0,无,0
+上海概伦电子股份有限公司,ATS,https://www.primarius-tech.com/products/data_test_system/ATS-new.html,无,ATS 是概伦电子基于 FS-Pro 半导体参数分析仪和自研硬件设备及测量控制软件开发的一套全自动电性量测解决方案。可根据使用需求灵活集成多种软硬件，测量涵盖电流电压（IV）、电容电压（CV）、脉冲式 IV、高速时域信号采集、低频噪声测试以及多种可靠性测试。通过概伦自主研发的低漏电矩阵开关和测量控制软件，可支持多种业界主流型号的探针台，实现半自动或全自动的晶圆级测试，适用于多种自动化量测场景。广泛应用于晶圆级电学参数测试，测量控制软件内建大量电性参数测试设置，可快速实现 Vt、Gm、Idlin、Idsat、Ioff、Swing、Cgg 等参数的全晶圆器件测试。适用于器件模型数据测试需求，一套系统即可完成包括 IV、CV 和 1/f 噪声等特性的测试，为建立 SPICE 模型提供全面数据支持和高效高质量的数据产出。在晶圆级可靠性测试方面，测量软件内置符合 JEDEC 标准的 HCI、BTI、TDDB、Ramp 测试算法，并支持多点位测试，保证全晶圆器件可靠性的准确评估。支持 TFT 电学特性测试和应力测试，包括 TFT 转移特性、输出特性、接触电阻、CV 特性以及 BTS 和电流应力测试。,ATS,3917490485,无,0,无,0,无,0
+上海概伦电子股份有限公司,ESDi 平台,https://www.primarius-tech.com/products/analog_design_eda/ESDi.html,无,是一款基于仿真的芯片级 ESD（静电放电）验证平台。平台提供原理图级、芯片级等适用于设计流程各阶段的 HBM 验证解决方案，获得了业界头部芯片设计公司和制造商的认可和肯定。通过非线性仿真和 TLP 模型，确保对 HBM 放电路径的精准仿真。支持版图提取，pad 和 ESD 防护器件识别，并生成寄生电阻简化模型。通过仿真 pad-pad HBM 冲击，评估 IR drop 和电流密度。识别内部电路的过压器件，检测错误或缺失的 ESD 单元，解决过高电压、电迁移和电流分布不均衡等问题。,ESDi,237766495,无,0,无,0,无,0
+上海概伦电子股份有限公司,FS-MEMS,https://www.primarius-tech.com/products/data_test_system/FS-MEMS.html,无,FS-MEMS 是一款专用于传感器结构参数测试功能的系统，为 MEMS 传感器电学参数提供晶圆级解决方案，可满足不同客户的定制化需求。内置数字 IO 模块，搭配智能探卡，无需更换线缆，通过一键操作即可完成。支持动态和静态参数测试，全面覆盖电流电压（IV）、电容电压（CV）、漏电、电阻、谐振频率、Q 值、正交系数、-3dB 带宽等关键电学参数，实现自动测试。硬件基于 PXI 架构，具有强大的系统扩展性，支持多通道并行测试，从而提高测试效率。系统内置专业测试软件，为客户提供友好的参数设置界面，操作简单，可轻松完成参数设置。包含多项功能模块，可测试角速度计（陀螺仪）、加速度计、压力传感器、光流量计、红外传感器等基于 MEMS 结构的微传感器。,FS|MEMS,3977411247,无,0,无,0,无,0
+上海概伦电子股份有限公司,半导体参数测试系统,https://www.primarius-tech.com/products/data_test_system/FS-Pro.html,FS-Pro,在一个系统中实现了电流电压(IV)测试、电容电压(CV)测试、脉冲式 IV 测试、任意线性波形发生与测量、高速波形发生与釆集以及低频噪声测试能力，几乎所有半导体器件的低频特性表征都可以在 FS-Pro 测试系统中完成。全面而强大的参数测试分析能力极大地加速了半导体器件与工艺的研发和评估进程，并可与概伦 9812 系列噪声测试系统无缝集成。釆用工业通用的 PXI 模块化硬件架构，系统配置灵活，扩展性强。内置专业测试软件 LabExpress 提供丰富的测试预设和强大的数据处理功能。LabExpress 软件同时支持自动化量测和并行量测，可进一步提升测试效率。广泛应用于各种半导体器件、LED 材料、二维材料器件、金属材料、新型先进材料与器件测试、器件可靠性等研究领域,FS|Pro,3533835268,无,0,无,0,无,0
+上海概伦电子股份有限公司,NanoDesigner 版图编辑器,https://www.primarius-tech.com/products/analog_design_eda/NanoDesigner-LS.html,NDLS,为用户提供高自由度和高扩展性的设计环境，高效完成图形编辑和智能辅助。支持 GDS 100GB、1000 万级 net 规模数据，解除单元数、层数限制；实现业界领先的高性能显示、编辑、数据转换等；集成多边形输入/rule 驱动/net 驱动/约束限制编辑/层次化设计/push-aside 功能；通过自动电位识别和 Net 追踪进行规则驱动编辑；通过 Net-Driven 方式完成从电路图到版图的无缝转化，实现 schematic/netlist 到版图 SDL 设计；强大的 crossprobe 功能支持电路与版图交互式布局与连线；支持分析、学习、自动编辑调用等常用功能；支持 Python 与 C++脚本的高效开发,NanoDesignerLS,2008406621,无,0,无,0,无,0
+上海概伦电子股份有限公司,标准单元库,https://www.primarius-tech.com/products/analog_design_eda/NanoSpice-CCK.html,无,特征化、验证,NanoSpiceCCK,3506355021,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路设计平台,https://www.primarius-tech.com/products/analog_design_eda/NanoSpice-CCK.html,NanoDesigner SE、NanoDesigner LS、NanoDesigner iV、NanoDesigner Optimizer,原理图设计、版图编辑、交互式物理验证、设计优化,NanoSpiceCCK,3506355021,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路仿真,https://www.primarius-tech.com/products/analog_design_eda/NanoSpice-CCK.html,NanoSpice、NanoSpice X、NanoSpice Giga、NanoSpice Pro、NanoSpice Pro X、NanoSpice MS、NanoWave,SPICE 仿真、FastSPICE 仿真、混合信号仿真、波形查看分析,NanoSpiceCCK,3506355021,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路分析,https://www.primarius-tech.com/products/analog_design_eda/NanoSpice-CCK.html,NanoSpice CCK、NanoYield、NanoSpice SI、PathInspector、PTM、RNi、ESDi,动态和静态电路检查、良率分析、信号完整性分析、路径分析、功率及电源芯片设计验证、电源网络分布分析、ESD 验证,NanoSpiceCCK,3506355021,无,0,无,0,无,0
+上海概伦电子股份有限公司,参数化测试,https://www.primarius-tech.com/products/analog_design_eda/NanoSpice-CCK.html,FS-Pro、FS-MEMS,半导体参数测试,NanoSpiceCCK,3506355021,无,0,无,0,无,0
+上海概伦电子股份有限公司,噪声测试,https://www.primarius-tech.com/products/analog_design_eda/NanoSpice-CCK.html,9812DX、9812E、9813DXC、9812AC,低频噪声测试、动态交流噪声测试,NanoSpiceCCK,3506355021,无,0,无,0,无,0
+上海概伦电子股份有限公司,综合量测,https://www.primarius-tech.com/products/analog_design_eda/NanoSpice-CCK.html,ATS,自动量测方案,NanoSpiceCCK,3506355021,无,0,无,0,无,0
+上海概伦电子股份有限公司,一站式技术开发,https://www.primarius-tech.com/products/analog_design_eda/NanoSpice-CCK.html,无,晶圆测试、SPICE 建模、测试芯片设计、新器件、PDK 开发、IP 开发,NanoSpiceCCK,3506355021,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路设计平台,https://www.primarius-tech.com/products/engineering_service/PDK-kai-fa-yu-yan-zheng.html,无,原理图设计、版图编辑、交互式物理验证、设计优化,PDK开发与验证,2600970660,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路仿真,https://www.primarius-tech.com/products/engineering_service/PDK-kai-fa-yu-yan-zheng.html,无,SPICE 仿真器、FastSPICE 仿真器、混合信号仿真、波形查看分析,PDK开发与验证,2600970660,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路分析,https://www.primarius-tech.com/products/engineering_service/PDK-kai-fa-yu-yan-zheng.html,无,动态和静态电路检查、良率分析、信号完整性分析、路径分析、功率及电源芯片设计验证、电源网络分布分析、ESD 验证,PDK开发与验证,2600970660,无,0,无,0,无,0
+上海概伦电子股份有限公司,数字仿真,https://www.primarius-tech.com/products/engineering_service/PDK-kai-fa-yu-yan-zheng.html,无,数字仿真,PDK开发与验证,2600970660,无,0,无,0,无,0
+上海概伦电子股份有限公司,SoC 设计与验证,https://www.primarius-tech.com/products/engineering_service/PDK-kai-fa-yu-yan-zheng.html,无,时序分析、设计布局规划、信号完整性、电源分析、ESD 验证、芯片封装连接验证,PDK开发与验证,2600970660,无,0,无,0,无,0
+上海概伦电子股份有限公司,参数化测试,https://www.primarius-tech.com/products/engineering_service/PDK-kai-fa-yu-yan-zheng.html,无,半导体参数测试、噪声测试、综合量测,PDK开发与验证,2600970660,无,0,无,0,无,0
+上海概伦电子股份有限公司,PDK 开发与验证,https://www.primarius-tech.com/products/engineering_service/PDK-kai-fa-yu-yan-zheng.html,无,PDK 开发与验证,PDK开发与验证,2600970660,无,0,无,0,无,0
+上海概伦电子股份有限公司,一站式 IP 开发,https://www.primarius-tech.com/products/engineering_service/yi-zhan-shi-IP-kai-fa.html,无,IP 设计开发、存储编译器,一站式IP开发,5243008740,无,0,无,0,无,0
+上海概伦电子股份有限公司,SPICE 模型,https://www.primarius-tech.com/products/engineering_service.html,基带建模/BSIMProPlus、射频建模/MeQLab、自动化提取/SDEP、验证评估/ME-Pro,无,一站式技术开发,6547420392,无,0,无,0,无,0
+上海概伦电子股份有限公司,PDK,https://www.primarius-tech.com/products/engineering_service.html,PCell 开发/PCellLab、PDK 验证/PQLab,无,一站式技术开发,6547420392,无,0,无,0,无,0
+上海概伦电子股份有限公司,标准单元库,https://www.primarius-tech.com/products/engineering_service.html,特征化/NanoCell、验证/LibWiz,无,一站式技术开发,6547420392,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路设计平台,https://www.primarius-tech.com/products/engineering_service.html,原理图设计/NanoDesigner SE、版图编辑/NanoDesigner LS、交互式物理验证/NanoDesigner iV、设计优化/NanoDesigner Optimizer,无,一站式技术开发,6547420392,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路仿真,https://www.primarius-tech.com/products/engineering_service.html,SPICE 仿真器/NanoSpice、SPICE 仿真器/NanoSpice X、SPICE 仿真器/NanoSpice Giga、FastSPICE 仿真器/NanoSpice Pro、FastSPICE 仿真器/NanoSpice Pro X、混合信号仿真/NanoSpice MS、波形查看分析/NanoWave,无,一站式技术开发,6547420392,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路分析,https://www.primarius-tech.com/products/engineering_service.html,动态和静态电路检查/NanoSpice CCK、良率分析/NanoYield、信号完整性分析/NanoSpice SI、路径分析/PathInspector、功率及电源芯片设计验证/PTM、电源网络分布分析/RNi、ESD 验证/ESDi,无,一站式技术开发,6547420392,无,0,无,0,无,0
+上海概伦电子股份有限公司,数字仿真,https://www.primarius-tech.com/products/engineering_service.html,数字仿真/VeriSim,无,一站式技术开发,6547420392,无,0,无,0,无,0
+上海概伦电子股份有限公司,SoC 设计与验证,https://www.primarius-tech.com/products/engineering_service.html,时序分析/TRASTA、设计布局规划/NavisPro、信号完整性/NanoSpice SI、电源分析/PTM、ESD 验证/ESDi、芯片封装连接验证/PadInspector,无,一站式技术开发,6547420392,无,0,无,0,无,0
+上海概伦电子股份有限公司,参数化测试,https://www.primarius-tech.com/products/engineering_service.html,半导体参数测试/FS-Pro、半导体参数测试/FS-MEMS,无,一站式技术开发,6547420392,无,0,无,0,无,0
+上海概伦电子股份有限公司,噪声测试,https://www.primarius-tech.com/products/engineering_service.html,低频噪声测试/9812DX、低频噪声测试/9812E、低频噪声测试/9813DXC、动态交流噪声测试/9812AC,无,一站式技术开发,6547420392,无,0,无,0,无,0
+上海概伦电子股份有限公司,综合量测,https://www.primarius-tech.com/products/engineering_service.html,自动量测方案/ATS,无,一站式技术开发,6547420392,无,0,无,0,无,0
+上海概伦电子股份有限公司,一站式技术开发,https://www.primarius-tech.com/products/engineering_service.html,晶圆测试/数据测试与分析、SPICE 建模/模型提取与验证、测试芯片设计/测试结构设计与版图实现、新器件/新器件解决方案、PDK 开发/PDK 开发与验证、IP 开发/一站式 IP 开发,无,一站式技术开发,6547420392,无,0,无,0,无,0
+上海概伦电子股份有限公司,噪声测试,https://www.primarius-tech.com/products,无,低频噪声测试、动态交流噪声测试,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,综合量测,https://www.primarius-tech.com/products,无,自动量测方案,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,晶圆测试,https://www.primarius-tech.com/products,无,数据测试与分析,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,SPICE 建模,https://www.primarius-tech.com/products,无,模型提取与验证,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,测试芯片设计,https://www.primarius-tech.com/products,无,测试结构设计与版图实现,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,新器件,https://www.primarius-tech.com/products,无,新器件解决方案,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,PDK 开发,https://www.primarius-tech.com/products,无,PDK 开发与验证,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,IP 开发,https://www.primarius-tech.com/products,无,一站式 IP 开发,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,基带建模,https://www.primarius-tech.com/products/manufacturing_eda.html,BSIMProPlus,先进器件建模平台,制造类EDA,137632050,无,0,无,0,无,0
+上海概伦电子股份有限公司,射频建模,https://www.primarius-tech.com/products/manufacturing_eda.html,MeQLab,一站式射频建模平台,制造类EDA,137632050,无,0,无,0,无,0
+上海概伦电子股份有限公司,自动化提取,https://www.primarius-tech.com/products/manufacturing_eda.html,SDEP,目标驱动模型提取自动化平台,制造类EDA,137632050,无,0,无,0,无,0
+上海概伦电子股份有限公司,验证评估,https://www.primarius-tech.com/products/manufacturing_eda.html,ME-Pro,工艺与设计验证评估平台,制造类EDA,137632050,无,0,无,0,无,0
+上海概伦电子股份有限公司,PCell 开发,https://www.primarius-tech.com/products/manufacturing_eda.html,PCellLab,先进参数化单元库开发平台,制造类EDA,137632050,无,0,无,0,无,0
+上海概伦电子股份有限公司,PDK 验证,https://www.primarius-tech.com/products/manufacturing_eda.html,PQLab,先进 PDK 验证平台,制造类EDA,137632050,无,0,无,0,无,0
+上海概伦电子股份有限公司,标准单元库特征化,https://www.primarius-tech.com/products/manufacturing_eda.html,NanoCell,标准单元库特征化解决方案,制造类EDA,137632050,无,0,无,0,无,0
+上海概伦电子股份有限公司,标准单元库验证,https://www.primarius-tech.com/products/manufacturing_eda.html,LibWiz,标准单元库验证解决方案,制造类EDA,137632050,无,0,无,0,无,0
+上海概伦电子股份有限公司,SPICE 模型,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,基带建模/BSIMProPlus,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,SPICE 模型,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,射频建模/MeQLab,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,SPICE 模型,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,自动化提取/SDEP,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,SPICE 模型,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,验证评估/ME-Pro,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,PDK,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,PCell 开发/PCellLab,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,PDK,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,PDK 验证/PQLab,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,标准单元库,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,特征化/NanoCell,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,标准单元库,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,验证/LibWiz,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路设计平台,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,原理图设计/NanoDesigner SE,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路设计平台,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,版图编辑/NanoDesigner LS,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路设计平台,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,交互式物理验证/NanoDesigner iV,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路设计平台,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,设计优化/NanoDesigner Optimizer,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路仿真,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,SPICE 仿真器/NanoSpice,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路仿真,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,SPICE 仿真器/NanoSpice X,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路仿真,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,SPICE 仿真器/NanoSpice Giga,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路仿真,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,FastSPICE 仿真器/NanoSpice Pro,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路仿真,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,FastSPICE 仿真器/NanoSpice Pro X,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路仿真,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,混合信号仿真/NanoSpice MS,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路仿真,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,波形查看分析/NanoWave,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路分析,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,动态和静态电路检查/NanoSpice CCK,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路分析,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,良率分析/NanoYield,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路分析,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,信号完整性分析/NanoSpice SI,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路分析,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,路径分析/PathInspector,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路分析,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,功率及电源芯片设计验证/PTM,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路分析,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,电源网络分布分析/RNi,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,电路分析,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,ESD 验证/ESDi,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,SoC 设计与验证,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,时序分析/TRASTA,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,SoC 设计与验证,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,设计布局规划/NavisPro,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,SoC 设计与验证,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,信号完整性/NanoSpice SI,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,SoC 设计与验证,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,电源分析/PTM,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,SoC 设计与验证,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,ESD 验证/ESDi,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,SoC 设计与验证,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,芯片封装连接验证/PadInspector,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,参数化测试,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,半导体参数测试/FS-Pro,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,参数化测试,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,半导体参数测试/FS-MEMS,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,噪声测试,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,低频噪声测试/9812DX,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,噪声测试,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,低频噪声测试/9812E,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,噪声测试,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,低频噪声测试/9813DXC,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,噪声测试,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,动态交流噪声测试/9812AC,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,一站式技术开发,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,晶圆测试/数据测试与分析,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,一站式技术开发,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,SPICE 建模/模型提取与验证,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,一站式技术开发,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,测试芯片设计/测试结构设计与版图实现,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,一站式技术开发,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,新器件/新器件解决方案,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,一站式技术开发,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,PDK 开发/PDK 开发与验证,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,一站式技术开发,https://www.primarius-tech.com/aboutus/report/zhu-li-zhong-guo-xin-gai-lun-dian-zi-rong-ying-zhong-guo-xin-you-xiu-zhi-cheng-fu-wu-chan-pin-jiang.html,IP 开发/一站式 IP 开发,无,无,0,无,0,无,0,无,0
+上海概伦电子股份有限公司,数字设计类 EDA,https://www.primarius-tech.com/products/digital_design_eda.html,VeriSim,先进数字仿真器，配备高性能的仿真引擎和约束求解器，全面覆盖系统级、行为级、RTL 级和门级数字电路仿真验证的需求，提供全面的数字设计验证解决方案,数字设计类EDA,4341543027,无,0,无,0,无,0
+上海概伦电子股份有限公司,数字设计类 EDA,https://www.primarius-tech.com/products/digital_design_eda.html,NanoCell,标准单元库特征化解决方案，采用先进的分布式并行架构技术和单元电路分析提取算法，内嵌高精度 SPICE 仿真器，覆盖从标准单元库自动化设计、库特征化到验证的完整设计开发流程,数字设计类EDA,4341543027,无,0,无,0,无,0
+上海概伦电子股份有限公司,数字设计类 EDA,https://www.primarius-tech.com/products/digital_design_eda.html,LibWiz,标准单元库验证解决方案,数字设计类EDA,4341543027,无,0,无,0,无,0
+上海概伦电子股份有限公司,数字设计类 EDA,https://www.primarius-tech.com/products/digital_design_eda.html,TRASTA,门级晶体管级混合时序分析解决方案,数字设计类EDA,4341543027,无,0,无,0,无,0
+上海概伦电子股份有限公司,数字设计类 EDA,https://www.primarius-tech.com/products/digital_design_eda.html,NavisPro,层次化 SoC 设计规划方案,数字设计类EDA,4341543027,无,0,无,0,无,0
+上海概伦电子股份有限公司,数字设计类 EDA,https://www.primarius-tech.com/products/digital_design_eda.html,NanoSpice SI,信号完整性分析解决方案,数字设计类EDA,4341543027,无,0,无,0,无,0
+上海概伦电子股份有限公司,数字设计类 EDA,https://www.primarius-tech.com/products/digital_design_eda.html,PTM,功率器件及电源芯片设计验证,数字设计类EDA,4341543027,无,0,无,0,无,0
+上海概伦电子股份有限公司,数字设计类 EDA,https://www.primarius-tech.com/products/digital_design_eda.html,ESDi,芯片级 HBM 静电防护分析平台,数字设计类EDA,4341543027,无,0,无,0,无,0
+上海概伦电子股份有限公司,数字设计类 EDA,https://www.primarius-tech.com/products/digital_design_eda.html,PadInspector,芯片封装连接性验证工具,数字设计类EDA,4341543027,无,0,无,0,无,0
+上海概伦电子股份有限公司,模型提取与验证,https://www.primarius-tech.com/products/engineering_service/mo-xing-ti-qu-yu-yan-zheng.html,无,模型提取、模型验证,模型提取与验证,4865180225,无,0,无,0,无,0
+上海概伦电子股份有限公司,SPICE 仿真器,https://www.primarius-tech.com/products/analog_design_eda.html,NanoSpice,无,泛模拟设计类EDA,5008984850,无,0,无,0,无,0
+上海概伦电子股份有限公司,SPICE 仿真器,https://www.primarius-tech.com/products/analog_design_eda.html,NanoSpice X,无,泛模拟设计类EDA,5008984850,无,0,无,0,无,0
+上海概伦电子股份有限公司,SPICE 仿真器,https://www.primarius-tech.com/products/analog_design_eda.html,NanoSpice Giga,无,泛模拟设计类EDA,5008984850,无,0,无,0,无,0
+上海概伦电子股份有限公司,FastSPICE 仿真器,https://www.primarius-tech.com/products/analog_design_eda.html,NanoSpice Pro,无,泛模拟设计类EDA,5008984850,无,0,无,0,无,0
+上海概伦电子股份有限公司,FastSPICE 仿真器,https://www.primarius-tech.com/products/analog_design_eda.html,NanoSpice Pro X,无,泛模拟设计类EDA,5008984850,无,0,无,0,无,0
+上海概伦电子股份有限公司,混合信号仿真,https://www.primarius-tech.com/products/analog_design_eda.html,NanoSpice MS,无,泛模拟设计类EDA,5008984850,无,0,无,0,无,0
+上海概伦电子股份有限公司,波形查看分析,https://www.primarius-tech.com/products/analog_design_eda.html,NanoWave,无,泛模拟设计类EDA,5008984850,无,0,无,0,无,0
+上海概伦电子股份有限公司,一站式技术开发,https://www.primarius-tech.com/products/analog_design_eda.html,晶圆测试,无,泛模拟设计类EDA,5008984850,无,0,无,0,无,0
+上海概伦电子股份有限公司,一站式技术开发,https://www.primarius-tech.com/products/analog_design_eda.html,SPICE 建模,无,泛模拟设计类EDA,5008984850,无,0,无,0,无,0
+上海概伦电子股份有限公司,一站式技术开发,https://www.primarius-tech.com/products/analog_design_eda.html,测试芯片设计,无,泛模拟设计类EDA,5008984850,无,0,无,0,无,0
+上海概伦电子股份有限公司,一站式技术开发,https://www.primarius-tech.com/products/analog_design_eda.html,新器件,无,泛模拟设计类EDA,5008984850,无,0,无,0,无,0
+上海概伦电子股份有限公司,一站式技术开发,https://www.primarius-tech.com/products/analog_design_eda.html,PDK 开发,无,泛模拟设计类EDA,5008984850,无,0,无,0,无,0
+上海概伦电子股份有限公司,一站式技术开发,https://www.primarius-tech.com/products/analog_design_eda.html,IP 开发,无,泛模拟设计类EDA,5008984850,无,0,无,0,无,0
+上海概伦电子股份有限公司,传感微结构参数测试仪,https://www.primarius-tech.com/products/data_test_system.html,FS-MEMS,通过一键操作即可完成动态和静态参数测试。该系统全面覆盖电流电压（IV）、电容电压（CV）、漏电、电阻、谐振频率、Q 值、正交系数、-3dB 带宽等关键电学参数，实现自动测试；同时支持多通道并行测试，可显著提高测试效率，适用于角速度计（陀螺仪）、加速度计、压力传感器、光流量计、红外传感器等基于 MEMS 传感器特性参数测试,测试系统,5052025836,无,0,无,0,无,0
+上海概伦电子股份有限公司,紧凑型低频噪声测试系统,https://www.primarius-tech.com/products/data_test_system.html,9812E,无,测试系统,5052025836,无,0,无,0,无,0
+上海概伦电子股份有限公司,晶圆级全自动量测解决方案,https://www.primarius-tech.com/products/data_test_system.html,ATS,可根据使用需求灵活集成多种软硬件，广泛应用于电流电压（IV）、电容电压（CV）、脉冲式 IV、高速时域信号采集、低频噪声测试以及多种可靠性测试,测试系统,5052025836,无,0,无,0,无,0

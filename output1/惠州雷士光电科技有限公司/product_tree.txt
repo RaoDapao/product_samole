@@ -1,0 +1,66 @@
+-> root https://www.nvc-lighting.com.cn
+  -> 产品中心-NVC雷士照明-照明整体解决方 https://product.nvc-lighting.com.cn
+    -> 肖邦 87 系列 
+    -> 肖邦酒店筒灯 
+    -> 肖邦灯带 
+    -> 酒店筒灯 
+    -> 吸顶灯 
+    -> 吊灯 
+    -> 风扇灯 
+    -> 台灯 
+    -> 落地灯 
+    -> 筒灯 
+    -> 天棚灯 
+    -> 肖邦驱动 
+    -> 浴霸 
+    -> 面板灯 
+    -> 晾衣机 
+    -> 换气扇 
+    -> 肖邦 COB 灯带系列 
+    -> 肖邦 3D 异形灯带系列 
+    -> 肖邦 COB 灯带系列 
+    -> 肖邦 3D 异形灯带系列 
+    -> NLED98 
+    -> 肖邦透镜灯带系列 
+    -> 肖邦柔性灯带系列 
+    -> 肖邦透镜灯带系列 
+    -> 肖邦柔性灯带系列 
+    -> 肖邦霓虹灯带系列 
+    -> 肖邦高显指灯带系列 
+    -> 肖邦霓虹灯带系列 
+    -> 肖邦高显指灯带系列 
+    -> 肖邦 86 系列 
+    -> 肖邦高光效灯带系列 
+    -> 肖邦 86 系列 
+    -> 肖邦高光效灯带系列 
+    -> 肖邦 86J 系列 
+    -> 肖邦 87 系列 
+    -> 肖邦 86J 系列 
+  -> 下载中心-NVC雷士照明-照明整体解决方 https://product.nvc-lighting.com.cn/resource
+  -> 肖邦87系列-NVC雷士照明-照明整体解 https://product.nvc-lighting.com.cn/seriesDetail?id=951
+  -> 肖邦酒店筒灯-NVC雷士照明-照明整体解 https://product.nvc-lighting.com.cn/seriesSelect?category=84&scene
+  -> 肖邦灯带-NVC雷士照明-照明整体解决方 https://product.nvc-lighting.com.cn/seriesSelect?category=95&scene
+  -> 酒店筒灯-NVC雷士照明-照明整体解决方 https://product.nvc-lighting.com.cn/seriesSelect?category=87&scene
+  -> 吸顶灯-NVC雷士照明-照明整体解决方案 https://product.nvc-lighting.com.cn/seriesSelect?category=88&scene
+  -> 吊灯-NVC雷士照明-照明整体解决方案服 https://product.nvc-lighting.com.cn/seriesSelect?category=85&scene
+  -> 风扇灯-NVC雷士照明-照明整体解决方案 https://product.nvc-lighting.com.cn/seriesSelect?category=89&scene
+  -> 台灯-NVC雷士照明-照明整体解决方案服 https://product.nvc-lighting.com.cn/seriesSelect?category=96&scene
+    -> 沃韵台灯 
+    -> 荣耀亲选雷士智能学习灯 
+  -> 落地灯-NVC雷士照明-照明整体解决方案 https://product.nvc-lighting.com.cn/seriesSelect?category=97&scene
+    -> 沃韵落地灯 
+    -> 盛光落地灯 
+  -> 筒灯-NVC雷士照明-照明整体解决方案服 https://product.nvc-lighting.com.cn/seriesSelect?category=92&scene
+  -> 天棚灯-NVC雷士照明-照明整体解决方案 https://product.nvc-lighting.com.cn/seriesSelect?category=98&scene
+  -> 肖邦驱动-NVC雷士照明-照明整体解决方 https://product.nvc-lighting.com.cn/seriesSelect?category=99&scene
+  -> 浴霸-NVC雷士照明-照明整体解决方案服 https://product.nvc-lighting.com.cn/seriesSelect?category=101&scene
+  -> 面板灯-NVC雷士照明-照明整体解决方案 https://product.nvc-lighting.com.cn/seriesSelect?category=103&scene
+  -> 晾衣机-NVC雷士照明-照明整体解决方案 https://product.nvc-lighting.com.cn/seriesSelect?category=104&scene
+  -> 换气扇-NVC雷士照明-照明整体解决方案 https://product.nvc-lighting.com.cn/seriesSelect?category=105&scene
+  -> 产品中心-NVC雷士照明-照明整体解决方_1 https://product.nvc-lighting.com.cn/#
+  -> 肖邦酒店筒灯-NVC雷士照明-照明整体解_1 https://product.nvc-lighting.com.cn/seriesSelect?category=84&scene#
+  -> 风扇灯-NVC雷士照明-照明整体解决方案_1 https://product.nvc-lighting.com.cn/seriesSelect?category=89&scene#
+  -> 台灯-NVC雷士照明-照明整体解决方案服_1 https://product.nvc-lighting.com.cn/seriesSelect?category=96&scene#
+  -> 落地灯-NVC雷士照明-照明整体解决方案_1 https://product.nvc-lighting.com.cn/seriesSelect?category=97&scene#
+  -> 浴霸-NVC雷士照明-照明整体解决方案服_1 https://product.nvc-lighting.com.cn/seriesSelect?category=101&scene#
+  -> 晾衣机-NVC雷士照明-照明整体解决方案_1 https://product.nvc-lighting.com.cn/seriesSelect?category=104&scene#

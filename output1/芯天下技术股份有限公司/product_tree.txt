@@ -1,0 +1,22 @@
+-> root http://www.xtxtech.com
+  -> NOR http://www.xtxtech.com/products_detail/1
+  -> NAND http://www.xtxtech.com/products_detail/3
+  -> MCU http://www.xtxtech.com/products_detail/5
+  -> 芯天下|致力于成为卓越的通用芯片设计公司 http://www.xtxtech.com/products_detail/7
+  -> 芯天下|致力于成为卓越的通用芯片设计公司_1 http://www.xtxtech.com/products_detail/8
+  -> 芯天下|致力于成为卓越的通用芯片设计公司_2 http://www.xtxtech.com/products_detail/9
+  -> 芯天下|致力于成为卓越的通用芯片设计公司_3 http://www.xtxtech.com/products_detail/10
+  -> 芯天下|致力于成为卓越的通用芯片设计公司_4 http://www.xtxtech.com/products_detail/11
+  -> 芯天下|致力于成为卓越的通用芯片设计公司_5 http://www.xtxtech.com/products_detail/12
+    -> 电池管理芯片 
+    -> 充电器 
+    -> 电量监测 
+    -> 保护 IC 
+    -> 线性充电芯片 
+  -> NOR_1 http://www.xtxtech.com/products_detail/1/ProId-1
+  -> NOR_2 http://www.xtxtech.com/products_detail/1/ProId-2
+  -> NAND_1 http://www.xtxtech.com/products_detail/3/ProId-12
+  -> NAND_2 http://www.xtxtech.com/products_detail/3/ProId-6
+  -> NAND_3 http://www.xtxtech.com/products_detail/3/ProId-10
+  -> NAND_4 http://www.xtxtech.com/products_detail/3/ProId-11
+  -> NAND_5 http://www.xtxtech.com/products_detail/3/ProId-14

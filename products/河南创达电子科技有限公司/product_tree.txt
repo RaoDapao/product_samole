@@ -1,0 +1,20 @@
+-> root http://www.xlepcell.com
+  -> 高容量型锂电池-高容量型锂电池-河南创达电子科技有限公司_河南创达_河南创达电子 http://www.xlepcell.com/productinfo/4644/9834
+  -> 高功率型锂电池-高功率型锂电池-河南创达电子科技有限公司_河南创达_河南创达电子 http://www.xlepcell.com/productinfo/4645/9835
+  -> 高温中倍率锂电池-高温中倍率锂电池-河南创达电子科技有限公司_河南创达_河南创达电子 http://www.xlepcell.com/productinfo/5102/9836
+  -> 锂电池电容-河南创达电子科技有限公司_河南创达_河南创达电子 http://www.xlepcell.com/product/6210
+    -> 锂电池电容 
+    -> 锂离子电容器 
+    -> 超低温锂电池 
+  -> 锂离子电容器-河南创达电子科技有限公司_河南创达_河南创达电子 http://www.xlepcell.com/product/6211
+  -> 产品信息-河南创达电子科技有限公司_河南创达_河南创达电子 http://www.xlepcell.com/news/5103
+  -> Highcapacitylithiumbattery-Capacitytype-河南创达电子科技有限公司_河南创达_河南创达电子 http://www.xlepcell.com/enproductinfo/5303/10242
+  -> Highpowerlithiumbattery-Powertype-河南创达电子科技有限公司_河南创达_河南创达电子 http://www.xlepcell.com/enproductinfo/10647/10243
+  -> Hightemperaturemediumratelithiumbattery-hightemperature-河南创达电子科技有限公司_河南创达_河南创达电子 http://www.xlepcell.com/enproductinfo/10648/10244
+  -> Lithiumbatterycapacitor-Batterycapacitance-河南创达电子科技有限公司_河南创达_河南创达电子 http://www.xlepcell.com/enproductinfo/10649/10245
+  -> SLC-1550-锂电池电容-河南创达电子科技有限公司_河南创达_河南创达电子 http://www.xlepcell.com/productinfo/6210/9147
+    -> SLC-1550 
+  -> SLC-1520-锂电池电容-河南创达电子科技有限公司_河南创达_河南创达电子 http://www.xlepcell.com/productinfo/6210/9146
+  -> 河南创达电子科技有限公司_河南创达_河南创达电子-行业动态-河南创达电子科技有限公司_河南创达_河南创达电子 http://www.xlepcell.com/newsinfo/4642/15307
+  -> 河南创达电子科技有限公司_河南创达_河南创达电子-产品信息-河南创达电子科技有限公司_河南创达_河南创达电子 http://www.xlepcell.com/newsinfo/5103/15368
+    -> 铅酸电池 

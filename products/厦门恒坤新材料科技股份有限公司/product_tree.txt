@@ -1,0 +1,41 @@
+-> root https://www.hed.com.cn
+  -> 华大电子-智能卡芯片 https://www.hed.com.cn/product_smart_card.html
+    -> 智能卡芯片 
+    -> 双界面 IC 卡芯片 
+    -> 接触式 IC 卡芯片 
+  -> 华大电子-安全SE芯片 https://www.hed.com.cn/product_se.html
+  -> 华大电子-安全MCU芯片 https://www.hed.com.cn/products_mcu.html
+  -> 华大电子-金融及小额支付 https://www.hed.com.cn/product_pay.html
+    -> 标准卡 
+    -> 异形卡 
+    -> 指纹和可视卡 
+    -> 定制载带 
+  -> 华大电子-移动通信 https://www.hed.com.cn/product_mobile_report.html
+    -> 超级 SIM 
+    -> 98 系列 
+    -> 51 系列 
+  -> 华大电子-超低功耗安全MCU产品线 https://www.hed.com.cn/products_mcu/38_43_0_0.html
+  -> 华大电子-华大电子金融芯问鼎2019年“ https://www.hed.com.cn/detail/185.html
+  -> 华大电子-金融及小额支付_1 https://www.hed.com.cn/product_pay.html?page=2
+  -> 华大电子-金融及小额支付_2 https://www.hed.com.cn/product_pay.html?page=3
+  -> 华大电子-金融及小额支付_3 https://www.hed.com.cn/product_pay.html?page=5
+  -> 华大电子-金融及小额支付_4 https://www.hed.com.cn/product_pay.html?page=7
+  -> 华大电子-华大电子和中国移动联合发布新一 https://www.hed.com.cn/detail/726.html
+  -> 华大电子-移动通信_1 https://www.hed.com.cn/product_mobile_report.html?page=2
+    -> 移动通信 
+    -> SIM 
+    -> eSIM 
+  -> 华大电子-移动通信_2 https://www.hed.com.cn/product_mobile_report.html?page=3
+  -> 华大电子-C-V2X安全方案 https://www.hed.com.cn/detail/896.html
+  ->  https://www.hed.com.cn/products_mcu/38_43_44_204.html
+  -> _1 https://www.hed.com.cn/products_mcu/38_43_44_56.html
+  -> _2 https://www.hed.com.cn/products_mcu/38_43_44_202.html
+  -> _3 https://www.hed.com.cn/products_mcu/38_43_44_85.html
+  -> _4 https://www.hed.com.cn/products_mcu/229_230_231_232.html
+  -> _5 https://www.hed.com.cn/products_mcu/178_180_184_185.html
+  -> 华大电子-金融及小额支付_5 https://www.hed.com.cn/product_pay.html?page=1
+  -> 华大电子-华大电子双界面高安全芯片获得“ https://www.hed.com.cn/detail/131.html
+  -> 华大电子-华大电子获得银联卡芯片产品安全 https://www.hed.com.cn/detail/284.html
+  -> 华大电子-移动通信_3 https://www.hed.com.cn/product_mobile_report.html?page=1
+  -> 华大电子-基于华大电子安全SE芯片的C- https://www.hed.com.cn/detail/753.html
+  -> 华大电子-华大电子荣获“中国物联网创新产 https://www.hed.com.cn/detail/283.html

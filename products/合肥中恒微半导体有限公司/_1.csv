@@ -1,0 +1,17 @@
+产品网址：https://www.zhmsemi.com/products/ev_igbt_module/drivez3.html
+产品结构：root
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|DriveZ3|无|A.Field Stop Trench Gate IGBT<br>B.LOW VCE(sat)<br>C.Low Switching LOSS<br>D.Direct Cooled Pinfin Base Plate|
+
+Package,Product,Vces(V),Ic(A),VCE(sat)(V),Configuration,typical value @Tj=25℃,typical value @Tj=25℃.1,typical value @Tj=25℃.2
+Package,Product,Vces(V),Ic(A),VCE(sat)(V),Configuration,VF(V),Eon(mJ),Eoff(mJ)
+DriveZ3,6H600M07A1E,650,600,1.30,six-pack,1.65,3.5,34.6
+DriveZ3,6H770M07A1E,650,770,1.30,six-pack,1.65,4.2,41.5
+DriveZ3,6H820M07A1E,650,820,1.30,six-pack,1.65,5.2,49.8
+DriveZ3,6H660M08A1E,750,660,1.35,six-pack,1.70,14.91),22.91)
+DriveZ3,6H770M08A1E,750,770,1.35,six-pack,1.70,14.91),22.91)
+DriveZ3,6H820M08A1E,750,820,1.35,six-pack,1.70,14.91),22.91)
+DriveZ3,6H380M120A1E,1200,380,1.70,six-pack,1.90,11.8,32.5
+DriveZ3,6H450M120A1E,1200,450,1.70,six-pack,1.90,13.4,48.2

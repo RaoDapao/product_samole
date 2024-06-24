@@ -1,0 +1,9 @@
+产品网址：https://www.smartx.com/blog/2024/03/vmware-by-broadcom-replacement
+产品结构：root->一文解读VMwarebyBroadcom产品组合与用户应对策略–SmartX
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|vSphere Essentials Plus Kit|无|包含原vSphere Essential Plus和vCenter Essential，集群中支持最多96个CPU Core|
+|vSphere Standard|无|包含原vSphere Standard和vCenter Standard，不包括其他产品。取消了对CPU Core数量的限制（但要求每个CPU至少按16 Core计算）|
+|VMware vSphere Foundation|无|包含vSphere、vCenter、vSAN、Tanzu Kubernetes Grid和Aria Operation（含原vRealize LogInsight和vRealize Operation）|
+|VMware Cloud Foundation|无|包含vSphere、vCenter、vSAN、NSX、Tanzu Kubernetes Grid和Aria Operation（含原vRealize LogInsight和vRealize Operation）|

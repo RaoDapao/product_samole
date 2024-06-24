@@ -1,0 +1,10 @@
+产品网址：https://www.dkpower.cn/dankouCxieyi.html
+产品结构：首页->产品中心->USBPD快充协议系列->单口C协议
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|单口 C 协议|无|无|
+
+Product,Character,Topo-logy,CC Withstand Voltage,Operating Current,Output Power,USB Type Port,Package,VCC Operation Voltage
+DK606,PD Controller,DC-DC,30V,<1mA,18-65W,Single Type-C,ESOP-8,3.2-6.8V
+DK601,PD Controller,DC-DC,30V,<1mA,18-25W,Single Type-C,SOT23-6,3-5.6V

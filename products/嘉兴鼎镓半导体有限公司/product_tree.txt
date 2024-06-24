@@ -1,0 +1,49 @@
+-> root https://www.dynga-semi.com
+  -> 首页 
+    -> 产品中心 
+      -> 芯片系列 https://www.dynga-semi.com/?products_19
+        -> 深紫外灭菌芯片- https://www.dynga-semi.com/?products_19/13.html
+          -> 蜂巢净味灭菌器 
+          -> 工业灭菌净味机 
+          -> T8 深紫外灭菌型 LED 灯管 
+          -> 工业污水处理系统 
+          -> 深紫外灭菌芯片 
+        -> 紫外光探测器芯片- https://www.dynga-semi.com/?products_19/84.html
+          -> 紫外光探测器芯片 
+      -> 民生健康 https://www.dynga-semi.com/?products_22
+        -> 家庭净水装置- https://www.dynga-semi.com/?products_22/66.html
+        -> 第四代蜂巢净味灭菌器- https://www.dynga-semi.com/?products_22/35.html
+        -> 家用深紫外灭菌净味器- https://www.dynga-semi.com/?products_22/81.html
+        -> 防雷击插头- https://www.dynga-semi.com/?products_22/70.html
+          -> 防雷击插头 
+        -> 太阳能灭菌灯- https://www.dynga-semi.com/?products_22/49.html
+        -> 仓库货架静态灭菌模组- https://www.dynga-semi.com/?products_22/45.html
+        -> 便携式深紫外灭菌棒- https://www.dynga-semi.com/?products_22/43.html
+        -> T8深紫外灭菌型LED灯- https://www.dynga-semi.com/?products_22/83.html
+        -> 迷你灭菌仓- https://www.dynga-semi.com/?products_22/82.html
+        -> 智能语音灭菌测温门- https://www.dynga-semi.com/?products_22/80.html
+        -> USB高功率深紫外灭菌灯- https://www.dynga-semi.com/?products_22/79.html
+        -> 深紫外空气净化器（落地）- https://www.dynga-semi.com/?products_22/48.html
+        -> 深紫外空气净化器（桌面）- https://www.dynga-semi.com/?products_22/47.html
+        -> 移动式深紫外冷链系统灭菌装置- https://www.dynga-semi.com/?products_22/44.html
+          -> 移动式深紫外冷链系统灭菌装置 
+        -> 物流传送系统紫外灭菌装置- https://www.dynga-semi.com/?products_22/42.html
+          -> 物流传送系统紫外灭菌装置 
+      -> 工业环保 https://www.dynga-semi.com/?products_21
+        -> 船用空气灭菌模组- https://www.dynga-semi.com/?products_21/39.html
+      -> 生命医疗 https://www.dynga-semi.com/?products_20
+        -> 第三代蜂巢净味灭菌器- https://www.dynga-semi.com/?products_20/34.html
+        -> 智能医疗管控医疗固废灭菌模组- https://www.dynga-semi.com/?products_20/38.html
+        -> 医疗固废暂存间高功率灭菌净味模组- https://www.dynga-semi.com/?products_20/37.html
+        -> 牙椅水路紫外线水消毒器- https://www.dynga-semi.com/?products_20/36.html
+      -> 宠物空间 https://www.dynga-semi.com/?products_32
+        -> 宠物综合治疗仓- https://www.dynga-semi.com/?products_32/50.html
+    -> 产品案例 
+      -> 生命医疗 
+        -> 蜂巢净味灭菌器 https://www.dynga-semi.com/?pages_37
+      -> 工业环保 
+        -> 工业灭菌净味机 https://www.dynga-semi.com/?pages_39
+        -> T8深紫外灭菌型LED灯管 https://www.dynga-semi.com/?pages_40
+        -> 工业污水处理系统 https://www.dynga-semi.com/?pages_41
+      -> 民生健康 
+        -> 蜂巢净味灭菌器_1 https://www.dynga-semi.com/?pages_38

@@ -1,0 +1,42 @@
+-> root https://jzhkr.com
+    -> 空调末端节能系统 
+    -> 空调节能系统 
+  -> 产品中心_山东金洲科瑞节能科技有限公司 https://jzhkr.com/index.php?c=category&id=3
+    -> 智能照明系统 
+    -> 能源管理系统 
+    -> 供电质量系统 
+    -> 供热节能系统 
+    -> 车库 CO 控制系统 
+    -> 模块产品 
+    -> 物联网云平台 
+  -> 模块产品_产品中心_山东金洲科瑞节能科技 https://jzhkr.com/index.php?c=category&id=25
+    -> G.PT 系列数显压力变送器 
+    -> 室内能效控制器 G.AS 标准版 
+    -> 智能场景操作终端 G.ZK-7 寸(86) 
+    -> 智能照明调光模块（0-10V） 
+    -> 智能照明开关模块 
+    -> 单相电子式预付费电能表 G.MF6 
+    -> 三相电子式预付费电能表 G.MF2 
+    -> 单相电能表 G.M6 
+    -> 三相电能表 G.M2 
+  -> 智能照明系统_产品中心_山东金洲科瑞节能 https://jzhkr.com/index.php?c=category&id=18
+  -> 能源管理系统_产品中心_山东金洲科瑞节能 https://jzhkr.com/index.php?c=category&id=19
+  -> 空调节能系统_产品中心_山东金洲科瑞节能 https://jzhkr.com/index.php?c=category&id=20
+  -> 空调末端节能系统_产品中心_山东金洲科瑞 https://jzhkr.com/index.php?c=category&id=21
+  -> 供电质量系统_产品中心_山东金洲科瑞节能 https://jzhkr.com/index.php?c=category&id=22
+    -> G.GE-3000 多功能谐波保护器 
+    -> REAL-ZD 串联型综合负载节电装置 
+  -> 供热节能系统_产品中心_山东金洲科瑞节能 https://jzhkr.com/index.php?c=category&id=23
+  -> 车库CO控制系统_产品中心_山东金洲科瑞 https://jzhkr.com/index.php?c=category&id=24
+  -> 物联网云平台_产品中心_山东金洲科瑞节能 https://jzhkr.com/index.php?c=category&id=26
+  -> 一图看懂金洲科瑞空调末端节能系统_产品推 https://jzhkr.com/index.php?c=show&id=178
+  -> 一图看懂金洲科瑞空调节能系统_产品推介_ https://jzhkr.com/index.php?c=show&id=161
+  -> G.PT系列数显压力变送器_模块产品_产 https://jzhkr.com/index.php?c=show&id=93
+  -> 室内能效控制器G.AS标准版_模块产品_ https://jzhkr.com/index.php?c=show&id=92
+  -> 智能场景操作终端G.ZK-7寸(86)_ https://jzhkr.com/index.php?c=show&id=91
+  -> 智能照明调光模块（0-10V）_模块产品 https://jzhkr.com/index.php?c=show&id=90
+  -> 智能照明开关模块_模块产品_产品中心_山 https://jzhkr.com/index.php?c=show&id=88
+  -> 单相电子式预付费电能表G.MF6_模块产 https://jzhkr.com/index.php?c=show&id=87
+  -> 三相电子式预付费电能表G.MF2_模块产 https://jzhkr.com/index.php?c=show&id=86
+  -> 单相电能表G.M6_模块产品_产品中心_ https://jzhkr.com/index.php?c=show&id=85
+  -> 三相电能表G.M2_模块产品_产品中心_ https://jzhkr.com/index.php?c=show&id=81

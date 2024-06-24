@@ -1,0 +1,8 @@
+产品网址：https://en.taixin-semi.com/Product?productClassId=4
+产品结构：root->珠海泰芯半导体有限公司-首页
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Wi-Fi HaLow™|TX-AH-Rx00P|集成 802.11ah SOC TXW83xx，工作在 730Mhz~950Mhz 频率范围，支持 1M/2M/4M/8M 信道带宽，支持数据速率从 150kbps 到 32.5Mbps，支持 SDIO、USB、SPI、UART 接口与应用处理器连接，支持 RMII 实现单模块无线网桥低成本解决方案，支持低功耗模式，支持中继模式、漫游模式和组播模式|
+|Wi-Fi 4|TXW81x|性能稳定、低成本、全面覆盖 Wi-Fi 应用|
+|通用 MCU|TX8C1010|高性能低功耗的 8051 内核 MCU，工作主频最高为 32MHz，内置 4K+256 字节闪存存储器（支持类 EEPROM），512 字节 SRAM|

@@ -1,0 +1,6 @@
+产品网址：https://en.aimicron.com/Products/19
+产品结构：root->AIM956/958-慷智集成电路（上海）有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|INTELLIGENT AUTOMOTIVE HIGH-DEFINITION AUDIO AND VIDEO TRANSMISSION SERDES CHIPSETS|AIM956/958|AHDL-II 单/双通道串行输入转换为 8 通道 LVDS 数据+2 个时钟通道视频输出；支持最快 150MHz 的像素时钟，1080P RGB888；单 AHDL-II 链路高达 150MHz 像素时钟 1080P RGB888；双 AHDL-II 链路高达 300MHz 像素时钟 3KP RGB888；快速 GPIO 支持 SPI 控制信号通过；多种功能模式用于系统应用；通过单根同轴电缆或屏蔽双绞线（STP）实现高速视频、双向控制数据和电源的传输；接收器上的 CDR 无需外部参考时钟源；多个 GPIO 更好地支持触摸屏应用；可调节扩频输入以降低 EMI；多种 EQ 支持长距离电缆传输；支持 7.1 高清晰度环绕声音频应用，输出抖动低；视频/控制数据的错误检测/纠正（ECC/CRC）；3.3V 和 1.1V 电源，IO 支持 1.8V 和 3.3V；内置自测（BIST）和片上视频模式发生器用于系统诊断；AEC-Q100 2 级合格和 ESD 保护；64 引脚（9mm*9mm）QFN 封装|

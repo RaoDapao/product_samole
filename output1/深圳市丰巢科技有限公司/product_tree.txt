@@ -1,0 +1,9 @@
+-> root https://www.fcbox.com
+  -> 丰巢官网—丰巢自助快递服务 https://www.fcbox.com/pages/product/introduce.html
+  -> 丰巢官网—丰巢自助快递服务_1 https://www.fcbox.com/pages/product/install.html
+  -> 忘记取件码？1.到柜机点击取件 
+    -> 2.点击忘记取件码 
+      -> 3.输入手机号获取验证码 
+        -> 4.取出快件 https://www.fcbox.com/pages/product/use.html
+  -> 丰巢官网—丰巢自助快递服务_2 https://www.fcbox.com/pages/product/platform.html
+  -> 丰巢官网—丰巢自助快递服务_3 https://www.fcbox.com/pages/product/successful-case.html

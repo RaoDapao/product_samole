@@ -1,0 +1,47 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=141&ncid=180&deid=178
+产品结构：root->Huahuan_Products_SFP/SFP+/xWDM/PONOpticalModule_H0FL-EthMuxSA16/SAP16SeriesTDMoverIPCPE
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|H0FL-EthMux SA16/SAP16 Series TDM over IP CPE|H0FL-EthMux.SA1601/SA1602、H0FL-EthMux.SA1604、H0FL-EthMux.SA1608、H0FL-EthMux.SA16|采用创新的 TDM over IP 技术，支持在 FE 端口上传输 1/2/4/8/16 E1/T1，提供最高可用性，具有精确的定时信号和数据位流重建功能，可根据不同应用需求预设系统参数配置文件，简化安装过程并节省维护成本，适用于电信和企业用户，可在现有以太网网络上提供不同类型的服务，也适用于连接无线设备以实现 E1 服务的快速部署|
+
+Type,E1/T1 Port Qty,100Base-Tx Electrical Port Qty,100Base-Fx Optical Port Qty,Remarks
+H0FL-EthMux.SA1601,1,4,1,
+H0FL-EthMux.SA1602,2,4,1,
+H0FL-EthMux.SA1604,4,4,1,
+H0FL-EthMux.SA1608,8,4,1,
+H0FL-EthMux.SA16,16,4,1,
+H0FL-EthMux.SAP1601,1,4,1,2 uplink electrical ports support POE function
+H0FL-EthMux.SAP1602,2,4,1,2 uplink electrical ports support POE function
+H0FL-EthMux.SAP1604,4,4,1,2 uplink electrical ports support POE function
+H0FL-EthMux.SAP1608,8,4,1,2 uplink electrical ports support POE function
+H0FL-EthMux.SAP16,16,4,1,2 uplink electrical ports support POE function
+
+
+System Parameters,100Base-Tx Ethernet  Electrical Interface,"4*100Base-Tx electrical ports (2 for uplink, 2 for local data, 1 local data port can be used as monitoring port) and 1*100Base-Fx optical port"
+System Parameters,100Base-Fx Ethernet  Optical Interface,1
+System Parameters,E1/T1 Interface,"1, 2, 4, 8, 16"
+E1/T1 Interface  Features,E1/T1 Interface,Complies with ITU-T G.703 recommendation
+E1/T1 Interface  Features,Point-to-point single way additional processing delay (minimum delay setting),≤ 10ms
+E1/T1 Interface  Features,"Output frequency stability (adaptive timing, stable)",≤5ppm
+E1/T1 Interface  Features,Output jitter (adaptive timing),≤0.1UI
+E1/T1 Interface  Features,Interface impedance,E1-120  W  /T1-100  W  ; 75  W
+E1/T1 Interface  Features,Connector,RJ-48C or dual-E1
+Ethernet Port,Related protocols,"Complies with IEEE 802.3, 802.1Q, 802.1ad, 802.1P recommendation"
+Ethernet Port,Working mode,"Electrical ports support auto-negotiation, manual 10M/100M, half-duplex/ full-duplex Optical ports support manual 100M full-duplex"
+Ethernet Port,Maximum packet  length,2000 bytes
+Ethernet Port,Connector,100M electrical port: RJ45
+Ethernet Port,Connector,100M optical port: LC
+POE,PoE function,Provided by uplink ports of H0FL-EthMux. SAP16 series device
+POE,PoE mode,MS (Mid-span PSE); ES (Endpoint PSE
+POE,Voltage,H0FL-EthMux.SAP1602.MS2410: 24V  Other H0FL-EthMux.SAP16 series devices: 55V
+POE,Power,H0FL-EthMux.SAP1602.MS2410: 24W  Other H0FL-EthMux.SAP16 series devices: 50W
+Power Supply,AC,"~220V (100~240V, 50/60Hz)"
+Power Supply,DC,-48V (-36~-72V)
+Power Supply,Consumption,≤7.7W
+Working Environment,Temperature,-5~ 45°C
+Working Environment,Relative Humidity,≤90% (non-condensing)
+Dimension (W x H x D),H0FL-EthMux.SA1601/SA1602,195 x 35 x 140 (mm)
+Dimension (W x H x D),H0FL-EthMux.SAP1602.MS2410,440 x 44 x 175 (mm)
+Dimension (W x H x D),H0FL-EthMux.SA16 series,440 x 44 x 136.5 (mm)
+Dimension (W x H x D),SAP16 series devices (except H0FL-EthMux.SAP1602.MS2410),440 x 44 x 135 (mm)

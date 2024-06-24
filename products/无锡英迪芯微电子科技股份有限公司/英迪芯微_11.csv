@@ -1,0 +1,8 @@
+产品网址：https://www.indiemicro.com/archives/product/ind83220
+产品结构：root->英迪芯微
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Automotive Embedded Motor Controller|iND83220|ARM M0 核，64K 闪存，16K SRAM；27 通道，60mA/通道，16 位 PWM@488Hz；可驱动多达 18 个 RGB 芯片，集成时间复用开关；PN 电压检测；分离的 BAT 引脚用于 LED 和 IC，以优化热性能；集成高压 LDO 作为内部 CAN 收发器的电源；I2C 主设备用于外部传感器；ELINS 总线高达 2Mbps，同一总线最多可连接 32 个设备；12 位 SAR ADC 用于 PN 检测、电池、GPIO、LED 开路/短路监测；AEC-Q100 Grade1|
+
+

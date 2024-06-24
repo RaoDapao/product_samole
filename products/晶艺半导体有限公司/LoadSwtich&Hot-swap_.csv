@@ -1,0 +1,11 @@
+产品网址：http://latticeart.com/product_category.php?id=16
+产品结构：root->LoadSwtich&Hot-swap|产品中心|晶艺半导体有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Load Swtich&Hot-swap|无|无|
+
+产品型号,拓扑结构,输入工作电压,功率管,电流能力Iout,特色功能,封装
+LA3501,Load Switch,4-20V,内置,1.5A,programable 0.1~1.5A current limit,SOT23-6
+LA3502,Load Switch,2.5-55V,内置,2*0.8A,Dual channel load switch,SOT23-6
+LA3800,Load Switch,100-1200V,内置,clamp power<10W,Accurate Output Voltage clamp,LasSOP-10

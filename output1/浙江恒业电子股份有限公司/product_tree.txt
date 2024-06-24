@@ -1,0 +1,45 @@
+-> root https://www.hengye.com.cn
+  -> 首页 
+    -> 产品中心 
+      -> 电能表 https://www.hengye.com.cn/product
+        -> 单相系列 https://www.hengye.com.cn/product/watt-hour-meter/single-series
+          -> DDS119-Y7型单相预付费表_ https://www.hengye.com.cn/product/watt-hour-meter/single-series-80.html
+          -> ML112型单相方表_ https://www.hengye.com.cn/product/watt-hour-meter/single-series-79.html
+          -> CL200型圆表_ https://www.hengye.com.cn/product/watt-hour-meter/single-series-78.html
+          -> DDS119-Y7型单相电子表_ https://www.hengye.com.cn/product/watt-hour-meter/single-series-77.html
+          -> UIUG型户内单元_ https://www.hengye.com.cn/product/watt-hour-meter/single-series-76.html
+          -> DDS198型单相计度器表_ https://www.hengye.com.cn/product/watt-hour-meter/single-series-75.html
+          -> DDZY119-Z型A级单相费控智能电能表_ https://www.hengye.com.cn/product/watt-hour-meter/single-series-74.html
+          -> DDZY119-Z型2级单相本地费控智能电能表_ https://www.hengye.com.cn/product/watt-hour-meter/single-series-73.html
+          -> DDZY119C-Z型2级单相费控电能表_ https://www.hengye.com.cn/product/watt-hour-meter/single-series-72.html
+          -> DDZM119-M单相物联网电能表_ https://www.hengye.com.cn/product/watt-hour-meter/single-series-71.html
+          -> DDZ119-Z型A级单相智能表_ https://www.hengye.com.cn/product/watt-hour-meter/single-series-70.html
+          -> DDSI119型单相电子式载波电能表_ https://www.hengye.com.cn/product/watt-hour-meter/single-series-69.html
+        -> 三相系列 https://www.hengye.com.cn/product/watt-hour-meter/three-series
+          -> DDZY119-Y1型STS三相预付费_ https://www.hengye.com.cn/product/watt-hour-meter/three-series-87.html
+          -> DTZY119型1级三相费控电能表_ https://www.hengye.com.cn/product/watt-hour-meter/three-series-86.html
+          -> DTZY119-Z型1级三相费控智能电能表_ https://www.hengye.com.cn/product/watt-hour-meter/three-series-85.html
+          -> DTZY119-Z型B级三相费控智能电能表_ https://www.hengye.com.cn/product/watt-hour-meter/three-series-84.html
+          -> DTZY119C-Z型B级三相本地费控智能电能表_ https://www.hengye.com.cn/product/watt-hour-meter/three-series-83.html
+          -> DTZ119-Z型B级三相智能电能表_ https://www.hengye.com.cn/product/watt-hour-meter/three-series-82.html
+          -> DTZY119-Z型三相电子式费控电能表_ https://www.hengye.com.cn/product/watt-hour-meter/three-series-81.html
+      -> 采集终端 https://www.hengye.com.cn/product/acquisition-terminal
+        -> DJTH23-HY02集中器_ https://www.hengye.com.cn/product/acquisition-terminal-68.html
+        -> DCHL-13型采集器_ https://www.hengye.com.cn/product/acquisition-terminal-67.html
+        -> DCHL-33型采集器_ https://www.hengye.com.cn/product/acquisition-terminal-66.html
+        -> DJGZ23-HY02集中器_ https://www.hengye.com.cn/product/acquisition-terminal-65.html
+        -> DJGZ13-HY01型集中器_ https://www.hengye.com.cn/product/acquisition-terminal-64.html
+      -> 用电管理系统 https://www.hengye.com.cn/product/electricity-management-system
+        -> 海外 https://www.hengye.com.cn/product/electricity-management-system-59.html
+        -> 国内 https://www.hengye.com.cn/product/electricity-management-system-58.html
+      -> 电表箱 https://www.hengye.com.cn/product/meter-box
+        -> 单相单表位_ https://www.hengye.com.cn/product/meter-box-90.html
+        -> 单相多表位表箱_ https://www.hengye.com.cn/product/meter-box-89.html
+        -> 三相单表柆_ https://www.hengye.com.cn/product/meter-box-88.html
+    -> Products 
+      -> EnergyMeter https://www.hengye.com.cn/en/product
+      -> AcquisitionTerminal https://www.hengye.com.cn/en/product/acquisition-terminal
+      -> MeterBox https://www.hengye.com.cn/en/product/meter-box
+        -> Electricity Management System 
+        -> Meter Box 
+  -> ElectricityManagemen https://www.hengye.com.cn/en/product/electricity-management-system

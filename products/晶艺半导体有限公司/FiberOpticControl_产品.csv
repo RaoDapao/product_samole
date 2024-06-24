@@ -1,0 +1,9 @@
+产品网址：http://latticeart.com/product_category.php?id=21
+产品结构：root->FiberOpticControl|产品中心|晶艺半导体有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Fiber Optic Control|无|无|
+
+产品型号,拓扑结构,输入工作电压,功率管,电流能力Iout,特色功能,封装
+LA1000S,SMPS,2.7-5.5V,内置,1.5A,1% 2.5V REF Accuary; TEC current monitor;  External SYNC Function,QFN16(2*3)

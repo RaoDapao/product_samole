@@ -1,0 +1,52 @@
+-> root http://macmicst.com
+  -> 产品分类-江苏宏微科技股份有限公司 http://www.macmicst.com/index.php/product/product.html
+    -> 1500V 高压 MOS 分立器件 
+    -> RC（逆导）IGBT 分立器件 
+    -> M3i-低饱和压降型 IGBT 分立器件 
+    -> GTU-快速型 IGBT 分立器件 
+  -> 产品分类-江苏宏微科技股份有限公司_1 http://www.macmicst.com/index.php/product/product/16.html
+  -> 产品分类-江苏宏微科技股份有限公司_2 http://www.macmicst.com/index.php/product/product/17.html
+    -> IGBT 分立器件 
+    -> MOSFET 分立器件 
+    -> FRED 分立器件 
+  -> 产品分类-江苏宏微科技股份有限公司_3 http://www.macmicst.com/index.php/product/product/18.html
+  -> 产品中心-江苏宏微科技股份有限公司 http://www.macmicst.com/index.php/product/module.html
+  -> 产品中心-江苏宏微科技股份有限公司_1 http://www.macmicst.com/index.php/product/release_info/43.html
+  -> 产品中心-江苏宏微科技股份有限公司_2 http://www.macmicst.com/index.php/product/release_info/42.html
+  -> 产品中心-江苏宏微科技股份有限公司_3 http://www.macmicst.com/index.php/product/release_info/41.html
+  -> 产品中心-江苏宏微科技股份有限公司_4 http://www.macmicst.com/index.php/product/release_info/40.html
+  -> 产品中心-江苏宏微科技股份有限公司_5 http://www.macmicst.com/index.php/product/product_info/17.html
+  -> 产品中心-江苏宏微科技股份有限公司_6 http://www.macmicst.com/index.php/product/product_info/16.html
+  -> 产品中心-江苏宏微科技股份有限公司_7 http://www.macmicst.com/index.php/product/product_info/18.html
+  -> 产品中心-江苏宏微科技股份有限公司_8 http://www.macmicst.com/index.php/product/product_info/20.html
+  -> 产品中心-江苏宏微科技股份有限公司_9 http://www.macmicst.com/index.php/product/product_info/21.html
+  -> 产品中心-江苏宏微科技股份有限公司_10 http://www.macmicst.com/index.php/product/product_info/22.html
+  -> 产品中心-江苏宏微科技股份有限公司_11 http://www.macmicst.com/index.php/product/product_info/23.html
+  -> 产品中心-江苏宏微科技股份有限公司_12 http://www.macmicst.com/index.php/product/product_info/24.html
+  -> 产品中心-江苏宏微科技股份有限公司_13 http://www.macmicst.com/index.php/product/modinfo/565.html
+  -> 产品分类-江苏宏微科技股份有限公司_4 http://www.macmicst.com/en/index.php/product/product.html
+    -> 1500V MOS Discretes 
+    -> RC-IGBT Discretes 
+    -> M3i-GT Low Vcesat IGBT Discretes 
+    -> GTU High Speed IGBT Discretes 
+  -> 产品分类-江苏宏微科技股份有限公司_5 http://www.macmicst.com/en/index.php/product/product/18.html
+    -> IGBT Modules 
+    -> FRED Modules 
+    -> Rectifier Diodes Modules 
+    -> Thyristor Modules 
+    -> Rectifier Bridges Modules 
+  -> 产品中心-江苏宏微科技股份有限公司_14 http://www.macmicst.com/en/index.php/product/module.html
+    -> EV 空调控制器 
+    -> 车载 DCDC 转换器 
+    -> 预充电单元 
+    -> PTC 控制器 
+    -> 车载逆变器 
+    -> 风扇调速模块 
+  -> 产品中心-江苏宏微科技股份有限公司_15 http://www.macmicst.com/en/index.php/product/release_info/43.html
+  -> 产品中心-江苏宏微科技股份有限公司_16 http://www.macmicst.com/en/index.php/product/release_info/42.html
+  -> 产品中心-江苏宏微科技股份有限公司_17 http://www.macmicst.com/en/index.php/product/release_info/41.html
+  -> 产品中心-江苏宏微科技股份有限公司_18 http://www.macmicst.com/en/index.php/product/release_info/40.html
+    -> GVD 模块 
+    -> HPD 模块 
+    -> 半桥模块 
+    -> H 桥一体化模块 

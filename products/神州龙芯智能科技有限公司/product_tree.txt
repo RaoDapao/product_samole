@@ -1,0 +1,23 @@
+-> root http://www.china-cpu.co
+  -> 首页 
+    -> 关于我们 
+      -> 网站首页 http://www.china-cpu.co/product-35-0-0.html
+        -> NS32F103x8/B 标准型 MCU 系列 
+        -> GSIT28335i 数字信号处理器 
+        -> “龙芯 1 号”CPU 芯片 
+        -> “龙芯 2 号”CPU 芯片 
+        -> 板卡系统 
+        -> 核心板 
+        -> 工业互联网通用网关 
+        -> 模块系列 
+        -> 神州龙芯服务器密码机 
+        -> 神州龙芯云服务器密码机 
+        -> 神州龙芯高性能服务器密码机 
+        -> IPSec/SSL VPN 综合安全网关 
+  -> 一人一机一个核酸检测点——智能采集机如东显神威-新闻中心-新闻中心-神州龙芯智能科技有限公司 http://www.china-cpu.co/news_detail-21-36-200.html
+  -> 省市区领导连续视察核酸码智能采集机-新闻中心-新闻中心-神州龙芯智能科技有限公司 http://www.china-cpu.co/news_detail-21-36-199.html
+  -> 神州龙芯商密产品线捷报频传添三军-新闻中心-新闻中心-神州龙芯智能科技有限公司 http://www.china-cpu.co/news_detail-21-36-201.html
+    -> 密码卡 
+    -> 服务器密码机 
+    -> 密钥管理系统 
+  -> 招贤纳士-产品研发部岗位招聘-北京神州龙芯集成电路设计有限公司 https://www.china-cpu.com/job-101-0-118.html

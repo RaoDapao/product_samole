@@ -1,0 +1,16 @@
+产品网址：https://www.longsys.com/products/embedded-storage/embedded-storage/subsize-emmc.html
+产品结构：root->FORESEEeMMCStorageSolutions|SmallerSize|Longsys
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|FORESEE eMMC Storage|Subsize eMMC|具有更小尺寸和更低功耗，可节省更多 PCB 空间，适用于小型设备，向下兼容标准行业协议，基于对 Flash 和应用场景的洞察进一步降低功耗，适用于空间有限的应用场景，如可穿戴设备|
+
+Product Series,NAND Flash,Capacity,Package,Operating Temperature,Protocol,Interface,Operating Voltage,Size
+Subsize eMMC,MLC,4GB,153Ball,-25℃~85℃,eMMC 5.1,HS400,3.3V/1.8V,9*7.5*0.8 mm / 9*10*0.8mm / 10*11*0.8 mm
+Subsize eMMC,MLC,8GB,153Ball,-25℃~85℃,eMMC 5.1,HS400,3.3V/1.8V,9*7.5*0.8 mm / 9*10*0.8mm / 10*11*0.8 mm
+Subsize eMMC,TLC,32GB,153Ball,-25℃~85℃,eMMC 5.1,HS400,3.3V/1.8V,9*7.5*0.8 mm / 9*10*0.8mm / 10*11*0.8 mm
+
+
+Number,Platform
+01,Qualcomm
+（  The product supports mainstream platforms and only part of it is shown here.  ）,（  The product supports mainstream platforms and only part of it is shown here.  ）

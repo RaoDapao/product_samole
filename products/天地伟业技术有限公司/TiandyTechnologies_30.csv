@@ -1,0 +1,105 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/965.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Speed Dome|Pro|6MP 25X Panoramic AEW PTZ Camera，TC-H366V，Spec: 4MP/25X/IW/E/A/2.8mm，Up to Panorama:3840×1568@25fps Detail:2560×1440@25fps，Panorama:0.0001lux Detail:0.001Lux，Panorama:S+265/H.265/H.264/M-JPEG，Detail:S+265/H.265/H.264/M-JPEG，Built-in Micro SD card slot, up to 512 GB，Support Panorama:Smart surveillance Detail:Smart surveillance，Support Panorama:Human/Vehicle Classification，Detail:Human/Vehicle Classification，Operating Conditions -30℃～65℃(IR OFF) -30℃～40℃(IR ON), 0-95%，AC24V±25%\DC24V±10%, POE IEEE802.3BT，IP66|
+
+Camera,Unnamed: 1
+Image Sensor,"Panorama:1/1.8""CMOS Detail:1/2.7""CMOS"
+Min. Illumination,Panorama:0.0001lux Detail:0.001Lux
+Shutter Time,Panorama:1s~1/100000s Detail:1s~1/100000s
+Day&Night,Panorama:N/A Detail:IR-cut filter with auto switch (ICR)
+WDR,Panorama:DWDR Detail:120dB
+Lens,
+Focal Length,Panorama:3.3mm Detail:4.8mm～120mm
+Optical Zoom,Panorama:N/A Detail:25X
+Digital Zoom,Panorama:N/A Detail:16X
+Zoom Speed,Panorama:N/A Detail:＜5s
+Aperture Range,Panorama:F1.0 Detail:F1.67~F3.67
+Field of View,Panorama:190±10°(H) Detail:58°～2.8°(H); Panorama:75±10°(V) Detail:33.9°～1.7°(V); Panorama:N/A Detail:64.8°~3.3°(D)
+Focus Control,Panorama: N/A Detail:Auto/Semi-auto/Manual
+Iris Control,Panorama:Fixed Detail:Auto
+Close Focus Distance,Panorama:2000mm Detail:500mm~5000mm
+DORI Distance,Panorama: Detect:45.5m Observe:18.1m Recognize:9.1m Identify:4.6m Detail: Detect:Detect:1980m Observe:785m Recognize:396m Identify:198m
+Pan&Tilt,
+Pan Range,Detail:360°
+Tilt Range,-16°～90° (Default -3°～90°)
+Tilt Speed,Manual Speed:0.1°～120°/s Preset: 180°/s
+3D Position,Yes
+Preset,500
+Cruise,"16, up to 32 presets per cruise"
+Scan,8
+Pattern,"8, each with 600s memory or 1000 orders"
+Scheduled Task,Preset、Cruise、Scan、Pattern
+North Point,Yes(Manual setting)
+Power-off Memory,Yes
+Illuminator,
+IR LEDs,Panorama:N/A Detail:10
+IR Distance,Panorama:N/A Detail:150m
+Wavelength,Panorama:N/A Detail:850nm
+IR Irradiation Angle,Panorama:N/A Detail:Adjustable by Zoom
+White LEDs,Panorama:3 Detail:4
+Whitelight Distance,Panorama:30m Detail:30m
+Laser,Panorama:N/A Detail:N/A
+Laser Distance,Panorama:N/A Detail:N/A
+Compression Standard,
+Video Compression,Panorama:S+265/H.265/H.264/M-JPEG Detail:S+265/H.265/H.264/M-JPEG
+Video Bit Rate,Panorama:32Kbps~16Mbps Detail:32Kbps~16Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D/AAC_LC
+Audio Sampling Rate,8KHz/32KHz/48KHz
+Image,
+Max. Resolution,Panorama:3840×1568@25fps Detail:2560×1440@25fps
+Main Stream,"Panorama: PAL:25fps(3840×1568, 3632×1480) NTSC:30fps(3840×1568, 3632×1480) Detail: PAL:25fps(2560×1440, 2304×1296, 1920×1080, 1280×720) NTSC:30fps(2560×1440, 2304×1296, 1920×1080, 1280×720)"
+Sub Stream,"Panorama: PAL:25fps(1200×488, 960×392) NTSC:30fps(1200×488, 960×392) Detail: PAL:25fps(704×576, 704×288, 352×288, 640×360) NTSC:30fps(704×480, 704×240, 352×240, 640×360)"
+Third Stream,"Panorama:N/A Detail: PAL:25fps(704×576, 704×288, 352×288, 640×480) NTSC:30fps(704×480, 704×240, 352×240, 640×480)"
+BLC,Yes
+HLC,Yes
+AGC,Yes
+White Balance,Yes
+ROI,"Panorama:7 fixed rectangles and 1 dynamic tracking focus area for each main and secondary stream Detail:7 rectangular 3D fixed focus areas, supporting 1 rectangular dynamic tracking ROI"
+OSD,"Panorama: 5 regions(Each region can have a maximum of 127 characters ,up to 5 lines) Detail: 5 regions(Each region can have a maximum of 127 characters ,up to 5 lines); Panorama: 16*16/32*32/48*48/64*64/96*96/adaptable size Detail: 16*16/32*32/48*48/64*64/96*96/adaptable size; Vector/Lattice"
+Defog,Yes
+Flip,Panorama:N/A Detail:Normal/Horizontal Mirror/Vertical Mirror/Inverted Flip
+Regional Exposure,Panorama:N/A Detail:Yes
+Regional Focus,Panorama:N/A Detail:Yes
+Demist,Yes
+Privacy Mask,Panorama:8 regions Detail:24 regions(Up to 4 blocks in the same scene)
+Feature,
+Alarm Trigger,"Panorama:Motion Detection Detail:Motion Detection; Panorama:Mask Alarm Detail:Mask Alarm; Disk Full; Disk R/W Error; Recording Exception; IP Address Conflict; MAC Address Conflict; FTP Server Exception ; Event Input,Event Output; Network cable disconnected"
+Linkage Method,send email; trigger sound; trigger warmlight; trigger recording; trigger capture; notify surveillance center
+Video Analytics,Panorama:Human/Vehicle Classification Detail:Human/Vehicle Classification; Panorama:Tripwire Detail:Tripwire; Panorama:Double Tripwire Detail:Double Tripwire; Panorama:Perimeter Detail:Perimeter; Panorama:N/A Detail:Object Abandon; Panorama:N/A Detail:Object Lost; Panorama:Heatmap Detail:N/A; Panorama:N/A Detail:Loitering; Panorama:N/A Detail:Running; Panorama:N/A Detail:Parking; Panorama:N/A Detail:People Counting; Panorama:N/A Detail:Crowed; Panorama:N/A Detail:Safety Helmet Detection; Panorama:N/A Detail:On Duty Detection; Panorama:Video Abnormal Detail:Video Abnormal; Panorama:Audio Abnormal Detail:N/A
+Early Warning(EW),Early Warning(EW)
+Auto-Tracking,Auto-Tracking
+Face Mode,Panorama:N/A Detail:Capture facial images
+Network,
+ANR,ANR
+Protocols,HTTP; HTTPS; TCP/IP; UDP; UPnP; ICMP; IGMP; SNMP v1\v2\v3; DHCP; DNS; DDNS; Easy DDNS; NTP; SMTP; TLS; SSL; 802.1x; QoS; IPv4; IPv6; PPPOE; SSH; Unicast; Multicast; ARP; RTP; SRTP; RTSP; FTP; SFTP; NAS; PING
+System Compatibility,ONVIF Profile S/T/G/M; CGI; Milestone; RTMP
+Remote Connection,≤7
+User/Host,Up to 32 users. 4 user levels
+Client,Easy7 Smart Client
+Moblie Client,EasyLive Plus
+Interface,
+Communication Interface,1*RJ45 10M/100M/1000M self adaptive Ethernet port
+Audio I/O,"1*Input Impedance 1kΩ,2.0~2.4Vp-p; 1*Output Impedance 600Ω"
+Alarm I/O,"2*Switching; 1,Switching"
+Reset Button,Yes
+On-board storage,"Built-in Micro SD card slot, up to 512 GB"
+General,
+Web Client Language,19 languages: Simplified Chinese/English/Traditional Chinese/Spanish/Italian/Korean/Turkish/Russian/Thai/Polish/French/Dutch/Hebrew/Vietnamese/Arabic/German/Ukrainian/Portuguese/Albanian
+Operating Temperature,-30℃～65℃(IR OFF) -30℃～40℃(IR ON)
+Operating Humidity,0-95%
+Storage Temperature,-30℃～65℃
+Storage Humidity,0-95%(non-condensing)
+Power Supply,AC24V±25%\DC24V±10%; POE IEEE802.3BT
+Protection,Surge protection 4000V; Lightning proof 6000V; IP66
+Material,Metal and Plastic
+Boundary Dimensions,298mm(D)*375mm(H)
+Package Dimensions,385(L)*350(W)*540(H)mm
+GrossWeight,9.41kg
+NetWeight,5.33kg
+
+
+Date,Title,Type
+2024-04-07,1D.20020.020139_TC-H366V 4MP25XIWEA2.8mm_en,pdf

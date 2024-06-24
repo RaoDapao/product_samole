@@ -1,0 +1,40 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/999.html#
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|PoE Switch|TC-P3S010|8 个千兆 PoE 网络端口+2 个千兆网络端口，符合 IEEE 802.3、IEEE 802.3u、IEEE 802.3u、IEEE 802.3x 标准；以太网端口支持 10/100/1000M 自适应；PoE 端口在 VLAN 和 Extend 模式下自动开启看门狗；流量控制模式：全双工采用 IEEE 802.3x 标准，半双工采用 Back pressure 标准；零配置功能，自动为自适应设备供电；面板指示灯监控工作状态，有助于分析故障；拨码开关，支持 VLAN、Default 和 Extend 模式；支持 1-8 端口 POE 供电优先级，端口优先级高；支持端口雷电浪涌：共模 4KV，差模 2KV（C 类）；静电 ESD：空气 8KV，接触 6KV（C 类）|
+
+I/O Interface,Unnamed: 1
+Power,AC INPUT (100-240 V)
+Ethernet,"8* Gigabit PoE Ethernet Ports  ,  2* Gigabit Uplink Ethernet Port"
+Performance,
+Bandwidth,20Gbps
+Throughput,14.88Mpps
+Packet Buffer,448K
+MAC Address,2K
+Transfer Mode,Storage & Forward
+Standard,
+Network Protocol,IEEE802.3 (10Base-T)  IEEE802.3u (100Base-TX)  IEEE802.3ab (1000Base-TX)  IEEE802.3x (Flow control)
+PoE Protocol,IEEE802.3af (15.4W)  IEEE802.3at (30W)  POE port output voltage: DC 52V  POE power supply core: 1/2+; 3/6
+Industrial Standard,"EMS: EN61000-4-2 (ESD), EN61000-4-5 (Surge)"
+Network Medium,"10Base-T: Cat3, 4, 5 or above UTP(≤100m)  100Base-TX: Cat5 or above UTP(≤100m)  1000Base-TX: Cat5 or above UTP(≤100m)"
+Function,
+LED Indicators,"PWR (Power),1-10 Green Light (Link & Data)"
+PWR,On: Powered on  Off: Powered off
+POE LED Buttons,"Dual color light selection: default green (link data), switch yellow light (POE)"
+DIP Switch,
+VLAN,VLAN: Isolation mode. Ports 1 to 8 are isolated and communicate with the upstream interface. (enable POE watchdog)
+Default,"Default: common mode, all interfaces can communicate with each other, the transmission distance is less than 100 meters, the transmission rate is 10/100/1000M adaptive; The port AI mode is disabled."
+Extend,"Extend: Link extension mode, 7-8 ports force 10M, link 220M (enable POE watchdog)"
+Environment,
+Working Environment,"Working Temperature: -10~50 ℃  Storage Temperature: -40~70 ℃  Working Humidity: 10%~90%, non-condensing  Storage Temperature: 5%~95%, non-condensing"
+Physical Specifications,
+Dimension,Product Dimension: 220*161*44mmm  Package Dimension: 315*215*85mm  N.W: 0.88kg  G.W: 1.38kg
+Packing Info,Carton MEAS: 445*445*335mm  Packing Qty: 10 units  Packing Weight: 14.8KG
+Power Voltage,Input Voltage: AC 100-240 V 50-60Hz  Supply Power: 52V /2.3A
+Power,Mainboard power consumption: maximum 10W  POE power: maximum 110W
+
+
+Date,Title,Type
+2024-05-20,TC-P3S010 SpecG0820AT110,pdf

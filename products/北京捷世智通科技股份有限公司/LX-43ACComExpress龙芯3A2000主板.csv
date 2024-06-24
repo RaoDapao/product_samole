@@ -1,0 +1,22 @@
+产品网址：http://icpc.cn/cms/item/view?table=product&id=33
+产品结构：当前位置：首页->产品与服务->龙芯->模块->LX-43ACComExpress龙芯3A2000主板
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|ComExpress 龙芯 3A2000 主板模块|LX-43AC|以龙芯 3A2000 多核处理器和 AMD RS780E SB710 芯片组为核心，内部集成 ATI M72-based 图像引擎，支持双屏显示，兼容 ComExpress Type 2 型引脚定义，能有效缩短开发周期，连接器采用插入式接触，采用螺钉加固安装，高抗震动，抗冲击。可应用于国防军工、航空航天、网络安全、能源等控制领域。|
+
+
+
+
+处理器,"龙芯3A2000  900MHz,集成4个64位超标量处理器核主频900MHz"
+总线规范,"125x95mmCOM  Express basic,COM Express Pin-out type2"
+芯片组,AMD  RA780E+SB710 chipset
+硬盘,4xSerialATA;1x  parallerATA
+存储,512KB  NorFlash 用于储存PMON
+内存,最大可支持4GB DDR2 SO-DIMM
+其他特性,LPC；  Watchdog；  SM Bus；  RTC
+主板接口,8xUSB  2.0端口；  5xPCI Express x1通道；  PCI2.1，32bit/33MHz；  1x千兆网（Intel82574 Gigabit Ethernet Controller）
+控制器,ADM  RS710集成HD音频控制器；  ADM RS780E集成ATI M72-based图像引擎；  PCI Express Graphics 2x8；  支持模块载板BIOS
+显示,TMDS/DVI；  LVDS；  VGA
+功耗,"22W,12V  Typ；  6.5V-20V"
+温度范围,工作温度：-25℃-  +70℃；  存储温度：-40℃- +85℃

@@ -1,0 +1,9 @@
+产品网址：https://www.j2semi.com/productinfo/1711681.html
+产品结构：root->直流开关稳压器-杰平方半导体(上海)有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|直流开关稳压器|无|无|
+
+1.part number  器件型号,2.Vin（Min）（V）  最小输入电压（伏特）,3.Vin(Max)(V）  最大输入电压（伏特）,4.Vout（Min）（V）  最小输出电压（伏特）,5.Vout(Max)(V）  最大输出电压（伏特）,6.Iout (Max) (A)  最大输出电流(安培）,7.Iq (Typ) (uA)  静态工作电流（微安）,8.Switching frequency (Min) (kHz)  最小开关频率（千赫兹）,9.Switching frequency (Max) (kHz)  最大开关频率（千赫兹）,10.features  产品特征,11.Operating temperature range (C)  操作温度范围（℃）,12.Rating  产品等级,15.package group  封装类型,16.package size：mm2：  W×L(PKG)封装大小（平方毫米）,17.Regulated outputs (#)  可调节输出
+JASDC3615A,4,36,1,28,1.5,75,200,2200,过电流保护，软启动，同步整流，可调节UVLO,-40到125,车用,WSON | 12,9 mm2: 3 x 3 (WSON | 12),1

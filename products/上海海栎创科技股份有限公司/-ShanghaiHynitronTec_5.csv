@@ -1,0 +1,6 @@
+产品网址：http://en.hynitron.com/product/wearable/126
+产品结构：root->-ShanghaiHynitronTechnologyCo.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Wearable|CST820|Ultra-low power self-capacitance touch chip，支持 17 采样通道，支持三角、网格等自电容模式，刷新频率大于 100Hz，手势和覆盖屏幕关闭功能，动态模式下功耗 1.9mA，待机模式下功耗 10uA，睡眠模式下功耗 2uA，I2C 主/从通信，兼容 1.8V/3.3V 接口电平，单电源供电：2.8V~3.6V，电源纹波：<=50mV，QFN3X3-24L 封装|

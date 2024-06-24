@@ -1,0 +1,4 @@
+-> root http://www.glenfly.com
+  -> 图形图像产品及解决方案-产品中心-格兰菲 https://www.glenfly.com/index.php?catid=22
+  -> 图形图像产品驱动下载-产品中心-格兰菲智 https://www.glenfly.com/index.php?catid=23
+  -> AMOLED显示驱动产品-产品中心-格兰 https://www.glenfly.com/index.php?catid=49

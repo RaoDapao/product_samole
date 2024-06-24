@@ -1,0 +1,42 @@
+产品网址：https://www.zhmsemi.com/products/industrial_igbt_module/drivez62.html
+产品结构：root
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|DriveZ62|无|A. Low VCE(sat)<br>B. Low switching loss<br>C. Power terminal<br>Ultrasonic welding D. Standard housing|
+
+Package,Product,Vces(V),Ic(A),VCE(sat)(V),Configuration,typical value @Tj=25℃,typical value @Tj=25℃.1,typical value @Tj=25℃.2
+Package,Product,Vces(V),Ic(A),VCE(sat)(V),Configuration,VF(V),Eon(mJ),Eoff(mJ)
+DriveZ62,2B300M07S1P,650,300,1.70,Half Bridge,1.90,5.3,12.9
+DriveZ62,2B400M07S1P,650,400,1.70,Half Bridge,1.90,6.9,16.6
+DriveZ62,2B150M120S1P,1200,150,1.70,Half Bridge,1.80,3.1,10.1
+DriveZ62,2B200M120S1P,1200,200,1.70,Half Bridge,1.80,3.9,14.5
+DriveZ62,2B300M120S1P,1200,300,1.70,Half Bridge,1.80,5.4,22.3
+DriveZ62,2B400M120S1P,1200,400,1.70,Half Bridge,1.80,6.6,34.8
+DriveZ62,2B450M120S1P,1200,450,1.70,Half Bridge,1.80,11.3,45.7
+DriveZ62,2B600M120S1P,1200,600,1.70,Half Bridge,1.65,15.5,60
+DriveZ62,2B800M120S1P,1200,800,1.70,Half Bridge,1.70,26,79
+DriveZ62,2B100MF120S1P,1200,100,1.95,Half Bridge,1.70,3.6,5.0
+DriveZ62,2B150MF120S1P,1200,150,1.95,Half Bridge,1.70,3.7,8.6
+DriveZ62,2B200MF120S1P,1200,200,1.95,Half Bridge,1.70,3.9,11.0
+DriveZ62,2B300MF120S1P,1200,300,1.95,Half Bridge,1.70,4.2,18.2
+DriveZ62,2B400MF120S1P,1200,400,1.95,Half Bridge,1.70,7.8,22
+DriveZ62,2B450MF120S1P,1200,450,1.95,Half Bridge,1.70,8.5,24
+DriveZ62,2B100ZF120S1P,1200,100,3.10,Half Bridge,1.90,11.2,2.6
+DriveZ62,2B150ZF120S1P,1200,150,3.10,Half Bridge,1.90,15.4,3.8
+DriveZ62,2B200ZF120S1P,1200,200,3.10,Half Bridge,1.90,20.4,5.6
+DriveZ62,2B300ZF120S1P,1200,300,3.10,Half Bridge,1.90,33.4,8.9
+DriveZ62,SDB600M120S1P,1200,600,1.70,Single,1.90,30.2,78.4
+DriveZ62,SDB800M120S1P,1200,800,1.70,Single,1.80,53,110
+DriveZ62,SDB400MF120S1P,1200,400,1.95,Single,1.70,7.8,22
+DriveZ62,SDB600MF120S1P,1200,600,1.95,Single,1.70,10,36
+DriveZ62,CLB150M120S1P,1200,150,1.70,Chopper Low,1.80,3.1,10.1
+DriveZ62,CLB200M120S1P,1200,200,1.70,Chopper Low,1.80,3.9,14.5
+DriveZ62,CLB300M120S1P,1200,300,1.70,Chopper Low,1.80,5.4,22.3
+DriveZ62,CLB400M120S1P,1200,400,1.70,Chopper Low,1.80,6.6,34.8
+DriveZ62,CLB450M120S1P,1200,450,1.70,Chopper Low,1.80,11.3,45.7
+DriveZ62,CHB150M120S1P,1200,150,1.70,Chopper High,1.80,3.1,10.1
+DriveZ62,CHB200M120S1P,1200,200,1.70,Chopper High,1.80,3.9,14.5
+DriveZ62,CHB300M120S1P,1200,300,1.70,Chopper High,1.80,5.4,22.3
+DriveZ62,CHB400M120S1P,1200,400,1.70,Chopper High,1.80,6.6,34.8
+DriveZ62,CHB450M120S1P,1200,450,1.70,Chopper High,1.80,11.3,45.7

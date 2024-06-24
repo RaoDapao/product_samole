@@ -1,0 +1,12 @@
+-> root https://www.bluecolour.cn
+  -> 稳压二极管--四川蓝彩电子科技有限公司【 https://www.bluecolour.cn/dustry.aspx?category_id=105
+    -> 稳压二极管 
+    -> 肖特基二极管 
+    -> 开关二极管 
+    -> TVS 二极管 
+    -> 达林顿三极管 
+    -> 数字三极管 
+    -> 小信号三极管 
+    -> 场效应管（MOS 管） 
+    -> 三端稳压器 
+    -> 可控硅 

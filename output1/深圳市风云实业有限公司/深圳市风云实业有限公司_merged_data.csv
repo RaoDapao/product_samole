@@ -1,0 +1,75 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+深圳市风云实业有限公司,自主可控交换机,https://www.szforward.com/product/product.html,无,采用由业界先进的自主可控核心器件组成的硬件架构，使用了风云公司自主研发的多层交换芯片、国产化 CPU 芯片、国产化自主麒麟操作系统，支持高密度接口，支持冗余电源、冗余风扇等技术，充分满足运营级数据中心网络大容量、高密度、高性能、高可靠、高节能的要求,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,自主可控路由器,https://www.szforward.com/product/product.html,无,采用业界先进的自主可控核心器件组成的硬件架构，使用国产化 CPU 芯片、国产化自主麒麟操作系统，支持丰富的接口类型和多样化的业务特性，支持冗余电源、冗余风扇等技术，能够满足用户各种业务的安全可靠性需求,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/product.html,Tritium S9800 系列、Tritium S6800 系列,基于新一代数据中心交换芯片解决方案自主开发，根据实际应用场景灵活使用，可满足运营级数据中心及园区网络大容量、高密度、高性能、高可靠、高节能、虚拟化等要求，也能提供高性能、易管理、低成本的千兆到桌面的解决方案,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用路由器,https://www.szforward.com/product/product.html,Tritium TSR80 系列、Tritium R2000-S 系列,应用于大型行业网接入节点、企业广域网边缘节点、或者大中型企业分支出口等位置，提供丰富的业务类型和可靠的服务质量，可满足不同企业用户的多种业务需求,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,网络安全产品,https://www.szforward.com/product/product.html,无,除了具备传统防火墙产品外，还有采用路由隔离与受控交换的方式实现多个基于 TCP/IP 技术体制的物理或虚拟网系的互联跨域安全产品。防火墙产品能够实现防病毒、IPS、反垃圾邮件、上网行为管理、Web 过滤、应用控制、流量控制、用户管理等应用层管理。跨域互连控制设备综合运用接入认证、隧道传输、隔离摆渡、集中管控等安全控制措施，在各物理 IP 网络上，建立一套虚拟分布式网络交换系统，实现不同网域之间的信息受控互通,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,光保护产品,https://www.szforward.com/product/product.html,SP5700-32XF 系列,支持 4 组多模、单模以太网上下行链路接入保护，满足硬件、软件、主备系统的手动/自动切换模式，同时采用先进的前后散热模式与冗余热插拔电源设计，为网络串接系统提供灵活、高可靠的业务保障,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,国产自主可控交换机,https://www.szforward.com/product/productListFS.html,FS9800E 系列,采用自主可控核心器件组成的硬件架构，使用自主研发的多层交换芯片、国产化 CPU 芯片、国产化自主操作系统，支持高密度的 10GE/40GE 接口，支持冗余电源、冗余风扇等技术，具备业务自适应能力，支持网络平滑升级和策略灵活调度，实现业务快速部署,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,国产自主可控交换机,https://www.szforward.com/product/productListFS.html,FS6800E 系列,采用自主可控核心器件组成的硬件架构，使用自主研发的多层交换芯片、国产化 CPU 芯片、国产化自主操作系统，支持高密度多类型网络连接，在 1U 盒式机箱上提供了 16 端口的 10GE/40GE 接口，具备完善的安全机制和丰富的 Qos 控制，支持 FCoE、无损以太网、TRILL、VxLAN、虚拟化以及 SDN,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,国产自主可控交换机,https://www.szforward.com/product/productListFS.html,FS5700E 系列,采用自主可控核心器件组成的硬件架构，使用自主研发的多层交换芯片、国产化 CPU 芯片、国产化自主操作系统，向用户提供高性能的 L2/L3/L4 线速交换服务，结合多种高可靠性技术，保证网络最长时间的不间断通信能力,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,国产自主可控交换机,https://www.szforward.com/product/productListFS.html,FS5300 系列,采用自主可控核心器件组成的硬件架构，使用自主研发的多层交换芯片、国产化 CPU 芯片、国产化自主操作系统，支持千兆接入万兆汇聚，实现接入与汇聚带宽的合理匹配，支持灵活的千兆以太网接口与万兆以太网接口组合，支持所有端口线速转发，具有出色的处理性能与未来扩展性,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,自主可控交换机,https://www.szforward.com/product/productDetail_FS6816E.html,FS6816E,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,自主可控交换机,https://www.szforward.com/product/productDetail_FS5700E.html,FS5752E,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,自主可控交换机,https://www.szforward.com/product/productDetail_FS5300.html,FS5300-36TS、FS5300-36ST、FS5300-56TS、FS5300-56S,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,自主可控交换机,https://www.szforward.com/product/productDetail_FS5356E.html,FS5356E,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,自主可控交换机,https://www.szforward.com/product/productDetail_FS5328EX4.html,FS5328EX4,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,自主可控交换机,https://www.szforward.com/product/productDetail_S5352TS-EI.html,S5352TS-EI,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,自主可控路由器,https://www.szforward.com/product/productDetail_FR1002.html,FR1002,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,自主可控路由器,https://www.szforward.com/product/productDetail_FR1004.html,FR1004,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,自主可控路由器,https://www.szforward.com/product/productDetail_FR2304.html,FR2304,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,自主可控路由器,https://www.szforward.com/product/productDetail_FR8016.html,FR8016,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,国产自主可控路由器,https://www.szforward.com/product/productListFR.html,FR1000 系列,采用国产化自主可控方案，主要元器件、操作系统选用国产化部件。以国产飞腾处理器作为中央处理器，麒麟操作系统作为操作系统。支持丰富的接口类型和功能模块，灵活的安全策略控制，先进的 QoS 保障能力；具备完善的 IPv4/IPv6 协议，能够实现 IPv4 到 IPv6 的平滑过渡。可以部署在用户网络的出口位置，能够满足政府、金融、特种部门等对安全性有较高要求的用户需求。,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,国产自主可控路由器,https://www.szforward.com/product/productListFR.html,FR2300 系列,采用国产化自主可控方案，主要元器件、操作系统选用国产化部件。以国产飞腾处理器作为中央处理器，自主设计的 NPU 单元作为网络加速引擎，麒麟操作系统作为操作系统。采用国产的飞腾多核处理器＋分布式硬件体系架构，能够满足用户多元化的网络接入需求，支持以太网接口、POS 接口、UE1 接口、cPOS 接口等丰富的接口类型，具备强大的汇聚接入能力，能够满足用户的各种接入需求。可以提供多维度、立体的安全、可靠传输保障，从设备级、网络级、业务级等方面入手，建立了一套依托整体网络的有效的解决方案，能够满足用户各种业务的安全可靠性需求。,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,国产自主可控路由器,https://www.szforward.com/product/productListFR.html,FR80 系列,采用国产化自主可控方案，主要元器件、操作系统选用国产化部件。以国产飞腾处理器作为中央处理器，自主设计的 NPU 单元作为网络加速引擎，麒麟操作系统作为操作系统。采用分布式的硬件转发和无阻塞交换技术，具备领先的线速转发性能，优异的扩展能力，完善的 QoS 机制和强大的业务处理能力。具备强大的汇聚接入能力，凭借丰富的接口种类和功能特性支持，可以灵活部署 L3VPN、组播、组播 VPN、MPLS TE、QoS 等，实现用户业务的可靠承载；同时，全面支持 IPv6，可以实现 IPv4 到 IPv6 的平滑过渡。主要应用在广域网核心节点、大型行业网接入节点、园区互联汇聚节点等位置，能够满足政府、金融、特种部门等对安全性有较高要求的用户需求。,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,自主可控路由器,https://www.szforward.com/product/productDetail_FR8032.html,FR8032,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用路由器,https://www.szforward.com/product/productDetail_TSR80-08.html,TSR80-08,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用路由器,https://www.szforward.com/product/productDetail_TSR80-03.html,TSR80-03,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用路由器,https://www.szforward.com/product/productDetail_R2304S.html,R2304-S,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用路由器,https://www.szforward.com/product/productDetail_R2004S.html,R2004-S,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用路由器,https://www.szforward.com/product/productDetail_R2002S.html,R2002-S,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productDetail_S12500.html,S12500-09,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productDetail_S9800-16V.html,S9800-16V,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productDetail_S9800-08V.html,S9800-08V,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productDetail_S9600-08.html,S9600-08,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用路由器,https://www.szforward.com/product/productListTSR.html,TSR80 系列,TSR80 系列是深圳市风云实业有限公司自主研发的高性能万兆网络产品，主要应用在企业广域网核心节点、大型行业网接入节点、园区互联与汇聚节点以及其他各种大型 IDC 网络的边缘位置。采用分布式的硬件转发和无阻塞交换技术，具备领先的线速转发性能，优异的扩展能力，完善的 QoS 机制和强大的业务处理能力。支持虚拟化功能，具备强大的汇聚接入能力，凭借丰富的接口种类和功能特性支持，可以灵活部署 L3VPN、组播、组播 VPN、MPLS TE、QoS 等，实现用户业务的可靠承载；同时，全面支持 IPv6，可以实现 IPv4 到 IPv6 的平滑过渡。,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用路由器,https://www.szforward.com/product/productListTSR.html,R2000-S 系列,R2000-S 系列多业务接入路由器是深圳市风云实业有限公司推出的一款面向运营商、企业网的接入级路由器产品，主要应用在企业广域网边缘节点、或者大中型企业分支出口等位置。采用多核处理器＋分布式的硬件转发体系架构，支持丰富的接口类型，完善的 QoS 机制和强大的 IP/MPLS 业务处理能力，全面支持 IPv6，能够实现 IPv4 到 IPv6 的平滑过渡。,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productDetail_S9600-04.html,S9600-04,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productDetail_S8600-08V.html,S8600-08V,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productDetail_S8600-04.html,S8600-04,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productDetail_S5700-32XF.html,S5700-32XF,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productDetail_S5700-24XF.html,S5700-24XF,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productDetail_S5300-EI.html,S5300-28TS、S5300-28ST、S5300-52TS,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productDetail_S5100-28TS.html,S5100-28TS,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productDetail_S5100-52TS.html,S5100-52TS,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productDetail_S5100-28TX.html,S5100-28TX,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productDetail_S5100-52TX.html,S5100-52TX,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productListS.html,S12500 系列,支持高密度的 10GE/40GE 接口，支持冗余电源、冗余风扇等技术，具备业务自适应能力，支持网络平滑升级和策略灵活调度，实现业务快速部署，方便用户构建业务定义的网络。支持丰富的 IPv4/IPv6 特性，MPLS 特性，L2-L4 安全规则与 QoS 策略，数据中心虚拟化技术，是构建城域以太网、大型园区网、数据中心网络理想的新一代解决方案,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productListS.html,S9800 系列,支持高密度的 40GE/10GE 接口与 GE 接口，支持冗余电源、冗余风扇等技术，支持丰富的 IPv4/IPv6 特性，MPLS 特性，L2-L4 安全规则与 QoS 策略，数据中心虚拟化技术与存储技术，是构建城域以太网、大型园区网、数据中心网络理想的解决方案,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productListS.html,S9600 系列,支持高密度的 10GE 接口与 GE 接口，支持冗余电源、冗余风扇等技术，支持丰富的 IPv4/IPv6 特性，MPLS 特性，L2-L4 安全规则与 QoS 策略，是构建城域以太网、大型园区网、数据中心网络理想的解决方案,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productListS.html,S8600 系列,支持丰富的 IPv6 特性，MPLS 特性，L2-L4 安全规则，虚拟化技术，是构建以太城域网、大型园区网、数据中心网络的高性价比、灵活可靠的核心路由交换产品,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productListS.html,S5700 系列,支持高密度的 10GE 接口，支持冗余电源、冗余风扇、前后通风散热等技术，支持丰富的 IPv4/IPv6 特性，MPLS 特性，L2-L4 安全规则与 QoS 策略，是构建城域以太网、大型园区网、数据中心网络理想的新一代解决方案,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productListS.html,S5300-EI 系列,支持丰富的 IPv4/IPv6 协议栈与过渡技术，支持丰富的 QoS 保障与增强型 VLAN 特性，同时提供强大的安全防护策略。适用于大型网络的接入与汇聚层应用，也适用于中小型网络的汇聚与核心层应用，满足企业网、园区网、数据中心和城域网环境的需求,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productListS.html,S5100 系列,固化 24/48 端口千兆以太网接口，支持 4 个 SFP+/SFP 接口，支持丰富的 QoS 保障与增强型 VLAN 特性，同时提供强大的安全防护策略。具备先进的绿色环保技术，可为用户提供高性能、易管理、低成本的千兆到桌面的解决方案,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productListS.html,S5000 系列,适用于企业网、园区网和城域网的全千兆智能安全接入组网应用，支持静态路由，增强型 VLAN 特性，丰富的 QoS 及带宽控制手段，智能安全控制策略，满足千兆接入，千兆汇聚，服务器集群，城域网安全接入等场景的应用需求。支持完善的 IPv4/IPv6 双栈特性，满足向 IPv6 网络过渡的各种条件，充分保护用户投资,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productDetail_S5000-28TS.html,S5000-28TS,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,通用交换机,https://www.szforward.com/product/productDetail_S5000-52TS.html,S5000-52TS,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,GWF1000/2000 系列防火墙,https://www.szforward.com/product/productListNS.html#,GWF1000/2000,除了具备传统的路由和防火墙功能外，还能够实现防病毒、IPS、反垃圾邮件、上网行为管理、Web 过滤、应用控制、流量控制、用户管理等应用层管理。采用硬件化设计，多核处理器和专用处理芯片，可高速转发和深度处理数据流，具备完善的 IPv4/IPv6 协议。可部署在中小型企业和中型行业分支机构的出口位置，满足多种行业用户的安全需求，提高网络综合安全防护能力,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,DN4014 多网域互联控制系统,https://www.szforward.com/product/productListNS.html#,DN4014,基于现有网络现状和应用模式，采用路由隔离与受控交换的方式实现多个基于 TCP/IP 技术体制的物理或虚拟网系的互联，综合运用接入认证、隧道传输、隔离摆渡、集中管控等安全控制措施，在各物理 IP 网络上，建立一套虚拟分布式网络交换系统，实现不同网域之间的信息受控互通。部署在不同网系边缘，具体功能包括多协议跨网交换、用户终端可信接入、跨网交换权限控制、数据类业务控制和系统管理控制,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,D100C-G 多网域交换代理设备,https://www.szforward.com/product/productListNS.html#,D100C-G,部署在跨域业务近终端侧，为不同网域的计算机、语音、视频终端和系统接入 DN4014 多网域互联控制系统中提供可信服务，并提供透明的跨域业务受控交换服务。主要功能包括用户可信接入、跨域隧道封装、解封装和多链路冗余接入,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,防火墙产品,https://www.szforward.com/product/productDetail_NS_GWF.html,GWF1000/2000,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,DN4014,https://www.szforward.com/product/productDetail_NS_DN4041.html,DN4014,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,跨域安全产品,https://www.szforward.com/product/productDetail_NS_D100C-G.html,D100C-G,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,SP5700-32XF 系列,https://www.szforward.com/product/productListSP.html#,SP5700-32XF-SM、SP5700-32XF-MM、SP5700-32XF-DM,支持 4 组多模、单模以太网上下行链路接入保护，满足硬件、软件、主备系统的手动/自动切换模式，采用先进的前后散热模式与冗余热插拔电源设计，为网络串接系统提供灵活、高可靠的业务保障,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,SP1100-24GTS 系列,https://www.szforward.com/product/productListSP.html#,SP1100-24GTS-SM、SP1100-24GTS-MM、SP1100-24GTS-DM,支持 4 组多模、单模以太网上下行链路接入保护，满足硬件、软件、主备系统的手动/自动切换模式，采用先进的前后散热模式与冗余热插拔电源设计，为网络串接系统提供灵活、高可靠的业务保障,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,光保护产品,https://www.szforward.com/product/productDetail_SP5700sm.html,SP5700-32XF-SM,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,光保护产品,https://www.szforward.com/product/productDetail_SP5700mm.html,SP5700-32XF-MM,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,光保护产品,https://www.szforward.com/product/productDetail_SP5700dm.html,SP5700-32XF-DM,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,光保护产品,https://www.szforward.com/product/productDetail_SP1100sm.html,SP1100-24GTS-SM,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,光保护产品,https://www.szforward.com/product/productDetail_SP1100mm.html,SP1100-24GTS-MM,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,光保护产品,https://www.szforward.com/product/productDetail_SP1100dm.html,SP1100-24GTS-DM,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,跨域安全产品,https://www.szforward.com/product/productDetail_NS_DN4041.html#,DN4014,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,全国产自主可控交换机,https://www.szforward.com/news/newsDetail_20191220.html,FR80 系列、FR2300 系列、FR1000 系列、FS9800E 系列、FS6800E 系列、FS5700E 系列,采用业界先进的自主可控核心器件组成的硬件架构，使用了公司自主研发的 SF 系列高性能交换芯片、国产飞腾 CPU 芯片和国产自主麒麟操作系统，支持高密度接口，支持冗余电源、冗余风扇等技术，充分满足运营级数据中心网络大容量、高密度、高性能、高可靠、高节能的要求,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,全国产自主可控路由器,https://www.szforward.com/news/newsDetail_20191220.html,FR80 系列、FR2300 系列、FR1000 系列,采用业界先进的自主可控核心器件组成的硬件架构，使用国产化飞腾 CPU 芯片、国产化自主麒麟操作系统，支持丰富的接口类型和多样化的业务特性，支持冗余电源、冗余风扇等技术，能够满足用户各种业务的安全可靠性需求,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,D100C-G,https://www.szforward.com/product/productDetail_NS_D100C-G.html#,D100C-G,无,无,0,无,0,无,0,无,0
+深圳市风云实业有限公司,自主可控交换机,https://www.szforward.com/product/productDetail_FS9800E.html,FS9804E、FS9808E,无,无,0,无,0,无,0,无,0

@@ -1,0 +1,13 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+臻驱科技（上海）有限公司,功率半导体模块,http://leadrive.com/product/product.php?lang=cn&class2=7,DrivePACK（SiC 模块）,电压/电流等级：1200V/1200A<br>最大工作室温：175℃<br>杂散电感：≤8nH<br>冷却方式：椭圆 PinFin 直接水冷<br>端子长度：短/长端子<br>基板尺寸：152 x 92mm<br>可靠性标准：AQG324<br>应用场景：电动汽车电驱,功率半导体模块,9667960873,无,0,无,0,无,0
+臻驱科技（上海）有限公司,功率半导体模块,http://leadrive.com/product/product.php?lang=cn&class2=7,OreoPACK,电压/电流等级：750V/800A<br>最大工作室温：150℃<br>杂散电感：7.5nH<br>冷却方式：双面冷却散热<br>端子长度：短/长端子<br>可靠性标准：AQG324<br>应用场景：电动汽车电驱,功率半导体模块,9667960873,无,0,无,0,无,0
+臻驱科技（上海）有限公司,功率半导体模块,http://leadrive.com/product/product.php?lang=cn&class2=7,DrivePACK,电压/电流等级：750V/820A<br>最大工作室温：150℃<br>杂散电感：≤8nH<br>冷却方式：带 Pin-Fin 直接水冷<br>端子长度：短/长端子<br>基板尺寸：152 x 92mm<br>可靠性标准：AQG324<br>应用场景：电动汽车电驱,功率半导体模块,9667960873,无,0,无,0,无,0
+臻驱科技（上海）有限公司,功率半导体模块,http://leadrive.com/product/product.php?lang=cn&class2=7,EcoPACK,电压/电流等级：1200V/600A<br>最大工作室温：175℃<br>杂散电感：30nH<br>冷却方式：间接冷却<br>可靠性标准：AQG324<br>应用场景：光伏等工业领域,功率半导体模块,9667960873,无,0,无,0,无,0
+臻驱科技（上海）有限公司,单电机控制器,http://leadrive.com/product/product.php?lang=cn&class2=8,第二代单电机控制器,峰值功率：180kVA，产品体积：4.8L，功率密度：37.5kVA/L，功能安全：ASIL-C 等级，应用场景：A级 及以上 BEV 乘用车,单电机控制器,3437836893,无,0,无,0,无,0
+臻驱科技（上海）有限公司,单电机控制器,http://leadrive.com/product/product.php?lang=cn&class2=8,小功率单电机控制器,峰值功率：110kVA，产品体积：4.1L，功率密度：27kVA/L，应用场景：纯电动物流及乘用车,单电机控制器,3437836893,无,0,无,0,无,0
+臻驱科技（上海）有限公司,单电机控制器,http://leadrive.com/product/product.php?lang=cn&class2=8,中功率单电机控制器,峰值功率：180kVA，产品体积：5.5L，功率密度：32.7kVA/L，应用场景：A级 及以上 BEV 乘用车,单电机控制器,3437836893,无,0,无,0,无,0
+臻驱科技（上海）有限公司,单电机控制器,http://leadrive.com/product/product.php?lang=cn&class2=8,SiC 碳化硅单电机控制器,峰值功率：300kVA，产品体积：5.5L，功率密度：54.5kVA/L，功能安全：ASIL-C 级，应用场景：B 级及以上 BEV 乘用车,单电机控制器,3437836893,无,0,无,0,无,0
+臻驱科技（上海）有限公司,单电机控制器,http://leadrive.com/product/product.php?lang=cn&class2=8,大功率单电机控制器,峰值功率：560kVA，产品体积：16.0L，功率密度：35kVA/L，应用场景：电动重卡,单电机控制器,3437836893,无,0,无,0,无,0
+臻驱科技（上海）有限公司,双电机控制器,http://leadrive.com/product/product.php?lang=cn&class2=160,第三代,峰值功率：2*200kVA，产品体积：9.4L，功率密度：42.5kVA/L，应用场景：A级 及以上 PHEV 乘用车,双电机控制器,1566176297,无,0,无,0,无,0
+臻驱科技（上海）有限公司,双电机控制器,http://leadrive.com/product/product.php?lang=cn&class2=160,第二代,峰值功率：2*150kVA，产品体积：7.2L，功率密度：41.6kVA/L，应用场景：A级 及以上 PHEV 乘用车,双电机控制器,1566176297,无,0,无,0,无,0
+臻驱科技（上海）有限公司,双电机控制器,http://leadrive.com/product/product.php?lang=cn&class2=160,第一代,峰值功率：2*180kVA，产品体积：12.5L，功率密度：30kVA/L，应用场景：A级 及以上 HEV 乘用车,双电机控制器,1566176297,无,0,无,0,无,0

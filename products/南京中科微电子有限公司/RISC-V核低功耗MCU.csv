@@ -1,0 +1,9 @@
+产品网址：https://www.njzkwiot.com/html/product-RISCV.html
+产品结构：root->RISC-V核低功耗MCU
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|RISC-V 核低功耗 MCU|CSM32RV20（QFN32）|基于 RISC-V RV32IMAC 内核（2.6 CoreMark/MHz）的 32 位低功耗 MCU 芯片，最高主频 32MHz，最大支持 40KB 嵌入式 FLASH、4KB SRAM 和 4.5KB NVM，集成 ADC 和 UART、I2C、SPI 等通用外设接口|
+|RISC-V 核低功耗 MCU|CSM32RV20（TSSOP20）|基于 RISC-V RV32IMAC 内核（2.6 CoreMark/MHz）的 32 位低功耗 MCU 芯片，最高主频 32MHz，最大支持 40KB 嵌入式 FLASH、4KB SRAM 和 4.5KB NVM，集成 ADC 和 UART、I2C、SPI 等通用外设接口|
+|RISC-V 核低功耗 MCU|CSM32RV20（QFN20）|基于 RISC-V RV32IMAC 内核（2.6 CoreMark/MHz）的 32 位低功耗 MCU 芯片，最高主频 32MHz，最大支持 40KB 嵌入式 FLASH、4KB SRAM 和 4.5KB NVM，集成 ADC 和 UART、I2C、SPI 等通用外设接口|
+|RISC-V 核低功耗 MCU|CSM32RV003|基于 RISC-V RV32IMAC 内核（2.6 CoreMark/MHz）的 32 位低功耗 MCU 芯片，最高主频 32MHz，最大支持 32KB 嵌入式 FLASH、4KB SRAM 和 4.5KB NVM，集成 ADC 和 UART、I2C、SPI 等通用外设接口|

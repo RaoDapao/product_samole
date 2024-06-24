@@ -1,0 +1,28 @@
+-> root http://nexwise.com.cn
+  -> 杰创智能科技股份有限公司 https://www.nexwise.com.cn/index.php/product.html
+  -> 杰创智能科技股份有限公司_1 https://www.nexwise.com.cn/index.php/product/1719.html
+    -> Nexwise 智能建筑综合管理系统 
+    -> Nexwise 数据中心综合管理系统 
+    -> Nexwise 综合安防管理平台系统 
+    -> Nexwise 视频档案综合管理系统 
+    -> Nexwise 智慧管廊综合管理平台 
+    -> Nexwise 智慧校园管理平台 
+    -> 高清夜视图像侦察系统 
+    -> 数据解析系统 
+    -> 电子产品探测系统 
+    -> 危险物品安全检查系统 
+    -> 人证合一身份核查系统 
+    -> AI 行为分析系统 
+    -> 视频图像模式识别服务器 
+  -> 杰创智能科技股份有限公司_2 https://www.nexwise.com.cn/index.php/product/33.html
+  -> 杰创智能科技股份有限公司_3 https://www.nexwise.com.cn/index.php/product/1026.html
+  -> 杰创智能科技股份有限公司_4 https://www.nexwise.com.cn/index.php/product/1321.html
+  -> 杰创智能科技股份有限公司_5 https://www.nexwise.com.cn/index.php/product/1737.html
+  -> 杰创智能科技股份有限公司_6 https://www.nexwise.com.cn/index.php/product/1738.html
+  -> 杰创智能科技股份有限公司_7 https://www.nexwise.com.cn/index.php/product/36.html
+  -> 杰创智能科技股份有限公司_8 https://www.nexwise.com.cn/index.php/product/37.html
+  -> 杰创智能科技股份有限公司_9 https://www.nexwise.com.cn/index.php/product/39.html
+  -> 杰创智能科技股份有限公司_10 https://www.nexwise.com.cn/index.php/product/40.html
+  -> 杰创智能科技股份有限公司_11 https://www.nexwise.com.cn/index.php/product/968.html
+  -> 杰创智能科技股份有限公司_12 https://www.nexwise.com.cn/index.php/product/1740.html
+  -> 杰创智能科技股份有限公司_13 https://www.nexwise.com.cn/index.php/product/1741.html

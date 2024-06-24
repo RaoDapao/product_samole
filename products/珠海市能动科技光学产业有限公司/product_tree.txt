@@ -1,0 +1,19 @@
+-> root https://www.nengdongkeji.cn
+  -> 产品中心-珠海市能动科技光学产业有限公司|能动科技|干膜光刻胶企业|半导体封装 https://www.nengdongkeji.cn/product
+    -> 集成电路 
+    -> 载板/类载板 
+    -> 阻焊光阻 
+    -> 半导体/厚光阻 
+  -> 集成电路-珠海市能动科技光学产业有限公司|能动科技|干膜光刻胶企业|半导体封装 https://www.nengdongkeji.cn/product/jichengdianlu
+  -> 载板／类载板-珠海市能动科技光学产业有限公司|能动科技|干膜光刻胶企业|半导体封装 https://www.nengdongkeji.cn/product/zaibanleizaiban
+  -> 阻焊光阻-珠海市能动科技光学产业有限公司|能动科技|干膜光刻胶企业|半导体封装 https://www.nengdongkeji.cn/product/zuhanguangzu
+  -> 半导体／厚光阻-珠海市能动科技光学产业有限公司|能动科技|干膜光刻胶企业|半导体封装 https://www.nengdongkeji.cn/product/bandaotihouguangzu
+  -> Product-DynamicTechnology https://www.nengdongkeji.cn/en/product
+    -> Integrated Circuit 
+    -> Carrier 
+    -> Solder Mask Photoresist 
+    -> Semiconductor 
+  -> IntegratedCircuit-DynamicTechnology https://www.nengdongkeji.cn/en/product/integratedcircuit
+  -> Carrier-DynamicTechnology https://www.nengdongkeji.cn/en/product/carrier
+  -> SolderMaskPhotoresist-DynamicTechnology https://www.nengdongkeji.cn/en/product/solderingresist
+  -> Semiconductor-DynamicTechnology https://www.nengdongkeji.cn/en/product/semiconductor

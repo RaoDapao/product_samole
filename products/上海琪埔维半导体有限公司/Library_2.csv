@@ -1,0 +1,28 @@
+产品网址：http://www.chipways.com/product_MCU_XL6608-.html
+产品结构：XL6608->SCH&PCB->Library
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|车规级电机驱动微控制器|XL6608 系列|满足 AEC-Q100 汽车可靠性标准，专门针对电机控制开发，适用于智能电机控制应用，支持三相无刷直流电机控制。高集成度的芯片设计可最大程度优化系统成本，集成电源芯片、电机预驱和 LIN 收发器，提供多种容量 Flash，支持各种电机控制算法，单芯片完成电机控制系统。|
+
+
+
+
+名称/描述
+Chipways XL6608 Flyer
+
+
+名称/描述
+L6608 Series_Datasheet_Rev15
+
+
+名称/描述
+Reference Manual
+
+
+名称/描述
+Chipways Code Editor 使用手册  XL6608 _Hardware_Development_Guide_V1.1  XL6608 Freedemo board user manual
+
+
+名称/描述
+XL6608 Flash加解密及保护  C2E如何生成和调用静态库  XL6608系统时钟配置  XL6608如何读取flash数据

@@ -1,0 +1,15 @@
+产品网址：https://en.taixin-semi.com/Product/ProductDetail?productId=276
+产品结构：root->珠海泰芯半导体有限公司-产品中心
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|TX8C1260TS20|TX8C1260TS20|无|
+
+Type,Encapsulated Type,Chip-Set,Max Speed（MHz）,Flash（KB）,RAM（Byte）,EEPROM（Byte）,GPIO,Working Voltage（V）,Temperature（℃）,TouchKey,LED（com*seg）,LCD（com*seg）,Advanced TM,GPTM,WatchDog,PWM,RTC,UART,SPI,IIC,ADC,CRC,Code Encryption,LPM
+TX8C1260TS20,TSSOP20,8051,48,16,2048,2*128,18,2.4 ~ 5.5,-40 ~ 105,-,8*10,-,6*16bit,5*16bit,1,6,-,2,1,1,18,1,√,<5ua
+
+
+
+
+
+

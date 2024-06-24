@@ -1,0 +1,19 @@
+-> root http://www.rgbhz.com
+  -> 首页 
+      -> 户外显示屏直插H系列LED http://www.rgbhz.com/list-2.html
+      -> 户外显示屏直插C系列LED http://www.rgbhz.com/list-6.html
+      -> 高端交通直插φ3系列LED http://www.rgbhz.com/list-27.html
+      -> 高端显示屏直插K系列LED http://www.rgbhz.com/list-28.html
+      -> 交通屏专用直插A系列LED http://www.rgbhz.com/list-29.html
+      -> 交通屏专用直插φ5有卡系列LED http://www.rgbhz.com/list-30.html
+      -> 交通屏专用直插φ5无卡系列LED http://www.rgbhz.com/list-31.html
+      -> 各类指示灯系列LED http://www.rgbhz.com/list-47.html
+  -> -Huizhouhongzhengpho http://www.rgbhz.com/en/list-65.html
+    -> product http://www.rgbhz.com/en/list-80.html
+      -> C Series LED Outdoor Display 
+      -> High-end display plug-in F 
+      -> High-end display plug-in K 
+      -> A-series LED for traffic scree 
+      -> Φ5card series LED for traf 
+      -> Φ5 cardless LED for traffic 
+      -> Various indicator series LED 

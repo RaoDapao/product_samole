@@ -1,0 +1,24 @@
+-> root http://www.szsdws.com
+  -> 首页 
+    -> 品牌代理 
+      -> 富满科技 http://www.szsdws.com/pro/?id=22315
+    -> IntelMobileCeleronN2840 http://www.szsdws.com/product/?id=100008
+    -> IntelXeonE5-4610v41.80GHz http://www.szsdws.com/product/?id=100007
+    -> IntelXeonWW-2150BSR3LS http://www.szsdws.com/product/?id=100006
+    -> IntelCorem3m3-7Y30SR347 http://www.szsdws.com/product/?id=100005
+    -> IntelCPUCorem5-6Y54SR2EM http://www.szsdws.com/product/?id=100004
+    -> IntelCorem3m3-6Y30SR2EN http://www.szsdws.com/product/?id=100003
+  -> 闪电万昇-深圳市闪电万昇科技有限公司 http://www.szsdws.com/product/?id=100009
+  -> 闪电万昇-深圳市闪电万昇科技有限公司_1 http://www.szsdws.com/product/?id=100002
+  -> 闪电万昇-深圳市闪电万昇科技有限公司_2 http://www.szsdws.com/pagedetail/?id=1000017
+    -> AMD 电脑处理器 
+    -> INTEL 图形处理器 
+    -> AMD 图形处理器 
+    -> 美光存储器 
+    -> 三星存储器 
+    -> SK 海力士存储器 
+    -> 西部数据机械硬盘 
+    -> 希捷机械硬盘 
+    -> 西部数据固态硬盘 
+    -> 铭普光纤模块，通讯磁性元器件 
+    -> 富满科技全系列产品 

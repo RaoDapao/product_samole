@@ -1,0 +1,123 @@
+-> root https://ifreecomm.com
+  -> 产品中心|深圳市捷视飞通科技有限公司 https://ifreecomm.com/product/products
+    -> 教育融媒体业务管理平台 
+    -> 4K 精品互动录播一体机 
+    -> 精品高清互动录播一体机 
+    -> 常态化高清互动录播一体机 
+    -> 教学点互动终端 
+    -> JF18000 云媒体协作处理平台 
+    -> JF12000 云媒体协作处理平台 
+    -> JF6000 云媒体协作处理平台 
+    -> ISMP1000 综合会议业务管理系统 
+    -> ONE-M5 羿视讯智能协作终端 
+    -> MFCC3000 移动前置指挥中心 
+    -> DSJ-IFCT1A1 移动智能终端 
+    -> UCM6800 移动指挥调度平台 
+    -> MCV3000MB 移动指挥箱 
+    -> ISMP3000 视频融合应急指挥调度管理系统 
+    -> UCLink 云平台 
+    -> UC-M300A 分体式智能协作终端 
+    -> UC-M300B 分体式智能协作终端 
+    -> UC-M100C 一体式智能协作终端 
+    -> UC-V500 一体化智能协作终端 
+    -> JS-SX408 电源时序器 
+    -> JS-SX216 电源时序器 
+    -> JS-SX318 电源时序器 
+    -> JS-WZH-BS20 无纸化会议系统管理中心（服务器） 
+    -> JS-WZH-BO20 无纸化后台管理软件 
+  -> 录播教室-教育互动录播系统-远程教育录播 https://ifreecomm.com/education
+    -> 高清互动录播一体机 
+    -> 高清视频互动终端 
+    -> 老师跟踪摄像机 
+    -> 学生跟踪摄像机 
+    -> 老师跟踪摄像机（4K） 
+    -> 学生跟踪摄像机（4K） 
+    -> 全向麦克风 
+    -> 教育音频处理器 
+  -> 数字会议-无纸化会议系统-专业扩声系统 https://ifreecomm.com/product/szhhy49
+    -> 数字化会议系统 
+    -> 无纸化会议系统 
+    -> 中央控制主机 
+    -> 视频矩阵 
+    -> 专业扩声系统 
+    -> 可视化分布式管理系统 
+    -> 配套产品 
+  -> 精品高清互动录播一体机-主讲教室互动教学 https://ifreecomm.com/education-projpjygqhdlby.html
+  -> 高清互动教学录播一体机-远程互动教学终端 https://ifreecomm.com/education-983.html
+  -> JF12000硬件MCU终端-视频会议平 https://ifreecomm.com/videoconferencing-1043.html
+  -> ISMP1000综合会议业务管理系统-视 https://ifreecomm.com/videoconferencing-934.html
+  -> UCM6800移动指挥调度平台-产品中心 https://ifreecomm.com/mobilevideo-1037.html
+  -> UC-M300A分体式智能协作终端-云视 https://ifreecomm.com/cloudvideo-1045.html
+  -> UC-V500一体化智能协作终端-云视频 https://ifreecomm.com/cloudvideo-proucv500ythzn.html
+  -> JS-SX408电源时序器 https://ifreecomm.com/productdetail/projssx408dysx
+  -> JS-SX216电源时序器 https://ifreecomm.com/productdetail/projssx216dysx
+  -> JS-SX318电源时序器 https://ifreecomm.com/productdetail/projssx318dysx
+  -> JS-WZH-BS20无纸化会议系统管理 https://ifreecomm.com/productdetail/projswzhbs20wz
+  -> JS-WZH-BO20无纸化后台管理软件 https://ifreecomm.com/productdetail/projswzhbo20wz
+  -> JS-DC-6500M5智慧型触控式会议 https://ifreecomm.com/productdetail/projsdc6500m5z
+  -> JS-DC-6500M4智慧型触控式会议 https://ifreecomm.com/productdetail/projsdc6500m4z
+  -> JS-DC-U5880M无线智能会议主机 https://ifreecomm.com/productdetail/projsdcu5880mw
+  -> JS-WDC-6995双振膜电子桌牌会议 https://ifreecomm.com/productdetail/projswdc6995sz
+  -> JS-WDC-6320双杆双振膜触控式会 https://ifreecomm.com/productdetail/projswdc6320sg
+  -> JS-WDC-6320单杆双振膜触控式会 https://ifreecomm.com/productdetail/projswdc6320dg
+  -> JS-WDC-U5930无线双振膜会议单 https://ifreecomm.com/productdetail/projswdcu5930w
+  -> JS-WDC-U5880无线双振膜会议单 https://ifreecomm.com/productdetail/projswdcu5880w
+  -> JS-WDC-U5830无线触控式会议单 https://ifreecomm.com/productdetail/projswdcu5830w
+  -> JS-U-1008MD一拖八无线双振膜会 https://ifreecomm.com/productdetail/projsu1008mdyt
+  -> JS-U-1004MH一拖四无线会议话筒 https://ifreecomm.com/productdetail/projsu1004mhyt
+  -> JS-U-M1302C一拖二无线会议话筒 https://ifreecomm.com/productdetail/projsum1302cyt
+  -> JS-UTR-1912MS真分集一拖二无 https://ifreecomm.com/productdetail/projsutr1912ms
+  -> JS-UTR-1912MT真分集一拖二无 https://ifreecomm.com/productdetail/projsutr1912mt
+  -> JS-WZH-AO2.0无纸化移动客户端 https://ifreecomm.com/productdetail/projswzhao20wz
+  -> JS-WZH-7400桌面式无纸化会议终 https://ifreecomm.com/productdetail/projswzh7400zm
+  -> JS-WZH-7400T桌面式无纸化会议 https://ifreecomm.com/productdetail/projswzh7400tz
+  -> JS-WZH-7450C桌面式无纸化会议 https://ifreecomm.com/productdetail/projswzh7450cz
+  -> S-WZH-7100-21超薄无纸化升降 https://ifreecomm.com/productdetail/proswzh710021c
+  -> JS-WZH-7200-21超薄无纸化双 https://ifreecomm.com/productdetail/projswzh720021
+  -> JS-WZH-7300-21无纸化翻转一 https://ifreecomm.com/productdetail/projswzh730021
+  -> JS-CS90H中央控制主机-深圳市捷视 https://ifreecomm.com/productdetail/projscs90hzykz
+  -> JS-PCM80电源控制器-深圳市捷视飞 https://ifreecomm.com/productdetail/projspcm80dykz
+  -> JS-UVM3232高端无缝混插矩阵主机 https://ifreecomm.com/productdetail/projsuvm3232gd
+  -> JS-VM4040W高清无缝混插矩主机 https://ifreecomm.com/productdetail/projsvm4040wgq
+  -> JS-UVM1616高端无缝混插矩阵主机 https://ifreecomm.com/productdetail/projsuvm1616gd
+  -> JS-VM3232W高清无缝混插矩主机 https://ifreecomm.com/productdetail/projsvm3232wgq
+  -> JS-MAP1616数字音频媒体矩阵 https://ifreecomm.com/productdetail/projsmap1616sz
+  -> JS-GM2440调音台 https://ifreecomm.com/productdetail/projsgm2440tyt
+  -> JS-GM3240调音台 https://ifreecomm.com/productdetail/projsgm3240tyt
+  -> JS-DM2416数字调音台 https://ifreecomm.com/productdetail/projsdm2416szt
+  -> JS-FX2400数字功放 https://ifreecomm.com/productdetail/projsfx2400szg
+  -> JS-FXA21000彩屏数字功放 https://ifreecomm.com/productdetail/projsfxa21000c
+  -> JS-FXA41800D类大功率数字功放 https://ifreecomm.com/productdetail/projsfxa41800d
+  -> JS-PA0120Pro加强型专业音箱 https://ifreecomm.com/productdetail/projspa0120pro
+  -> JS-PA0150Pro加强型专业音箱 https://ifreecomm.com/productdetail/projspa0150pro
+  -> JS-PAN1015M专业返听音箱 https://ifreecomm.com/productdetail/projspan1015mz
+  -> JS-PAL18B超低音音箱 https://ifreecomm.com/productdetail/projspal18bcdy
+  -> JS-PAL218B超低音音箱 https://ifreecomm.com/productdetail/projspal218bcd
+  -> JS-PCS803L专业线性音柱 https://ifreecomm.com/productdetail/projspcs803lzy
+  -> JS-PCS804B专业线性音柱 https://ifreecomm.com/productdetail/projspcs804bzy
+  -> JS-PCS805L专业线性音柱 https://ifreecomm.com/productdetail/projspcs805lzy
+  -> JS-CL4510全频阵列音柱 https://ifreecomm.com/productdetail/projscl4510qpz
+  -> JS-CL405B低音补偿音柱 https://ifreecomm.com/productdetail/projscl405bdyb
+  -> JS-PCT2010B超低音音箱 https://ifreecomm.com/productdetail/projspct2010bc
+  -> JS-PCT2065全频阵列音箱 https://ifreecomm.com/productdetail/projspct2065qp
+  -> JS-CS-C8A吸顶音箱 https://ifreecomm.com/productdetail/projscsc8awdyx
+  -> JS-DVIN-VM300超高清分布式输 https://ifreecomm.com/productdetail/projsdvinvm300
+  -> JS-DVOUT-VM300超高清分布式 https://ifreecomm.com/productdetail/projsdvoutvm30
+  -> JS-DVIN-VM200超高清分布式输 https://ifreecomm.com/productdetail/projsdvinvm200
+  -> JS-DVOUT-VM200超高清分布式 https://ifreecomm.com/productdetail/projsdvoutvm20
+  -> JS-DVIN-VM100高清分布式输入 https://ifreecomm.com/productdetail/projsdvinvm100
+  -> JS-DVOUT-VM100高清分布式输 https://ifreecomm.com/productdetail/projsdvoutvm10
+    -> “磐石”政务会议系统 
+    -> “UClink”云视频系统 
+    -> 移动指挥系统 
+    -> 数字智能会议室系统 
+  -> UC智慧屏-云视频产品中心-捷视飞通 https://ifreecomm.com/cloudvideo-prouczhp71.html
+  -> 首页推荐产品-捷视飞通-视频会议系统解决 https://ifreecomm.com/page/sytjcp79
+    -> 4K 教育超高清教育互动录播一体机 
+    -> ISMP 1000 
+    -> 综合会议业务管理系统 
+    -> ONE-M1 
+    -> 羿视讯智能协作终端 
+  -> 产品中心|深圳市捷视飞通科技有限公司_1 https://www.ifreecomm.com/product/products
+    -> ONE-M5 羿 视讯智能协作终端 
+  -> 录播教室-教育互动录播系统-远程教育录播_1 https://www.ifreecomm.com/education

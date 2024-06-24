@@ -1,0 +1,30 @@
+-> root http://www.redpowersemi.com
+  -> 产品信息-安徽瑞迪微电子有限公司 http://www.redpowersemi.com/product
+    -> IGBT 模块 
+    -> 晶圆 
+    -> IPM 模块 
+    -> 分立器件 
+  -> Products-AnhuiRedPowerMicroelectronicsCo.,Ltd http://en.redpowersemi.com/products
+    -> IGBT Module 
+    -> IPM Module 
+    -> Discrete Device 
+    -> Wafer 
+  -> IGBTModule-AnhuiRedPowerMicroelectronicsCo.,Ltd http://en.redpowersemi.com/products/igbt
+  -> IPMModule-AnhuiRedPowerMicroelectronicsCo.,Ltd http://en.redpowersemi.com/products/ipm
+  -> DiscreteDevice-AnhuiRedPowerMicroelectronicsCo.,Ltd http://en.redpowersemi.com/products/discretes
+  -> Wafer-AnhuiRedPowerMicroelectronicsCo.,Ltd http://en.redpowersemi.com/products/wafer
+  -> A6Series-AnhuiRedPowerMicroelectronicsCo.,Ltd http://en.redpowersemi.com/products/igbt/68.html
+  -> A1Series-AnhuiRedPowerMicroelectronicsCo.,Ltd http://en.redpowersemi.com/products/igbt/67.html
+  -> MSeries-AnhuiRedPowerMicroelectronicsCo.,Ltd http://en.redpowersemi.com/products/igbt/66.html
+  -> W1Series-AnhuiRedPowerMicroelectronicsCo.,Ltd http://en.redpowersemi.com/products/igbt/74.html
+  -> W2Series-AnhuiRedPowerMicroelectronicsCo.,Ltd http://en.redpowersemi.com/products/igbt/73.html
+  -> N2Series-AnhuiRedPowerMicroelectronicsCo.,Ltd http://en.redpowersemi.com/products/igbt/70.html
+  -> N3Series-AnhuiRedPowerMicroelectronicsCo.,Ltd http://en.redpowersemi.com/products/igbt/69.html
+  -> KSeries【MediumSpeed】-AnhuiRedPowerMicroelectronicsCo.,Ltd http://en.redpowersemi.com/products/igbt/99.html
+  -> RSeries【HighSpeed】-AnhuiRedPowerMicroelectronicsCo.,Ltd http://en.redpowersemi.com/products/igbt/65.html
+  -> KSeries【HighSpeed】-AnhuiRedPowerMicroelectronicsCo.,Ltd http://en.redpowersemi.com/products/igbt/77.html
+  -> 1200VIGBTWAFER-AnhuiRedPowerMicroelectronicsCo.,Ltd http://en.redpowersemi.com/products/wafer/79.html
+  -> 1200VFRDWAFER-AnhuiRedPowerMicroelectronicsCo.,Ltd http://en.redpowersemi.com/products/wafer/78.html
+  -> A6Series-AnhuiRedPowerMicroelectronicsCo.,Ltd_1 http://en.redpowersemi.com/products/igbt/68.html#
+  -> A1Series-AnhuiRedPowerMicroelectronicsCo.,Ltd_1 http://en.redpowersemi.com/products/igbt/67.html#
+  -> 1200VFRDWAFER-AnhuiRedPowerMicroelectronicsCo.,Ltd_1 http://en.redpowersemi.com/products/wafer/78.html#

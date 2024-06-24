@@ -1,0 +1,17 @@
+-> root http://www.youk-tech.com
+  -> 首页 
+    -> 产品中心_1 http://www.youk-tech.com/product
+      -> 磁致伸缩材料 
+      -> 键合铜丝 
+      -> 铜合金 
+      -> 高纯单晶铜线 
+      -> 高纯单晶银线 
+    -> 单晶金属材料 http://www.youk-tech.com/product/13
+      -> 高纯单晶铜线- http://www.youk-tech.com/product/13_13
+      -> 高纯单晶银线- http://www.youk-tech.com/product/13_12
+    -> 铜基合金建材 http://www.youk-tech.com/product/14
+      -> 铜合金- http://www.youk-tech.com/product/14_14
+    -> 半导体器件封装键合引线 http://www.youk-tech.com/product/15
+      -> 键合铜丝- http://www.youk-tech.com/product/15_15
+    -> 其他新材料 http://www.youk-tech.com/product/16
+      -> 磁致伸缩材料- http://www.youk-tech.com/product/16_16

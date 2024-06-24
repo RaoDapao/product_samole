@@ -1,0 +1,22 @@
+产品网址：http://www.honormicro.com/chanpin/show.php?id=136
+产品结构：root->无线MCU产品-广州鸿博微电子技术有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|无线 MCU 产品|HBS24/HBS35 系列|无|
+
+无线MCU产品——2.4G无线SOC系列产品,无线MCU产品——2.4G无线SOC系列产品.1,无线MCU产品——2.4G无线SOC系列产品.2,无线MCU产品——2.4G无线SOC系列产品.3,无线MCU产品——2.4G无线SOC系列产品.4,无线MCU产品——2.4G无线SOC系列产品.5,无线MCU产品——2.4G无线SOC系列产品.6,无线MCU产品——2.4G无线SOC系列产品.7
+Part No.,Voltage,OTP  (KBytes),RAM  (Bytes),I/O,Timer,PWM,Package
+HBS2406SP16,1.8V~3.6V,1.25,80,10,4,4,SOP16
+HBS2407SP16,1.8V~3.6V,2,128,10,4,5,SOP16
+HBS2408SP16,1.8V~3.6V,1.25,80,10,4,4,SOP16
+HBS2409SP16,1.8V~3.6V,2,128,10,4,5,SOP16
+
+
+无线MCU产品——蓝牙BLE系列产品,无线MCU产品——蓝牙BLE系列产品.1,无线MCU产品——蓝牙BLE系列产品.2,无线MCU产品——蓝牙BLE系列产品.3,无线MCU产品——蓝牙BLE系列产品.4,无线MCU产品——蓝牙BLE系列产品.5,无线MCU产品——蓝牙BLE系列产品.6,无线MCU产品——蓝牙BLE系列产品.7,无线MCU产品——蓝牙BLE系列产品.8,无线MCU产品——蓝牙BLE系列产品.9,无线MCU产品——蓝牙BLE系列产品.10,无线MCU产品——蓝牙BLE系列产品.11,无线MCU产品——蓝牙BLE系列产品.12,无线MCU产品——蓝牙BLE系列产品.13,无线MCU产品——蓝牙BLE系列产品.14,无线MCU产品——蓝牙BLE系列产品.15
+无线MCU产品——蓝牙BLE系列产品,无线MCU产品——蓝牙BLE系列产品,无线MCU产品——蓝牙BLE系列产品,无线MCU产品——蓝牙BLE系列产品,无线MCU产品——蓝牙BLE系列产品,无线MCU产品——蓝牙BLE系列产品,无线MCU产品——蓝牙BLE系列产品,无线MCU产品——蓝牙BLE系列产品,无线MCU产品——蓝牙BLE系列产品,无线MCU产品——蓝牙BLE系列产品,无线MCU产品——蓝牙BLE系列产品,无线MCU产品——蓝牙BLE系列产品,无线MCU产品——蓝牙BLE系列产品,无线MCU产品——蓝牙BLE系列产品,无线MCU产品——蓝牙BLE系列产品,无线MCU产品——蓝牙BLE系列产品
+Part No.,Voltage,OTP  (KBytes),RAM  (KBytes),EEPROM  (Bytes),I/O,Timer,PWM,RTC,WDT,AES128,ADC,UART,SPI,IIC,Package
+HBS3501SS24,2.0V~3.6V,16,3+1,,18,2,5,1,1,1,1(3),3,1,1,SSOP24
+HBS3501SP16-E,2.0V~3.6V,16,3+1,2K,11,2,4,1,1,1,1(1),1,1,0,SOP16
+HBS3501SP16,2.0V~3.6V,16,3+1,,11,2,4,1,1,1,1(1),1,1,0,SOP16
+HBS3502SP16,2.0V~3.6V,16,3+1,,10,2,5,1,1,1,1(2),0,0,1,SOP16

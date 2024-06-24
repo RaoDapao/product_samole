@@ -1,0 +1,37 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/1000.html#
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|PoE Switch|TC-P3S019|16*10/100M POE 端口+2*1000M 以太网上联端口+1*1000M SFP 端口；符合 IEEE 802.3、IEEE802.3u、IEEE802.3ab、IEEE802.3z 标准；以太网端口 10/100M 速率自适应；n PoE 端口处于扩展模式，端口 1-16 强制 10M 自动开启 AI 模式；支持 POE 优先级，默认从 1 到 16 端口启用；流量控制方式：全双工采用 IEEE 802.3x 标准，半双工采用背压标准；零配置功能，自动供应给自适应设备；监控面板指示灯的工作状态，协助故障分析；配备三档一键智能 Dip 开关，支持 VLAN、Default 和 Extend 模式；支持端口雷电浪涌：共模 4KV，差模 2KV；静电 ESD：空气 8KV，接触 6KV（B 级）|
+
+I/O Interface,Unnamed: 1
+Power,AC INPUT (100-240 V)
+Ethernet,"16 Port 10/100M PoE  ,  2 Port 1000M Ethernet Uplink  ,  1 Port 1000M SFP"
+Performance,
+Bandwidth,9.2Gbps
+Throughput,6.84Mpps
+Packet Buffer,3Mbit
+MAC Address,2K
+Transfer Mode,Store and forward
+Standard,
+Network Protocol,IEEE802.3(Ethernet)  IEEE802.3u (Fast Ethernet)  IEEE802.3ab (Gigabit Ethernet)  IEEE802.3x (Flow control)  IEEE 802.3z (Gigabit Ethernet fiber optic standard)
+PoE Protocol,IEEE802.3af (15.4W)  IEEE802.3at (30W)  POE port output voltage: DC 52V  POE power supply core: 1/2+; 3/6  -
+Industrial Standard,EMS: EN61000-4-2 (ESD)、 IEN61000-4-5 (Surge)
+Network Medium,10BASE-T: Cat 3、4、5 UTP (≤100 meter)  100BASE-TX: Cat5 or more UTP (≤100 meter)  1000Base-TX: Cat5 or more UTP/STP (≤100 meter)
+Optical Medium,Multimode fiber: 50/125、62.5/125、100/140um  Single mode fiber: 8/125、8.7/125、9/125、10/125um
+Function,
+LED Indicators,"PWR (Power indication), Mode (Dial indicator),1-19Green (Link & Data), POE Max (Power display)"
+PWR,On: Powered on  Off: Powered off
+POE LED Buttons,"Dual color light selection: default green (link data), switch yellow light (POE)"
+Environment,
+Working Environment,"Working Temperature: -10~50°C  Storage Temperature: -40~70°C  Working Humidity :10%~90%, non-condensing  Storage Temperature:5%~95%, non-condensing"
+Physical Specifications,
+Dimension,Product Dimension:320*207*45mm  Package Dimension:370*290*85mm  N.W:1.61KG  G.W:2.14KG
+Packing Info,Carton MEAS:445*310*390mm  Packing Qty:5 set  Packing Weight:11.7KG
+Power Voltage,Input Voltage: AC 100-240 V 50-60Hz  Power supply:52V /3.84A
+Power,Non POE board power: maximum 6W  POE power: maximum 180W
+
+
+Date,Title,Type
+2024-05-20,TC-P3S019 SpecH1621AT180,pdf

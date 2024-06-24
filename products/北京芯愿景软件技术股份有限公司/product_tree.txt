@@ -1,0 +1,62 @@
+-> root http://www.cellixsoft.com
+  -> 集成电路IP大数据库正式上线运营-依托自 http://www.cellixsoft.com/article/49.html
+    -> EDA 软件 
+    -> IC 分析服务 
+    -> IC 设计服务 
+    -> IPBrain 
+  -> 平台综述-依托自主研发的EDA软件，提供 http://www.cellixsoft.com/product/214.html
+    -> Filmshop 
+    -> Panovas Pro 
+    -> Catalysis Series 
+    -> ChipLogic Family 
+    -> Hierux System 
+    -> BoolSmart System 
+    -> DesignSmart System 
+    -> VeriSmart System 
+    -> 工艺分析解决方案 
+    -> 实验室 
+    -> 工艺分析 
+    -> 技术分析解决服务 
+    -> 服务综述 
+    -> 电路提取和分析 
+    -> 竞争力分析 
+    -> 知识产权解决方案 
+    -> 平台综述 
+    -> 专利侵权分析 
+    -> 布图设计侵权分析 
+    -> 专利产品映射 
+    -> 现有技术查询 
+    -> 专利估值 
+    -> 设计外包 
+    -> 一站式定制 
+    -> 定制版图设计与验证 
+    -> 安全优化设计 
+    -> 可靠性加固设计 
+    -> 量产外包 
+    -> IP 核 
+    -> IP 核综述 
+    -> Securax IP 
+    -> Gemini IP 
+    -> Taurus IP 
+  -> 专利侵权分析-依托自主研发的EDA软件， http://www.cellixsoft.com/product/215.html
+  -> 布图设计侵权分析-依托自主研发的EDA软 http://www.cellixsoft.com/product/216.html
+  -> 现有技术查询-依托自主研发的EDA软件， http://www.cellixsoft.com/product/218.html
+  -> 显微图像采集和处理系统（Filmshop http://www.cellixsoft.com/product/33.html
+    -> 显微图像采集和处理系统 
+  -> 显微图像实时处理系统（PanovasPr http://www.cellixsoft.com/product/34.html
+  -> 高性能图像自动算法系统（Catalysi http://www.cellixsoft.com/product/279.html
+  -> 集成电路分析再设计系统（ChipLogi http://www.cellixsoft.com/product/35.html
+  -> 集成电路分析验证系统（HieruxSys http://www.cellixsoft.com/product/36.html
+  -> 集成电路设计优化系统（BoolSmart http://www.cellixsoft.com/product/120.html
+  -> 定制集成电路智能设计系统（DesignS http://www.cellixsoft.com/product/285.html
+  -> 版图实时验证系统（VeriSmartSy http://www.cellixsoft.com/product/286.html
+  -> 实验室-依托自主研发的EDA软件，提供集 http://www.cellixsoft.com/product/200.html
+    -> tireprotect 
+  -> 工艺分析-依托自主研发的EDA软件，提供 http://www.cellixsoft.com/product/213.html
+  -> 竞争力分析-依托自主研发的EDA软件，提 http://www.cellixsoft.com/product/212.html
+  -> 一站式定制-依托自主研发的EDA软件，提 http://www.cellixsoft.com/product/282.html
+  -> 安全优化设计-依托自主研发的EDA软件， http://www.cellixsoft.com/product/224.html
+  -> 可靠性加固设计-依托自主研发的EDA软件 http://www.cellixsoft.com/product/283.html
+  -> 嵌入式安全防护类IP（SecuraxIP http://www.cellixsoft.com/product/126.html
+  -> 工业物联网与控制类IP（GeminiIP http://www.cellixsoft.com/product/127.html
+  -> 通用基础类IP（TaurusIP）-依托 http://www.cellixsoft.com/product/167.html

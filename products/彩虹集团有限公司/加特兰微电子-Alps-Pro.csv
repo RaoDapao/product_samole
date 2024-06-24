@@ -1,0 +1,6 @@
+产品网址：https://www.calterah.com/producttypes/alps-pro
+产品结构：root->加特兰微电子-Alps-Pro
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Alps-Pro 4T4R 77/79 GHz Radar SoC|CAL77S344-AE|汽车级全集成毫米波雷达 SoC，发射通道 4，集成高精度移相器，接收通道 4，集成功率饱和检测器，工作频率 76 GHz—81 GHz，最大支持 5G 扫频带宽，FMCW 波形生成器支持用户自定义，高速 ADC 采样率高达 50 MS/s，同时支持降采样功能，雷达信号处理基带实现完整雷达信号处理，新增 DDM 专用信号处理流程，波形调制包括 TDM/DDM/BPM，干扰检测与处理采用 CQM 模块和 Digital Phase Scrambling，CPU 为 300 MHz ARC® EM22FS 双核处理器，带双精度浮点运算单元，支持锁步，片内存储空间 3 MiB RAM，网络安全支持硬件安全模块，外设接口丰富，符合 AEC-Q100 规范 Grade 2，工作结温范围-40℃到 125℃，满足功能安全 ISO 26262 ASIL-B 要求|

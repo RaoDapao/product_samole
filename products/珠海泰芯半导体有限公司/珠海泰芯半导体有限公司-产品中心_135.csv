@@ -1,0 +1,16 @@
+产品网址：https://en.taixin-semi.com/Product?prouctSubClass=47
+产品结构：root->珠海泰芯半导体有限公司-产品中心
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|无线 MCU|TX8W7261|无|
+
+Add/Hide  Parameter List,Type,Encapsulated Type,Chip-Set,Max Speed  (MHz),Flash  (KB),RAM  (Byte),EEPROM  (Byte),GPIO,Working Voltage  (V),Temperature  （℃）,LED  （com*seg）,Advanced TM,GPTM,Watchdog,PWM,UART,SPI,IIC,ADC,DAC,ACMP,PGA,CRC,Code Encryption,LPM
+Total:  3  Match:  3,,SOP28  SOP20  QFN32,,,,,,20  12  23,2.4 ~ 5.5  2.4 ~ 3.6,,8*12  8*4,,,,,,,,20  12  23,2  1,2  1,3  2,,,
+Compare,,,,,,,,,,,,,,,,,,,,,,,,,
+Add/Hide  Parameter List,Type,Encapsulated Type,Chip-Set,Max Speed  (MHz),Flash  (KB),RAM  (Byte),EEPROM  (Byte),GPIO,Working Voltage  (V),Temperature  （℃）,LED  （com*seg）,Advanced TM,GPTM,Watchdog,PWM,UART,SPI,IIC,ADC,DAC,ACMP,PGA,CRC,Code Encryption,LPM
+Total:  3  Match:  3,,SOP28  SOP20  QFN32,8051,48,16,2048,128,20  12  23,2.4 ~ 5.5  2.4 ~ 3.6,-40 ~ 85,8*12  8*4,6*16bit,5*16bit,1,6,2,1,1,20  12  23,2  1,2  1,3  2,1,√,<5ua
+Compare,,,,,,,,,,,,,,,,,,,,,,,,,
+,TX8W7261SO28,SOP28,8051,48,16,2048,128,20,2.4 ~ 5.5,-40 ~ 85,8*12,6*16bit,5*16bit,1,6,2,1,1,20,2,2,3,1,√,<5ua
+,TX8W7261SO20,SOP20,8051,48,16,2048,128,12,2.4 ~ 5.5,-40 ~ 85,8*4,6*16bit,5*16bit,1,6,2,1,1,12,1,1,2,1,√,<5ua
+,TX8W7261QF32,QFN32,8051,48,16,2048,128,23,2.4 ~ 3.6,-40 ~ 85,8*12,6*16bit,5*16bit,1,6,2,1,1,23,2,2,2,1,√,<5ua

@@ -1,0 +1,16 @@
+-> root http://www.tianyi-semi.com
+  -> 浙江天毅半导体科技有限公司 http://www.tianyi-semi.com/index.php?g=Product&m=Index&a=index
+  -> 浙江天毅半导体科技有限公司_1 http://www.tianyi-semi.com/index.php?g=Product&m=Index&a=index&catid=6
+  -> 浙江天毅半导体科技有限公司_2 http://www.tianyi-semi.com/index.php?g=Product&m=Index&a=index&catid=7
+  -> 浙江天毅半导体科技有限公司_3 http://www.tianyi-semi.com/index.php?g=Product&m=Index&a=index&catid=8
+  -> 浙江天毅半导体科技有限公司_4 http://www.tianyi-semi.com/index.php?g=Product&m=Index&a=index&catid=9
+  -> 浙江天毅半导体科技有限公司_5 http://www.tianyi-semi.com/index.php?g=Product&m=Index&a=index&catid=36
+  -> 浙江天毅半导体科技有限公司_6 http://www.tianyi-semi.com/index.php?g=Product&m=Index&a=view&id=8
+    -> TY300 系列高性能矢量变频器 
+    -> TY200 系列高性能通用变频器 
+    -> TY100 系列紧凑型变频器 
+  -> 浙江天毅半导体科技有限公司_7 http://www.tianyi-semi.com/index.php?g=Product&m=Index&a=view&id=7
+  -> 浙江天毅半导体科技有限公司_8 http://www.tianyi-semi.com/index.php?g=Product&m=Index&a=view&id=5
+  -> 浙江天毅半导体科技有限公司_9 http://www.tianyi-semi.com/index.php?g=Product&m=Index&a=view&id=4
+  -> 浙江天毅半导体科技有限公司_10 http://www.tianyi-semi.com/index.php?g=Product&m=Index&a=view&id=3
+  -> 浙江天毅半导体科技有限公司_11 http://www.tianyi-semi.com/index.php?g=Product&m=Index&a=view&id=1

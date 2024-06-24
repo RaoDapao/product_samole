@@ -1,0 +1,108 @@
+-> root http://www.szyxsc.com
+  -> 产品中心-深圳市友芯电子商务有限公司-电 http://www.szyxsc.com/?product_2
+    -> 尼吉康 nichicon LGN2W661MELB60 LQ (K) 450v660uf 35*60mm 
+    -> 台湾金山 elite 牛角型 铝电解电容器 450V560uF PX(M)105°C 系列 
+    -> NIPPON CHEMI-CON【日本黑金刚】铝电解电容 K M R 89bM3M 牛角电容 400V680uF 
+    -> SAMYOUNG 韩国三莹 铝电解电容器 450v680uF TLS (M)105°C 系列 
+    -> SAMWHA 韩国三和 500V330uF HW105°（M）电解电容器 牛角电容 35*50mm 
+    -> 尼吉康 nichicon 铝电解电容 CE 105°C GG(M)系列 450v330uF 牛角电容 
+    -> EPCOS 薄膜电容器 B32344D4152A000 MKP400-D-15 400Vac 3*99.5UF 
+    -> EPCOS 薄膜电容器 MKV 0.1UF 1400Vac B25835-M0104-K007 电力电容 
+    -> EPCOS 薄膜电容器 B32362-A3307-J030 330vac~900v 300uF ±5 j031 
+    -> EPCOS 薄膜电容器 B32344D4302A000 MKP400-D-30 400V 3*199UF 
+    -> EPCOS 薄膜电容器 B25666W7167A375 MKP850-D-38 850V 3*55.8UF 
+    -> EPCOS 薄膜电容器 B25620-B1507-K101 -55°...+70° 1100v500uF 
+  -> EPCOS电容-深圳市友芯电子商务有限公 http://www.szyxsc.com/?product_18
+    -> EPCOS 薄膜电容器 
+    -> EPCOS 薄膜电容器 
+    -> EPCOS 薄膜电容器 
+    -> EPCOS 薄膜电容器 
+    -> EPCOS 薄膜电容器 
+    -> EPCOS 薄膜电容 
+    -> EPCOS 铝电解电容器 
+    -> EPCOS 电解电容 
+    -> EPCOS 铝电解电容器 
+    -> EPCOS 铝电解电容 
+    -> EPCOS 铝电解电容器 
+  -> EPCOS螺栓型电解电容-深圳市友芯电子 http://www.szyxsc.com/?product_31
+  -> EPCOS牛角式-焊针式-插件式电解电容 http://www.szyxsc.com/?product_32
+  -> EPCOS电力电容-深圳市友芯电子商务有 http://www.szyxsc.com/?product_33
+  -> EPCOS热敏电阻-压敏电阻-深圳市友芯 http://www.szyxsc.com/?product_35
+  -> EPCOS薄膜电容-安规电容-深圳市友芯 http://www.szyxsc.com/?product_36
+  -> KEMET-基美电容-深圳市友芯电子商务 http://www.szyxsc.com/?product_19
+  -> Jianghai江海电容-深圳市友芯电子 http://www.szyxsc.com/?product_20
+  -> Jianghai江海牛角型电解电容-深圳 http://www.szyxsc.com/?product_57
+  -> Jianghai江海螺栓型电解电容-深圳 http://www.szyxsc.com/?product_60
+  -> 其他品牌电容-深圳市友芯电子商务有限公司 http://www.szyxsc.com/?product_58
+    -> 厦门法拉 C66H2A00J202700 500v133uF 薄膜电容 电力电容 
+    -> 厦门法拉 C66H2107J102700 500v100uF 薄膜电容 电力电容 
+    -> 厦门法拉 C66R1407J602700 330v400uF 薄膜电容 电力电容 
+    -> 胜业电容器 FFC SY 500-133-1 500v133uF 薄膜电容 电力电容 
+    -> 胜业电容器 FFC SY 300-200-1 300v 1×200uF 薄膜电容 电力电容 
+    -> 日本黑金刚牛角电容 KMH 29YA4M 电解电容 450v150uf 22*50mm 
+  -> Yadacon电容-深圳市友芯电子商务有 http://www.szyxsc.com/?product_59
+    -> Yadacon 超快充锂离子电池电容器 
+    -> 雅达康 Yadacon 铝电解电容器 
+  -> EPCOS薄膜电容器B32344D415 http://www.szyxsc.com/?product_33/83.html
+  -> EPCOS薄膜电容器MKV0.1UF14 http://www.szyxsc.com/?product_33/81.html
+  -> EPCOS薄膜电容器B32362-A33 http://www.szyxsc.com/?product_33/80.html
+  -> EPCOS薄膜电容器B32344D430 http://www.szyxsc.com/?product_33/79.html
+  -> EPCOS薄膜电容器B25666W716 http://www.szyxsc.com/?product_33/76.html
+  -> EPCOS薄膜电容器B25620-B15 http://www.szyxsc.com/?product_33/75.html
+  -> KEMET电解电容ALS30A682NP http://www.szyxsc.com/?product_42/95.html
+  -> Jianghai江海铝电解电容CD294 http://www.szyxsc.com/?product_57/94.html
+  -> 尼吉康nichiconLGN2W661M http://www.szyxsc.com/?product_58/105.html
+  -> 台湾金山elite牛角型铝电解电容器45 http://www.szyxsc.com/?product_58/102.html
+  -> NIPPONCHEMI-CON【日本黑金 http://www.szyxsc.com/?product_58/101.html
+  -> SAMYOUNG韩国三莹铝电解电容器45 http://www.szyxsc.com/?product_58/100.html
+  -> SAMWHA韩国三和500V330uFH http://www.szyxsc.com/?product_58/97.html
+  -> 尼吉康nichicon铝电解电容CE10 http://www.szyxsc.com/?product_58/96.html
+  -> Yadacon超快充锂离子电池电容器2. http://www.szyxsc.com/?product_59/113.html
+  -> 雅达康Yadacon铝电解电容器CD13 http://www.szyxsc.com/?product_59/99.html
+  -> 产品中心-深圳市友芯电子商务有限公司-电_1 http://www.szyxsc.com/?product_2_2
+    -> 厦门法拉 C66H2A00J202700 薄膜电容 
+    -> 厦门法拉 C66H2107J102700 薄膜电容 
+    -> 厦门法拉 C66R1407J602700 薄膜电容 
+    -> 胜业电容器 FFC SY 500-133-1 薄膜电容 
+    -> 胜业电容器 FFC SY 300-200-1 薄膜电容 
+    -> 日本黑金刚牛角电容 KMH 29YA4M 
+    -> 美国 CDE SMP66A1255Y3D、SMS66A1755Y3C 
+    -> NIPPON CHEMI-CON 日本黑金刚铝电解电容 36D 
+    -> 雅达康 Yadacon 铝电解电容器 CD136 
+    -> 美国 VISHAY 薄膜电容器 
+  -> 产品中心-深圳市友芯电子商务有限公司-电_2 http://www.szyxsc.com/?product_2_3
+    -> KEMET 电解电容 
+    -> 薄膜电容 
+    -> EPCOS 螺栓型铝电解电容器 
+    -> 德国 EPCOS 全新电容器 
+    -> 薄膜电容器 
+  -> 产品中心-深圳市友芯电子商务有限公司-电_3 http://www.szyxsc.com/?product_2_4
+    -> 法拉电容器 
+  -> EPCOS薄膜电容B25620-B133 http://www.szyxsc.com/?product_33/107.html
+  -> EPCOS铝电解电容器B43647S51 http://www.szyxsc.com/?product_32/93.html
+  -> EPCOS电解电容B43647-A556 http://www.szyxsc.com/?product_32/92.html
+  -> EPCOS铝电解电容器B43570-S4 http://www.szyxsc.com/?product_31/91.html
+  -> EPCOS铝电解电容B43564-S96 http://www.szyxsc.com/?product_31/90.html
+  -> EPCOS铝电解电容器B43310-A9 http://www.szyxsc.com/?product_31/89.html
+  -> EPCOS电容-深圳市友芯电子商务有限公_1 http://www.szyxsc.com/?product_18_2
+    -> EPCOS 电子电力电容器 
+  -> EPCOS铝电解电容B43310-A54 http://www.szyxsc.com/?product_31/88.html
+  -> EPCOS螺栓型铝电解电容器B43310 http://www.szyxsc.com/?product_31/86.html
+  -> 德国EPCOS全新电容器B32365B2 http://www.szyxsc.com/?product_33/85.html
+  -> 薄膜电容器EPCOS电子电力电容器B32 http://www.szyxsc.com/?product_33/84.html
+  -> EPCOS薄膜电容器B25667B482 http://www.szyxsc.com/?product_33/82.html
+  -> Z904591482S016U5K1K5 http://www.szyxsc.com/?product_36/87.html
+  -> 厦门法拉C66H2A00J2027005 http://www.szyxsc.com/?product_58/112.html
+  -> 厦门法拉C66H2107J1027005 http://www.szyxsc.com/?product_58/111.html
+  -> 厦门法拉C66R1407J6027003 http://www.szyxsc.com/?product_58/110.html
+  -> 胜业电容器FFCSY500-133-15 http://www.szyxsc.com/?product_58/109.html
+  -> 胜业电容器FFCSY300-200-13 http://www.szyxsc.com/?product_58/108.html
+  -> 日本黑金刚牛角电容KMH29YA4M电解 http://www.szyxsc.com/?product_58/106.html
+  -> 其他品牌电容-深圳市友芯电子商务有限公司_1 http://www.szyxsc.com/?product_58_2
+    -> 美国 CDE SMP66A1255Y3D SMS66A1755Y3C 
+    -> 法拉电容器 C3B1M037KP0H734 
+  -> EPCOS产品特色-行业资讯-深圳市友芯 http://www.szyxsc.com/?news_55/60.html
+  -> 美国CDESMP66A1255Y3DSM http://www.szyxsc.com/?product_58/104.html
+  -> NIPPONCHEMI-CON日本黑金刚 http://www.szyxsc.com/?product_58/103.html
+  -> 美国VISHAY薄膜电容器250V200 http://www.szyxsc.com/?product_58/98.html
+  -> 法拉电容器C3B1M037KP0H734 http://www.szyxsc.com/?product_58/73.html

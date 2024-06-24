@@ -1,0 +1,7 @@
+产品网址：https://www.smartx.com/blog/2023/12/smartx-xc-hardware-selection
+产品结构：root->一文了解SmartX产品信创硬件选配最佳实践–SmartX
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|SmartX 超融合软件 SMTX OS|无|可以直接安装在搭载了海光、鲲鹏或者飞腾芯片平台的信创通用服务器上，存储网络可以使用 10GbE、25GbE、100GbE 高速以太网网络互联，同时支持 RDMA 协议|
+|SmartX 分布式块存储软件 SMTX ZBS|无|支持独立部署，支持的服务器、存储网络和整体网络架构与基于 SMTX OS 的部署方案一致。区别在于，SMTX ZBS 不提供虚拟化服务，只提供分布式存储服务，因此对于 CPU、内存的需求可进一步降低。目前，SMTX ZBS 支持 iSCSI、NVMe over RDMA（RoCE v2）和 NVMe over TCP 协议，支持 VMware vSphere/KVM 虚拟化平台、OpenStack 云平台、Kubernetes 容器云平台、物理机等多种平台|

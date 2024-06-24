@@ -1,0 +1,74 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/889.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Superlite|TC-C34QN|4MP Fixed Bullet Camera（colormaker），金属+塑料外壳，支持 S+265/H.265/H.264B/H.264M/H.264H 编码，彩色：0.02Lux@(F1.6,AGC ON)，黑白：0Lux 带红外，红外距离 50m，内置麦克风，支持智能监控，工作条件-30℃~60℃（不开灯），湿度 95%或更低（无冷凝），DC12V±25%，MAX 6.5W，POE 802.3af，MAX 7W，IP67|
+
+Camera,Unnamed: 1
+Image Sensor,"1/2.9""CMOS"
+Min. Illumination,"Color:0.02Lux@(F1.6,AGC ON),B/W:0Lux with IR"
+Shutter Time,1s~1/100000s
+Day&Night,IR-cut filter with auto switch (ICR)
+WDR,120dB
+S/N,>40dB
+Angle Adjustment,0~360°(P); 0~80°(T); 0~360°(R)
+Lens,
+Lens Type,Fixed focal lens
+Focal Length,4mm
+Lens Mount,M12
+Aperture Range,F1.6
+Field of View,81.6°(H); 43.1°(H); 94.2°(H)
+DORI Distance,Detect:80.0m Observe:31.7m Recognize:16.0m Identify:8.0m
+Illuminator,
+IR LEDs,2
+IR Distance,50m
+Wavelength,850nm
+White LEDs,2
+Whitelight Distance,15m
+Compression Standard,
+Video Compression,S+265/H.265/H.264B/H.264M/H.264H
+Video Bit Rate,32k~6Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D
+Audio Sampling Rate,8kHz/32kHz/48kHz
+Image,
+Max. Resolution,2688×1520@25fps
+Main Stream,"PAL:25fps(2688×1520, 2560×1440, 2304×1296, 1920×1080, 1280×720) NTSC:24fps(2688×1520, 2560×1440), 30fps(2304×1296, 1920×1080, 1280×720)"
+Sub Stream,"PAL:25fps(704×576, 704×288, 352×288, 640×360) NTSC:30fps(704×480, 704×240, 352×240, 640×360)"
+BLC,Yes
+HLC,Yes
+AGC,Yes
+3D DNR,Yes
+White Balance,Auto/Semi-Auto/Manual/Sunshine/Nature Light/Warmlight Lamp/Daylight Lamp/Filament Lamp/Lock White Balance
+ROI,8 rectangular static areas
+OSD,"Overlay of additional characters in 1 regions, 1 line, with a maximum of 48 characters or 16 Chinese characters per region; 16*16/32*32/48*48/64*64"
+Privacy Mask,4 black static areas
+Defog,Yes
+Feature,
+Alarm Trigger,Motion Detection; Mask Alarm; IP Address Conflict
+Linkage Method,trigger warmlight; trigger capture
+Video Analytics,Tripwire; Perimeter
+Rules of behavior analyse in 1 scene,2
+Network,
+Protocols,HTTP; HTTPS; TCP/IP; UDP; UPnP; ICMP; DHCP; DNS; DDNS; Easy DDNS; NTP; QoS; IPv4; SSH; Unicast; RTSP; FTP
+System Compatibility,P2P(Mutually exclusive with Profile G); ONVIF Profile S/T; CGI; Milestone
+Remote Connection,≤2
+Client,Easy7 Smart Client
+Moblie Client,EasyLive Plus
+Interface,
+Communication Interface,"1*RJ-45,10/100 Mbps self-adaptive Ethernet port"
+General,
+Web Client Language,19 languages Simple Chinese/Traditional Chinese/English/Spanish/Korean/Italian/Turkish/Russian/Thai/French/Polish/Dutch/Hebrew/Arabic/Vietnamese/German/Ukrainian/Portuguese/Albanian
+Operating Temperature,-30℃~60℃(No turning on the light)
+Operating Humidity,Humidity 95% or less (no condensation)
+Storage Temperature,-30℃~60℃
+Storage Humidity,Humidity 95% or less (no condensation)
+Power Supply,"DC12V±25%,MAX 6.5W; POE 802.3af,MAX 7W"
+Protection,Surge4000V; ESD6000V; IP67
+Boundary Dimensions,164(L)73(W)73(H)mm
+Package Dimensions,180(L)90(W)95(H)mm
+GrossWeight,0.3Kg
+
+
+Date,Title,Type
+2024-04-07,1D.20010.020262_TC-C34QN I5WEY4mmV4.2_en,pdf

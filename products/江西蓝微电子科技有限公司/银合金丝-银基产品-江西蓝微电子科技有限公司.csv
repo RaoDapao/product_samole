@@ -1,0 +1,37 @@
+产品网址：http://www.jxlwdz.cn/productshow.php?cid=19&id=172
+产品结构：root->银合金丝-银基产品-江西蓝微电子科技有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|银合金丝|无|无|
+
+产品名称  Product name,型号Type,特性  Characteristics,适用范围  Scope of application
+银合金丝  silver alloy wire,LH-2,"低成本，高反射率，低硬度  Low cost,good reflection,low hardness","中低端LED封装，部分IC封装（反打、堆叠芯片）  Low-Medium end LED package,parts of IC package"
+银合金丝  silver alloy wire,LH-5,"低成本，高反射率，低硬度  Low cost,good reflection,low hardness","中低端LED封装，部分IC封装（反打、堆叠芯片）  Low-Medium end LED package,parts of IC package"
+银合金丝  silver alloy wire,LH-6,"低成本，高反射率，低硬度  Low cost,good reflection,low hardness","中低端LED封装，部分IC封装（反打、堆叠芯片）  Low-Medium end LED package,parts of IC package"
+银合金丝  silver alloy wire,LH-8,"低成本，高反射率，低硬度  Low cost,good reflection,low hardness","中低端LED封装，部分IC封装（反打、堆叠芯片）  Low-Medium end LED package,parts of IC package"
+银合金丝  silver alloy wire,HP-2,"表面镀金，成本低，抗硫化氧化性能好，低硬度  Gold coated,Good oxidation and curing resistance,Low hardness","中高端LED封装，部分IC封装（反打、堆叠芯片）  Medium-High end LED package,parts of IC package"
+银合金丝  silver alloy wire,HP-5,"表面镀金，成本低，抗硫化氧化性能好，低硬度  Gold coated,Good oxidation and curing resistance,Low hardness","中高端LED封装，部分IC封装（反打、堆叠芯片）  Medium-High end LED package,parts of IC package"
+银合金丝  silver alloy wire,HP-6,"表面镀金，成本低，抗硫化氧化性能好，低硬度  Gold coated,Good oxidation and curing resistance,Low hardness","中高端LED封装，部分IC封装（反打、堆叠芯片）  Medium-High end LED package,parts of IC package"
+银合金丝  silver alloy wire,HP-8,"表面镀金，成本低，抗硫化氧化性能好，低硬度  Gold coated,Good oxidation and curing resistance,Low hardness","中高端LED封装，部分IC封装（反打、堆叠芯片）  Medium-High end LED package,parts of IC package"
+银合金丝  silver alloy wire,HPA,"表面镀金钯，价格相对低，抗硫化氧化性能好  Au-pd coated relatively low price, Good oxidation and curing resistance","中高端LED封装，部分IC封装（反打、堆叠芯片）  Medium-High end LED package,parts of IC package"
+
+
+直径  Diameter,直径  Diameter.1,最小拉断力  Breaking load(min)  cN,伸长率  Elongation  %,直径  Diameter.2,直径  Diameter.3,最小拉断力  Breaking load(min)  cN.1,伸长率  Elongation  %.1
+mm,mil,LH-2/HP-2,LH-2/HP-2,mm,mil,LH-5/HP-5,LH-5/HP-5
+0.018,0.70,5.0,4.0-14.0,0.018,0.70,4.0,4.0-14.0
+0.020,0.80,6.0,5.0-15.0,0.020,0.80,5.5,5.0-15.0
+0.023,0.90,8.0,7.0-17.0,0.023,0.90,7.0,7.0-17.0
+0.025,1.00,9.0,9.0-19.0,0.025,1.00,8.0,9.0-19.0
+0.030,1.20,12.0,10.0-20.0,0.030,1.20,10.0,10.0-20.0
+0.038,1.50,16.0,12.0-24.0,0.038,1.50,15.0,12.0-24.0
+
+
+直径  Diameter,直径  Diameter.1,最小拉断力  Breaking load(min)  cN,伸长率  Elongation  %,直径  Diameter.2,直径  Diameter.3,最小拉断力  Breaking load(min)  cN.1,伸长率  Elongation  %.1
+mm,mil,LH-6/HP-6,LH-6/HP-6,mm,mil,LH-8/HP-8,LH-8/HP-8
+0.018,0.70,4.0,4.0-14.0,0.018,0.70,4.5,4.0-14.0
+0.020,0.80,5.0,5.0-15.0,0.020,0.80,6.0,5.0-15.0
+0.023,0.90,7.5,7.0-17.0,0.023,0.90,7.5,7.0-17.0
+0.025,1.00,9.0,9.0-19.0,0.025,1.00,9.0,9.0-19.0
+0.030,1.20,12.0,10.0-20.0,0.030,1.20,12.0,10.0-20.0
+0.038,1.50,16.0,12.0-24.0,0.038,1.50,16.0,12.0-24.0

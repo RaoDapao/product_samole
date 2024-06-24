@@ -1,0 +1,9 @@
+产品网址：https://www.shiningic.com/zh/producterlist.aspx?classid=010116
+产品结构：当前位置首页->产品中心->马达驱动
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|马达驱动|无|无|
+
+序号,型号,产品类型,输入电压(V),nSleep(uA),lout RMS(A),Rdson(mΩ),控制接口,功能,特点,封装
+1,YX7833*,双H桥驱动控制器,2.7-15,1,13,800mΩ(HS+LS),PWM,双H桥驱动,过温、短路、欠压,ETSSOP16、QFN3*3、QFN4*4

@@ -1,0 +1,121 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+北京志凌海纳科技股份有限公司,SMTX OS 超融合系统,https://www.smartx.com/blog/2019/09/2019-gartner-report-smartx,无,构筑弹性敏捷的超融合基础架构的根基，包括基于 KVM 的内置虚拟机服务（称为 ELF，无需额外购买单独许可）、分布式块存储和 web 管理模块。此外，还支持 vSphere 和 xen，可以在几乎所有主流 x86 服务器供应商的认证服务器上运行,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,超融合软件 SMTX OS,https://www.smartx.com/blog/2020/05/forrester-smartx,无,交付敏捷、可靠的超融合与分布式块存储方案,2020年Forrester全球超融合品牌“NowTech”报告–SmartX,6540469117,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,Halo 一体机,https://www.smartx.com/blog/2020/05/forrester-smartx,无,交付敏捷、可靠的超融合与分布式块存储方案,2020年Forrester全球超融合品牌“NowTech”报告–SmartX,6540469117,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,超融合软件 SMTX OS 5.1,https://www.smartx.com/blog/2023/09/smartx-hci-gpu,无,为 GPU 应用场景提供高性能支持，支持 GPU 直通和 vGPU 模式，可实现资源的灵活发放，为应用提供稳定、高性能存储支持,GPU直通&vGPU,9491774535,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,IOMesh Pod HA,https://www.smartx.com/blog/2023/11/iomesh-pod-ha,无,优化 Kubernetes 机制，提供高级别高可用持久化存储，支持 Pod 调度至其他节点的 PV 访问和副本迁移，帮助有状态应用实现迁移，在减少业务中断的同时充分利用 I/O 本地化带来的性能优势,IOMeshPodHA,9543853442,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 硬件兼容性查询工具,https://www.smartx.com/blog/2024/05/smartx-product-doc-tools,无,支持用户进行兼容性的查询、筛选，还方便用户将查询到的信息下载保存,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 文档中心,https://www.smartx.com/blog/2024/05/smartx-product-doc-tools,无,提供 SmartX 超融合基础设施、分布式存储、虚拟化、管理平台以及工具类产品的全部文档，用户可以根据产品、版本等条件查找文档，也可以根据关键字进行全文检索并跳转至目标文档，此外，用户也可以下载离线.pdf 文档,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX API 文档,https://www.smartx.com/blog/2024/05/smartx-product-doc-tools,无,包括 API 通用规范介绍、各 API 的详细定义及请求和返回值示例、SDK 的下载方式及使用示例、针对常用操作的调用示例，开发者可根据产品版本进行 API 查询，并可使用全文搜索快速定位目标 API，此外，还提供离线访问方式,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,“天宫” TG225-SX,https://www.smartx.com/blog/2023/03/smtx-os-certified-products-2,TG225-SX,是基于鲲鹏处理器打造的通用服务器，具备性能出众、多核架构、灵活拓展、安全可靠等特点。其整体提升了对数字化金融业务体系的支撑能力，满足客户绿色计算、多样性计算、及高性能需求，可为客户提供速度更快，性能更优的云解决方案。,SX–SmartX,3229414272,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,原生虚拟化 ELF,https://www.smartx.com/blog/2024/06/smartx-virtualization-collection,无,基于 KVM 虚拟化技术开发，提供基础的虚拟机管理功能，还提供了一系列企业级虚拟化功能，包括虚拟机高可用、动态资源调度（DRS）、虚拟机定时快照等。结合自主研发的分布式存储 ZBS 特性，进一步优化和提升虚拟机 I/O 性能和可靠性,SmartX虚拟化内容合集,7440196382,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,跨平台迁移工具 SMTX 迁移工具,https://www.smartx.com/blog/2024/06/smartx-virtualization-collection,无,帮助用户将虚拟机从 VMware 虚拟化平台轻松迁移至基于 ELF 虚拟化的 SmartX 超融合集群。整个迁移过程操作简单，迁移高效，在保障可靠性、兼容性的同时，降低迁移对业务带来影响,SmartX虚拟化内容合集,7440196382,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 超融合基础设施,https://www.smartx.com/resource/doc/general-v40-halo,无,产品组合、核心特性与规格介绍,文档|SmartX超融合,1403844744,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SMTX Halo 一体机,https://www.smartx.com/resource/doc/general-v40-halo,无,主要型号及不同型号产品的详细硬件配置介绍,文档|SmartX超融合,1403844744,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SMTX 备份与容灾,https://www.smartx.com/blog/2024/03/smartx-backup-recovery-1,无,包含备份与恢复、复制与恢复两个功能模块，可对虚拟机进行备份和恢复操作,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,超融合产品,https://www.smartx.com/blog/2020/06/tech-target,无,让 IaaS 层真正具备分布式架构和软件定义属性，带来存储和计算资源的整合、按需扩展和按需投资的“云”特性，融合部署方式进一步简化 IT 基础架构，降低系统总拥有成本,TechTarget,1938054964,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 超融合,https://www.smartx.com/blog/2024/04/vmware-replacement-qa-11,无,具备广泛的硬件兼容性，支持海光、鲲鹏 CPU 架构服务器和其他国产硬件，官网提供 SMTX OS 硬件兼容性查询工具，方便用户轻松查找兼容的硬件产品,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 超融合基础设施及 SMTX Halo 一体机,https://www.smartx.com/blog/2024/04/vmware-replacement-qa-10,无,无,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 超融合软件 SMTX OS,https://www.smartx.com/blog/2024/04/vmware-replacement-qa-14,无,内置分布式存储 ZBS，可替换 vSphere 和/或 vSAN，降低成本，满足国产化替代要求，实现架构升级,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX HCI 全栈超融合基础设施,https://www.smartx.com/blog/2024/04/vmware-replacement-qa-14,无,含虚拟化、存储、管理、容器管理、网络与安全、数据保护、迁移等，可全面替换 VMware 产品组合，一套架构方案实现 VMware 整体架构国产化替代,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,超融合原生虚拟化 ELF,https://www.smartx.com/blog/2024/04/vmware-replacement-qa-5,无,在性能、稳定性、可靠性等方面替代 VMware 的能力已经过金融、医疗、制造等行业众多头部客户生产环境验证，并具备众多 VMware 虚拟化替代案例,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 超融合软件 SMTX OS 5.0,https://www.smartx.com/blog/2022/09/smartx-vs-vmware,无,在 3 主机集群下，随机 4k 读取速度达到 28 万 IOPS，混合读写的性能约为 22 万,VMware替代专题,6506486871,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 分布式存储 ZBS,https://www.smartx.com/blog/2024/02/zbs-roce,无,提供 2 种存算分离架构下的数据接入协议，分别是 iSCSI 和 NVMe-oF。在 NVMe-oF 的实现上选择支持 NVMe over RDMA（RoCEv2）和 NVMe over TCP。支持 initiator + Namespace 这样更小的链路控制粒度，在路径策略选择上通过 ANA 机制指定 Target 链路优先级，再由客户端结合优先级与自身的链路状态探测结果选择 I/O 具体路径。将所有的可用链路设置为 OP（最优链路）和 Non-OP（次优链路）两种状态，对于每个 initiator + Namespace 的组合，仅返回 1 个最优接入点和 2 个次优接入点。在最优接入点可用时，客户端将仅通过最优接入点访问数据，在异常时选择 2 个次优接入点中的一个进行访问。支持 L3 DSCP 的 PFC 流控和 Global Pause 流控两种主流模式。,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,vSphere Essentials Plus Kit,https://www.smartx.com/blog/2024/03/vmware-by-broadcom-replacement,无,包含原vSphere Essential Plus和vCenter Essential，集群中支持最多96个CPU Core,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,vSphere Standard,https://www.smartx.com/blog/2024/03/vmware-by-broadcom-replacement,无,包含原vSphere Standard和vCenter Standard，不包括其他产品。取消了对CPU Core数量的限制（但要求每个CPU至少按16 Core计算）,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,VMware vSphere Foundation,https://www.smartx.com/blog/2024/03/vmware-by-broadcom-replacement,无,包含vSphere、vCenter、vSAN、Tanzu Kubernetes Grid和Aria Operation（含原vRealize LogInsight和vRealize Operation）,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,VMware Cloud Foundation,https://www.smartx.com/blog/2024/03/vmware-by-broadcom-replacement,无,包含vSphere、vCenter、vSAN、NSX、Tanzu Kubernetes Grid和Aria Operation（含原vRealize LogInsight和vRealize Operation）,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,Everoute LB,https://www.smartx.com/blog/2023/10/smartx-everoute-lb,无,为基于虚拟机、容器或物理服务器的应用提供第 4 层负载均衡服务，根据网络通信数据包中的 IP 地址和端口信息，按照设定的负载调度算法，将对应用的访问流量分配到多台后端服务器，以增强应用的并发处理能力和可靠性,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 虚拟化内容合集,https://www.smartx.com/blog/category/products-in-depth,无,近 600 家行业用户在生产环境验证 ELF 虚拟化能力,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 超融合虚拟机高可用构建思路,https://www.smartx.com/blog/category/products-in-depth,无,不仅有效，更加细致,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 硬件兼容性查询工具、文档中心和 API 文档,https://www.smartx.com/blog/category/products-in-depth,无,好的产品文档，可胜过千军万马,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 超融合虚拟化与虚拟机管理关键技术与特性,https://www.smartx.com/blog/category/products-in-depth,无,满足多种计算场景，提升运维管理效率,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SKS 1.2,https://www.smartx.com/blog/category/products-in-depth,无,持续推动容器化应用、AI 以及信创技术栈的深度融合,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,ZBS 的 RoCE 技术,https://www.smartx.com/blog/category/products-in-depth,无,相比生产环境物理机，缩短大数据应用用时约 70%,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,分布式存储,https://www.smartx.com/blog/category/products-in-depth,无,支持 Oracle 性能与稳定性更佳,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SKS,https://www.smartx.com/blog/category/products-in-depth,无,运行容器化应用可达到裸金属 Kubernetes 性能 82%-96%,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,超融合系统疑难故障定位与解决实践,https://www.smartx.com/blog/category/products-in-depth,无,自研核心技术助力全栈故障根因,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SMTX Kubernetes 服务,https://www.smartx.com/blog/category/products-in-depth,无,可一站式构建生产级 Kubernetes 集群,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,分布式块存储 ZBS,https://www.smartx.com/blog/category/products-in-depth,无,深度解读 ZBS 技术设计与实现,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 超融合 5.1,https://www.smartx.com/blog/category/products-in-depth,无,为虚拟化与容器提供生产级统一架构,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,网络交换机,https://www.smartx.com/blog/category/products-in-depth,无,整理了超融合架构下用户关于网络交换机的常见提问，并邀请 SmartX 技术专家进行了详细解答,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,K8s 持久化存储,https://www.smartx.com/blog/category/products-in-depth,无,干货内容，一键获取,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX Kubernetes 基础设施解决方案,https://www.smartx.com/blog/category/products-in-depth,无,满足多种部署环境和应用场景需求,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 超融合虚拟化下的网络 I/O 虚拟化技术,https://www.smartx.com/blog/category/products-in-depth,无,优化网络性能和隔离性,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,动态资源平衡,https://www.smartx.com/blog/category/products-in-depth,无,资源的动态调度是虚拟化软件（或超融合软件）中的一项重要功能,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,GPU 直通 & vGPU,https://www.smartx.com/blog/category/products-in-depth,无,为 GPU 应用场景提供高性能支持,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,志凌海纳 SmartX 边缘计算解决方案,https://www.smartx.com/blog/category/products-in-depth,无,充分满足边缘站点 IT 基础架构需求,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,IOMesh,https://www.smartx.com/blog/category/products-in-depth,无,为 K8s 上的虚拟机提供高性能高可用支持,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,新建集群 VS 滚动升级,https://www.smartx.com/blog/category/products-in-depth,无,结合集群环境与企业需求，选择合适的方案,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 存储性能测试工具 OWL,https://www.smartx.com/blog/category/products-in-depth,无,预先了解集群 I/O 基线与业务 I/O 需求，避免性能瓶颈,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,主流 K8s 持久化存储方案,https://www.smartx.com/blog/category/products-in-depth,无,选择兼具高性能与稳定性的方案,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SMTX CloudMove,https://www.smartx.com/blog/category/products-in-depth,无,支持三大迁移场景，自动迁移不停机,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,IOMesh 1.0,https://www.smartx.com/blog/category/products-in-depth,无,可将 IOMesh 应用于多种场景中，同时提供免费的社区版供体验全量功能,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,国内首款 K8s 原生的企业级分布式存储 IOMesh 企业版,https://www.smartx.com/blog/category/products-in-depth,无,为运行在 Kubernetes 集群上的各类有状态应用提供稳定、高性能的持久化存储资源,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 超融合操作系统,https://www.smartx.com/blog/category/products-in-depth,无,成功将超融合软件操作系统由 CentOS 7 “原地”转换为 openEuler,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SKS 1.0,https://www.smartx.com/blog/category/products-in-depth,无,简单易用、生产级可用、灵活开放,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 超融合硬盘健康检测机制,https://www.smartx.com/blog/category/products-in-depth,无,磁盘故障是存储系统内最常见的问题之一，需要在存储系统设计和日常运维管理中重点关注,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,分布式存储可靠性,https://www.smartx.com/blog/category/products-in-depth,无,分布式架构的可靠性和容错能力，以及各…,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,VMware、Nutanix、SmartX 超融合技术与性能对比,https://www.smartx.com/blog/category/products-in-depth,无,无,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,超融合利旧用户实践,https://www.smartx.com/blog/category/products-in-depth,无,揭秘如何以更低成本实现架构转型,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SMTX 迁移工具,https://www.smartx.com/blog/category/products-in-depth,无,操作简单，迁移高效,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,分布式存储 ZBS,https://www.smartx.com/blog/category/products-in-depth,无,深度解读 ZBS 数据路径原理,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,knest,https://www.smartx.com/blog/category/products-in-depth,无,一键式创建和运维 Kubernetes 集群,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 超融合替代可行性与迁移方案,https://www.smartx.com/blog/category/products-in-depth,无,市场、产品、技术与性能对比,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,微分段与备份产品,https://www.smartx.com/blog/category/products-in-depth,无,数据备份与网络隔离并重,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,VMware 与 SmartX 超融合 I/O 路径差异及其影响,https://www.smartx.com/blog/category/products-in-depth,无,正常和数据恢复状态下，ZBS 本地 I/O 访问概率更高,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,微分段的三种实现方案,https://www.smartx.com/blog/category/products-in-depth,无,企业应采用一种或多种微分段方案（基于代理、网络或 hypervisor）,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,零信任,https://www.smartx.com/blog/category/products-in-depth,无,聚焦 ZTNA 和基于身份的分段等关键技术项目,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,K8s 多租户现有实现机制分析与优化,https://www.smartx.com/blog/category/products-in-depth,无,多集群方案搭配轻量、高效、安全的 Virtink 虚拟化引擎,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,基于微分段的东西向安全防护,https://www.smartx.com/blog/category/products-in-depth,无,提升数据中心运维效率,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,超融合不再需要缓存盘？vSAN 8 ESA 消除磁盘组,https://www.smartx.com/blog/category/products-in-depth,无,成本焦虑依旧存在,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,VMware 超融合国产替代之性能对比篇,https://www.smartx.com/blog/category/products-in-depth,无,着重围绕性能展开讨论，并对比 VMware 和 SmartX 超融合的实测性能表现,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,VMware 与 SmartX 分布式存储缓存机制浅析与性能对比,https://www.smartx.com/blog/category/products-in-depth,无,统一缓存空间避免缓存击穿，保障业务性能,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,数据保护产品 SMTX 备份与恢复,https://www.smartx.com/blog/category/products-in-depth,无,为数据中心的工作负载提供数据备份和数据恢复解决方案以及企业级的数据保护,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX Everoute 如何通过微分段技术实现 “零信任”,https://www.smartx.com/blog/category/products-in-depth,无,SmartX 社区成长营第二期分享回顾,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,VMware 与 SmartX 快照原理浅析与 I/O 性能对比,https://www.smartx.com/blog/category/products-in-depth,无,SmartX 超融合支持更方便的快照管理、更快的性能恢复,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,虚拟化数据中心的东西向访问控制,https://www.smartx.com/blog/category/products-in-depth,无,SmartX 社区成长营第一期分享回顾,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,Virtink,https://www.smartx.com/blog/category/products-in-depth,无,用更安全轻量的方式支撑虚拟化负载,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,微分段应用场景与实现机制,https://www.smartx.com/blog/category/products-in-depth,无,轻松排除虚拟化环境安全隐患,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 超融合基础设施关键能力,https://www.smartx.com/blog/category/products-in-depth,无,“4 大关键能力”全面解读,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,管理平台 CloudTower 2.0 版本,https://www.smartx.com/blog/category/products-in-depth,无,详解 CloudTower 2.0 版本新增功能,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 超融合套件社区版,https://www.smartx.com/blog/category/products-in-depth,无,体验大型金融机构同款超融合,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,弹性副本恢复策略,https://www.smartx.com/blog/category/products-in-depth,无,在确保业务正常使用的同时保证数据安全,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SMTX ZBS,https://www.smartx.com/blog/category/products-in-depth,无,更好地帮助客户减少在 vSphere 虚拟化层面的存储操作开销,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 超融合社区版,https://www.smartx.com/blog/category/products-in-depth,无,利用 OVF 镜像，在 VMware ESXi 虚拟机上部署社区版,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,超融合的权威定义,https://www.smartx.com/blog/category/products-in-depth,无,来自 Gartner 的权威定义解读,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,零信任安全,https://www.smartx.com/blog/category/products-in-depth,无,安全管理员的睡眠，由微分段守护,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SPDK Vhost-user,https://www.smartx.com/blog/category/products-in-depth,无,帮助超融合架构实现 I/O 存储性能提升,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,超融合产品网络与安全组件,https://www.smartx.com/blog/category/products-in-depth,无,帮助客户在虚拟化场景下对东西向流量进行保护，加固数据中心内部网络安全，构建零信任安全的企业云基础设施,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SMTX ZBS 5.0,https://www.smartx.com/blog/category/products-in-depth,无,基于稳定的存储核心，结合先进的硬件技术与全栈优化的软件，提供业界领先的高性能与低时延,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,基于 VMware vSphere 的超融合平台,https://www.smartx.com/blog/category/products-in-depth,无,针对两种方案进行多方位的对比,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,K8s 云原生存储 IOMesh,https://www.smartx.com/blog/category/products-in-depth,无,加速有状态应用的容器化进程,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,傲腾持久内存存储加速精选解决方案,https://www.smartx.com/blog/category/products-in-depth,无,帮助用户加速部署现代化数据中心,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 分布式块存储与商用 Ceph 存储产品,https://www.smartx.com/blog/category/products-in-depth,无,用户在进行方案选型时，了解两种产品的特性差异，尤其在特定场景的性能差异,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,超低延迟超融合解决方案,https://www.smartx.com/blog/category/products-in-depth,无,正式发布基于核心软件 SMTX OS 与英特尔® 傲腾™ 持久内存的高性能、低延迟超融合解决方案与 SMTX Halo P 系列一体机,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,分布式块存储解决方案,https://www.smartx.com/blog/category/products-in-depth,无,双方共同发布了分布式块存储解决方案,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,超融合一体机,https://www.smartx.com/blog/category/products-in-depth,无,正式推出基于英特尔®傲腾™ 数据中心级持久内存的超融合一体机,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,vSAN 与 SmartX ZBS,https://www.smartx.com/blog/category/products-in-depth,无,针对两种方案进行多方位的对比,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,资源用量预测功能,https://www.smartx.com/blog/category/products-in-depth,无,让管理 IT 基础设施变得更简单,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SMTX 虚拟机迁移工具,https://www.smartx.com/blog/category/products-in-depth,无,帮助企业轻松将虚拟机迁移至运行 SMTX 虚拟机服务的集群,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SMTX OS 4.0 与 分布式块存储产品 SMTX ZBS,https://www.smartx.com/blog/category/products-in-depth,无,升级“生产就绪”的新一代 IT 基础架构,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,超融合产品选型 POC 要点之 – 可靠性篇,https://www.smartx.com/blog/category/products-in-depth,无,无,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SMTX OS 网络规划最佳实践 – Elf 平台,https://www.smartx.com/blog/category/products-in-depth,无,无,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SMTX OS 4.0 一键升级功能,https://www.smartx.com/blog/category/products-in-depth,无,减少了维护人员的手动操作，提升了使用体验,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SMTX OS 4.0 数据智能再平衡策略,https://www.smartx.com/blog/category/products-in-depth,无,主要聊一聊 SMTX OS 4.0 数据副本管理相关的数据再平衡策略,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SMTX OS 超融合硬件选配推荐指南,https://www.smartx.com/blog/category/products-in-depth,无,从单机硬件配置、硬件资源预留方案到扩容选择全流程提供完备参考，让超融合硬件配置更轻松,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SMTX ZBS 分布式块存储 Kubernetes CSI 实现,https://www.smartx.com/blog/category/products-in-depth,无,介绍了其具体实现,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,Intel Optane SSD 与 SmartX 超融合,https://www.smartx.com/blog/category/products-in-depth,无,在数据库场景有非常好的性能表现,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,CTO 深度解读 SMTX OS 3.5 产品特性,https://www.smartx.com/blog/category/products-in-depth,无,简单介绍了大家比较关注的超融合外部市场的情况，并详细介绍了 SmartX 最新发布的 SMTX OS 3.5 产品细节,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SMTX CloudMove 迁移工具,https://www.smartx.com/blog/2023/07/smtx-cloudmove,无,支持将各类云平台上的虚拟机（V2V）或物理机（P2V）迁移至基于 ELF 的 SMTX OS 集群，具备广泛的平台兼容性、迁移不停机、迁移自动化等优势，可应用于物理机迁移、超融合/虚拟化平台迁移、公有云“下云”迁移等场景,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 超融合,https://www.smartx.com/blog/2023/11/smartx-hci-temp-replica,SMTX OS 5.1,利用临时副本优化多副本机制，保证副本数据恢复期间“副本不降级、数据不丢失”，满足关键业务连续稳定运行的需求,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SMTX ZBS 分布式块存储模块,https://www.smartx.com/blog/2018/07/vmware-smartx-zbs,无,是 SmartX 自主研发的高性能，高可靠的分布式块存储系统。支持与 KVM，VMware ESXi，XenServer 等虚拟化/云平台结合构建超融合平台。具有高性能、高可靠、低消耗、横向可扩展等特点。,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 超融合软件 SMTX OS 4.0,https://www.smartx.com/blog/2020/07/intelligent-storage,无,通过机器学习技术，利用集群运行过程中积累的用量数据进行趋势预测，让管理员轻松进行扩容规划,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,Kubernetes 持久化存储方案选择：从入门到评估,https://www.smartx.com/blog/2023/11/k8s-storage-collection-promo,无,收集了企业用户在设计、评估、使用 Kubernetes 持久化存储方案时遇到的常见问题，并通过概念解读、GigaOm 报告解读、主流产品对比、性能实测等多种方式提供了详细的解答，为处于各个 Kubernetes 建设与使用阶段的用户提供一手参考资料,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX HCI 5.1,https://www.smartx.com/blog/2023/10/2023-q3-progress,无,是超融合，更是虚拟化与容器生产级统一架构,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SmartX 信创云基础设施,https://www.smartx.com/blog/2024/03/smartx-in-xc-2024-update,无,基于自主研发的核心分布式存储，为用户提供融合部署（超融合信创云基础设施）和分离部署（信创分布式存储）的两种信创落地方案,志凌海纳SmartX信创进展合集,2243888942,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,超融合系统,https://www.smartx.com/blog/2023/10/smtx-os-ssia-recognition,SMTX OS,虚拟化、内容库、网络与安全、监控报警、事件与报表、快照计划等,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SMTX OS,https://www.smartx.com/blog/2023/10/smartx-cff,无,全链路 I/O 性能优化的超融合系统，在基于非易失性内存的 I/O 性能优化、基于 RDMA 的网络通信优化、以及虚拟硬盘数据零拷贝等方面取得重要进展,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,KubeBlocks,https://www.smartx.com/blog/2024/04/iomesh-kubeblocks-solution,无,可统一管理和部署 MySQL、PostgreSQL、Redis、MongoDB、Kafka 等多种数据库，并支持对其自动化运维,无,0,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,SMTX Kubernetes Service（SKS）,https://www.smartx.com/blog/2024/03/zg-hospital,无,可自动创建多台虚拟机以构建高可用的 K8s 集群；内置 SmartX 生产级分布式存储和 CSI 插件，可为有状态应用提供稳定、高性能的持久卷；通过 SmartX 网络与安全产品和 CNI 插件，能够以扁平化的方式实现虚拟机和容器的互联互通以及统一的网络安全策略管理，满足虚拟化和容器共存的使用场景,自贡市第一人民医院,84184859,无,0,无,0,无,0
+北京志凌海纳科技股份有限公司,分布式块存储产品,https://www.smartx.com/blog/2023/09/finance-valuation-test,SMTX ZBS,为裸金属服务器、VMware 虚拟化等通用计算平台提供高效、可靠、灵活的存储服务,无,0,无,0,无,0,无,0

@@ -1,0 +1,21 @@
+产品网址：https://www.len-technology.com/en/products/linear-regulators/linear-regulators-details/ln21042
+产品结构：root->LN21042Q1-
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|LDO|LN21042Q1|Automotive, 42V, 100mA, low Iq, LDO|
+
+Operating voltage Min (V),2.75
+Operating voltage Max (V),42
+Output Voltage Range (V),adjustable from 0.6 to 24
+Output current (mA),Up to 100
+Operating quiescent current (uA),5.5
+Shutdown quiescent current (uA),0.8
+PSRR,70dB@100Hz
+Dropout,130mV@100mA
+Other functions,Enable pin；  Internal Soft Start;
+Protection,Over current protection；  Over temperature shuntdown and recovery；
+Package,MSOP-EP8
+Rating,AEC-Q100 Grade1
+Operating junction temperature,-40 to 150
+Functional safety supported,Functional Safety Supported

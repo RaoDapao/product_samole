@@ -1,0 +1,6 @@
+产品网址：http://www.microscapes.com.cn/product12.html
+产品结构：root->SiteMap-SiteMap
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|XCal|无|针对一个典型的 DRC Code，可图形化显示其 layer 的调用及依赖关系，加速用户分析优化 Code；自动分析 Drc code 的逻辑关系，生成树形结构图，以便更快理解其含义，加速 scout rule 的书写；针对自然语言描述的规则，自动提取 Drc Rule 注释语句中自然语言中的 layer 信息，并与 Drc code 中的 layer 进行比较，分析其一致性；运行 Drc 工具之后，可快速分析和定位 Drc code 的错误；具有 Layer 一致性比较功能，可自动查找出任意一个 Drc Rule 用到的所有原始层 layer，自动比较 Drc Rule 的原始层 layer 与 Test Pattern 的 layer 是否完全一致，自动比较 Drc Rule 的原始层与 Design Rule 中描述的原始层是否一致；与 RVE 工具结合可自动调试分析，自动生成 Drc code 中用到的中间变量 layer 的输出结果，并显示其错误结果，帮助用户快速定位 Drc code 的错误|

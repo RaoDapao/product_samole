@@ -1,0 +1,6 @@
+产品网址：https://www.aimicron.com/product/34
+产品结构：root->AIM935-慷智集成电路（上海）有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|智能车载高清视频传输 SERDES 芯片|AIM935|• MIPI CSI-2 1,2,4 data Lane + 1 clock lane 视频输入最大速率 5Gbps<br>• AHDL-II 单通道串行输出<br>• 支持 5 百万像素摄像头，1080p，1920 pixel，多种像素格式<br>• 单根同轴电缆或双绞线支持正向高速视频输送，双向控制信号互传，及电源传送<br>• 可调节展频输出，降低辐射(EMI)<br>• 支持超长电缆远距离传输<br>• 多个 GPIO，支持 Frame Sync 输出到摄像头<br>• 视频信号及控制信号纠错查错(ECC/CRC)，支持系统 ASIL<br>• 功能安全支持 Functional Safety<br>• Build In Self Test（BIST）和视频数据发生器方便系统测试<br>• 1.8V 和 1.2V 电源，IO 支持 1.8V 和 3.3V<br>• 车规级工作温度范围及 ESD 标准<br>• 超小 QFN32PIN (5mm*5mm)封装适合摄像头集成|

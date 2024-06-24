@@ -1,0 +1,6 @@
+-> root https://www.sepimcsemi.com
+  -> 产品中心-苏州信越半导体有限公司 https://www.sepimcsemi.com/cpzx
+  -> 产品（参考图片）-苏州信越半导体有限公司 https://www.sepimcsemi.com/productinfo/1344612.html
+  -> 产品（参考图片）-苏州信越半导体有限公司_1 https://www.sepimcsemi.com/productinfo/1344610.html
+  -> 产品分类结果页 https://www.sepimcsemi.com/ProductInfoCategory?categoryId=685087
+  -> 产品（参考图片）-苏州信越半导体有限公司_2 https://www.sepimcsemi.com/productinfo/1344612.html?templateId=1133605#

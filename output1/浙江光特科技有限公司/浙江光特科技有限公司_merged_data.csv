@@ -1,0 +1,35 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+浙江光特科技有限公司,InGaAs 10Gbps APD Chip (Φ30μm/Φ40μm 光敏面),http://www.gtphotonics.com/page97?product_id=21,GTAPD40V1,应用于距离测量、空间光传输、光时域反射计、低光级探测等领域,InGaAs10GbpsAPDChip(Φ30μm/Φ40μm光敏面),2177281265,无,0,无,0,无,0
+浙江光特科技有限公司,InGaAs PIN 光芯片,http://www.gtphotonics.com/page97?product_id=10,InGaAs 10G PIN PD Chip,用于 10G 以太网、光纤数据通信、波分复用、异步传输模式，具有Φ70μm 光探测窗口，高响应度，低暗电流，低工作电压，-40℃到 85℃的温度环境，客户化的芯片尺寸，高可靠性，符合 Telcordia-GR-468-CORE 中对产品可靠性规定的各项要求，100%测试和外观检验,InGaAs10GPINPDChip,1510135529,无,0,无,0,无,0
+浙江光特科技有限公司,InGaAs PIN 光芯片,http://www.gtphotonics.com/page97?product_id=67,GTPIN10GPDV4,用于 10G 以太网、光纤数据通信、波分复用、异步传输模式，具有Φ70μm 光探测窗口，高响应度，低暗电流，低工作电压，-40℃到 85℃的温度环境，客户化的芯片尺寸，高可靠性，符合 Telcordia-GR-468-CORE 中对产品可靠性规定的各项要求，100%测试和外观检验,InGaAs10GPINPDChip,1510135529,无,0,无,0,无,0
+浙江光特科技有限公司,InGaAs PIN 光芯片,http://www.gtphotonics.com/page97?product_id=69,GTPD1000V1,用于光纤到户，高灵敏度，配 Super TIA 可以替代 2.5Gbps APD+TIA，低成本，低功耗，Φ70μm 光探测窗口，高响应度，低暗电流，平面结构，高可靠性，符合 Telcordia-GR-468-CORE 中对产品可靠性规定的各项要求，速率达到 2.5Gbps，100%测试和外观检验,InGaAs1mmPDChip,3649319218,无,0,无,0,无,0
+浙江光特科技有限公司,InGaAs 1*16 APD Array,http://www.gtphotonics.com/page97?product_id=154,GTAPDARRAY1X16V1,应用于激光测距仪、激光雷达等,InGaAs1*16APDArray,6439320276,无,0,无,0,无,0
+浙江光特科技有限公司,InGaAs 2.5G APD Chip,http://www.gtphotonics.com/page97?product_id=11,GTAPD2.5GV1,产品用途：2.5Gbps GPON/EPON ONU 接收。产品特点：Φ55μm 光探测窗口正面为正极，背面为负极，低暗电流，高响应度，高倍增，速率达到 2.5Gbps。高可靠性：本产品符合 Telcordia-GR-468-CORE 中对产品可靠性规定的各项要求，100%测试和外观检验。应用范围：距离测量、空间光传输、光时域反射计、低光级探测。,InGaAs2.5GAPDChip,1109263316,无,0,无,0,无,0
+浙江光特科技有限公司,MPD 监视光芯片,http://www.gtphotonics.com/page97?product_id=18,InGaAs 200um MPD Chip,产品用途：FTTH，CATV 和模拟传输系统，千兆以太网单模或多模光纤接收器，光纤通道和 SONET/SDH，仪器仪表，激光器背光监测。产品特点：Φ252μm 光探测窗口，高响应度和高线性度，低暗电流，低二阶互调失真（IMD2）和三阶失真（CTB）。高可靠性：本产品符合 Telcordia-GR-468-CORE 中对产品可靠性规定的各项要求，100%测试和外观检验。,InGaAs200umMPDChip,9278760538,无,0,无,0,无,0
+浙江光特科技有限公司,MPD 监视光芯片,http://www.gtphotonics.com/page97?product_id=8,InGaAs 250um MPD Chip,用于光功率监测，具有Φ252μm 光探测窗口，高响应度和高线性度，低暗电流，低二阶互调失真（IMD2）和三阶失真（CTB），高可靠性，符合 Telcordia-GR-468-CORE 中对产品可靠性规定的各项要求，100%测试和外观检验。适用于 FTTH、CATV 和模拟传输系统、千兆以太网单模或多模光纤接收器、光纤通道和 SONET/SDH、仪器仪表、激光器背光监测等领域。,InGaAs250umMPDChip,9282270433,无,0,无,0,无,0
+浙江光特科技有限公司,InGaAs PIN 光芯片,http://www.gtphotonics.com/page97?product_id=17,InGaAs 25G PIN PD Chip (GSG),应用于距离测量、空间光传输、光时域反射计、低光级探测,InGaAs25GPINPDChip(GSG),1666336677,无,0,无,0,无,0
+浙江光特科技有限公司,MPD 监视光芯片,http://www.gtphotonics.com/page97?product_id=23,InGaAs 300um MPD Chip,This document describes the specifications of InGaAs photodetectors produced for optical power monitoring,InGaAs300umMPDChip,9594250142,无,0,无,0,无,0
+浙江光特科技有限公司,InGaAs 4×25G PIN PD Array (GSG),http://www.gtphotonics.com/page97?product_id=16,GTPIN4x25GSGV1,用途：IEEE 100G 以太网，100G CWDM4，PSM4，CLR4，100G(4X25Gbps)链接，单模数据通信和电信，光纤收发器，接收器和转发器。产品特点：Φ20μm 光探测窗口，GSG、GS 结构，1X4 阵列，低暗电流，低电容，高响应度，单通道速率≥25Gbps。高可靠性：本产品符合 Telcordia-GR-468-CORE 中对产品可靠性规定的各项要求 100%测试和外观检验。,InGaAs4×25GPINPDArray(GSG),1940029535,无,0,无,0,无,0
+浙江光特科技有限公司,InGaAs Φ 1000μm APD Chip,http://www.gtphotonics.com/page97?product_id=26,GTAPD1000V1,应用于距离测量、空间光传输、光时域反射计、低光级探测,InGaAsΦ1000μmAPDChip,3454194804,无,0,无,0,无,0
+浙江光特科技有限公司,InGaAs Φ 200μm APD Chip,http://www.gtphotonics.com/page97?product_id=24,GTAPD200V1,应用于距离测量、空间光传输、光时域反射计、低光级探测,InGaAsΦ200μmAPDChip,4772841611,无,0,无,0,无,0
+浙江光特科技有限公司,InGaAs Φ 500μm APD Chip,http://www.gtphotonics.com/page97?product_id=25,GTAPD500V1,应用于距离测量、空间光传输、光时域反射计、低光级探测,InGaAsΦ500μmAPDChip,1213452177,无,0,无,0,无,0
+浙江光特科技有限公司,InGaAs PIN 光芯片,http://www.gtphotonics.com/page97?product_id=68,无,用于光纤到户 GPON ONU，高灵敏度，配 Super TIA 可以替代 2.5Gbps APD+TIA，低成本，低功耗，Φ70μm 光探测窗口，高响应度，低暗电流，平面结构，高可靠性，符合 Telcordia-GR-468-CORE 中对产品可靠性规定的各项要求，速率达到 2.5Gbps，100%测试和外观检验,InGaAsΦ60μmAnalogPDChip,2971975646,无,0,无,0,无,0
+浙江光特科技有限公司,MPD 监视光芯片,http://www.gtphotonics.com/page97?product_id=29,GTLMPD200V1,用于光功率监测的 InGaAs 光电探测器的规格说明,LinearInGaAs200μmMPDChip,6274285580,无,0,无,0,无,0
+浙江光特科技有限公司,MPD 监视光芯片,http://www.gtphotonics.com/page97?product_id=30,GTLMPD300V1,用于光功率监测的 InGaAs 光电探测器的规格说明,LinearInGaAs300μmMPDChip,1642717741,无,0,无,0,无,0
+浙江光特科技有限公司,InGaAs PIN 光芯片,http://www.gtphotonics.com/products,GTANPD60V1,距离测量、空间光传输、光时域反射计、低光级探测,无,0,无,0,无,0,无,0
+浙江光特科技有限公司,InGaAs PIN 光芯片,http://www.gtphotonics.com/products,GTPIN10GPDV3,距离测量、空间光传输、光时域反射计、低光级探测,无,0,无,0,无,0,无,0
+浙江光特科技有限公司,InGaAs PIN 光芯片,http://www.gtphotonics.com/products,GTPIN25GSGV1,距离测量、空间光传输、光时域反射计、低光级探测,无,0,无,0,无,0,无,0
+浙江光特科技有限公司,InGaAs PIN 光芯片,http://www.gtphotonics.com/products,GTPIN4x25GSGV1,距离测量、空间光传输、光时域反射计、低光级探测,无,0,无,0,无,0,无,0
+浙江光特科技有限公司,APD 光芯片,http://www.gtphotonics.com/products,GTAPD1000V1,距离测量、空间光传输、光时域反射计、低光级探测,无,0,无,0,无,0,无,0
+浙江光特科技有限公司,APD 光芯片,http://www.gtphotonics.com/products,GTAPD500V1,距离测量、空间光传输、光时域反射计、低光级探测,无,0,无,0,无,0,无,0
+浙江光特科技有限公司,APD 光芯片,http://www.gtphotonics.com/products,GTAPD200V1,距离测量、空间光传输、光时域反射计、低光级探测,无,0,无,0,无,0,无,0
+浙江光特科技有限公司,APD 光芯片,http://www.gtphotonics.com/products,GTAPD40V1,距离测量、空间光传输、光时域反射计、低光级探测,无,0,无,0,无,0,无,0
+浙江光特科技有限公司,APD 光芯片,http://www.gtphotonics.com/products,GTAPD2.5GV1,距离测量、空间光传输、光时域反射计、低光级探测,无,0,无,0,无,0,无,0
+浙江光特科技有限公司,APD 光芯片,http://www.gtphotonics.com/products?product_category=7,GTAPDARRAY1X16V1,应用于激光测距仪、激光雷达等,无,0,无,0,无,0,无,0
+浙江光特科技有限公司,MPD 监视光芯片,http://www.gtphotonics.com/products?product_category=8,GT-MPD300V1,This document describes the specifications of InGaAs photodetectors produced for optical power monitoring,无,0,无,0,无,0,无,0
+浙江光特科技有限公司,MPD 监视光芯片,http://www.gtphotonics.com/products?product_category=8,GT-MPD250V1,This document describes the specifications of InGaAs photodetectors produced for optical power monitoring,无,0,无,0,无,0,无,0
+浙江光特科技有限公司,MPD 监视光芯片,http://www.gtphotonics.com/products?product_category=8,GT-MPD200V1,This document describes the specifications of InGaAs photodetectors produced for optical power monitoring,无,0,无,0,无,0,无,0
+浙江光特科技有限公司,硅光集成芯片,http://www.gtphotonics.com/products?product_category=6,无,无,无,0,无,0,无,0,无,0
+浙江光特科技有限公司,激光雷达芯片,http://www.gtphotonics.com/page95?article_id=22,无,用于汽车市场领域，为公司开拓车载激光雷达芯片产品市场奠定基础，为参与汽车行业市场竞争提供有力保障,无,0,无,0,无,0,无,0
+浙江光特科技有限公司,APD 光芯片,http://www.gtphotonics.com/page97?product_id=22,无,无,硅光子集成芯片,8044297691,无,0,无,0,无,0
+浙江光特科技有限公司,MPD 监视光芯片,http://www.gtphotonics.com/page97?product_id=22,无,无,硅光子集成芯片,8044297691,无,0,无,0,无,0

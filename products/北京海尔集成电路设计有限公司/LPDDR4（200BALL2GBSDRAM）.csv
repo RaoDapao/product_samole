@@ -1,0 +1,6 @@
+产品网址：http://www.haier-ic.com/product/product_E_11DDR4_200BALL.html
+产品结构：当前位置：首页->芯片及方案->LPDDR4（200BALL2GBSDRAM）
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|LPDDR4|200BALL 2GB SDRAM|Ultra-low-voltage core and I/O power supplies；VDD1 = 1.70–1.95V; 1.80V nominal；VDD2 = 1.06–1.17V; 1.10V nominal；VDDQ = 1.06–1.17V; 1.10V nominal or low VDDQ = 0.57–0.65V; 0.60V nominal；Frequency range；2133–10 MHz (data rate range: 4266–20 Mb/s per pin)；16n prefetch DDR architecture；8 internal banks per channel for concurrent operation；Single-data-rate CMD/ADRentry；Bidirectional/differential data strobe per byte lane；Programmable READ and WRITE latencies (RL/WL)；Programmable and on-the-fly burst lengths (BL = 16, 32)；Directed per-bank refresh for concurrent bank operation and ease of command scheduling；Up to 8.5 GB/s per die；On-chip temperature sensor to control self refresh rate；Partial-array self refresh (PASR)；Selectable output drive strength (DS)；Clock-stop capability；RoHS-compliant, “green”packaging；Programmable VSS (ODT) termination；Single-ended CK and DQS support；Improved tRFCab/tRFCpb = 280ns/140ns；AEC-Q100|

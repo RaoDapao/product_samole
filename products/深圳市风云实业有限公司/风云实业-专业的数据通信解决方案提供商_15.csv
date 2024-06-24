@@ -1,0 +1,37 @@
+产品网址：https://www.szforward.com/product/productDetail_S5352TS-EI.html
+产品结构：root->风云实业-专业的数据通信解决方案提供商
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|自主可控交换机|S5352TS-EI|无|
+
+型号名称,Tritium S5352TS-EI,Tritium S5352TS-EI.1
+硬件规格,硬件规格,硬件规格
+固定端口,48x1GE RJ45  8x10GE SFP+,48x1GE RJ45  8x10GE SFP+
+扩展插槽,0,0
+扩展子卡,无,无
+电源规格,AC：100V-242V 49-60Hz ；DC：40V-75V。支持冗余双电源。,AC：100V-242V 49-60Hz ；DC：40V-75V。支持冗余双电源。
+最大功率,≤120W,≤120W
+包转发率,190Mpps,190Mpps
+物理尺寸  (高x宽x深),43.8mm x 440mm x 437mm,43.8mm x 440mm x 437mm
+主要业务功能,主要业务功能,主要业务功能
+端口特性,支持IEEE802.3x flow control  支持9K Jumbo frame  支持10G/1G/100M端口速率  支持端口自动协商特性  支持物理端口报文收发统计,支持IEEE802.3x flow control  支持9K Jumbo frame  支持10G/1G/100M端口速率  支持端口自动协商特性  支持物理端口报文收发统计
+MAC特性,支持静态MAC配置  支持MAC过滤  支持MAC动态学习  支持MAC地址超时老化  支持MAC地址黑名单  支持MAC地址数量限制,支持静态MAC配置  支持MAC过滤  支持MAC动态学习  支持MAC地址超时老化  支持MAC地址黑名单  支持MAC地址数量限制
+VLAN特性,支持IEEE802.1Q（VLAN）  支持基于端口的VLAN  支持基于MAC的VLAN  支持基于IP的VLAN  支持基于协议的VLAN  支持VLAN过滤  支持VLAN Translation  支持Private VLAN  支持QinQ,支持IEEE802.1Q（VLAN）  支持基于端口的VLAN  支持基于MAC的VLAN  支持基于IP的VLAN  支持基于协议的VLAN  支持VLAN过滤  支持VLAN Translation  支持Private VLAN  支持QinQ
+端口聚合,支持802.3ad端口聚合  支持源MAC/目的MAC/源-目的MAC/源IP/目的IP/源-目的IP/Enhance等负载均衡  支持MAC绑定  支持端口隔离  支持ARP源抑制和ARP攻击防范,支持802.3ad端口聚合  支持源MAC/目的MAC/源-目的MAC/源IP/目的IP/源-目的IP/Enhance等负载均衡  支持MAC绑定  支持端口隔离  支持ARP源抑制和ARP攻击防范
+端口镜像,支持ingress和egress两个方向镜像  支持基于port、VLAN和流镜像  支持1:1、N:1和1:N的端口镜像,支持ingress和egress两个方向镜像  支持基于port、VLAN和流镜像  支持1:1、N:1和1:N的端口镜像
+可靠性,支持VRRP  支持BFD,支持VRRP  支持BFD
+管理维护,支持命令行（CLI）配置  支持Console、Telnet、WEB、SSH  支持多用户权限配置和管理  支持SNMP及通用Trap功能  支持LLDP  支持RMON  支持网络诊断命令  支持Public、Private MIB 接口  本地Syslog：系统日志，分级告警，调试配置信息输出  支持固件升级  支持配置文件升级  支持查询软件版本信息  支持系统时间设置  支持端口状态查询  支持NTP  支持PTP,支持命令行（CLI）配置  支持Console、Telnet、WEB、SSH  支持多用户权限配置和管理  支持SNMP及通用Trap功能  支持LLDP  支持RMON  支持网络诊断命令  支持Public、Private MIB 接口  本地Syslog：系统日志，分级告警，调试配置信息输出  支持固件升级  支持配置文件升级  支持查询软件版本信息  支持系统时间设置  支持端口状态查询  支持NTP  支持PTP
+环境规格,环境规格,环境规格
+工作环境,工作温度：0 - 45° C  工作湿度：10-90%无凝结,工作温度：0 - 45° C  工作湿度：10-90%无凝结
+存储环境,存储温度：-25- 60° C  存储湿度：5-95%无凝结,存储温度：-25- 60° C  存储湿度：5-95%无凝结
+
+
+型号,描述,配置说明
+Tritium S5352TS-EI,48端口 100/1000Base-T，8端口 10GE SFP+，2个电源槽位,必配
+接口子卡模块,接口子卡模块,接口子卡模块
+10GE-4S+,4端口 10GE SFP+接口子卡,选配
+40GE-2Q,2端口 40GE QSFP+接口子卡,选配
+电源模块,电源模块,电源模块
+PSU-AC250-12,交流电源模块（220VAC，250W）,选配
+PSU-DC250-12,直流电源模块（48VDC，250W）,选配

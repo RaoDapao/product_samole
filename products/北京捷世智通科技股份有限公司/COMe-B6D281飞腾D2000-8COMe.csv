@@ -1,0 +1,33 @@
+产品网址：http://icpc.cn/cms/item/view?table=product&id=119
+产品结构：当前位置：首页->产品与服务->飞腾->模块->COMe-B6D281飞腾D2000/8COMe
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|COMe-B6D281 飞腾 D2000/8 COMe 模块|COMe-B6D281|采用全国产方案，模块均为全国产器件。处理器采用飞腾 D2000/8 八核高性能 CPU，芯片组采用兆芯 ZX-200 桥片，内存采用长鑫存储 CXDQ3A8AM-CG，板载双通道 32GB DDR4 内存，板载 SATA 电子盘，网络控制器和电源芯片均采用国产型号，从而实现自主可控。模块功能接口和结构符合 COM express TYPE6 标准，集成了丰富的外围接口和总线，用户可以快速搭建飞腾 D2000/8 处理器的国产化平台。模块通过 COMe TYPE6 连接器引出 3 路 SATA、2 路千兆网络、4 路 USB3.0、8 路 USB2.0、4 路串口、PEG X16 以及 8 路 PCIE 等扩展接口。|
+
+
+
+
+主板,"COMe TYPE6,  125＊95mm，厚度2.0mm"
+处理器,"D2000／8,2.3GHz标准版"
+桥片,ZX-200
+内存,板载国产32GB DDR4内存颗粒≥1600MHz
+网络,板载2个国产千兆以太网控制器（飞腾CPU引出）
+存储,板载1个SATA SSD
+COMe扩展接口,3x PCIE3.0x8；2x  PCIE3.0x1-飞腾CPU
+COMe扩展接口,1xPCIE2.0 x4;1x PCIE2.0 x1-ZX-200
+COMe扩展接口,2x PCIE_CLK
+COMe扩展接口,3x SATA II/6Gbps
+COMe扩展接口,4xUSB3.0（带8路USB2.0）
+COMe扩展接口,4xUART
+COMe扩展接口,2x 1000M LAN
+COMe扩展接口,12x GPIO
+COMe扩展接口,12C:WDT;RTC;SPI;3xCAN
+COMe扩展接口,风速监测控制
+COMe扩展接口,可根据要求进行扩展预留
+电源,支持AT 12V供电
+BIOS,标配UBOOT，支持UEFI
+操作系统,银河麒麟
+工作环境,-25℃～55＇℃；5％～90％RH（商温）
+储存环境,-40℃~85'℃;5%~90%  RH
+,

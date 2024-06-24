@@ -1,0 +1,92 @@
+-> root http://icpc.cn
+  -> 首页 
+    -> 产品与服务 
+      -> 新产品推荐 http://icpc.cn/class/view?id=7
+        -> 飞腾万兆网络板 
+        -> 飞腾 1500A/16 网闸 
+        -> 飞腾 COME TYPE6 模块 
+      -> 龙芯 
+        -> 模块 
+          -> LX-43ACComExpress龙芯3A2000主板 http://icpc.cn/cms/item/view?table=product&id=33
+          -> COMe-B6101龙芯3A3000COMExpressType6 http://icpc.cn/cms/item/view?table=product&id=101
+          -> COME-B5211龙芯3A15002HCOME计算机 http://icpc.cn/cms/item/view?table=product&id=100
+          -> NANO-14012K1000NANO http://icpc.cn/cms/item/view?table=product&id=99
+          -> NANO-1421智能显控 http://icpc.cn/cms/item/view?table=product&id=35
+          -> LX-52FA龙芯2F系列CPUPC-104 http://icpc.cn/cms/item/view?table=product&id=34
+          -> LX-42FA基于龙芯2F系列CPUETX http://icpc.cn/cms/item/view?table=product&id=30
+          -> JTX-0051龙芯2F嵌入式 http://icpc.cn/cms/item/view?table=product&id=29
+          -> LX-43AComExpress龙芯3A主板 http://icpc.cn/cms/item/view?table=product&id=27
+        -> 主板 
+          -> CPCI-6001加固型龙芯3A2000-3A3000CPCI http://icpc.cn/cms/item/view?table=product&id=37
+          -> ATX-E0031龙芯双3B服务器 http://icpc.cn/cms/item/view?table=product&id=32
+          -> OEM-E0301龙芯双3A国产高安全计算 http://icpc.cn/cms/item/view?table=product&id=104
+          -> NANO-1X401龙芯2K1000MICRO-ITX小型 http://icpc.cn/cms/item/view?table=product&id=103
+          -> PP-M0401龙芯2k1000平板电脑 http://icpc.cn/cms/item/view?table=product&id=102
+          -> LX-A2HA龙芯2H系列嵌入式 http://icpc.cn/cms/item/view?table=product&id=38
+        -> 整机及系统 http://icpc.cn/class/view?id=43
+          -> 国产高安全高可靠计算机 
+          -> 龙芯 3A CPCI 工控机 
+          -> 龙芯 2H 加固平板电脑 
+          -> 龙芯 2H 加固平板电脑 
+      -> 申威 
+        -> 主板 http://icpc.cn/cms/item/view?table=product&id=42
+          -> CPB8110申威ATX系统处理 http://icpc.cn/cms/item/view?table=product&id=43
+          -> EEB-0161申威1621服务器 http://icpc.cn/cms/item/view?table=product&id=110
+        -> 模块 
+          -> CPB0074COMe-SW411嵌入式 http://icpc.cn/cms/item/view?table=product&id=44
+          -> COMe-6041申威421M-221嵌入式计算机 http://icpc.cn/cms/item/view?table=product&id=108
+        -> 整机及系统_1 http://icpc.cn/class/view?id=63
+          -> 申威 S41 一体机电脑 
+          -> 申威 S40R 加固笔记本 
+          -> 申威 S40 办公笔记本 
+          -> ICPC 410-3U 申威 CPCI 工控机 
+      -> PowerPC 
+        -> 主板 http://icpc.cn/cms/item/view?table=product&id=70
+        -> 模块 
+          -> CPB0067MPC8640DCOMExpress嵌入式 http://icpc.cn/cms/item/view?table=product&id=72
+          -> CPB8012BPowerPCP1P2 http://icpc.cn/cms/item/view?table=product&id=46
+          -> CPB0066MPC8548COMExpress嵌入式 http://icpc.cn/cms/item/view?table=product&id=86
+          -> CPB8013MPC5125小型计算机 http://icpc.cn/cms/item/view?table=product&id=76
+          -> CPB0843PPC-348型PMC计算机 http://icpc.cn/cms/item/view?table=product&id=75
+          -> PPC-348PMC计算机 http://icpc.cn/cms/item/view?table=product&id=48
+          -> JTX-477AMPC8377智能CPU http://icpc.cn/cms/item/view?table=product&id=47
+          -> CPB0842D嵌入式MPC5121计算机 http://icpc.cn/cms/item/view?table=product&id=45
+        -> 载板及定制 http://icpc.cn/class/view?id=62
+          -> CPB0842-EVAL 
+          -> CPB0067_EVAL 
+          -> CPB0020-EVAL 
+      -> 电气系统 http://icpc.cn/cms/item/view?table=product&id=23
+      -> 飞腾 
+        -> 载板 http://icpc.cn/cms/item/view?table=product&id=122
+        -> 整机 http://icpc.cn/cms/item/view?table=product&id=121
+        -> 模块 
+          -> COME-B6F241飞腾COMETYPE6 http://icpc.cn/cms/item/view?table=product&id=120
+          -> VPX-6F264飞腾FT2000+6UVPX http://icpc.cn/cms/item/view?table=product&id=125
+          -> SOM-NF241飞腾2000-4TYPE10 http://icpc.cn/cms/item/view?table=product&id=124
+          -> COMe-B6D281飞腾D2000-8COMe http://icpc.cn/cms/item/view?table=product&id=119
+      -> X86上一页12下一页 http://icpc.cn/class/view?id=33
+        -> X86 
+        -> X86 
+        -> X86 
+        -> X86 
+        -> X86 
+        -> X86 
+        -> X86 
+        -> X86 
+        -> X86 
+        -> CPB0070 型申威 SW410/411 CPCI 零槽控制器 
+        -> CPB0074 型 COMe-411 嵌入式模块化计算机 
+        -> CPB8110 型申威 ATX 系统处理板 
+  -> CPB5006i7-3517UE3UVP http://icpc.cn/cms/item/view?table=product&id=91
+  -> CPB0071i7-35556UCPCI http://icpc.cn/cms/item/view?table=product&id=60
+  -> DIMM-401A-北京捷世智通科技股份 http://icpc.cn/cms/item/view?table=product&id=57
+  -> VPX-6062IntelCore6UV http://icpc.cn/cms/item/view?table=product&id=117
+  -> VPX-3062Intelcore3uV http://icpc.cn/cms/item/view?table=product&id=116
+  -> CPCI-6061Intelcore6u http://icpc.cn/cms/item/view?table=product&id=115
+  -> CPB6069i7-35173UCPCI http://icpc.cn/cms/item/view?table=product&id=98
+  -> CPB0073i7-35553UCPCI http://icpc.cn/cms/item/view?table=product&id=97
+  -> RIS8261加固双E5至强处理器服务器 http://icpc.cn/cms/item/view?table=product&id=96
+  -> RVX6681独显i76UVPX主板-北 http://icpc.cn/cms/item/view?table=product&id=95
+  -> RCS177Bi736126UCPCI主 http://icpc.cn/cms/item/view?table=product&id=94
+  -> RVS7000i76UVPX主板-北京捷 http://icpc.cn/cms/item/view?table=product&id=93
+  -> VT104-5D1A-北京捷世智通科技股 http://icpc.cn/cms/item/view?table=product&id=58

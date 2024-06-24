@@ -1,0 +1,34 @@
+-> root http://www.winner-sc.com
+  -> 四川威纳尔特种电子材料有限公司 http://www.winner-sc.com/products
+    -> 键合金丝 
+    -> 键合银丝 
+    -> 键合铜丝 
+    -> 键合镀金钯铜丝 
+    -> 键合铝丝 
+    -> 键合镀金铜丝 
+    -> 键合镀金银合金丝 
+    -> 镀金钨合金丝 
+    -> 镀金钼合金丝 
+  -> 键合丝 http://www.winner-sc.com/products/cid-1.html
+  -> 镀金丝 http://www.winner-sc.com/products/cid-2.html
+    -> 超细涂覆 Be 铜线 
+  -> 其它 http://www.winner-sc.com/products/cid-3.html
+    -> 键合丝 
+    -> 镀金丝 
+  -> 键合金丝 http://www.winner-sc.com/products-detail/id-7.html
+  -> 键合银丝 http://www.winner-sc.com/products-detail/id-5.html
+  -> 键合铜丝 http://www.winner-sc.com/products-detail/id-6.html
+  -> 键合镀金钯铜丝 http://www.winner-sc.com/products-detail/id-10.html
+  -> 键合铝丝 http://www.winner-sc.com/products-detail/id-4.html
+  -> 键合镀金铜丝 http://www.winner-sc.com/products-detail/id-9.html
+  -> 键合镀金银合金丝 http://www.winner-sc.com/products-detail/id-8.html
+  -> 镀金钨合金丝 http://www.winner-sc.com/products-detail/id-3.html
+  -> 镀金钼合金丝 http://www.winner-sc.com/products-detail/id-2.html
+    -> 镀钯铜丝 
+    -> 合金丝 
+  -> 四川威纳尔特种电子材料有限公司_1 http://www.winner-sc.com/products?pg=2
+  -> 超细涂覆Be铜线 http://www.winner-sc.com/products-detail/id-11.html
+  -> 威纳尔键合金丝、键合银丝、键合铜丝、键合铝丝消费类电子产品和计算设备上的应用 http://www.winner-sc.com/apply-detail/id-10.html
+  -> 威纳尔键合铝丝、邦定铝线在汽车产品上广泛应用 http://www.winner-sc.com/apply-detail/id-9.html
+  -> 威纳尔键合金丝、键合银丝、键合铜丝、镀金钼丝在通信产品上的应用 http://www.winner-sc.com/apply-detail/id-7.html
+  -> 威纳尔镀金钨丝在医疗设备产品上广泛应用 http://www.winner-sc.com/apply-detail/id-5.html

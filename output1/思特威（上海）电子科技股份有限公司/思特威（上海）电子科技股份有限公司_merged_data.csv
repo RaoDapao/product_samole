@@ -1,0 +1,17 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+思特威（上海）电子科技股份有限公司,AI Series,https://www.smartsenstech.com/ai_products,无,以客户需求为出发点，聚焦新安防应用的高阶成像系列 CMOS 图像传感器，具有安防监控、夜视全彩等功能，相较于上一代产品，成像品质显著提升，灵敏度提升 31%，读取噪声降低 16%，暗电流@80℃降低 46%,AI/SL/IoT系列,9317356630,无,0,无,0,无,0
+思特威（上海）电子科技股份有限公司,SL Series,https://www.smartsenstech.com/ai_products,无,具有影院级成像质感，让智能影像覆盖到全时段及更多的应用场景，适用于高端安防应用，具有超星光级夜视全彩功能,AI/SL/IoT系列,9317356630,无,0,无,0,无,0
+思特威（上海）电子科技股份有限公司,IoT Series,https://www.smartsenstech.com/ai_products,无,创新结合 SmartAEC™功能，超低工作功耗设计，赋能“全天候”应用终端，实现极速启动，适用于可视门铃、智能冰箱、室外防盗、儿童监测等应用，搭载 SmartAEC™功能，大大缩短启动响应耗时并有效提升物联网终端续航时间，响应速度低至 60ms，工作功耗低至 60mW，搭载 RGBIR 技术，使智能识别终端得以有效分辨平面图像与真实物体，提升生物识别的准确性,AI/SL/IoT系列,9317356630,无,0,无,0,无,0
+思特威（上海）电子科技股份有限公司,AT 系列,https://www.smartsenstech.com/at_products,无,行人监测、变道辅助、倒车辅助、360°环视、盲点监测、前视、倒车辅助系统、安全、超高动态范围、无惧复杂光线环境，即使在低光照环境下也能输出清晰细腻的影像画面,AT系列|思特威CMOS图像传感器,3506675460,无,0,无,0,无,0
+思特威（上海）电子科技股份有限公司,CS 系列,https://www.smartsenstech.com/cs_products,SC500CS、SC800CS,为智能手机摄像头提供行业领先的高品质成像性能，具有卓越的夜视成像能力，出色的信噪比与动态范围，PDAF 技术加持，可清晰捕捉美景,CS/XS系列|手机系列CMOS图像传感器,6488547176,无,0,无,0,无,0
+思特威（上海）电子科技股份有限公司,SmartGS™ Series,https://www.smartsenstech.com/gs_products,无,将背照式(BSI)像素设计工艺与全局快门(Global Shutter)图像传感器设计巧妙结合，提供信噪比更佳、灵敏度更高与动态范围更大的成像性能，赋能智感设备全新的生命力,GS/LA系列|全局快门CMOS图像传感器,9530978526,无,0,无,0,无,0
+思特威（上海）电子科技股份有限公司,LA Series,https://www.smartsenstech.com/gs_products,无,集高稳定性、高精准度、低噪声、高行频四大性能优势于一身，可适用于各种工业环境中，全天候为工厂提供精准、稳定、可靠的图像数据,GS/LA系列|全局快门CMOS图像传感器,9530978526,无,0,无,0,无,0
+思特威（上海）电子科技股份有限公司,SmartSens,https://www.smartsenstech.com/en/la_products,CMOSImageSensor,ImagingSolutions,IndustrialAutomation|SmartSens|CMOSImageSensor|ImagingSolutions,7791044785,无,0,无,0,无,0
+思特威（上海）电子科技股份有限公司,Industrial-Grade Linear Sensor,https://www.smartsenstech.com/en/la_products,无,可用于工业应用中的材料连续检测，如圆形金属罐、生产线上移动的汽车门、传送带上的布料等。具有多种操作模式，包括 1-Line/2-Line/3-Line Mono Modes、Bilinear Color Mode、Trilinear Color Mode。,IndustrialAutomation|SmartSens|CMOSImageSensor|ImagingSolutions,7791044785,无,0,无,0,无,0
+思特威（上海）电子科技股份有限公司,笔记本电脑与平板系列图像传感器,https://www.smartsenstech.com/pc_products,无,开启高清视讯新“视界”,PC系列,4812875827,无,0,无,0,无,0
+思特威（上海）电子科技股份有限公司,SC 系列,https://www.smartsenstech.com/products_list,无,无,无,0,无,0,无,0,无,0
+思特威（上海）电子科技股份有限公司,AI/SL/IoT 系列,https://www.smartsenstech.com/products_list,无,无,无,0,无,0,无,0,无,0
+思特威（上海）电子科技股份有限公司,GS/LA 系列,https://www.smartsenstech.com/products_list,无,无,无,0,无,0,无,0,无,0
+思特威（上海）电子科技股份有限公司,CS/XS 系列,https://www.smartsenstech.com/products_list,无,无,无,0,无,0,无,0,无,0
+思特威（上海）电子科技股份有限公司,PC 系列,https://www.smartsenstech.com/products_list,无,无,无,0,无,0,无,0,无,0
+思特威（上海）电子科技股份有限公司,线阵相机,https://www.smartsenstech.com/la_products,无,支持多种色彩模式，包括黑白 1/2/3 线、Bilinear 彩色模式、Trilinear 彩色模式；具有高稳定性、高精准度、高行频、低噪声等特点，适用于物流分拣、工业检测、智能制造等工业自动化领域,工业自动化,1554264147,无,0,无,0,无,0

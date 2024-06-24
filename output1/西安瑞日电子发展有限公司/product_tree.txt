@@ -1,0 +1,35 @@
+-> root http://www.realect.com
+  -> 首页 
+    -> 产品中心 
+      -> 通用板卡 http://www.realect.com/?tp=column&id=4
+        -> VPX 结构雷达信号处理 
+        -> 高速解调板 
+        -> 双路通用 AD&DA 板 
+        -> 24 核 LRM 处理板卡 
+        -> 通用高速 AD 板 
+        -> 通用高速 DA 板 
+        -> 通用信号处理板 
+        -> 通用存储板 
+        -> 通用预处理板 
+        -> 通用交换板 
+      -> 无线通信 http://www.realect.com/?tp=column&id=31
+      -> 驱动与控制 http://www.realect.com/?tp=column&id=32
+        -> 滚珠丝杠式电动舵机 
+        -> 谐波传动式电动舵机 
+        -> 智能步进电机一体机 
+        -> 直流无刷电机控制器 
+        -> 直流无刷电机驱动器 
+      -> DC-DC电源模块 http://www.realect.com/?tp=column&id=34
+        -> DC/DC 电源模块 
+        -> DC/DC 电源模块 
+        -> DC/DC 电源模块 
+        -> DC/DC 电源模块 
+        -> DC/DC 电源模块 
+        -> DC/DC 电源模块 
+      -> 非标设备 http://www.realect.com/?tp=column&id=35
+        -> 信号采集记录回放设备 
+        -> 高集成度机载红外图像处理记录仪 
+        -> LEF 控制器 
+        -> 多波束天线测试 
+    -> 技术领域 
+      -> 产品设计 http://www.realect.com/?tp=column&id=30

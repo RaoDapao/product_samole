@@ -1,0 +1,81 @@
+-> root https://mmc-alsic.com
+  -> 产品中心-产品中心-西安创正新材料有限公 http://www.mmc-alsic.com/products/1.html
+    -> AlSiC 热沉 
+    -> AlSiC IGBT 基板 
+    -> AlSiC 壳体 
+    -> AlSiC 结构件 
+  -> AlSiC裸板-西安创正新材料有限公司A http://www.mmc-alsic.com/products_detail/4.html
+  -> P-F齿板-西安创正新材料有限公司AlS http://www.mmc-alsic.com/products_detail/3.html
+  -> 军用导波杆-西安创正新材料有限公司AlS http://www.mmc-alsic.com/products_detail/8.html
+  -> AlSiC热沉-产品中心-西安创正新材料 http://www.mmc-alsic.com/products/2.html
+  -> AlSiCIGBT基板-产品中心-西安创 http://www.mmc-alsic.com/products/3.html
+  -> AlSiC壳体-产品中心-西安创正新材料 http://www.mmc-alsic.com/products/4.html
+  -> AlSiC结构件-产品中心-西安创正新材 http://www.mmc-alsic.com/products/5.html
+  -> 铜（Cu）系列-产品中心-西安创正新材料 http://www.mmc-alsic.com/ywlyu/6.html
+  -> 钨铜(W-Cu)系列-产品中心-西安创正 http://www.mmc-alsic.com/ywlyu/7.html
+  -> 钼铜(Mo-Cu)系列-产品中心-西安创 http://www.mmc-alsic.com/ywlyu/8.html
+  -> 铜-钼-铜(CMC)系列-产品中心-西安 http://www.mmc-alsic.com/ywlyu/9.html
+  -> 铜-钼-铜-铜(CPC)系列-产品中心- http://www.mmc-alsic.com/ywlyu/10.html
+  -> 铝基碳化硅(AlSiC)系列-产品中心- http://www.mmc-alsic.com/ywlyu/12.html
+  -> 铝硅(AlSi)系列-产品中心-西安创正 http://www.mmc-alsic.com/ywlyu/11.html
+  -> 铝金刚石-铜金刚石(AI-Dia-Cu- http://www.mmc-alsic.com/ywlyu/13.html
+  -> 热沉-西安创正新材料有限公司AlSiC热 http://www.mmc-alsic.com/cpzxxq/20.html
+  -> 底板-西安创正新材料有限公司AlSiC热 http://www.mmc-alsic.com/cpzxxq/31.html
+  -> 齿板-西安创正新材料有限公司AlSiC热 http://www.mmc-alsic.com/cpzxxq/30.html
+  -> 圆片-西安创正新材料有限公司AlSiC热 http://www.mmc-alsic.com/cpzxxq/26.html
+  -> 产品中心-产品中心-西安创正新材料有限公_1 http://www.mmc-alsic.com/ywlyu/1140677937311625216-8-8.html
+    -> 铜/钼-铜/铜(CPC)系列 
+  -> 产品中心-产品中心-西安创正新材料有限公_2 http://www.mmc-alsic.com/ywlyu/1140677937311625216-16-8.html
+    -> 钨铜(W-Cu) 系列 
+    -> 铜（Cu）系列 
+  -> 产品中心-产品中心-西安创正新材料有限公_3 http://www.mmc-alsic.com/ywlyu/1140677937311625216-24-8.html
+    -> 镀金散热块 
+    -> 镀金热沉片 
+    -> 镀金热沉 
+    -> 板条热沉镀金 
+  -> 产品中心-产品中心-西安创正新材料有限公_4 http://www.mmc-alsic.com/ywlyu/1140677937311625216-32-8.html
+  -> 产品中心-产品中心-西安创正新材料有限公_5 http://www.mmc-alsic.com/ywlyu/1140677937311625216-40-8.html
+  -> 产品中心-产品中心-西安创正新材料有限公_6 http://www.mmc-alsic.com/ywlyu/1140677937311625216-48-8.html
+    -> P-F 齿板 
+    -> 光电封装散热 
+  -> 热沉片-西安创正新材料有限公司AlSiC http://www.mmc-alsic.com/cpzxxq/46.html
+  -> 镀金散热块-西安创正新材料有限公司AlS http://www.mmc-alsic.com/cpzxxq/34.html
+  -> 镀金热沉-西安创正新材料有限公司AlSi http://www.mmc-alsic.com/cpzxxq/32.html
+  -> AlSiCIGBT基板-产品中心-西安创_1 http://www.mmc-alsic.com/ywlyu/1140678051841290240-8-8.html
+  -> 结构件-西安创正新材料有限公司AlSiC http://www.mmc-alsic.com/cpzxxq/44.html
+  -> 条形板条-西安创正新材料有限公司AlSi http://www.mmc-alsic.com/cpzxxq/47.html
+  -> AlSiC结构件-产品中心-西安创正新材_1 http://www.mmc-alsic.com/ywlyu/1140678248558342144-8-8.html
+    -> AlSiC 条形板条 
+    -> AlSiC 圆片 
+    -> AlSiC 刹车盘 
+    -> AlSiC 惯导陀螺仪底座 
+  -> 铜（Cu）系列-西安创正新材料有限公司A http://www.mmc-alsic.com/cpzxxq/48.html
+  -> 钨铜(W-Cu)系列-西安创正新材料有限 http://www.mmc-alsic.com/cpzxxq/49.html
+  -> 钼铜(Mo-Cu)系列-西安创正新材料有 http://www.mmc-alsic.com/cpzxxq/55.html
+  -> 铜-钼-铜-铜(CPC)系列-西安创正新 http://www.mmc-alsic.com/cpzxxq/52.html
+  -> 铝基碳化硅(AlSiC)系列-产品中心-_1 http://www.mmc-alsic.com/ywlyu/1180196721046175744-8-8.html
+  -> 铝基碳化硅(AlSiC)系列-产品中心-_2 http://www.mmc-alsic.com/ywlyu/1180196721046175744-16-8.html
+  -> 铝基碳化硅(AlSiC)系列-产品中心-_3 http://www.mmc-alsic.com/ywlyu/1180196721046175744-24-8.html
+  -> 铝基碳化硅(AlSiC)系列-产品中心-_4 http://www.mmc-alsic.com/ywlyu/1180196721046175744-32-8.html
+  -> 铝基碳化硅(AlSiC)系列-产品中心-_5 http://www.mmc-alsic.com/ywlyu/1180196721046175744-40-8.html
+    -> AlSiC 热沉产品 
+  -> 铝硅(AlSi)系列-西安创正新材料有限 http://www.mmc-alsic.com/cpzxxq/53.html
+  -> 铝金刚石-铜金刚石(AI-Dia-Cu-_1 http://www.mmc-alsic.com/cpzxxq/54.html
+  -> Products-Products-Xi http://en.mmc-alsic.com/products/1.html
+    -> AlSiC Heat Sink 
+    -> AlSiC IGBT Baseplate 
+    -> AlSiC Microwave Housing 
+    -> AlSiC Structural Component 
+  -> StructuralComponent- http://en.mmc-alsic.com/products_detail/8.html
+  -> AlSiCHeatSink-Produc http://en.mmc-alsic.com/products/2.html
+  -> AlSiCIGBTBaseplate-P http://en.mmc-alsic.com/products/3.html
+  -> AlSiCMicrowaveHousin http://en.mmc-alsic.com/products/4.html
+  -> AlSiCStructuralCompo http://en.mmc-alsic.com/products/5.html
+  -> 产品中心-产品中心-西安创正新材料有限公_7 http://www.mmc-alsic.com/ywlyu/1140677937311625216-0-8.html
+  -> 热沉块-西安创正新材料有限公司AlSiC http://www.mmc-alsic.com/cpzxxq/19.html
+  -> 结构件-西安创正新材料有限公司AlSiC_1 http://www.mmc-alsic.com/cpzxxq/36.html
+  -> 刹车盘-西安创正新材料有限公司AlSiC http://www.mmc-alsic.com/products_detail/7.html
+  -> 惯导陀螺仪底座-西安创正新材料有限公司A http://www.mmc-alsic.com/products_detail/6.html
+  -> AlSiC热沉产品-西安创正新材料有限公 http://www.mmc-alsic.com/products_detail/1.html
+  -> AlSiCIGBT基板-产品中心-西安创_2 http://www.mmc-alsic.com/ywlyu/1140678051841290240-0-8.html
+  -> AlSiC结构件-产品中心-西安创正新材_2 http://www.mmc-alsic.com/ywlyu/1140678248558342144-0-8.html

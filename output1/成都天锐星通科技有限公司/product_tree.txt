@@ -1,0 +1,66 @@
+-> root http://t-ray.net
+  -> 卫星通信-成都天锐星通科技有限公司 http://www.t-ray.net/Products/xkzbsfxp/weixingtongxin
+    -> Ku 频段八通道相控阵接收芯片 
+    -> Ku 频段四通道相控阵收发芯片 
+    -> Ku 频段八通道相控阵发射芯片 
+    -> Ka 频段八通道相控阵接收芯片 
+    -> Ka 频段四通道双波束相控阵接收芯片 
+  -> 5G通信-成都天锐星通科技有限公司 http://www.t-ray.net/Products/xkzbsfxp/5gtongxin
+    -> 5G 毫米波四通道单极化相控芯片 
+    -> 5G 毫米波四通道双极化相控阵芯片 
+  -> 其它-成都天锐星通科技有限公司 http://www.t-ray.net/Products/xkzbsfxp/leidatongxin
+    -> 相控阵波束赋形芯片 
+    -> 相控阵卫通天线阵面 
+    -> 5G 毫米波射频前端 
+    -> 相控阵天线快速测试系统 
+    -> Ka 频段四通道相控阵收发芯片 
+  -> Ka频段相控阵天线阵面-成都天锐星通科技 http://www.t-ray.net/Products/xkzwttx/kapinduanxiangkongzhentianxian
+    -> Ka 频段 1024 阵元相控阵天线接收子阵 
+    -> Ka 频段 1024 阵元相控阵天线发射子阵 
+    -> Ka 频段 256 阵元相控阵天线发射子阵 
+    -> Ka 频段 256 阵元相控阵天线接收子阵 
+  -> Ku频段相控阵天线阵面-成都天锐星通科技 http://www.t-ray.net/Products/xkzwttx/kupinduanxiangkongzhentianxian
+    -> Ku 频段 768 阵元相控阵天线接收子阵 
+    -> Ku 频段 768 阵元相控阵天线发射子阵 
+    -> Ku 频段 256 阵元相控阵天线接收子阵 
+  -> 5G毫米波射频前端-成都天锐星通科技有限 http://www.t-ray.net/Products/5gbsp
+    -> 毫米波相控阵天线组件 
+    -> 毫米波相控阵天线组件 
+    -> 毫米波相控阵天线 
+  -> 相控阵天线快速测试系统-成都天锐星通科技 http://www.t-ray.net/Products/xkztxcsxt
+  -> Ku频段八通道相控阵接收芯片TRHJ-2 http://www.t-ray.net/Products/xkzbsfxp/weixingtongxin/3.html
+  -> Ku频段八通道相控阵发射芯片TRHJ-2 http://www.t-ray.net/Products/xkzbsfxp/weixingtongxin/2.html
+  -> Ka频段八通道相控阵发射芯片TRHJ-4 http://www.t-ray.net/Products/xkzbsfxp/weixingtongxin/1.html
+  -> Ku频段768阵元相控阵天线发射子阵X· http://www.t-ray.net/Products/xkzwttx/kupinduanxiangkongzhentianxian/9.html
+  -> Ku频段768阵元相控阵天线接收子阵X· http://www.t-ray.net/Products/xkzwttx/kupinduanxiangkongzhentianxian/8.html
+  -> Ka频段1024阵元相控阵天线发射子阵X http://www.t-ray.net/Products/xkzwttx/kapinduanxiangkongzhentianxian/7.html
+  -> Ku频段四通道相控阵收发芯片TRHJ-2 http://www.t-ray.net/Products/xkzbsfxp/weixingtongxin/14.html
+  -> Ka频段八通道相控阵接收芯片TRHJ-4 http://www.t-ray.net/Products/xkzbsfxp/weixingtongxin/4.html
+  -> Ka频段四通道双波束相控阵接收芯片TRH http://www.t-ray.net/Products/xkzbsfxp/weixingtongxin/15.html
+  -> 卫星通信-成都天锐星通科技有限公司_1 http://www.t-ray.net/Products/xkzbsfxp/weixingtongxin/index-2.html
+  -> 5G毫米波四通道单极化相控芯片TRHJ- http://www.t-ray.net/Products/xkzbsfxp/5gtongxin/19.html
+  -> 5G毫米波四通道双极化相控阵芯片TRHJ http://www.t-ray.net/Products/xkzbsfxp/5gtongxin/5.html
+  -> Ka频段四通道相控阵收发芯片TRHJ-4 http://www.t-ray.net/Products/xkzbsfxp/leidatongxin/21.html
+  -> Ka频段1024阵元相控阵天线接收子阵X http://www.t-ray.net/Products/xkzwttx/kapinduanxiangkongzhentianxian/6.html
+  -> Ka频段256阵元相控阵天线发射子阵X· http://www.t-ray.net/Products/xkzwttx/kapinduanxiangkongzhentianxian/27.html
+  -> Ka频段256阵元相控阵天线接收子阵X· http://www.t-ray.net/Products/xkzwttx/kapinduanxiangkongzhentianxian/28.html
+  -> Ku频段256阵元相控阵天线接收子阵X· http://www.t-ray.net/Products/xkzwttx/kupinduanxiangkongzhentianxian/29.html
+  -> 卫星通信-成都天锐星通科技有限公司_2 http://www.t-ray.net/Products/xkzbsfxp
+  -> Ka频段相控阵天线阵面-成都天锐星通科技_1 http://www.t-ray.net/Products/xkzwttx
+  -> 毫米波相控阵天线组件X·TenThu-F http://www.t-ray.net/Products/5gbsp/24.html
+  -> 毫米波相控阵天线组件X·TenThu-F_1 http://www.t-ray.net/Products/5gbsp/25.html
+  -> 毫米波相控阵天线X·TenQuin-FR http://www.t-ray.net/Products/5gbsp/26.html
+  -> 标准型相控阵天线测试系统-相控阵天线快速 http://www.t-ray.net/Products/xkztxcsxt/10.html
+  -> 迷你型相控阵天线测试系统-相控阵天线快速 http://www.t-ray.net/Products/xkztxcsxt/11.html
+  -> 自动化微型相控阵天线测试系统-相控阵天线 http://www.t-ray.net/Products/xkztxcsxt/12.html
+  -> Ku频段八通道相控阵接收芯片TRHJ-2_1 http://www.t-ray.net/Products/xkzbsfxp/weixingtongxin/3.html#
+  -> Ku频段八通道相控阵发射芯片TRHJ-2_1 http://www.t-ray.net/Products/xkzbsfxp/weixingtongxin/2.html#
+  -> Ku频段768阵元相控阵天线发射子阵X·_1 http://www.t-ray.net/Products/xkzwttx/kupinduanxiangkongzhentianxian/9.html#
+  -> Ku频段768阵元相控阵天线接收子阵X·_1 http://www.t-ray.net/Products/xkzwttx/kupinduanxiangkongzhentianxian/8.html#
+  -> Ku频段四通道相控阵收发芯片TRHJ-2_1 http://www.t-ray.net/Products/xkzbsfxp/weixingtongxin/14.html#
+  -> Ka频段八通道相控阵接收芯片TRHJ-4_1 http://www.t-ray.net/Products/xkzbsfxp/weixingtongxin/4.html#
+  -> Ka频段四通道双波束相控阵接收芯片TRH_1 http://www.t-ray.net/Products/xkzbsfxp/weixingtongxin/15.html#
+  -> 5G毫米波四通道双极化相控阵芯片TRHJ_1 http://www.t-ray.net/Products/xkzbsfxp/5gtongxin/5.html#
+  -> 毫米波相控阵天线组件X·TenThu-F_2 http://www.t-ray.net/Products/5gbsp/25.html#
+  -> 毫米波相控阵天线X·TenQuin-FR_1 http://www.t-ray.net/Products/5gbsp/26.html#
+  -> 迷你型相控阵天线测试系统-相控阵天线快速_1 http://www.t-ray.net/Products/xkztxcsxt/11.html#

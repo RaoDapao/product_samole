@@ -1,0 +1,8 @@
+产品网址：https://www.smartx.com/blog/2023/10/smartx-kubernetes-solution
+产品结构：root->一文了解SmartXKubernetes基础设施解决方案（附赠电子书）–SmartX
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Kubernetes 服务 SKS|无|可为使用 SmartX 超融合（基于 ELF 虚拟化）的用户提供构建 Kubernetes 集群所需的计算、网络、存储等资源。通过 SmartX 超融合集群上的 SKS，可以快速创建虚拟机作为 Kubernetes 集群节点，并在超融合集群的管理架构基础上实现 Kubernetes 工作负载集群的全部生命周期管理|
+|分布式块存储 SMTX ZBS|无|可为大规模虚拟化、私有云和容器环境提供生产级存储支持，其性能与可靠性已经过金融、医疗、大型制造业等行业领导者生产环境长时间检验|
+|Kubernetes 原生存储 IOMesh|无|可无缝融入 Kubernetes 原生的开发和运维体系，通过 I/O 本地化、扩展的 Local PV、Pod HA 等功能特性，为运行在 Kubernetes 集群上的各类有状态应用提供稳定、高性能的持久化存储资源|

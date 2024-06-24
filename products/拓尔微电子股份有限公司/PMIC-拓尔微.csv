@@ -1,0 +1,11 @@
+产品网址：https://www.toll-semi.com/products-pmu-pmic
+产品结构：root->PMIC-拓尔微
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|PMIC|TMI2605S|Power-Management IC for Type-C Peripheral Applications with Integrated Synchronous 4-Switch Buck-Boost Converter|
+|PMIC|IM2600|Power-Management IC for Type-C Peripheral Applications with Integrated Buck Converter|
+|PMIC|IM2603|Power-Management IC for Type-C Peripheral Applications with Integrated Buck Converter|
+|PMIC|IM2605|Power-Management IC for Type-C Peripheral Applications with Integrated Synchronous 4-Switch Buck-Boost Converter|
+|PMIC|TMI8100|500mA LNB-Power Supply & Control Voltage Regulator|
+|PMIC|TMI8135|500mA LNB-Power Supply & Control Voltage Regulator|

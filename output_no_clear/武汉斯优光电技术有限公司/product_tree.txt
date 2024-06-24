@@ -1,0 +1,19 @@
+-> root http://www.whsygd.com
+  -> 首页 
+    -> 产品中心 http://www.whsygd.com/products
+      -> 主要设备 http://www.whsygd.com/lm1
+        -> 烘箱及老化箱 
+        -> 全自动下料机 
+        -> 全自动上料机 
+        -> 全自动贴片机 
+        -> 全自动焊线机 
+        -> 全自动封帽机 
+      -> 核心产品 http://www.whsygd.com/lm2
+        -> PIN TIA TO-CAN 系列 
+        -> Laer Diode TO-CAN 系列 
+      -> 应用领域 http://www.whsygd.com/lm3
+        -> 5G 基站 
+        -> 光猫 
+        -> 机顶盒 
+        -> 烟雾探测器 
+        -> 红外传感器 

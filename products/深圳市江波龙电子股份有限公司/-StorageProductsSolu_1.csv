@@ -1,0 +1,33 @@
+产品网址：https://www.longsys.com/products/embedded-storage/micro-storage/spi-nand-flash.html
+产品结构：root->-StorageProductsSolution–LongsysacquiredLEXAR&Foreseee
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|SPI NAND Flash|无|WSON8 封装，节省 PCB 空间；支持标准 SPI 和双/四通道 I/O；配备内部 ECC；工作电压符合主流产品标准；工作温度范围为-40°C 至+85°C，满足工业级产品的温度要求；容量从 512Mbit 到 4Gbit，可满足各种容量需求；数据保留期长达 10 年，具有 100,000 次写入/擦除周期|
+
+Product Series,NAND Flash,Capacity,Package,Interface mode,Voltage,Operating Temperature,Size,P/N
+SPI SLC NAND Flash,SLC NAND,512Mbit,WSON,SPI,2.7~3.6V,-40~85℃,8*6mm,F35SQA512M-WWT (R)
+SPI SLC NAND Flash,SLC NAND,512Mbit,WSON,SPI,2.7~3.6V,-40~85℃,6*5mm,F35SQA512M-VWT (R)
+SPI SLC NAND Flash,SLC NAND,512Mbit,WSON,SPI,1.7~1.95V,-40~85℃,8*6mm,F35UQA512M-WWR
+SPI SLC NAND Flash,SLC NAND,512Mbit,WSON,SPI,1.7~1.95V,-40~85℃,6*5mm,F35UQA512M-VWR
+SPI SLC NAND Flash,SLC NAND,1Gbit,WSON,SPI,2.7~3.6V,-40~85℃,8*6mm,F35SQA001G-WWT (R)
+SPI SLC NAND Flash,SLC NAND,1Gbit,WSON,SPI,2.7~3.6V,-40~85℃,6*5mm,F35SQA001G-VWT (R)
+SPI SLC NAND Flash,SLC NAND,1Gbit,WSON,SPI,1.7~1.95V,-40~85℃,8*6mm,F35UQA001G-WWR
+SPI SLC NAND Flash,SLC NAND,1Gbit,WSON,SPI,1.7~1.95V,-40~85℃,6*5mm,F35UQA001G-VWR
+SPI SLC NAND Flash,SLC NAND,1Gbit,WSON,SPI,1.7~1.95V,-40~105℃(Automotive Grade2),8*6mm,F35UQA001G-W2R
+SPI SLC NAND Flash,SLC NAND,2Gbit,WSON,SPI,2.7~3.6V,-40~85℃,8*6mm,F35SQA002G-WWT
+SPI SLC NAND Flash,SLC NAND,2Gbit,WSON,SPI,1.7~1.95V,-40~85℃,8*6mm,F35UQA002G-WWR
+SPI SLC NAND Flash,SLC NAND,4Gbit,WSON,SPI,2.7~3.6V,-40~85℃,8*6mm,F35SQB004G-WWT
+SPI SLC NAND Flash,SLC NAND,4Gbit,WSON,SPI,1.7~1.95V,-40~85℃,8*6mm,F35UQB004G-WWT
+SPI SLC NAND Flash,SLC NAND,4Gbit,WSON,SPI,1.7~1.95V,-40~105℃(Automotive Grade2),8*6mm,F35UQB004G-W2R
+
+
+Number,Platform
+01,Intel
+02,Allwinner
+03,MediaTek
+04,Amlogic
+05,Ambarella
+06,Rockchip
+07,Marvell
+（  The product supports mainstream platforms and only part of it is shown here.  ）,（  The product supports mainstream platforms and only part of it is shown here.  ）

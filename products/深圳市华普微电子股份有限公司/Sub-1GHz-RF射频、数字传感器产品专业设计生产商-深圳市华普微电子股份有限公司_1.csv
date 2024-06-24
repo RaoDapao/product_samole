@@ -1,0 +1,112 @@
+产品网址：https://www.hoperf.cn/lectotype/Sub-GHz
+产品结构：root->Sub-1GHz-RF射频、数字传感器产品专业设计生产商-深圳市华普微电子股份有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Sub-1GHz 芯片|无|无|
+|Sub-1GHz 模块|无|无|
+|LoRa SPI 模块|无|无|
+|LoRa 透传模块|无|无|
+|LoRaWAN 模块|无|无|
+|Matter 无线模块|无|无|
+|蓝牙芯片|无|无|
+|蓝牙模块|无|无|
+|WiFi 模块|无|无|
+|2.4GHz 无线收发模块|无|无|
+|气压传感器|无|无|
+|绝压传感器|无|无|
+|表压传感器|无|无|
+|差压传感器|无|无|
+|温湿度传感器|无|无|
+|温度传感器|无|无|
+|数字隔离|无|无|
+|隔离接口 I2C|无|无|
+|隔离接口 RS485|无|无|
+|隔离接口 CAN|无|无|
+|隔离驱动|无|无|
+
+型号,产品,产品类型,收/发,调制方式,最大速率,频率范围,灵敏度,发射功率,尺寸,封装,针脚,备注
+型号,产品,产品类型,收/发,调制方式,最大速率,频率范围,灵敏度,发射功率,尺寸,封装,针脚,备注
+
+
+型号,产品,产品类型,收/发,调制方式,最大速率,频率范围,灵敏度,发射功率,尺寸,封装,针脚,备注
+型号,产品,产品类型,收/发,调制方式,最大速率,频率范围,灵敏度,发射功率,尺寸,封装,针脚,备注
+HM-380F64,,射频透传模块,TRx,（G）FSK,300kbps,434MHz、868MHz、915MHz,-120dBm @434MHz，0.6kbps，GFSK,-,16x18x2mm,-,-,
+CMT2380F29,,射频芯片,TRx,(G)FSK/(G)MSK/OOK,300kbps,127-1020MHz,-121dBm,20dBm,5mm*5mm,QFN,32,
+RFM110L,,射频模块,TX,ASK/OOK,30Kbps,315/433.92MHz,-,13dBm,11.5*10.5*2.35mm,-,-,
+RFM210LHL,,射频模块,RX,ASK/OOK,40Kbps,315/433Mhz,-112dBm,-,13.5*11.5*2.75mm,-,-,-
+RFM390F64,,射频模块,TRx,OOK/(G)FSK/4(G)FSK,1000Kbps,434/868/915MHz,-113dBm,20dBm,19*19*1.0mm,-,-,
+HM-23A020,,射频模块,TRx,2(G)FSK,256Kbps,868/915MHz,-113dBm,20dBm,-,-,-,
+HM-380F17,,射频模块,TRx,2(G)FSK,300Kbps,434/868/915MHz,-120dBm,20dbm,16*18*2mm,SoC,-,
+HM-380F32,,射频模块,TRx,2(G)FSK,300Kbps,434/868/915MHz,-120dBm,20dbm,16*18*3.4mm,SPI,-,
+HM-TRP,,射频模块,TRx,2(G)FSK,115.2Kbps,433/470/868/915MHz,-117dBm,20dBm,16*20*2mm,DIP,9,
+RFM300P,,射频模块,TRx,2(G)FSK/(G)MSK/OOK,300Kbps,433.92/868MHz,-118dBm,800mA,30*50*4.9mm,SPI,3-wire,
+RFM23BP,,射频模块,TRx,2(G)FSK/(G)FSK/OOK,256Kbps,433/868/915MHz,-120dBm,30dBm,18*33*1.9mm,SPI,6,
+RFM23A020,,射频模块,TRx,2(G)FSK/(G)MSK/OQPSK/OOK,2.4Kbps,868/915MHz,-118dBm,20dBm,16.5*19*2mm,-,-,
+RFM380F64,,射频模块,TRx,2(G)FSK,300kbps,434/868/915MHz,-120dBm,20dBm,18*16*2mm,UART/I2C/SPI,-,
+RFM380F32-S3,,射频模块,TRx,2(G)FSK,0.5-300Kbps,434/868/915MHz,-120dBm,20dbm,16*18*3.4mm,SPI,-,
+RFM380F32,,射频模块,TRx,2(G)FSK,0.5-300Kbps,434/868/915MHz,-120dBm,20dbm,16*18*2mm,SoC,-,
+RFM310H,,射频模块,TRx,2(G)FSK/4(G)FSK/OOK,-,433.92/868/915MHz,-114dBm,20dbm,18*18*2.1mm,SPI,,
+RFM310,,射频模块,TRx,2(G)FSK/4(G)FSK/OOK,500Kbps,433.92/868/915MHz,-114dBm,13dBm,18*18*2.1,SPI,-,
+RFM300C,,射频模块,TRx,2(G)FSK/OOK,300Kbps,433/868/915MHz,-118dBm,13dBm,16*16*3mm,SPI,-,
+RFM69,,射频模块,TRx,2(G)FSK/MSK/(G)MSK/OOK,300Kbps,433/868/915MHz,-120dBm,13dBm,16*16*1.9mm,SPI,-,
+RFM300LR,,射频模块,TRx,2(G)FSK/OOK,300Kbps,433/868MHz,-123dBm,20dBm,32x14.5X1mm,SMD,-,
+RFM300H,,射频模块,TRx,2(G)FSK/OOK,30Kbps,433/868/915MHz,-120dBm,20dBm,16x16X1.8mm,SPI,-,
+RFM300,,射频模块,TRx,2(G)FSK/OOK,300Kbps,433/868/915MHz,-120dBm,13dBm,16x16X1.8mm,SPI,-,
+RFM69HC,,射频模块,TRx,2(G)FSK/MSK/(G)MSK/OOK,300Kbps,315/433/868/915MHz,-120dBm,20dBm,16*16*1.9mm,SPI,-,
+RFM69C,,射频模块,TRx,2(G)FSK/MSK/(G)MSK/OOK,300Kbps,315/433/868/915MHz,-120dBm,13dBm,16*16*1.9mm,SPI,-,
+RFM64,,射频模块,TRx,2(G)FSK/OOK,200Kbps,315/433MHz,-110dBm,10dBm,19.7*16*1.9mm,SPI,-,
+RFM63,,射频模块,TRx,2(G)FSK/OOK,200Kbps,863-960MHz,-113dBm,10dBm,20x16mm,SPI,-,
+RFM220LS,,射频模块,RX,ASK/OOK,1-5Kbps,315/433.92MHz,-108dBm,-,43.2*10*5,DATA,-,
+RFM210LH,,射频模块,RX,ASK/OOK,0.5-40Kbps,315/433.92MHz,-112dBm,-,21*11*5mm,TWI,-,
+RFM218B,,射频模块,RX,2(G)FSK,2.4Kbps,315/433.92/868.35/915MHz,-117dBm,-,16*16*1.8,TWI,-,
+RFM210LH-D,,射频模块,RX,OOK,1-5Kbps,315/433.92MHz,-109dBm,-,32*11*5mm,TWI,-,
+RFM219B,,射频模块,RX,2(G)FSK/OOK,0.5-300Kbps,127-1020MHz,-120dBm,-,16*16*1.9mm,SPI,-,支持前向纠错
+RFM219S,,射频模块,RX,2(G)FSK/OOK,0.1-100Kbps,300-960MHz,-109dBm,-,16*16*5.0mm,SPI,-,RoHS标准
+RFM217LB,,射频模块,RX,OOK,0.1-40Kbps,868.35/915MHz,-108dBm,-,32*11*5mm,TWI,-,支持自动 DutyCycle
+RFM217B,,射频模块,RX,OOK,0.1-40Kbps,315/433.92/868.35/915MHz,-113dBm,-,32*11*5mm,TWI,-,支持自动 DutyCycle
+RFM210LCF,,射频模块,RX,ASK/OOK,1-5Kbps,315/433.92MHz,-114dBm,-,32*11*5mm,TWI,-,
+RFM210LB,,射频模块,RX,OOK,0.1-40Kbps,315/433.92MHz,-113dBm,-,32*11*5mm,TWI,-,
+RFM119BP,,射频模块,TX,2(G)FSK/(G)MSK/OOK,0.5-300Kbps,433.92-868MHz,-,4W,-,SPI,-,3-wire
+RFM119S,,射频模块,TX,2(G)FSK/OOK,0.5-30Kbps(OOK)  0.5-100Kbps(FSK/GFSK),240-960MHz,-,10dBm,16*16*5.0mm,TWI,-,RoHS标准
+RFM119B,,射频模块,TX,2(G)FSK/(G)MSK/OOK,0.5-300Kbps,127-1020MHz,-,20dBm,16*16*1.9mm,SPI,-,
+RFM119,,射频模块,TX,2(G)FSK/OOK,0.5-100Kbps(FSK/GFSK)  0.5-30Kbps(OOK),240-960MHz,-,13dBm,17.8*12.8*5mm,TWI,-,
+RFM110,,射频模块,TX,OOK,0.5-40Kbps,240-480MHz,-,13dBm,17.8*12.8*5mm,TWI,-,
+CMT6100A,,射频芯片,-,-,-,-,-,-,2.92*2.8*1.35mm,SOT,23-6,
+CMT2159A,,射频芯片,TX,2(G)FSK/OOK,0.5-40Kbps(OOK)  0.5-300Kbps(FSK),240-960MHz,-,13dBm,8.65*6*1.75mm,SOP,14,
+CMT2156B,,射频芯片,TX,OOK,0.5-40Kbps,240-960MHz,-,13dBm,3*3*0.75mm,QNF,16,
+CMT2156A,,射频芯片,TX,OOK,0.5-40Kbps,240-480MHz,-,13dBm,8.65*6*1.75mm,SOP,14,With Encoder
+CMT2157L,,射频芯片,TX,OOK,0.5-40Kbps,240-960MHz,-,13dBm,4.92*6*1.65mm,SOP,8,
+CMT2157A,,射频芯片,TX,2(G)FSK/OOK,0.5-30Kbps,240-960MHz,-,13dBm,8.65*6*1.75mm,SOP,14,
+CMT2150A,,射频芯片,TX,OOK,0.5-30Kbps,240-480MHz,-,13dBm,8.65*6*1.75mm,SOP,14,
+CMT2157B,,射频芯片,TX,OOK,0.5-40Kbps,240-960MHz,-,13dBm,8.65*6*1.75mm,SOP,14,Encoder + 10 Keys
+CMT2150L,,射频芯片,TX,OOK,0.5-40Kbps,240-480MHz,-,13dBm,4.92*6*1.65mm,SOP,8,Encoder+6 Keys
+CMT2391F128,,射频芯片,TRx,2(G)FSK/4(G)FSK/OOK,0.1-1000Kbps,113-960MHz,-122dBm,20dBm,7*7*0.75mm,QFN,68,
+CMT2390F64,,射频芯片,TRx,2(G)FSK/4(G)FSK/OOK,0.1-1000Kbps,113-960MHz,-122dBm,20dBm,6*6*0.75mm,QFN,48,
+CMT2380F64,,射频芯片,TRx,2(G)FSK/(G)MSK/OOK,0.5-300Kbps(FSK)  0.5-40Kbps(OOK),127-1020MHz,-121dBm,20dBm,5*5*0.75mm,QFN,40,
+CMT2380F17,,射频芯片,TRx,2(G)FSK/(G)MSK/OOK,0.5-300Kbps,127-1020MHz,-121dBm,20dBm,5*5*0.75mm,QFN,40,
+CMT2380F32,,射频芯片,TRx,2(G)FSK/(G)MSK/OOK,0.5-300Kbps,127-1020MHz,-121dBm,20dBm,5*5*0.75mm,QFN,40,
+CMT2380F16,,射频芯片,TRx,2(G)FSK/(G)MSK/OOK,0.5-300Kbps,127-1020MHz,-121dBm,20dBm,6*6*0.75mm,QFN,48,
+CMT2165A,,射频芯片,TX,2(G)FSK/OOK,0.5-40Kbps(OOK)  0.5-200Kbps(G/FSK),27-960MHz,-,13dBm,5*5*0.75mm,QFN,32,
+CMT2189D,,射频芯片,TX,2(G)FSK/OOK,0.5-40Kbps(OOK)  0.5-200Kbps(G/FSK),27-960MHz,-,13dBm,4*4*0.75mm,QFN,20,
+CMT2168A,,射频芯片,TX,2(G)FSK/OOK,0.5-40Kbps(OOK)  0.5-200Kbps(G/FSK),27-960MHz,-,13dBm,5*5*0.75mm,QFN,32,
+CMT2163A,,射频芯片,TX,2(G)FSK/OOK,0.5-200Kbps(G/FSK)  0.5-40Kbps(OOK),27-960MHz,-,13dBm,,TSSOP,28,
+CMT2180B,,射频芯片,TX,OOK,0.5-40Kbps,312-480MHz,-,13dBm,8.65*6*1.75mm,SOP,14,
+CMT2180D,,射频芯片,TX,OOK,1-40Kbps,312-480MHz,-,13dBm,10*6.2*4.4mm,SOP,16,
+CMT2189B,,射频芯片,TX,OOK,1-40Kbps,240-960MHz,-,13dBm,8.65*6*1.75mm,SOP,14,With PIC-Like MCU
+CMT2189C,,射频芯片,TX,2(G)FSK/OOK,1-100Kbps((G/FSK)  1-30Kbps(OOK),240-960MHz,-,13dBm,8.65*6*1.75mm,SOP,14,RoHS
+CMT2281F2,,射频芯片,RX,OOK,1-40Kbps,300-960MHz,-109dBm,-,10*6.2*4.4mm,SOP,16,
+CMT2280F2,,射频芯片,RX,OOK,1-40Kbps,300-960MHz,-109dBm,-,10*6.2*4.4mm,SOP,16,With PIC-Like MCU
+CMT2310A,,射频芯片,TRx,2(G)FSK/4(G)FSK/OOK,0.2-1000Kbps(4FSK)  0.1-500Kbps(2FSK)  0.1-300Kbps(OOK),113-960MHz,-122dBm,20dBm,4*4*0.75mm,QFN,24,4-SPI
+CMT2300A,,射频芯片,TRx,2(G)FSK/(G)MSK/OOK,0.5-300Kbps(FSK)  0.5-40Kbps(OOK),127-1020MHz,-120dBm,20dBm,3*3*0.75mm,QFN,(16)3*3,3+1 wire SPI
+CMT2220LY,,射频芯片,RX,OOK,1-5Kbps,300-480MHz,-109dBm,-,4.92*6*1.65mm,SOP,8,符合 RoHS 标准
+CMT2220LS,,射频芯片,RX,OOK,1-5Kbps,300-480MHz,-107dBm,-,4.92*6*1.65mm,SOP,8,
+CMT2210LB,,射频芯片,RX,OOK,0.1-40Kbps,300-480MHz,-113dBm,-,4.92*6*1.65mm,SOP,8,Standalone + 1 Dout
+CMT2210LC,,射频芯片,RX,OOK,1-5Kbps,315-433.92MHz,-109dBm,-,4.92*6*1.65mm,SOP,8,
+CMT2219B,,射频芯片,RX,2(G)FSK/(G)MSK/OOK,0.5-300Kbps(FSK)  0.5-40Kbps(OOK),127-1020MHz,-120dBm,-,3*3*0.75mm,QFN,16,3 wire SPI + 1-wire
+CMT2219A,,射频芯片,RX,2(G)FSK/(G)MSK/OOK,0.1-100Kbps(FSK)  0.5-30Kbps(OOK),300-960MHz,-109dBm,-,3*3*0.75mm,QFN,16,3+1 wire SPI
+CMT2218B,,射频芯片,RX,2(G)FSK,0.5-300Kbps,127-1020MHz,-120dBm,-,3*3*0.75mm,QFN,16,Direct Mode
+CMT2210LH,,射频芯片,RX,OOK,0.1-40Kbps,300-480MHz,-109dBm,-,4.92*6*1.65mm,SOP,8,Standalone+1 Dout
+CMT2117B,,射频芯片,TX,OOK,20Kbps,624-960MHz,-,13dBm,2.72*2.6*1.35mm,SOT,23-6,Standalone+1 Dout
+CMT2110B,,射频芯片,TX,OOK,0.5-20kbps,312-480 MHz,-,13dBm,2.92*2.8*1.1mm,SOT,23-6,
+CMT2119B,,射频芯片,TX,2(G)FSK/(G)MSK/OOK,0.5-300Kbps(FSK)  0.5-40Kbps(OOK),127-1020MHz,-,20dBm,3*3*0.75mm,QFN,16,With PIC-Like MCU

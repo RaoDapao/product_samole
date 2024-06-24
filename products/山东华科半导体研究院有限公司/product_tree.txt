@@ -1,0 +1,228 @@
+-> root http://www.hkhonm.com
+  -> 产品中心-产品中心-山东华科半导体研究院有限公司 http://www.hkhonm.com/cpzx/7.html
+    -> HKX1920 大容量双界面 CPU 卡芯片 
+    -> HKX2560 大容量双界面 CPU 卡芯片 
+    -> HKX25480 接触式智能卡芯片 
+    -> HKX25132 接触式智能卡芯片 
+    -> HKX25256 接触式智能卡芯片 
+    -> HM1020M2 单路塔式服务器 
+  -> 芯片产品-产品中心-山东华科半导体研究院有限公司 http://www.hkhonm.com/product/5
+    -> HK0106 六轴惯性传感器模块 
+  -> 智能装备-产品中心-山东华科半导体研究院有限公司 http://www.hkhonm.com/cpzx/4.html
+    -> iView 智慧一体机系列 
+    -> 曜石系列 
+    -> 幻晶系列 
+    -> 皓玉系列 
+    -> 磐石系列 
+    -> 特种照明系列投光灯 
+  -> 山东华科半导体研究院有限公司 http://www.hkhonm.com/product_list/1173623020686680064.html
+    -> 温度传感器芯片系列 
+    -> 温度开关芯片系列 
+    -> 温湿度传感器芯片系列 
+    -> 压力传感器系列 
+    -> CPU 卡芯片 
+    -> MEMS 声学传感器 
+    -> MEMS 压力传感器 
+    -> MEMS 惯性传感器 
+    -> MEMS 流量传感器 
+    -> 红外热电堆传感器 
+    -> 心率传感器 
+    -> 倒装 COB 超高清 LED 显示产品 
+    -> 大功率照明解决方案产品 
+    -> HK 机架式服务器 
+    -> 边缘计算 AI 服务器 
+    -> 塔式服务器 
+  -> 温度传感器芯片系列-产品中心-山东华科半导体研究院有限公司 http://www.hkhonm.com/product/48
+    -> HK1003 两线式接口数字温度传感器 
+    -> HK1075 I²C 接口数字温度传感器和监控器 
+    -> HK1001 多兼容串口数字温度传感器 
+    -> HK1020 单总线数字温度传感器 
+    -> HK1012 高精度低功耗数字温度传感器 
+    -> HK1002 高精度低功耗数字温度传感器 
+  -> 温度开关芯片系列-产品中心-山东华科半导体研究院有限公司 http://www.hkhonm.com/product/50
+  -> 温湿度传感器芯片系列-产品中心-山东华科半导体研究院有限公司 http://www.hkhonm.com/product/49
+    -> HK3015 I2C 数字温湿度传感器 
+    -> HK3035 I2C 数字温湿度传感器 
+  -> 压力传感器系列-产品中心-山东华科半导体研究院有限公司 http://www.hkhonm.com/product/51
+    -> MEMS 压力传感器 -SOP 封装绝压模组 
+    -> MEMS 压力传感器 -COB 封装绝压模组 
+    -> MEMS 压力传感器 - 电子血压计压力传感器 
+    -> 板载充油压力传感器模组 
+    -> 通用全钢充油压力传感器 
+    -> TO 充油类压力传感器 
+  -> CPU卡芯片-产品中心-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_list/5.html
+    -> HKX1920（原 DM1920）大容量双界面 CPU 卡芯片 
+    -> HKX2560（原 DM2560）大容量双界面 CPU 卡芯片 
+    -> HKX25480（原 DM25480）接触式智能卡芯片 
+    -> HKX25132（原 DM25132）接触式智能卡芯片 
+    -> HKX25256（原 DM25256）接触式智能卡芯片 
+  -> MEMS声学传感器-产品中心-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_list/10.html
+    -> 硅麦克风 
+    -> 骨震动传感器 
+  -> MEMS压力传感器-产品中心-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_list/11.html
+    -> 绝压模组 
+    -> 差压模组 
+    -> 充油隔离式压力传感器模组 
+    -> 有创/无创呼吸机压力传感器 
+    -> 制氧机 
+    -> 绝压单芯片封装压力传感器 
+  -> MEMS惯性传感器-产品中心-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_list/12.html
+    -> HK0103 三轴微机械数字加速度计 
+    -> 加速度传感器 
+  -> MEMS流量传感器-产品中心-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_list/14.html
+  -> 红外热电堆传感器-产品中心-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_list/15.html
+    -> 热电堆红外传感器模组 
+    -> 热电堆红外传感器芯片 
+  -> 心率传感器-产品中心-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_list/18.html
+    -> HK7005 心率传感器 
+    -> HK7006 心率传感器 
+  -> HKX1920(原DM1920)大容量双界面CPU卡芯片-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/83.html
+  -> HKX2560（原DM2560）大容量双界面CPU卡芯片-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/81.html
+  -> HKX25480(原DM25480)接触式智能卡芯片-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/84.html
+  -> HKX25132（原DM25132）接触式智能卡芯片-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/82.html
+  -> HKX25256（原DM25256）接触式智能卡芯片-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/80.html
+  -> HK0106六轴惯性传感器模块-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/67.html
+  -> HK0103三轴微机械数字加速度计-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/61.html
+  -> 热电堆红外传感器模组-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/60.html
+  -> 热电堆红外传感器芯片-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/59.html
+  -> 电子烟压力传感器-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/58.html
+  -> MEMS流量传感器-MSL01-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/57.html
+    -> 产品型号 
+    -> 功能描述 
+  -> MEMS流量传感器-MSH01-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/56.html
+  -> 加速度传感器-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/54.html
+  -> LGA封装压力模组-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/53.html
+  -> 车规级汽车压力传感器模组-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/52.html
+  -> 充油隔离式压力传感器模组-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/51.html
+  -> 有创-无创呼吸机压力传感器-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/50.html
+  -> 制氧机-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/48.html
+  -> HK7005心率传感器-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/65.html
+  -> HK7006心率传感器-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/66.html
+  -> 倒装COB超高清LED显示产品-产品中心-山东华科半导体研究院有限公司 http://www.hkhonm.com/cpzx/5.html
+  -> 大功率照明解决方案产品-产品中心-山东华科半导体研究院有限公司 http://www.hkhonm.com/cpzx/6.html
+    -> 翼芯系列固定式灯具 
+    -> 明芯系列固定式灯具 
+    -> 睿芯系列工矿灯 
+    -> 皓芯系列 LED 隧道灯 
+    -> 晶芯系列 LED 隧道灯 
+  -> 业绩亮眼订单不断智能装备业务捷报频传-山东华科半导体研究院有限公司 http://www.hkhonm.com/news_details/12.html
+  -> 服务器产品-产品中心-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_list/1.html
+    -> HM1020M2 
+    -> HK2570M2 
+    -> HK8412M2 
+    -> HK5480M2 
+    -> HK5260M2 
+    -> HK2498A2 
+  -> HK机架式服务器-产品中心-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_list/2.html
+    -> HK2476M2 
+    -> HK2468M2 
+    -> HK2288M2 
+  -> 边缘计算AI服务器-产品中心-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_list/3.html
+  -> 塔式服务器-产品中心-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_list/4.html
+  -> HM1020M2-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/76.html
+  -> 产品中心-产品中心-山东华科半导体研究院有限公司_1 http://www.hkhonm.com/product_list/1121093417321385984-6-6.html
+    -> HK2570M2 服务器 
+    -> HK8412M2 服务器 
+    -> HK5480M2 服务器 
+    -> HK5260M2 服务器 
+    -> HK2498A2 服务器 
+    -> HK2476M2 服务器 
+  -> 产品中心-产品中心-山东华科半导体研究院有限公司_2 http://www.hkhonm.com/product_list/1121093417321385984-12-6.html
+    -> 华科机架式服务器 
+    -> 华科机架式服务器 
+    -> 华科服务器 
+    -> 华科机架式服务器 
+    -> 华科服务器 
+  -> 产品中心-产品中心-山东华科半导体研究院有限公司_3 http://www.hkhonm.com/product_list/1121093417321385984-18-6.html
+    -> MEMS 流量传感器-MSL01 
+    -> MEMS 流量传感器-MSH01 
+  -> 产品中心-产品中心-山东华科半导体研究院有限公司_4 http://www.hkhonm.com/product_list/1121093417321385984-72-6.html
+  -> 芯片产品-产品中心-山东华科半导体研究院有限公司_1 http://www.hkhonm.com/product_list/1051160347978588160-12-6.html
+  -> 芯片产品-产品中心-山东华科半导体研究院有限公司_2 http://www.hkhonm.com/product_list/1051160347978588160-18-6.html
+    -> 集成调理塑封压力传感器 
+    -> LGA 封装绝压数字输出压力传感器 
+    -> 充油隔离式压力传感器 
+  -> 芯片产品-产品中心-山东华科半导体研究院有限公司_3 http://www.hkhonm.com/product_list/1051160347978588160-42-6.html
+    -> 陶瓷电容压力传感器 
+  -> 智能装备-产品中心-山东华科半导体研究院有限公司_1 http://www.hkhonm.com/product_list/1120315310778044416-6-6.html
+    -> 天芯系列 LED 高杆灯 
+  -> 智能装备-产品中心-山东华科半导体研究院有限公司_2 http://www.hkhonm.com/product_list/1120315310778044416-12-6.html
+    -> 鑫芯系列一体化路灯 
+    -> 臻芯系列 LED 路灯 
+  -> 兼容三种产品的测试设备经调试成功运转-山东华科半导体研究院有限公司 http://www.hkhonm.com/news_details/6.html
+  -> 我司首款温度传感器芯片在济投产，完全可替代进口，测温精度更高-山东华科半导体研究院有限公司 http://www.hkhonm.com/news/33.html
+  -> HK1075I²C接口数字温度传感器和监控器-山东华科半导体研究院有限公司 http://www.hkhonm.com/product/138.html
+  -> HK1001多兼容串口数字温度传感器-山东华科半导体研究院有限公司 http://www.hkhonm.com/product/139.html
+  -> HK1020单总线数字温度传感器-山东华科半导体研究院有限公司 http://www.hkhonm.com/product/140.html
+  -> HK1002高精度低功耗数字温度传感器-山东华科半导体研究院有限公司 http://www.hkhonm.com/product/137.html
+  -> 温度传感器芯片系列-产品中心-山东华科半导体研究院有限公司_1 http://www.hkhonm.com/product_list/1051160348037308416-6-6.html
+  -> HK6501开漏输出温度开关-山东华科半导体研究院有限公司 http://www.hkhonm.com/product/136.html
+  -> HK3015I2C数字温湿度传感器-山东华科半导体研究院有限公司 http://www.hkhonm.com/product/135.html
+  -> HK3035I2C数字温湿度传感器-山东华科半导体研究院有限公司 http://www.hkhonm.com/product/131.html
+  -> 压力传感器系列-产品中心-山东华科半导体研究院有限公司_1 http://www.hkhonm.com/product_list/1051160348192497664-6-6.html
+  -> 硅麦克风-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/40.html
+  -> 骨震动传感器-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/39.html
+  -> 绝压单芯片封装压力传感器-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/46.html
+  -> MEMS压力传感器-产品中心-山东华科半导体研究院有限公司_1 http://www.hkhonm.com/product_list/1167747217099476992-6-6.html
+    -> 一次性血压计压力传感器 
+    -> 电子血压计压力传感器 
+    -> 气压计 
+  -> CPU卡芯片-产品中心-山东华科半导体研究院有限公司_1 http://www.hkhonm.com/product_list/5.html?_detailId=1214939186535419904
+  -> MEMS惯性传感器-产品中心-山东华科半导体研究院有限公司_1 http://www.hkhonm.com/product_list/12.html?_detailId=1167874621486342144
+  -> MEMS压力传感器-产品中心-山东华科半导体研究院有限公司_2 http://www.hkhonm.com/product_list/11.html?_detailId=1167769918136066048
+  -> MEMS压力传感器-产品中心-山东华科半导体研究院有限公司_3 http://www.hkhonm.com/product_list/11.html?_detailId=1167769561929969664
+  -> 压力传感器系列-产品中心-山东华科半导体研究院有限公司_2 http://www.hkhonm.com/product/51/?_detailId=1115992852362969088
+  -> 大功率照明解决方案产品-产品中心-山东华科半导体研究院有限公司_1 http://www.hkhonm.com/product_list/1120640089712185344-6-6.html
+  -> 倒装COB超高清LED显示产品-产品中心-山东华科半导体研究院有限公司_1 http://www.hkhonm.com/cpzx/5.html?_detailId=1120660959281700864
+  -> 倒装COB超高清LED显示产品-产品中心-山东华科半导体研究院有限公司_2 http://www.hkhonm.com/cpzx/5.html?_detailId=1120653736191090688
+  -> 大功率照明解决方案产品-产品中心-山东华科半导体研究院有限公司_2 http://www.hkhonm.com/cpzx/6.html?_detailId=1120679420330401792
+  -> 芯片产品-山东华科半导体研究院有限公司 http://www.hkhonm.com/tagdetail/1777239191661412352.html
+  -> HK2570M2-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/75.html
+  -> HK8412M2-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/74.html
+  -> HK5480M2-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/73.html
+  -> HK5260M2-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/72.html
+  -> HK2498A2-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/71.html
+  -> 服务器产品-产品中心-山东华科半导体研究院有限公司_1 http://www.hkhonm.com/product_list/1173931837542637568-6-6.html
+    -> HK2280M2 
+    -> HK2270M2 
+    -> HK2180M2 
+  -> HK2476M2-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/70.html
+  -> HK2468M2-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/69.html
+  -> HK2288M2-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/68.html
+  -> HK机架式服务器-产品中心-山东华科半导体研究院有限公司_1 http://www.hkhonm.com/product_list/1173931940982562816-6-6.html
+  -> 产品中心-产品中心-山东华科半导体研究院有限公司_5 http://www.hkhonm.com/product_list/1121093417321385984-0-6.html
+  -> HK2280M2-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/77.html
+  -> HK2270M2-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/78.html
+  -> HK2180M2-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/79.html
+  -> 产品中心-产品中心-山东华科半导体研究院有限公司_6 http://www.hkhonm.com/product_list/1121093417321385984-24-6.html
+  -> 产品中心-产品中心-山东华科半导体研究院有限公司_7 http://www.hkhonm.com/product_list/1121093417321385984-66-6.html
+    -> MEMS 压力传感器-COB 封装绝压模组 
+    -> MEMS 压力传感器-电子血压计压力传感器 
+  -> 产品中心-产品中心-山东华科半导体研究院有限公司_8 http://www.hkhonm.com/product_list/1121093417321385984-54-6.html
+  -> 产品中心-产品中心-山东华科半导体研究院有限公司_9 http://www.hkhonm.com/product_list/1121093417321385984-60-6.html
+    -> MEMS 压力传感器-SOP 封装绝压模组 
+  -> 芯片产品-产品中心-山东华科半导体研究院有限公司_4 http://www.hkhonm.com/product_list/1051160347978588160-0-6.html
+  -> 集成调理塑封压力传感器-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/47.html
+  -> 充油隔离式压力传感器-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/44.html
+  -> 芯片产品-产品中心-山东华科半导体研究院有限公司_5 http://www.hkhonm.com/product_list/1051160347978588160-24-6.html
+  -> 芯片产品-产品中心-山东华科半导体研究院有限公司_6 http://www.hkhonm.com/product_list/1051160347978588160-36-6.html
+  -> 芯片产品-产品中心-山东华科半导体研究院有限公司_7 http://www.hkhonm.com/product_list/1051160347978588160-30-6.html
+  -> 智能装备-产品中心-山东华科半导体研究院有限公司_3 http://www.hkhonm.com/product_list/1120315310778044416-0-6.html
+  -> 兼容三种产品的测试设备经调试成功运转-山东华科半导体研究院有限公司_1 http://www.hkhonm.com/news_details/1706254291568152576-5-5.html
+  -> 兼容三种产品的测试设备经调试成功运转-山东华科半导体研究院有限公司_2 http://www.hkhonm.com/news_details/1706254291568152576-10-5.html
+  -> 兼容三种产品的测试设备经调试成功运转-山东华科半导体研究院有限公司_3 http://www.hkhonm.com/news_details/1706254291568152576-15-5.html
+  -> 鲁能源科技字【2019】223号-技术产品装备-山东华科半导体研究院有限公司 http://www.hkhonm.com/news_details/1601481676257701888-5-5.html
+  -> 温度传感器芯片系列-产品中心-山东华科半导体研究院有限公司_2 http://www.hkhonm.com/product/48/?_detailId=1115996090504069120
+  -> 温度传感器芯片系列-产品中心-山东华科半导体研究院有限公司_3 http://www.hkhonm.com/product/48/?_detailId=1051160393025413120
+  -> 温度传感器芯片系列-产品中心-山东华科半导体研究院有限公司_4 http://www.hkhonm.com/product/48/?_detailId=1115996874250498048
+  -> 温度开关芯片系列-产品中心-山东华科半导体研究院有限公司_1 http://www.hkhonm.com/product/50/?_detailId=1051160455558291456
+  -> 温湿度传感器芯片系列-产品中心-山东华科半导体研究院有限公司_1 http://www.hkhonm.com/product/49/?_detailId=1051160475770642432
+  -> 一次性血压计压力传感器-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/43.html
+  -> 电子血压计压力传感器-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/42.html
+  -> 气压计-山东华科半导体研究院有限公司 http://www.hkhonm.com/product_detail/41.html
+  -> 大功率照明解决方案产品-产品中心-山东华科半导体研究院有限公司_3 http://www.hkhonm.com/product_list/1120640089712185344-0-6.html
+  -> HK机架式服务器-产品中心-山东华科半导体研究院有限公司_2 http://www.hkhonm.com/product_list/2.html?_detailId=1173939119232860160
+  -> 产品中心-产品中心-山东华科半导体研究院有限公司_10 http://www.hkhonm.com/product_list/1121093417321385984-48-6.html
+  -> MEMS压力传感器-产品中心-山东华科半导体研究院有限公司_4 http://www.hkhonm.com/product_list/11.html?_detailId=1167766221175222272
+  -> 兼容三种产品的测试设备经调试成功运转-山东华科半导体研究院有限公司_4 http://www.hkhonm.com/news_details/1706254291568152576-20-5.html
+  -> 鲁能源科技字【2019】223号-技术产品装备-山东华科半导体研究院有限公司_1 http://www.hkhonm.com/news_details/1601481676257701888-35-5.html

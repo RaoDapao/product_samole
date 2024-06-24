@@ -1,0 +1,86 @@
+-> root http://www.beidian.com.cn
+  -> 首页 
+    -> 工程案例 
+      -> 产品 
+        -> 上海贝电-_28 http://www.beidian.com.cn/exsample/ex_exsample.aspx?eg_id=1
+          -> 网络测试与评估 
+          -> 室内覆盖、小区覆盖 
+          -> 移动基站、直放站安装调测工程 
+          -> 网络优化 
+          -> 网络规划 
+          -> 返回_4 http://www.beidian.com.cn/exsample/ex_exsample_d.aspx?e_id=4&eg_id=1
+          -> 返回_5 http://www.beidian.com.cn/exsample/ex_exsample_d.aspx?e_id=5&eg_id=1
+    -> 产品中心 
+      -> 通信电源 
+        -> 上海贝电-_29 http://www.beidian.com.cn/products/product.aspx?pg_id=1
+          -> 直流配电智能监控系统 
+          -> 2U 嵌入式电源 
+          -> 1U 嵌入式电源 
+          -> 3U 嵌入式电源 
+          -> BDMPS 系列组合开关电源系统 
+          -> BDOP 系列室外一体化开关电源 
+          -> BDPAD 系列防水室外电源、RRU 电源 
+          -> PDU0012 交流配电盘 
+          -> PDU0400 直流分配盘 
+          -> PDU0800 直流分配盘 
+        -> 高低压配电_2 http://www.beidian.com.cn/products/product_d.aspx?pg_id=1&pt_id=0&p_id=62&row=10&page=0
+        -> 嵌入式电源_2 http://www.beidian.com.cn/products/product_d.aspx?pg_id=1&pt_id=0&p_id=53&row=10&page=0
+        -> 机架式电源_2 http://www.beidian.com.cn/products/product_d.aspx?pg_id=1&pt_id=0&p_id=54&row=10&page=0
+        -> 户外电源_2 http://www.beidian.com.cn/products/product_d.aspx?pg_id=1&pt_id=0&p_id=55&row=10&page=0
+      -> 监控系统 
+        -> 上海贝电-_30 http://www.beidian.com.cn/products/product.aspx?pg_id=2
+          -> 动力环境监控采集主机 
+          -> 室外机柜监控系统 
+        -> 局站动力环境监控系统_2 http://www.beidian.com.cn/products/product_d.aspx?pg_id=2&pt_id=0&p_id=60&row=10&page=0
+          -> 监控采集主机 
+          -> 采集主机（PEMS6000G-IO-IPI） 
+          -> 智能设备采集模块（PEMS6000G-IPI） 
+          -> 电池采集模块（PEMS6000G-BAT） 
+          -> 传输模块 
+        -> 户外柜监控系统_2 http://www.beidian.com.cn/products/product_d.aspx?pg_id=2&pt_id=0&p_id=61&row=10&page=0
+      -> 节能减排系统 
+        -> 上海贝电-_31 http://www.beidian.com.cn/products/product.aspx?pg_id=3
+          -> 智能新风节能系统 
+          -> 蓄电池恒温箱 
+        -> 智能新风系统_2 http://www.beidian.com.cn/products/product_d.aspx?pg_id=3&pt_id=0&p_id=63&row=10&page=0
+        -> 蓄电池恒温箱_2 http://www.beidian.com.cn/products/product_d.aspx?pg_id=3&pt_id=0&p_id=64&row=10&page=0
+      -> 室外机柜 
+        -> 上海贝电-_32 http://www.beidian.com.cn/products/product.aspx?pg_id=4
+          -> 室外一体柜 
+          -> 迷你型 3G 室外基站 
+          -> 三舱室外机柜 
+          -> 双拼室外机柜 
+        -> 移动覆盖室外机柜_2 http://www.beidian.com.cn/products/product_d.aspx?pg_id=4&pt_id=0&p_id=73&row=10&page=0
+      -> FTTx 
+        -> 上海贝电-_33 http://www.beidian.com.cn/products/product.aspx?pg_id=5
+          -> 家庭信息箱 
+          -> 家庭信息箱 
+        -> 入户FTTH家庭多媒体信息箱_2 http://www.beidian.com.cn/products/product_d.aspx?pg_id=5&pt_id=0&p_id=68&row=10&page=0
+      -> 无线产品 
+        -> 上海贝电-_34 http://www.beidian.com.cn/products/product.aspx?pg_id=6
+        -> 微功率直放站_2 http://www.beidian.com.cn/products/product_d.aspx?pg_id=6&pt_id=0&p_id=69&row=10&page=0
+      -> 智能电源箱 
+        -> 上海贝电-_35 http://www.beidian.com.cn/products/product.aspx?pg_id=7
+          -> 智能安防电源箱 
+          -> 智能安防电源箱 
+        -> 落地式_2 http://www.beidian.com.cn/products/product_d.aspx?pg_id=7&pt_id=0&p_id=74&row=10&page=0
+        -> 抱杆式_2 http://www.beidian.com.cn/products/product_d.aspx?pg_id=7&pt_id=0&p_id=76&row=10&page=0
+      -> 贝电智能融合网管平台又名为(物联网监控平台) 
+        -> 上海贝电-_36 http://www.beidian.com.cn/products/product.aspx?pg_id=8
+        -> 贝电智能融合网管平台又名为(物联网监控平台) 
+          -> 上海贝电-_37 http://www.beidian.com.cn/products/product_d.aspx?pg_id=8&pt_id=0&p_id=77&row=10&page=0
+      -> 安防监控电源 
+        -> 上海贝电-_38 http://www.beidian.com.cn/products/product.aspx?pg_id=9
+          -> 安防监控电源 
+          -> 安防监控电源 
+          -> 安防监控电源 
+          -> 安防监控电源 
+          -> 安防监控电源 
+          -> 安防监控电源 
+        -> 安防监控电源 
+          -> 上海贝电-_39 http://www.beidian.com.cn/products/product_d.aspx?pg_id=9&pt_id=0&p_id=78&row=10&page=0
+      -> 产品中心 
+        -> 上海贝电-_40 http://www.beidian.com.cn/products/product.aspx
+    -> 解决方案 
+      -> 工程服务_2 http://www.beidian.com.cn/solution/so_solution_d.aspx?s_id=6&sg_id=14
+    -> 媒体中心 

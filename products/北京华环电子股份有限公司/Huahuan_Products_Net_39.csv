@@ -1,0 +1,37 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=119&ncid=122&deid=184
+产品结构：root->Huahuan_Products_NetworkManagementSystem_H0FLCompactConverterRack
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|H0FL Compact Converter Rack|H0FL-H0B/H0FL-2P/H0FL-5P|支持 1/2/5 接口转换器卡和 1/2/5 个远程接口转换器的服务方向；支持以太网接入、协议转换器、媒体转换器等多种服务卡；所有服务支持远程管理，大大减少了用户端的管理工作量；丰富的 LED 指示灯用于网络链接和工作状态；各种服务接口符合相应的国际标准和建议；采用 1U 高机箱，节省设备空间；高度集成，即插即用，热插拔，可靠性高，资本支出和运营成本低|
+
+Item,Description,Description.1
+System Capacity,H0FL-H0B: up to 1 service card  H0FL-2P: up to 2 service cards  H0FL-5P: up to 5 service cards,H0FL-H0B: up to 1 service card  H0FL-2P: up to 2 service cards  H0FL-5P: up to 5 service cards
+PDH Optical Port,Wavelength,"Single mode 1310nm, 1550nm optional"
+PDH Optical Port,Connector,SC or FC
+Ethernet Electrical Port,Working Mode,"10/100/1000 Base-Tx half/full duplex auto-negotiation mode and manual mode (1000M full-duplex, 100M/10M half/full duplex), HP auto-MDIX"
+Ethernet Electrical Port,Connector,RJ-45
+Ethernet Electrical Port,Connecting Cable,Cat 5/Cat 5e UTP
+Ethernet Electrical Port,Port Number,1~2
+Ethernet Electrical Port,Transmission Distance,Up to 100m
+Ethernet Electrical Port,Related Standards,IEEE-802.3/802.3u/802.3ab/802.3ah
+Ethernet Optical Port,Wavelength,Single mode 1310nm or 1550nm
+Ethernet Optical Port,Optical Connector,SC or FC
+Ethernet Optical Port,Port Number,1~2
+Ethernet Optical Port,Related Standards,IEEE-802.3z
+E1Port,Nominal Rate,2048Kbps±50ppm
+E1Port,Interface Code,HDB3
+E1Port,Interface Impedance,75Ω (unbalanced) or 120Ω (balanced)
+E1Port,Related Standards,"ITU-T G.703, ITU-T G.823"
+E1Port,Connector,"BNC, CC4, RJ-48C or dual-E1 socket"
+V.35 Port,Interface Rate,"N×64K(N=1  ～  31), transparent transmission"
+V.35 Port,Clock,"DCE main oscillator clock, DCE E1 line clock or DTE V.35 interface clock"
+V.35 Port,Working Mode,DCE or DTE
+V.35 Port,Connector,DB15 hole-socket
+NM/Console Port,Ethernet NM port,"RJ-45, using SNMP, 10Base-T Ethernet MDI port"
+NM/Console Port,RS232 port,Baud rate: 9600; Data bit: 8; Stop bit: 1; No parity bit; 9-pin D-type socket
+Power Supply,"H0FL-H0B:  -48 V DC (-36V~-72V)  ~220V AC (100~260V, 50/60Hz)  H0FL-2P:  -48 V DC (-36V~-72V)  ~220V AC (85-265V, 50/60Hz)  H0FL-5P:  -48 V DC (-36V~-72V)  +24 VDC (+18~+36V)  ~220V AC (100~240V, 50/60Hz)","H0FL-H0B:  -48 V DC (-36V~-72V)  ~220V AC (100~260V, 50/60Hz)  H0FL-2P:  -48 V DC (-36V~-72V)  ~220V AC (85-265V, 50/60Hz)  H0FL-5P:  -48 V DC (-36V~-72V)  +24 VDC (+18~+36V)  ~220V AC (100~240V, 50/60Hz)"
+Power Consumption,H0FL-2P:  ≦  11W (full loaded)  H0FL-5P:  ≦  12W (full loaded),H0FL-2P:  ≦  11W (full loaded)  H0FL-5P:  ≦  12W (full loaded)
+Environment,Temperature,-5  ℃  ～  45  ℃
+Environment,Relative Humidity,≦  90% (non-condensing)
+Dimension (W×H×D),H0FL-H0B:  205mm×35mm×160mm  H0FL-2P/5P:  440mm×44mm×265mm (without mounting ears)  482mm×44mm×265mm (with mounting ears),H0FL-H0B:  205mm×35mm×160mm  H0FL-2P/5P:  440mm×44mm×265mm (without mounting ears)  482mm×44mm×265mm (with mounting ears)

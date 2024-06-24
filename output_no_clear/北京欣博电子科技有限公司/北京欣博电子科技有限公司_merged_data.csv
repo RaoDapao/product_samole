@@ -1,0 +1,3 @@
+﻿company_name,title,product_url,Product Model,base_info,root_category_name,root_category_id,category_name,category_id,sub_category_name,sub_category_id,detail_category_name,detail_category_id
+北京欣博电子科技有限公司,边缘 AI 计算加速卡,http://www.symboltek.com/#/productTec/02,安睿 810-M1,一款面向专业安防领域的高性能边缘计算类产品，集成自主研发安睿 810 芯片，采用先进的封装级内存设计方案，有效带宽 21.3GByte/s，容量 2GB，7W 功耗下提供 10TOPS INT8 持续运算性能。标准 MINI PCI-E 设计，适配各类微型边缘计算设备。支持主流的深度学习推理算法，广泛适用于各种人脸识别、视频结构化、视频转码处理等机器视觉与高性能计算场景。,root,1906551877,无,0,无,0,无,0
+北京欣博电子科技有限公司,云端 AI 计算加速卡,http://www.symboltek.com/#/productTec/03,安睿 810-P20,一款面向专业安防领域的高性能云端计算类产品，集成自主研发安睿 810 芯片，采用先进的封装级内存设计方案，有效带宽 170GByte/s，容量 16GB，50W 功耗下提供 80TOPS INT8 持续运算性能。标准 PCI-E 半高半长设计，适配各型号服务器。支持主流的深度学习推理算法，广泛适用于各种人脸识别、视频结构化、视频转码处理等机器视觉与高性能计算场景。,root,1906551877,无,0,无,0,无,0
