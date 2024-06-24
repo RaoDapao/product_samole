@@ -1,0 +1,12 @@
+-> root https://newvisionu.com.cn
+  -> 首页 
+    -> 产品与技术 http://www.newvisionu.com.cn/product.html
+      -> 显示驱动芯片 http://www.newvisionu.com.cn/product-200007.html
+        -> 中小尺寸TFT-LCD http://www.newvisionu.com.cn/product-item-5.html
+        -> 大尺寸TFT-LCD http://www.newvisionu.com.cn/product-item-10.html
+        -> 大尺寸TFT-LCD产品与技术 http://www.newvisionu.com.cn/product-200015.html
+          -> 电源管理芯片 
+        -> AMOLED产品与技术 http://www.newvisionu.com.cn/product-200016.html
+        -> AMOLED http://www.newvisionu.com.cn/product-item-6.html
+      -> 电源管理芯片 http://www.newvisionu.com.cn/product-200009.html
+        -> PMIC http://www.newvisionu.com.cn/product-item-11.html

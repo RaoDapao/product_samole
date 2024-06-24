@@ -1,0 +1,54 @@
+-> root http://www.hnxkdz.com
+  -> 产品中心|河南西科电子有限公司|制冰机控 http://www.hnxkdz.com/index.php/product.html
+    -> 雪花机控制器 
+    -> 片冰机控制器 
+    -> 片冰机控制器 
+    -> 制冰机控制器 
+    -> 电扒炉控制器 
+    -> 消毒柜控制器 
+    -> 多功能温控器 
+    -> 多功能蒸柜控制器 
+    -> 通道式洗碗机控制器 
+    -> 新款通道型洗碗机控制器 
+    -> 通道型洗碗机控制器 
+    -> 罩盖式洗碗机控制器 
+    -> 饮料加热柜控制器 
+    -> 酸奶机控制器 
+    -> 蒸饭车控制器 
+    -> 烤蛋机控制器 
+  -> 首页 
+    -> 产品中心 
+      -> 制冰控制器系列 http://www.hnxkdz.com/index.php/zbkzqxl.html
+        -> 查看详情 http://www.hnxkdz.com/index.php/zbkzqxl/312.html
+      -> 制热控制器系列 http://www.hnxkdz.com/index.php/zrkzqxl.html
+        -> 查看详情_1 http://www.hnxkdz.com/index.php/zrkzqxl/336.html
+      -> 洗碗机控制器系列 http://www.hnxkdz.com/index.php/xwjkzqxl.html
+        -> 查看详情_2 http://www.hnxkdz.com/index.php/xwjkzqxl/342.html
+      -> 其它控制器系列 http://www.hnxkdz.com/index.php/qtkzqxl.html
+        -> 查看详情_3 http://www.hnxkdz.com/index.php/qtkzqxl/349.html
+    -> 新闻资讯 
+      -> 公司新闻 
+        -> 查看详情_4 http://www.hnxkdz.com/index.php/companynews/304.html
+          -> 新型制冰机控制系统 
+          -> 洗碗机控制系统 
+  -> Youarehere：Home 
+    -> AboutUs 
+      -> Productionequipment http://www.hnxkdz.com/index.php/en/productionequipment.html
+        -> Ice controller series 
+        -> Heating controller series 
+        -> Dishwasher controller series 
+        -> Other controller series 
+  -> Product|website|cms| http://www.hnxkdz.com/index.php/en/product.html
+    -> 雪片机控制器 
+    -> PBJ-C/D 
+    -> 冰机控制器 
+    -> ZBJ-358 冰机控制器 
+    -> 电烤炉控制器 
+    -> 多功能温度控制器 
+    -> 多功能蒸汽柜控制器 
+    -> 通道洗碗机控制器 
+    -> 新型通道洗碗机控制器 
+    -> TDXWJ-A/B 通道洗碗机控制器 
+    -> 盖式洗碗机控制器 
+    -> 电饭煲控制器 
+    -> 烤面包机控制器 

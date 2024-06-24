@@ -1,0 +1,21 @@
+产品网址：https://www.longsys.com/products/solid-state-drive/commercial-sata-ssd/s423-sata-ssd.html
+产品结构：root->FORESEESATASSD64GBwith176-Layer3DTLCFlash|Longsys
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|S423 SATA SSD|无|固件和硬件均为自主研发，确保产品的高兼容性和稳定性，同时满足各种定制需求。采用 Marvell 控制器和高质量 NAND Flash 颗粒，具备 LDPC 纠错技术，纠错能力是传统 BCH 技术的 2-3 倍，为数据安全保驾护航。自 2015 年以来，已广泛应用于工业控制市场，稳定性良好。支持 TRIM 功能和 S.M.A.R.T 功能。配备 176 层 3D TLC Flash，兼容 SATA III 6Gbps，顺序读写速度为 550MB/s/510MB/s，有 2.5 英寸、mSATA 和 M.2 三种规格可选。可应用于电子白板、教育 OPS、瘦客户机、平板电脑、一体机、无人机、智能相机、DVR、机器人、AV/AR 设备、自助银行终端、金融支付系统、POS 机、电信基站、工业控制、医院自助终端、商业显示设备等领域。|
+
+Product Series,PN,NAND Flash,Capacity,Type,DRAM,Operating Temperature,Sequential Read Speed*,Sequential Write Speed*,Random Read Speed (IOPS),Random Write Speed (IOPS),Mean Time Between Failures (MTBF)
+S423 SATA SSD,FS10C128G-01C7200,3D TLC,128GB,mSATA,DRAM-less,0°C~70°C,540MB/s,460MB/s,33K,49K,1.5 million hours
+S423 SATA SSD,FS10C256G-01C7200,3D TLC,256GB,mSATA,DRAM-less,0°C~70°C,540MB/s,470MB/s,41K,57K,1.5 million hours
+S423 SATA SSD,FS10C512G-01C7200,3D TLC,512GB,mSATA,DRAM-less,0°C~70°C,540MB/s,480MB/s,48K,57K,1.5 million hours
+S423 SATA SSD,FSB0C128G-01C7200,3D TLC,128GB,M.2 2280,DRAM-less,0°C~70°C,540MB/s,460MB/s,33K,49K,1.5 million hours
+S423 SATA SSD,FSB0C256G-01C7200,3D TLC,256GB,M.2 2280,DRAM-less,0°C~70°C,540MB/s,470MB/s,41K,57K,1.5 million hours
+S423 SATA SSD,FSB0C512G-01C7200,3D TLC,512GB,M.2 2280,DRAM-less,0°C~70°C,540MB/s,480MB/s,48K,57K,1.5 million hours
+S423 SATA SSD,FSB0C001T-01Y1800,3D TLC,1TB,M.2 2280,DRAM-less,0°C~70°C,540MB/s,500MB/s,42K,55K,1.5 million hours
+S423 SATA SSD,FSB0C002T-01Y1800,3D TLC,2TB,M.2 2280,DRAM-less,0°C~70°C,540MB/s,510MB/s,46K,55K,1.5 million hours
+S423 SATA SSD,FS40C128G-01C7200,3D TLC,128GB,2.5inch,DRAM-less,0°C~70°C,540MB/s,460MB/s,33K,48K,1.5 million hours
+S423 SATA SSD,FS40C256G-01C7200,3D TLC,256GB,2.5inch,DRAM-less,0°C~70°C,540MB/s,470MB/s,39.9K,57K,1.5 million hours
+S423 SATA SSD,FS40C512G-01C7200,3D TLC,512GB,2.5inch,DRAM-less,0°C~70°C,540MB/s,480MB/s,52.2K,57.6K,1.5 million hours
+S423 SATA SSD,FS40C001T-01Y1800,3D TLC,1TB,2.5inch,DRAM-less,0°C~70°C,540MB/s,490MB/s,42K,55K,1.5 million hours
+S423 SATA SSD,FS40C002T-01Y1800,3D TLC,2TB,2.5inch,DRAM-less,0°C~70°C,540MB/s,500MB/s,46K,55K,1.5 million hours

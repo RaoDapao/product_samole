@@ -1,0 +1,16 @@
+产品网址：http://en.tang-sh.com/products_detail/1138468168278024192.html
+产品结构：root->JapaneseEpsonRTCmodule+JapanesePanasonicbattery/capacitor-ShanghaiTangElectronicsCo.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Japanese Epson RTC  module + Japanese Panasonic battery/capacitor|RX8130CE、RX8111CE、RX8900CE|集成 32.768kHz 石英晶体振荡器和实时时钟芯片，具有振荡电路、时钟功能、日历功能和报警功能，无需频率调整，开机后实时显示准确时间，实现精确计时和低功耗，适用于独立模式设备|
+
+model,External dimensions  [mm],Features,Supply voltage  [V],Frequency tolerance  [x10-6],Standby current  [µA],Built-in power switching,Time stamp,memory
+RX8111CE,3.2 x 2.5 x 1.0,"I2C-Bus,  Low Power，  8 time stamps",1.1 to 5.5,A : ±11.5 / +25°C  B : ±23.0 / +25°C,0.1,√,√,√
+RX8130CE,3.2 x 2.5 x 1.0,I2C-Bus,1.1 to 5.5,B : 5±23  / +25°C,0.3,√,,√
+RX8900CE,3.2 x 2.5 x 1.0,I2C-Bus  Built-in  DTCXO，  High  Stability,1.6 to 5.5,UA : ±3.4  / -40 to +85°C  UB : ±5.0  / -40 to +85°C  UC : ±5.0  / -30 to +70°C,0.7,√,,
+RX8010SJ,7.0 x 6.0 x 2.65,Low current  consumption，  Built-in SRAM,1.1 to 5.5,B : 5±23  / +25°C,0.16,,,√
+RX-8025SA,10.1 x 7.4 x 3.3,I2C-Bus  High Stability,1.15 to 5.5,AA : 5±5.0  / +25°C  AC : 0±5.0  / +25°C,0.48,,,
+RX8111CE module  Can P2P  RX-8025SA,10.2 x 7.3 x 2.0,I2C-Bus  Low current  consumption,1.6 to 5.5,0±5.0  / +25°C,0.1,,,
+RX-8025T UB,10.1 x 7.4 x 3.2,I2C-Bus is a high-precision and high-stability  real-time clock chip  launched  to meet the special high-standard requirements of China Power Grid in smart grids.,1.6 to 5.5,±5 / +25°C,0.22,,,√
+RX-8025T UC,10.1 x 7.4 x 3.2,I2C-Bus is a high-precision and high-stability  real-time clock chip  launched  to meet the special high-standard requirements of China Power Grid in smart grids.,1.6 to 5.5,±5 / +25°C,0.22,,,√

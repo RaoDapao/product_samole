@@ -1,0 +1,42 @@
+产品网址：https://www.szhxmos.com/news/company/209.html
+产品结构：root->芯炽科技(SIMCHIP)原厂授权代理商桓信电子代理全系列产品_半导体功率器件代理商MOSMCUICDSP中低压MOS-桓信电子
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|集成电路芯片|无|包括各类模数转换器、数模转换器、运算放大器、接口芯片、时钟芯片、电源管理和射频芯片等，涵盖消费、工业和车规等不同等级，可广泛用于智能汽车、新能源、工业控制、仪器仪表、医疗电子、消费类电子等领域。此外，针对客户的特殊技术和产品需求，可提供定制化技术服务。|
+
+型号,位数,通道,速率,SNR或噪底,电源和功耗
+SC1083,8位,单通道,2MSps,48.5dBFS,AVDD=3V至5V  power：14.5mW
+SC2245,14位,单通道,10/25/40/65/80MSps,77dBFS,AVDD=3V  DRVDD=3V  power: 60mW
+SC1205,10位,双通道,20/40/65/80MSps,61.2dBFS,AVDD=1.8  DRVDD=1.8V至3.3V  power:131mW
+SC1232,12位,双通道,20/40/65/80MSps,71.2dBFS,AVDD=1.8  DRVDD=1.8V至3.3V  power: 150mW
+SC1252,14位,双通道,20/40/65/80MSps,72.7dBFS,AVDD=1.8  DRVDD=1.8V至3.3V  power: 153mW
+SC1254,14位,四通道,80/100/110MSps,71.1dBFS,AVDD=1.8  DRVDD=1.8  power: 463.5mW
+SC1225,12位,四通道,80/100/110MSps,69.8dBFS,AVDD=1.8  DRVDD=1.8V  power: 442.8mW
+SC1641,24位,三通道,4.17~940sps,4.17Hz RMS Noise:0.69uV  470Hz RMS Noise:8.89uV,AVDD=2.7至5.25V  DVDD=2.7至5.25V  Power：400uA
+SC1421,12位,单通道,117ksps,70dBFS,VDD=5V  Power: 9mA
+SC1642,24位,8通道/16通道,固定通道:125ksps  通道扫描:23.7kSPS/通道数,1.8kSPS  Noise : 2.8 μV,AVDD=4.75至5.25V  DVDD=2.7至5.25V  Power：42mW
+SC1644,24位,8通道/16通道,固定通道：1.25SPS至31.25kSPS  通道扫描：6.21kSPS/通道数(建立时间:161µs),17.5位分辨率(31.25kSPS)  24位分辨率(1.25SPS),AVDD1=3至5.5V  AVDD2=2至5.5V  OVDD=2至5.5V  Power：21mW
+SC1224,12位,单通道,10/25/40/65/80MSps,10MSPS : 71.7dBFS   80MSPS : 70.08dBFS,AVDD=3V  DRVDD=3V  power: 60mW(10MSPS)  power: 218mW(80MSPS)
+SC1281,8位,双通道,1GSPS,49.6dBFS,VA = 1.8至2V  VE = 1.8至2V  VDR = 1.8至2V  Power：1.9W
+SC1462,16位,单通道,250kSPS,85.1dBFS,VANA = 5V  VDIG = 5V  Power：70mW
+SC1467,16位,八通道,200kSPS,86dBFS(无过采样)  95dBFS(64倍过采样),AVCC = 4.75至5.25V  VDRIVE = 2.3至5.25V  Power：100mW
+
+
+型号,位数,INL,DNL,电源和功耗
+SC3548,12位,1LSB,1LSB,Power Supply 12V to 15V  Data input Level 5V  VIH 3.3V ; VIL 0.8V  Power : 2mA
+SC3542,12位,0.5LSB,0.5LSB,Power Supply 5V to 15V  Data input Level 5V  VIH 3.3V ; VIL 0.8V  Power :2mA
+SC3525,8位,0.125LSB,0.125LSB,Power Supply 5V to 15V  Data input Level 5V  VIH 3.3V ; VIL 0.8V  Power :2mA
+SC3534,10位,0.25LSB,0.25LSB,Power Supply 5V to 15V  Data input Level 5V  VIH 3.3V ; VIL 0.8V  Power : 2mA
+
+
+型号,通道,带宽,电源和功耗
+SC7501,单通道,38MHz,VDD=2.7V 至 5V  IQ=5.2mA
+SC7502,双通道,38MHz,VDD=2.7V 至 5V  IQ=10.4mA
+SC7504,四通道,38MHz,VDD=2.7V 至 5V  IQ=20.8mA
+SC7508,单通道,1GHz,VDD=+5V 至 ±5V  IQ=16mA
+SC7301,单通道,140MHz,VDD=±5 V和±15 V  IQ=18mA
+
+
+型号,分辨率,跟踪速率,精度,电源和功耗
+SC2161,10/12/14/16位,3125 rps(10位分辨率)  156.25 rps(16位分辨率),±2.5弧分,AVDD = 4.75至5.25V  DVDD = 4.75至5.25V  VDRIVE = 2.3至5.25V  Power：137.5mW

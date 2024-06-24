@@ -1,0 +1,40 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/997.html#
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|PoE Switch|TC-P3S010|8*10/100Mbps PoE Ports + 2*10/100Mbps RJ45 Uplink Ports，Comply with IEEE 802.3、IEEE 802.3u、IEEE802.3x standard，Ethernet port supports 10/100Mbps adaptive，Support POE Priority(QOS)：1>2>3>4>5>6>7>8(The port in front has higher priority)，Flow control mode: full-duplex adopts IEEE 802.3x standard, half-duplex adopts back pressure standard，Support Port Auto-flip(Auto MDI/MDIX)，Adopting store-and-forward switching mechanism，All ports support wire-speed switching，Zero configuration feature, automatically supplied to adaptive equipment，Panel indicator monitoring status and help failure analysis，With three gears and one key intelligent dip switch，support VLAN、Default、Extend three modes，Surge Protection: General 4KV（level C）: ESD 8KV air, 6KV contact（level C）|
+
+I/O Interface,Unnamed: 1
+Power,AC INPUT (100-240V)
+Ethernet,"8*10/100Mbps PoE Ports  ,  2*10/100Mbps RJ45 Uplink Ports"
+Performance,
+Bandwidth,2Gbps
+Throughput,1.488Mpps
+Packet Buffer,448Kbit
+MAC Address,2K
+Transfer Mode,Store and Forward
+Standard,
+Network Protocol,IEEE802.3 (10Base-T)  IEEE802.3u (100Base-TX)  IEEE802.3x (Flow control)
+PoE Protocol,IEEE802.3af (15.4W)  IEEE802.3at (30W)  POE port output voltage: DC 52V  POE power supply core: 1/2+; 3/6
+Industrial Standard,EMS: EN61000-4-2 (ESD)、 EN61000-4-5 (Surge)
+Network Medium,10Base-T: Cat3、4、5 or above UTP/STP(≤100m)  100Base-TX: Cat5 or above UTP/STP(≤100m)
+Function,
+LED Indicators,"PWR (Power Supply), SW(DIP), 1-10 Green (Link & Data), POE Max (Power)"
+PWR,On: Powered on  Off: Powered off
+POE LED Buttons,"Dual color light selection: default green (link data), switch yellow light (POE)"
+DIP Switch,
+VLAN,"VLAN: (Port Isolation Mode). In this mode, the PoE ports (1-8) of the switch cannot communicate with each other and can only communicate with the Uplink port (9、10). The port AI mode (PoE Watchdog) is turned on."
+Default,"Default: (Normal Mode). All Ports can communicate with each other, the transmission rate is 10/100Mbps adaptive; The port AI mode is disabled;"
+Extend,"Extend: (Link Extension Mode). 1-8 ports force 10M, link 220M. The port AI mode (PoE Watchdog) is turned on."
+Environment,
+Working Environment,"Working temperature: - 10~50 ° C  Storage temperature: - 40~70 ° C  Working Humidity :10%~90%, non-condensing  Storage Temperature:5%~95%, non-condensing"
+Physical Specifications,
+Dimension,Product Dimensions: 200*118*44mm  Package Dimensions: 245*190*60mm  Product N.W: 0.68KG  Product G.W: 0.98KG
+Packing Info,Carton Dimensions: 520*320*400mm  Packing Quantity: 20PCS  Packing Weight: 20.6KG
+Power Voltage,Input Voltage: AC 100-240 V  Power Supply: 52V /1.92A
+Power,Mainboard power: maximum 10W  POE power: maximum 90W
+
+
+Date,Title,Type
+2024-05-20,TC-P3S010 SpecF0820AT90,pdf

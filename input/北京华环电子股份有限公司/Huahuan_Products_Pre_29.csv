@@ -1,0 +1,19 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=96&ncid=175&deid=162
+产品结构：root->Huahuan_Products_PrecisionTimeProtocol(PTP)GrandmasterClock_H9MO-LMP30CompactHybridMultiplexer
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|H9MO-LMP30 Compact Hybrid Multiplexer|H9MO-LMP30|是一款小型光传输接入一体化设备，复用单元采用 SDH/MSTP 技术，具有 2 个 STM-1 光口。业务侧有 4/8 个 E1 端口、4 个 100Base-Tx 以太网端口和 30 个 PCM 语音端口。语音端口采用内部子卡结构，通过配置/更换不同的业务子卡，可提供不同数量的各种业务接口，如 FXO/FXS/热线/磁石/4 线/2 线/异步数据等。作为传输接入一体化设备，它不仅可用于简单的远程点对点光纤连接，还可通过 STM-1 光口和 SDH 传输网络组成自愈环网或链网，或实现复杂的跨网互联。|
+
+Item,Description
+STM-1 port,"2xSTM-1 port, SC/PC"
+E1 port,"4/8xE1 ports, BNC/RJ48C/CC4 connector"
+Ethernet port,"4 FE ports, RJ45 connector, 10Base-TX / 100Base-TX, Auto-negotiation"
+NMS port,"10Base-T/100Base-T , auto-negotiation"
+Low speed port,"Supply up to 30 channel voice, including FXO, FXS, Hotline, Magneto, 2/4W+E&M, RS232/422/485"
+Power,"AC: 1U device: 100~240 V, 50/60Hz  2U device: 90~264 V, 50/60Hz"
+Power,DC: 1U device: -48V (-72V~-36V)  2U device: -48 V (-72V~-36V)
+Consumption,£  50 W
+Working temperature,-10 ~ 55°C
+Humidity,0-90%RH ((Non-condensing)
+Mechanical size,1U device: 45mm x 290mm x 440mm  2U device: 90mm x 290mm x 440mm

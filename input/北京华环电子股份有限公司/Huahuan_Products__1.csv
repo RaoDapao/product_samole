@@ -1,0 +1,11 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=36
+产品结构：Location：Home->Products->EthernetAccess->Huahuan_Products_
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Media Converter|无|Huahuan Media Converter 可应用于运营商接入领域，与城域网互联，支持以太网光口（NNI 端口）和以太网电口（UNI 端口）|
+|Fiber-Optic/4G Dual-routing Protector|H16MUP-4G01|主要用于运营商接入领域，实现以太网业务的上行接入。它集成了智能光收发器和移动 4G 无线网关的特点，满足光纤接入和 4G 无线接入的要求。支持通过传统有线光纤路由和 4G 无线路由进行双备份，即当光纤故障时，现有业务将通过运营商的 4G 恢复|
+|Ethernet Aggregation|H18EDD-2402B|是北京华环电子有限公司生产的 24 端口以太网聚合和接入设备。在高性能 L2 交换服务的基础上，该设备提供了维护和部署的便利性、多业务支持、运营商级 OAM 管理、可靠的保护机制、QoS 策略、安全机制和其他服务优化措施。同时，它具有出色的可扩展性和可靠性|
+|Ethernet Demarcation device Series|H18EDD-0402P|北京华环电子有限公司的 H18EDD-0402P 系列以太网分界设备，在高性能 L2 交换服务的基础上，提供了维护和部署的便利性、多业务支持、运营商级 OAM 管理、可靠的保护机制、QoS 策略、安全机制和其他服务优化措施。同时，它具有出色的可扩展性和可靠性|
+|Ethernet Demarcation Device|H18EDD-0402C|是北京华环生产的运营商级以太网分界设备。H18EDD 系列专注于提供商的城域以太网/IP/MPLS 传输网络的边缘。它们非常适合为关键客户提供具有端到端保证可用性、可靠性和 QoS 的 L2VPN、L3VPN 服务|
+|Ethernet Demarcation Device|H18EDD-0204P-8E1|在高性能 L2 交换服务的基础上，提供了维护和部署的便利性、多业务支持、运营商级 OAM 管理、可靠的保护机制、QoS 策略、安全机制和其他服务优化措施。同时，它具有出色的可扩展性和可靠性|

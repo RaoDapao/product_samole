@@ -1,0 +1,11 @@
+产品网址：http://www.macmicst.com/index.php/product/release_info/40.html
+产品结构：root->产品中心-江苏宏微科技股份有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|GTU-快速型 IGBT 分立器件|无|采用 Trench+Fieldstop 技术；软开通特性，开通 di/dt 小，EMI 低；关断速度快，关断损耗小；关断拖尾电流小，软关断特性；正温度系数，适合并联；高的短路电流能力(6us 以上)；开关速度快，开关损耗小；T Vj max 达 175℃|
+
+Type,V  CES  (V),I  C nom  (A),V  CE (sat)  (V),P  tot  (W),E  off  (mJ),R  thJC  (℃/W),Packages,PDF资料
+ALL  MM25GTU120B  MM40GTU120B,ALL  1200,ALL  25  40,ALL  2.00  2.15,ALL  312  415,ALL  1.80  1.9,ALL  0.40  0.3,ALL  TO-247,
+MM25GTU120B,1200,25,2.00,312,1.80,0.40,TO-247,预览  下载
+MM40GTU120B,1200,40,2.15,415,1.9,0.3,TO-247,预览  下载

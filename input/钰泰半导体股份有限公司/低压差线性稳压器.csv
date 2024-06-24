@@ -1,0 +1,33 @@
+产品网址：https://www.eta-semi.com/product-cat/%e4%bd%8e%e5%8e%8b%e5%b7%ae%e7%ba%bf%e6%80%a7%e7%a8%b3%e5%8e%8b%e5%99%a8/%e4%bd%8e%e5%8e%8b%e5%b7%ae%e7%ba%bf%e6%80%a7%e7%a8%b3%e5%8e%8b%e5%99%a8-%e4%bd%8e%e5%8e%8b%e5%b7%ae%e7%ba%bf%e6%80%a7%e7%a8%b3%e5%8e%8b%e5%99%a8
+产品结构：首页->低压差线性稳压器->低压差线性稳压器
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|低压差线性稳压器|无|无|
+
+Description,Architecture,Vin Min(V),Vin Max(V),Vout Min(V),Vout Max(V)
+12V Power Switch+LDO,Linear,5.0,16.0,1.1,16
+Dual 300mA LDO,Linear,1.6,6.0,0.8,3.95
+30V Power Switch+LDO,Linear,3.8,30.0,1.1,30
+24V Power Switch+LDO,Linear,3.8,24.0,1.1,12
+24V Power Switch+LDO,Linear,3.8,24.0,1.1,12
+20V LDO,Linear,2.5,20.0,1.2,5
+20V LDO,Linear,2.5,20.0,1.2,5
+12V Power Switch+LDO,Linear,5.0,16.0,1.1,16
+12V Power Switch+LDO,Linear,5.0,16.0,1.1,16
+12V Power Switch+LDO,Linear,5.0,16.0,1.1,16
+"40V,150mA LDO",Linear,6.0,40.0,1.5,24
+"40V,150mA LDO",Linear,6.0,40.0,3.3/5,3.3/5
+"Ultra-low Iq, 300mA LDO",Linear,1.8,6.5,1.2,3.6
+"Ultra-low Iq, 150mA LDO",Linear,2.2,7.0,1.2,3.6
+1A LDO,Linear,1.8,5.5,0.8,5
+"Low noise, 350mA LDO",Linear,2.7,5.5,1.2,5.5
+"High PSRR, 500mA LDO",Linear,1.8,5.5,1.1,3.6
+300mA LDO,Linear,1.6,6.0,0.8,3.95
+300mA LDO,Linear,2.7,5.5,1.2,5.5
+300mA LDO,Linear,2.7,5.5,1.8,3.3
+500mA LDO,Linear,2.0,6.0,0.8,6
+45V LDO,Linear,3.0,45.0,1.2,20
+45V LDO,Linear,3.0,45.0,1.2,20
+45V LDO,Linear,3.0,45.0,1.2,20
+300mA LDO,Linear,1.6,6.0,0.8,3.95

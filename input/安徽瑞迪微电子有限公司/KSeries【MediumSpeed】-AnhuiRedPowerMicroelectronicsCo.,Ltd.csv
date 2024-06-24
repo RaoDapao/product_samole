@@ -1,0 +1,10 @@
+产品网址：http://en.redpowersemi.com/products/igbt/99.html
+产品结构：root->KSeries【MediumSpeed】-AnhuiRedPowerMicroelectronicsCo.,Ltd
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|IGBT Module|K Series【Medium Speed】|Trench FS 技术，高 RBSOA 能力，低开关损耗，低 VCEsat，典型应用于电机驱动器、UPS 系统、逆变器|
+
+Part No.,Housing,Configuration,Voltage Class,Technology,Ic(com),VCE(sat),Dimensions
+RG200B12KM4,62mm,2 PACK,1200 V,Trench-FS,200A,1.65,106.4*61.4*30.5mm
+RG300B12KM4,62mm,2 PACK,1200 V,Trench-FS,300 A,1.65,106.4*61.4*30.5mm

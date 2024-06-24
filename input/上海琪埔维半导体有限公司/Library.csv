@@ -1,0 +1,28 @@
+产品网址：http://www.chipways.com/product_MCU_XL6600-.html
+产品结构：XL6600D->SCH&PCB->Library
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|车规级 MCU|XL6600 系列|是一颗满足 AEC-Q100 和 ISO26262 汽车安全 ASIL B 的车用微控制器芯片。基于 32 位 ARM®Cortex-M3 内核，专注于低功耗和高性能，针对成本敏感型应用进行了优化。提供具有可扩展性的解决方案，适合车身电子的广泛应用。支持 MDK 等开发工具，提供 BLDC 电机控制等参考设计，帮助客户快速入手。具有应用广泛、低功耗、高性能、高安全性和可靠性等特性，满足严格的汽车测试 AEC-Q100 可靠性标准要求和 ISO26262 汽车安全 ASIL B 标准要求，支持 48/64/80 LQFP 三种封装形式。应用目标包括车身控制（BCM）、车内空调控制（HVAC）、BLDC 电机控制、车窗/天窗/车门、座椅/后视镜/雨刮器、后备箱/安全带控制、其他通用应用等|
+
+
+
+
+名称/描述
+Chipways XL6600 Flyer
+
+
+名称/描述
+L6600-2 Series_Datasheet_Rev15
+
+
+名称/描述
+Reference Manual
+
+
+名称/描述
+Chipways Code Editor 使用手册  XL6600D _Hardware_Development_Guide_V1.1  XL6600D Freedemo board user manual
+
+
+名称/描述
+XL6600 Flash加解密及保护  C2E如何生成和调用静态库  XL6600系统时钟配置  XL6600如何读取flash数据  Flash模拟eeprom例程使用说明  C2E Hands On

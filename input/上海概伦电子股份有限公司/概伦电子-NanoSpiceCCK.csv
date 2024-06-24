@@ -1,0 +1,15 @@
+产品网址：https://www.primarius-tech.com/products/analog_design_eda/NanoSpice-CCK.html
+产品结构：root->概伦电子-NanoSpiceCCK
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|SPICE 模型|无|基带建模、射频建模、自动化提取、验证评估|
+|PDK|无|PCell 开发、PDK 验证|
+|标准单元库|无|特征化、验证|
+|电路设计平台|NanoDesigner SE、NanoDesigner LS、NanoDesigner iV、NanoDesigner Optimizer|原理图设计、版图编辑、交互式物理验证、设计优化|
+|电路仿真|NanoSpice、NanoSpice X、NanoSpice Giga、NanoSpice Pro、NanoSpice Pro X、NanoSpice MS、NanoWave|SPICE 仿真、FastSPICE 仿真、混合信号仿真、波形查看分析|
+|电路分析|NanoSpice CCK、NanoYield、NanoSpice SI、PathInspector、PTM、RNi、ESDi|动态和静态电路检查、良率分析、信号完整性分析、路径分析、功率及电源芯片设计验证、电源网络分布分析、ESD 验证|
+|参数化测试|FS-Pro、FS-MEMS|半导体参数测试|
+|噪声测试|9812DX、9812E、9813DXC、9812AC|低频噪声测试、动态交流噪声测试|
+|综合量测|ATS|自动量测方案|
+|一站式技术开发|无|晶圆测试、SPICE 建模、测试芯片设计、新器件、PDK 开发、IP 开发|

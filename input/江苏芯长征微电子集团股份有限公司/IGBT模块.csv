@@ -1,0 +1,23 @@
+产品网址：https://www.marching-power.com/igbtmk
+产品结构：首页->产品中心->硅基芯片及模组系列->IGBT模块
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|IGBT 模块|无|无|
+
+Part Number,Vce(V),Ic(A)@100°C,Vcesat(V)@25°C typ,Eon(mJ),Eoff(mJ),Package,Datasheet
+MPF3L450R07XNF X1,650,450,1.42,7.3,31.6,Flow 1,Download
+MPF3L450R07XNF X2,650,450,1.6,4.7,2.6,Flow 2,Download
+MPFS400R08HBF,750,400,1.45,14.5,31.7,HP1 DC6 Pinfin,Download
+MPFS400R08HBFF,750,400,1.43,6.4,10.48,HP1 DC2 平底板,Download
+MPFS400R08HBFM,750,400,1.43,6.4,10.48,HP1 DC2 Pinfin,Download
+MPFS600R08HBF,750,600,1.4,8.4,56.0,HP1 DC6 Pinfin,Download
+MPFS600R08PBF,750,600,1.45,16.8,19.4,HybridPACK Drive,Download
+MPFS660R08PBFF,750,660,1.14,15.6,17.4,HybridPACK Drive,Download
+MPFS820R08PBFH,750,820,1.37,12.0,19.0,HybridPACK Drive,Download
+MPFS820R08PBF,750,820,1.37,15.6,17.4,HybridPACK Drive,Download
+MPFS950R08PBF,750,950,1.45,12.0,19.0,HybridPACK Drive,Download
+MPFF50R12RB,1200,50,1.9,3.58,1.7,34mm module,Download
+MPFF75R12RB,1200,75,2.0,5.4,4.1,34mm module,Download
+MPFF100R12RB,1200,100,1.95,6.87,5.44,34mm module,Download
+MPFF150R12KB,1200,150,1.81,9.4,7.39,62mm module,Download

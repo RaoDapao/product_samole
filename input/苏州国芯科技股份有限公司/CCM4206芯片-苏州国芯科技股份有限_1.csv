@@ -1,0 +1,6 @@
+产品网址：https://www.china-core.com/products_show.php?id=9&lm=16#
+产品结构：root->CCM4206芯片-苏州国芯科技股份有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|CCM4206 芯片|无|采用分立的 Cortex-M4 与 C*Core C0 内核进行设计，具有极低功耗、高性能和多功能等特点，主要应用于指纹算法和通用 MCU 相关产品，应用领域包括指纹模组、智能门锁等。具有 32 位高性能核 Cortex-M4F，工作频率 120MHz，支持 DSP 指令、单精度浮点单元(FPU)、存储器保护单元 MPU、16KB Cache、外部总线支持 8bit/16bit/32bit 访问、硬件安全访问控制外围组件访问受控、嵌套矢量中断控制器(NVIC)等特性。片上存储资源包括 224KB SRAM+32KB TCM SRAM、24KB ROM、512KB EFLASH。内部模块包括 DMA/EDMA、2 个定时器（PIT32bit）、看门狗（WDT）、计时器（TC）、实时时钟（RTC）等。接口特性包括 EPORT 接口、USB OTG 接口、SPI 接口、SSI 接口、I2C 接口、UART 接口（SCI）、ISO7816 接口、AD 转换接口、DA 转换接口、PWM 接口、4 路可独立配置引脚、TSI 接口等。其他特性包括每一颗产品具有唯一序列号、主电输入电压 1.62V~5.5V、支持内部上电复位和外部复位。|

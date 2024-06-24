@@ -1,0 +1,21 @@
+产品网址：https://www.len-technology.com/products/linear-regulators/linear-regulators-details/ln20x42
+产品结构：root->LN20X42Q1-
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|线性稳压器|LN20X42Q1|车规级，42V，200mA，低静态电流|
+
+正常工作电压Min (V),2.75
+正常工作电压Max (V),42
+输出电压范围(V),3.3/5/0.6～24可调
+输出电流 (mA),Up to 200
+工作静态电流 (uA),5.5
+关断静态电流 (uA),0.8
+PSRR,70dB@100Hz
+Dropout,260mV@200mA
+其它功能,Enable pin；  Power Good Indicator with adjustable delay；  Internal Soft Start;
+完整保护,Over current protection；  Over temperature shuntdown and recovery；
+封装,MSOP-EP8
+产品等级,AEC-Q100 Grade1
+工作结温,-40 to 150
+功能安全类别,Functional Safety Capable

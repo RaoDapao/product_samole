@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/en/products/analog_design_eda/NanoDesigner-Optimizeren.html
+产品结构：root->PRIMARIUS-NanoDesignerOptimizer
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|NanoDesigner Optimizer|无|NanoDesigner Optimizer 是集成在 NanoDesigner 全定制 IC 设计平台中的自动电路设计优化工具，帮助工程师优化电路性能，提高设计效率和准确性。基于 AI 算法和遗传进化算法优化器，自动调整器件参数、设计变量参数和其他 DUT 参数，通过连续模拟迭代和杂交变异自动生成满足规格和约束要求的最优实例组合。|

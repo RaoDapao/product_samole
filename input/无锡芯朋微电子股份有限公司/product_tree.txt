@@ -1,0 +1,13 @@
+-> root https://www.chipown.com.cn
+  -> 首页 
+    -> 产品 
+      -> HV产品线 https://www.chipown.com.cn/cn/pro.html
+      -> LV产品线 https://www.chipown.com.cn/cn/pro/170.html
+      -> Driver产品线 https://www.chipown.com.cn/cn/pro/318.html
+      -> DigtalPMIC产品线 https://www.chipown.com.cn/cn/pro/350.html
+      -> PowerDevice产品线 https://www.chipown.com.cn/cn/pro/347.html
+      -> PowerModule产品线 https://www.chipown.com.cn/cn/pro/348.html
+      -> 热门产品 https://www.chipown.com.cn/cn/rmpro/172.html
+        -> 二十款充电器&适配器电源经典芯片及方案 
+        -> 十八款工业电源经典芯片及方案 
+        -> 十二款智能家电电源经典芯片及方案 

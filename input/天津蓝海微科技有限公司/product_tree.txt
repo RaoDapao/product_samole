@@ -1,0 +1,34 @@
+-> root http://www.microscapes.com.cn
+  -> Products-Products http://www.microscapes.com.cn/services.html
+    -> 寄生参数提取网表中器件一致性比较工具 
+    -> PDK 图形化 QA 验证软件 
+    -> RCX Runset 图形化 QA 验证软件 
+    -> 版图验证工具规则文件的自动生成与自动验证软件 
+    -> Drc Code 调试分析工具 
+    -> Memory Compiler 软件 
+    -> ESD/Lach up 规则的版图自动检查工具 
+    -> 版图保护电路的自动布线工具及自动检测工具 
+    -> IP 数据管理工具 
+    -> 版图显示工具（VGDS）和 DRC 错误分析工具（VGE） 
+    -> Wafer 上精确计算 Die 个数工具 
+    -> 晶圆级 3D 堆叠/2.5D 堆叠中网表合并工具 
+  -> Products-Products_1 http://www.microscapes.com.cn/training_mainpage.html
+  -> SiteMap-SiteMap|IT-FreeWebsiteTemplatefromTemplates.com http://www.microscapes.com.cn/product7.html
+  -> SiteMap-SiteMap|IT-FreeWebsiteTemplatefromTemplates.com_1 http://www.microscapes.com.cn/product14.html
+  -> SiteMap-SiteMap http://www.microscapes.com.cn/product2.html
+  -> SiteMap-SiteMap_1 http://www.microscapes.com.cn/product3.html
+  -> SiteMap-SiteMap_2 http://www.microscapes.com.cn/product12.html
+  -> SiteMap-SiteMap_3 http://www.microscapes.com.cn/product11.html
+  -> SiteMap-SiteMap|IT-FreeWebsiteTemplatefromTemplates.com_2 http://www.microscapes.com.cn/product4.html
+  -> SiteMap-SiteMap|IT-FreeWebsiteTemplatefromTemplates.com_3 http://www.microscapes.com.cn/product5.html
+  -> SiteMap-SiteMap|IT-FreeWebsiteTemplatefromTemplates.com_4 http://www.microscapes.com.cn/product10.html
+  -> SiteMap-SiteMap|IT-FreeWebsiteTemplatefromTemplates.com_5 http://www.microscapes.com.cn/product13.html
+    -> vgds 工具 
+    -> vge 工具 
+  -> SiteMap-SiteMap|IT-FreeWebsiteTemplatefromTemplates.com_6 http://www.microscapes.com.cn/product8.html
+  -> SiteMap-SiteMap|IT-FreeWebsiteTemplatefromTemplates.com_7 http://www.microscapes.com.cn/product15.html
+  -> SiteMap-SiteMap_4 http://www.microscapes.com.cn/product1.html#
+    -> 产品型号 
+    -> 功能描述 
+  -> SiteMap-SiteMap|IT-FreeWebsiteTemplatefromTemplates.com_8 http://www.microscapes.com.cn/product5.html#
+  -> SiteMap-SiteMap|IT-FreeWebsiteTemplatefromTemplates.com_9 http://www.microscapes.com.cn/product10.html#

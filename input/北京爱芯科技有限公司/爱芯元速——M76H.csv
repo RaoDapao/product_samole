@@ -1,0 +1,11 @@
+产品网址：https://www.axera-tech.com/Product/108.html
+产品结构：首页->产品中心->爱芯元速——M76H
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|爱芯元速——M76H|无|单 SoC 全时行泊一体方案。产品亮点：<br>·混合精度，业界领先 Transformer/BEV 性能。支持低位宽混合精度，高效能张量核针对 CNN 优化，加速 Transformer 以及 BEV 应用，灵活向量核引针对 Transformer 优化；<br>·高效率、扩展性强。具备灵活的编程性，辅以 SDMA 和异构多核硬件协同，丰富的 CV 算子做前后处理，全面提升感知性能。丰富的算力支持，8 核高性能 CPU，双核高性能视觉 DSP，支持 VSLAM 和雷达数据处理，超强的视频接入和处理能力，高效的内存带宽，强大的 AI 计算能力，同时处理多路大分辨率的视频流；<br>·超低功耗，降本增效。超低功耗国产行泊一体域控平台，轻松实现被动散热，有效降低系统成本，支持应用于全时行泊一体系统的完整解决方案，实现高速 NOA，城市 ICA 以及自动泊车，记忆泊车等功能。|
+
+AI-ISP,"4x8MP@30fps,AI-HDR/3DNR/RLTM,动态补偿",CPU,"Octa A55 1.6GHz,35KDMIPS"
+CV-Engine,"光流/金字塔/Warp,丰富的IVE算子",DSP,"Dual VQ7,FFT/VSLAM support"
+编解码,"H.264/H.265,编解码 4x8MP@30fps",硬件接口,"4x4Lane MIPI CSI Rx,支持16路摄像头输入,DSI/CSI Tx,RGMII x2"
+存储,"64bit 34.1GB/s LPDDR4/4x,eMMC,Nand/Nor Flash,SD Card",封装大小,23x23 mm

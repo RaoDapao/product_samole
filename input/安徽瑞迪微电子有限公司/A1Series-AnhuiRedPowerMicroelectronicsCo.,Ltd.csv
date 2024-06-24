@@ -1,0 +1,10 @@
+产品网址：http://en.redpowersemi.com/products/igbt/67.html
+产品结构：root->A1Series-AnhuiRedPowerMicroelectronicsCo.,Ltd
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|IGBT Module|A1 Series|采用 Trench FS 技术，具有高 RBSOA 能力、低开关损耗、低 VCEsat，典型应用于电机驱动器、（混合动力）电动汽车、商用农业车辆|
+
+Part No.,Housing,Configuration,Voltage Class,Technology,Ic(com),VCE(sat),Dimensions
+RG400F07A1M4,HP1,Sixpack,650 V,Trench-FS,400 A,1.55,140*112.5*17mm
+RG400F08A1M4Z,HP1,Sixpack,750 V,Trench-FS,300 A,1.7,140*112.5*17mm

@@ -1,0 +1,92 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/1114.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|2MP Fixed IR Wi-Fi Bullet Camera|TC-C32QN|·Metal+Plastic Housing<br>·Up to 1920x1080@20fps<br>·S+265/H.265/H.264<br>·Smart IR, IR Range: 50m<br>·Built-in Mic & Speaker<br>·Operating Conditions -30°~60°, 0~95% RH<br>·IP67|
+
+Camera,Unnamed: 1
+Image Sensor,"1/2.9""CMOS"
+Min. Illumination,"Color:0.02Lux@(F1.6,AGC ON),B/W:0Lux with IR"
+Shutter Time,1s~1/100000s
+Day&Night,IR-cut filter with auto switch (ICR)
+WDR,DWDR
+S/N,>40dB
+Angle Adjustment,0~360°(P);0~75°(T);0~360°(R)
+Lens,
+Lens Type,Fixed
+Focal Length,4mm
+Lens Mount,M12
+Aperture Range,"F1.6,fixed focal lens"
+Field of View,83.8°;46.3°;95.6°
+DORI Distance,Detect:57.14m  Observe:22.67m  Recognize:11.43m  Identify:5.71m
+Illuminator,
+IR LEDs,2
+IR Distance,30m
+Wavelength,850nm
+White LEDs,2
+Whitelight Distance,15m
+Compression Standard,
+Video Compression,S+265/H.265/H.264B/H.264M/H.264H
+Video Bit Rate,32k~4Mbps
+Audio Compression,G.711A/G.711U
+Audio Sampling Rate,8kHz/16kHz
+Image,
+Max. Resolution,1920x1080@20fps
+Main Stream,"PAL:  20fps(1920x1080,1280x720,640x480,704x576)  NTSC:  20fps(1920x1080,1280x720,640x480,704x480)"
+Sub Stream,"PAL:20fps(704x576,704x288,640x360,352x288)  NTSC:20fps(704x480,704x240,640x360,352x240)"
+Third Stream,
+BLC,Yes
+HLC,Yes
+AGC,Yes
+3D DNR,Yes
+White Balance,Auto/Semi-Auto/Manual/Sunshine/Nature Light/Warmlight Lamp/  Daylight Lamp/Filament Lamp/Lock White Balance
+ROI,
+Corridor mode,
+EIS,
+OSD,"Overlay of additional characters in one area, 1 line, up to 48 characters or 16 Chinese characters;16*16/32*32"
+Picture Overlay,
+Privacy Mask,4 black static areas
+Defog,Yes
+Feature,
+Alarm Trigger,Voltage Alarm;Disk Full;Disk R/W Error;IP Address Conflict
+Video Analytics,
+Rules of behavior analyse in 1 scene,
+Early Warning(EW),
+Auto-Tracking,
+Face Mode,
+Face Detection Performance,
+Linkage Method,trigger sound;trigger recording;trigger capture;notify surveillance center
+Network,
+ANR,Yes
+Protocols,HTTP;TCP/IP;UDP;ICMP;DHCP;DNS;NTP;IPv4;SSH;Unicast;FTP
+System Compatibility,P2P;onvif;CGI
+Remote Connection,≤  2
+Client,Easy7 Smart Client
+Moblie Client,EasyLive Plus
+Web,IE10+;Firefox52+;Edge89+;Safari11+;Chrome57+
+Interface,
+Communication Interface,"1*RJ-45,10/100 Mbps self-adaptive Ethernet port"
+Audio I/O,
+Alarm I/O,
+Built-In Mic,Yes
+Built-In Speaker,Yes
+Reset Button,Yes
+On-board storage,"Support microSD/microSDHC/microSDXC card, up to 512 GB"
+Additional interfaces,
+General,
+Web Client Language,3languages  Simple Chinese/English/Vietnamese
+Operating Temperature,-30℃~60℃(No turning on the light)
+Operating Humidity,Humidity 95% or less (no condensation)
+Storage Temperature,-30℃~60℃
+Storage Humidity,Humidity 95% or less (no condensation)
+Power Supply,DC12V±25%
+Protection,Surge2000V;ESD6000V;IP67
+Boundary Dimensions,164(L)66W)73(H)mm
+Package Dimensions,215(L)95(W)120(H)mm
+GrossWeight,0.46kg
+NetWeight,0.26kg
+
+
+Date,Title,Type
+2024-05-08,TC-C32QN SpecI5WWIFIEu4mmV4.0,pdf

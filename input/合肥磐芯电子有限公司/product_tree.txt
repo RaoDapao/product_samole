@@ -1,0 +1,43 @@
+-> root http://masses-chip.com
+  -> 产品中心| http://www.masses-chip.com/c/cpzx
+    -> M8P6271 
+    -> M8P615 
+    -> M8P626 
+    -> M8P632 
+    -> M8P634 
+    -> M8P625 
+    -> M8P515 
+    -> M8P613 
+    -> M8P516 
+    -> M9F680 
+    -> M9F951 
+    -> M8P830 
+    -> M8R612 
+    -> M8R512 
+    -> M8R513 
+    -> M6R61 
+    -> M8R62 
+    -> M8R621 
+    -> M8R622 
+    -> M8R82 
+  -> OTPMCU系列| http://www.masses-chip.com/c/cpzx/cpzx-otp
+    -> OTP I/O 型 MCU 
+    -> OTP ADC 型 MCU 
+    -> OTP TK 型 MCU 
+    -> OTP LCD 型 MCU 
+    -> MTP ADC 型 MCU 
+    -> MTP TK 型 MCU 
+    -> MTP LCD 型 MCU 
+    -> FLASH TK 型 MCU 
+    -> FLASH USB 型 MCU 
+  -> OTPI-O型MCU| http://www.masses-chip.com/c/cpzx/cpzx-otp/cpzx-otp-io-mcu
+  -> OTPADC型MCU| http://www.masses-chip.com/c/cpzx/cpzx-otp/cpzx-otp-adc-mcu
+  -> OTPTK型MCU| http://www.masses-chip.com/c/cpzx/cpzx-otp/cpzx-otp-tk-mcu
+  -> OTPLCD型MCU| http://www.masses-chip.com/c/cpzx/cpzx-otp/cpzx-otp-lcd-mcu
+  -> MTPMCU系列| http://www.masses-chip.com/c/cpzx/cpzx-mtp
+  -> MTPADC型MCU| http://www.masses-chip.com/c/cpzx/cpzx-mtp/cpzx-mtp-adc-mcu
+  -> MTPTK型MCU| http://www.masses-chip.com/c/cpzx/cpzx-mtp/cpzx-mtp-tk-mcu
+  -> MTPLCD型MCU| http://www.masses-chip.com/c/cpzx/cpzx-mtp/cpzx-mtp-lcd-mcu
+  -> FLASHMCU系列| http://www.masses-chip.com/c/cpzx/cpzx-flash
+  -> FLASHTK型MCU| http://www.masses-chip.com/c/cpzx/cpzx-flash/cpzx-flash-tk-mcu
+  -> FLASHUSB型MCU| http://www.masses-chip.com/c/cpzx/cpzx-flash/cpzx-flash-usb-mcu

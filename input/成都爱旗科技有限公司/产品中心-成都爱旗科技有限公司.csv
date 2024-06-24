@@ -1,0 +1,13 @@
+产品网址：https://www.aichtech.com/zh-hans/Product/Index.html
+产品结构：root->产品中心-成都爱旗科技有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|无线联接（AIoT）|AiW9651、AiW9761、AiW4211L、AiW4211、AiW4201|广泛地应用于车辆监控、遥控、遥测、小型无线网络、无线抄表、门禁系统、小区传呼、工业数据采集系统、无线标签、身份识别、非接触 RF 智能卡、小型无线数据终端、安全防火系统、无线遥控系统、生物信号采集系统、水文气象监控、机器人控制、无线数据 TTL 通信、数字音频、数字图像传输等领域|
+
+型号,接口,功能
+AiW9651,USB/SDIO,2.4GHz BLE + SLE 芯片
+AiW9761,USB/SDIO,2.4GHz WiFi6 + BLE + SLE 芯片
+AiW4211L,SDIO/SPI,2.4GHz WiFi4 芯片
+AiW4211,UART,2.4GHz WiFi4 芯片
+AiW4201,SDIO,2.4GHz WiFi4 芯片

@@ -1,0 +1,6 @@
+产品网址：https://www.hed.com.cn/products_mcu/229_230_231_232.html
+产品结构：root
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|CIU32F003|无|48MHz Cortex-M0+ 32-bit CPU，支持单周期乘法指令，多达 24KB Flash，3KB SRAM，灵活的功耗管理模式，电源监测，时钟源，多达 18 个 I/O，定时器，IRTIM 支持定时器和 UART 互联用于红外控制，通信接口，12 位 1Msps 高精度 SAR ADC，2 个低功耗比较器，硬件 CRC-16/32 模块，96-bit unique ID，支持 SWD 调试，工作条件：1.8V~5.5V，-40°C~85°C，封装形式：TSSOP20、QFN20、SOP16、SOP8|

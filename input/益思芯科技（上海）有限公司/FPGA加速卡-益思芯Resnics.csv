@@ -1,0 +1,6 @@
+产品网址：http://www.resnics.com/product/fpga
+产品结构：root->FPGA加速卡-益思芯Resnics
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Stargate-F1000 加速卡|无|是一款基于 XILINX Zynq UltraScale+ ZU19EG FPGA 的可编程智能加速卡，具有可定制性、低延迟和高性能功耗比的特点。具有 2 个 100G 网络接口、4 个 PCIEx4 SlimSAS 存储接口，加之 ZU19EG FPGA 集成的 523K 可编程逻辑单元和 4 个 1.5G ARM A53 CPU 核，是服务器计算、网络、存储业务首选的加速方案。|

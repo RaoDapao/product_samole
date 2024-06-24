@@ -1,0 +1,28 @@
+产品网址：https://www.listenai.com/products/chips/csk6
+产品结构：root->聆思
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|CSK6 系列芯片|CSK6 系|新一代多核异构 AI SoC 芯片，具有三核异构架构，包括 ARM Star MCU、Luna NPU 和 HIFI4 DSP，支持音视频 AI 应用，具备大容量存储资源、完整的音视频接口、丰富的外设接口，采用 CNN 卷积神经网络算法，支持语音交互、通话降噪、图像识别等 AI 能力|
+
+
+
+
+MCU,ARM Star 300MHz,ARM Star 300MHz.1,ARM Star 300MHz.2,ARM Star 300MHz.3
+DSP,HiFi4 300MHz,HiFi4 300MHz,HiFi4 300MHz,HiFi4 300MHz
+NPU,Luna 128GOPS,Luna 128GOPS,Luna 128GOPS,Luna 128GOPS
+SRAM,1MB,1MB,1MB,1MB
+PSRAM,8MB,8MB,8MB,4MB
+Flash,8MB,External,External,External
+Audio Codec ADC,4,4,2,2
+Audio Codec DAC,2,2,2 (single-ended),2 (single-ended)
+DVP,1,1,1,1
+GPIO,32,26,33,33
+GPADC,3 channel,3 channel,4 channel,4 channel
+Uart,4,4,4,4
+SPI,2,2,2,2
+SDIO,1,1,1,1
+I2C,2,2,2,2
+I2S,3,3,3,3
+Touch,1,1,1,1
+适用场景,适用于语音、图像、视觉等综合全场景,适用于语音、音频场景，如空调、风扇、会议机等,适用于图像、视觉场景，如扫描笔、云台等,适用于降噪、视觉场景，如对讲机、云台等

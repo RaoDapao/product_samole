@@ -1,0 +1,25 @@
+产品网址：https://www.len-technology.com/products/dc-dc
+产品结构：root->开关稳压器
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|开关稳压器|无|提供不同耐压、不同电流的产品矩阵|
+
+产品型号,输入电压Min (V),输入电压Max (V),输出电压Min (V),输出电压Max (V),输出电流 (A),开关频率 (KHz),展频,工作模式,输出电压状态指示,使能,封装,产品等级,工作结温,功能安全类别,状态
+LN10046FSQ1LQR,3.5,36,1,Vin,6.0,200 to 2500,有,FPWM,有,有,LQFN4035W-14,车规级,-40 to 150,Functional Safety Capable,已量产
+LN10046ASQ1LQR,3.5,36,1,Vin,6.0,200 to 2500,有,PFM,有,有,LQFN4035W-14,车规级,-40 to 150,Functional Safety Capable,已量产
+LN10543Q1-EFR,3.5,36,1,Vin,3.0,2100,有,FPWM,无,有,SOIC-EP8,车规级,-40 to 150,Functional Safety Capable,已量产
+LN10543Q1SEFR,3.5,36,1,Vin,3.0,2100,无,FPWM,无,有,SOIC-EP8,车规级,-40 to 150,Functional Safety Capable,已量产
+LN10143Q1SEFR,3.5,36,1,Vin,3.0,400,有,FPWM,无,有,SOIC-EP8,车规级,-40 to 150,Functional Safety Capable,已量产
+LN10143Q1-EFR,3.5,36,1,Vin,3.0,400,无,FPWM,无,有,SOIC-EP8,车规级,-40 to 150,Functional Safety Capable,已量产
+LN10043Q1SEFR,3.5,36,1,Vin,3.0,400,有,PFM,无,有,SOIC-EP8,车规级,-40 to 150,Functional Safety Capable,已量产
+LN10043Q1-EFR,3.5,36,1,Vin,3.0,400,无,PFM,无,有,SOIC-EP8,车规级,-40 to 150,Functional Safety Capable,已量产
+LN10542Q1SCNR,3.5,36,1,Vin,2.0,2100,有,FPWM,有,有,LQFN2030W-4,车规级,-40 to 150,Functional Safety Capable,已量产
+LN10042Q1SCNR,3.5,36,1,Vin,2.0,400,有,PFM,有,有,LQFN2030W-4,车规级,-40 to 150,Functional Safety Capable,已量产
+LN10441Q1SCNR,3.5,36,1,Vin,0.8,2100,有,PFM,有,有,LQFN2030W-4,车规级,-40 to 150,Functional Safety Capable,已量产
+LN10041Q1SCNR,3.5,36,1,Vin,0.8,400,有,PFM,有,有,LQFN2030W-4,车规级,-40 to 150,Functional Safety Capable,已量产
+LN10063Q1-AKR,3.5,60,1,Vin,3.0,200 to 2500,无,PFM,有,有,TSSOP-EP16,车规级,-40 to 150,Functional Safety Capable,已量产
+LN10163Q1-AKR,3.5,60,1,Vin,3.0,200 to 2500,有,PFM,有,有,TSSOP-EP16,车规级,-40 to 150,Functional Safety Capable,已量产
+LN10261Q1-11-EFR,3.5,60,1,Vin,1.5,200 to 2500,无,PFM,无,有,SOIC-EP8,车规级,-40 to 150,Functional Safety Capable,已量产
+LN10161Q1-12-EFR,3.5,60,5 (固定),5 (固定),1.5,400,无,PFM,有,有,SOIC-EP8,车规级,-40 to 150,Functional Safety Capable,已量产
+LN10161Q1-11-EFR,3.5,60,3.3 (固定),3.3 (固定),1.5,400,无,PFM,有,有,SOIC-EP8,车规级,-40 to 150,Functional Safety Capable,已量产

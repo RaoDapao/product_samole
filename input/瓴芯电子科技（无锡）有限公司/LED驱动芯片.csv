@@ -1,0 +1,14 @@
+产品网址：https://www.len-technology.com/products/led
+产品结构：root->LED驱动芯片
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|LED 驱动芯片|无|具有输入耐压高，瞬态响应快的技术优势|
+
+产品型号,输入电压Min (V),输入电压Max (V),输出电流Max (A),开关频率 (KHz),软启动时间 (mS),展频,调光方式,报错功能,使能,封装,产品等级,工作结温,功能安全类别,状态
+LN33061Q1SDEFR,3.5,60,1.5,400,2.9,有,PWM/Analog,有,有,SOIC-EP8,车规级,-40 to 150,Functional Safety Capable,已量产
+LN33061Q1-D-EFR,3.5,60,1.5,400,2.9,无,PWM/Analog,有,有,SOIC-EP8,车规级,-40 to 150,Functional Safety Capable,已量产
+LN33161Q1S1EFR,3.5,60,1.5,200 to 2500,6.6,有,PWM/Analog,无,有,SOIC-EP8,车规级,-40 to 150,Functional Safety Capable,已量产
+LN33161Q1-1-EFR,3.5,60,1.5,200 to 2500,6.6,无,PWM/Analog,无,有,SOIC-EP8,车规级,-40 to 150,Functional Safety Capable,已量产
+LN33061Q1S1EFR,3.5,60,1.5,400,6.6,有,PWM/Analog,有,有,SOIC-EP8,车规级,-40 to 150,Functional Safety Capable,已量产
+LN33061Q1-1-EFR,3.5,60,1.5,400,6.6,无,PWM/Analog,有,有,SOIC-EP8,车规级,-40 to 150,Functional Safety Capable,已量产

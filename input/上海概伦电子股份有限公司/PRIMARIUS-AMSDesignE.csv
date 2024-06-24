@@ -1,0 +1,40 @@
+产品网址：https://www.primarius-tech.com/en/products/analog_design_eda.html
+产品结构：root->PRIMARIUS-AMSDesignEDA
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Fab EDA|无|无|
+|AMS Design EDA|无|提供高度可扩展和可定制的 IC 设计平台，以及广泛认可的仿真和分析解决方案，以满足各种工艺的多样化 IC 设计需求，从而提供基于 DTCO 方法的全面、应用驱动的 EDA 流程|
+|Digital Design EDA|无|无|
+|Testing Systems|无|无|
+|Design Enablement Services|无|无|
+|SPICE Model|无|无|
+|Baseband Modeling|BSIMProPlus|无|
+|RF Modeling|MeQLab|无|
+|Model Extraction Automation|SDEP|无|
+|Model QA|ME-Pro|无|
+|PDK|无|无|
+|PCell Development|PCellLab|无|
+|PDK Verification|PQLab|无|
+|Standard Cell|无|无|
+|Library Characterization|NanoCell|无|
+|Library Validation|LibWiz|无|
+|Design Environment|无|无|
+|Schematic Capture|NanoDesigner SE|无|
+|Layout Editor|NanoDesigner LS|无|
+|Interactive Physical Verification|NanoDesigner iV|无|
+|Design Optimization|NanoDesigner Optimizer|无|
+|Circuit Simulation|无|无|
+|SPICE Simulator|NanoSpice|通用并行 SPICE 模拟器|
+|SPICE Simulator|NanoSpice X|电路类型驱动的 SPICE 模拟器|
+|SPICE Simulator|NanoSpice Giga|大容量高精度 SPICE 模拟器|
+|FastSPICE Simulator|NanoSpice Pro|高性能 FastSPICE 模拟器|
+|FastSPICE Simulator|NanoSpice Pro X|先进的高性能 FastSPICE 模拟器|
+|Mixed Signal|NanoSpice MS|高性能混合信号仿真解决方案|
+|Waveform Analysis|NanoWave|大容量波形查看器|
+|Circuit Analysis|无|无|
+|Yield Analysis|NanoYield|高西格玛产量分析解决方案|
+|Signal Integrity|NanoSpice SI|无|
+|Critical Path Analysis|PathInspector|TR 级关键路径分析器|
+|Power Device Design Verification|PTM|无|
+|ESD Verification|ESDi|芯片级 HBM ESD 分析平台|

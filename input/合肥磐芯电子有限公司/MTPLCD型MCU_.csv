@@ -1,0 +1,9 @@
+产品网址：http://www.masses-chip.com/c/cpzx/cpzx-mtp/cpzx-mtp-lcd-mcu
+产品结构：root->MTPLCD型MCU|
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|MTP LCD 型 MCU|无|无|
+
+芯片型号,ROM,RAM,堆栈级数,I/O,中断源,定时器,PWM,LCD,工作电压,休眠功耗,特殊功能,封装形式
+M8P830,4K*16,128,8,48,TC0/TC1/TC2  TC2门控  UART发送/接收  IOA/IOF变化  LVD,3,3,30*8,2.2~5.5V,<1uA,3路RFC  端口弱驱动  端口强驱动,LQFP48  DICE

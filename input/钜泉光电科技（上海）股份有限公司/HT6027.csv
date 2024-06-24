@@ -1,0 +1,17 @@
+产品网址：https://www.hitrendtech.com/products/detail?id=24
+产品结构：首页->产品中心->HT6027
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|HT6027|HT6027|HT602X 系列 MCU，专为国家新一代智能电表应用而开发。内核采用了在尺寸、功耗、及能效方面高度优化的 32 位处理器，同时配以 256K Flash、32K SRAM、电源及复位管理、时钟管理、温度传感器、自动温补 RTC、LCD 驱动、AES/GHASH 硬件加解密等丰富 IP，产品在功能、性能及可靠性方面皆满足国家电网对 MCU 器件的高工规要求。该系列 MCU 除特别适用于国家电网的表计系统外，也适合于其它对集成度、可靠性、待机功耗、RTC 精度等有极高要求的工业控制、终端电子消费品等应用场合。相对于传统的 8bit/16bit 工控 MCU，该系列则具备更为突出的综合性价比及平台化优势。配有 54 个 GPIO、5 路 UART、6 个外部中断，LCD 支持 4x26/6x24/8x22 段，采用 LQFP64 封装，且向下兼容 HT6017。|
+
+Part NO.,HT6027,Supply Voltage,2.2V~5.5V
+MCU,32位处理器,Flash (Bytes,256K
+SRAM (Bytes),32K,PLL /HFRC /LFRC (Hz),44M /11M /32K
+External Crystal OSC (Hz),32K,TPS,±0.5℃
+SPI,1,UART (7816),5 （1）
+External Interrupt,7,LCD Driver (Com*Seg),4x26 6x24 8x22
+GPIO,54,Encrypt. & Rand.,AES 256/192/128
+normal @PLL=11MHz,4.85mA,Ihold RTC On,4.0uA
+Isleep RTC On,3.5uA,Package /Pins,LQFP /64
+,,,

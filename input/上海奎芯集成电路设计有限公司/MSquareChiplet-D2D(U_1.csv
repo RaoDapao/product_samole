@@ -1,0 +1,6 @@
+产品网址：https://www.m2ipm2.com/ProductsSt_D2DUCIe11.html
+产品结构：root->MSquareChiplet-D2D(UCIe1.1)
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Die-to-Die interface|D2D(UCIe 1.1)|提供同一封装内两个芯片管芯之间的数据接口，包含 Die-to-Die 适配器层和物理层，每层都有一个边带接口，用于提供链路训练和访问链路伙伴寄存器的反向通道。具有低功耗、紧凑面积和强大性能，适用于高性能计算、AI 或多媒体 SoC 以及 Die-to-Die 互连等目标应用。|

@@ -1,0 +1,114 @@
+产品网址：https://www.eta-semi.com/product-cat/dc-dc%e5%8a%9f%e7%8e%87%e8%bd%ac%e6%8d%a2%e5%99%a8/%e9%99%8d%e5%8e%8b%ef%bc%88buck%ef%bc%89%e7%a8%b3%e5%8e%8b%e5%99%a8
+产品结构：首页->DC-DC功率转换器->降压（Buck）稳压器
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|降压（Buck）稳压器|无|无|
+
+Description,Architecture,Vin Min(V),Vin Max(V),Vout Min(V)
+17V/6A Sync. Buck,Sync.COT,4.5,17.0,0.6
+18V/3A Sync. Buck,Sync.COT,4.5,18.0,0.806
+3 channels 5.5V/3.5A Sync. Buck,Sync.COT,2.6,5.5,0.45
+3 channels 5.5V/1.5A Sync. Buck,Sync.,2.6,5.5,0.6
+18V/2A Sync. Buck,Sync.COT,4.5,18.0,0.6
+Dual 18V/2A Sync. Buck,Sync.COT,3.5,18.0,0.6
+18V/2A Sync. Buck,Sync.COT,4.5,18.0,0.6
+18V/2A Sync. Buck,Sync.COT,4.5,18.0,0.6
+18V/2A Sync. Buck,Sync.COT,4.0,18.0,0.6
+17V/6A Sync. Buck,Sync.COT,4.5,17.0,0.6
+18V/3A Sync. Buck,Sync.COT,4.0,18.0,0.6
+18V/2A Sync. Buck,Sync.,4.2,18.0,0.8
+18V/2A Sync. Buck,Sync.COT,4.5,18.0,0.6
+"360nA Iq, 5.5V/0.5A Sync. Buck",Sync.COT,2.1,5.5,0.7
+18V/2A Sync. Buck,Sync.COT,3.5,18.0,0.6
+18V/3A Sync. Buck,Sync.COT,4.5,18.0,0.603
+18V/2A Sync. Buck,Sync.COT,3.5,18.0,0.6
+18V/3A Sync. Buck,Sync.COT,4.0,18.0,0.6
+5.5V/3A Sync. Buck,Sync.,3.6,6.0,0.8
+6V/1A Sync. Buck,Sync.,2.6,6.0,0.6
+"360nA Iq, 5.5V/1A Sync. Buck",Sync.COT,2.1,5.5,1.2
+5.5V/5A Sync. Buck w.ADI,"ADI, Sync.COT",2.5,5.5,0.6
+6V/1A Sync. Buck,Sync.,2.6,6.0,0.6
+I2C/5.5V/5A Sync. Buck,"I2C, Sync.COT",2.5,5.5,0.6
+I2C/5.5V/5A Sync. Buck,"I2C, Sync.COT",2.5,5.5,0.6
+I2C/5.5V/5A Sync. Buck,"I2C, Sync.COT",2.5,5.5,0.6
+6V/2A Sync. Buck,Sync.COT,2.5,6.0,0.6
+6V/2A Sync. Buck,Sync.COT,2.5,6.0,0.6
+5.5V/3A Sync. Buck,Sync.COT,2.5,5.5,0.6
+6V/4A Sync. Buck,Sync.COT,2.5,6.0,0.6
+5.5V/3A Sync. Buck,Sync.COT,2.5,5.5,0.6
+5.5V/3A Sync. Buck,Sync.COT,2.5,5.5,0.6
+5.5V/3A Sync. Buck,Sync.COT,2.5,5.5,0.6
+7.3V/3A Sync. Buck,Sync.,2.4,7.3,0.6
+7.2V/1.2A Sync. Buck,Sync.,2.5,7.2,0.6
+6V/1A Sync. Buck,Sync.,2.6,6.0,0.6
+7V/1.5A Sync. Buck,Sync.,2.6,7.0,0.6
+5.5V/3A Sync. Buck,Sync.COT,2.5,5.5,0.6
+5.5V/2.5A Sync. Buck,Sync.COT,2.5,5.5,0.6
+5.5V/3A Sync. Buck,Sync.COT,2.5,5.5,0.6
+5.5V/2A Sync. Buck,Sync.COT,1.75,5.5,0.45
+5.5V/2A Sync. Buck,Sync.COT,2.6,5.5,0.45
+5.5V/3A Sync. Buck,Sync.COT,2.5,5.5,0.6
+5.5V/3A Sync. Buck,Sync.COT,2.5,5.5,0.6
+7V/1.2A Sync. Buck,Sync.,2.6,7.0,0.788
+7V/1.2A Sync. Buck,Sync.,2.6,7.0,1.129
+7V/0.6A Sync. Buck,Sync.,2.6,7.0,1.11
+7V/1.5A Sync. Buck,Sync.,2.6,7.0,1.2
+6.5V/1A Sync. Buck,Sync.,2.6,6.5,0.6
+7V/2.5A Sync. Buck,Sync.,2.6,7.0,0.6
+7V/2.5A Sync. Buck,Sync.,2.6,7.0,0.6
+7V/1.5A Sync. Buck,Sync.,2.6,7.0,0.6
+7V/1A Sync. Buck,Sync.,2.6,7.0,0.6
+7V/1.5A Sync. Buck,Sync.,2.6,7.0,0.6
+7V/2.5A Sync. Buck,Sync.,2.6,7.0,0.6
+5.5V/2A Sync. Buck,Sync.,2.1,5.5,0.6
+5.5V/2A Sync. Buck,Sync.,2.6,5.5,0.6
+7.3V/3A Sync. Buck,Sync.,2.4,7.3,0.6
+6V/1A Sync. Buck,Sync.,2.6,6.0,0.6
+6V/1.2A Sync. Buck,Sync.,2.6,6.0,0.6
+40V/3A Sync. Buck,Sync.,3.6,40.0,1
+40V/3A Sync. Buck,Sync.,3.6,40.0,1
+40V/3A Sync. Buck,Sync.,3.6,40.0,1
+38V/0.4A Sync. Buck,Sync.,5.0,38.0,0.8
+28V/2A Sync. Buck,Sync.COT,4.0,28.0,0.596
+38V/0.4A Sync. Buck,Sync.,5.0,38.0,0.8
+36V/0.4A Non-Sync. Buck,Non-Sync.,4.0,36.0,0.8
+38V/1A Non-Sync. Buck,Non-Sync.,4.0,38.0,0.8
+38V/0.6A Non-Sync. Buck,Non-Sync.,4.0,38.0,0.8
+28V/2.5A Car Charger w.QC,Non-Sync. QC2.0/PE+,4.5,28.0,0.8
+36V/3.5A Non-Sync. Buck,Non-Sync.,4.0,36.0,0.8
+28V/2A Sync. Buck,Sync.,4.2,28.0,0.8
+36V/3.1A Non-Sync. Buck,Non-Sync.,4.0,36.0,0.8
+38V/1.5A Non-Sync. Buck,Non-Sync.,4.0,38.0,0.8
+42V/3A Sync. Buck,Sync.,4.6,42.0,0.8
+17V/6A Sync. Buck,Sync.COT,4.5,17.0,0.6
+100V/0.6A Sync. Buck,Sync.COT,7.0,100.0,1.2
+17V/3A Sync. Buck,Sync.COT,4.2,17.0,0.6
+18V/4.5A Sync. Buck,Sync.COT,4.5,18.0,0.6
+18V/4.5A Sync. Buck,Sync.COT,4.5,18.0,0.805
+18V/4.5A Sync. Buck,Sync.COT,4.5,18.0,0.6
+18V/4A Sync. Buck,Sync.COT,4.5,18.0,0.6
+18V/4A Sync. Buck,Sync.COT,4.5,18.0,0.805
+18V/4A Sync. Buck,Sync.COT,4.5,18.0,0.6
+18V/5A Sync. Buck,Sync.COT,4.5,18.0,0.805
+18V/5A Sync. Buck,Sync.COT,4.5,18.0,0.6
+18V/5A Sync. Buck,Sync.COT,4.5,18.0,0.805
+18V/5A Sync. Buck,Sync.COT,4.5,18.0,0.6
+18V/4.5A Sync. Buck,Sync.COT,4.5,18.0,0.805
+18V/4A Sync. Buck,Sync.COT,4.5,18.0,0.805
+18V/3A Sync. Buck,Sync.COT,4.5,18.0,0.806
+18V/2A Sync. Buck,Sync.COT,4.5,18.0,0.806
+17V/2A Sync. Buck,Sync.COT,4.2,17.0,0.6
+17V/2A Sync. Buck,Sync.COT,4.2,17.0,0.8
+18V/4A Sync. Buck,Sync.Ext comp,4.2,18.0,0.923
+18V/3A Sync. Buck,Sync.Ext comp,3.6,18.0,0.923
+18V/2A Sync. Buck,Sync.Ext comp,3.6,18.0,0.923
+18V/2A Sync. Buck,Sync.COT,4.5,18.0,0.768
+18V/2A Sync. Buck,Sync.,4.5,18.0,0.6
+18V/3A Sync. Buck,Sync.,4.2,18.0,0.8
+18V/2A Sync. Buck,Sync.,4.5,18.0,0.8
+18V/2A Sync. Buck,Sync.COT,4.0,18.0,0.8
+18V/2A Sync. Buck,Sync.COT,3.5,18.0,0.8
+18V/3A Sync. Buck,Sync.COT,4.5,18.0,0.8
+18V/2A Sync. Buck,Sync.COT,4.5,18.0,0.806
+I2C/18V/2.5A Sync. Buck,I2C，Sync.,4.2,18.0,0.696-1.2

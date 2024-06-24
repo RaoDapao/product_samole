@@ -1,0 +1,14 @@
+产品网址：http://www.canglongoe.com/product/product_list_8.html
+产品结构：root->产品中心-大连藏龙光电子科技有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|WDM|无|无|
+
+Product Name,Part Number,Package,Interface,Reach,Temp,Tx Output,Tx/Rx Rate,Tx/Rx Wavelength,Rx Sensitivity
+10G 80km BOSA,CE49A551SCRL1  CE55A491SCRL1,BOX,LC,80km,C,0~4dBm,9.953~11.3Gb/s,tx：1540~1560  1480~1500  rx：1540~1560  1480~1500,-24dBm
+10G EML TO TOSA,CEC010XXXx-XXX,Coaxial,LC,40km/80km,C/I,,9.953 ~ 11.3Gb/s,1530-1565,/
+2.5G DML TOSA DWDM,CDCx02XRXx-Axx,Coaxial,LC,40km/80km,C/I,1.5~4dBm,2.5Gb/s,1527.21~1567.95,/
+10G EML TOSA WDM,CEBx10CXX0-Axx,Butterfly,LC/FC,40km/80km,C,-2~4dBm,9.953~10.709Gb/s,1529.16~1567.13,/
+10G EML TOSA WDM,CET910XXXX-XXX,BOX,LC,20km/40km/80km,C/I,-2~4dBm,9.953~11.3Gb/s,1529.16~1567.13,/
+25G EML TOSA WDM,CET825XXXX-XXX,BOX,LC,10km,C,-2~4dBm,25.78Gb/s,1529.16~1567.13  1294.86~1309.84,/

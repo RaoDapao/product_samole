@@ -1,0 +1,25 @@
+产品网址：https://www.len-technology.com/en/products/dc-dc
+产品结构：root->DC-DC
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|DC-DC|无|提供具有不同电压容差和电流额定值的产品矩阵|
+
+Orderable PN,Vin Min (V),Vin Max (V),Vout Min (V),Vout Max (V),Iout (A),Fsw (KHz),Spread Spectrum,Light Load Mode,Pgood,Enable,Package,Rating,Operating junction temperature,Functional safety supported,Status
+LN10046FSQ1LQR,3.5,36,1,Vin,6.0,200 to 2500,Yes,FPWM,Yes,Yes,LQFN4035W-14,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN10046ASQ1LQR,3.5,36,1,Vin,6.0,200 to 2500,Yes,PFM,Yes,Yes,LQFN4035W-14,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN10543Q1-EFR,3.5,36,1,Vin,3.0,2100,Yes,FPWM,No,Yes,SOIC-EP8,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN10543Q1SEFR,3.5,36,1,Vin,3.0,2100,No,FPWM,No,Yes,SOIC-EP8,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN10143Q1SEFR,3.5,36,1,Vin,3.0,400,Yes,FPWM,No,Yes,SOIC-EP8,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN10143Q1-EFR,3.5,36,1,Vin,3.0,400,No,FPWM,No,Yes,SOIC-EP8,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN10043Q1SEFR,3.5,36,1,Vin,3.0,400,Yes,PFM,No,Yes,SOIC-EP8,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN10043Q1-EFR,3.5,36,1,Vin,3.0,400,No,PFM,No,Yes,SOIC-EP8,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN10542Q1SCNR,3.5,36,1,Vin,2.0,2100,Yes,FPWM,Yes,Yes,LQFN2030W-4,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN10042Q1SCNR,3.5,36,1,Vin,2.0,400,Yes,PFM,Yes,Yes,LQFN2030W-4,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN10441Q1SCNR,3.5,36,1,Vin,0.8,2100,Yes,PFM,Yes,Yes,LQFN2030W-4,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN10041Q1SCNR,3.5,36,1,Vin,0.8,400,Yes,PFM,Yes,Yes,LQFN2030W-4,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN10063Q1-AKR,3.5,60,1,Vin,3.0,200 to 2500,No,PFM,Yes,Yes,TSSOP-EP16,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN10163Q1-AKR,3.5,60,1,Vin,3.0,200 to 2500,Yes,PFM,Yes,Yes,TSSOP-EP16,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN10261Q1-11-EFR,3.5,60,1,Vin,1.5,200 to 2500,No,PFM,No,Yes,SOIC-EP8,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN10161Q1-12-EFR,3.5,60,5 (Fixed),5 (Fixed),1.5,400,No,PFM,Yes,Yes,SOIC-EP8,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN10161Q1-11-EFR,3.5,60,3.3 (Fixed),3.3 (Fixed),1.5,400,No,PFM,Yes,Yes,SOIC-EP8,Automotive,-40 to 150,Functional Safety Supported,RTM

@@ -1,0 +1,100 @@
+产品网址：https://korea.tiandy.com/index.php?s=/Home/Product/detail/id/60.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|PTZ 摄像机|TC-H324S|2MP 25×星光红外 PTZ 摄像机，最高可达 1920×1080@30fps，最低照度彩色：0.001Lux@F1.5，光学变焦：25×，数字变焦 16×，智能红外，红外范围：150m，S+265/H.265/H.264/M-JPEG，无插件，IP66|
+
+Camera,Unnamed: 1
+Image Sensor,"1/2.8"" CMOS"
+Signal System,PAL/NTSC
+Min. Illumination,"Color: 0.001lux@ (F1.5, AGC ON), BW: 0lux with IR"
+Shutter Time,"1s to 1/100,000s"
+Day & Night,Dual IR Cut Filter with Auto Switch
+Wide Dynamic Range,140dB
+Optical Zoom,25×
+Digital Zoom,16×
+Lens,
+Focal Length,4.8mm~120mm
+Zoom Speed,<4s
+Angle of View,Horizontal: 58.5° (w)~2.8° (t)  Vertical: 33.2° (w)~1.5° (t)
+Aperture Range,F1.5~F3.8
+Pan&Tilt,
+Pan Range,360°
+Pan Speed,"Pan Manual Speed: 0.1°~200°/s, Pan Preset Speed: 240°/s"
+Tilt Range,-16°~90° (Auto flip)
+Tilt Speed,"Tilt Manual Speed: 0.1°~120°/s, Tilt Preset Speed: 180°/s"
+3D Position,Yes
+Presets,500
+Preset Accuracy,±0.4°
+Scan,8
+Cruise,"16, up to 32 presets per cruise"
+Pattern,"8, each with 600s memory or 1000 orders"
+Power-off Memory,Yes
+RS-485 Protocols,
+Illuminator,
+IR LEDs,6
+IR Range,Up to 150m
+IR Irradiation Angle,Adjustable by Zoom
+White LEDs,
+Compression Standard,
+Video Compression,S+265/H.265/H.264/M-JPEG
+Video Bit Rate,32Kbps~16Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D/AAC_LC
+Sampling Rate,8kHz/32kHz/48kHz
+Image,
+Max. Resolution,2.0MP (1920×1080)
+Main Stream,"PAL: 25fps (1920×1080, 1280×720, 704×576, 640×480)"
+Main Stream,"NTSC: 30fps (1920×1080, 1280×720, 704×480, 640×480)"
+Sub Stream,"PAL: 25fps (704×576, 704×288, 640×360, 352×288)"
+Sub Stream,"NTSC: 30fps (704×480, 704×240, 640×360, 352×240)"
+Third Stream,PAL: 25fps (352×288) NTSC: 30fps (352×240)
+Image Setting,"Saturation, brightness, contrast, sharpness, adjustable by client software or web browser"
+Image Enhancement,BLC/3D DNR/HLC
+ROI,7 Areas for Both Main and Sub Stream
+OSD,"16×16, 24×24,32×32, 48×48, 64x64, 96x96, adaptable size, Letters Such as Week, Date, Time, Total 5 Regions"
+Picture Overlay,Yes
+Privacy Mask,Yes
+Smart Defog,Yes
+Feature,
+Alarm Trigger,"Event Input, Event Output, Motion Detection, Mask Alarm, Disk Full, Disk R/W Error, IP Address Conflict, MAC Address Conflict, FTP Server Exception"
+Video Analytics,"Tripwire, Double Tripwire, Perimeter, Object Abandon, Object Lost,Demographics(People Counting), On Duty Detection, Video Abnormal, Audio Abnorma"
+Early Warning(EW),
+Auto-Tracking,
+Face Detection and Analytics,
+Operating Mode,
+Face Detection Performance,
+Face Exposure Brightness,
+Min. Face Pixel,
+Precautionary Alert,
+Network,
+Protocols,"TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTSP, PPPoE, NTP, UPnP, SMTP, QoS, IPV4, MULTICAST"
+System Compatibility,"ONVIF (PROFILE S/T/G/M), SDK, CGI, P2P"
+ANR,"Auto store video in SD card when NVR disconnected, and upload video to NVR when resumed connection (Only Support Tiandy ANR NVR)"
+Remote Connection,≤7
+Client,"Easy7, EasyLive Plus"
+Web Version,web6
+Interface,
+Communication Interface,1 RJ45 10M/100M self adaptive Ethernet port
+Audio,1/1
+Alarm,1/1
+Speaker,
+Reset Button,Yes
+On-board storage,"Built-in MicroSD card slot, up to 512 GB"
+RS-485,
+BNC,
+Wiper,
+General,
+Firmware Version,-
+Web Client Language,"15 languages  Simple Chinese, Traditional Chinese, English, Spanish, Korean, Italian, Turkish, Russian, Thai, French, Polish, Dutch, Hebraism, Arabic, Vietnamese"
+Operating Conditions,"-30°C~70°C (IR OFF), -30°C~40°C (IR ON), 0-95%RH"
+Power Supply,DC12V±10%/PoE
+Power Consumption,"9W(IR OFF), 22W(MAX)"
+Protection,"IP66, Lightning protection, surge protection and voltage transient protection meets EN 55035:2017"
+Heater,
+Dimensions,Φ161x276mm(Φ6.34×10.87inch)
+Weight,2.9kg(6.39lb)
+
+
+날짜,제목,유형
+2022-01-26,TC-H324S Spec 25X-I-E-V3.0,pdf

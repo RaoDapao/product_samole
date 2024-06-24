@@ -1,0 +1,39 @@
+-> root https://www.dj-laser.com
+  -> ProductCenter_Produc http://www.dj-laser.com/product/9
+    -> DJ 1.5 micro lasers 
+    -> Sapphire Lenses 
+    -> Sapphire Prism 
+    -> Sapphire Rod 
+    -> Nd:YAG 
+    -> Cr4+:YAG 
+    -> Nd:Ce:YAG 
+    -> KTP 
+    -> CTH:YAG 
+    -> Er:YAG 
+    -> Ce:LuAG 
+    -> Green/Yellow/Red Enhanced Multiphase Ceramic Color Wheel 
+    -> Sapphire Wafer and Substrates 
+    -> Sapphire Ingot 
+    -> Ce:YAG 
+  -> Homepage 
+    -> ProductCenter 
+      -> LaserMaterials 
+        -> Nd:YAG http://www.dj-laser.com/products.html?productCateId=16
+        -> Bondedlasercrystals http://www.dj-laser.com/products.html?productCateId=48
+  -> SapphireProductSerie http://www.dj-laser.com/products.html?productCateId=13
+    -> Sapphire Window 
+    -> Ruby products 
+  -> 首页 
+    -> 产品中心 http://www.new.dj-laser.com/product/9
+      -> 激光材料 
+        -> Nd:YAG 
+          -> Nd:YAG_1 http://www.new.dj-laser.com/product/41.html
+      -> 激光配件 http://www.new.dj-laser.com/product/13
+        -> 全反镜 
+        -> 脉冲氙灯 
+      -> 蓝宝石产品系列 http://www.new.dj-laser.com/product/11
+        -> 蓝宝石衬底 
+        -> 蓝宝石晶棒 
+        -> 蓝宝石衬底 
+        -> 蓝宝石光学窗口 
+        -> 红宝石产品 

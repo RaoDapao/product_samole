@@ -1,0 +1,8 @@
+产品网址：https://www.indiemicro.com/archives/product/ind86202
+产品结构：root->英迪芯微
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Chip|iND86202|高集成度 SoC，外部组件少；Cortex-M0 内核，运行频率高达 48MHz；128KB FLASH 和 16KB SRAM；14 位 500Ksps SAR ADC，硬件过采样高达 17 位；2 通道 DMA 支持 UART/SPI/ADC/DAC；14 位子范围 DAC x 2，支持 400Ksps；USB 1.1 全速；支持多个电源域以降低功耗；全接口 - UART x 3，PWM x 6，I2C，SPI；支持 6*30/4*32/3*32 段 LCD；QFN100 封装；支持免费的 HCT 测量库；主要应用：血糖仪|
+
+

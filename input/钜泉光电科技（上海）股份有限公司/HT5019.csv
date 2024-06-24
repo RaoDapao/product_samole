@@ -1,0 +1,19 @@
+产品网址：https://www.hitrendtech.com/products/detail?id=22
+产品结构：首页->产品中心->HT5019
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|HT5019|HT5019|HT501X 系列 SoC，作为 ATT7035B/37S 系列的升级替代产品，专为新一代单相智能电表应用而开发。内核采用了在尺寸、功耗、及能效方面高度优化的 32 位处理器，同时配以 128K Flash、8K SRAM、单相 EMU 单元、电源及复位管理、时钟管理、温度传感器、自动温补 RTC、LCD 驱动、AES/GHASH 硬件加解密等丰富 IP，产品在功能、性能及可靠性方面皆满足电表应用对 MCU/计量器件的高工规要求。该系列 SoC，平台统一、选型丰富、功能齐全、运行可靠。相对于传统 51 核的计量 SoC，该系列则具备更为突出的综合性价比及平台化优势，特别是对应到海外的防窃电应用场合，其在低功耗方面的性能表现则更为突出。配有 33 个 GPIO、3 路 UART、4 个外部中断，LCD 支持 4x18/6x16/8x14 段，采用 LQFP48 封装，不支持 SPI、I2C 通讯。|
+
+Part NO.,HT5019,Supply Voltage,2.2V~5.5V
+MCU,32位处理器,Flash (Bytes,128K
+SRAM (Bytes),8K,Metering Functions,Active Reactive Apparent Anti-Theft
+ADC Inputs (Curr+Volt),2+1,Dynamic Range,5000:1
+Vref TC (Typical),±10ppm/℃ (1.185V),PLL /HFRC /LFRC (Hz),39.32M /9.8M /32K
+External Crystal OSC (Hz),32K,TPS,±0.5℃
+SPI,/,UART (7816),3 （2）
+External Interrupt,4,LCD Driver (Com*Seg),4x18 6x16 8x14
+GPIO,33,Encrypt. & Rand.,ECC & AES 256/192/128
+normal @PLL=11MHz,3.2mA,Ihold RTC On,3.7uA
+Isleep RTC On,2.9uA,Package /Pins,LQFP /48
+,,,

@@ -1,0 +1,8 @@
+-> root https://www.xdxct.com
+  -> 象帝先计算技术 https://www.xdxct.com/product
+    -> “天钧一号”芯片 
+    -> “天钧二号”芯片 
+    -> 服务器卡 XDX X1900 
+    -> 工作站显卡 XDX R1900 
+    -> 桌面显卡 XDX 151 
+    -> 桌面显卡 XDX 121 

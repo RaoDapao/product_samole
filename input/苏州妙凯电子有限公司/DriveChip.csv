@@ -1,0 +1,25 @@
+产品网址：http://www.mk-dz.cn/En/Product/Chip
+产品结构：Yourposition：Home->Recommendedproducts->DriveChip
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Drive Chip|CD5020 & LM5020 PWM Controller Chip|CD5020 高压脉冲宽度调制（PWM）控制器包含实现所需的所有功能|
+|Drive Chip|CD5020A & LM5020A Current-Mode PWM Controller Chip|CD5020A 高压脉冲宽度调制（PWM）控制器包含实现所需的所有功能|
+|Drive Chip|CD5021 & LM5021 Current-Mode PWM Controller Chip|CD5021 离线脉冲宽度调制（PWM）控制器包含实现所需的所有功能|
+|Drive Chip|CD5022 & LM5022 Low-Side Controller for Boost and SEPIC Chip|CD5022 是用于 Boost 和 SEPIC 稳压器的控制器，包含实现所需的所有功能|
+|Drive Chip|CD5025 & LM5025 Active Clamp Voltage Mode PWM Controller Chip|CD5025 是一种电压 PWM 控制器，可实现利用有源钳位/复位技术的功率转换器|
+|Drive Chip|CD5026 & LM5026 Active Clamp Current-Mode PWM Controller Chip|CD5026 PWM 控制器包含实现利用有源钳位/复位技术的功率转换器所需的所有功能|
+|Drive Chip|CD5030 & LM5030 100V Push-Pull Current Mode PWM Controller Chip|CD5030 是一种高压脉冲宽度调制（PWM）推挽控制芯片，可实现大多数功能|
+|Drive Chip|CD5032 & LM5032 Dual Interleaved Current Mode Controller Chip|CD5032 双电流模式 PWM 控制器包含控制两个独立功能所需的所有功能|
+|Drive Chip|CD5034 & LM5034 Dual Interleaved Current Mode Controller Chip|CD5034 双电流模式 PWM 控制器包含控制两个独立功能所需的所有功能|
+|Drive Chip|CD5035 & LM5035 PWM Controller with Integrated Half-Bridge and SyncFET Drivers C|CD5035 PWM 控制器是具有线路前馈的电压模式控制，电源电压高达 105V|
+|Drive Chip|CD5041 & LM5041 Cascaded PWM Controller Chip|CD5041 PWM 控制器包含实现电流或电压模式控制所需的所有功能|
+|Drive Chip|CDM4620 & LTM4620 DC/DC uModule Regulator|双 13A 或单 26A 输出，宽输入电压范围：4.5V 至 16V|
+|Drive Chip|CDM4628A & LTM4628 DC/DC uModule Regulator|单 16A 或双 8A 输出，宽输入电压范围：4.5V 至 26.5V|
+|Drive Chip|CDM4630 & LTM4630 DC/DC uModule Regulator|双 18A 或单 36A 输出，宽输入电压范围：4.5V 至 16V|
+|Drive Chip|CDM4644 & LTM4644 DC/DC uModule Regulator|四路输出降压 uModule 稳压器，每路输出 4A，宽输入电压范围：4V 至 14V|
+|Drive Chip|CDM4650 & LTM4650 DC/DC uModule Regulator|单 25A 或双 50A 输出，宽输入电压范围：4.5V 至 16V|
+|Drive Chip|RM9005G Controllable Silicon Dimming Single Channel LED Constant Current Driver|支持可控硅调光，输出电流可从 5mA 调节至 60mA，恒流精度<+5%|
+|Drive Chip|RM9003B / 9003B single segment LED linear constant current control chip|外围电路简单，无需磁性元件，多芯片串联或并联应用|
+|Drive Chip|CYT8011TG compatible SCR dimming LED linear constant current driver chip|支持可控硅调光，输出电流可从 5mA 调节至 60mA，恒流精度<+5%|
+|Drive Chip|CYT8000M Switching Dimming/Toning LED Constant Current Chip|AC 180V-240V 或-Ae 90V130V 输入电压，恒流精度<+5%|

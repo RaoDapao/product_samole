@@ -1,0 +1,45 @@
+产品网址：https://en.giantec-semi.com/zhinengkaxinpian/166
+产品结构：root->Smartcard-GiantecSemiconductorCorporation
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Smart card|无|是一种附着或嵌入在 CPU 卡、逻辑加密卡、RFID 标签等智能卡（或 IC 卡）上的芯片，包含微处理器、输入/输出接口和存储器（如 EEPROM），执行数据操作、访问控制和存储功能。有 NFC 标签、逻辑加密卡、CPU 卡和读卡器四个产品系列，广泛应用于公交卡、门禁卡、学生证和会员卡等。|
+
+Category,Product number,Storage,Rate,Package style,Remark
+Memory chip,GT24C02A,2 Kb,1000 KHZ,"wafer,module",I²C interface
+Memory chip,GT24C16A,16 Kb,1000 KHZ,"wafer,module",I²C interface
+Memory chip,GT24C64A,64 Kb,1000 KHZ,"wafer,module",I²C interface
+Memory chip,GT24C128B,128 Kb,1000 KHZ,"wafer,module",I²C interface
+Memory chip,GT24C256A,256 Kb,1000 KHZ,"wafer,module",I²C interface
+Memory chip,GT24C512A,512 Kb,1000 KHZ,"wafer,module",I²C interface
+Memory chip,GT24C1024,1024 Kb,1000 KHZ,"wafer,module",I²C interface
+Contact logic encryption card chip,GT23SC4442,2 Kb,Up to 5 MHZ,"wafer,module",ISO/IEC 7816
+Contact logic encryption card chip,GT23SC4428,8 Kb,Up to 5 MHZ,"wafer,module",ISO/IEC 7816
+Contact logic encryption card chip,GT23SC1604,16 Kb,Up to 5 MHZ,"wafer,module",ISO/IEC 7816
+Contactless logic encryption card chip,GT23SC4439C,1 KB,106 Kbps,"wafer,module",ISO/IEC14443A
+Contactless logic encryption card chip,GT23SC4439D,1 KB,106Kbps,"wafer,module",ISO/IEC14443A
+Contactless logic encryption card chip,GT23SC4469,4 KB,106 Kbps,"wafer,module",ISO/IEC14443A
+Contactless CPU smart card chip,GT23SC4455,4 KB,106 Kbps,"wafer,module",ISO/IEC14443A
+Contactless CPU smart card chip,GT23SC4456,8 KB,106 Kbps,"wafer,module",ISO/IEC14443A
+Contactless CPU smart card chip,GT23SC4458,16 KB,106 Kbps,"wafer,module",ISO/IEC14443A
+Multiple I/O interface FLASH security chip,GT23SC55160,160 KB,Up to 30 MHZ,"wafer,module",ISO/IEC 7816 ，extra GPIO
+Dual interface CPU smart card chip,GT23SC4466,64 KB,Up to 30 MHZ,"wafer,module",ISO/IEC 7816，ISO/IEC14443A/B  I²C interface
+GTag,GT23SC4479,64 bytes,106 Kbps,"wafer,module",ISO/IEC14443A
+GTag,GT23SC4489,192 bytes,106 Kbps,"wafer,module",NFC Forum Type2 Tag，Support DES encryption algorithm
+GTag,GT23SC8899-1,180 bytes,106 Kbps,"wafer,module",NFC Forum Type2 Tag
+GTag,GT23SC8899B-1,180 bytes,106 Kbps,"wafer,module",NFC Forum Type2 Tag
+GTag,GT23SC8899-2,540 bytes,106 Kbps,"wafer,module",NFC Forum Type2 Tag
+GTag,GT23SC8899B-2,540 bytes,106 Kbps,"wafer,module",NFC Forum Type2 Tag
+GTag,GT23SC8899-3,924 bytes,106 Kbps,"wafer,module",NFC Forum Type2 Tag
+GTag,GT23SC8899B-3,924 bytes,106 Kbps,"wafer,module",NFC Forum Type2 Tag
+GTag,GT23SC8899-4,1940 bytes,106 Kbps,"wafer,module",NFC Forum Type2 Tag
+GTag,GT23SC8899C-1,180 bytes,106 Kbps,UDFN/XDFN,NFC Forum Type2 Tag，Support field strength detection
+GTag,GT23SC8899C-3,924 bytes,106 Kbps,UDFN/XDFN,NFC Forum Type2 Tag，Support field strength detection
+GTag,GT23SC8899C-4,1940 bytes,106 Kbps,UDFN/XDFN,NFC Forum Type2 Tag，Support field strength detection
+GTag,GT23SC6699-1,1024 bytes,106 Kbps,UDFN/TSSOP,NFC Forum Type2 Tag，I²C interface
+GTag,GT23SC6699-2,2048 bytes,106 Kbps,UDFN/TSSOP,NFC Forum Type2 Tag，I²C interface
+GTag,GT23SC4419-1,1024bit,up to 53 kbit/s,"wafer,module","NFC Forum Type5 Tag ,ISO/IEC 15693"
+GTag,GT23SC4419-2,1024bit,up to 53 kbit/s,"wafer,module","NFC Forum Type5 Tag ,ISO/IEC 15693"
+GTag,GT23SC4419-3,1024bit,up to 53 kbit/s,"wafer,module","NFC Forum Type5 Tag ,ISO/IEC 15693"
+Contactless read and write chip,GT23SC55460,,106 Kbps,"QFN,32PIN",ISO/IEC14443A
+Contactless read and write chip,GT23SC55460A,,106 Kbps,"QFN,32PIN",ISO/IEC14443A

@@ -1,0 +1,15 @@
+产品网址：https://www.marching-power.com/tm
+产品结构：首页->产品中心->硅基芯片及模组系列->TrenchMOSFET
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Trench MOSFET|无|无|
+
+Part Number,VDSS(V),ID(A)@25°C,V(GS)th(V)@250μA,V(GS)th(V)@250μA.1,RDS(on)(mΩ) 25°CMax,RDS(on)(mΩ) 25°CMax.1,QG(nC),Package,Datasheet
+Part Number,VDSS(V),ID(A)@25°C,min,max,@VGS=10V,@VGS=4.5V,QG(nC),Package,Datasheet
+MPTP3N60N,60,3,1,2.5,70,80,16,SOT23-3L,Download
+MPTP5N60N,60,5,1,2.5,50,60,16,SOT23-3L,Download
+MPTP50N60N,60,50,1,2.5,17,20,50,TO-220,Download
+MPTD50N60N,60,50,1,2.5,17,20,50,TO-252,Download
+MPTO4N85,85,4,1,2.4,260,/,5.5,SOT23-3L,Download
+MPTO2N10,100,2,1.2,2.5,240,/,10,SOT23-3L,Download

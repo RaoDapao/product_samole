@@ -1,0 +1,6 @@
+产品网址：https://www.empyrean.com.cn/products/eda/digital-soc/standard-cell-library-characterization.html
+产品结构：当前位置：首页->EDA软件->数字电路设计EDA工具->单元库特征化提取工具
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|单元库特征化提取工具|Empyrean Liberal|通过内置的电路仿真工具 Empyrean ALPS 对标准单元进行仿真分析，精确地提取时序和功耗特征值，形成标准单元库特征化模型。同时，通过高效的分布式并行调度技术，进一步提升了单元库特征化提取的性能，为用户加速单元库的设计和优化提供了重要支撑。此外，还可以对单元库进行质量验证。|

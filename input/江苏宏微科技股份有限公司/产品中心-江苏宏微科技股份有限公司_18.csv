@@ -1,0 +1,11 @@
+产品网址：http://www.macmicst.com/en/index.php/product/release_info/40.html
+产品结构：root->产品中心-江苏宏微科技股份有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|GTU High Speed IGBT Discretes|无|Trench & Fieldstop Technology；Soft Turn On Characteristic, Low di/dt, Low EMI；Low Tf,Low Eoff；Small Tail Current, Soft Turn Off Characteristic；Positive Temperature Coefficient, Easily Parallel；High Short Circuit Current Capability(>6us)；High Speed Switching, Low Switch Lose；Tvj max Up To 175°C|
+
+Type,V  CES  (V),I  C nom  (A),V  CE (sat)  (V),P  tot  (W),E  off  (mJ),R  thJC  (℃/W),Packages,PDF
+ALL  MM25GTU120B  MM40GTU120B,ALL  1200,ALL  25  40,ALL  2.00  2.15,ALL  312  415,ALL  1.80  1.9,ALL  0.40  0.3,ALL  TO-247,
+MM25GTU120B,1200,25,2.00,312,1.80,0.40,TO-247,Preview  Download
+MM40GTU120B,1200,40,2.15,415,1.9,0.3,TO-247,Preview  Download

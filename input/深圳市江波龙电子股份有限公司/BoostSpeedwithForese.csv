@@ -1,0 +1,11 @@
+产品网址：https://www.longsys.com/products/solid-state-drive/commercial-pcle-ssd/xp2200-pcie-ssd.html
+产品结构：root->BoostSpeedwithForeseeXP2200PCIeSSD–ElevateYourTech|Longsys
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|XP2200 PCIe SSD|无|FORESEE 的大容量高性能 Gen4 SSD 产品，专为游戏笔记本电脑和生产力设备等 PC 设备设计；采用温度控制算法，在运行时平衡速度和温度；L1.2 低功耗，实现更低功耗和更长使用寿命|
+
+Product Series,PN,NAND Flash,Capacity,Type,DRAM,Operating Temperature,Sequential Read Speed*,Sequential Write Speed*,Random Read Speed (IOPS)*,Random Write Speed (IOPS)*,Mean Time Between Failures (Hour)
+XP2200 PCIe SSD,FSB0C512G-F6Y1800,3D TLC,512GB,M.2 2280,DRAM-less,0°C-70°C,7000MB/s,4800MB/s,900K,880K,1.5 million hours
+XP2200 PCIe SSD,FSB0C001T-F6Y1800,3D TLC,1TB,M.2 2280,DRAM-less,0°C-70°C,7100MB/s,6700MB/s,1190K,1100K,1.5 million hours
+XP2200 PCIe SSD,FSB0C002T-F6Y1800,3D TLC,2TB,M.2 2280,DRAM-less,0°C-70°C,7100MB/s,6400MB/s,1140K,1100K,1.5 million hours

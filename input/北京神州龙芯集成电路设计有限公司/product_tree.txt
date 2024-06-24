@@ -1,0 +1,30 @@
+-> root http://china-cpu.com
+  -> 首页 
+    -> 关于我们 
+      -> 网站首页 https://www.china-cpu.com/product-35-0-0.html
+        -> GSC3290 多串口联网服务器开发板 
+        -> GSC3290 开发板 
+        -> GSC3280 多串口服务器开发板 
+        -> GSC3280 开发板 
+        -> 工业互联网通用网关 
+        -> SZLX8025 嵌入式模块 
+        -> SZLX9020 嵌入式模块 
+        -> SZLX8020 嵌入式模块 
+        -> SZLX8015 嵌入式模块 
+  -> 招贤纳士-产品研发部岗位招聘-北京神州龙 https://www.china-cpu.com/job-101-0-118.html
+  -> SZLX9020核心板-产品-产品中心2 https://www.china-cpu.com/news_detail-87-88-139.html
+  -> GSC3290开发板-产品-产品中心2- https://www.china-cpu.com/news_detail-87-88-140.html
+  -> GSC3280嵌入式处理器-产品-产品中 http://www.china-cpu.com/news_detail-87-88-46.html
+  -> GSC3281嵌入式处理器-产品-产品中 http://www.china-cpu.com/news_detail-87-88-47.html
+  -> GSC3280开发板-产品-产品中心2- http://www.china-cpu.com/news_detail-87-88-48.html
+  -> SZLX8012核心板-产品-产品中心2 http://www.china-cpu.com/news_detail-87-88-138.html
+  -> SZLX8025核心板-产品-产品中心2 https://www.china-cpu.com/news_detail-87-88-176.html
+  -> SZLX8020核心板-产品-产品中心2 https://www.china-cpu.com/news_detail-87-88-159.html
+  -> SZLX8015核心板-产品-产品中心2 https://www.china-cpu.com/news_detail-87-88-158.html
+  -> GSC3290开发板-产品-产品中心2-_1 http://www.china-cpu.com/news_detail-87-88-140.html
+  -> GSC3290多串口联网服务器开发板-产 https://www.china-cpu.com/news_detail-87-88-160.html
+  -> GSC3280多串口联网服务器开发板-产 http://www.china-cpu.com/news_detail-87-88-49.html
+  -> 龙芯GS2F嵌入式主板-产品-产品中心2 http://www.china-cpu.com/news_detail-87-88-137.html
+  -> SIN3280开发板-产品-产品中心2- http://www.china-cpu.com/news_detail-87-88-50.html
+  -> LoRa模块-产品-产品中心2-北京神州 https://www.china-cpu.com/news_detail-87-88-177.html
+  -> BLX1081S系列USB存储模块-产品 https://www.china-cpu.com/news_detail-87-88-178.html

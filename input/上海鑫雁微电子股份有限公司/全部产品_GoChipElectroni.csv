@@ -1,0 +1,17 @@
+产品网址：http://en.golden-chip.com/product-2.aspx
+产品结构：root->全部产品_GoChipElectronicTechnology(Shanghai)Co.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Fan/Motor driver IC|无|基于霍尔效应原理，通过输出相应的高低电平信号确定转子位置，并输出相应电流驱动电机工作。具有高灵敏度、良好对称性、过热保护、智能保护、强抗干扰能力等特点。典型应用于水泵、风扇、微电机等。|
+
+Model,Magnetic switching point (typ),Voltage range,Working current,Package form,Operating temperature,Reverse connection protection,Stall protection,FG function,Download
+GH381,±25GS,3.0~24.0VDC,600mA,TO-94,-40~85℃,√,√,×,Download
+GH284,±30GS,3.5~18.0VDC,400mA,TO-94,-40~85℃,√,√,×,Download
+GH266A,±30GS,3.5~28.0VDC,400mA,TO-94,-40~85℃,√,×,×,Download
+GH9280,±25GS,3.5~18.0VDC,500mA,TO-94,-40~105℃,√,√,×,Download
+GH211A,±30GS,3.5~18.0VDC,400mA,TO-94,-40~85℃,√,×,√,Download
+GH295,±30GS,3.5~30.0VDC,500mA,TO-94,-40~85℃,√,√,√,Download
+GH686A,±30GS,3.5~18.0VDC,500mA,TO-94,-40~85℃,×,×,×,Download
+GH466,±15GS,2.5~18.0VDC,600mA,TO-94,-40~85℃,×,√,×,Download
+GH4112,±25GS,3.0~20.0VDC,250mA,TO-94,-40~105℃,√,√,×,Download

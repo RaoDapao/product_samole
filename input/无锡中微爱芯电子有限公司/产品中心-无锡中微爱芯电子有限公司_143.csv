@@ -1,0 +1,6 @@
+产品网址：http://www.i-core.cn/proshow/312.html
+产品结构：root->产品中心-无锡中微爱芯电子有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|8-Bit Flash MCU|AiP8F2032|32KBFlash ROM 的 LCD 型 8 位微控制器，内置 32KB 编程 FLASH、256B IRAM、768B XRAM，内部集成 Timer0/1/2/3/4、WDT 定时器、WT 定时器、USI0/1、SPI2、LCD、12bit-ADC、LVR/LVI 和高精度振荡电路。主要特点包括：8051 内核，工作电压 2.0V～5.5V，工作模式有普通模式（RUN）、空闲模式（IDLE）、停止模式（STOP），存储器包括 256B IRAM、768B XRAM 和 32KB FLASH，时钟有内部高速振荡 HIRC:16MHz、内部低速振荡 LIRC:5kHz、外部高速晶振 HXT:0.4M～12MHz、外部低速晶振 LXT:32.768kHz，低电压复位有 14 级选择，低电压检测有 13 级选择，中断有 12 个外部中断源、16 个内部中断源，中断优先级可软件设置，GPIO 有 42 个多功能双向 I/O 口，支持独立弱上拉，8 个可复用 COM 口，定时器有 1 个 8 位通用定时器 T0、2 个 16 位通用定时器 T1/2、2 个 16 位高级定时器 T3/4、Watch Dog Timer（WDT）、Watch Timer（WT）、8 位基本间隔定时器 BIT，通信接口有 2 路 USI0/1、1 路 SPI2，蜂鸣器有 1 个 BUZZER，显示驱动模块有 LCD 驱动，最大支持 27SEG 和 8COM，模拟外设包括 ADC、12 位 A/D 转换器，最多支持 16 输入外部通道、内部 VDD、外部 AVREF 基准，工作温度-40～+85℃，封装类型有 SOP32/SOP28/SSOP48/QFP44/QFN32/QFN20/LQFP48|

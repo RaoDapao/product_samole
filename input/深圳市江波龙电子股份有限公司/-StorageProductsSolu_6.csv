@@ -1,0 +1,18 @@
+产品网址：https://www.longsys.com/products/memory-module/enterprise-memory-module/enterprise-ddr4-r-dimm.html
+产品结构：root->-StorageProductsSolution–LongsysacquiredLEXAR&Foreseee
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|FORESEE AQUILA Series Enterprise DDR4-RDIMM|无|同步传输到 CPU，传输和操作与 CPU 同步，完美的硬核交互模式确保操作场景流畅；随机读/写，CPU 可以对内存进行并发读/写操作，无论数据操作时间或数据存储位置如何；无限写/擦除周期，电容存储单元结构和动态充电和放电刷新模式消除了衰减的写和擦除特性；标准兼容性，产品支持所有 DDR4 标准接口和应用，无需硬件调试|
+
+Product Series,PN,Capacity,Interface,Architecture,Data Rate,CL,Timing,Clock,Operating Voltage,Gold Fingers (Edge Connectors),Operating Temperature,Size
+AQUILA DDR4,RER432A032G7-WFS100,32GB,RDIMM,2RX8,3200Mbps,22,22-22-22,1600MHz,1.2V,"30u""",0℃~85°C Extended 95°C,133.35×31.25×4.1mm
+AQUILA DDR4,RER432B032G7-CAS100,32GB,RDIMM,2RX4,3200Mbps,22,22-22-22,1600MHz,1.2V,"30u""",0℃~85°C Extended 95°C,133.35×31.25×4.1mm
+AQUILA DDR4,RER432B032G7-HES100,32GB,RDIMM,2RX4,3200Mbps,22,22-22-22,1600MHz,1.2V,"30u""",0℃~85°C Extended 95°C,133.35×31.25×4.1mm
+AQUILA DDR4,RER432B064G7-HCS100,64GB,RDIMM,2RX4,3200Mbps,22,22-22-22,1600MHz,1.2V,"30u""",0℃~85°C Extended 95°C,133.35×31.25×4.1mm
+
+
+Number,Platform
+01,Intel
+02,AMD
+（  The product supports mainstream platforms and only part of it is shown here.  ）,（  The product supports mainstream platforms and only part of it is shown here.  ）

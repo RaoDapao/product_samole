@@ -1,0 +1,208 @@
+-> root https://www.novastar-led.cn
+  -> 西安诺瓦星云科技股份有限公司-控制系统 https://www.novastar-led.cn/index/products/productlist.html?id=1
+    -> COEX 系列 
+    -> 4K 带载 
+    -> 1080P 带载 
+    -> 130 万带载 
+    -> 接收卡 
+    -> 软件 
+    -> 配件 
+  -> 西安诺瓦星云科技股份有限公司-视频处理 https://www.novastar-led.cn/index/products/productlist.html?id=2
+    -> MCTRL4K（4K×2K）、MCTRL1600（4K×2K）、MCTRLR5（4K×1K） 
+    -> MCTRL700、MCTRL660 PRO、MCTRL660、MCTRL600 
+    -> MCTRL300、MSD300 
+    -> CA 系列、Armor 系列、AT 系列、MRV 系列、DH 系列 
+    -> VMP 视觉管理平台、COB 屏体校正软件、专业逐点校正软件、智能配屏软件 SmartLCT 
+    -> 光电转换器系列、监控类配件 
+    -> MG420/MG421/MGT2000 
+    -> H20/H15/H9/H5/H2 
+    -> 银河管理平台、星河智控平台 
+    -> D32、D12、N20/N10 
+    -> C5 Pro、C5、C3 
+    -> ET4000/ET2000 
+    -> V2460 / V1260n / V1160 / V1060n / V960 / V760 
+    -> K16 
+    -> VX1000 / VX600 / VX400、NovaPro UHD Jr 
+    -> HDR Master 4K 
+    -> 视频拼接软件 V-Can 
+    -> 中控系统 Vunit 3000、智能中控 Vunit 2000、视频输入扩展器 VE7、视频分配器 4K UHD 1×4 
+    -> Taurus Ultra 系列 
+    -> Taurus 系列 
+    -> LCB 系列 
+    -> 屏精灵 
+    -> 屏老板 
+    -> 飞舵 
+    -> MLED Demura 系统 
+    -> MLED 点亮测试机 
+    -> MLED 墨色检测分选机 
+    -> TBS6332/TBS6336、TBS614E/TBS614S 
+  -> 西安诺瓦星云科技股份有限公司-诺瓦云 https://www.novastar-led.cn/index/products/productlist.html?id=4
+    -> LED 播控处理器 
+    -> LED 多媒体播放器 
+    -> LCD 多媒体播放器 
+    -> 全场景信息发布平台 
+    -> 显示屏售前、施工、售后全流程服务云平台 
+    -> 智慧门店一站式解决方案 
+  -> 西安诺瓦星云科技股份有限公司-MLED智 https://www.novastar-led.cn/index/products/productlist.html?id=5
+    -> MCTRL4K (4K×2K) 
+    -> MCTRL1600 (4K×2K) 
+    -> MCTRLR5 (4K×1K) 
+    -> MCTRL700 
+    -> MCTRL660 PRO 
+    -> MCTRL660 
+    -> MCTRL600 
+    -> MCTRL300 
+    -> MSD300 
+    -> CA 系列 
+    -> Armor 系列 
+    -> AT 系列 
+    -> MRV 系列 
+    -> DH 系列 
+    -> VMP 视觉管理平台 
+    -> COB 屏体校正软件 
+    -> 专业逐点校正软件 
+    -> 智能配屏软件 SmartLCT 
+    -> 光电转换器系列 
+    -> 监控类配件 
+    -> D32 
+    -> D12 
+    -> N20/N10 
+    -> C5 Pro 
+    -> C5 
+    -> C3 
+    -> 中控系统 Vunit 3000 
+    -> 智能中控 Vunit 2000 
+    -> 视频输入扩展器 VE7 
+    -> 视频分配器 4K UHD 1×4 
+    -> MLED 显示 ASIC 控制芯片 
+    -> MLED 显示高速接口芯片 
+  -> 西安诺瓦星云科技股份有限公司-控制与接口 https://www.novastar-led.cn/index/products/productlist.html?id=31
+    -> 控制与接口芯片 
+    -> 控制与接口芯片 
+  -> 西安诺瓦星云科技股份有限公司-XR虚拟拍 https://www.novastar-led.cn/index/products/index.html?id=77
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+    -> 控制系统 
+  -> 西安诺瓦星云科技股份有限公司-诺瓦云_1 https://www.novastar-led.cn/index/products/index.html?id=106
+    -> 分布式系统 
+    -> 视频拼接器 
+    -> 可视化平台 
+    -> 视频切换器 
+    -> 控台 
+    -> 多媒体服务器 
+    -> 视频控制器(工程版) 
+    -> 视频控制器(租赁版) 
+    -> 视频控制器(国际版) 
+    -> 视频处理器 
+    -> 软件系列 
+  -> 西安诺瓦星云科技股份有限公司-MX600 https://www.novastar-led.cn/index/products/index.html?id=101
+    -> MX6000 Pro 
+    -> MX2000 Pro 
+  -> 西安诺瓦星云科技股份有限公司-MX40P https://www.novastar-led.cn/index/products/index.html?id=74
+  -> 西安诺瓦星云科技股份有限公司-CX40P https://www.novastar-led.cn/index/products/index.html?id=84
+  -> 西安诺瓦星云科技股份有限公司-MCTRL https://www.novastar-led.cn/index/products/index.html?id=1
+  -> 西安诺瓦星云科技股份有限公司-MCTRL_1 https://www.novastar-led.cn/index/products/index.html?id=15
+  -> 西安诺瓦星云科技股份有限公司-MCTRL_2 https://www.novastar-led.cn/index/products/index.html?id=62
+  -> 西安诺瓦星云科技股份有限公司-MCTRL_3 https://www.novastar-led.cn/index/products/index.html?id=65
+  -> 西安诺瓦星云科技股份有限公司-MCTRL_4 https://www.novastar-led.cn/index/products/index.html?id=16
+  -> 西安诺瓦星云科技股份有限公司-MCTRL_5 https://www.novastar-led.cn/index/products/index.html?id=17
+  -> 西安诺瓦星云科技股份有限公司-MCTRL_6 https://www.novastar-led.cn/index/products/index.html?id=18
+  -> 西安诺瓦星云科技股份有限公司-MCTRL_7 https://www.novastar-led.cn/index/products/index.html?id=20
+  -> 西安诺瓦星云科技股份有限公司-MSD30 https://www.novastar-led.cn/index/products/index.html?id=19
+  -> 西安诺瓦星云科技股份有限公司-CA系列 https://www.novastar-led.cn/index/products/index.html?id=85
+  -> 西安诺瓦星云科技股份有限公司-Armor https://www.novastar-led.cn/index/products/index.html?id=7
+  -> 西安诺瓦星云科技股份有限公司-AT系列 https://www.novastar-led.cn/index/products/index.html?id=63
+  -> 西安诺瓦星云科技股份有限公司-MRV系列 https://www.novastar-led.cn/index/products/index.html?id=22
+  -> 西安诺瓦星云科技股份有限公司-DH系列 https://www.novastar-led.cn/index/products/index.html?id=21
+  -> 西安诺瓦星云科技股份有限公司-VMP视觉 https://www.novastar-led.cn/index/products/index.html?id=75
+  -> 西安诺瓦星云科技股份有限公司-专业逐点校 https://www.novastar-led.cn/index/products/index.html?id=57
+  -> 西安诺瓦星云科技股份有限公司-智能配屏软 https://www.novastar-led.cn/index/products/index.html?id=4
+  -> 西安诺瓦星云科技股份有限公司-光电转换器 https://www.novastar-led.cn/index/products/lists.html?id=1&name=%E5%85%89%E7%94%B5%E8%BD%AC%E6%8D%A2%E5%99%A8%E7%B3%BB%E5%88%97
+    -> 光电转换器 
+    -> 光电转换器 
+    -> 光电转换器 
+    -> 光电转换器 
+  -> 西安诺瓦星云科技股份有限公司-监控类配件 https://www.novastar-led.cn/index/products/lists.html?id=2&name=%E7%9B%91%E6%8E%A7%E7%B1%BB%E9%85%8D%E4%BB%B6
+    -> 监控卡 
+    -> 光探头 
+    -> 多功能卡 
+    -> 温度探测器 
+  -> 西安诺瓦星云科技股份有限公司-MG420 https://www.novastar-led.cn/index/products/index.html?id=80
+  -> 西安诺瓦星云科技股份有限公司-H20-H https://www.novastar-led.cn/index/products/index.html?id=61
+    -> H20 视频拼接服务器 
+    -> H15 视频拼接服务器 
+    -> H9 视频拼接服务器 
+    -> H5 视频拼接服务器 
+    -> H2 视频拼接服务器 
+  -> 西安诺瓦星云科技股份有限公司-银河管理平 https://www.novastar-led.cn/index/products/index.html?id=81
+  -> 西安诺瓦星云科技股份有限公司-D32 https://www.novastar-led.cn/index/products/index.html?id=99
+  -> 西安诺瓦星云科技股份有限公司-D12 https://www.novastar-led.cn/index/products/index.html?id=34
+  -> 西安诺瓦星云科技股份有限公司-N20-N https://www.novastar-led.cn/index/products/index.html?id=96
+  -> 西安诺瓦星云科技股份有限公司-C5Pro https://www.novastar-led.cn/index/products/index.html?id=98
+  -> 西安诺瓦星云科技股份有限公司-C5 https://www.novastar-led.cn/index/products/index.html?id=95
+  -> 西安诺瓦星云科技股份有限公司-C3 https://www.novastar-led.cn/index/products/index.html?id=32
+  -> 西安诺瓦星云科技股份有限公司-ET400 https://www.novastar-led.cn/index/products/index.html?id=67
+  -> 西安诺瓦星云科技股份有限公司-V2460 https://www.novastar-led.cn/index/products/index.html?id=9
+  -> 西安诺瓦星云科技股份有限公司-K16 https://www.novastar-led.cn/index/products/index.html?id=3
+  -> 西安诺瓦星云科技股份有限公司-VX100 https://www.novastar-led.cn/index/products/index.html?id=73
+  -> 西安诺瓦星云科技股份有限公司-NovaP https://www.novastar-led.cn/index/products/index.html?id=41
+  -> 西安诺瓦星云科技股份有限公司-HDRMa https://www.novastar-led.cn/index/products/index.html?id=68
+  -> 西安诺瓦星云科技股份有限公司-视频拼接软 https://www.novastar-led.cn/index/products/index.html?id=35
+  -> 西安诺瓦星云科技股份有限公司-中控系统V https://www.novastar-led.cn/index/products/index.html?id=109
+  -> 西安诺瓦星云科技股份有限公司-智能中控V https://www.novastar-led.cn/index/products/index.html?id=72
+  -> 西安诺瓦星云科技股份有限公司-视频输入扩 https://www.novastar-led.cn/index/products/index.html?id=48
+  -> 西安诺瓦星云科技股份有限公司-视频分配器 https://www.novastar-led.cn/index/products/index.html?id=47
+  -> 西安诺瓦星云科技股份有限公司-Tauru https://www.novastar-led.cn/index/products/index.html?id=93
+  -> 西安诺瓦星云科技股份有限公司-Tauru_1 https://www.novastar-led.cn/index/products/index.html?id=28
+  -> 西安诺瓦星云科技股份有限公司-LCB系列 https://www.novastar-led.cn/index/products/index.html?id=103
+  -> 西安诺瓦星云科技股份有限公司-MLED全 https://www.novastar-led.cn/index/products/index.html?id=90
+  -> 西安诺瓦星云科技股份有限公司-MLED点 https://www.novastar-led.cn/index/products/index.html?id=89
+  -> 西安诺瓦星云科技股份有限公司-MLED墨 https://www.novastar-led.cn/index/products/index.html?id=88
+  -> 西安诺瓦星云科技股份有限公司-TBS63 https://www.novastar-led.cn/index/products/index.html?id=92
+  -> 西安诺瓦星云科技股份有限公司-TBS61 https://www.novastar-led.cn/index/products/index.html?id=91
+  -> 西安诺瓦星云科技股份有限公司 https://www.novastar-led.cn/index/products/csentry.html
+  -> 西安诺瓦星云科技股份有限公司-MX600_1 https://www.novastar-led.cn/index/products/index.html?id=107
+  -> 西安诺瓦星云科技股份有限公司-C5Pro_1 https://www.novastar-led.cn/index/products/index.html?id=100
+  -> 西安诺瓦星云科技股份有限公司-光电转换器_1 https://www.novastar-led.cn/index/products/index.html?id=82
+  -> 西安诺瓦星云科技股份有限公司-光电转换器_2 https://www.novastar-led.cn/index/products/index.html?id=71
+  -> 西安诺瓦星云科技股份有限公司-光电转换器_3 https://www.novastar-led.cn/index/products/index.html?id=8
+  -> 西安诺瓦星云科技股份有限公司-光电转换器_4 https://www.novastar-led.cn/index/products/index.html?id=51
+  -> 西安诺瓦星云科技股份有限公司-监控卡MO https://www.novastar-led.cn/index/products/index.html?id=53
+  -> 西安诺瓦星云科技股份有限公司-光探头NS https://www.novastar-led.cn/index/products/index.html?id=54
+  -> 西安诺瓦星云科技股份有限公司-多功能卡M https://www.novastar-led.cn/index/products/index.html?id=52
+  -> 西安诺瓦星云科技股份有限公司-温度探测器 https://www.novastar-led.cn/index/products/index.html?id=55
+  -> 案例详情 https://www.novastar-led.cn/index/products/casedetail.html?id=9
+  -> 西安诺瓦星云科技股份有限公司-C5+N2 https://www.novastar-led.cn/index/products/index.html?id=97
+  -> 案例详情_1 https://www.novastar-led.cn/index/products/casedetail.html?id=24#
+  -> 案例详情_2 https://www.novastar-led.cn/index/products/casedetail.html?id=7#
+  -> 案例详情_3 https://www.novastar-led.cn/index/products/casedetail.html?id=9#

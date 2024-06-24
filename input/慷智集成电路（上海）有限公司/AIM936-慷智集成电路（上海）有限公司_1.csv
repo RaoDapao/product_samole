@@ -1,0 +1,6 @@
+产品网址：https://en.aimicron.com/Products/35
+产品结构：root->AIM936-慷智集成电路（上海）有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|INTELLIGENT AUTOMOTIVE HIGH-DEFINITION AUDIO AND VIDEO TRANSMISSION SERDES CHIPSETS|AIM936|2 lane AHDL-II single-channel serial input；MIPI CSI-2 configurable to 2-4 ports with 8 data lane and 2 clock lane, up to 2.5 Gbps per lane；Aggregates from 2 different resolution data streams onto one interface output；Frame sync signal transits with ultra low latency and near-zero clock skew；System clock transits through reverse channel to synchronize；Enables transmission of high-speed video, bi-directional control data and power over a single Coax or shielded-twisted pair (STP) cable；CDR on receiver with no external source of reference clock required；Multiple GPIO controls 2 camera separately；Adjustable Spread Spectrum output for EMI reduction；Multiple EQ supports long distance cable transmission；Error Detection/Correction(ECC/CRC) of Video/Control Data；1.8V and 1.1V power supply, IO supports 1.8V and 3.3V；Build In Self Test (BIST) and on-chip video pattern generator for system diagnostics；AEC-Q100 Grade 2 qualified and ESD protection；48-Pin (7mm*7mm) QFN package|

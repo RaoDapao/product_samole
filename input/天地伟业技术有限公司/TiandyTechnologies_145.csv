@@ -1,0 +1,61 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/932.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|NVR|Spark|1HDD|
+|NVR|Spark|H.265 1 HDD 5ch NVR，TC-R3105，支持 H.265、H.264 等视频格式，最多可接入 5 路 IP 摄像机，访问/转发带宽为 60Mbps/40Mbps，具有 5MP（30fps）×1、4MP（30fps）×1、3MP（30fps）×1、1080P（30fps）×2 预览解码能力，4 路同步回放，5MP（30fps）×1、4MP（30fps）×1、3MP（30fps）×1、1080P（30fps）×2 回放解码能力，每块 HDD 最大容量为 6TB，1×HDMI 输出，HDMI 输出分辨率最高可达 1080P，1×RJ-45，10/100Mbps 自适应以太网端口，S+265 压缩可有效减少存储空间达 75%，支持云升级|
+
+Video and Audio,Unnamed: 1
+Access Channel,5
+Incoming Bandwidth,60Mbps
+Outgoing Bandwidth,40Mbps
+Resolution,5MP/4MP/3MP/1080P/UXGA/720P/VGA/4CIF/DCIF/2CIF/CIF/QCIF
+Preview Decoding Capability,"5MP(30fps)×1, 4MP(30fps)×1, 3MP(30fps)×1, 1080P(30fps)×2, 720P(30fps)×5, 4CIF(30fps)×5"
+Third-party Camera Access,ONVIF; RTSP
+HDMI Output,"HDMI:1024×768(60Hz), (720P )1280×720(50Hz/60Hz), 1280×800(60Hz), 1440×900(60Hz), (1080P)1920×1080(50Hz/60Hz)"
+Multi-screen Display,1/3/4/5/6
+Compression,
+Video,S+265; H.265; S+264; H.264
+Audio,G711A; G711U; ADPCM_DIV4
+Stream Type,Video; Video & Audio
+Network,
+Network Protocol,ARP; DDNS; DHCP; DNS; Easy DDNS; HTTP; ICMP; IGMP; IPv4; IPv6; NTP; RTCP; RTP; RTSP; SSH; TCP/IP; UDP; UPnP
+Mobile Phone Access,Android; iOS; P2P_A
+System Compatibility,CGI; SDK
+Web,IE10+; Firefox52+; Edge89+; Safari11+; Chrome57+
+Record Playback,
+Multi-channel Playback,4
+Record Mode,Alarm recording; Schedule recording
+Storage Method,Local HDD
+Backup,USB storage device
+Playback Function,Play/Pause/Stop/Slow/Speed/Backwards 30s/Forwards 30s/Full screen/backup (video Editing)
+Alarm,
+General Alarm,Motion; Mask Alarm; Video Loss
+Exceptions Alarm,IP Conflict; MAC Conflict; Network Disconnected; No disk; Illegal Access; Disk Full; Disk R/W error; Video Abnormal; Abnormal found in smart of disk; Abnormal temperature of the disk; POE overloaded; IPC voltage abnormal; RTC failure
+Intelligent Analytics,
+AI by Camera,Advanced Intelligence
+Storage,
+HDD Capacity,Up to 6TB capacity for each HDD
+External Port,
+USB,2×USB2.0
+HDMI,1×HDMI
+Network Interface,"1×RJ-45, 10/100 Mbps self-adaptive Ethernet port"
+SATA,1×SATA interface
+General,
+UI Language,English; Spanish; Italian; Turkish; French; Polish; Dutch; Hebrew; German; Ukrainian; Portuguese
+Power Supply,DC12V 1.5A
+Power Consumption,<10W(without HDD&without PoE)
+NetWeight,0.2kg
+GrossWeight,0.47kg
+Boundary Dimensions,203(L)120(W)39(H)mm
+Package Dimensions,215(L)55(W)220(H)mm
+Operating Temperature,-10℃~+45℃
+Operating Humidity,10%~90%RH
+Storage Temperature,-10℃~+45℃
+Storage Humidity,10%~90%RH
+Package Kit,Network Video Recorder; Screw pack; Mouse; Power adapter
+
+
+Date,Title,Type
+2024-04-07,1D.20030.020322_TC-R3105 IBLS_en,pdf

@@ -1,0 +1,40 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=105&ncid=178&deid=169
+产品结构：root->Huahuan_Products_H10MOSSeriesPDHMux
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|PDH 复用器|H10MOS 系列|提供以太网和 E1 通道在光纤连接上的传输，具有紧凑、轻便、低功耗和高可靠性的特点|
+
+Type,E1 Port,10/100Base-Tx Electrical,1000Base-Tx Electrical,Optical Port Qty
+H10MOS-30,1,/,/,1
+H10MOS-60,2,/,/,1
+H10MOS-60B,2,1,/,1
+H10MOS-120+U,4,/,/,1
+H10MOS-120B+U,4,1,/,1/2
+H10MOS-240G,8,/,1,1
+
+
+Optical Interface,Optical Interface.1,Optical Interface.2,Optical Interface.3,Optical Interface.4,Optical Interface.5,Optical Interface.6,Optical Interface.7
+Type,Wavelength (nm),Conversion efficiency of the average power (dBm),Conversion efficiency of the average power (dBm),Receiving sensitivity (dBm),Receiver overload (dBm),Connector,Configuration type
+Double fiber bi-directional,1310,-5~-12,-5~-12,Superior to -36,-3,FC socket,Standard
+Double fiber bi-directional,1310,0~-5,0~-5,Superior to -36,-3,FC or SC socket,Selective
+Single fiber bi-directional,1310/1550,-8~-14,-8~-14,Superior to -30,-3,FC or SC socket,Selective
+Single fiber bi-directional,1310/1550,0~-5,0~-5,Superior to -30,-3,FC or SC socket,Selective
+E1 Interface,E1 Interface,E1 Interface,E1 Interface,E1 Interface,E1 Interface,E1 Interface,E1 Interface
+Standards,Standards,Standards,Complied with ITU-TG.703,Complied with ITU-TG.703,Complied with ITU-TG.703,Complied with ITU-TG.703,Complied with ITU-TG.703
+Bite rate,Bite rate,Bite rate,2048kbps±50ppm,2048kbps±50ppm,2048kbps±50ppm,2048kbps±50ppm,2048kbps±50ppm
+Coding,Coding,Coding,HDB3,HDB3,HDB3,HDB3,HDB3
+Impedance,Impedance,Impedance,"120Ω(balanced,RJ-48 socket)","120Ω(balanced,RJ-48 socket)","120Ω(balanced,RJ-48 socket)","120Ω(balanced,RJ-48 socket)","120Ω(balanced,RJ-48 socket)"
+10/100/1000 Base-Tx Ethernet Interface,10/100/1000 Base-Tx Ethernet Interface,10/100/1000 Base-Tx Ethernet Interface,10/100/1000 Base-Tx Ethernet Interface,10/100/1000 Base-Tx Ethernet Interface,10/100/1000 Base-Tx Ethernet Interface,10/100/1000 Base-Tx Ethernet Interface,10/100/1000 Base-Tx Ethernet Interface
+Standards,Standards,Standards,IEEE802.3,IEEE802.3,IEEE802.3,IEEE802.3,IEEE802.3
+Mode,Mode,Mode,10/100/1000M full-duplex/half-duplex adaptive choice,10/100/1000M full-duplex/half-duplex adaptive choice,10/100/1000M full-duplex/half-duplex adaptive choice,10/100/1000M full-duplex/half-duplex adaptive choice,10/100/1000M full-duplex/half-duplex adaptive choice
+,,,"HP auto-MDIX function, MDI and MDI-X(uncrossed and crossed) reticle adaptive choice","HP auto-MDIX function, MDI and MDI-X(uncrossed and crossed) reticle adaptive choice","HP auto-MDIX function, MDI and MDI-X(uncrossed and crossed) reticle adaptive choice","HP auto-MDIX function, MDI and MDI-X(uncrossed and crossed) reticle adaptive choice","HP auto-MDIX function, MDI and MDI-X(uncrossed and crossed) reticle adaptive choice"
+,,,802.1Q MAC bag transparent transmission,802.1Q MAC bag transparent transmission,802.1Q MAC bag transparent transmission,802.1Q MAC bag transparent transmission,802.1Q MAC bag transparent transmission
+,,,"1 MAC address list,64Kbyte packets buffer space","1 MAC address list,64Kbyte packets buffer space","1 MAC address list,64Kbyte packets buffer space","1 MAC address list,64Kbyte packets buffer space","1 MAC address list,64Kbyte packets buffer space"
+Power Supply,Power Supply,Power Supply,Power Supply,Power Supply,Power Supply,Power Supply,Power Supply
+DC,DC,DC,-48V(-38V~-62V),-48V(-38V~-62V),-48V(-38V~-62V),-48V(-38V~-62V),-48V(-38V~-62V)
+AC,AC,AC,~220V(170V~260V),~220V(170V~260V),~220V(170V~260V),~220V(170V~260V),~220V(170V~260V)
+Consumption,Consumption,Consumption,≤5w,≤5w,≤5w,≤5w,≤5w
+Working Environment,Working Environment,Working Environment,Working Environment,Working Environment,Working Environment,Working Environment,Working Environment
+Temperature,Temperature,Temperature,(0~50)ºC,(0~50)ºC,(0~50)ºC,(0~50)ºC,(0~50)ºC
+Humidity,Humidity,Humidity,≤90%(non-condensing),≤90%(non-condensing),≤90%(non-condensing),≤90%(non-condensing),≤90%(non-condensing)

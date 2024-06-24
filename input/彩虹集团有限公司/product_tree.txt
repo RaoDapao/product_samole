@@ -1,0 +1,119 @@
+-> root http://www.calterah.com
+  -> 加特兰微电子-产品中心 https://www.calterah.com/product
+    -> SoC 
+    -> SoC 
+    -> SoC 
+    -> SoC 
+    -> SoC 
+    -> SoC 
+    -> Transceiver 
+    -> Transceiver 
+  -> 加特兰微电子-SoC https://www.calterah.com/producttypes/soc
+    -> Alps 
+    -> Alps-Pro 
+    -> Alps-Mini 
+    -> Rhine 
+    -> Rhine-Pro 
+    -> Rhine-Mini 
+  -> 加特兰微电子-Alps https://www.calterah.com/producttypes/alps
+    -> Alps 4T4R 77/79 GHz Radar SoC 
+    -> Alps 2T4R 77/79 GHz Radar SoC 
+    -> Alps 4T4R 77/79 GHz Radar SoC AiP 
+    -> Alps 4T4R 77/79 GHz Radar SoC AiP 
+    -> Alps/Rhine 数据采集板 
+    -> Alps 雷达开发平台 
+    -> Alps 雷达开发平台 
+    -> Alps 雷达开发平台 
+    -> Alps AiP 雷达开发平台 
+  -> 加特兰微电子-Alps-Pro https://www.calterah.com/producttypes/alps-pro
+  -> 加特兰微电子-Alps-Mini https://www.calterah.com/producttypes/alpsmini
+    -> Alps-Mini 2T2R 77/79 GHz Radar SoC 
+    -> Alps-Mini 2T2R 77/79 GHz Radar SoC AiP 
+    -> Alps-Mini 2T2R 77/79GHz Radar SoC AiP 
+    -> Alps-Mini/Rhine-Mini 数据采集板 
+    -> Alps-Mini AiP 雷达开发平台 
+    -> Alps-Mini AiP 雷达开发平台 
+    -> Alps-Mini 雷达开发平台 
+  -> 加特兰微电子-Rhine https://www.calterah.com/producttypes/rhine
+    -> Rhine 4T4R 60GHz Radar SoC 
+    -> Rhine 4T4R 60GHz Radar SoC AiP 
+    -> Rhine 4T4R 60GHz Radar SoC AiP 
+    -> Rhine 雷达开发平台 
+    -> Rhine AiP 雷达开发平台 
+  -> 加特兰微电子-Rhine-Pro https://www.calterah.com/producttypes/rhine-pro
+  -> 加特兰微电子-Rhine-Mini https://www.calterah.com/producttypes/rhine-mini
+    -> Rhine-Mini 2T2R 60GHz Radar SoC AiP 
+    -> Rhine-Mini 2T2R 60-GHz Radar SoC AiP 
+    -> Rhine-Mini AiP 雷达开发平台 
+    -> Rhine-Mini AiP 雷达开发平台 
+  -> 加特兰微电子-Transceiver https://www.calterah.com/producttypes/tranceiver
+  -> 加特兰微电子-Yosemite https://www.calterah.com/producttypes/yosemite
+    -> Yosemite 
+    -> Yosemite 
+    -> 数据采集板 (DCK) 
+    -> 射频天线板 77GHz 2T4R (Mars) 
+    -> 射频天线板 (Jupiter-S) 
+    -> 射频天线板 (Jupiter-D) 
+    -> 雷达开发平台 (RDP-F-S) 
+    -> 雷达开发平台 (RDP-C-S) 
+    -> 芯片评估板 (EVK) 
+  -> 加特兰微电子-Yellowstone https://www.calterah.com/producttypes/yellowstone
+  -> 加特兰微电子-Alps_1 https://www.calterah.com/producttypes/alps/#
+  -> 加特兰微电子-概述 https://www.calterah.com/producttypes/intro-alps
+  -> 加特兰微电子-开发板 https://www.calterah.com/producttypes/board-alps
+  -> 加特兰微电子-Alps4T4R77-79 https://www.calterah.com/product/shop-cal77s244-ae
+  -> 加特兰微电子-Alps2T4R77-79 https://www.calterah.com/product/alps2t4r7779ghzradarsoc
+  -> 加特兰微电子-Alps4T4R77-79_1 https://www.calterah.com/product/alps4t4r7779ghzradarsocaipab
+  -> 加特兰官网 https://online.calterah.com/#/jtlHome?lang=zh&id=553040396028514304
+    -> 汽车雷达 SoC 
+    -> 汽车雷达 SoC 
+    -> 汽车雷达 SoC 
+    -> 汽车/工业雷达 SoC 
+    -> 汽车雷达 SoC 
+    -> 雷达 SoC 
+  -> 加特兰微电子-Alps-Rhine数据采 https://www.calterah.com/product/alpsrhineshujucaijikaethernet
+  -> 加特兰微电子-Alps雷达开发平台 https://www.calterah.com/product/alpsleidakaifapingtai
+  -> 加特兰微电子-Alps雷达开发平台_1 https://www.calterah.com/product/alpsleidakaifapingtaifuzhi
+  -> 加特兰微电子-Alps雷达开发平台_2 https://www.calterah.com/product/alpsleidakaifapingtai-2
+  -> 加特兰微电子-AlpsAiP雷达开发平台 https://www.calterah.com/product/alpsaipleidakaifapingtai
+  -> 加特兰微电子-概述_1 https://www.calterah.com/producttypes/intro-alps-pro
+  -> 加特兰微电子-开发板_1 https://www.calterah.com/producttypes/kaifaban-alps-pro
+  -> 加特兰官网_1 https://online.calterah.com/#/jtlHome?lang=zh&id=553041871679057920
+  -> 加特兰官网_2 https://online.calterah.com/#/jtlHome?lang=zh&id=553042076191199232
+  -> 加特兰微电子-Rhine_1 https://www.calterah.com/producttypes/rhine/#
+  -> 加特兰微电子-概述_2 https://www.calterah.com/producttypes/intro-rhine
+  -> 加特兰微电子-开发板_2 https://www.calterah.com/producttypes/board-rhine
+  -> 加特兰微电子-Rhine4T4R60GH https://www.calterah.com/product/rhine4t4r60ghzradarsoc-2
+  -> 加特兰微电子-Rhine4T4R60GH_1 https://www.calterah.com/product/rhine4t4r60ghzradarsocaip-2
+  -> 加特兰官网_3 https://online.calterah.com/#/jtlHome?lang=zh&id=553042632100057088
+    -> CAL60S244-IB 
+  -> 加特兰微电子-Rhine雷达开发平台 https://www.calterah.com/product/rhineleidakaifapingtairdp60s244iemvenus
+  -> 加特兰微电子-RhineAiP雷达开发平 https://www.calterah.com/product/rhineaipleidakaifapingtai
+  -> 加特兰微电子-概述_3 https://www.calterah.com/producttypes/intro-rhine-pro
+  -> 加特兰微电子-概述_4 https://www.calterah.com/producttypes/intro-rhine-mini
+  -> 加特兰官网_4 https://online.calterah.com/#/jtlHome?lang=zh&id=553044525350162432
+  -> 加特兰微电子-Transceiver_1 https://www.calterah.com/producttypes/tranceiver/#
+  -> 加特兰微电子-概述_5 https://www.calterah.com/producttypes/intro-yosemite
+    -> 下载 
+  -> 加特兰微电子-开发板_3 https://www.calterah.com/producttypes/board-yosemite
+    -> Yosemite 4T8R 77/79 GHz Radar Chip 
+    -> Yosemite 2T4R 77/79 GHz Radar Chip 
+  -> 加特兰微电子-Yosemite4T8R7 https://www.calterah.com/product/yosemite4t8r7779ghzradarchip-2
+  -> 加特兰微电子-Yosemite2T4R7 https://www.calterah.com/product/yosemite2t4r7779ghzradarchip
+  -> 加特兰微电子-开发板_4 https://www.calterah.com/producttypes/board-yellowstone
+  -> 加特兰微电子-Yellowstone2T https://www.calterah.com/product/yellowstone2t4r60ghzradarchip
+  -> 加特兰微电子-Rhine4T4R60GH_2 https://www.calterah.com/product/rhine4t4r60ghzradarsocaip-3
+  -> 加特兰微电子-Alps4T4R77-79_2 https://www.calterah.com/product/alps4t4r7779ghzradarsocaip
+  -> 加特兰微电子-质量 https://www.calterah.com/quality-2/?a=6726
+  -> 加特兰微电子-HardwareDesig https://www.calterah.com/producttypes/hardwaredesignguide
+  -> 加特兰微电子-ApplicationNo https://www.calterah.com/producttypes/applicationnote
+  -> 加特兰微电子-开发板_5 https://www.calterah.com/producttypes/board-alps/#
+  -> 加特兰微电子-Alps4T4R77-79_3 https://www.calterah.com/product/shop-cal77s244-ae/#
+  -> 按标签筛选 
+    -> 购物车 https://www.calterah.com/product-category/frequency/7779ghz
+  -> 加特兰微电子-Alps2T4R77-79_1 https://www.calterah.com/product/alps2t4r7779ghzradarsoc/#
+  -> 加特兰微电子-概述_6 https://www.calterah.com/producttypes/intro-alps-pro/#
+  -> 加特兰微电子-开发板_6 https://www.calterah.com/producttypes/kaifaban-alps-pro/#
+  -> 加特兰微电子-概述_7 https://www.calterah.com/producttypes/intro-rhine/#
+  -> 加特兰微电子-Rhine4T4R60GH_3 https://www.calterah.com/product/rhine4t4r60ghzradarsocaip-2/#
+  -> 加特兰微电子-概述_8 https://www.calterah.com/producttypes/intro-rhine-mini/#

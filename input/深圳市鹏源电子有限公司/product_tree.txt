@@ -1,0 +1,67 @@
+-> root https://szapl.com
+  -> 代理产品-深圳市鹏源电子有限公司 https://www.szapl.com/link/1650064905162174464.html
+    -> 氮化铝散热材料 
+    -> IGBT、MOS、FRD、Triac 
+    -> IGBT、MOS、FRD、SCR 
+    -> SiC SBD/MOS 
+    -> 高压直流继电器 
+    -> 数隔、传感器、隔离驱动 
+    -> 霍尔电流传感器 
+  -> 纳芯微120V半桥驱动NSD1224系列 https://www.szapl.com/products_details/5.html
+  -> Littelfuse电池保护产品-深圳市 https://www.szapl.com/products_details/1.html
+  -> CGD与中国台湾工业技术研究院签署GaN https://www.szapl.com/products_details/9.html
+  -> 基于CGDGaNFET设计的PD3.1- https://www.szapl.com/products_details/8.html
+  -> Littelfuse民用三表解决方案-深 https://www.szapl.com/products_details/7.html
+    -> TMOV 系列热保护变阻器 
+    -> MDSR-10 系列磁簧开关 
+    -> CPC1394（1-Form-A）系列固态继电器 
+    -> KSC7 系列密封触点开关 
+  -> 类比半导体支持呼吸阻抗测量的ECGAFE https://www.szapl.com/products_details/6.html
+  -> 代理产品-深圳市鹏源电子有限公司_1 https://www.szapl.com/link/1650064905162174464-9-9.html
+    -> 连接器、继电器 
+    -> SiC SBD/MOS、FRD 
+    -> 压接式可控硅 
+    -> 高压二极管 
+    -> 按钮/拨码开关 
+    -> AMR 电流传感器 
+  -> 代理产品-深圳市鹏源电子有限公司_2 https://www.szapl.com/link/1650064905162174464-18-9.html
+    -> 博盛 
+    -> 芯洲 
+    -> 扬杰 
+    -> 强茂 
+    -> 核芯互联 
+    -> 爱浦 
+    -> 中瓷 
+    -> 三环 
+    -> 维酷 
+  -> 代理产品-深圳市鹏源电子有限公司_3 https://www.szapl.com/link/1650064905162174464-27-9.html
+    -> APL 
+    -> 中科昊芯 
+    -> 万裕 
+    -> 艾华 
+    -> Unicon 
+    -> 华容 
+    -> ICEL 
+    -> 开步睿思 
+    -> 极海 
+  -> 代理产品-深圳市鹏源电子有限公司_4 https://www.szapl.com/link/1650064905162174464-36-9.html
+    -> MCU 
+    -> AFE、ADC、精密运放 
+    -> vFPGA、CPLD 
+    -> DSP 
+    -> FRD、SBD 
+    -> ADC、电压基准 
+    -> 运放 
+    -> DC/DC 芯片 
+    -> 驱动 IC、同步整流 IC 
+  -> SelectedProducts-Sel https://www.szapl.com/products/1.html
+    -> CGD GaN FET 
+    -> Littelfuse 民用三表解决方案 
+    -> 类比半导体 AFE95x 系列 
+    -> 纳芯微 120V 半桥驱动 NSD1224 系列 
+    -> Littelfuse 电池保护产品 
+    -> 纳芯微汽车电子解决方案 
+    -> Churod 中汇瑞德新能源继电器 
+  -> 纳芯微汽车电子解决方案-深圳市鹏源电子有 https://www.szapl.com/products_details/2.html
+  -> Churod中汇瑞德新能源继电器-深圳市 https://www.szapl.com/products_details/3.html
+  -> 开步睿思产品介绍_深圳市鹏源电子有限公司 https://www.szapl.com/video_details/2.html

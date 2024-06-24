@@ -1,0 +1,11 @@
+产品网址：http://latticeart.com/product_category.php?id=19
+产品结构：root->BLDC控制器|产品中心|晶艺半导体有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|BLDC 控制器|无|无|
+
+产品型号,电压等级(V),调速方式,驱动功率方式,特色功能,封装
+LA6100,4.5-40,PWM，Analog,驱动P+N MOS,直驱P+N MOS，正弦相电流，自动超前角，FG，RD等,TSSOP20L
+LA6101,4.5-40,PWM，Analog,驱动4N,可搭配Nano-Bridge EC方案，正弦相电流，自动超前角，FG，RD等,TSSOP20L
+LA6210,4.5-18,PWM,集成功率管,Anywave相电流驱动，自动超前角，FG，RD等,eTSSOP14L

@@ -1,0 +1,6 @@
+产品网址：https://www.eta-semi.com/product/1239.html
+产品结构：首页->过压保护->ETA7011
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|过压保护|ETA7011|Unidirectional and Bidirectional configurable 20V Over-Voltage Protector，可用于单向或双向模式，通过改变外部连接实现。在双向模式下，ETA7011 中的开关具有反向阻断功能，不再有体二极管。具有输入过压保护、0.1us 反应时间、输入隔离电压高达 20V、单向模式下 10mohm Rdson、双向模式下 40mohm Rdson、保护电压可通过 Vfb=1.26V 编程、SCP 和 OTP 等功能。适用于所有带有输入直流电源插头的电子设备。|

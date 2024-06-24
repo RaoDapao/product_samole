@@ -1,0 +1,6 @@
+产品网址：https://www.china-core.com/products_show.php?id=40&lm=47
+产品结构：root->CCM4208S芯片-苏州国芯科技股份有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|生物特征识别领域芯片|CCM4208S|基于 Cortex-M4F 中央处理器的多用途微控制器，具有低功耗、高性能、多功能及高安全性等特点，内置二维码/人脸识别硬件加速引擎，可广泛应用于二维码、指纹识别、人脸识别、智能家居及安全视频监控等应用场景。典型工作频率 400MHz。支持 1024bit RSA、2048bit RSA、256bit SM2 素域等公钥算法引擎，DES/3DES、AES、SM4 等对称算法引擎，SM3、SHA-0/SHA-1/SHA-224/SHA-256/SHA-384/SHA-512 等摘要算法引擎，支持 CRC32/CRC16/CRC8 等安全特性，支持 EPORT、USB OTG、SPI、SSI、I2C、UART、ISO7816、磁条卡、AD 转换、DA 转换、PWM、CAN 总线、MIPI、DCMI、LCD-TFT、SDHOST_2.0、TSI 等接口特性，每一颗产品具有唯一序列号，主电输入电压 1.62V~5.5V，PCI 域输入电压 2V~3.3V，支持内部上电复位和外部复位。|

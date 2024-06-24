@@ -1,0 +1,9 @@
+产品网址：https://www.calterah.com/product/rhine4t4r60ghzradarsocaip-2/#
+产品结构：root->加特兰微电子-Rhine4T4R60GHzRadarSoCAiP
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Rhine 4T4R 60GHz Radar SoC AiP|CAL60S244-IB|工业级全集成毫米波雷达 SoC（集成片内天线），具有 4 个发射通道和 4 个接收通道，片内天线支持水平和俯仰探测，工作频率为 60~64GHz，最大支持 4G 扫频带宽，FMCW 波形生成器支持用户自定义，高速 ADC 采样率高达 50MSPS，同时支持降采样功能，雷达信号处理基带通过硬件电路实现完整雷达信号处理，CPU 为 300MHz ARC® EM6，片内存储空间为 2.625MB RAM，外设接口包括 SPI/QSPI/UART/I²C/LVDS/GPIOs，通过工业级可靠性测试|
+
+重量,0.002 公斤
+尺寸,1.22 × 1.22 厘米

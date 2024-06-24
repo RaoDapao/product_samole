@@ -1,0 +1,10 @@
+-> root http://www.gohimicro.com
+  -> gohi|OfficialWebsite http://www.gohimicro.com/products.html
+    -> DDI 芯片 
+    -> TDDI 芯片 
+    -> E-Paper 芯片 
+    -> 车载芯片 
+  -> gohi|OfficialWebsite_1 http://www.gohimicro.com/product-ddis.html
+  -> gohi|OfficialWebsite_2 http://www.gohimicro.com/product-tddis.html
+  -> gohi|OfficialWebsite_3 http://www.gohimicro.com/product-powers.html
+  -> gohi|OfficialWebsite_4 http://www.gohimicro.com/product-car.html

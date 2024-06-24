@@ -1,0 +1,36 @@
+-> root http://www.tekhydro.cn
+  -> 产品中心 http://www.tekhydro.cn/cpzx
+    -> 移动在线缆道雷达波测流系统 
+    -> 在线式座底 V-ADCP 
+    -> StreamPro 走航式微型 ADCP 
+    -> TRDI C5 一体型 ADCP 
+    -> S3 SVR 电波流速传感器 
+    -> 全自动雷达波在线缆道测流系统 S3 SVR Ⅳ 
+    -> 定点在线雷达波自动测流系统 S3 SVR Ⅲ 
+    -> 便携式无线遥控雷达波缆道测流 S3 SVR II 
+  -> 全自动雷达波在线1 
+    -> 副本 http://www.tekhydro.cn/productinfo/945174.html
+  -> 在线式座底V-ADCP-企业官网 http://www.tekhydro.cn/productinfo/945166.html
+  -> StreamPro走航式微型ADCP-企 http://www.tekhydro.cn/productinfo/945167.html
+  -> TRDIC5一体型ADCP-企业官网 http://www.tekhydro.cn/productinfo/945201.html
+  -> S3SVR电波流速传感器-企业官网 http://www.tekhydro.cn/productinfo/945200.html
+  -> 全自动雷达波在线缆道测流系统S3SVRⅣ http://www.tekhydro.cn/productinfo/945199.html
+  -> 定点在线雷达波自动测流系统S3SVRⅢ- http://www.tekhydro.cn/productinfo/945198.html
+  -> 便携式无线遥控雷达波缆道测流S3SVRI http://www.tekhydro.cn/productinfo/945197.html
+  -> 城市综合水务管理-企业官网 http://www.tekhydro.cn/productinfo/945186.html
+  -> 水文测验综合业务-企业官网 http://www.tekhydro.cn/productinfo/945185.html
+  -> 水质监测及模拟分析-企业官网 http://www.tekhydro.cn/productinfo/945184.html
+  -> 水资源监测管理-企业官网 http://www.tekhydro.cn/productinfo/945183.html
+  -> 防汛抗旱决策支持-企业官网 http://www.tekhydro.cn/productinfo/945182.html
+  -> 山洪灾害预警平台-1-2 
+    -> 副本山洪灾害预警平台-1-2 
+      -> 副本넳넲 http://www.tekhydro.cn/productinfo/945170.html
+  -> 洪水预报 
+    -> 副本洪水预报 
+      -> 副本넳넲_1 http://www.tekhydro.cn/productinfo/945169.html
+  -> 雷达波在线测流平台-企业官网 http://www.tekhydro.cn/productinfo/945168.html
+  -> StreamPro走航式微型ADCP-企_1 http://www.tekhydro.cn/productinfo/945167.html?templateId=1133605
+  -> TRDIC5一体型ADCP-企业官网_1 http://www.tekhydro.cn/productinfo/945201.html?templateId=1133605
+  -> ADCP三体船-电台-电缆-缆道机器人- http://www.tekhydro.cn/productinfo/945189.html?templateId=1133605
+  -> 便携式无线遥控雷达波缆道测流S3SVRI_1 http://www.tekhydro.cn/productinfo/945197.html?templateId=1133605
+  -> 铅鱼缆道雷达波测流设备-企业官网 http://www.tekhydro.cn/productinfo/945196.html?templateId=1133605

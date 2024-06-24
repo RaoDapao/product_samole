@@ -1,0 +1,11 @@
+产品网址：https://www.calterah.com/producttypes/intro-rhine/#
+产品结构：root->加特兰微电子-概述
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Rhine 4T4R 60GHz Radar SoC|CAL60S244-IE|工业级全集成毫米波雷达 SoC，发射通道：4，集成移相器；接收通道：4，集成功率饱和检测器；工作频率：60 GHz—64 GHz，最大支持 4G 扫频带宽；FMCW 波形生成器：用户自定义，支持自动增益控制、帧交错等功能；高速 ADC：采样率高达 50 MS/s，同时支持降采样功能；雷达信号处理基带：硬件电路实现完整雷达信号处理；CPU：300MHz ARC®EM6；片内存储空间：2.625 MiB RAM；外设接口：SPI/QSPI/UART/I²C/LVDS/GPIOs；通过工业级可靠性测试|
+|Rhine 4T4R 60GHz Radar SoC AiP|CAL60S244-IB|工业级全集成毫米波雷达 SoC（封装集成片上天线），发射通道：4，集成移相器；接收通道：4，集成功率饱和检测器；封装集成片上天线，支持水平和俯仰探测；工作频率：60 GHz—64 GHz，最大支持 4G 扫频带宽；FMCW 波形生成器：用户自定义，支持自动增益控制、帧交错等功能；高速 ADC：采样率高达 50 MS/s，同时支持降采样功能；雷达信号处理基带：硬件电路实现完整雷达信号处理；CPU：300MHz ARC®EM6；片内存储空间：2.625 MiB RAM；外设接口：SPI/QSPI/UART/I²C/LVDS/GPIOs；通过工业级可靠性测试|
+|Rhine 4T4R 60GHz Radar SoC AiP|CAL60S244-AB|汽车级全集成毫米波雷达 SoC（封装集成片上天线），发射通道：4，集成移相器；接收通道：4，集成功率饱和检测器；封装集成片上天线，支持水平和俯仰探测；工作频率：60 GHz—64 GHz，最大支持 4G 扫频带宽；FMCW 波形生成器：用户自定义，支持自动增益控制、帧交错等功能；高速 ADC：采样率高达 50 MS/s，同时支持降采样功能；雷达信号处理基带：硬件电路实现完整雷达信号处理；CPU：300MHz ARC®EM6；片内存储空间：2.625 MiB RAM；外设接口：CAN/CAN-FD/SPI/QSPI/UART/I²C/LVDS/GPIOs；AEC-Q100 规范：Grade 2；满足功能安全 ISO 26262 ASIL-B|
+|Alps/Rhine 数据采集板|DCK-ALPS-ETHERNET|千兆以太网接口，支持实时 ADC 数据采集，支持同时进行雷达解算与原始数据采集，支持硬件在环调试|
+|Rhine 雷达开发平台|RDP-60S244-IEM-VENUS|天线设计支持方位向和俯仰向到达角测量，EIRP：19 dBm@62 GHz，FOV（-6 dB）：方位向±30°，俯仰向±6°，集成 Flash，集成 JTAG，可连接数据采集板（DCK）采集原始数据，便于使用的 USB 接口|
+|Rhine AiP 雷达开发平台|RDP-60S244-IBM-AIP|天线设计支持方位向和俯仰向到达角测量，EIRP：12 dBm@62 GHz（单发射通道模式），FOV（-6 dB）：方位向±40°，俯仰向±30°（单发射通道模式），EIRP：21 dBm@62 GHz（MIMO 模式），FOV（-6 dB）：方位向±40°，俯仰向±20°（MIMO 模式），封装集成天线，集成 Flash，集成 JTAG，可连接数据采集板（DCK）采集原始数据，便于使用的 USB 接口|

@@ -1,0 +1,4 @@
+-> root http://www.core-stone.cn
+  -> 首页 
+    -> 产品中心- 
+      -> 方案中心 http://www.core-stone.cn/channels/14.html

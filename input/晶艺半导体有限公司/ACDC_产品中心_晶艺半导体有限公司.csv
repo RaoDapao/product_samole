@@ -1,0 +1,14 @@
+产品网址：http://latticeart.com/product_category.php?id=11
+产品结构：root->ACDC|产品中心|晶艺半导体有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|ACDC|无|无|
+
+产品型号,拓扑架构,应用电压,功率管规格,功率应用范围,封装
+LA4100,Highside Buck,85~265VAC,15ohm/650V,<5W,SOP7
+LA4290,SSR Flyback,85~265VAC,6ohm/1000V,<20W,SSOP24L
+LA4291,Highside Buck,85~265VAC,4.5ohm/700V,<10W,SSOP24L
+LA4291-1055,Highside Buck,85~265VAC,1.4ohm/550V,<30W,SSOP24L
+LA4501,Boost APFC,85~265VAC,250mohm/600V MOSFET&10A/600V FRD,<100W,LasSOP-10
+LA4502,Boost APFC,85~265VAC,2*250mohm/600V,<250W,LasSOP-10

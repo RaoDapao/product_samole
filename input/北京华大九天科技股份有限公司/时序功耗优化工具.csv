@@ -1,0 +1,6 @@
+产品网址：https://www.empyrean.com.cn/products/eda/digital-soc/timing-and-power-optimization.html
+产品结构：当前位置：首页->EDA软件->数字电路设计EDA工具->时序功耗优化工具
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|时序功耗优化工具|ICExplorer-XTop|针对先进工艺、大规模设计和多工作场景的时序收敛难题，提供了一站式时序功耗优化解决方案，包括建立时间（Setup）、保持时间（Hold）、瞬变时间（Transition）、漏电功耗（Leakage power）及动态功耗（Dynamic power）优化等。该工具通过创新的层次设计数据并行处理技术、动态时序建图技术和增量布局技术等，显著提高了时序和功耗优化的效率和质量。ICExplorer-XTop 还提供了 Post-mask ECO、交互式 ECO 和 Clock ECO 等特色解决方案，通过这些手段，帮助用户完成关键时序路径的修复，显著提升了时序收敛的效率。|

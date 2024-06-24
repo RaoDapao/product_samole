@@ -1,0 +1,6 @@
+产品网址：https://www.aimicron.com/product/20
+产品结构：root->AIM951-慷智集成电路（上海）有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|智能车载高清视频传输 SERDES 芯片|AIM951|• MIPI DSI 8 Data Lane + 2 Clock Lane 支持 2 个独立的视频接口输入<br>• 单 AHDL-II 通道最快 Pixel Clock 150MHz. 1080P 分辨率<br>• 双 AHDL-II 通道最快 Pixel Clock 300MHz. 3K 分辨率<br>• 多种 Color Format，工作模式给系统更灵活的应用<br>• DSI 对 AHDL-II 2X2 MUX 功能，支持不同 DSI 输入频率，多个 Virtual Channel<br>• 双 AHDL-II 通道可透传高速 GPIO，支持 SPI 接口透传<br>• 单根同轴电缆或双绞线支持正向高速视频输送，双向控制信号互传<br>• 可调节展频输出，降低辐射(EMI)<br>• 支持超长电缆远距离传输<br>• 多个 GPIO 更好的支持触摸屏系统<br>• 支持 7.1 环绕立体声音频信号传输<br>• 视频信号及控制信号纠错查错(ECC/CRC)支持系统 ASIL<br>• Build In Self Test（BIST）和视频数据发生器方便系统测试<br>• 1.8V 和 1.1V 供电，IO 支持 1.8V 和 3.3V<br>• 车规级工作温度范围及 ESD 标准<br>• QFN64PIN (9mm*9mm) 封装|

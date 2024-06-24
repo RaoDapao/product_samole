@@ -1,0 +1,33 @@
+产品网址：http://www.xtxtech.com/products_detail/3/ProId-11
+产品结构：root->NAND
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|NAND MCP|1G1GD2、2G1GD2、2G2GD2、4G2GD2、4G2GD4X、2G2GD4X、4G4GD4X|多芯片封装，把不同存储技术产品设计在一个基板上，具有提升存储性能和集成度、节约 PCB 板设计面积、减少 BOM 表元件数量、加速产品开发进度等优势|
+
+型号,容量,电压,温度,封装,描述,包装,状态,说明书
+XT61M1G8C2TM-B8BEA,1G1GD2,1.7~1.95V,-30℃~85℃,BGA162 8x10.5x1.0mm,1G NAND (8bit ECC; x8) +  1G LPDDR2 (x32),Tray,MP,联系我们
+
+
+型号,容量,电压,温度,封装,描述,包装,状态,说明书
+XT61M2G8C2TM-B8BEA,2G1GD2,1.7~1.95V,-30℃~85℃,BGA162 8x10.5x1.0mm,2G NAND (8bit ECC; x8) + 1G LPDDR2 (x32),Tray,MP,联系我们
+
+
+型号,容量,电压,温度,封装,描述,包装,状态
+XT61M2G8D2TA-B8BEA,2G2GD2,1.7~1.95V,-30℃~85℃,BGA162 8x10.5x1.0mm,2G NAND (8bit ECC; x8) +  2G LPDDR2 (x32),Tray,MP
+
+
+型号,容量,电压,温度,封装,描述,包装,状态
+XT61M4G8D2TA-B8BEA,4G2GD2,1.7~1.95V,-30℃~85℃,BGA162 8x10.5x1.0mm,4G NAND (8bit ECC; x8) +  2G LPDDR2 (x32),Tray,MP
+
+
+型号,容量,电压,温度,封装,描述,包装,状态,说明书
+XT63M4G8D6TW-CCBEA,4G2GD4X,1.8V / 1.8V / 1.1V or 0.6V,-25℃~85℃,BGA149 8*9.5*0.8mm,4G NAND（8bit ECC; x8) +2G LPDDR4X (x16),Tray,UD,联系我们
+
+
+型号,容量,电压,温度,封装,描述,包装,状态,说明书
+XT63M2G8D6TW-CBBEA,2G2GD4X,1.8V / 1.8V / 1.1V or 0.6V,-25℃~85℃,BGA149 8x9.5x0.8mm,2G NAND（8bit ECC; x8) +2G LPDDR4X (x16),Tray,CS,联系我们
+
+
+型号,容量,电压,温度,封装,描述,包装,状态,说明书
+XT63M4G8E6TM-CCBEA,4G2GD4X,1.8V / 1.8V / 1.1V or 0.6V,-25℃~85℃,BGA149 8*9.5*0.8mm,4G NAND（8bit ECC; x8) +4G LPDDR4X (x16),Tray,UD,联系我们

@@ -1,0 +1,6 @@
+产品网址：https://www.empyrean.com.cn/products/eda/foundry/standard-cell-library-characterization.html
+产品结构：当前位置：首页->EDA软件->晶圆制造EDA工具->单元库特征化提取工具
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|单元库特征化提取工具|Empyrean Liberal|通过内置的电路仿真工具 Empyrean ALPS 对标准单元进行仿真分析，精确地提取时序和功耗特征值，形成标准单元库特征化模型。同时，通过高效的分布式并行调度技术，进一步提升了单元库特征化提取的性能。还可以对单元库进行质量验证，比较两个单元库的数据、属性和结构，对比精度差异，仿真验证库文件数据的准确性等。此外，Empyrean Liberal AI 采用 AI 技术，基于现有 PVT Corner 可以准确地预测出新 Liberty 文件，显著减少特征化提取时间和所占用的机器资源。|

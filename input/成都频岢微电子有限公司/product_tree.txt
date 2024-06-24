@@ -1,0 +1,13 @@
+-> root http://www.pinnaclemicrowave.com
+  -> 位置：频岢微电子 
+    -> 产品中心_1 http://www.pinnaclemicrowave.com/work/work.aspx
+      -> DRx 
+      -> TRx 
+      -> Duplexer 
+      -> DiFEM 
+      -> BareDie(Filter) 
+      -> LFEM 
+      -> WiFi 
+      -> GPS 
+  -> 您的位置：频岢微电子 
+    -> 行业应用 http://www.pinnaclemicrowave.com/demo/demo.aspx

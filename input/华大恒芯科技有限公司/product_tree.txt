@@ -1,0 +1,7 @@
+-> root http://hdect.com.cn
+  -> 产品中心-华大恒芯科技有限公司 http://hdect.com.cn/rfidxp
+    -> 高频安全电子标签芯片 
+    -> 超高频安全电子标签芯片 
+    -> 高频电子标签 reader 芯片 
+  -> 产品推介|3D打印耗材管理读写器，实现对 http://hdect.com.cn/newsinfo/7234697.html
+  -> 产品推荐丨便携式超高频国标读写器-华大恒 http://hdect.com.cn/newsinfo/6333830.html

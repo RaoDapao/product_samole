@@ -1,0 +1,15 @@
+产品网址：http://www.znwdz.com/productinfo/272380.html
+产品结构：root->场效应管TO-247封装-厦门中能微电子有限公司-凯茂半导体（厦门）有限公司官网
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|场效应管|TO-247 封装|无|
+
+TYPENO.,PACKAGE,ID(A),VDSS(V),RDS(on)(Ω),VGS(th)(V),CISS(pf),Download
+KM12N40,TO-247,12,400,0.35,2-4,1940,Datasheet
+KM25N50,TO-247,25,500,0.2,2-4,2975,Datasheet
+KM28N50,TO-247,28,500,0.16,2-4,3300,Datasheet
+KM45N50,TO-247,45,500,0.085,2-4,9400,Datasheet
+KM20N60,TO-247,20,600,0.35,2-4,2750,Datasheet
+KM30N60,TO-247,30,600,0.23,2-4,4120,Datasheet
+KM20N65,TO-247,20,650,0.37,2-4,2750,Datasheet

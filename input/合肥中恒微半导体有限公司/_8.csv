@@ -1,0 +1,16 @@
+产品网址：https://www.zhmsemi.com/products/industrial_igbt_module/chah3.html
+产品结构：root
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|EV IGBT Module|无|无|
+|Industrial IGBT Module|无|无|
+|Hybrid Module|无|无|
+|SiC Module|无|无|
+|IPM|无|无|
+
+Package,Product,Vces(V),Ic(A),VCE(sat)(V),Configuration,typical value @Tj=25℃,typical value @Tj=25℃.1,typical value @Tj=25℃.2
+Package,Product,Vces(V),Ic(A),VCE(sat)(V),Configuration,VF(V),Eon(mJ),Eoff(mJ)
+ChaH3,2P1400M120S1P,1200,1400,1.75,Half Bridge,1.90,72,230
+ChaH3,2P1000R170S1P,1700,1000,1.75,Half Bridge,1.90,275,210
+ChaH3,2P1400R170S1P,1700,1400,1.75,Half Bridge,1.90,353,350

@@ -1,0 +1,14 @@
+产品网址：https://www.yes-lcd.com/product/246.html
+产品结构：root->1.64”E5_YesOptoelectronics（Group）Co.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|1.64” E5|无|Highlight Red and Yellow color<br>High contrast<br>High reflectance<br>Ultra wide viewing angle<br>Ultra low power consumption<br>Pure reflective mode<br>Bi-stable<br>Antiglare hard-coated front-surface<br>Low current deep sleep mode<br>On chip display RAM<br>Waveform stored in On-chip OTP<br>Serial peripheral interface available<br>On-chip oscillator<br>On-chip booster and regulator control for generating VCOM, Gate and source driving voltage<br>I2C Signal Master Interface to read external temperature sensor<br>Available in COG package|
+
+Parameter,Specifications,Unit,Remark
+Screen Size,1.64,Inch,
+Display Resolution,168 (H) × 168 (V),Pixel,Dpi:144
+Active Area,29.568 (H) × 29.568 (V),mm,
+Pixel Pitch,0.176 × 0.176,mm,Square
+Outline Dimension,45.5 (H) × 36.4 (V) × TBD (D),mm,Without masking film
+Module Weight,TBD,g,

@@ -1,0 +1,14 @@
+产品网址：https://www.montage-tech.com/cn/Memory_Interface/DDR4
+产品结构：root->DDR4产品|澜起科技
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|内存接口芯片|DDR4|面向 DDR4 寄存双列直插内存模组（RDIMM）和减载双列直插内存模组（LRDIMM），可提升云计算服务器内存子系统所需的性能、系统扩展性和能耗效率|
+
+产品型号,产品类型,最高速率 (Mbps),工作电压 (V),应用
+产品型号  M88DR4RCD02P,产品类型  Gen2 Plus DDR4 RCD,最高速率 (Mbps)  3200,工作电压 (V)  1.2,"应用  DDR4 RDIMM, LRDIMM 和 NVDIMM"
+产品型号  M88DR4DB02P/M88NR4DB02P,产品类型  Gen2 Plus DDR4 DB,最高速率 (Mbps)  3200,工作电压 (V)  1.2,应用  DDR4 LRDIMM 和 NVDIMM
+产品型号  M88DDR4RCD02,产品类型  Gen2 DDR4 RCD,最高速率 (Mbps)  2666,工作电压 (V)  1.2,应用  DDR4 RDIMM 和 LRDIMM
+产品型号  M88DDR4DB02,产品类型  Gen2 DDR4 DB,最高速率 (Mbps)  2666,工作电压 (V)  1.2,应用  DDR4 LRDIMM
+产品型号  M88DDR4RCD01,产品类型  Gen1 DDR4 RCD,最高速率 (Mbps)  2400,工作电压 (V)  1.2,应用  DDR4 RDIMM 和 LRDIMM
+产品型号  M88DDR4DB01,产品类型  Gen1 DDR4 DB,最高速率 (Mbps)  2400,工作电压 (V)  1.2,应用  DDR4 LRDIMM

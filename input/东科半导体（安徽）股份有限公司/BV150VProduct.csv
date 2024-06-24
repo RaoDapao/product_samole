@@ -1,0 +1,14 @@
+产品网址：https://www.dkpower.cn/BV150VProduct.html
+产品结构：首页->产品中心->SR同步整流系列->BV150VProduct
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|BV 150V Product|无|无|
+
+Product,Characteristics,BV,RDS(on),Topology,VDD Operation Voltage,Output Power,Operating Mode,Package
+DK5V150R25HL,SR Converter,150V,25mΩ,PSR/SSR,5.1V,"24V, 2.4A",DCM/QR/CCM,TO-252
+DK5V150R25SL,SR Converter,150V,25mΩ,PSR/SSR,5.5V,"24V, 2.5A",DCM/QR/CCM,TO-252
+DK5V150R25HT1,SR Converter,150V,25mΩ,PSR/SSR,5.1V,"24V, 3A",DCM/QR/CCM,TO-220F
+DK5V150R25ST1,SR Converter,150V,25mΩ,PSR/SSR,5.5V,"24V,3A",DCM/QR/CCM,TO-220F
+DK5V150R25M,SR Converter,150V,25mΩ,PSR/SSR,5.5V,"24V, 2.5A",DCM/QR/CCM,SM-10
+DK5V150R25HM,SR Converter,150V,25mΩ,PSR/SSR,5.1V,"24V,2.5A",DCM/QR/CCM,SM-10

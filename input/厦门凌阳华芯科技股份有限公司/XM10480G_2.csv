@@ -1,0 +1,6 @@
+产品网址：https://www.xm-plus.com/en/product-76977-68127-175497.html
+产品结构：PRODUCTCENTER->LEDDriverIC->XM10480G
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|LED Driver IC|XM10480G|·Driving & Power input：Common cathode PWM driving & VLEDR / VLEDGB power input<br>·Mirage Driving Engine：Solving 8 fine pitch visual issue: Ghosting effect, Open caterpillar effect, Cross effect, Low gray color shift, First dimming line, High contrast couple, Cross plate couple, Cross plate gradient CCT<br>·Channel / Scan：48ch / 20 scan<br>·Max Scan Number：4 chips scan sharing to 80 scan<br>·Output current：R/G: 0.1~15mA B: 0.1~7.5mA<br>·Bit & Refresh Rate：16bit @ 3840Hz /80scan<br>·Interface：3 Wire SPI & Max 36 chips per channel<br>·Global Calibration：3 calibration parameter @high to low gray level<br>·Min. Calibration Pulse Width：0.8nS<br>·Chip power consumption @Dark：2.4uA / Pixel @ 16x60 dots<br>·Chip power consumption @White：22uW / Pixel @ 20mA pixel current<br>·Package：QFN88 - 10 x 10 - 0.4<br>·LED Pitch Application：0.7mm～5.0mm|

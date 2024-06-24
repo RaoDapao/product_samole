@@ -1,0 +1,39 @@
+-> root http://www.micro-dsp.com
+  -> 听力设备,设备价格,耳聋,结巴,耳鸣,耳 http://www.micro-dsp.com/cn/news/productnews.asp
+  -> 耳鸣,耳鸣治疗,耳鸣检查,耳鸣诊断,听力 http://www.micro-dsp.com/cn/product/tinnitest.asp
+  -> 口吃，口吃治疗,口吃矫正,口吃矫正器，数 http://www.micro-dsp.com/cn/product/speecheasy.asp
+  -> 耳聋,助听器,听力康复,数字听力,微迪数 http://www.micro-dsp.com/cn/product/hearingaid.asp
+  ->  http://www.micro-dsp.com/cn/product/addition.asp
+  -> _1 http://www.micro-dsp.com/cn/product/software.asp
+    -> 专业软件 
+    -> 专业软件 
+    -> 专业软件 
+    -> 专业软件 
+    -> 专业软件 
+  -> _2 http://www.micro-dsp.com/cn/service/maintenance.asp
+    -> 听力耳鸣设备 
+    -> 耳鸣治疗康复产品 
+  -> 听力设备,设备价格,耳聋,结巴,耳鸣,耳_1 http://www.micro-dsp.com/cn/productPhoto/audiometryDevice.asp
+    -> 听力设备 
+    -> 助听器 
+    -> 口吃矫正器 
+    -> 动铁耳机 
+  -> 听力设备,设备价格,耳聋,结巴,耳鸣,耳_2 http://www.micro-dsp.com/cn/news/newscount.asp?id=1072
+  -> 耳鸣,耳鸣治疗,耳鸣检查,耳鸣诊断,听力_1 http://www.micro-dsp.com/cn/product/emask.asp
+  -> 听力计,儿童行为测听，听力测试，数字听力 http://www.micro-dsp.com/cn/product/mdspzd-71.asp
+  -> 听力计,儿童行为测听，听力测试，数字听力_1 http://www.micro-dsp.com/cn/product/mdspzd-21.asp
+  -> 听力计,儿童行为测听，听力测试，数字听力_2 http://www.micro-dsp.com/cn/product/mdspzd.asp
+  -> 耳聋,助听器,听力康复,数字听力,微迪数_1 http://www.micro-dsp.com/cn/product/simplia.asp
+  -> 耳聋,助听器,听力康复,数字听力,微迪数_2 http://www.micro-dsp.com/cn/product/inspirica.asp
+  -> 耳聋,助听器,听力康复,数字听力,微迪数_3 http://www.micro-dsp.com/cn/product/intelligia.asp
+  -> 耳聋,助听器,听力康复,数字听力,微迪数_4 http://www.micro-dsp.com/cn/product/aurale.asp
+  -> 耳鸣,耳鸣治疗,耳鸣检查,耳鸣诊断,听力_2 http://www.micro-dsp.com/cn/product/clamind.asp
+    -> 耳鸣治疗器 
+    -> 耳鸣治疗光盘 
+  -> 耳鸣,耳鸣治疗,耳鸣检查,耳鸣诊断,听力_3 http://www.micro-dsp.com/cn/product/tinnitest.asp#
+  -> 耳鸣,耳鸣治疗,耳鸣检查,耳鸣诊断,听力_4 http://www.micro-dsp.com/cn/product/TTS-2000.asp
+  -> 口吃，口吃治疗,口吃矫正,口吃矫正器，数_1 http://www.micro-dsp.com/cn/product/speecheasy.asp#
+  -> 耳聋,助听器,听力康复,数字听力,微迪数_5 http://www.micro-dsp.com/cn/product/hearingaid.asp#
+  -> _3 http://www.micro-dsp.com/cn/product/addition.asp#
+  -> _4 http://www.micro-dsp.com/cn/product/appsoftware.asp
+  -> 听力设备,设备价格,耳聋,结巴,耳鸣,耳_3 http://www.micro-dsp.com/cn/productPhoto/audiometryDevice.asp#

@@ -1,0 +1,41 @@
+-> root https://www.hyc.com
+  -> 平板事业（FPD）-苏州华兴源创科技股份 https://www.hyc.com/products/fpd
+    -> LCD/OLED 触控功能检测设备 
+    -> LCD/OLED 信赖性检测治具 
+    -> OLED 大尺寸触控检测设备 
+    -> OLED 微裂纹检测设备 
+    -> OLED Mura 修复自动化检测设备 
+    -> OLED 图像缺陷检测设备 
+    -> OLED 图像色度缺陷检测设备 
+    -> OLED 模组触控功能自动化检测设备 
+    -> Micro OLED 显示检测设备 
+    -> LCD 车载系列黑色斑检测设备 
+    -> 高温老化设备 
+    -> 显示检测信号发生器 
+    -> 三维光场相机 
+    -> 色彩分析仪 
+    -> 成像式色度计 
+  -> 智能穿戴事业（SWD）-苏州华兴源创科技 https://www.hyc.com/products/swd
+    -> 智能手表检测系列 
+    -> 声学 3C 产品检测设备 
+  -> 半导体事业（SEMI）-苏州华兴源创科技 https://www.hyc.com/products/semi
+    -> T7600 系列 SoC 数字测试机 
+    -> PXIe 平台测试设备 
+    -> E06 CIS 图像传感器测试机 
+    -> TS1800 射频芯片测试机 
+    -> EP2000 16 Site CIS 平移式分选机 
+    -> EP3000 128 Site 平移式分选机 
+    -> ET20/ET32 转塔分选机 
+    -> 晶圆 AOI 宏观缺陷检测自动化检测设备 
+    -> 电池管理系统自动化检测解决方案 
+    -> 六面检查自动化检测设备 
+  -> 汽车电子事业（EVE）-苏州华兴源创科技 https://www.hyc.com/products/eve
+    -> IGBT 双脉冲检测设备 
+    -> BMS 检测设备 
+    -> 车载 MCU 模块检测设备 
+    -> 辅助驾驶控制器自动组装检测产线 
+    -> PACK 一体化测试线 
+  -> 孵化事业（IB）-苏州华兴源创科技股份有 https://www.hyc.com/products/ib
+    -> 96 通道自动移液工作站 
+    -> 小型移液工作站 
+  -> 华兴检测（HYCT）-苏州华兴源创科技股 https://www.hyc.com/products/hyct

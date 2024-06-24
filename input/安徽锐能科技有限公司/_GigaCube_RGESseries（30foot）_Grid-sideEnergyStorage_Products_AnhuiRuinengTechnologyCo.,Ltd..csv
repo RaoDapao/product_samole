@@ -1,0 +1,23 @@
+产品网址：https://www.myrntec.com/en/grid-side_energy_storage/29.html
+产品结构：root->"GigaCube"RGESseries（30foot）_Grid-sideEnergyStorage_Products_AnhuiRuinengTechnologyCo.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|grid-side energy storage system“Rui Giga Cube” RIES series (30, 40 feet)|无|1. 采用多冗余消防安全设计，确保更高的安全性和可靠性；2. 利用国内外知名电池制造商的高容量电池，提供高循环寿命和更大的可用能量；3. 支持远程操作和维护以及电池性能参数的远程更新，使电池能够提供最佳性能；支持基于云的健康状态预测和热失控预警，并提供电池状态信息的远程通知；4. 高效的液冷设计，系统级电池温差 S2.5C，智能电池管理系统采用汽车级芯片，产品设计寿命>15 年；5. 支持低温预热和热管理，在-20℃的环境温度下可持续放电；6. 利用智能校正的高精度 SOC 估计算法，在所有场景下 SOC 估计误差≤5%。采用基于多模型融合的高精度 SOP 估计算法，实现 DC 侧循环效率超过 93%；7. 支持多种物联网通信接口，包括以太网、WiFi、USB、RS485 和 CAN，便于与 99%的设备连接。|
+
+Specification,Parameter
+Rated Capacity,LFP280Ah
+DC side rated voltage,768V
+Maximum charge and discharge rate,0.5C/1C
+DC side rated capacity,3MWh
+DC charge and discharge efficiency,93%-95%
+Battery Type,Lithium iron phosphate battery cell
+FireFighting System,Gas extinguishing(optional for water fire protection)
+Temperature control method,forced air cooling
+Certification standards,UL 9540/UL9540A/CE/IEC/KC/KB I A
+Weight,27t
+Box dimensions(W*H*D),9144*2896*2438mm
+Box protection level,IP54
+Range of working temperature,-20-55℃
+Communication Interface,CAN， RS 485， Ether nt
+Protocol,CAN， Modbus RTU， Modus TCP/IP

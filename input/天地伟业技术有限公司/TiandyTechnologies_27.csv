@@ -1,0 +1,78 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/966.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Network Camera|TC-C382V|8MP 固定全景摄像机，金属+塑料外壳，支持 S+265/H.265/H.264B/H.264M/H.264H/Motion JPEG 编码，彩色：0.0001Lux@(F1.0,AGC ON)，黑白：0Lux 带红外，内置麦克风和扬声器，支持 microSD/microSDHC/microSDXC 卡，最大 512GB，支持智能监控，支持人/车分类，工作温度-40℃~65℃（不开灯），湿度 95%或更低（无冷凝），DC12V±25%，最大 11.0W，POE 802.3at，最大 12W，IP67|
+
+Camera,Unnamed: 1
+Image Sensor,"1/2.7""CMOS"
+Min. Illumination,"Color:0.0001Lux@(F1.0,AGC ON),B/W:0Lux with IR"
+Shutter Time,1s~1/100000s
+WDR,120dB
+S/N,>46dB
+Angle Adjustment,0~360°(P); 0~90°(T); 0~360°(R)
+Lens,
+Lens Type,Fixed focal lens
+Focal Length,2.8mm
+Lens Mount,M12
+Aperture Range,F1.0
+Field of View,180°(H)±10°; 65°(V)±5°; 191°±10°
+DORI Distance,Detect:56m Observe:22m Recognize:11m Identify:5.6m
+Illuminator,
+White LEDs,3
+Whitelight Distance,15m
+Compression Standard,
+Video Compression,S+265/H.265/H.264B/H.264M/H.264H/Motion JPEG
+Video Bit Rate,32k~16Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D/AAC_LC
+Audio Sampling Rate,8kHz/32kHz/48kHz
+Image,
+Max. Resolution,4640×1728@25fps
+Main Stream,"PAL:25fps(4640×1728, 4096×1520) NTSC:24fps(4640×1728, 4096×1520)"
+Sub Stream,PAL:25fps(1408×528) NTSC:24fps(1408×528)
+BLC,Yes
+HLC,Yes
+AGC,Yes
+3D DNR,Yes
+White Balance,Auto/Semi-Auto/Manual/Sunshine/Nature Light/Warmlight Lamp/Daylight Lamp/Filament Lamp/Lock White Balance
+ROI,8 rectangular static areas
+OSD,"Overlay of additional characters in 5 regions, 2 lines, with a maximum of 127 characters or 42 Chinese characters per region; 16*16/32*32/48*48/64*64/96*96/128*128"
+Picture Overlay,1*200x200 size BMP 24 color bit image overlay
+Privacy Mask,4 black static areas
+Defog,Yes
+Feature,
+Alarm Trigger,"Motion Detection; Mask Alarm; Voltage Alarm; Disk Full; Disk R/W Error; IP Address Conflict; MAC Address Conflict; FTP Server Exception ; Event Input, Event Output"
+Linkage Method,send email; trigger sound; trigger warmlight; trigger recording; trigger capture; notify surveillance center
+Video Analytics,Human/Vehicle Classification; Tripwire; Perimeter; Video Abnormal; Audio Abnormal
+Rules of behavior analyse in 1 scene,8
+Early Warning(EW),Early Warning(EW)
+Network,
+ANR,Yes
+Protocols,HTTP; HTTPS; TCP/IP; UDP; UPnP; ICMP; IGMP; SNMP; DHCP; DNS; DDNS; Easy DDNS; NTP; SMTP; SSL; 802.1X; QoS; IPv4; IPv6; PPPOE; SSH; Unicast; Multicast; RTCP; ARP; RTP; SRTP; RTSP; FTP; SFTP; NAS
+System Compatibility,ONVIF Profile S/T/G/M; CGI; Milestone; RTMP
+Remote Connection,≤7
+Client,Easy7 Smart Client
+Moblie Client,EasyLive Plus
+Interface,
+Communication Interface,"1*RJ-45,10/100 Mbps self-adaptive Ethernet port"
+Audio I/O,1; 1
+Alarm I/O,"1-ch,TTL input,3mA,3.3VDC; 1-ch,TTL output,30mA,12VDC"
+Reset Button,Yes
+On-board storage,"Support microSD/microSDHC/microSDXC card, up to 512 GB"
+RTC,Yes
+General,
+Web Client Language,19 languages Simple Chinese/Traditional Chinese/English/Spanish/Korean/Italian/Turkish/Russian/Thai/French/Polish/Dutch/Hebrew/Arabic/Vietnamese/German/Ukrainian/Portuguese/Albanian
+Operating Temperature,-40℃~65℃(No turning on the light)
+Operating Humidity,Humidity 95% or less (no condensation)
+Storage Temperature,-40℃~65℃
+Storage Humidity,Humidity 95% or less (no condensation)
+Power Supply,"DC12V±25%,MAX 11.0W; POE 802.3at,MAX 12W"
+Protection,Surge4000V; ESD6000V; IP67
+Boundary Dimensions,294(L)116(W)72(H)mm
+Package Dimensions,360(L)150(W)170(H)mm
+GrossWeight,1.1kg
+
+
+Date,Title,Type
+2024-04-07,1D.20010.020901_TC-C382V WEYSH2.8mm_en,pdf

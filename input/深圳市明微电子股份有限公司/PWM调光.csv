@@ -1,0 +1,18 @@
+产品网址：http://chinaasic.com/productItemSort/product_item_sort_60.html
+产品结构：root->PWM调光
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|LED 照明驱动芯片|智能驱动|IIC 协议调光、PWM 调光、单线 SID 协议调光、MCU、智能供电|
+
+IC Name,Topology,I  OUT  Precision,I  OUT.MAX,HV_MOSFET,BV  DSS,Channel,Dimming  mode,Package,操作
+SM1501,Linear,<±5%,100mA,Inside,30V,1,PWM,SOT23-5、SOT23-6,more>>
+SM15133EH,Linear,<±5%,220mA,Inside,40V,3,PWM,ESOP8,more>>
+SM15201S,Linear,<±3%,350mA,Inside,40V,1,PWM,SOT23-5,more>>
+SM15633EK,Linear,<±4%,350mA,Inside,80V,3,PWM,ESOP8,more>>
+SM2083EGL,Linear,<±5%,120mA,Inside,500V,1,PWM,ESOP8,more>>
+SM2123EGL,Linear,<±5%,120mA/120mA,Inside,500V,2,PWM,ESOP8,more>>
+SM73822P,BUCK,<±3%,240mA,Inside,550V,-,PWM,SOP8-7,more>>
+SM15133EK,Linear,<±5%,150mA,Inside,40V,3,PWM,ESOP8,more>>
+SM15633EH,Linear,<±5%,350mA,Inside,60V,3,PWM,ESOP8,more>>
+SM15106T,Linear,<±4%,1.2A,Inside,80V,1,PWM,"TO252-5, TO252-4",more>>

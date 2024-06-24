@@ -1,0 +1,14 @@
+产品网址：https://www.primarius-tech.com/en/products/manufacturing_eda.html
+产品结构：root->PRIMARIUS-FabEDA
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|SPICE 模型|无|提供高质量的 SPICE 模型库，用于成功的电路仿真、设计和优化，确保准确预测半导体器件的物理特性和电气行为，从而实现最佳设计并降低成本高昂的错误风险|
+|BSIMProPlus|无|先进的 SPICE 建模平台|
+|MeQLab|无|灵活的 RF 建模平台|
+|SDEP|无|规格驱动的建模自动化平台|
+|ME-Pro|无|工艺和设计验证平台|
+|PCellLab|无|参数化单元库开发平台|
+|PQLab|无|先进的 PDK 验证平台|
+|NanoCell|无|标准单元库表征解决方案|
+|LibWiz|无|标准单元库验证解决方案|

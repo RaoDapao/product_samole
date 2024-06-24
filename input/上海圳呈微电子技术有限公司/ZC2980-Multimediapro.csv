@@ -1,0 +1,12 @@
+产品网址：https://www.unisim-micro.com/productinfo/521342.html
+产品结构：root->ZC2980-MultimediaprocessorSoC-上海圳呈微电子技术有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|ZC2980 - Multimedia processor SoC|ZC2980|高度集成蓝牙音频和 MP3 播放器的多媒体处理器 SoC，提供低成本、低功耗、灵活且更强大的蓝牙音频解决方案。应用于蓝牙立体声音箱、汽车音响、MP3 播放器遥控器、多媒体微处理器等。平台集成了 MP3 解码、嵌入式语音处理器、音频编解码器、低功耗检测、SD/MMC 卡控制器、OTG、电源键、RTC 等。具有低成本、低功耗、更灵活的特点。|
+
+Type,Package,Embedded
+ZC2985A,QFN5*5 40L,NONE
+ZC2985B,QFN5*5 40L,NONE
+ZC2986A,QFN6*6 48L,NONE
+ZC2986B,QFN6*6 48L,NONE

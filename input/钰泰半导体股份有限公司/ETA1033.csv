@@ -1,0 +1,13 @@
+产品网址：https://www.eta-semi.com/product/315.html
+产品结构：首页->DC-DC功率转换器->ETA1033
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|双通道 PMU|ETA9697|集成了独立的 16V 耐压的线性充电器和 5V 同步升压变换器，线性充电器内建全功能的恒流/恒压充电模组，充电功率管和非常少的外围|
+
+参数,测试条件,MIN,TYP,单位
+STAT 引脚低电平电压,I_STAT= 5mA,90,120,mV
+STAT 引脚低电平电压,I_STAT= 5mA,90,120,mV
+STAT 引脚低电平电压,I_STAT= 5mA,90,120,mV
+STAT 引脚低电平电压,I_STAT= 5mA,90,120,mV
+STAT 引脚低电平电压,I_STAT= 5mA,90,120,mV

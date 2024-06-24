@@ -1,0 +1,16 @@
+产品网址：https://www.njzkwiot.com/html/product-13.56M.html
+产品结构：root->13.56MHz非接触式读写器芯片
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|13.56MHz 非接触式读写器芯片|Si522A、Si523、Si512、Ci522（QFN16）、Ci522（ESOP16）、Ci523（QFN16）、Ci523（ESOP16）、Ci520、Ci521、Si522|支持 ISO14443A/B 卡和 Felica，特有的 ACD 功能（超低功耗自动载波侦测），将智能门锁的功耗降到超低，具有整机功耗低、自动检测 13.56MHz 外部射频场和射频卡、ACD 过程不需要 MCU 干预、OSC 起振失败监测功能、内部硬件看门狗监测等特点|
+
+NFC读写器芯片,NFC读写器芯片.1,NFC读写器芯片.2,NFC读写器芯片.3,NFC读写器芯片.4,NFC读写器芯片.5,NFC读写器芯片.6
+支持的协议,超低功耗,超低成本,超低成本,超低成本,普通刷卡,使用场景
+支持的协议,QFN32/5*5mm,小体积QFN16/3*3mm,ESOP16/9.9*6mm,QFN32/5*5mm,QFN32/5*5mm,使用场景
+ISO14443A&B&NFCIP-1  （A&B&Felica）,*  Si512,,,,,智能门锁系统  电动车NFC一键启动
+ISO14443A&B  (A卡&B卡),*  Si523,Ci523,Ci523,Ci521,,智能门锁系统  电动车NFC一键启动
+ISO14443A&B  (A卡),*  Si522A,Ci522,Ci522,Ci520,Si522,智能门锁系统  电动车NFC一键启动
+支持的主机接口,SPI/UART/I2C,只支持SPI接口,只支持SPI接口,只支持SPI接口,SPI/UART/I2C,智能门锁系统  电动车NFC一键启动
+,*  表示支持ACD功能  超低功耗自动载波侦测  (Auto Carrier Detect)  -自动检测13.56MHz外部射频场和射频卡  -ACD过程不需要MCU干预  -OSC起振失败监测功能,,,,,智能门锁系统  电动车NFC一键启动
+配套触摸芯片,"Si12T,Si14T","Si12T,Si14T","Si12T,Si14T","Si12T,Si14T","Si12T,Si14T",智能门锁系统  电动车NFC一键启动

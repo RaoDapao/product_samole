@@ -1,0 +1,59 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=75&ncid=80&deid=88
+产品结构：root->Huahuan_Products_SFP/SFP+/xWDM/PONOpticalModule_H18EDD-0204P-8E1EthernetDemarcationDevice
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Ethernet Demarcation Device|H18EDD-0204P-8E1|在高性能 L2 交换服务的基础上，提供维护和部署的便利性、多业务支持、运营商级 OAM 管理、可靠的保护机制、QoS 策略、安全机制等服务优化措施，同时具有出色的可扩展性和可靠性。支持最新的运营商以太网属性，兼容 IEEE、ITU 和 MEF 标准。提供四个 GE 光口作为 NNI，两个 GE 电口作为 UNI 端口，八个 E1 业务接口和一个 FE 电口作为管理端口，CONSOLE 端口为 RS232。支持 UNI 的 10/100M/1000M 自动协商和 10/100M/1000M 全双工/半双工手动模式，AUTO-MDIX（媒体相关接口交叉）。NNI 支持自动协商模式和 1000M 全双工模式。支持 E1 和 V.35 服务在以太网链路上的电路仿真；SAToP 协议；MPLS、IP/UDP 和 MEF 封装。E1 和 V.35 接口时钟模式支持本地振荡器时钟、自适应时钟和端口环回时钟。支持 IEEE802.1Q VLAN、IEEE802.1ad VLAN（最多 4094 个 VLAN 条目）。E1 接口符合 ITU-T G.703 建议，内置 BER 测试仪和环回测试功能。V.35 接口符合 ITU-T V.35/V.36 建议，支持帧模式和非帧模式，并提供各种接口速率（N×64K，1≤N≤31）、接口模式（DTE 和 DCE）和时钟选择（DCE 内部振荡器时钟、DCE 线路时钟和 DTE V.35 接口时钟）。120Ω_E1 接口在 RJ-48C 中，可通过底板上的 DIP 开关和专有电缆转换为 75Ω 不平衡接口，实现阻抗匹配。具有缓存吸收功能（抵抗数据包延迟变化）。支持 EFM（第一英里以太网）、CFM（连接故障管理）、SLA（服务级别协议）等运营商级 OAM 管理。支持 STP/RSTP/MSTP（生成树协议/快速生成树协议/多生成树协议）。支持链路聚合（手动 LAG 和静态 LACP）。支持 ELPS（以太网线性保护切换）。支持 ERPS（以太网环保护切换）。基于端口限速、端口镜像、优先级信任、流分类、流策略、优先级映射和队列调度的 QoS 功能。支持接口保护。支持巨型帧设置（最大 9720 字节）。支持流控制。支持 DDM（数字诊断监控）。支持 MAC 地址转发控制。支持 IEEE802.1X 认证。支持 ACL（访问控制列表）。支持广播风暴抑制。支持远程带内监控管理。支持电源故障报警。支持 EzView 网络管理、SNMP（简单网络管理协议）和 CLI。支持 NTP（正常温度和压力）和 RMON（远程网络监控）。支持通过 TFTP（简单文件传输协议）进行软件升级。|
+
+10/100/1000Base-Tx interface,10/100/1000Base-Tx interface.1
+Interface specifications,"complying with IEEE 802.1, IEEE-802.1u, IEEE 802.1Q, and IEEE 802.1p"
+Interface rate,10/100M/1000M
+Operation mode,"auto-negotiation, 1000M full-duplex, 1000M half-duplex, 100M full-duplex, 100M half-duplex, 10M full-duplex, 10M half-duplex"
+Interface connector,RJ-45 socket
+Interface number,3: 2 UNIs and 1 SNMP management port
+1000Base-Fx interface,1000Base-Fx interface
+Interface specifications,"complying with  IEEE 802.3  ,  IEEE-802.3z  ,  IEEE  802.1Q  ,  IEEE 802.1p  ,  IEEE802.1ad  ,  IEEE802.1d  ,  IEEE802.1w  ,  IEEE802.3ad  ,  IEEE802.3ah  ,  IEEE802.1ag  ,  Y1731"
+Interface rate,1000M
+Operation mode,auto-negotiation and  1000M  full-duplex
+Interface connector,SFP  socket
+Interface number,4
+Transmission wavelength and distance,Determined by optical module
+E1 interface,E1 interface
+Bit rate,2.048 Mbps ± 50ppm
+Line code,HDB3
+Point –to-point single added process delay( when set to minimum delay),≤ 10ms
+"Output frequency stability (adaptive timing, stable)",≤5ppm
+Output jitter (adaptive timing),≤0.1UI
+Connector,RJ-48C
+Impedance,"by default: 120Ω, 75Ω conversion can be achieved"
+Interface number,"0, 4, 8"
+Power voltage,Power voltage
+Voltage,DC -48V(-36V~-72V)  AC ~220V(AC100V~240V)
+Power consumption,Power consumption
+Power consumption,≤ 65W
+Operation environment,Operation environment
+Operation temperature,-5°C ~55°C
+Storage temperature,-40°C ~70°C
+Relative humidity,5%~85%RH (non-condensing)
+Chassis size,Chassis size
+Size,W×D×H (mm): 440×285×44
+Device weight,Device weight
+Weight,≤3kg
+
+
+Items,Standards and Protocols
+VLAN,"IEEE 802.1Q ,IEEE802.1ad"
+Link aggregation,"S-MAC,D-MAC,S-MAC and D-MAC,manual LAG and static LCAP modes."
+EPRS,"Single ring, intersecting rings and tangent ring"
+ELPS,"1:1 bidirectional switching, retentive and non-retentive modes"
+QoS,"Port speed limit,port mirroring,priority trust,flow classification,flow policy,priority mapping,queue scheduling"
+Flow control,"Half-duplex/full-duplex, back pressure and IEEE802.1x"
+DDM,Analyzing monitoring data of optical module
+EFM,IEEE 802.3ah
+CFM,"Continuity check function,LB,LT"
+LLDP,IEEE 802.1ab
+ACL,"Based on port, IP ACL and MAC ACL"
+Storm suppression,"Unkown unicast flow, unkown multicast flow and broadcast flow"
+RMON,Established by IETF(internet engineering task force)
+DHCP,Client/server model
+NTP,"Support NTP client mode,can synchronize time with NTP server."

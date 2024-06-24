@@ -1,0 +1,45 @@
+产品网址：https://www.primarius-tech.com/en/products/engineering_service/PDK.html
+产品结构：root->PRIMARIUS-Development&Verification
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|SPICE 模型|无|无|
+|BSIMProPlus|无|基带建模|
+|MeQLab|无|RF 建模|
+|SDEP|无|模型提取自动化|
+|ME-Pro|无|模型 QA|
+|PCellLab|无|PCell 开发|
+|PQLab|无|PDK 验证|
+|NanoCell|无|标准单元库表征|
+|LibWiz|无|库验证|
+|NanoDesigner SE|无|原理图捕获|
+|NanoDesigner LS|无|布局编辑器|
+|NanoDesigner iV|无|交互式物理验证|
+|NanoDesigner Optimizer|无|设计优化|
+|NanoSpice|无|SPICE 模拟器|
+|NanoSpice X|无|SPICE 模拟器|
+|NanoSpice Giga|无|SPICE 模拟器|
+|NanoSpice Pro|无|FastSPICE 模拟器|
+|NanoSpice Pro X|无|FastSPICE 模拟器|
+|NanoSpice MS|无|混合信号|
+|NanoWave|无|波形分析|
+|NanoYield|无|产量分析|
+|NanoSpice SI|无|信号完整性|
+|PathInspector|无|关键路径分析|
+|PTM|无|功率器件设计验证|
+|ESDi|无|ESD 验证|
+|VeriSim|无|数字模拟|
+|TRASTA|无|时序分析|
+|NavisPro|无|Floor Planning|
+|PadInspector|无|Chip-to-Package 连接性验证|
+|FS-Pro|无|半导体参数分析仪|
+|9812DX|无|低频噪声|
+|9812E|无|低频噪声|
+|9813DXC|无|低频噪声|
+|9812AC|无|AC 动态噪声|
+|Data Acquisition & Characterization|无|数据测试|
+|Model Extraction & QA|无|SPICE 建模|
+|Testkey Design & Layout|无|Testchip 设计|
+|New Device Solutions|无|新设备|
+|Development & Verification|无|PDK 开发|
+|Characterization & Development|无|IP 开发|

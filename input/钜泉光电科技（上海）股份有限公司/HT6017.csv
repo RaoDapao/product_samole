@@ -1,0 +1,17 @@
+产品网址：https://www.hitrendtech.com/products/detail?id=25
+产品结构：首页->产品中心->HT6017
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|HT6017|无|HT6X1X 系列 MCU，专为国家新一代智能电表应用而开发。内核采用了在尺寸、功耗、及能效方面高度优化的 32 位处理器，同时配以 128K Flash、8K SRAM、电源及复位管理、时钟管理、温度传感器、硬件自动温补 RTC、LCD 驱动等丰富 IP，产品在功能、性能及可靠性方面皆满足国家电网对 MCU 器件的高工规要求。该系列 MCU 除特别适用于国家电网的表计系统外，也适合于其它对集成度、可靠性、待机功耗、RTC 精度等有极高要求的工业控制、终端电子消费品等应用场合。相对于传统的 8bit/16bit 工控 MCU，该系列则具备更为突出的综合性价比及平台化优势。|
+
+Part NO.,HT6017,Supply Voltage,2.2V~5.5V
+MCU,32位处理器,Flash (Bytes,128K
+SRAM (Bytes),8K,PLL /HFRC /LFRC (Hz),22M /11M /32K
+External Crystal OSC (Hz),32K,TPS,±0.5℃
+SPI,1,UART (7816),5 （1）
+External Interrupt,6,LCD Driver (Com*Seg),4x26 6x24 8x22
+GPIO,54,Encrypt. & Rand.,x
+normal @PLL=11MHz,3.37mA,Ihold RTC On,3.3uA
+Isleep RTC On,2.7uA,Package /Pins,LQFP /64
+,,,

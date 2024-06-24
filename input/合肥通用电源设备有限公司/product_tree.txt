@@ -1,0 +1,16 @@
+-> root http://api-power.com
+  -> 服务支持专业的一对一客户服务联系我们 
+    -> 资料下载了解产品的专业介绍及指导联系我们 http://api-power.com
+      -> 半灌胶电源 
+      -> 防水电源 
+      -> 机柜电源 
+  -> 产品研发_合肥通用电子技术研究所-合肥通 http://api-power.com/list_product.php?c_id=25
+  -> 电力产品_合肥通用电子技术研究所-合肥通 http://api-power.com/list_img.php?c_id=40
+  -> 医疗产品_合肥通用电子技术研究所-合肥通 http://api-power.com/list_img.php?c_id=41
+    -> 智能充电电源 
+    -> PLC 专用电源 
+    -> 医疗设备电源 
+    -> 仪表电源 
+    -> FIG3 
+    -> FIG5 
+    -> FIG9 

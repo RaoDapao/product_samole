@@ -1,0 +1,11 @@
+产品网址：https://www.zhmsemi.com/products/industrial_igbt_module/lighteu.html
+产品结构：root
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|EV IGBT Module|无|A. 低开关损耗<br>B. 低 VCE(sat)<br>C. 高短路能力（10us）|
+
+Package,Product,Vces(V),Ic(A),VCE(sat)(V),Configuration,typical value @Tj=25℃,typical value @Tj=25℃.1,typical value @Tj=25℃.2
+Package,Product,Vces(V),Ic(A),VCE(sat)(V),Configuration,VF(V),Eon(mJ),Eoff(mJ)
+LightEU,PMU10ZL120S1P,1200,10,1.70,PIM,1.75,0.98,0.48
+LightEU,PMU15ZL120S1P,1200,15,1.80,PIM,2.00,1.42,0.78

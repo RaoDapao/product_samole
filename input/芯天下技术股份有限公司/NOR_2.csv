@@ -1,0 +1,13 @@
+产品网址：http://www.xtxtech.com/products_detail/1/ProId-2
+产品结构：root->NOR
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|NOR MCP|XT70 系列|芯天下技术 XT70 系列是多芯片合封（MCP）存储解决方案，包含一颗串行 NOR 闪存芯片和一颗串行 PSRAM 芯片，具有减少终端产品 PCB 板设计面积、提升数据访问速度、扩充 SOC 内嵌 Flash 和 SRAM 的容量、灵活配置满足个性化需求、LGA16 5x6mm 小型化封装适配模组和穿戴设备的空间不足等优势，适用于支持快速访问的音视频智能模块，穿戴和 IOT 产品|
+
+型号,容量,电压,温度,封装,描述,包装,状态
+XT70F64B64ALGIGA,64M64M,2.7~3.6V,-40℃~85℃,LGA16 6x5mm,64M NOR + 64M Psram,Tray,QS
+
+
+型号,容量,电压,温度,封装,描述,包装,状态
+XT70F128B64ALGIGA,128M64M,2.7~3.6V,-40℃~85℃,LGA16 6x5mm,128M NOR + 64M Psram,Tray,QS

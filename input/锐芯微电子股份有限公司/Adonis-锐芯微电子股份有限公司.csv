@@ -1,0 +1,20 @@
+产品网址：http://www.brigates.com/product/66.html
+产品结构：root->Adonis-锐芯微电子股份有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Adonis|无|4K 分辨率的高速 CMOS TDI 图像传感器，单级最高行频可达 400KLPS，最多可实现 8 级 TDI，在高速扫描场景下可提供高信噪比的图像|
+
+有效像素阵列,有效像素阵列.1,4096(H) × 8(V),4096(H) × 8(V).1,像素大小,7.056 μm(H)×7.056 μm(V),7.056 μm(H)×7.056 μm(V).1
+感光阵列长度,感光阵列长度,28901 μm,28901 μm,像素特点,BSI高性能像素,BSI高性能像素
+曝光方式,曝光方式,Electronic Rolling,Electronic Rolling,SNRmax,~47dB,~47dB
+光滤阵列,光滤阵列,BW/ RGB+NIR,BW/ RGB+NIR,最高行频,350KLPS@1 stage,350KLPS@1 stage
+光滤阵列,光滤阵列,BW/ RGB+NIR,BW/ RGB+NIR,最高行频,"400KLPS/N@N stage,1<N<8","400KLPS/N@N stage,1<N<8"
+读出噪声,读出噪声,~1e@HCG mode  ~6e@MCG mode  ~17e@LCG mode,~1e@HCG mode  ~6e@MCG mode  ~17e@LCG mode,灵敏度,BW:76V/(Lux*S)@HCG  12.5V/(Lux*S)@MCG  4.5V/(Lux*S)@LCG,BW:76V/(Lux*S)@HCG  12.5V/(Lux*S)@MCG  4.5V/(Lux*S)@LCG
+读出噪声,读出噪声,~1e@HCG mode  ~6e@MCG mode  ~17e@LCG mode,~1e@HCG mode  ~6e@MCG mode  ~17e@LCG mode,灵敏度,RGB:24V/(Lux*S)@HCG 550nm  4.1V/(Lux*S)@MCG 550nm  1.5V/(Lux*S)@LCG 550nm,RGB:24V/(Lux*S)@HCG 550nm  4.1V/(Lux*S)@MCG 550nm  1.5V/(Lux*S)@LCG 550nm
+动态范围,动态范围,>72dB@linear mode,>72dB@linear mode,输出接口,32lane/16lane LVDS,32lane/16lane LVDS
+供电,Digital,1.2V ± 0.1V,1.2V ± 0.1V,功耗,~480mW@full speed,~480mW@full speed
+供电,IO,1.7V ~ 2.5V,1.7V ~ 2.5V,功耗,~480mW@full speed,~480mW@full speed
+供电,Analog,2.8V ± 0.1V,2.8V ± 0.1V,功耗,~480mW@full speed,~480mW@full speed
+接口速度,接口速度,<800Mbps,<800Mbps,工作温度,-30~60℃,-30~60℃
+封装形式,封装形式,PBGA,PBGA,封装尺寸,40mm×15mm,40mm×15mm

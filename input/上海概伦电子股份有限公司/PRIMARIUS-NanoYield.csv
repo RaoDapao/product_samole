@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/en/products/analog_design_eda/NanoYielden.html
+产品结构：root->PRIMARIUS-NanoYield
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|NanoYield|无|是一个面向产量的设计平台，用于分析和优化存储器、数字和模拟电路中的电路产量。基于 Primarius 独特的统计建模和高西格玛分析算法技术，通过高效算法和并行化进行无损精度的电路统计模拟，通过用户友好的基于 GUI 的 DFY（产量设计）环境 NDE（Nano 设计环境）提高设计人员的生产力。基于设计目标，NDE 允许用户运行变异分析、预测产量、访问产量和电路优化工作的有效性，并提高产品竞争力|

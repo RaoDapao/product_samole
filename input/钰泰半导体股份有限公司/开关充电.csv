@@ -1,0 +1,31 @@
+产品网址：https://www.eta-semi.com/product-cat/%e7%94%b5%e6%b1%a0%e7%ae%a1%e7%90%86/%e5%bc%80%e5%85%b3%e5%85%85%e7%94%b5
+产品结构：首页->电池管理->开关充电
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|开关充电|无|无|
+
+Descriptions,Architecture,Vin Min(V),Vin Max(V),Vin Standoff(V),Final Vbat(V)
+3A Charger w.1.2A OTG,Sync.Buck+OTG+NVDC,3.9,13.5,22.0,4.2/4.35/4.4
+"3A Charger w.1.2A OTG, I2C Control",Sync.Buck+OTG+NVDC,3.9,13.5,22.0,3.848-4.616
+3A Charger w.1.2A OTG,Sync.Buck+OTG+NVDC,3.9,13.5,22.0,4.2/4.35/4.4
+"3A Charger w.1.2A OTG, I2C Control",Sync.Buck+OTG+NVDC,3.9,13.5,22.0,3.848-4.616
+3A Charger w.1.2A OTG,Sync.Buck+OTG+NVDC,3.9,13.5,40.0,4.2/4.35/4.4
+"3A Charger w.1.2A OTG, I2C Control",Sync.Buck+OTG+NVDC,3.9,13.5,30.0,3.856-4.624
+"3A Charger w.1A OTG, I2C Control",Sync.Buck+OTG,3.8,12.0,20.0,3.5-4.44
+20V Input standoff，4A Switch Charger,Sync.Buck,4.6,16.0,20.0,4.2/4.35
+"32V Input standoff, 2.5A Charger,1uA ultra low VBAT standby current",Sync.Buck,4.5,5.5,32.0,4.4
+"32V Input standoff, 2.5A Charger,1uA ultra low VBAT standby current",Sync.Buck,4.5,5.5,32.0,4.35
+"32V Input standoff, 2.5A Charger",Sync.Buck,4.5,5.5,32.0,4.35
+2.5A Charger w. 1.5A OTG,Sync.Buck+OTG,4.5,5.5,6.0,4.35
+2.5A Charger w.DPPM,Sync.Buck+NVDC,4.4,5.5,6.0,4.35
+"32V Input standoff, 2.5A Charger,1uA ultra low VBAT standby current",Sync.Buck,4.5,5.5,32.0,4.2
+"2.5A Switch Charger,1uA ultra low VBAT standby current",Sync.Buck,4.5,5.5,6.5,4.2
+"32V Input standoff, 2.5A Charger",Sync.Buck,4.5,5.5,32.0,4.2
+2.5A Charger w. 1.5A OTG,Sync.Buck+OTG,4.5,5.5,6.0,4.2
+2A Charger w. 1.5A OTG,Sync.Buck+OTG,4.5,5.5,6.0,4.2
+2.5A Boost Charger w.2.4A OTG,Sync.Boost+OTG,2.7,7.0,16.0,8.4
+1.5V/2A Buck&5V Linear Charger,Sync.Buck+Linear,3.85,5.5,6.0,4.2/4.35
+2.5A Charger w.DPPM,Sync.Buck+NVDC,4.4,5.5,6.0,4.35
+2.5A Charger w.DPPM,Sync.Buck+NVDC,4.4,5.5,6.0,4.2
+2.5A Charger w.DPPM,Sync.Buck+NVDC,4.4,5.5,6.0,4.2

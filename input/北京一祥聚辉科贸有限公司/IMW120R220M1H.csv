@@ -1,0 +1,56 @@
+产品网址：https://www.bjyxjh.com/page154?product_id=630
+产品结构：root->IMW120R220M1H
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|IMW120R220M1H|无|无|
+
+型号,IMW120R220M1HXKSA1
+制造商,Infineon Technologies
+Mfr,Infineon Technologies
+系列,CoolSiC™
+包装,Tube
+零件状态,Active
+FET 类型,N-Channel
+技术,SiCFET (Silicon Carbide)
+Drain to Source Voltage (Vdss),1.2kV
+Current - Continuous Drain (Id) @ 25°C,13A (Tc)
+"Drive Voltage (最大 Rds On, Min Rds On)","15V, 18V"
+"Rds On (最大) @ Id, Vgs","286mOhm @ 4A, 18V"
+Vgs(th) (最大) @ Id,5.7V @ 1.6mA
+Gate Charge (Qg) (最大) @ Vgs,8.5nC @ 18V
+Vgs (最大),"+23V, -7V"
+输入 点容 (Ciss) (最大) @ Vds,289pF @ 800V
+FET Feature,-
+功率 Dissipation (最大),75W (Tc)
+工作温度,-55°C ~ 175°C (TJ)
+安装类型,Through Hole
+供应商器件封装,PG-TO247-3-41
+封装/外壳,TO-247-3
+
+
+型号,IMW120R220M1HXKSA1
+制造商,Infineon Technologies
+Mfr,Infineon Technologies
+系列,CoolSiC™
+包装,Tube
+零件状态,Active
+FET 类型,N-Channel
+技术,SiCFET (Silicon Carbide)
+Drain to Source Voltage (Vdss),1.2kV
+Current - Continuous Drain (Id) @ 25°C,13A (Tc)
+"Drive Voltage (最大 Rds On, Min Rds On)","15V, 18V"
+"Rds On (最大) @ Id, Vgs","286mOhm @ 4A, 18V"
+Vgs(th) (最大) @ Id,5.7V @ 1.6mA
+Gate Charge (Qg) (最大) @ Vgs,8.5nC @ 18V
+Vgs (最大),"+23V, -7V"
+输入 点容 (Ciss) (最大) @ Vds,289pF @ 800V
+FET Feature,-
+功率 Dissipation (最大),75W (Tc)
+工作温度,-55°C ~ 175°C (TJ)
+安装类型,Through Hole
+供应商器件封装,PG-TO247-3-41
+封装/外壳,TO-247-3
+
+
+

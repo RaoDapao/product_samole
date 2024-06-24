@@ -1,0 +1,20 @@
+产品网址：http://chinaasic.com/productItemSort/product_item_sort_42.html
+产品结构：root->非隔离恒压
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|AC-DC 驱动|副边反馈（SSR）|无|
+|AC-DC 驱动|原边反馈（PSR）|无|
+|AC-DC 驱动|非隔离恒压|无|
+
+IC Name,Topology,I  OUT.MAX,P  Standby,HV_MOSFET,BV  DSS,Package,操作
+SM7025,Buck、Buck-Boost,150mA,<100mW,Inside,650V,SOP8,more>>
+SM7033M,Buck、 Buck-Boost,100mA,<200mW,Inside,500V,SOT23-5,more>>
+SM7035,Buck、 Buck-Boost,250mA,<200mW,Inside,500V,DIP8、SOP8,more>>
+SM7035P,Buck、 Buck-Boost,250mA,<200mW,Inside,500V,DIP8、SOP8,more>>
+SM7055,Buck、 Buck-Boost,200mA,<100mW,Inside,650V,DIP8,more>>
+SM7055-12,Buck Buck-Boost,250mA,<100mW,Inside,650V,TO251/TO252,more>>
+SM7055-18,Buck Buck-Boost,250mA,<100mW,Inside,650V,TO251/TO252,more>>
+SM7075P,Buck、 Buck-Boost,300mA,<120mW,Inside,650V,SOP8,more>>
+SM7075-12,Buck Buck-Boost,300mA,<120mW,Inside,650V,TO252-2、TO251、DIP8;,more>>
+SM7075-18,Buck Buck-Boost,300mA,<120mW,Inside,650V,TO252-2、TO251、DIP8,more>>

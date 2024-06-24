@@ -1,0 +1,15 @@
+产品网址：https://www.montage-tech.com/cn/Memory_Interface/DDR5
+产品结构：root->DDR5产品|澜起科技
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|DDR5 产品|无|澜起科技提供符合 JEDEC 规范的全套 DDR5 内存接口芯片，包括寄存时钟驱动器 (RCD)、数据缓冲器 (DB)、串行检测集线器 (SPD Hub)、温度传感器 (TS) 和电源管理芯片 (PMIC)。这些芯片适用于 DDR5 系列内存模组，如 DDR5 RDIMM、LRDIMM、UDIMM、SODIMM 等，为下一代服务器、台式机及笔记本电脑提供更高性能、更大容量的内存解决方案。|
+
+产品型号,产品类型,最高速率,应用
+产品型号  M88DR5RCD03,产品类型  Gen3 DDR5 RCD,最高速率  6400 Mbps,应用  DDR5 RDIMM
+产品型号  M88DR5RCD02,产品类型  Gen2 DDR5 RCD,最高速率  5600 Mbps,应用  DDR5 RDIMM
+产品型号  M88DR5RCD01,产品类型  Gen1 DDR5 RCD,最高速率  4800 Mbps,应用  DDR5 RDIMM 和 LRDIMM
+产品型号  M88DR5DB01,产品类型  Gen1 DDR5 DB,最高速率  4800 Mbps,应用  DDR5 LRDIMM
+产品型号  M88P5010/M88P5000,产品类型  DDR5 PMIC,最高速率  /,应用  DDR5 RDIMM 和 LRDIMM
+产品型号  M88SPD5118,产品类型  DDR5 SPD Hub,最高速率  /,"应用  DDR5 RDIMM, LRDIMM, UDIMM 和 SODIMM"
+产品型号  M88TS5110,产品类型  DDR5 TS,最高速率  /,应用  DDR5 RDIMM 和 LRDIMM

@@ -1,0 +1,12 @@
+产品网址：https://www.longsys.com/products/embedded-storage/embedded-storage/automotive-ufs.html
+产品结构：root->FORESEEAutomotiveUFSCard64GB/128GBStorage|Longsys
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|FORESEE Automotive UFS Card|64GB/128GB|能够长时间提供出色性能，兼容主流平台，支持 LDPC 算法、Write Booster、HPB、紧急停电保护、FFU 升级、FBA 数据加速等功能|
+
+Product Series,PN,NAND Flash,Capacity,Protocol/Interface,Package,Operating Temperature,Operating Voltage,Size
+Automotive UFS,FEUDME064G-B8A19,3D NAND,64GB,UFS 2.1 Gear3 2L,FBGA153,-40℃ to105℃,1.8V/3.3V,11.5 x 13 x 1.2mm
+Automotive UFS,FEUDME128G-B8A19,3D NAND,128GB,UFS 2.1 Gear3 2L,FBGA153,-40℃ to105℃,1.8V/3.3V,11.5 x 13 x 1.2mm
+Automotive UFS,FEUDME128G-C8H09,3D NAND,128GB,UFS 3.1 Gear4 2L,FBGA153,-40℃ to105℃,1.2V/2.5V,11.5 x 13 x 1.2mm
+Automotive UFS,FEUDME256G-C8H09,3D NAND,256GB,UFS 3.1 Gear4 2L,FBGA153,-40℃ to105℃,1.2V/2.5V,11.5 x 13 x 1.2mm

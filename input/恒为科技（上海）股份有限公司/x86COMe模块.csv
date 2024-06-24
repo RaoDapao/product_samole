@@ -1,0 +1,58 @@
+产品网址：https://www.embedway.com.cn/product/detail/355
+产品结构：智能系统平台->智能计算->COMe模块->x86COMe模块
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|COM Express 模块|CMB710|基于第四代 Intel® i7 处理器设计开发，支持双通道 DDR3 SODIMM 插槽，接口符合 COM Express Type 6 标准，通用性强，可直接用于标准 COM Express Type 6 载板|
+|COM Express 模块|CMB720|基于第六代 IntelE3 或者 i7 处理器设计开发，支持双通道 DDR4 SODIMM 插槽，接口符合 COM Express Type 6 标准，通用性强，可直接用于标准 COM Express Type 6 载板|
+|COM Express Compact 标准模块|CMC2100|基于 Intel Atom® C3000 系列处理器设计开发，支持双通道 DDR4 SODIMM 插槽，接口符合 COM Express Type 6/7 标准，通用性强，可直接用于标准 COM Express Type 6/7 载板|
+
+COM-E  规格,COM Express® Basic Module  COM Express® R2.1 Type 6
+尺寸,"125 mm x 95 mm (4.92"" x 3.74"")"
+处理器,"Intel® Core™ i7-4850EQ Processor (6M Cache, 1.6 GHz) 47 W  Intel® Core™ i7-4700EQ Processor (6M Cache, 2.4 GHz) 47 W"
+芯片组,QM87
+内存,双通道SODIMM DDR3 1600MHz  支持ECC  整板最高支持32GB内存(部分CPU型号支持最高16GB)
+BIOS,128Mbit SPI Flash Insyde UEFI BIOS支持AMT 9.0
+硬件监控,支持电压监控、温度监控和自动风扇转速控制
+显示,VGA最高支持1920 x 1200@60Hz分辨率  2路DDI接口可配置为HDMI/DVI/DisplayPort
+外围总线,"SMbus  LPC  1路PCIe3.0x8(1x8或者2x4）  1路PCIe3.0x1(Lane5)  6路PCIe2.0x1(Lane0,1,2,3,4,6)"
+网络接口,芯片组内置GbE MAC配合Intel® i217  支持10/100/1000 Mbps
+存储,4路SATA3.0  1路USB2.0扩展MicroSD接口
+I/O,8路USB2.0  4路USB3.0  2路COM  5 bit GPIO  Intel® HD Audio
+TPM,可选
+电源,"工作模式：AT模式  电源输入：12V: 12V±5%, 5V_SB: 5V±5%,RTC Battery: 2.0-3.3V  功耗：i7-4860EQ(8GB DDR3 1600) ：50W"
+环境,工作环境参数：0 ~ 45度，不高于3000m  存储环境参数：-40 ~ 70ºC，不高于5000m  相对湿度：10 ~ 85%不凝露
+ROHS,RoHS Compliant
+
+
+COM-E  规  格,COM Express® Basic Module  COM Express® R2.1 Type 6
+尺寸,"125 mm x 95 mm（4.92"" x 3.74""）"
+处理器,"Intel® Xeon® E3-1585L v5 Processor（8M Cache, 3.0 GHz）45 W  Intel® Core™ i7-6785R Processor（8M Cache, up to 3.90 GHz）65W"
+芯片组,C236
+内存,双通道SODIMM DDR4 2133MHz  支持ECC  整板最高支持32GB内存
+BIOS,128Mbit SPI Flash Insyde UEFI BIOS支持AMT
+硬件监控,支持电压监控、温度监控和自动风扇转速控制
+显示,VGA最高支持1920 x 1440 @60Hz分辨率  2路DDI接口可配置为HDMI/DVI/DisplayPort
+外围总线,"SMbus, LPC  1路PCIe3.0x16(2x8,1x8或者2x4）  8路PCIe2.0x1(Lane0,1,2,3,4,5,6,7,8)"
+网络接口,芯片组内置GbE MAC配合Intel® i219  支持10/100/1000 Mbps
+存储,4路SATA3.0
+I/O,8路USB2.0  4路USB3.0  2路COM  8 bit GPIO  Intel® HD Audio
+TPM,可选
+电源,"工作模式：AT模式  电源输入：12V：12V±5%, 5V_SB：5V±5%, RTC Battery：2.0-3.3V  功耗：Intel® Xeon® E3-1585L（8GB DDR4 2133MHz）：60W"
+环境,工作环境参数：0 ~ 45ºC，不高于3000m  存储环境参数：-40 ~ 70ºC，不高于5000m  相对湿度：10 ~ 85ºC不凝露
+RoHS,RoHS Compliant
+
+
+形态,COM Express Type 6/7 Compact Module
+处理器,Intel C3000系列处理器
+内存,最大2个SoDIMM DDR4槽位，工作速率2400MT/s  支持ECC
+RTC,板载实时时钟
+存储接口,2个SATA 3.0
+网络接口,1路10/100/1000Base-T  2路10G BaseKR/SFI/SGMII  1路SGMII
+USB接口,4路USB 3.0
+PCIe接口,1路PCIe3.0x8  4路PCIe3.0x1
+其他接口,SMBus，LPC，I2C，GPIO，COM
+操作系统,Linux开源操作系统
+最大功率,<40W
+尺寸,95mm x 95 mm
+环境,工作环境温度：-40 ~ 70ºC  存储环境温度：-40 ~ 85ºC

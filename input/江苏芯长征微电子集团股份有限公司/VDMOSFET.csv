@@ -1,0 +1,20 @@
+产品网址：https://www.marching-power.com/vdm
+产品结构：首页->产品中心->硅基芯片及模组系列->VDMOSFET
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|VD MOSFET|无|无|
+
+Part Number,VDSS(V),ID(A)@25°C,V(GS)th(V)@250μA,V(GS)th(V)@250μA.1,RDS(on)(Ω)@VGS=10V 25°C max,QG(nC),Package,Datasheet
+Part Number,VDSS(V),ID(A)@25°C,min,max,RDS(on)(Ω)@VGS=10V 25°C max,QG(nC),Package,Datasheet
+MPVX5N50ECFD,500,5,3,4,1.85,9,TO-252,Download
+MPVA13N50F,500,13,2,4,0.45,36,TO-220F,Download
+MPVX20N50B,500,20,3,4,0.3,75,TO-220F/TO-220/TO-247/TO-3P,Download
+MPVA20N50F,500,20,2,4,0.26,60,TO-220F,Download
+MPVX2N65F,650,2,2,4,5.5,6.3,TO-220F/TO-251/TO-252,Download
+MPVX4N65F,650,4,2,4,2.8,11,TO-220F/TO-251/TO-252,Download
+MPVX7N65F,650,7,2,4,1.4,19,TO-220F/TO-252,Download
+MPVA10N65F,650,10,2,4,1.1,29,TO-220F,Download
+MPVA12N65F,650,12,2,4,0.8,36,TO-220F,Download
+MPVX20N65F,650,20,2,4,0.48,60,TO-220F/TO-220,Download
+MPVX4N70F,700,4,3,5,3.5,11,TO-220F/TO-251/TO-252,Download

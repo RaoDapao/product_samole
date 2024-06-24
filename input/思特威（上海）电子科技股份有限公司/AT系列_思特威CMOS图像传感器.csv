@@ -1,0 +1,18 @@
+产品网址：https://www.smartsenstech.com/at_products
+产品结构：root->AT系列|思特威CMOS图像传感器
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|AT 系列|无|行人监测、变道辅助、倒车辅助、360°环视、盲点监测、前视、倒车辅助系统、安全、超高动态范围、无惧复杂光线环境，即使在低光照环境下也能输出清晰细腻的影像画面|
+
+Product Series,PN,选择分辨率  Resolution,选择光学尺寸  Optical Format,PixelSize,选择快门形式  Shutter Type,选择是否具有HDR  HDR,PixelArray,Max FrameRate,CRA,Interface,Package,Download,Contact Us
+SmartClarity  ®  -2,SC130AT,1.3MP,"1/3""",3.75μm,Rolling,Yes,1304Hx984V,30fps,0°,MIPI DVP LVDS,CSP,-,联系销售
+SmartClarity  ®  -2,SC100AT,1.3MP,"1/3.7""",3.0µm,Rolling,Yes,1288Hx968V,30fps,15°,MIPI DVP LVDS,CSP/IBGA/COB/RW,,联系销售
+SmartClarity  ®  -2,SC120AT,1.3MP,"1/3.7""",3.0µm,Rolling,Yes,1288Hx968V,30fps,15°,MIPI DVP LVDS,CSP/IBGA/COB/RW,,联系销售
+DSI-1,SC1330AT,1.3MP,"1/2.8""",4.0μm,Rolling,Yes,1288Hx968V,60fps,15°,MIPI DVP LVDS,CSP41,,联系销售
+SmartClarity  ®  -2,SC2331AT,2MP,"1/2.8""",2.9μm,Rolling,Yes,1920Hx1080V,60fps,15°,MIPI DVP,CSP41,,联系销售
+SmartGS™-2,SC233AT,2.3MP,"1/2.6""",3.0μm,Global,Yes,1928Hx1208V,60fps,15°,MIPI DVP LVDS,CSP48,-,联系销售
+SmartClarity  ®  -2,SC220AT,2.5MP,"1/2.57""",3.0μm,Rolling,Yes,1940H×1300V,30fps,15°,MIPI DVP LVDS,CSP/iBGA,-,联系销售
+SmartClarity  ®  -2,SC320AT,3MP,"1/2.44""",3.0μm,Rolling,Yes,1940H×1556V,30fps,19°,MIPI DVP LVDS,CSP/iBGA,,联系销售
+SmartGS™-2 Plus,SC533AT,5MP,"1/2.53""",2.2μm,Global,,2592Hx1944V,60fps,15°,MIPI DVP LVDS,CSP,-,联系销售
+SmartClarity  ®  -2,SC850AT,8.3MP,"1/1.73""",2.1μm,Rolling,Yes,3856H×2176V,30fps,18°,MIPI,iBGA,-,联系销售

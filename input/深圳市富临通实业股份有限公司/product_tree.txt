@@ -1,0 +1,87 @@
+-> root http://www.fruition-sz.com
+  -> 产品中心-深圳市富临通实业股份有限公司 https://www.fruition-sz.com/cpzx
+    -> BOURNS 
+    -> APS 
+    -> LELON 
+    -> WALSIN 
+    -> 信昌 
+    -> 芯导 
+    -> 特锐祥 
+    -> 先科 
+    -> 美思迪赛 
+    -> 兆易创新 
+    -> 思瑞浦 
+    -> 国科微 
+    -> 深爱 
+  -> BOURNS-深圳市富临通实业股份有限公 https://www.fruition-sz.com/productinfo/322839.html
+    -> 微调电位器 
+    -> 网络电阻 
+    -> 拨位开关 
+    -> 电感 
+    -> 功率电阻 
+    -> 自恢复保险丝 
+    -> 600V 通信保险丝 
+    -> 固态晶闸管 
+    -> 气体放电管 
+    -> 浪涌吸收器 
+    -> 静电保护器 
+    -> 瞬态电压抑制器 
+    -> 精密电位器 
+    -> 拨码盘 
+    -> 面板控制器 
+    -> 编码器 
+  -> APS-深圳市富临通实业股份有限公司 https://www.fruition-sz.com/productinfo/559025.html
+    -> 带驱动板打印机芯 
+    -> 易装纸打印机芯 
+    -> 超紧凑型打印机芯 
+    -> OEM 自助终端打印模块 
+    -> 集纸仓打印模块 
+    -> 重型热敏打印机 
+    -> 标签打印模块 
+    -> 配件 
+  -> LELON-深圳市富临通实业股份有限公司 https://www.fruition-sz.com/productinfo/393179.html
+  -> WALSIN-深圳市富临通实业股份有限公 https://www.fruition-sz.com/productinfo/457599.html
+    -> 基层陶瓷芯片电容（MLCC） 
+    -> 芯片电阻（Chip-R） 
+    -> 射频组件（RF Components） 
+    -> 圆板电容（DISC） 
+    -> 氧化锌变阻器（Varistor） 
+    -> 电感（Inductor） 
+    -> 芯片保险丝（Chip Fuse） 
+  -> 信昌-深圳市富临通实业股份有限公司 https://www.fruition-sz.com/productinfo/457605.html
+    -> 陶瓷电容器(MLCC) 
+    -> 电阻(Chip Resistors) 
+    -> 陶瓷粉末 
+    -> 线圈 
+    -> 半导性陶瓷电容器瓷片 
+  -> 芯导-深圳市富临通实业股份有限公司 https://www.fruition-sz.com/productinfo/457764.html
+    -> TVS 
+    -> TVS 阵列 
+    -> MOSFET 
+    -> 电池充电 IC 
+    -> 肖特基二极管 
+  -> 特锐祥-深圳市富临通实业股份有限公司 https://www.fruition-sz.com/productinfo/457767.html
+  -> 先科-深圳市富临通实业股份有限公司 https://www.fruition-sz.com/productinfo/457770.html
+  -> 美思迪赛-深圳市富临通实业股份有限公司 https://www.fruition-sz.com/productinfo/457772.html
+  -> 思瑞浦-深圳市富临通实业股份有限公司 https://www.fruition-sz.com/productinfo/457789.html
+  -> 国科微-深圳市富临通实业股份有限公司 https://www.fruition-sz.com/productinfo/457791.html
+    -> NDS 高级安全解码芯片 
+    -> H.265 高清芯片 
+    -> 高端音响芯片 
+    -> 高端固态存储控制芯片 
+    -> 高清智能监控芯片 
+    -> 国科微 12 
+  -> 深爱-深圳市富临通实业股份有限公司 https://www.fruition-sz.com/productinfo/322838.html
+    -> 双极功率晶体管 
+    -> 功率 MOSFET 
+    -> 功率二极管 
+    -> LED 驱动 IC 
+    -> 电源管理 IC 
+  -> 信昌-深圳市富临通实业股份有限公司_1 https://www.fruition-sz.com/productinfo/457605.html#
+  -> 芯导-深圳市富临通实业股份有限公司_1 https://www.fruition-sz.com/productinfo/457764.html#
+  -> 特锐祥-深圳市富临通实业股份有限公司_1 https://www.fruition-sz.com/productinfo/457767.html#
+  -> 兆易创新-深圳市富临通实业股份有限公司 https://www.fruition-sz.com/productinfo/457777.html#
+    -> Nor Flash 
+    -> Nand Flash 
+    -> MCU 
+  -> 思瑞浦-深圳市富临通实业股份有限公司_1 https://www.fruition-sz.com/productinfo/457789.html#

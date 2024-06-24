@@ -1,0 +1,78 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/1076.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|8MP Fixed Starlight IR Turret Camera|TC-C38XS|Metal housing<br>Up to Max. 3840×2160 resolution<br>S+265/H.265/H.264B/H.264M/H.264H/Motion JPEG<br>Color:0.002Lux@(F1.6,AGC ON),B/W:0Lux with IR<br>Smart IR, IR Range 30m<br>Support microSD/microSDHC/microSDXC card, up to 512 GB<br>Support smart surveillance<br>Support human/vehicle classification<br>Operating conditions -40℃~65℃, humidity 95% or less (no condensation)<br>DC12V±25%,Max. 7W, POE 802.3af,Max. 8.5W<br>IP66|
+
+Camera,Unnamed: 1
+Image Sensor,"1/2.8""CMOS"
+Min. Illumination,"Color:0.002Lux@(F1.6,AGC ON),B/W:0Lux with IR"
+Shutter Time,1s~1/100000s
+Day&Night,IR-cut filter with auto switch (ICR)
+WDR,120dB
+S/N,>42dB
+Angle Adjustment,0~340°(P); 0~75°(T); 0~360°(R)
+Lens,
+Lens Type,Fixed focal lens
+Focal Length,2.8mm
+Lens Mount,M12
+Aperture Range,F1.6
+Field of View,104.9°(H); 56.5°(V); 119.2°(D)
+DORI Distance,Detect:77m Observe:30.5m Recognize:15.5m Identify:7.5m
+Illuminator,
+IR LEDs,2
+IR Distance,30m
+Wavelength,850nm
+Compression Standard,
+Video Compression,S+265/H.265/H.264B/H.264M/H.264H/Motion JPEG
+Video Bit Rate,32k~16Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D/AAC_LC
+Audio Sampling Rate,8kHz/32kHz/48kHz
+Image,
+Max. Resolution,3840×2160@20fps
+Main Stream,"PAL:20fps(3840×2160, 3072×2048), 25fps(2560×1440, 2304×1296, 1920×1080, 1280×720) NTSC:20fps(3840×2160, 3072×2048), 30fps(2560×1440, 2304×1296, 1920×1080, 1280×720)"
+Sub Stream,"PAL:25fps(704×576, 704×288, 352×288, 640×360) NTSC:30fps(704×480, 704×240, 352×240, 640×360)"
+Third Stream,"PAL:25fps(704×576, 704×288, 352×288, 640×480) NTSC:30fps(704×480, 704×240, 352×240, 640×360)"
+BLC,Yes
+HLC,Yes
+AGC,Yes
+3D DNR,Yes
+White Balance,Auto/Semi-Auto/Manual/Sunshine/Nature Light/Warmlight Lamp/Daylight Lamp/Filament Lamp/Lock White Balance
+ROI,8 rectangular static areas
+Corridor mode,Yes
+OSD,"Overlay of additional characters in 5 regions, 1 line, with a maximum of 127 characters or 42 Chinese characters per region; 16*16/32*32/48*48/64*64/96*96"
+Picture Overlay,1*200x200 size BMP 16 color bit image overlay
+Privacy Mask,4 black static areas
+Defog,Yes
+Feature,
+Alarm Trigger,Motion Detection; Mask Alarm; Voltage Alarm; Disk Full; Disk R/W Error; IP Address Conflict; MAC Address Conflict; FTP Server Exception
+Linkage Method,send email; trigger recording; trigger capture; notify surveillance center
+Video Analytics,Human/Vehicle Classification; Tripwire; Perimeter
+Rules of behavior analyse in 1 scene,8
+Network,
+ANR,Yes
+Protocols,HTTP; HTTPS; TCP/IP; UDP; UPnP; ICMP; IGMP; SNMP; DHCP; DNS; DDNS; Easy DDNS; NTP; SMTP; SSL; 802.1X; QoS; IPv4; IPv6; PPPOE; SSH; Unicast; Multicast; RTCP; ARP; SRTP; RTSP; FTP; SFTP; NAS
+System Compatibility,ONVIF Profile S/T/G; CGI; Milestone; RTMP
+Remote Connection,≤2
+Client,Easy7 Smart Client
+Moblie Client,EasyLive Plus
+Interface,
+Communication Interface,"1*RJ-45,10/100 Mbps self-adaptive Ethernet port"
+On-board storage,"Support microSD/microSDHC/microSDXC card, up to 512 GB"
+RTC,Yes
+General,
+Web Client Language,19 languages Simple Chinese/Traditional Chinese/English/Spanish/Korean/Italian/Turkish/Russian/Thai/French/Polish/Dutch/Hebrew/Arabic/Vietnamese/German/Ukrainian/Portuguese/Albanian
+Operating Temperature,-40℃~65℃
+Operating Humidity,Humidity 95% or less (no condensation)
+Storage Temperature,-40℃~65℃
+Storage Humidity,Humidity 95% or less (no condensation)
+Power Supply,"DC12V±25%,MAX 7W; POE 802.3af,MAX 8.5W"
+Protection,Surge4000V; ESD6000V; IP66
+Boundary Dimensions,117(L)117(W)96(H)mm
+Package Dimensions,140(L)140(W)120(H)mm
+GrossWeight,0.7kg
+
+
+Date,Title,Type
+2024-05-08,TC-C38XS I3EM2.8mmVJO4.0,pdf

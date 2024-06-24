@@ -1,0 +1,18 @@
+产品网址：https://www.longsys.com/products/embedded-storage/embedded-storage/epop.html
+产品结构：root->FORESEEePOPStorageforSmartWearableDevices|Longsys
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|FORESEE ePOP Storage|无|低功耗，适用于智能穿戴设备，高度集成且紧凑，节省 PCB 空间，提供多种容量组合，如 8GB+4Gb 和 8GB+8Gb，通过了多个平台的兼容性验证，支持现场固件更新（FFU）|
+
+Product Series,Protocol,Capacity,DRAM Frequency,Package,Operating Temperature,Size,Operating Voltage
+ePOP3,eMMC5.1+LPDDR3,8GB+8Gb,800MHz,136ball,-25℃~85℃,10*10*0.9 mm,DRAM:VDD1=VDD2=1.8V;VDDQ=1.2V  eMMC: VCC:2.7~3.6V;VCCQ:1.7~1.95V/2.7~3.6V
+ePOP3,eMMC5.1+LPDDR3,32GB+8Gb,800MHz,136ball,-25℃~85℃,10*10*0.9 mm,DRAM:VDD1=VDD2=1.8V;VDDQ=1.2V  eMMC:VCC:2.7~3.6V;VCCQ:1.7~1.95V/2.7~3.6V
+ePOP3,eMMC5.1+LPDDR3,64GB+8Gb,800MHz,136ball,-25℃~85℃,10*10*0.9 mm,DRAM:VDD1=VDD2=1.8V;VDDQ=1.2V  eMMC:VCC:2.7~3.6V;VCCQ:1.7~1.95V/2.7~3.6V
+ePOP4x,eMMC5.1+LPDDR4x,32GB+16Gb,2133MHz,144ball,-25℃~85℃,8*9.5*0.8 mm,DRAM:VDD1=1.8V;VDD2=1.1V;VDDQ=0.6V  eMMC:VCC:2.7~3.6V;VCCQ:1.7~1.95V/2.7~3.6V
+ePOP4x,eMMC5.1+LPDDR4x,64GB+16Gb,2133MHz,144ball,-25℃~85℃,8*9.5*0.8 mm,DRAM:VDD1=1.8V;VDD2=1.1V;VDDQ=0.6V  eMMC:VCC:2.7~3.6V;VCCQ:1.7~1.95V/2.7~3.6V
+
+
+Number,Platform
+01,Qualcomm
+（  The product supports mainstream platforms and only part of it is shown here.  ）,（  The product supports mainstream platforms and only part of it is shown here.  ）

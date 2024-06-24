@@ -1,0 +1,23 @@
+产品网址：https://www.marching-power.com/pimcp
+产品结构：首页->产品中心->硅基芯片及模组系列->PIM
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|PIM|无|无|
+
+Part Number,Vce(V),Ic(A)@100°C,Vcesat(V)@25°C typ,Eon(mJ),Eoff(mJ),Package,Datasheet
+MPFP50R07CBF,650,50,1.64,3.44,0.78,EconoPIM 2,Download
+MPFP15R12WBF,1200,15,2.0,1.74,0.86,EasyPIM 1B,Download
+MPFP25R12CBF,1200,25,1.98,4.25,1.64,EconoPIM 2,Download
+MPFP25R12EBF,1200,25,2.04,3.21,1.32,EasyPIM 2B,Download
+MPFP25R12FBF,1200,25,1.99,4.9,1.7,EconoPIM 2,Download
+MPFP40R12CBF,1200,40,1.98,6.4,2.8,EconoPIM 2,Download
+MPFP40R12CMF,1200,40,1.78,5.21,1.32,EconoPIM 2,Download
+MPFP40R12EBF,1200,40,1.94,4.61,2.19,EasyPIM 2B,Download
+MPFP40R12FBF,1200,40,2.23,10.1,2.3,EconoPIM 2,Download
+MPFA50R12CBF,1200,50,2.23,14.39,3.42,EconoPIM 2,Download
+MPFP50R12FBF,1200,50,2.25,15.8,3.49,EconoPIM 2,Download
+MPFP50R12DBF,1200,50,1.88,12.78,3.71,EconoPIM 3,Download
+MPFP50R12TBF,1200,50,1.94,24.4,4.93,EconoPIM 3,Download
+MPFP75R12DBF,1200,75,1.98,8.2,4.9,EconoPIM 3,Download
+MPFP75R12TBF,1200,75,1.92,9.06,4.21,EconoPIM 3,Download

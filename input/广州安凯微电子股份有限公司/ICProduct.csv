@@ -1,0 +1,19 @@
+产品网址：http://anyka.com/en/productInfo.aspx?id=109
+产品结构：Home->Product->ICProduct
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|AK3918Av100 开发平台|无|无|
+
+Specifications,Specifications.1
+CPU,ARM926EJ-S  Up to 900MHz
+Neural-network Processing Unit （NPU）,Supports Multiple applications such as object detection/tracking and face detection/recognition
+ISP,"3A (AWB, AE, AF)  Gamma Correction  Defect Pixel Correction  Lens Shading Correction  Green Balance  3DNR,2DNR  Edge Enhancement"
+Video Encoder,"H.265/H.264 encoder, up to 6MP  JPEG encoder, up to 16384*8192  Supports multi-stream, Video*3 + JPEG*1"
+Audio Codec,"single DAC and single ADC  Supports 8KHz/9.6KHz/11.025KHz/12KHz/16KHz/22.05KHz/24KHz/32KHz/44.1KHz/48KHz Sampling Rate  Supports multiple audio coding/decoding formats  Audio 3A function (AEC, AGC and ANR)"
+Tsensor,Supports chip temperature monitoring
+Security,Supports Security boot  Supports AES/DES/3DES encryption algorithms and AES256 decryption algorithm  Supports RSA2048 decryption algorithm  Supports SHA256 algorithm
+Human Interface,Supports DVP/MIPI interface  Compatible with BT.601/BT.656/BT.1120 standard  Supports Bayer RAW data and YUV422 data  Supports dual-CIS input  SAR ADC with three channels
+Peripherals,USB2.0  Ethernet MAC and PHY  MMC/SD/SDIO  SPI  TWI  I2S  UART  GPIO  PWM
+Memory,Embedded 512Mbit/1Gbit DDR2
+Package,"QFN88, 9mm x 9mm x 0.9mm"

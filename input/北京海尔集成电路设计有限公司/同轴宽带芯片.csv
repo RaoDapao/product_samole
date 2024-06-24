@@ -1,0 +1,6 @@
+产品网址：http://www.haier-ic.com/product/product_B.html
+产品结构：当前位置：首页->芯片及方案->同轴宽带芯片
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Hi3611 基带芯片+Hi401 射频芯片|无|用于 HINOC 局端、终端产品，具有多种功能，如国产龙芯 CPU、800M DMPIS，运行 linux 及网管软件；OFDM+自适应调制，最高到 4096QAM；单信道模拟带宽 128MHz，可扩展；单信道下传输带宽 750Mbps，2 信道扩展到 1.5Gps；平均时延 3ms，平均抖动 1.5ms；单芯片集成高速 ADC、DAC、HINOC2.0 MAC/PHY，32 位 CPU DDR1/2 控制器接口、SPI FLASH 接口、GMII/RGMII 接口，每个局端可以支持最多 64 个终端等|

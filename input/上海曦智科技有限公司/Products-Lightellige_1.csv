@@ -1,0 +1,6 @@
+产品网址：https://www.lightelligence.ai/index.php/product/hummingbird.html
+产品结构：root->Products-Lightelligence
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|HUMMINGBIRD ONOC|无|利用先进的垂直堆叠封装技术，将光子和电子芯片集成到一个封装中，为数据中心和其他高性能应用提供通信网络，通过硅光子学实现创新的互连拓扑，提高计算性能，降低延迟和功耗，可实现低延迟的光学全对全广播网络，提供多种密集光学网络拓扑的框架，电子和光子 IC 共封装并集成到 PCIe 外形尺寸中，可与 Lightelligence 软件开发工具包（SDK）配合使用，优化机器学习和 AI 工作负载|

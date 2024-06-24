@@ -1,0 +1,27 @@
+产品网址：https://www.njsme.com/?aPRODUCTSPRODUCTSD1700V/89.html
+产品结构：root->SiCMOS-HalfBridge-1200V-HalfBridge-南京银茂微电子制造有限公司-
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|SiC MOS-Half Bridge|1200V|无|
+
+VDSS=1200V,VDSS=1200V.1,VDSS=1200V.2,VDSS=1200V.3,VDSS=1200V.4,VDSS=1200V.5
+Part Number,Voltage(V),Current(A),RDS(on)@25℃,Comments,Links
+MSC120HF120T2NH,1200,120,13m&Omega;,With SiC FRD,
+MSC160HF120T2NH,1200,160,10m&Omega;,With SiC FRD,
+MSC240HF120T2NH,1200,240,6m&Omega;,With SiC FRD,
+MSC300HF120T2NH,1200,300,5m&Omega;,With SiC FRD,
+,,,,,
+,,,,,
+VDSS=1200V,VDSS=1200V,VDSS=1200V,VDSS=1200V,VDSS=1200V,VDSS=1200V
+Part Number,Voltage(V),Current(A),RDS(on)@25℃,Comments,Links
+MSC120HF120T2LH,1200,120,13m&Omega;,With SiC FRD,
+MSC160HF120T2LH,1200,160,10m&Omega;,With SiC FRD,
+MSC240HF120T2LH,1200,240,6m&Omega;,With SiC FRD,
+MSC300HF120T2LH,1200,300,5m&Omega;,With SiC FRD,
+,,,,,
+,,,,,
+VDSS=1200V,VDSS=1200V,VDSS=1200V,VDSS=1200V,VDSS=1200V,VDSS=1200V
+Part Number,Voltage(V),Current(A),RDS(on)@25℃,Comments,Links
+MSC150HF120B9H,1200,150,8.8m&Omega;,With SiC FRD,
+,,,,,

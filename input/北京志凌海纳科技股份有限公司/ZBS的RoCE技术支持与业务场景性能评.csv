@@ -1,0 +1,6 @@
+产品网址：https://www.smartx.com/blog/2024/02/zbs-roce
+产品结构：root->ZBS的RoCE技术支持与业务场景性能评测–SmartX
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|SmartX 分布式存储 ZBS|无|提供 2 种存算分离架构下的数据接入协议，分别是 iSCSI 和 NVMe-oF。在 NVMe-oF 的实现上选择支持 NVMe over RDMA（RoCEv2）和 NVMe over TCP。支持 initiator + Namespace 这样更小的链路控制粒度，在路径策略选择上通过 ANA 机制指定 Target 链路优先级，再由客户端结合优先级与自身的链路状态探测结果选择 I/O 具体路径。将所有的可用链路设置为 OP（最优链路）和 Non-OP（次优链路）两种状态，对于每个 initiator + Namespace 的组合，仅返回 1 个最优接入点和 2 个次优接入点。在最优接入点可用时，客户端将仅通过最优接入点访问数据，在异常时选择 2 个次优接入点中的一个进行访问。支持 L3 DSCP 的 PFC 流控和 Global Pause 流控两种主流模式。|

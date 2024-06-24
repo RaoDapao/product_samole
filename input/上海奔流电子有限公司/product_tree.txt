@@ -1,0 +1,15 @@
+-> root http://www.benliu.com.cn
+  -> 上海奔流电子有限公司 http://www.benliu.com.cn/ProductCenter/index.aspx?lcid=3
+  -> 上海奔流电子有限公司_1 http://www.benliu.com.cn/ProductCenter/index.aspx?lcid=1
+  -> 上海奔流电子有限公司_2 http://www.benliu.com.cn/ProductCenter/index.aspx?lcid=2
+  -> 上海奔流电子有限公司_3 http://www.benliu.com.cn/ProductCenter/info.aspx?itemid=58&lcid=3
+  -> 上海奔流电子有限公司_4 http://www.benliu.com.cn/ProductCenter/info.aspx?itemid=57&lcid=3
+  -> 上海奔流电子有限公司_5 http://www.benliu.com.cn/ProductCenter/info.aspx?itemid=52&lcid=3
+  -> 上海奔流电子有限公司_6 http://www.benliu.com.cn/ProductCenter/index.aspx
+  -> 上海奔流电子有限公司_7 http://www.benliu.com.cn/ProductCenter/info.aspx?itemid=5&lcid=3
+  -> 上海奔流电子有限公司_8 http://www.benliu.com.cn/ProductCenter/info.aspx?itemid=55&lcid=3
+  -> 上海奔流电子有限公司_9 http://www.benliu.com.cn/ProductCenter/info.aspx?itemid=56&lcid=3
+  -> 上海奔流电子有限公司_10 http://www.benliu.com.cn/ProductCenter/info.aspx?itemid=51&lcid=3
+  -> 上海奔流电子有限公司_11 http://www.benliu.com.cn/ProductCenter/info.aspx?itemid=50&lcid=3
+  -> 上海奔流电子有限公司_12 http://www.benliu.com.cn/ProductCenter/info.aspx?itemid=70&lcid=3
+  -> 上海奔流电子有限公司_13 http://www.benliu.com.cn/ProductCenter/index.aspx?page=2

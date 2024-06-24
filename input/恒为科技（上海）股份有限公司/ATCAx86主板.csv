@@ -1,0 +1,18 @@
+产品网址：https://www.embedway.com.cn/product/detail/365
+产品结构：智能系统平台->智能计算->ATCA板卡->ATCAx86主板
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|ATCA x86 主板|AP7200|基于英特尔® 第六代服务器平台的 ATCA 刀片，提供两个主要配置，单处理器配置为不需要较高处理能力的应用程序提供有吸引力的价格，双处理器配置通过 XL710-BM2 以太网控制器提供 4 个 10/40GbE 端口，配备的 PCI Express 3.0 接口可支持高达每通道 8Gbps 的性能，并可提供虚拟化支持和双双星和双星拓扑应用系统，优化的 IPMI 固件为系统管理功能提供更好的模块化应用和灵活性配置，是高级电信应用 ATCA 系统中的优良选择|
+
+处理器,双路Intel Xeon Scalable Processors
+PCH,Intel C620 系列
+内存,16个DDR4 RDIMM，工作速率2666MT/s  支持ECC，最大容量1024GB（单根64GB）
+Base,2路10/100/1000Base-T
+Fabric,XL710：  2 ~ 4路 40G Base-KR4  82599：2 ~ 4路 10G Base-KR
+前面板,2~4 10GbE SFP+  1 x COM (RS-232)  2 x 10/100/1000Base-T  2 x USB 3.0 Type A  1 x VGA  LEDS  重启按钮
+Zone3(RTM),2 x USB 2.0/3.0  1 x COM（RS232）  4 x SATA 3.0  2 x PCIe3.0x16
+存储,"1 x M.2 2280 SSD  2 x 2.5"" SATA SSD (Mutual Exclusive with CPU1)"
+功率,约310W（搭配2路85W Silver4114T CPU内存512G）  约455W（搭配2路125W Gold6126 CPU内存512G）
+操作系统,Linux开源操作系统、Windows操作系统
+环境,工作环境温度: 0 ~ 45˚C  储存环境温度: -40 ~ 70˚C

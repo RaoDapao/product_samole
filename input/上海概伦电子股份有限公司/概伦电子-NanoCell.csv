@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/products/manufacturing_eda/NanoCell.html
+产品结构：root->概伦电子-NanoCell
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|NanoCell|无|是一款快速、精确且易于操作的标准单元库特征化 EDA 工具。通过智能分析算法来分析、提取单元的 ARC 和功能。采用先进的分布式并行架构技术。内置功能强大的 NanoSpice 仿真器。精确、高效的平面工艺和 FinFET 工艺（支持 7nm）单元电路特征仿真与提取，包括时序、功耗及噪声等。提供友好、易使用的接口，帮助用户缩短产品开发周期。|

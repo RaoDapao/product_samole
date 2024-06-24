@@ -1,0 +1,18 @@
+产品网址：http://chinaasic.com/productItem/product_item_3.html
+产品结构：root->低压线性驱动
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|LED 照明驱动芯片|低压线性驱动|无|
+
+IC Name,Topology,I  OUT  Precision,I  OUT.MAX,HV_MOSFET,BV  DSS,Channel,Dimming  mode,Package,操作
+SM4A00T,Linear,±5%,120mA,Inside,40V,1,PWM,SOT23-5,more>>
+SM4A00TS,Linear,±5%,20~120mA,Inside,40V,1,PWM,SOT23-3 、SOT89-3,more>>
+SM4A10T,Linear,±5%,10.5mA,Inside,40V,1,PWM,SOT23-3,more>>
+SM4A15S,Linear,±5%,15MA,Inside,40V,1,PWM,SOD-123,more>>
+SM4A15T,Linear,±5%,15.5mA,Inside,40V,1,PWM,SOT23-3,more>>
+SM4A20S,Linear,±5%,20MA,Inside,40V,1,PWM,SOD-123,more>>
+SM4A20T,Linear,±5%,20MA,Inside,40V,1,PWM,SOT23-3,more>>
+SM4A25S,Linear,±5%,25MA,Inside,40V,1,PWM,SOD-123,more>>
+SM4A25T,Linear,±5%,25mA,Inside,40V,1,PWM,SOT23-3,more>>
+SM4A30S,Linear,±5%,30MA,Inside,40V,1,PWM,SOD-123,more>>

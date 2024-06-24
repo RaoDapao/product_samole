@@ -1,0 +1,20 @@
+产品网址：http://www.xfabsemi.com/En/Skins/Products.aspx?n_lx=12&ParentID=3
+产品结构：root->VDMOS_WebSystem
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|VDMOS|无|无|
+|LVMOS|无|无|
+|SJMOS|无|无|
+|Trench MOS|无|无|
+|SGT MOS|无|无|
+|TMBS|无|无|
+|FRD|无|无|
+|IGBT|无|无|
+|IGBT MODULE|无|无|
+|IPM|无|无|
+|GaN MOSFET|无|无|
+|SIC MOSFET|无|无|
+
+P/N,Channel,BV(V),VGS(V),VGS(th),VGS(th).1,ID(A),RDS(on),RDS(on).1,RDS(on).2,SC,Package
+P/N,Channel,BV(V),VGS(V),Min(V),Max(V),Tc=25°C,Typ.Ω,MaxΩ,at ID A,SC,Package

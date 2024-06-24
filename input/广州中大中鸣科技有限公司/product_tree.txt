@@ -1,0 +1,143 @@
+-> root https://www.joinmax.com
+  -> 广州中大中鸣科技有限公司 http://www.joinmax.com/siteprodct/index.html
+    -> LED 线条灯 
+    -> LED 点状灯 
+    -> LED 投光灯 
+    -> LED 显示屏 
+  -> 首页 
+    -> 产品中心 
+      -> DALI室内智能照明 http://www.joinmax.com/siteprodct/cpzx/20/list_1631.html?cid=20
+        -> DALI 室内智能照明 
+        -> DALI 总线电源 
+        -> DALI 系统耦合器 
+        -> DALI 开关驱动器－AC/3 
+        -> DALI 窗帘驱动器/2 路继... 
+        -> 移动传感器 
+        -> 光照度传感器 
+        -> 双通道 PWM 恒流跟随器 
+        -> 150W DALI 调光调色/RG... 
+        -> 30W DALI 调光调色驱动... 
+        -> USB-DALI 网关 
+        -> WIFI/LAN/USB-DALI 网关... 
+        -> 6 键控制面板 
+        -> 旋钮按键面板 
+        -> LCD 控制面板 
+        -> DALI 系统设置软件 
+      -> LED点状灯 https://www.joinmax.com/siteprodct/cpzx/8/list_1631.html?cid=8
+      -> LED线条灯 https://www.joinmax.com/siteprodct/cpzx/28/list_1631.html?cid=28
+      -> LED投光灯 https://www.joinmax.com/siteprodct/cpzx/29/list_1631.html?cid=29
+      -> LED显示屏 https://www.joinmax.com/siteprodct/cpzx/9/list_1631.html?cid=9
+      -> 景观智能控制系统 https://www.joinmax.com/siteprodct/cpzx/10/list_1631.html?cid=10
+        -> 数据分配器(DMX512) 
+        -> 光纤收发器(单路) 
+        -> DMX1200 数据分配器 
+        -> 数据处理器 
+        -> 主控电脑 
+        -> 灯光控制器(V2.0) 
+        -> Mini 控制主机(V1.0) 
+        -> DS 转换器 
+      -> 产品中心 https://www.joinmax.com/siteprodct/cpzx/20/list_1631.html?cid=20#
+    -> 产品领域 
+      -> 大健康产品 https://www.joinmax.com/sitecn/jnkz/1754.html
+    -> 新闻动态 
+    -> 辅助栏目 
+      -> 网站地图 https://www.joinmax.com/sitecn/wzdt/1603.html#
+        -> DALI 控制系统产品 
+        -> 节能产品 
+    -> 市场活动 
+      -> 品牌活动 https://www.joinmax.com/siteprodct/schd/1639_1869.html?cid=66
+    -> 人力资源 
+      -> 员工培训 https://www.joinmax.com/sitecn/ygpx/1595_1485.html
+  -> JoinmaxDisplayTechno https://www.joinmax.com/siteproducten/index.html
+    -> DALI System 
+    -> DALI muti- 
+    -> DALI power 
+    -> Computer i 
+    -> DALI relay 
+    -> DALI muti- 
+    -> DALI muti- 
+    -> DALI relay 
+    -> DALI muti- 
+    -> LED pixell 
+    -> LED lineli 
+  -> JoinmaxDisplayTechno_1 http://www.joinmax.com/siteproducten/index.html
+  -> YourLocation：Home 
+    -> ProductsCenter 
+      -> IntelligentControl... http://www.joinmax.com/siteproducten/cpzx/22/list_1664.html?cid=22
+      -> ProductsCenter http://www.joinmax.com/siteproducten/cpzx/22/list_1664.html?cid=22}
+        -> DALI System Configur... 
+        -> DALI muti-functional... 
+        -> DALI power supply 
+        -> Computer interface b... 
+        -> DALI relays output w... 
+        -> DALI muti-functional... 
+        -> DALI muti-functional... 
+        -> DALI relays output w... 
+        -> DALI muti-functional... 
+        -> Control Driving Unit 
+        -> Power Control Unit 
+        -> Lighting controller... 
+        -> Lighting Controller... 
+        -> Lighting Controller... 
+        -> Dual Fiber Transceiv... 
+        -> Loop Fiber Transceiv... 
+        -> Fiber transceivers 单... 
+        -> Data Distribution Un... 
+        -> Data Distribution Un... 
+        -> Data Distribution Un... 
+      -> Architecturallandsc... https://www.joinmax.com/siteproducten/cpzx/11/list_1664.html?cid=11
+      -> LEDdisplay https://www.joinmax.com/siteproducten/cpzx/12/list_1664.html?cid=12
+      -> Healthyindoorlight... https://www.joinmax.com/siteproducten/cpzx/13/list_1664.html?cid=13
+        -> Ceiling lamp series 
+        -> T5 fluorescent tube 
+        -> T8 fluorescent tube 
+        -> LED soft light belt 
+        -> Anti-fog down lights 
+        -> LED down lights 
+        -> LED flam light 
+        -> Mining lamp series 6 
+        -> Mining light series 
+        -> LED grilling spotlight 
+        -> LED light adjustable 
+        -> LED down lamp 
+        -> LED lamp panel series 
+        -> LED panel light 
+        -> Fluorescent tube series 
+        -> Courtyard lamp light 
+    -> MemberCenter 
+    -> Cases 
+      -> LEDdisplay_1 https://www.joinmax.com/siteproducten/jdal/76/list_1666.html?cid=76
+    -> ServiceSupport 
+    -> MarketActivity 
+    -> ServiceNetwork https://www.joinmax.com/siteproducten/xswl/1682.html
+      -> Architectural landscape lighting 
+      -> LED display 
+      -> Healthy indoor lighting 
+    -> ServiceCenter 
+    -> DownloadCenter 
+      -> GeneralDownload 
+      -> MembersArea 
+      -> StaffArea 
+    -> other 
+  -> JoinmaxDisplayTechno_2 https://www.joinmax.com/siteen/jnkz1/1757.html
+  -> 广州中大中鸣科技有限公司_1 https://www.joinmax.com/sitecn
+    -> LED 应用产品 
+    -> 教育智能化产品 
+  -> JoinmaxDisplayTechno_3 https://www.joinmax.com/siteen
+    -> LED Product 
+  -> JoinmaxDisplayTechno_4 https://www.joinmax.com/siteen/ygpx/1726_1660.html
+  -> JoinmaxDisplayTechno_5 https://www.joinmax.com/siteen/ygpx/1726_1592.html
+  -> JoinmaxDisplayTechno_6 https://www.joinmax.com/siteproducten/jdal/1666_1728.html?cid=74
+    -> LED 线性灯 
+    -> Joinmax 在线控制系统 
+    -> 低电压集中供电 
+  -> JoinmaxDisplayTechno_7 https://www.joinmax.com/siteproducten/jdal/1666_1614.html?cid=74
+  -> JoinmaxDisplayTechno_8 https://www.joinmax.com/siteproducten/jdal/1666_1615.html?cid=74
+  -> JoinmaxDisplayTechno_9 https://www.joinmax.com/siteproducten/jdal/1666_1645.html?cid=74
+  -> JoinmaxDisplayTechno_10 https://www.joinmax.com/siteproducten/jdal/1666_1635.html?cid=74
+  -> JoinmaxDisplayTechno_11 https://www.joinmax.com/siteproducten/jdal/1666_1634.html?cid=74
+  -> JoinmaxDisplayTechno_12 https://www.joinmax.com/siteproducten/jdal/1666_1633.html?cid=74
+  -> JoinmaxDisplayTechno_13 https://www.joinmax.com/siteproducten/jdal/1666_1730.html?cid=75
+  -> JoinmaxDisplayTechno_14 https://www.joinmax.com/siteproducten/jdal/1666_1694.html?cid=75
+  -> JoinmaxDisplayTechno_15 https://www.joinmax.com/siteproducten/jdal/1666_1653.html?cid=75
+  -> JoinmaxDisplayTechno_16 https://www.joinmax.com/siteproducten/jdal/1666_1649.html?cid=75

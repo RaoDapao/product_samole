@@ -1,0 +1,11 @@
+产品网址：https://www.shiningic.com/en/producterlist.aspx?classid=010101
+产品结构：Home->Product->PMIC-MobileLighting
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|PMIC-Mobile Lighting|无|无|
+
+序号,Type,Description,VIN（V）,ILEDMAX（mA）,ISD（uA）,η（%）,fSW（KHz),Peripheral device,Encapsulation,Remarks,Unnamed: 11
+1,YX8232A,DC-LED 功能驱动,2.5~5,1400,详细信息参见Datasheet,92,"500,调光频率为0.52kHz",1~5,C+R,SOT23,直驱;全亮、25&b亮两功能，断电切换
+2,YX8233S,DC-LED 功能驱动,2.5~5,1500,详细信息参见Datasheet,92,500，调光频率为0.52kHz,1~5,C+R,SOT23,直驱;全亮、50&b亮、25&b亮、8Hz暴闪、SOS五功能，断电切换
+3,YX8232A,DC-LED 功能驱动,2.5~5,1400,详细信息参见Datasheet,92,"500,调光频率为0.52kHz",1~5,C+R,SOT23,直驱;全亮、25&b亮两功能，断电切换

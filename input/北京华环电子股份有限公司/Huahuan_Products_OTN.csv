@@ -1,0 +1,41 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=45&ncid=196&deid=200
+产品结构：root->Huahuan_Products_OTN/DWDM/CWDM
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|OTN 接入设备|HT8000-02|提供两个 10G 端口在 UNI 侧（10GE/STM-64/10G FC），NNI 侧 4*OTU2 端口（支持 1+1 保护）|
+|OTN 接入设备|HT8000-03|提供 8*Any-rate 端口在 UNI 侧（100Mbps~10Gbps），NNI 侧 2*OTU2 端口|
+|OTN 接入设备|HT8000-13|提供 10*Any-rate 端口在 UNI 侧（100Mbps~10Gbps），具有 L2 或 MPLS-TP 交换功能，NNI 侧 2*OTU2 端口|
+|OTN/xWDM|HT8000-I|1U 模块化设计，支持 8/16 波长，带有 EDFA/DCM/OLP 卡|
+|Packet OTN/xWDM|HT8000-IIE|2U 模块化设计，支持 8/16/40 波长，带有 EDFA/DCM/OLP 卡|
+|OTN/xWDM|HT8000-VI|6U 模块化设计，支持 40/80 波长，带有 EDFA/DCM/OLP 卡|
+
+Item.1,Item.2,Description
+ODU function,ODUk adaptation function,"Provides functions such as encapsulation, mapping, and multiplexing of multi-service signals such as SDH, Ethernet, and OTN to ODUk (k=0, 1, 2, 2e, flex) channel signals;"
+ODU function,OTUk line interface processing function,"Provides time division multiplexing of ODUk (k=0,1,2,2e,flex) channel signals and mapping and multiplexing of ODUk to OTUk (k=1,2) line interfaces."
+L2 features/MPLS features,Service adaptation,The service adaptation function completes the access and mapping encapsulation processing of the Ethernet service.
+L2 features/MPLS features,VLAN,Support for port-based VLANs
+L2 features/MPLS features,QinQ,"Supports port QinQ, and supports transparent transmission, switching, adding, and stripping of C-VLAN and S-VLAN for Ethernet services."
+L2 features/MPLS features,Ethernet switching,"Provides switching capabilities based on Ethernet ports, VLANs, and MAC addresses"
+L2 features/MPLS features,MPLS-TP,Support MPLS-TP-based LSP and PW exchange
+L2 features/MPLS features,Spanning tree,Support STP/RSTP/MSTP  Support remote loop detection
+Service features,QoS,"Supports traffic classification, traffic policing, and other functions:  Supports rate limiting for the rate of receiving and sending packets on a port or a custom stream, and provides common traffic policing for custom flows and 2Rate3color two-speed three-color traffic monitoring capabilities.  Supports CAR (Committed Access Rate), traffic shaping (Traffic Shapping), and traffic statistics.  Supports packet mirroring and packet redirection for ports or custom flows.  Supports priority marking of ports or custom flows, and provides Remark capability of 802.1P and DSCP priority.  Supports advanced queue scheduling based on ports or custom flows, supporting 4 priority queues per port/stream, providing WRR, SP, and FIFO queue scheduling algorithms"
+Realiability features,Loop protection,Support NNI side 1+1 protection
+Maintenance features,Network Maintenance,"Plug and play, configuration free service"
+Maintenance features,Performance monitoring,"Supports monitoring, detecting, and measuring network packet loss rate, delay, and jitter."
+Maintenance features,Equipment management,"Support command line interface (CLI), console port, Telnet, and WEB configuration management  Support SNMPv1/v2/v3  Support network management system"
+
+
+I  tem,HT8000-02,HT8000-03,HT8000-13,HT8000-IIE,HT8000-VI
+NNI side port,"4*OTU2, 1+1 protection",2*OTU2,2*OTU2,12  *OTU2,44  *OTU2
+UNI side port,2*10GE/10G/STM-64,8*Any (100M~10G),10*Any (100M~10G),48*Any-rate  (100M-100G),176*Any-rate  (100M-100G)
+L2 switching/MPLS-TP port,——,——,Y,Y,——
+Line side protection,Y,Y,Y,Y,Y
+Network management interface,1,1,1,2  (1+1 protection),2  (1+1 protection)
+Switching Protection,——,——,——,1+1,1+1
+Power supply,AC220V: 165V  ～  265V  DC-48V: -72V  ～  -36V,AC220V: 165V  ～  265V  DC-48V: -72V  ～  -36V,AC220V: 165V  ～  265V  DC-48V: -72V  ～  -36V,AC220V: 165V  ～  265V  DC-48V: -72V  ～  -36V,AC220V: 165V  ～  265V  DC-48V: -72V  ～  -36V
+Full load porwer consumption,≤  30W,≤  30W,≤  30W,250W,700W
+Dimentsions,264mm×44mm×220mm,264mm×44mm×220mm,264mm×44mm×220mm,443×252×89,443×252×266
+Enviromental parameters,"Operating temperature: -5 ° C ~ 55 ° C  Storage temperature: -40° C  ～  70° C  Relative humidity: 5% to 95%, no condensation  Operating altitude: -500m ~ 5000m","Operating temperature: -5 ° C ~ 55 ° C  Storage temperature: -40° C  ～  70° C  Relative humidity: 5% to 95%, no condensation  Operating altitude: -500m ~ 5000m","Operating temperature: -5 ° C ~ 55 ° C  Storage temperature: -40° C  ～  70° C  Relative humidity: 5% to 95%, no condensation  Operating altitude: -500m ~ 5000m","Operating temperature: -5 ° C ~ 55 ° C  Storage temperature: -40° C  ～  70° C  Relative humidity: 5% to 95%, no condensation  Operating altitude: -500m ~ 5000m","Operating temperature: -5 ° C ~ 55 ° C  Storage temperature: -40° C  ～  70° C  Relative humidity: 5% to 95%, no condensation  Operating altitude: -500m ~ 5000m"
+EMC,CISPR 22 Ed2.0 2008-09  CISPR 24 Ed2.0 2010-08  EN 55022:2010  GB 9254-2008  AS/NZS CISPR 22:2009  FCC 47 CFR Part 15 (latest current version)  ICES-003 Issue 5  VCCI V-3/2013.04  EN 55024:2010  ETSI EN 300 386 V1.6.1(2012-09),CISPR 22 Ed2.0 2008-09  CISPR 24 Ed2.0 2010-08  EN 55022:2010  GB 9254-2008  AS/NZS CISPR 22:2009  FCC 47 CFR Part 15 (latest current version)  ICES-003 Issue 5  VCCI V-3/2013.04  EN 55024:2010  ETSI EN 300 386 V1.6.1(2012-09),CISPR 22 Ed2.0 2008-09  CISPR 24 Ed2.0 2010-08  EN 55022:2010  GB 9254-2008  AS/NZS CISPR 22:2009  FCC 47 CFR Part 15 (latest current version)  ICES-003 Issue 5  VCCI V-3/2013.04  EN 55024:2010  ETSI EN 300 386 V1.6.1(2012-09),CISPR 22 Ed2.0 2008-09  CISPR 24 Ed2.0 2010-08  EN 55022:2010  GB 9254-2008  AS/NZS CISPR 22:2009  FCC 47 CFR Part 15 (latest current version)  ICES-003 Issue 5  VCCI V-3/2013.04  EN 55024:2010  ETSI EN 300 386 V1.6.1(2012-09),CISPR 22 Ed2.0 2008-09  CISPR 24 Ed2.0 2010-08  EN 55022:2010  GB 9254-2008  AS/NZS CISPR 22:2009  FCC 47 CFR Part 15 (latest current version)  ICES-003 Issue 5  VCCI V-3/2013.04  EN 55024:2010  ETSI EN 300 386 V1.6.1(2012-09)
+Security,UL 60950-1  CAN/CSA C22.2 No 60950-1  IEC 60950-1  EN 60950-1  AS/NZS 60950  EN 60825-1  EN 60825-2  FDA 21 CFR Subchapter J  GB4943.1,UL 60950-1  CAN/CSA C22.2 No 60950-1  IEC 60950-1  EN 60950-1  AS/NZS 60950  EN 60825-1  EN 60825-2  FDA 21 CFR Subchapter J  GB4943.1,UL 60950-1  CAN/CSA C22.2 No 60950-1  IEC 60950-1  EN 60950-1  AS/NZS 60950  EN 60825-1  EN 60825-2  FDA 21 CFR Subchapter J  GB4943.1,UL 60950-1  CAN/CSA C22.2 No 60950-1  IEC 60950-1  EN 60950-1  AS/NZS 60950  EN 60825-1  EN 60825-2  FDA 21 CFR Subchapter J  GB4943.1,UL 60950-1  CAN/CSA C22.2 No 60950-1  IEC 60950-1  EN 60950-1  AS/NZS 60950  EN 60825-1  EN 60825-2  FDA 21 CFR Subchapter J  GB4943.1

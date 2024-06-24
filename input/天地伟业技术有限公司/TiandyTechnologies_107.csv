@@ -1,0 +1,92 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/814.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Network Camera|TC-C32HN|2MP Fixed IR Turret Camera，金属+塑料外壳，最高 1920x1080@30fps，S+265/H.265/H.264，最低照度彩色：0.02Lux@F2.0，智能红外，红外距离 30m，内置麦克风，支持最大 512G Micro SD 卡，支持绊线和周界，工作条件-30℃~60℃，0~95% RH，POE，DC12V，IP66|
+
+Camera,Unnamed: 1
+Image Sensor,"1/2.8""CMOS"
+Min. Illumination,"Color:0.02Lux@(F2.0,AGC  ON),B/W:0Lux  with  IR"
+Shutter Time,1s-1/100000s
+Day&Night,IR-cut  filter  with  auto  switch  (ICR)
+WDR,DWDR
+S/N,>39dB
+Angle Adjustment,0-340  °;0-75°;0-360°
+Lens,
+Lens Type,Fixed
+Focal Length,2.8mm
+Lens Mount,M12
+Aperture Range,"F2.0,Fixed"
+Field of View,99.7  °(H);55.1°(V);113.9°(D)
+DORI Distance,Detect:38.6m  Observe:15.3m  Recognize:7.7m  Identify:3.8m
+Illuminator,
+IR LEDs,1
+IR Distance,30m
+Wavelength,850nm
+White LEDs,
+Whitelight Distance,
+Compression Standard,
+Video Compression,S+265/H.265/H.264B/H.264M/H.264H
+Video Bit Rate,32k-6Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D
+Audio Sampling Rate,8kHz/32kHz/48kHz
+Image,
+Max. Resolution,1920x1080@30fps
+Main Stream,"PAL:  25fps(1920x1080,1280x720,640x480,704x576)  NTSC:  30fps(1920x1080,1280x720,640x480,704x480)"
+Sub Stream,"PAL:25fps(704x576,704x288,640x360,352x288)  NTSC:30fps(704x480,704x240,640x360,352x240)"
+Third Stream,
+BLC,Yes
+HLC,Yes
+AGC,Yes
+3D DNR,Yes
+White Balance,Auto/Semi-auto/Manual/Sunny/Natural light/Warm light/Sodium lamp/Incandescent lamp/Locked white balance
+ROI,8 regions
+Corridor mode,
+EIS,
+OSD,1region;16*16/32*32/48*48
+Picture Overlay,
+Privacy Mask,4 regions
+Defog,Yes
+Feature,
+Alarm Trigger,Motion Detection;Mask Alarm;Disk Full;Disk R/W Error;IP Address Conflict
+Linkage Method,trigger recording;trigger  capture;notify surveillance center
+Video Analytics,Tripwire;Perimeter
+Rules of behavior analyse in 1 scene,2
+Early Warning(EW),
+Auto-Tracking,
+Face Mode,
+Face Detection Performance,
+Network,
+ANR,ANR
+Protocols,HTTP;HTTPS;TCP/IP;UDP;UPnP;ICMP;DHCP;DNS;DDNS;Easy DDNS;NTP;QoS;IPv4;SSH;Unicast;RTSP;FTP
+System Compatibility,P2P(Mutually exclusive with Profile G);onvif Profile S/T/G;CGI;MIL STONE
+Remote Connection,≤2
+Client,Easy7 Smart Client
+Moblie Client,EasyLive Plus
+Web,IE10+;Firefox52+;Edge89+;Safari11+;Chrome57+
+Interface,
+Communication Interface,1 RJ45 10M/ 100M self adaptive Ethernet port
+Audio I/O,
+Alarm I/O,
+Built-In Mic,Yes
+Built-In Speaker,
+Reset Button,Yes(built-in)
+On-board storage,"Built-in Micro SD card slot, up to 512 GB"
+Additional interfaces,
+General,
+Web Client Language,19languages  Simple Chinese/Traditional Chinese/English/Spanish/Korean/Italian/Turkish/Russian/Thai/French/Polish/Dutch/Hebrew/Arabic/Vietnamese/German/Ukrainian/Portuguese/Albanian
+Operating Temperature,-30  ℃-60℃
+Operating Humidity,0-95%
+Storage Temperature,-30  ℃-60℃
+Storage Humidity,0-95%(non-condensing)
+Power Supply,"DC12V  ±25%,MAX 6.5W;POE 802.3af,MAX 7W"
+Protection,Surge protection 2000V;Lightning proof 6000V;IP66
+Boundary Dimensions,117(L)117(W)96(H)mm
+Package Dimensions,140(L)140(W)120(H)mm
+GrossWeight,0.42kg
+NetWeight,0.29kg
+
+
+Date,Title,Type
+2023-10-11,TC-C32HN SpecI3EYCSD2.8mmV4.1,pdf

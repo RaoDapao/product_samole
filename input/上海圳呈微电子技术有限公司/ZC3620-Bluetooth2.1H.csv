@@ -1,0 +1,12 @@
+产品网址：https://www.unisim-micro.com/productinfo/521311.html
+产品结构：root->ZC3620-Bluetooth2.1HIDSoC-上海圳呈微电子技术有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Bluetooth SoC 芯片|ZC3620|ZC3620 是一款高集成度的 SoC，具有蓝牙 2.1 和 EDR 功能。支持蓝牙 V2.1+EDR 特性，HID 配置文件版本 1.1 兼容，接收器灵敏度为-89dBm，发射功率高达+2dBm，具有 25dB 增益调整范围。适用于蓝牙 USB Dongle、蓝牙 HID、自拍杆、自拍等应用。|
+
+Type,Package,Embedded
+ZC3620,QFN5*5 40L,NONE
+ZC3621,QFN5*5 40L,NONE
+ZC5620,QFN5*5 28L,EEPROM
+ZC5621,QFN5*5 28L,EEPROM

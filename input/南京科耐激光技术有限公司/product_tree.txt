@@ -1,0 +1,12 @@
+-> root http://www.klightlaser.com
+  -> 首页 
+    -> 产品中心_6 http://www.klightlaser.com/PRODUCT
+      -> 超快种子源（Kudos 系列） 
+      -> 超快种子源（Kudos 系列） 
+      -> 超快种子源（Kudos 系列） 
+      -> 纳秒紫外激光器（Keystone 系列） 
+      -> 纳秒绿光激光器（Keystone 系列） 
+      -> 皮秒紫外激光器（Knight 系列） 
+      -> 皮秒绿光激光器（Knight 系列） 
+      -> 皮秒红外激光器（Knight 系列） 
+      -> 飞秒红外激光器（Kaiser 系列） 

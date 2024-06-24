@@ -1,0 +1,14 @@
+产品网址：https://www.njsme.com/?aPRODUCTSCipsWafersSingleDiode/99.html
+产品结构：root->Diodes-SingleDiode-1700V-SingleDiode-南京银茂微电子制造有限公司-
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Single Diode|无|无|
+
+VRRM=1700V,VRRM=1700V.1,VRRM=1700V.2,VRRM=1700V.3,VRRM=1700V.4,VRRM=1700V.5
+Part Number,Voltage(V),Current(A),Technology,Comments,Links
+DD100SD170T1WH,1700,100,High Voltage Planar Diode,fast recovery,
+DD150SD170T1WH,1700,150,High Voltage Planar Diode,fast recovery,
+DD200SD170T1WH,1700,200,High Voltage Planar Diode,fast recovery,
+DD300SD170T1WH,1700,300,High Voltage Planar Diode,fast recovery,
+,,,,,

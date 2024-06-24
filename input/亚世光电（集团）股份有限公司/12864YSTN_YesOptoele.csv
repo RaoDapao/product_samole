@@ -1,0 +1,21 @@
+产品网址：https://www.yes-lcd.com/product/208.html
+产品结构：root->12864YSTN_YesOptoelectronics（Group）Co.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|12864 YSTN|无|无|
+
+NO,Item,Item.1,Item.2,Symbol,Type,Unit
+1,LCD Type,LCD Type,LCD Type,,YSTN,
+2,Display,Display,Display,,Positive,
+3,Viewing Angle,Viewing Angle,Viewing Angle,,6:00,
+4,Polarizer Type,Polarizer Type,Polarizer Type,,T/H,
+5,Duty,Duty,Duty,,1/64,
+6,Bias,Bias,Bias,,1/9,
+7,Response Time,Rising Time,Rising Time,Tr,120,mS
+7,Response Time,Decay Time,Decay Time,Td,180,mS
+8,Contrast Ratio  （  max  ）,Contrast Ratio  （  max  ）,Contrast Ratio  （  max  ）,CR,4,
+9,Viewing Angle  (C  R  ≥2),Viewing Angle  (C  R  ≥2),12H  φ  =90  °,θ  1,30,deg
+9,Viewing Angle  (C  R  ≥2),Viewing Angle  (C  R  ≥2),6H  φ  =270  °,θ  2,40,deg
+9,Viewing Angle  (C  R  ≥2),Viewing Angle  (C  R  ≥2),3H  φ  =0  °,θ  3,30,deg
+9,Viewing Angle  (C  R  ≥2),Viewing Angle  (C  R  ≥2),9H  φ  =180  °,θ  4,30,deg

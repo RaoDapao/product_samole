@@ -1,0 +1,22 @@
+-> root http://www.xfabsemi.com
+  -> 新品发布_厦门芯一代集成电路有限公司 http://www.xfabsemi.com/Skins/NewProducts.aspx?n_lx=28&ParentID=28
+  -> 公司介绍_厦门芯一代集成电路有限公司 http://www.xfabsemi.com/img/upload/20210312085153_3899.docx
+    -> IGBT 系列 
+    -> MOSFET 器件系列 
+    -> 模块产品系列 
+  -> Products_WebSystem http://www.xfabsemi.com/En/Skins/Products.aspx?n_lx=3&ParentID=3
+    -> VDMOS 
+    -> SJMOS 
+    -> Trench MOS 
+    -> SGT MOS 
+  -> VDMOS_WebSystem http://www.xfabsemi.com/En/Skins/Products.aspx?n_lx=12&ParentID=3
+    -> LVMOS 
+    -> TMBS 
+    -> FRD 
+    -> IGBT 
+    -> IGBT MODULE 
+    -> IPM 
+    -> GaN MOSFET 
+    -> SIC MOSFET 
+  -> NewProducts_WebSyste http://www.xfabsemi.com/En/Skins/NewProducts.aspx?n_lx=28&ParentID=28
+  -> 华润微眼里的功率器件机会_行业新闻_厦门 http://www.xfabsemi.com/Skins/New.aspx?n_id=68&n_lx=14

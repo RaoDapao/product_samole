@@ -1,0 +1,14 @@
+产品网址：https://www.yes-lcd.com/product/247.html
+产品结构：root->2.36“E5_YesOptoelectronics（Group）Co.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|E-INK DISPLAY|2.36“ E5|Highlight Red and Yellow color，High contrast，High reflectance，Ultra wide viewing angle，Ultra low power consumption，Pure reflective mode，Bi-stable，Antiglare hard-coated front-surface，Low current deep sleep mode，On chip display RAM，Waveform stored in On-chip OTP，Serial peripheral interface available，On-chip oscillator，On-chip booster and regulator control for generating VCOM, Gate and source driving voltage，I2C Signal Master Interface to read external temperature sensor，Available in COG package driving voltage|
+
+Parameter,Specifications,Unit,Remark
+Screen Size,2.36,Inch,
+Display Resolution,296 (H) × 168 (V),Pixel,Dpi:144
+Active Area,52.096 (H) × 29.568 (V),mm,
+Pixel Pitch,0.176 × 0.176,mm,Square
+Outline Dimension,68.1 (H) × 37.9 (V) × TBD (D),,Without masking film
+Weight,TBD,g,

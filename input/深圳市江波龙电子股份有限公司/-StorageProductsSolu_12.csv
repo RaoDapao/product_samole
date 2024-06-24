@@ -1,0 +1,12 @@
+产品网址：https://www.longsys.com/products/memory-module/enterprise-memory-module/5337.html
+产品结构：root->-StorageProductsSolution–LongsysacquiredLEXAR&Foreseee
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|CXL2.0 Memory Expansion Module|无|支持内存池共享，采用内部架构设计，基于 SDP DRAM，支持 CXL 规格和 E3.S 接口|
+
+Product Series,PN,Capacity,Interface,Type,DDR,Bandwidth,Latency,CL Value,Timing,DDR Operating Voltage,Gold Fingers (Edge Connectors),Operating Temperature,Size
+CXL2.0 Memory Expansion Module,REXG5HAF064G8-M1M1P1,64GB,PCIe 5.0×8 lanes,EDSFF（E3.S 2T）,DDR5,32GB/s,250ns,16ns,46-45-45,1.1V,"30μ""",Tc 0℃~85℃,76×112.75×16.5mm
+CXL2.0 Memory Expansion Module,REXG5HAF128G8-M1M1P1,128GB,PCIe 5.0×8 lanes,EDSFF（E3.S 2T）,DDR5,32GB/s,270ns,16ns,46-45-45,1.1V,"30μ""",Tc 0℃~85℃,76×112.75×16.5mm
+CXL2.0 Memory Expansion Module,REXG5HAF192G8-M1M1P1,192GB,PCIe 5.0×8 lanes,EDSFF（E3.S 2T）,DDR5,32GB/s,270ns,16ns,46-45-45,1.1V,"30μ""",Tc 0℃~85℃,76×112.75×16.5mm
+CXL2.0 Memory Expansion Module,REXG5HAF256G8-M1M1P1,256GB,PCIe 5.0×8 lanes,EDSFF（E3.S 2T）,DDR5,32GB/s,270ns,16ns,46-45-45,1.1V,"30μ""",Tc 0℃~85℃,76×112.75×16.5mm

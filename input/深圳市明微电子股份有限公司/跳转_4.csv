@@ -1,0 +1,16 @@
+产品网址：http://chinaasic.com/productItem/product_item_22.html
+产品结构：共8条<1/1->跳转
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|LED 照明驱动芯片|智能驱动|IIC 协议调光、PWM 调光、单线 SID 协议调光、MCU、智能供电|
+
+IC Name,Topology,I  OUT  Precision,I  OUT.MAX,HV_MOSFET,BV  DSS,Channel,Dimming  mode,Gray level,Package,操作
+SM2135EH,Linear,<±4%,72mA,Inside,450V,5,IIC,256,ESOP8,more>>
+SM2135EJ,Linear,<±4%,93mA,Inside,450V,5,IIC,256,ESOP8,more>>
+SM2235EGH,Linear,<±4%,64mA/64mA/64mA /80mA/80mA,Inside,500V,5,IIC,1024,ESOP8,more>>
+SM2335EGH,Linear,<±4%,160mA/160mA /160mA/80mA/80mA,Inside,40V/500V,5,IIC,1024,ESOP8,more>>
+SM2235EGW,Linear,<±4%,64mA/64mA/64mA /80mA/80mA,Inside,500V,5,IIC,1024,ESOP8,more>>
+SM2185N,Linear,<±4%,64mA/64mA/64mA /80mA/80mA,Inside,500V,5,IIC,1024,"QFN12, QFN24",more>>
+SM2232EGH,Linear,<±4%,80mA/80mA,Inside,500V,2,IIC,1024,ESOP8,more>>
+SM2182E,Linear,±4%,80mA/80mA,Inside,500V,2,IIC,1024,ESOP8,more>>

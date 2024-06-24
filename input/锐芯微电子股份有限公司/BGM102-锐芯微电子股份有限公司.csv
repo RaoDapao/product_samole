@@ -1,0 +1,18 @@
+产品网址：http://www.brigates.com/product/60.html
+产品结构：root->BGM102-锐芯微电子股份有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|BGM102|无|是一款高性能制冷型 CMOS 图像传感器，采用 18×18μm 像素，有效靶面 1 英寸，有效像素阵列 805(H)×607(V)，为业界提供领先的低照度应用解决方案。支持 4/6 对 LVDS 数据接口、ADC 量化精度最高 14bit、支持 DVP 接口、半导体制冷（低于环境温度 50℃）、单帧和多帧的触发曝光操作、最高 120fps|
+
+光学尺寸,1 英寸(对角线18mm）,1 英寸(对角线18mm）.1,有效像素阵列,805 H×607 V,805 H×607 V.1
+像素大小,18×18 μm,18×18 μm,有效感光面积,14490×10926 μm,14490×10926 μm
+最高帧率,120fps@line mode/60fps@HDR mode,120fps@line mode/60fps@HDR mode,光滤阵列,BW/RGB,BW/RGB
+CRA,0°,0°,曝光方式,Rolling Shutter,Rolling Shutter
+灵敏度,480 V/lux·s(BW）,480 V/lux·s(BW）,暗电流,40 mV/s,40 mV/s
+信噪比,53 dB,53 dB,输出接口,LVDS/DVP,LVDS/DVP
+动态范围,非HDR,76 dB,供电,Digital,1.08~1.32 V
+动态范围,非HDR,76 dB,供电,IO,1.8~3.3 V
+动态范围,非HDR,76 dB,供电,Analog,2.7~2.9 V
+动态范围,HDR,110 dB,供电,Pixel,3.3 V
+功耗@60fps,25 W,25 W,最低制冷温度（典型）,-40 ℃,-40 ℃

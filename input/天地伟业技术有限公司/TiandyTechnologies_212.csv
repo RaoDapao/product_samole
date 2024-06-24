@@ -1,0 +1,92 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/1005.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|IPC|TC-H363N|·Plastic Housing<br>·Up to 2304x1296 resolution<br>·S+265/H.265/H.264<br>·Smart IR, IR range 30m<br>·Built-in speaker<br>·Operating conditions -30°~60°, 0~95% RH<br>·Red and blue indicator lights<br>·IP66|
+
+Camera,Unnamed: 1
+Image Sensor,"1/3""CMOS"
+Min. Illumination,"Color:0.02Lux@(F1.6,AGC ON),B/W:0Lux with IR"
+Shutter Time,1s~1/100000s
+Day&Night,IR-cut filter with auto switch (ICR)
+WDR,DWDR
+S/N,>40dB
+Angle Adjustment,"(P)Fixde Lens: -60°~60°, Pan & Tilt Lens: 0~345°;  (T)Fixde Lens: 5°-15°, Pan & Tilt Lens: -15~90°;  (R)Fixde Lens: 0°, Pan & Tilt Lens: 0°"
+Lens,
+Lens Type,Fixed
+Focal Length,4mm/4mm
+Lens Mount,M12/M12
+Aperture Range,"F1.6/F1.6,fixed focal lens"
+Field of View,(H)Fixde Lens:81.3°; Pan & Tilt Lens:81.3°  (V)Fixde Lens:44.4°; Pan & Tilt Lens:44.4°  (D)Fixde Lens:94.4°; Pan & Tilt Lens:94.4°
+DORI Distance,Fixde Lens:Detect: 59.26m; Observe:23.52m; Recognize:11.85m; Identify:5.93m  Pan & Tilt Lens:Detect: 59.26m; Observe:23.52m; Recognize:11.85m; Identify:5.93m
+Illuminator,
+IR LEDs,4+4
+IR Distance,30m
+Wavelength,850nm
+White LEDs,4+4
+Whitelight Distance,15m
+Compression Standard,
+Video Compression,S+265/H.265/H.264B/H.264M/H.264H
+Video Bit Rate,Fixde Lens:32k~4Mbps  Pan & Tilt Lens:32k~4Mbps
+Audio Compression,G.711A/G.711U
+Audio Sampling Rate,8kHz/16kHz
+Image,
+Max. Resolution,2304x1296@15fps
+Main Stream,"Fixde Lens  PAL:15fps(2304x1296,1920x1080,1280x720,640x480,704x576)  NTSC:15fps(2304x1296,1920x1080,1280x720,640x480,704x480)  Pan & Tilt Lens:  PAL:15fps(2304x1296,1920x1080,1280x720,640x480,704x576)  NTSC:15fps(2304x1296,1920x1080,1280x720,640x480,704x480)"
+Sub Stream,"Fixde Lens:  PAL:15fps(704x576,704x288,640x360,352x288)  NTSC:15fps(704x480,704x240,640x360,352x240)  Pan & Tilt Lens:  PAL:15fps(704x576,704x288,640x360,352x288)  NTSC:15fps(704x480,704x240,640x360,352x240)"
+Third Stream,
+BLC,Yes
+HLC,Yes
+AGC,Yes
+3D DNR,Yes
+White Balance,Auto/Semi-Auto/Manual/Sunshine/Nature Light/Warmlight Lamp/Daylight Lamp/Filament Lamp/Lock White Balance
+ROI,
+Corridor mode,
+EIS,
+OSD,"Overlay of additional characters in one area, 1 line, up to 48 characters or 16 Chinese characters;16*16/32*32/48*48"
+Picture Overlay,
+Privacy Mask,4 black static areas
+Defog,Yes
+Feature,
+Alarm Trigger,Voltage Alarm;Disk Full;Disk R/W Error;IP Address Conflict
+Video Analytics,
+Rules of behavior analyse in 1 scene,
+Early Warning(EW),
+Auto-Tracking,Auto-Tracking
+Face Mode,
+Face Detection Performance,
+Linkage Method,trigger sound;trigger recording;trigger capture;notify surveillance center
+Network,
+ANR,Yes
+Protocols,HTTP;TCP/IP;UDP;ICMP;DHCP;DNS;NTP;IPv4;SSH;Unicast;FTP
+System Compatibility,P2P;CGI
+Remote Connection,≤  2
+Client,Easy7 Smart Client
+Moblie Client,EasyLive Plus
+Web,IE10+;Firefox52+;Edge89+;Safari11+;Chrome57+
+Interface,
+Communication Interface,"1*RJ-45,10/100 Mbps self-adaptive Ethernet port"
+Audio I/O,
+Alarm I/O,
+Built-In Mic,Yes
+Built-In Speaker,Yes
+Reset Button,Yes
+On-board storage,"Support microSD/microSDHC/microSDXC card, up to 512 GB"
+Additional interfaces,
+General,
+Web Client Language,3languages  Simple Chinese/English/Vietnamese
+Operating Temperature,-30℃~60℃
+Operating Humidity,Humidity 95% or less (no condensation)
+Storage Temperature,-30℃~60℃
+Storage Humidity,Humidity 95% or less (no condensation)
+Power Supply,DC12V±25%
+Protection,Surge2000V;ESD6000V;IP66
+Boundary Dimensions,133(L)102W)209(H)mm
+Package Dimensions,160(L)160(W)205(H)mm
+GrossWeight,0.83kg
+NetWeight,0.6kg
+
+
+Date,Title,Type
+2024-05-08,TC-H363N I5WWIFI4mmVJO4.0,pdf

@@ -1,0 +1,6 @@
+产品网址：https://www.hoperf.cn/ic/soc_transmitter/CMT2189D.html
+产品结构：root->CMT2189D_OOK/(G)FSK发射芯片_Sub-1GHz射频发射芯片_SoC发射芯片-RF射频、数字传感器产品专业设计生产商-深圳市华普微电子股份有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|OOK/(G)FSK 发射芯片|CMT2189D|支持 27～960MHz，OOK 调制或(G)FSK 调制的无线发射功能；高效单端 PA，输出功率可调范围 0~+13dBm，+13dBm 发射时仅需 18mA；8kB OTP 程序存储体和 12kB ROM；采用单线（1-WIRE）在线仿真功能；内置 AES-128 加速器和真随机数产生器（TRNG），并提供 32 位序列号（ID）；支持双时钟运行架构；内置 12 位高精度高速 SAR-ADC|

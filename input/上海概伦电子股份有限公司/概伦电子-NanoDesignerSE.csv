@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/products/analog_design_eda/NanoDesigner-SE.html
+产品结构：root->概伦电子-NanoDesignerSE
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|NanoDesigner SE|无|原理图编辑器，与 IC 版图设计无缝衔接，功能丰富、操作快捷。支持多种便捷设计手法，实现从晶体管级到语言级电路输入；支持 Python 和 C++脚本的高效开发；支持执行日志保存、history 坐标记忆保存与调取；支持 inherit connection 设计方式和 symbol 的自动生成；支持电路参数的统一界面编辑与常驻属性窗口编辑；强大高效的多阶层大规模电路 trace；支持 batch 仿真、多 corner/多 testbench/定时仿真功能和第三方仿真器的 ADV 仿真环境；支持电路图与波形图双向交叉探测 crossprobe；支持 OpenAccess 数据库和 Edif200、SPICE、CDL、Verilog 等行业标准 import/export 数据格式|

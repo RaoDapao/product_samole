@@ -1,0 +1,14 @@
+产品网址：https://www.calterah.com/producttypes/board-alps/#
+产品结构：root->加特兰微电子-开发板
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Alps 4T4R 77/79 GHz Radar SoC|CAL77S244-AE|汽车级全集成毫米波雷达 SoC，发射通道 4，接收通道 4，工作频率 76GHz-81GHz，支持 5G 扫频带宽，FMCW 波形生成器可自定义，高速 ADC 采样率高达 50MS/s，雷达信号处理基带硬件实现，CPU 为 300MHz ARC®EM6，片内存储空间 2.625MiB RAM，支持 SoC 级联，外设接口丰富，符合 AEC-Q100 规范 Grade 2，通过莱茵 TÜV 功能安全认证（ASIL-B）|
+|Alps 2T4R 77/79 GHz Radar SoC|CAL77S224-AE|汽车级全集成毫米波雷达 SoC，发射通道 2，接收通道 4，工作频率 76GHz-81GHz，支持 5G 扫频带宽，FMCW 波形生成器可自定义，高速 ADC 采样率高达 50MS/s，雷达信号处理基带硬件实现，CPU 为 300MHz ARC®EM6，片内存储空间 2.625MiB RAM，外设接口丰富，符合 AEC-Q100 规范 Grade 2，通过莱茵 TÜV 功能安全认证（ASIL-B）|
+|Alps 4T4R 77/79 GHz Radar SoC AiP|CAL77S244-AB|汽车级全集成毫米波雷达 SoC（封装集成片上天线），发射通道 4，接收通道 4，封装集成片上天线，支持水平和俯仰探测，工作频率 76GHz-81GHz，支持 5G 扫频带宽，FMCW 波形生成器可自定义，高速 ADC 采样率高达 50MS/s，雷达信号处理基带硬件实现，CPU 为 300MHz ARC®EM6，片内存储空间 2.625MiB RAM，外设接口丰富，符合 AEC-Q100 规范 Grade 2，满足功能安全 ISO 26262 ASIL-B|
+|Alps 4T4R 77/79 GHz Radar SoC AiP|CAL77S244-IB|工业级全集成毫米波雷达 SoC（封装集成片上天线），发射通道 4，接收通道 4，封装集成片上天线，支持水平和俯仰探测，工作频率 76GHz-81GHz，支持 5G 扫频带宽，FMCW 波形生成器可自定义，高速 ADC 采样率高达 50MS/s，雷达信号处理基带硬件实现，CPU 为 300MHz ARC®EM6，片内存储空间 2.625MiB RAM，外设接口丰富，通过工业级可靠性测试|
+|Alps/Rhine 数据采集板|DCK-ALPS-ETHERNET|千兆以太网接口，支持实时 ADC 数据采集，支持同时进行雷达解算与原始数据采集，支持硬件在环调试|
+|Alps 雷达开发平台|RDP-77S244-AEM-LYRA|天线设计支持方位向和俯仰向到达角测量，EIRP 短距 24dBm，长距 31dBm，FOV（-6dB）短距方位向±40°，俯仰向±5°，长距方位向±10°，俯仰向±5°，集成 Flash，集成 JTAG，可连接数据采集板采集原始数据，便于使用的 USB 接口|
+|Alps 雷达开发平台|RDP-77S244-AEM-VENUS|天线设计支持方位向和俯仰向到达角测量，EIRP 24dBm@78GHz，FOV（-6dB）方位向±40°，俯仰向±5°，集成 Flash，集成 JTAG，可连接数据采集板采集原始数据，便于使用的 USB 接口|
+|Alps 雷达开发平台|RDP-77S224-AEM-VENUS|天线设计支持方位向和俯仰向到达角测量，EIRP 24dBm@78GHz，FOV（-6dB）方位向±40°，俯仰向±5°，集成 Flash，集成 JTAG，可连接数据采集板采集原始数据，便于使用的 USB 接口|
+|Alps AiP 雷达开发平台|RDP-77S244-ABM-AIP|天线设计支持方位向和俯仰向到达角测量，封装集成天线，集成 Flash，集成 JTAG，可连接数据采集板采集原始数据，便于使用的 USB 接口|

@@ -1,0 +1,23 @@
+产品网址：http://icpc.cn/cms/item/view?table=product&id=27
+产品结构：当前位置：首页->产品与服务->龙芯->模块->LX-43AComExpress龙芯3A主板
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|ComExpress-LX-43A 龙芯 3A 主板模块|LX-43A|以龙芯 3A 多核处理器和 AMD RS780E SB710 芯片组为核心，高可靠性和高效能的主板模块。内部集成 ATI M72-based 图像引擎，支持双屏显示。兼容 ComExpressType 2 型引脚定义，板载 1 个 DDR2 SO-DIMM 插槽最大可支持 4GB 内存。含有 5 个 PCI Express x 1 通道，4 个 SerialATA 端口，8 个 USB 2.0 端口和 1 个千兆网口。完全满足 PICMG（PCI Industrial Computer Manufacture's Group）COM Express 规范，兼容 COM Express Type2 的其它模块，提供了 PCI Express，PCI，USB 和 SerialATA，它们和其它 COM Express Type2 模块在连接器的相同引脚位置拥有一样的定义。|
+
+
+
+
+处理器,"龙芯3A,集成4个64位超标量处理器核主频725MHz"
+总线规范,"125x95mmCOM  Express basic,  COM Express Pin-out type2"
+性能,800MHz  FSB  752MHz DDR2
+芯片组,AMD  RS780E+SB710 chipset
+硬盘,4xSerialATA;1xParallerATA
+存储,512KB  NorFlash用于存储PMON
+内存,最大可支持4GB DDR2 SO-DIMM
+其他性能,LPC  Watchdog  SM Bus  RTC
+主板接口,8xUSB  2.0端口  5xPCI Expressx1通道  PCI2.1，32bit/33MHz  1x千兆网（Intel 82574 Gigabit Ethernet Controller）
+控制器,AMD  RS710集成HD音频控制器  AMD RS780E集成ATIM72-based图像引擎  PCI Express Graphics2x8  支持模块板载BIOS
+显示,TMDS/DVI  LVDS  VGA
+功耗,"22W,12V  Typ  6.5V-20V"
+湿度范围,工作温度：-25℃  ～ +70℃  存储温度：-40℃ ～ +85℃

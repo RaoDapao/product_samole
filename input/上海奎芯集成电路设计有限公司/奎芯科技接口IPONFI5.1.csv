@@ -1,0 +1,6 @@
+产品网址：https://www.m2ipm2.com/ProductsSt_ONFI51.html
+产品结构：root->奎芯科技接口IPONFI5.1
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|ONFI5.1 PHY|无|是一款高性能、低功耗的 PHY IP，支持 Open NAND Flash Interface（ONFI）5.1 规范的所有模式。ONFI 是连接外部闪存颗粒（NAND Flash）和内部闪存控制器（NAND Controller）的接口，广泛应用于固态硬盘（SSD）产品。为了简化实现，MSquare ONFI5.1 PHY 支持可扩展通道和可定制的 CE/RB 引脚数量。|

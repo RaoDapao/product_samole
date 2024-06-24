@@ -1,0 +1,11 @@
+产品网址：https://www.marching-power.com/smdg
+产品结构：首页->产品中心->第三代半导体芯片及模组系列->SiCMOSFET单管
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|SiC MOSFET 单管|无|无|
+
+Part Number,VDS(V),"RDS (on) @V,  Tj = 25°C typ(mΩ)",ID @25°C (A),Qualification,Temperature(°C),Temperature(°C).1,Package,Datasheet
+Part Number,VDS(V),"RDS (on) @V,  Tj = 25°C typ(mΩ)",ID @25°C (A),Qualification,min,max,Package,Datasheet
+AMPCW120R30CV,1200,30,73,Automotive,-55,175,TO-247-3,Download
+AMPCW120R40CU,1200,40,57,Automotive,-55,175,TO-247-3,Download

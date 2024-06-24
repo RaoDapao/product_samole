@@ -1,0 +1,13 @@
+产品网址：https://www.hitrendtech.com/products/detail?id=2
+产品结构：首页->产品中心->HT8652
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|高速电力线载波通信芯片|HT8652|采用 OFDM 调制技术，信号频率范围 200KHz 到 12MHz，工作频段最高支持 411 个子载波，子载波支持 BPSK、QPSK 及 16QAM 映射以实现不同的速率模式，物理层最高可达到 12Mbps 传输速度。采用先进的数模混合设计技术与工艺、高效可靠的前向纠错技术、灵活可配的传输模式，提供高速率、高可靠性、高灵敏度的电力线数据通信，使其可以在信号衰减严重以及干扰强烈的电力线环境下实现自适应可靠通信。采用 QFN48，6*6mm 封装，引脚间距 0.4mm。工作温度范围为-40°C～+105°C，是一款工业级的 SOC 芯片。|
+
+Part NO.,HT8652,Function,High speed Powerline Communication SoC
+Supply Voltage(V),3.3,Data Rate(bps),0.1M~12M
+Frequency Band  (Hz),0.2M~12M,Modulation Mode,OFDM
+Package,QFN48,Oper. Temp.(℃),-40~+105
+Security Features,AES-128,Compatibility,Q/GDW 11612
+,,,

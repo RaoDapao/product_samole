@@ -1,0 +1,28 @@
+产品网址：https://www.aichtech.com/zh-hans/Product/Show-441.html
+产品结构：root->AiW9761-成都爱旗科技有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|无线联接（AIoT）|AiW9761|是一款高度集成 2.4GHz Wi-Fi、BLE 和 SLE 的 Combo 芯片，集成 IEEE 802.11b/g/n/ax 基带和 RF 电路，支持多种协议和频宽，提供多种接口，支持多种系统，适用于物联网智能终端领域|
+
+1×1 2.4GHz ch1~ch14 Wi-Fi Station，发射功率23dBm
+IEEE 802.11b/g/n/ax
+支持802.11n 20MHz/40MHz频宽，支持802.11ax 20MHz频宽
+支持最大速率：150Mbps@HT40 MCS7，114.7Mbps@HE20 MCS9
+内置PA和LNA，集成TX/RX Switch、Balun等
+支持STA和AP形态，作为AP时最大支持8个STA接入
+支持WPA/WPA2/WPA3 personal、WPS2.0
+低功耗蓝牙Bluetooth Low Energy（BLE）
+支持BLE 4. 0/4. 1/4. 2/5. 0/5. 1/5. 2
+支持BLE 1MHz/2MHz
+支持高功率20dBm
+支持SLE 1.0，发射功率20dBm
+支持SLE 1M/2M/4M
+支持Polar信道编码
+"支持SLE网关, 支持SLE Mesh"
+1个SDIO Slave接口或1个USB2.0接口
+2个UART接口
+11个GPIO接口
+电源电压输入范围：2.3V～3.6V
+QFN-32，4mm×4mm
+工作温度：-40℃～+85℃

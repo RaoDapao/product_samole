@@ -1,0 +1,60 @@
+-> root http://chinaasic.com
+  -> 深圳市明微电子股份有限公司 http://chinaasic.com/product/product.html
+  -> LED显示驱动芯片 http://chinaasic.com/product/product_3.html
+    -> 显示屏驱动芯片 
+    -> 格栅屏驱动芯片 
+    -> 单/双色驱动芯片 
+    -> 行驱动芯片 
+    -> 逻辑控制芯片 
+    -> LED 数码管驱动芯片 
+  -> 通用 http://chinaasic.com/productItem/product_item_6.html
+    -> LED 显示驱动芯片 
+    -> LED 智能景观驱动芯片 
+    -> 电源管理芯片 
+    -> Mini LED 背光驱动芯片 
+  -> 共2条<1/1 
+    -> 跳转 http://chinaasic.com/productItem/product_item_20.html
+  -> 共4条<1/1 
+    -> 跳转_1 http://chinaasic.com/productItem/product_item_7.html
+  -> 共6条<1/1 
+    -> 跳转_2 http://chinaasic.com/productItem/product_item_21.html
+  -> 共7条<1/1 
+    -> 跳转_3 http://chinaasic.com/productItem/product_item_8.html
+  -> LED数码管驱动 http://chinaasic.com/productItem/product_item_9.html
+  -> LED智能景观驱动芯片 http://chinaasic.com/product/product_2.html
+  -> 单线归零码(SID) http://chinaasic.com/productItem/product_item_4.html
+  -> DMX512差分并联 http://chinaasic.com/productItem/product_item_5.html
+  -> 低压线性驱动 http://chinaasic.com/productItem/product_item_3.html
+  -> LED照明驱动芯片 http://chinaasic.com/product/product_1.html
+  -> 共8条<1/1 
+    -> 跳转_4 http://chinaasic.com/productItem/product_item_22.html
+  -> 恒流 http://chinaasic.com/productItem/product_item_2.html
+  -> 低PF隔离 http://chinaasic.com/productItem/product_item_1.html
+  -> 电源管理芯片 http://chinaasic.com/product/product_5.html
+  -> 共1条<1/1 
+    -> 跳转_5 http://chinaasic.com/productItem/product_item_11.html
+  -> 共3条<1/1 
+    -> 跳转_6 http://chinaasic.com/productItem/product_item_24.html
+  -> MiniLED背光驱动芯片 http://chinaasic.com/product/product_7.html
+  -> ISE2024显示盛宴规模空前，明微产品 http://chinaasic.com/news/news_detail_149.html
+    -> 高刷 PWM 恒流驱动 
+    -> 高阶高刷 PWM 恒流驱动 
+  -> ISE2024显示领域精英齐聚，明微产品 http://chinaasic.com/news/news_detail_148.html
+    -> 户外共阴节能驱动 
+    -> 1-16 扫 PWM 恒流驱动 
+  -> 单-双色驱动 http://chinaasic.com/productItemSort/product_item_sort_22.html
+  -> 单线归零码(SID)_1 http://chinaasic.com/productItemSort/product_item_sort_29.html
+  -> DMX512差分并联_1 http://chinaasic.com/productItemSort/product_item_sort_31.html
+  -> DMX512单线并联 http://chinaasic.com/productItemSort/product_item_sort_20.html
+  -> PWM调光 http://chinaasic.com/productItemSort/product_item_sort_60.html
+  -> 共9条<1/1 
+  -> 恒流_1 http://chinaasic.com/productItemSort/product_item_sort_32.html
+  -> 共5条<1/1 
+    -> 跳转_7 http://chinaasic.com/productItemSort/product_item_sort_1.html
+  -> 共0条<1/0 
+  -> 副边反馈（SSR） http://chinaasic.com/productItemSort/product_item_sort_41.html
+  -> 非隔离恒压 http://chinaasic.com/productItemSort/product_item_sort_42.html
+    -> AC-DC 驱动 
+    -> AC-DC 驱动 
+    -> AC-DC 驱动 
+  -> PM驱动 http://chinaasic.com/productItemSort/product_item_sort_76.html

@@ -1,0 +1,20 @@
+-> root http://www.aichance.com.cn
+  -> 智能门锁PCBA合作案例-产品中心-四川爱创科技有限公司 http://www.aichance.com.cn/product/4.html
+  -> 小型家电类产品-产品中心-四川爱创科技有限公司 http://www.aichance.com.cn/product/3.html
+  -> 变频控制方案合作案例-产品中心-四川爱创科技有限公司 http://www.aichance.com.cn/product/2.html
+  -> 智能售卖终端合作案例-产品中心-四川爱创科技有限公司 http://www.aichance.com.cn/product/1.html
+    -> 智能售酒机 
+    -> 智能 MINI 唱吧 
+    -> 共享冰箱 
+    -> 智能鲜榨橙汁机 
+    -> 混合果汁机 
+    -> 胶囊咖啡机 
+    -> 智能蒸汽洗车机 
+  -> 川渝十佳工业设计企业长虹：以设计支撑技术创新、产品创新-企业新闻-四川爱创科技有限公司 http://www.aichance.com.cn/article/20.html
+    -> 星箔系列艺术电视 
+    -> 复式对开四门设计的冰箱产品 
+    -> 全无尘空调 
+    -> 5G 生态成套家电 
+  -> 产品中心-四川爱创科技有限公司 http://www.aichance.com.cn/product/show/14.html
+    -> 变频控制方案 
+    -> 智能售卖终端 

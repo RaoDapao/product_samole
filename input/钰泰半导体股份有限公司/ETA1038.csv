@@ -1,0 +1,6 @@
+产品网址：https://www.eta-semi.com/product/966.html
+产品结构：首页->升压（Boost）稳压器->ETA1038
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|升压（Boost）稳压器|ETA1038|5V/1.5A Output Synchronous Boost in SOT23-6，是一款高效率同步升压转换器，可从低电压源提供高达 1.5A 的升压输出至 5V。它包含在关机、短路、输出电流过载或其他输出高于输入的事件期间将输入与输出断开的电路。具有输出断开、短路保护、5V/1.5A 输出功率、输出到输入反向电流保护、高达 96%的效率、40μA 空载 I<sub>Q</sub>和轻载 PFM 模式、内部同步整流器、电流模式控制、逻辑控制关机和热关机、SOT23-6 封装等特征。应用于 USB OTG for MIDs, Smartphones、Mobile back-up Battery Chargers、Alkaline, NiCd, and NiMh batteries applications、USB powered devices 等。|

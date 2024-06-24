@@ -1,0 +1,45 @@
+产品网址：http://en.tang-sh.com/products_detail/6.html
+产品结构：root->MCU+Crystal-ShanghaiTangElectronicsCo.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|MCU+Crystal|无|MCU 是一种芯片级计算机，可执行不同组合的控制，适用于网络通信、工业自动化和智能医疗设备等领域。晶体振荡器是产生 MCU 所需时钟频率的电子元件，其提供的时钟频率越高，微控制器运行速度越快。|
+
+Brand,Model,Package size  [ mm ],Rated frequency range  [ kHz ],Frequency deviation (standard)  [ x10^-6 ] @+25℃,Temperature range  [ ℃ ]
+EPSON,MC-306,8.0 x 3.8 x 2.54 Patch,37.768,Max.±20,’-40 to +85
+EPSON,MC-146,7.0 x 1.5 x 1.4Patch,35.768,Max.±20,’-40 to +85
+EPSON,FC3215AN,3.2 x 1.5 x 0.9Patch,32.768,Max.±20,’-40 to +105
+EPSON,FC-135,3.2 x 1.5 x 0.9Patch,32.768,Max.±20,’-40 to +85
+EPSON,FC2012AN  (Low ESR vs.FC-12M),2.05 x 1.2 x 0.6Patch,32.768,Max.±20,’-40 to +105
+EPSON,FC-12M,2.05 x 1.2 x 0.6Patch,33.768,Max.±10  Max.±20,’-40 to +85
+EPSON,FC1610AN,1.6 x 1.0 x 0.5Patch,32.768,Max.±20,’-40 to +85
+EPSON,SG-3031CM,3.2 x 2.35 x 0.9PatchSPXO,32.768,Max.5±23,’-40 to +105
+NDK,NX1610SA,1.6 x 1.0 x 0.45Patch,33.768,Max.±20,’-40 to +85
+NDK,NX2012SA,2.0 x 1.2 x 0.55Patch,32.768,Max.±20,’-40 to +85
+NDK,NX3215SA,3.2 x 1.5 x 0.8Patch,33.768,Max.±20,’-40 to +85
+NDK,NX3215SA (vehicle electronics),3.2 x 1.5 x 0.8Patch,32.768,Max.±20,’-40 to +125
+KDS,DT-38,φ3.0 x 8.0plug-in,32.768,Max.±10  Max.±20,’-10 to +60
+KDS,DT-26,φ2.0 x 6.0plug-in,32.768,Max.±20,’-10 to +60
+KDS,DMX-26S,8.0 x 3.8 x 2.5Patch,32.768,Max.±20,’-40 to +85
+KDS,DST310S,3.2×1.5×0.85Patch,32.768,Max.±20,’-40 to +85
+KDS,DST210A,2.0 x 1.2 x 0.55Patch,32.768,Max.±20,’-40 to +85
+KDS,DST1610A,1.6 x 1.0 x 0.5Patch,32.768,Max.±20,’-40 to +85
+KDS,DSK321STD,3.2 x 2.5 x 0.5PatchTCXO,32.768,Max.±20,’-40 to +85
+
+
+Frequency,EPSON,KDS,NDK
+Frequency,Epson,Big Vacuum,Japan Radio
+8M,,DSX320G  （3225，2foot）,NX3225GD  （3225）
+8M,,DSX321G  （3225，4foot）,NX5032GA  （5032）
+12M,FA-238V  （3225）,DSX321G  （3225）,NX3225GA  （3225）
+16M,FA-128  (2016),,
+16M,FA-20H  （2520）,,NX2520SA  （2520）
+16M,TSX-3225  （3225）,DSX321G  （3225）,NX3225SA  （3225）
+24M,FA-128  (2016),,
+24M,TSX-3225  （3225）,,NX3225SA  （3225）
+26M,FA-128  (2016),,
+26M,FA-20H  （2520）,,NX2520SA  （2520）
+26M,TG2520SMN  （2520、TCXO）,DSB221SDN  （2520、TCXO）,
+32M,FA-128  (2016),,
+32M,TSX-3225  （3225）,DSX321G  （3225）,NX2520SA  （2520）
+48M,FA-128  (2016),,

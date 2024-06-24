@@ -1,0 +1,13 @@
+产品网址：https://www.zhmsemi.com/products/sic_module/drivez3_sic.html
+产品结构：root
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|DriveZ3/SiC|无|A.Field Stop Trench Gate IGBT<br>B.LOW VCE(sat)<br>C.Low Switching LOSS<br>D.Direct Cooled Pinfin Base Plate|
+
+Package,Product,Product Status,VDSS(V),VGSS(V),ID(A),Configuration,typical value @Tj=25℃,typical value @Tj=25℃.1,typical value @Tj=25℃.2,typical value @Tj=25℃.3
+Package,Product,Product Status,VDSS(V),VGSS(V),ID(A),Configuration,RDS(on)(mΩ),VSD(V),Eon(mJ),Eoff(mJ)
+DriveZ3/SiC,6H120E120T1P,Developing,1200,+25/-10,120,six-pack,10,1.60,T.B.D,T.B.D
+DriveZ3/SiC,6H300E120T1P,Developing,1200,+25/-10,300,six-pack,5,1.60,T.B.D,T.B.D
+DriveZ3/SiC,6H120E120T2P,Developing,1200,+20/-4,120,six-pack,15,2.00,T.B.D,T.B.D
+DriveZ3/SiC,6H300E120T2P,Developing,1200,+20/-4,300,six-pack,6,2.00,T.B.D,T.B.D

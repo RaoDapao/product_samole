@@ -1,0 +1,35 @@
+产品网址：http://www.xtxtech.com/products_detail/3
+产品结构：root->NAND
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|SPI NAND|XT26|芯天下技术是业内最早提供 SPI NAND Flash 的厂商之一，它大量减少了 SoC 与 Flash 通讯的接口而有效降低了系统整体成本，XT26 系列内嵌强大的串行控制器，支持高速的四线数据读取，低电压和多容量选择，是智能化消费电子和通讯模块最理想的存储方案。具有 2.7V~3.6V 和 1.7V~1.95V 工作电压，容量 1Gbit~4Gbit；相比串口 NOR 闪存更快的写入性能；四线数据吞吐量达到 480Mbit/s；错误校验解决不同的 NAND 的兼容；提供 WSON8 8x6mm，BGA24 封装选择；高可靠性，数据保持时间 10 年；支持-40°C~85°C 工业温度条件|
+
+型号,容量,电压,温度,封装,描述,包装,状态,说明书
+XT26G01DWSIGA,1Gbit,2.7~3.6V,-40℃~85℃,WSON8 8x6mm,"8bit ECC always on, 4 bit ECC status, Max 120MHz",Tray,MP,
+XT26G11DWSIGA,1Gbit,2.7~3.6V,-40℃~85℃,WSON8 8x6mm,"8bit ECC default on, 4 bit ECC status, Max 120MHz",Tray,MP,
+XT26Q01DWSIGA,1Gbit,1.7~1.95V,-40℃~85℃,WSON8 8x6mm,"8bit ECC always on, 4 bit ECC status, Max 108MHz",Tray,MP,
+XT26G01CWSIGA,1Gbit,2.7~3.6V,-40℃~85℃,WSON8 8x6mm,"8bit ECC always on, 4 bit ECC status, Max 104MHz",Tray,MP,
+XT26G01CWSIGT,1Gbit,2.7~3.6V,-40℃~85℃,WSON8 8x6mm,"8bit ECC always on, 4 bit ECC status, Max 104MHz",T&R,MP,
+XT26G11CWSIGA,1Gbit,2.7~3.6V,-40℃~85℃,WSON8 8x6mm,"8bit ECC default on, 2 bit ECC status, Max 104MHz",Tray,MP,联系我们
+
+
+型号,容量,电压,温度,封装,描述,包装,状态,说明书
+XT26G02DWSIGA,2Gbit,2.7~3.6V,-40℃~85℃,WSON8 8x6mm,"8bit ECC always on, 4 bit ECC status, Max 120MHz",Tray,MP,
+XT26G12DWSIGA,2Gbit,2.7~3.6V,-40℃~85℃,WSON8 8x6mm,"8bit ECC default on, 4 bit ECC status, Max 120MHz",Tray,MP,
+XT26Q02DWSIGA,2Gbit,1.7~1.95V,-40℃~85℃,WSON8 8x6mm,"8bit ECC always on, 4 bit ECC status, Max 108MHz",Tray,MP,
+XT26Q12DWSIGA,2Gbit,1.7~1.95V,-40℃~85℃,WSON8 8x6mm,"8bit ECC default on, 4 bit ECC status, Max 108MHz",Tray,MP,
+XT26G02CWSIGA,2Gbit,2.7~3.6V,-40℃~85℃,WSON8 8x6mm,"8bit ECC always on, 4 bit ECC status, Max 104MHz",Tray,MP,
+XT26G02ELGIGA,2Gbit,2.7~3.6V,-40℃~85℃,LGA8 8x6mm,"8bit ECC default on, 3 bit ECC status, Max 133MHz, 2 plane",Tray,MP,联系我们
+
+
+型号,容量,电压,温度,封装,描述,包装,状态,说明书
+XT26G04DWSIGA,4Gbit,2.7~3.6V,-40℃~85℃,WSON8 8x6mm,"8bit ECC always on, 4 bit ECC status, Max 120MHz",Tray,MP,
+XT26Q04DWSIGA,4Gbit,1.7~1.95V,-40℃~85℃,WSON8 8x6mm,"8bit ECC always on, 4 bit ECC status, Max 108MHz",Tray,MP,
+XT26Q14DWSIGA,4Gbit,1.7~1.95V,-40℃~85℃,WSON8 8x6mm,"8bit ECC default on, 4 bit ECC status, Max 108MHz",Tray,MP,
+XT26G04CWSIGA,4Gbit,2.7~3.6V,-40℃~85℃,WSON8 8x6mm,"8bit ECC always on, 4 bit ECC status, Max 104MHz",Tray,MP,联系我们
+
+
+型号,容量,电压,温度,封装,描述,包装,状态
+XT26G08DWSIGA,8Gbit,2.7~3.6V,-40℃~85℃,WSON8 8x6mm,"8bit ECC always on, 4 bit ECC status, Max 120MHz",Tray,MP
+XT26Q18DWSIGA,8Gbit,1.7~1.95V,-40℃~85℃,WSON8 8x6mm,"8bit ECC default on, 4 bit ECC status, Max 108MHz",Tray,MP

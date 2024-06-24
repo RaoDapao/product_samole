@@ -1,0 +1,16 @@
+产品网址：https://www.longsys.com/products/embedded-storage/micro-storage/nand-based-mcp.html
+产品结构：root->-StorageProductsSolution–LongsysacquiredLEXAR&Foreseee
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|NAND-based MCP|无|Stacked packaging of Flash and LPDDR，saving PCB space|
+
+Product Series,NAND Flash,Capacity,Package,Page Size,Operating Temperature,Voltage,Size,Rank Per  Channel,P/N
+LPDDR2 NAND-based MCP,SLC NAND,1Gbit+1Gbit,FBGA162,2K Page,-40~85℃,NAND: 1.7~1.95V  LPDDR2: 1.14~1.30V,8*10.5mm,1,F70ME0101F-RWT
+LPDDR2 NAND-based MCP,SLC NAND,2Gbit+1Gbit,FBGA162,2K Page,-40~85℃,NAND: 1.7~1.95V  LPDDR2: 1.14~1.30V,8*10.5mm,1,F70ME0201F-RWT
+LPDDR2 NAND-based MCP,SLC NAND,2Gbit+2Gbit,FBGA162,2K Page,-40~85℃,NAND: 1.7~1.95V  LPDDR2: 1.14~1.30V,8*10.5mm,1,F70ME0202A-RWT
+LPDDR2 NAND-based MCP,SLC NAND,4Gbit+2Gbit,FBGA162,4K Page,-40~85℃,NAND: 1.7~1.95V  LPDDR2: 1.14~1.30V,8*10.5mm,1,F70ME0402A-RWT
+LPDDR4x NAND-based MCP,SLC NAND,4Gbit+6Gbit,WFBGA149,4K Page,-40~85℃,NAND: 1.7~1.95V  LPDDR4x: 1.06~1.17V,8*9.5mm,1,F70NH0406A-SWT
+LPDDR4x NAND-based MCP,SLC NAND,4Gbit+8Gbit,WFBGA149,4K Page,-40~85℃,NAND: 1.7~1.95V  LPDDR4x: 1.06~1.17V,8*9.5mm,1,F70NH0408A-SWT
+LPDDR4x NAND-based MCP,SLC NAND,8Gbit+6Gbit,WFBGA149,4K Page,-40~85℃,NAND: 1.7~1.95V  LPDDR4x: 1.06~1.17V,8*9.5mm,1,F70NH0806A-SWT
+LPDDR4x NAND-based MCP,SLC NAND,8Gbit+8Gbit,WFBGA149,4K Page,-40~85℃,NAND: 1.7~1.95V  LPDDR4x: 1.06~1.17V,8*9.5mm,1,F70NH0808A-SWT

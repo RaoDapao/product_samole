@@ -1,0 +1,10 @@
+产品网址：http://www.masses-chip.com/c/cpzx/cpzx-otp/cpzx-otp-io-mcu
+产品结构：root->OTPI/O型MCU|
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|OTP I/O 型 MCU|无|无|
+
+芯片型号,ROM,RAM,堆栈级数,I/O,中断源,定时器,PWM,OP/CMP,工作电压,休眠功耗,特殊功能,封装形式
+M8R512,1K*16,64,5,18,TC0/TC1  INT0  IOB变化  CMP  LVD,2,2,0/2,2.2~ 5.5V,<1uA,4路大电流Sink引脚,DIP20  SOP20
+M8R513,1K*16,64,5,12,TC0/TC1  INT0  IOB变化  CMP  LVD,2,2,0/2,2.2~ 5.5V,<1uA,3路大电流Sink引脚,DIP14  SOP14

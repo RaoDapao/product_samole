@@ -1,0 +1,10 @@
+产品网址：http://www.macmicst.com/en/index.php/product/release_info/42.html
+产品结构：root->产品中心-江苏宏微科技股份有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|RC-IGBT Discretes|无|IGBT/FWD On the Same Chip；Low Vcesat；High Reliability；Low Cost|
+
+Type,V  CES  (V),I  C nom  (A),V  CE (sat)  (V),P  tot  (W),E  off  (mJ),R  thJC  (℃/W),Packages,PDF
+ALL  MM20G3R135B,ALL  1350,ALL  20,ALL  1.6,ALL  333,ALL  1.4,ALL  0.45,ALL  TO-247,
+MM20G3R135B,1350,20,1.6,333,1.4,0.45,TO-247,Preview  Download

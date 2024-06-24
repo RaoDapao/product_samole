@@ -1,0 +1,77 @@
+产品网址：https://korea.tiandy.com/index.php?s=/Home/Product/detail/id/528.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|2MP Starlight IR Bullet Camera|TC-C32JS|Full Metal Housing<br>Up to 1920x1080@30fps<br>S+265/H.265/H.264/M-JPEG<br>Min. illumination Color: 0.001Lux@F1.6<br>Smart IR, IR Range: 50m<br>Support Human/Vehicle Classification<br>Support Video Analytics<br>Support Face Capture Mode<br>Plugin Free<br>Operating Conditions -40℃~65℃, 0~95% RH<br>POE, IP67|
+
+Camera,Unnamed: 1
+Image Sensor,"1/2.8"" CMOS"
+Signal System,PAL/NTSC
+Min. Illumination,"Color:0.002Lux@(F1.6,AGC ON),B/W:0Lux with IR"
+Shutter Time,"1s to 1/100,000s"
+Day & Night,Dual IR Cut Filter with Auto Switch
+WDR,120dB
+Angle Adjustment,"Bracket,pan 0~360°,tilt 0~75°,roate 0~360°"
+Lens,
+Lens Type,Fixed
+Focus,4mm
+Lens Mount,M12
+Aperture,F1.6
+FOV,Horizontal field of view:85.2°  ；  Vertical field of view:44.9°
+Illuminator,
+IR LEDs,2
+IR Range,Up to 50m
+Wavelength,850nm
+White LEDs/Warmlights,
+Compression Standard,
+Video Compression,S+265/H.265/H.264/M-JPEG
+Video Bit Rate,32Kbps~8Mbps
+Audio Compression,
+Audio Bit Rate,
+Image,
+Max. Resolution,1920x1080
+Main Stream,"PAL:25fps(1920x1080,1280x720,704x576,640x480)"
+,"NTSC:30fps(1920x1080,1280x720,704x480,640x480)"
+Sub Stream,"PAL:25fps(704x576,704x288,640x360,352x288)"
+,"NTSC:30fps(704x480,704x240,640x360,352x240)"
+Third Stream,"PAL:25fps(704x576,704x288,352x288)  NTSC:30fps(704x480,704x240,352x240)"
+Image Setting,"Saturation,brightness,contrast,sharpness,adjustable by client software or web browser"
+Image Enhancement,BLC/3D DNR/HLC/Corridor Format
+ROI,Support 8 fixed regions of coding
+OSD,"16x16,32x32,48x48,64x64,adaptable size,Letters Such as Week,Date,Time,Total 5 Regions"
+Picture Overlay,Yes
+Privacy Mask,"Yes,4 regions"
+Smart Defog,Yes
+Feature,
+Alarm Trigger,"Motion Detection,Mask Alarm,Disk Full,Disk R/W Error,IP Address Conflict,MAC Address Conflict,FTP Server Exception,Voltage Abnormal,Video Abnormal,Audio Abnormal"
+Video Analytics,"Tripwire,Double Tripwire,Perimeter,Object Abandon,Object Lost,Loitering,Running,Parking,Crowed,People Counting,On Duty Detection,Heatmap,Face Capture,Human/Vehicle Classification"
+Early Warning(EW),
+Network,
+ANR,Yes(Only Support Tiandy ANR NVR)
+Protocols,"RTSP,SRTP,HTTP,HTTPS,TCP/IP,UDP,UPnP,ICMP,IGMP,SNMP,DHCP,DNS,DDNS,Easy DDNS,NTP,SMTP,802.1,QoS,IPv4,IPv6,PPPOE,SSH,Multicast,RTCP,ARP,FTP.NFS"
+System Compatibility,"ONVIF(PROFILE S/T/G),SDK,CGI,Milestone,P2P"
+Remote Connection,2
+Client,"Easy7,EasyLive"
+Web Version,Web6
+Interface,
+Communication Interface,1 RJ45 10M/ 100M self adaptive Ethernet port
+Audio I/O,
+Alarm I/O,
+Speaker,
+Reset Button,Yes
+On-board storage,"Built-in MicroSD card slot,up to 512 GB"
+General,
+Web Client Language,"17 languages  English,Russian,Spanish,Korean,Italian,Turkish,Simple Chinese,Traditional Chinese,Thai,French,Polish,Dutch,Hebraism,Arabic,Vietnamese,German,Ukrainian"
+Operating Conditions,"-40  ℃  ～  65  ℃  ,0  ～  95% RH"
+Power Supply,DC12V±25%/PoE
+Power Consumption,MAX:6.5W(12V) MAX:7W(PoE)
+Protection,IP67
+Heater,
+Dimensions,189x70x70mm(7.44x2.76x2.76inch)
+GrossWeight,0.7Kg(1.54lb)
+NetWeight,0.43Kg(0.95lb)
+
+
+날짜,제목,유형
+2022-12-05,TC-C32JS Spec I5-E-M-N-4mm-V4.1,pdf

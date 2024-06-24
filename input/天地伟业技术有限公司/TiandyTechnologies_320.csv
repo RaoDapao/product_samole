@@ -1,0 +1,77 @@
+产品网址：https://korea.tiandy.com/index.php?s=/Home/Product/detail/id/616.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|5MP Super Starlight Motorized IR Dome Camera|TC-C35MP|Full Metal Housing<br>Motorized Lens 2.7-13.5mm<br>Up to 3072×1728@30fps, 1920x1080@60fps<br>S+265/H.265/H.264/M-JPEG<br>Min. illumination Color: 0.0008Lux@F1.3<br>Smart IR, IR Range: 50m<br>Built in Mic&Speaker<br>Support Video Analytics<br>Support Human/Vehicle Classification<br>Support Early Warning<br>Support Face Capture Mode<br>Built-in Mic, audio I/O 1/1, alarm I/O 2/1<br>Plugin Free<br>Operating Conditions -35℃~65℃, 0~95% RH<br>POE, IP67, IK10|
+
+Camera,Unnamed: 1
+Image Sensor,"1/2.8"" CMOS"
+Signal System,PAL/NTSC
+Min. Illumination,"Color:0.0002Lux@(F1.2,AGC ON),B/W:0Lux with IR"
+Shutter Time,"1s to 1/100,000s"
+Day & Night,Dual IR Cut Filter with Auto Switch
+WDR,120dB
+Angle Adjustment,"pan 0~330°,tilt 0~75°,roate 0~350°"
+Lens,
+Lens Type,Motorized
+Focus,2.7-13.5mm
+Lens Mount,Φ14
+Aperture,F1.3~F2.2
+FOV,Horizontal field of view:106.9°~48.7°  ；  Vertical field of view:57.2°~27.4°
+Illuminator,
+IR LEDs,18
+IR Range,Up to 50m
+Wavelength,850nm
+White LEDs/Warmlights,4
+Compression Standard,
+Video Compression,S+265/H.265/H.264/M-JPEG
+Video Bit Rate,32Kbps~16Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D/AAC
+Audio Bit Rate,"8K,32K,48Kbps"
+Image,
+Max. Resolution,3072x1728
+Main Stream,"PAL:25fps(3072x1728,2560x1440,2304x1296),50fps(1920x1080,1280x720)"
+,"NTSC:30fps(3072x1728,2560x1440,2304x1296),60fps(1920x1080,1280x720)"
+Sub Stream,"PAL:25fps(704x576,704x288,640x480,352x288)"
+,"NTSC:30fps(704x480,704x240,640x480,352x240)"
+Third Stream,"PAL:25fps(1920x1080,1280x720,704x576,704x288,352x288)  NTSC:30fps(1920x1080,1280x720,704x480,704x240,352x240)"
+Image Setting,"Saturation,brightness,contrast,sharpness,adjustable by client software or web browser"
+Image Enhancement,BLC/3D DNR/HLC/Corridor Format
+ROI,Support 8 fixed regions of coding
+OSD,"16x16,24x24,32x32,48x48,64x64,96x96,adaptable size,Letters Such as Week,Date,Time,Total5 Regions"
+Picture Overlay,Yes
+Privacy Mask,"Yes,4 regions"
+Smart Defog,Yes
+Feature,
+Alarm Trigger,"Event Input,Event Output,Motion Detection,Mask Alarm,Disk Full,Disk R/W Error,IP Address  Conflict,MAC Address Conflict,FTP Server Exception,Video Abnormal,Audio Abnormal"
+Video Analytics,"Tripwire,Double Tripwire,Perimeter,Object Abandon,Object Lost,Loitering,Running,Parking,Crowed, People Counting,On Duty Detection,Heatmap,Face Capture,Safety Helmet Detection,Human/Vehicle Classification"
+Early Warning(EW),Yes
+Network,
+ANR,Yes(Only Support Tiandy ANR NVR)
+Protocols,"IPv4,IPv6,IGMP,ICMP,ARP,TCP,UDP,DHCP,PPPoE,RTP,RTSP,RTCP,DNS,DDNS,NTP,FTP,UPnP,HTTP,HTTPS,SMTP,802.1x,SNMP,SSL,QoS,Telnet,RTMP;SFTP;Multicast;NFS"
+System Compatibility,"ONVIF(PROFILE S/T/G/M),SDK,Milestone,CGI,P2P"
+Remote Connection,2
+Client,"Easy7,EasyLive"
+Web Version,Web6
+Interface,
+Communication Interface,"1 RJ45 10M/ 100M self adaptive Ethernet port,RS 485"
+Audio I/O,"1/1,Mic in"
+Alarm I/O,2/1
+Speaker,Yes
+Reset Button,Yes
+On-board storage,"Built-in MicroSD card slot,up to 512 GB"
+General,
+Web Client Language,"17 languages  English,Russian,Spanish,Korean,Italian,Turkish,Simple Chinese,Traditional Chinese,Thai,French,Polish,Dutch,Hebraism,Arabic,Vietnamese,Ukrainian,German"
+Operating Conditions,"-35  ℃  ～  65  ℃  ,0  ～  95% RH"
+Power Supply,DC12V±25%/PoE
+Power Consumption,MAX:7.5W(12V) MAX:9W(PoE)
+Protection,"IP67,IK10"
+Heater,
+Dimensions,Φ143x124mm(Φ5.63x4.88inch)
+GrossWeight,1.16Kg(2.55lb)
+NetWeight,0.85Kg(1.87lb)
+
+
+날짜,제목,유형
+2022-01-06,TC-C35MP Spec-I5W-A-E-Y-M-H-2.7-13.5mm-V4.0,pdf

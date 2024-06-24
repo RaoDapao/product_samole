@@ -1,0 +1,19 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=109&ncid=111&deid=171
+产品结构：root->Huahuan_Products_WirelessTransportation/Radio_H9MO-LMP30CompactPCMMux
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Compact PCM Mux|H9MO-LMP30|是一款小型光传输接入一体化设备，复用单元采用 SDH/MSTP 技术，具有 2 个 STM-1 光口。有 4/8 个 E1 端口、4 个 100Base-Tx 以太网端口和 30 个 PCM 语音端口。支持多种业务 ADM/TM 设备，适用于组成环、链状网络，支持 SNCP 保护切换；标准 STM-1 光接口，波长和功率、光接口类型可选；支持多种用户接口类型，包括 E1/以太网和语音端口；四个以太网端口符合 IEEE 802.3 标准，支持自动协商、10/100M 全双工/半双工强制模式，支持 AUTO-MDIX；4 个 E1 端口符合 ITU-T G-703，内置误码测试仪和环回测试功能；支持 30 路 2W 语音端口（FXO/FXS/2100Hz 磁石），或 22 路 2W 电话+8 路 4W 音频+4 路 E&M 信令；支持激光自动关断 ALS 功能；丰富的告警指示，包括交流电源丢失指示告警；支持路径保护切换报告功能；19 英寸 1U 标准机箱；宽范围 DC-48V 和 AC 220V 双模式电源；支持底层程序和 FPGA 程序在线升级和一级版本回退；可与 SDH 设备配合使用，实现网管。|
+
+Item,Description
+STM-1 port,"2xSTM-1 port, SC/PC"
+E1 port,"4/8xE1 ports, BNC/RJ48C/CC4 connector"
+Ethernet port,"4 FE ports, RJ45 connector, 10Base-TX / 100Base-TX, Auto-negotiation"
+NMS port,"10Base-T/100Base-T , auto-negotiation"
+Low speed port,"Supply up to 30 channel voice, including FXO, FXS, Hotline, Magneto, 2/4W+E&M, RS232/422/485"
+Power,"AC: 1U device: 100~240 V, 50/60Hz  2U device: 90~264 V, 50/60Hz"
+Power,DC: 1U device: -48V (-72V~-36V)  2U device: -48 V (-72V~-36V)
+Consumption,£  50 W
+Working temperature,-10 ~ 55°C
+Humidity,0-90%RH ((Non-condensing)
+Mechanical size,1U device: 45mm x 290mm x 440mm  2U device: 90mm x 290mm x 440mm

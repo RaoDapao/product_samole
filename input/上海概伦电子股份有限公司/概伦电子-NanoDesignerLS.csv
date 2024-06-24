@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/products/analog_design_eda/NanoDesigner-LS.html
+产品结构：root->概伦电子-NanoDesignerLS
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|NanoDesigner 版图编辑器|NDLS|为用户提供高自由度和高扩展性的设计环境，高效完成图形编辑和智能辅助。支持 GDS 100GB、1000 万级 net 规模数据，解除单元数、层数限制；实现业界领先的高性能显示、编辑、数据转换等；集成多边形输入/rule 驱动/net 驱动/约束限制编辑/层次化设计/push-aside 功能；通过自动电位识别和 Net 追踪进行规则驱动编辑；通过 Net-Driven 方式完成从电路图到版图的无缝转化，实现 schematic/netlist 到版图 SDL 设计；强大的 crossprobe 功能支持电路与版图交互式布局与连线；支持分析、学习、自动编辑调用等常用功能；支持 Python 与 C++脚本的高效开发|

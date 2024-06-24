@@ -1,0 +1,56 @@
+-> root http://www.sczxrd.cn
+  -> 工业类_产品中心_无机磷酸盐-农化水溶肥 http://www.sczxrd.cn/product/6
+    -> 磷酸二氢钾 
+    -> 磷酸氢二钾 
+    -> 磷酸三钾 
+    -> 焦磷酸钾 
+    -> 三聚磷酸钾 
+    -> 酸式磷酸钾 
+    -> 硝酸钾 
+    -> 磷酸二氢钠 
+    -> 磷酸二氢铵 
+    -> 磷酸氢二钠 
+    -> 磷酸三钠 
+    -> 三聚磷酸钠 
+  -> 农化类_产品中心_无机磷酸盐-农化水溶肥 http://www.sczxrd.cn/product/7
+    -> 磷酸氢二铵 
+    -> 大量元素水溶肥配方肥 
+    -> 磷酸脲 
+  -> 磷酸二氢钾_无机磷酸盐-农化水溶肥-磷矿 http://www.sczxrd.cn/product/48.html
+  -> 磷酸氢二钾_无机磷酸盐-农化水溶肥-磷矿 http://www.sczxrd.cn/product/25.html
+  -> 磷酸三钾_无机磷酸盐-农化水溶肥-磷矿资 http://www.sczxrd.cn/product/13.html
+  -> 焦磷酸钾_无机磷酸盐-农化水溶肥-磷矿资 http://www.sczxrd.cn/product/21.html
+  -> 磷酸二氢钾_无机磷酸盐-农化水溶肥-磷矿_1 http://www.sczxrd.cn/product/23.html
+  -> 产品中心_产品中心_无机磷酸盐-农化水溶 http://www.sczxrd.cn/product/5
+  -> 三聚磷酸钾_无机磷酸盐-农化水溶肥-磷矿 http://www.sczxrd.cn/product/27.html
+  -> 酸式磷酸钾_无机磷酸盐-农化水溶肥-磷矿 http://www.sczxrd.cn/product/28.html
+  -> 硝酸钾_无机磷酸盐-农化水溶肥-磷矿资源 http://www.sczxrd.cn/product/29.html
+  -> 磷酸二氢钠_无机磷酸盐-农化水溶肥-磷矿 http://www.sczxrd.cn/product/9.html
+  -> 磷酸二氢铵_无机磷酸盐-农化水溶肥-磷矿 http://www.sczxrd.cn/product/22.html
+  -> 磷酸氢二钠_无机磷酸盐-农化水溶肥-磷矿 http://www.sczxrd.cn/product/52.html
+  -> 磷酸三钠_无机磷酸盐-农化水溶肥-磷矿资 http://www.sczxrd.cn/product/14.html
+  -> 三聚磷酸钠_无机磷酸盐-农化水溶肥-磷矿 http://www.sczxrd.cn/product/17.html
+  -> 磷酸氢二铵_无机磷酸盐-农化水溶肥-磷矿 http://www.sczxrd.cn/product/24.html
+  -> 大量元素水溶肥配方肥_无机磷酸盐-农化水 http://www.sczxrd.cn/product/30.html
+  -> 磷酸脲_无机磷酸盐-农化水溶肥-磷矿资源 http://www.sczxrd.cn/product/50.html
+  -> IndustrialClass_Prod http://en.sczxrd.cn/product/6
+    -> Dipotassium hydrogen phosphate 
+    -> Tripotassium Phosphate Anhydrous 
+    -> Tetra Potassium Pyrophosphate 
+    -> Potassium tripolyphosphate 
+    -> Acidic Potassium Phosphate 
+    -> potassium nitrate 
+    -> Monosodium Phosphate 
+    -> Monoammonium Phosphate 
+    -> Disodium Phosphate 
+    -> Trisodium phosphate 
+    -> Sodium tripolyphosphate 
+    -> Sodium hexametaphosphate 
+  -> AgrochemicalType_Pro http://en.sczxrd.cn/product/7
+    -> Monopotassium Phosphate 
+    -> Diammonium hydrogen phosphate 
+    -> Urea phosphate 
+    -> A large number of elemental water-soluble fertilizer formula fertilizer 
+  -> 六偏磷酸钠_无机磷酸盐-农化水溶肥-磷矿 http://www.sczxrd.cn/product/15.html
+  -> 磷酸氢二铵_无机磷酸盐-农化水溶肥-磷矿_1 http://www.sczxrd.cn/product/51.html
+  -> 聚磷酸铵_无机磷酸盐-农化水溶肥-磷矿资 http://www.sczxrd.cn/product/47.html

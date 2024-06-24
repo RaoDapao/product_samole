@@ -1,0 +1,14 @@
+产品网址：https://www.njsme.com/?aPRODUCTSPRODUCTSC200V/83.html
+产品结构：root->AutomotiveModules-HalfBridge-1200SiC-HalfBridge-南京银茂微电子制造有限公司-
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Automotive Modules-Half Bridge|1200SiC|无|
+
+VDSS=1200V,VDSS=1200V.1,VDSS=1200V.2,VDSS=1200V.3,VDSS=1200V.4,VDSS=1200V.5
+Part Number,Voltage(V),Current(A),RDS(on)@25℃,Comments,Links
+MSC120HF120T2LS,1200,120,13mΩ,With SiC FRD,
+MSC160HF120T2LS,1200,160,10mΩ,With SiC FRD,
+MSC240HF120T2LS,1200,240,6mΩ,With SiC FRD,
+MSC300HF120T2LS,1200,300,5mΩ,With SiC FRD,
+,,,,,

@@ -1,0 +1,15 @@
+产品网址：https://zbitsemi.com/info.php?class_id=102102102
+产品结构：网站首页->产品中心->MCU微控制器->ARMCortex-M3-
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|MCU 微控制器|ARM Cotex-M0+、ARM Cortex -M3、ZB32 系列 32-Bit MCU|无|
+
+型号,主频  MHz,Flash,SRAM,DMA,I/O,定时器,定时器.1,定时器.2,定时器.3,定时器.4,定时器.5,定时器.6,定时器.7,通讯,通讯.1,通讯.2,通讯.3,通讯.4,通讯.5,通讯.6,通讯.7,模拟,模拟.1,模拟.2,模拟.3,模拟.4,CRC,TRNG,AES,内部温度  传感器,USB  2.0,CAN,SDIO,封装
+型号,主频  MHz,Flash,SRAM,DMA,I/O,Ad  Timer,G  Timer,B  Timer,LP  Timer,AWK  Timer,PCA,RTC,I+W  WDG,UART,USART,LP  UART,IIC,IIS,SPI,QSPI,One  WIRE,12bit  ADC,LVD,VC,OPA,DAC,CRC,TRNG,AES,内部温度  传感器,USB  2.0,CAN,SDIO,封装
+*  ZB32L103  CB  x  6,72,128  K,32K,16ch,39,3,4,2,1,1,1,1,2,2,3,1,2,2,3,1,1,10,1,2,2,1,1,1,1,1,1,1,1,LQFP  48  QFN  48
+*ZB32L103  RBT6,72,128  K,32K,16ch,51,3,4,2,1,1,1,1,2,2,3,1,2,2,3,1,1,16,1,2,2,1,1,1,1,1,1,1,1,LQFP64
+*ZB32F103  CCT6,96,256  K,64  K,16ch,39,3,4,2,1,1,1,1,2,2,3,1,2,2,3,1,1,10,1,2,2,1,1,1,1,1,1,1,1,LQFP48
+*ZB32F103  RCT6,96,256  K,64  K,16ch,51,3,4,2,1,1,1,1,2,2,3,1,2,2,3,1,1,16,1,2,2,1,1,1,1,1,1,1,1,LQFP64
+*ZB32F103  VCT6,96,256  K,64  K,16ch,82,3,4,2,1,1,1,1,2,2,3,1,2,2,3,1,1,16,1,2,2,1,1,1,1,1,1,1,1,LQFP100
+*  ：开发中  x  ：T为LQFP封装，Q为QFN封装,*  ：开发中  x  ：T为LQFP封装，Q为QFN封装,*  ：开发中  x  ：T为LQFP封装，Q为QFN封装,*  ：开发中  x  ：T为LQFP封装，Q为QFN封装,*  ：开发中  x  ：T为LQFP封装，Q为QFN封装,*  ：开发中  x  ：T为LQFP封装，Q为QFN封装,*  ：开发中  x  ：T为LQFP封装，Q为QFN封装,*  ：开发中  x  ：T为LQFP封装，Q为QFN封装,*  ：开发中  x  ：T为LQFP封装，Q为QFN封装,*  ：开发中  x  ：T为LQFP封装，Q为QFN封装,*  ：开发中  x  ：T为LQFP封装，Q为QFN封装,*  ：开发中  x  ：T为LQFP封装，Q为QFN封装,*  ：开发中  x  ：T为LQFP封装，Q为QFN封装,*  ：开发中  x  ：T为LQFP封装，Q为QFN封装,*  ：开发中  x  ：T为LQFP封装，Q为QFN封装,*  ：开发中  x  ：T为LQFP封装，Q为QFN封装,*  ：开发中  x  ：T为LQFP封装，Q为QFN封装,*  ：开发中  x  ：T为LQFP封装，Q为QFN封装,,,,,,,,,,,,,,,,,

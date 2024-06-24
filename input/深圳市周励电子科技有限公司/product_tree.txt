@@ -1,0 +1,26 @@
+-> root http://www.iczl.com
+  -> _16 http://www.iczl.com/product
+  -> _17 http://www.iczl.com/daili/Copy_1133/1133.html
+  -> _18 http://www.iczl.com/daili/Copy_1135/1135.html
+  -> _19 http://www.iczl.com/daili/Copy_1136/1136.html
+    -> 半导体功率器件 
+    -> 专用集成电路芯片 
+  -> _20 http://www.iczl.com/daili/Copy_1138/1138.html
+  -> _21 http://www.iczl.com/daili/Copy_119/Copy_1166/1166.html
+  -> ZLMshenzhenzhouliele http://en.iczl.com/product/jkdl
+    -> 电源管理产品 
+    -> 电压检测、复位 IC 
+  -> ZLMshenzhenzhouliele_1 http://en.iczl.com/product/%20dygl
+  -> ZLMshenzhenzhouliele_2 http://en.iczl.com/product/%20dnjldl
+  -> ZLMshenzhenzhouliele_3 http://en.iczl.com/product/%20ypfdq
+  -> ZLMshenzhenzhouliele_4 http://en.iczl.com/product/%20ledqd
+  -> _22 http://www.iczl.com/product/1625.html
+  -> _23 http://www.iczl.com/product/1631.html
+  -> _24 http://www.iczl.com/product/1630.html
+  -> _25 http://www.iczl.com/product/1627.html
+  -> _26 http://www.iczl.com/product/1628.html
+  -> _27 http://www.iczl.com/product/1629.html
+  -> Supervisoryreset-ZLM http://en.iczl.com/product/jkdl/jkfw
+  -> Supervisoryreset-ZLM_1 http://en.iczl.com/product/jkdl/jkfw/?k=MonitoringVoltage&v=1
+  -> Supervisoryreset-ZLM_2 http://en.iczl.com/product/jkdl/jkfw/?k=Replacement&v=11
+  -> Supervisoryreset-ZLM_3 http://en.iczl.com/product/jkdl/jkfw/Copy_36/?k=OutputMode&v=1

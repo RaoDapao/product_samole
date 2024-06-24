@@ -1,0 +1,21 @@
+产品网址：http://www.hpmicro.com/product/series.html?id=0710b474-83e2-47b9-8631-784fa60a49bb
+产品结构：root->先楫半导体
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|微控制器|HPM6800 系列|高性能图像显示 MCU，配备 2.5D OpenVG GPU，MIPI、LVDS 双屏显示接口及双摄接口，RISC-V CPU 支持双精度浮点运算及强大的 DSP 扩展，主频超过 600 MHz，性能超过 3390 CoreMarkTM 和 1710 DMIPS。增强图像系统包括 2.5D OpenVG 1.1 GPU、2 个 4 Lane MIPI-DSI/LVDS-Tx 显示接口、2 个 2 Lane MIPI-CSI/LVDS-Rx 摄像头接口、LCD 控制器支持多图层 Alpha-blending、1920×1080 分辨率显示屏刷新率可达 60fps、集成 JPEG 编解码器可实现快速 JPEG 编码和解码，减轻处理器负荷。外扩存储包括 DDR 控制器，支持 DDR2-800、DDR3-1333，DDR3L-1333。音频包括 4 个 8 通道全双工 I2S 和 1 个数字音频输出、多路语音和数字麦克风接口。丰富外设包括多种通讯接口、1 个 2MSPS 16 位高精度 ADC，配置为 12 位精度时转换率可达 4MSPS。|
+
+
+
+
+HPM6880IBD（2.5D OpenVG GPU）,单核 32 位 RISC-V 处理器,1064,4,千兆,CAN FD,USB HS w/ PHY ×1,"AES128/256, SHA-1/256",1×16位,17×17 417BGA P0.8,−40 ∼ 105
+HPM6850IBD（2.5D OpenVG GPU）,单核 32 位 RISC-V 处理器,1064,4,千兆,CAN FD,USB HS w/ PHY ×1,"AES128/256, SHA-1/256",1×16位,17×17 417BGA P0.8,−40 ∼ 105
+HPM6830IBD,单核 32 位 RISC-V 处理器,1064,/,千兆,CAN FD,USB HS w/ PHY ×1,"AES128/256, SHA-1/256",1×16位,17×17 417BGA P0.8,−40 ∼ 105
+
+
+
+
+
+HPM6880IBD（2.5D OpenVG GPU）,单核 32 位 RISC-V 处理器,1064,4,千兆,CAN FD,USB HS w/ PHY ×1,"AES128/256, SHA-1/256",1×16位,17×17 417BGA P0.8,−40 ∼ 105
+HPM6850IBD（2.5D OpenVG GPU）,单核 32 位 RISC-V 处理器,1064,4,千兆,CAN FD,USB HS w/ PHY ×1,"AES128/256, SHA-1/256",1×16位,17×17 417BGA P0.8,−40 ∼ 105
+HPM6830IBD,单核 32 位 RISC-V 处理器,1064,/,千兆,CAN FD,USB HS w/ PHY ×1,"AES128/256, SHA-1/256",1×16位,17×17 417BGA P0.8,−40 ∼ 105

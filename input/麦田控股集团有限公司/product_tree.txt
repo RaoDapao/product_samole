@@ -1,0 +1,20 @@
+-> root https://www.maitianiot.com
+  -> 麦田控股_让连接更自由！ https://www.maitianiot.com/html/products/index.htm
+    -> 全液晶仪表 
+    -> 智能表 
+    -> CSD 显示总成 
+    -> 后排座椅显示屏 
+  -> 产品展示-全液晶仪表 https://www.maitianiot.com/html/products/yaobi/index.htm
+  -> 产品展示- https://www.maitianiot.com/html/products/kuxuan/index.htm
+  -> 产品展示-麦田控股！ https://www.maitianiot.com/html/products/zhihui/index.htm
+  -> 产品展示-全液晶显示！ https://www.maitianiot.com/html/products/jingdian/index.htm
+  -> 智慧成长椅ZH-ZP系列_又一个创客云演 https://www.maitianiot.com/html/products/zhihui/13.html
+  -> 酷炫学习桌KX-PY系列_又一个创客云演 https://www.maitianiot.com/html/products/kuxuan/10.html
+  -> 经典学习桌JD-PY系列_又一个创客云演 https://www.maitianiot.com/html/products/jingdian/5.html
+  -> 学习桌TB-FHB系列_又一个创客云演示 https://www.maitianiot.com/html/products/yaobi/8.html
+  -> 智慧成长椅ZH-ZP系列_又一个创客云演_1 https://www.maitianiot.com/html/products/zhihui/12.html
+  -> 酷炫学习桌KX-PY系列_又一个创客云演_1 https://www.maitianiot.com/html/products/kuxuan/9.html
+  -> 经典学习桌JD-FHB系列_又一个创客云 https://www.maitianiot.com/html/products/jingdian/4.html
+  -> 同步学习桌TB-PY系列_又一个创客云演 https://www.maitianiot.com/html/products/yaobi/7.html
+  -> 经典学习桌JD-FHB系列_又一个创客云_1 https://www.maitianiot.com/html/products/jingdian/3.html
+  -> 摇臂学习桌YB-FHB系列_又一个创客云 https://www.maitianiot.com/html/products/yaobi/6.html

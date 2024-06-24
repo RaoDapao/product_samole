@@ -1,0 +1,399 @@
+-> root https://www.eta-semi.com
+  -> 首页 
+    -> 产品中心 https://www.eta-semi.com/%e4%ba%a7%e5%93%81%e4%b8%ad%e5%bf%83
+      -> 电源管理单元(PMIC) 
+      -> 升压（Boost）稳压器 
+      -> 直流转换控制器（MOS 外置） 
+      -> 降压-升压（Buck-Boost）转换器 
+      -> 降压（Buck）稳压器 
+      -> 次级同步整流芯片 
+      -> 氮化镓驱动器 
+      -> 外置功率管 PD 专用 PWM 芯片 
+      -> 外置功率管通用 PWM 芯片 
+      -> 内置功率管 PWM 芯片 
+      -> 线性型 LED 驱动 
+      -> 降压型 LED 驱动 
+      -> 升压型 LED 驱动 
+      -> 低压差线性稳压器 
+      -> 负载开关 
+      -> 限流开关 
+      -> 过压保护 
+      -> 电子烟咪头系列 
+      -> 电量计 
+      -> 协议芯片 
+      -> 电平转换 
+      -> 无线充电 
+      -> 电池均衡 
+      -> 电荷泵充电 
+      -> 开关充电 
+      -> 线性充电 
+      -> 电源模块 
+      -> 数字音频功放 
+      -> 模拟音频功放 
+      -> 马达驱动 
+    -> DC-DC功率转换器 https://www.eta-semi.com/product-cat/dc-dc%e5%8a%9f%e7%8e%87%e8%bd%ac%e6%8d%a2%e5%99%a8
+      -> 降压（Buck）稳压器 https://www.eta-semi.com/product-cat/dc-dc%e5%8a%9f%e7%8e%87%e8%bd%ac%e6%8d%a2%e5%99%a8/%e9%99%8d%e5%8e%8b%ef%bc%88buck%ef%bc%89%e7%a8%b3%e5%8e%8b%e5%99%a8
+      -> 升压（Boost）稳压器 https://www.eta-semi.com/product-cat/dc-dc%e5%8a%9f%e7%8e%87%e8%bd%ac%e6%8d%a2%e5%99%a8/%e5%8d%87%e5%8e%8b%ef%bc%88boost%ef%bc%89%e7%a8%b3%e5%8e%8b%e5%99%a8
+      -> 降压-升压（Buck-Boost）转换器 https://www.eta-semi.com/product-cat/dc-dc%e5%8a%9f%e7%8e%87%e8%bd%ac%e6%8d%a2%e5%99%a8/%e9%99%8d%e5%8e%8b-%e5%8d%87%e5%8e%8b%ef%bc%88-buck-boost-%ef%bc%89%e8%bd%ac%e6%8d%a2%e5%99%a8
+      -> 直流转换控制器（MOS外置） https://www.eta-semi.com/product-cat/dc-dc%e5%8a%9f%e7%8e%87%e8%bd%ac%e6%8d%a2%e5%99%a8/%e7%9b%b4%e6%b5%81%e8%bd%ac%e6%8d%a2%e6%8e%a7%e5%88%b6%e5%99%a8%ef%bc%88mos-%e5%a4%96%e7%bd%ae%ef%bc%89
+      -> ETA1033 https://www.eta-semi.com/product/315.html
+      -> ETA1032 https://www.eta-semi.com/product/221.html
+    -> AC-DC功率转换器 https://www.eta-semi.com/product-cat/ac-dc-%e5%8a%9f%e7%8e%87%e8%bd%ac%e6%8d%a2%e5%99%a8
+      -> 内置功率管PWM芯片 https://www.eta-semi.com/product-cat/ac-dc-%e5%8a%9f%e7%8e%87%e8%bd%ac%e6%8d%a2%e5%99%a8/%e5%86%85%e7%bd%ae%e5%8a%9f%e7%8e%87%e7%ae%a1-pwm-%e8%8a%af%e7%89%87
+      -> 外置功率管通用PWM芯片 https://www.eta-semi.com/product-cat/ac-dc-%e5%8a%9f%e7%8e%87%e8%bd%ac%e6%8d%a2%e5%99%a8/%e5%a4%96%e7%bd%ae%e5%8a%9f%e7%8e%87%e7%ae%a1%e9%80%9a%e7%94%a8-pwm-%e8%8a%af%e7%89%87
+      -> 外置功率管PD专用PWM芯片 https://www.eta-semi.com/product-cat/ac-dc-%e5%8a%9f%e7%8e%87%e8%bd%ac%e6%8d%a2%e5%99%a8/%e5%a4%96%e7%bd%ae%e5%8a%9f%e7%8e%87%e7%ae%a1-pd-%e4%b8%93%e7%94%a8-pwm-%e8%8a%af%e7%89%87
+      -> 次级同步整流芯片 https://www.eta-semi.com/product-cat/ac-dc-%e5%8a%9f%e7%8e%87%e8%bd%ac%e6%8d%a2%e5%99%a8/%e6%ac%a1%e7%ba%a7%e5%90%8c%e6%ad%a5%e6%95%b4%e6%b5%81%e8%8a%af%e7%89%87
+      -> 氮化镓驱动器 https://www.eta-semi.com/product-cat/ac-dc-%e5%8a%9f%e7%8e%87%e8%bd%ac%e6%8d%a2%e5%99%a8/%e6%b0%ae%e5%8c%96%e9%95%93%e9%a9%b1%e5%8a%a8%e5%99%a8
+    -> LED驱动 https://www.eta-semi.com/product-cat/led-%e9%a9%b1%e5%8a%a8
+      -> 升压型 https://www.eta-semi.com/product-cat/led-%e9%a9%b1%e5%8a%a8/%e5%8d%87%e5%8e%8b%e5%9e%8b
+      -> 降压型 https://www.eta-semi.com/product-cat/led-%e9%a9%b1%e5%8a%a8/%e9%99%8d%e5%8e%8b%e5%9e%8b
+      -> 线性型 https://www.eta-semi.com/product-cat/led-%e9%a9%b1%e5%8a%a8/%e7%ba%bf%e6%80%a7%e5%9e%8b
+      -> ETA1611 https://www.eta-semi.com/product/2037.html
+      -> ETA3300 https://www.eta-semi.com/product/1253.html
+      -> ETA1638 https://www.eta-semi.com/product/1251.html
+      -> ETA1637 https://www.eta-semi.com/product/1250.html
+      -> ETA1627 https://www.eta-semi.com/product/1249.html
+      -> ETA1617 https://www.eta-semi.com/product/1248.html
+      -> ETA1168 https://www.eta-semi.com/product/1246.html
+      -> ETA1165 https://www.eta-semi.com/product/1245.html
+      -> ETA3421 https://www.eta-semi.com/product/1254.html
+      -> ETA2840 https://www.eta-semi.com/product/1252.html
+      -> ETA6012 https://www.eta-semi.com/product/1256.html
+      -> ETA6011 https://www.eta-semi.com/product/1255.html
+    -> 电池管理 https://www.eta-semi.com/product-cat/%e7%94%b5%e6%b1%a0%e7%ae%a1%e7%90%86
+      -> 开关充电 https://www.eta-semi.com/product-cat/%e7%94%b5%e6%b1%a0%e7%ae%a1%e7%90%86/%e5%bc%80%e5%85%b3%e5%85%85%e7%94%b5
+      -> 线性充电 https://www.eta-semi.com/product-cat/%e7%94%b5%e6%b1%a0%e7%ae%a1%e7%90%86/%e7%ba%bf%e6%80%a7%e5%85%85%e7%94%b5
+      -> 电荷泵充电 https://www.eta-semi.com/product-cat/%e7%94%b5%e6%b1%a0%e7%ae%a1%e7%90%86/%e7%94%b5%e8%8d%b7%e6%b3%b5%e5%85%85%e7%94%b5
+      -> 电池均衡 https://www.eta-semi.com/product-cat/%e7%94%b5%e6%b1%a0%e7%ae%a1%e7%90%86/%e7%94%b5%e6%b1%a0%e5%9d%87%e8%a1%a1
+      -> 无线充电 https://www.eta-semi.com/product-cat/%e7%94%b5%e6%b1%a0%e7%ae%a1%e7%90%86/%e6%97%a0%e7%ba%bf%e5%85%85%e7%94%b5
+    -> PMIC 
+      -> 电源管理单元(PMIC) https://www.eta-semi.com/product-cat/pmic/%e7%94%b5%e6%ba%90%e7%ae%a1%e7%90%86%e5%8d%95%e5%85%83pmic
+      -> ETA9098 https://www.eta-semi.com/product/12203.html
+    -> 接口保护 https://www.eta-semi.com/product-cat/%e6%8e%a5%e5%8f%a3%e4%bf%9d%e6%8a%a4
+      -> 过压保护 https://www.eta-semi.com/product-cat/%e6%8e%a5%e5%8f%a3%e4%bf%9d%e6%8a%a4/%e8%bf%87%e5%8e%8b%e4%bf%9d%e6%8a%a4
+      -> 限流开关 https://www.eta-semi.com/product-cat/%e6%8e%a5%e5%8f%a3%e4%bf%9d%e6%8a%a4/%e9%99%90%e6%b5%81%e5%bc%80%e5%85%b3
+      -> 负载开关 https://www.eta-semi.com/product-cat/%e6%8e%a5%e5%8f%a3%e4%bf%9d%e6%8a%a4/%e8%b4%9f%e8%bd%bd%e5%bc%80%e5%85%b3
+    -> 低压差线性稳压器 https://www.eta-semi.com/product-cat/%e4%bd%8e%e5%8e%8b%e5%b7%ae%e7%ba%bf%e6%80%a7%e7%a8%b3%e5%8e%8b%e5%99%a8
+      -> 低压差线性稳压器 https://www.eta-semi.com/product-cat/%e4%bd%8e%e5%8e%8b%e5%b7%ae%e7%ba%bf%e6%80%a7%e7%a8%b3%e5%8e%8b%e5%99%a8/%e4%bd%8e%e5%8e%8b%e5%b7%ae%e7%ba%bf%e6%80%a7%e7%a8%b3%e5%8e%8b%e5%99%a8-%e4%bd%8e%e5%8e%8b%e5%b7%ae%e7%ba%bf%e6%80%a7%e7%a8%b3%e5%8e%8b%e5%99%a8
+      -> ETA9297 https://www.eta-semi.com/product/1231.html
+      -> ETA5254 https://www.eta-semi.com/product/1230.html
+      -> ETA5198 https://www.eta-semi.com/product/1229.html
+      -> ETA5197 https://www.eta-semi.com/product/1228.html
+      -> ETA5196 https://www.eta-semi.com/product/1227.html
+      -> ETA5122 https://www.eta-semi.com/product/1226.html
+      -> ETA5120 https://www.eta-semi.com/product/1222.html
+      -> ETA5098 https://www.eta-semi.com/product/1221.html
+      -> ETA5097 https://www.eta-semi.com/product/1220.html
+      -> ETA5096 https://www.eta-semi.com/product/1219.html
+      -> ETA5095 https://www.eta-semi.com/product/1218.html
+      -> ETA5094 https://www.eta-semi.com/product/1216.html
+      -> ETA5071 https://www.eta-semi.com/product/1215.html
+      -> ETA5070 https://www.eta-semi.com/product/1214.html
+      -> ETA5060 https://www.eta-semi.com/product/1213.html
+      -> ETA5057 https://www.eta-semi.com/product/1212.html
+      -> ETA5055 https://www.eta-semi.com/product/1211.html
+      -> ETA5053 https://www.eta-semi.com/product/1210.html
+      -> ETA5052 https://www.eta-semi.com/product/1209.html
+      -> ETA5051 https://www.eta-semi.com/product/1208.html
+      -> ETA5050 https://www.eta-semi.com/product/1207.html
+      -> ETA5043 https://www.eta-semi.com/product/1206.html
+      -> ETA5041 https://www.eta-semi.com/product/1205.html
+      -> ETA5040 https://www.eta-semi.com/product/1204.html
+      -> ETA5030 https://www.eta-semi.com/product/1203.html
+    -> 音频功放 https://www.eta-semi.com/product-cat/%e9%9f%b3%e9%a2%91%e5%8a%9f%e6%94%be
+      -> 数字音频功放 https://www.eta-semi.com/product-cat/%e9%9f%b3%e9%a2%91%e5%8a%9f%e6%94%be/%e6%95%b0%e5%ad%97%e9%9f%b3%e9%a2%91%e5%8a%9f%e6%94%be
+      -> 模拟音频功放 https://www.eta-semi.com/product-cat/%e9%9f%b3%e9%a2%91%e5%8a%9f%e6%94%be/%e6%a8%a1%e6%8b%9f%e9%9f%b3%e9%a2%91%e5%8a%9f%e6%94%be
+    -> 马达驱动 https://www.eta-semi.com/product-cat/%e9%a9%ac%e8%be%be%e9%a9%b1%e5%8a%a8
+      -> 马达驱动 https://www.eta-semi.com/product-cat/%e9%a9%ac%e8%be%be%e9%a9%b1%e5%8a%a8/%e9%a9%ac%e8%be%be%e9%a9%b1%e5%8a%a8-%e9%a9%ac%e8%be%be%e9%a9%b1%e5%8a%a8
+    -> 电平转换 https://www.eta-semi.com/product-cat/%e7%94%b5%e5%b9%b3%e8%bd%ac%e6%8d%a2
+      -> 电平转换 https://www.eta-semi.com/product-cat/%e7%94%b5%e5%b9%b3%e8%bd%ac%e6%8d%a2/%e7%94%b5%e5%b9%b3%e8%bd%ac%e6%8d%a2-%e7%94%b5%e5%b9%b3%e8%bd%ac%e6%8d%a2
+    -> 电源模块 https://www.eta-semi.com/product-cat/%e7%94%b5%e6%ba%90%e6%a8%a1%e5%9d%97
+      -> 电源模块 https://www.eta-semi.com/product-cat/%e7%94%b5%e6%ba%90%e6%a8%a1%e5%9d%97/%e7%94%b5%e6%ba%90%e6%a8%a1%e5%9d%97-%e7%94%b5%e6%ba%90%e6%a8%a1%e5%9d%97
+      -> EM3707 https://www.eta-semi.com/product/12431.html
+    -> 数模混合SoC https://www.eta-semi.com/product-cat/%e6%95%b0%e6%a8%a1%e6%b7%b7%e5%90%88-soc
+      -> 协议芯片 https://www.eta-semi.com/product-cat/%e6%95%b0%e6%a8%a1%e6%b7%b7%e5%90%88-soc/%e5%8d%8f%e8%ae%ae%e8%8a%af%e7%89%87
+      -> 电量计 https://www.eta-semi.com/product-cat/%e6%95%b0%e6%a8%a1%e6%b7%b7%e5%90%88-soc/%e7%94%b5%e9%87%8f%e8%ae%a1
+      -> 电子烟咪头系列 https://www.eta-semi.com/product-cat/%e6%95%b0%e6%a8%a1%e6%b7%b7%e5%90%88-soc/%e7%94%b5%e5%ad%90%e7%83%9f%e5%92%aa%e5%a4%b4%e7%b3%bb%e5%88%97
+    -> 公司新闻 https://www.eta-semi.com/13593.html
+      -> ACDC 初级 PWM 控制器 
+      -> 次级同步整流器 
+      -> 初级 QR/CCM PWM 控制器 
+      -> 高频 QR PWM 控制器 
+      -> 合封氮化镓产品 
+      -> 同步整流芯片 
+      -> 35W 双 C 口 PD 快充产品方案 
+      -> 65W 2C1A 三口 PD 快充方案 
+    -> 限流开关 
+      -> ETA6281 https://www.eta-semi.com/product/1269.html
+      -> ETA6280 https://www.eta-semi.com/product/1268.html
+      -> ETA6033 https://www.eta-semi.com/product/1267.html
+      -> ETA6030 https://www.eta-semi.com/product/1266.html
+      -> ETA6027 https://www.eta-semi.com/product/1265.html
+      -> ETA6024 https://www.eta-semi.com/product/1264.html
+      -> ETA6023 https://www.eta-semi.com/product/1263.html
+      -> ETA6021 https://www.eta-semi.com/product/1261.html
+      -> ETA6020 https://www.eta-semi.com/product/1260.html
+      -> ETA6011_1 https://www.eta-semi.com/product/1259.html
+      -> ETA6010 https://www.eta-semi.com/product/1257.html
+    -> 降压（Buck）稳压器 
+      -> ETA2237 https://www.eta-semi.com/product/1368.html
+      -> ETA1753 https://www.eta-semi.com/product/1363.html
+      -> ETA9351 https://www.eta-semi.com/product/1122.html
+      -> ETA9338 https://www.eta-semi.com/product/1121.html
+      -> ETA8322 https://www.eta-semi.com/product/1120.html
+      -> ETA8291 https://www.eta-semi.com/product/1119.html
+      -> ETA8222 https://www.eta-semi.com/product/1118.html
+      -> ETA8220 https://www.eta-semi.com/product/1117.html
+      -> ETA8210 https://www.eta-semi.com/product/1116.html
+      -> ETA8156 https://www.eta-semi.com/product/1115.html
+      -> ETA8123 https://www.eta-semi.com/product/1114.html
+      -> ETA8121 https://www.eta-semi.com/product/1113.html
+      -> ETA8120 https://www.eta-semi.com/product/1112.html
+      -> ETA3707A https://www.eta-semi.com/product/1111.html
+      -> ETA8111 https://www.eta-semi.com/product/1110.html
+      -> ETA8113 https://www.eta-semi.com/product/1109.html
+      -> ETA8110 https://www.eta-semi.com/product/1108.html
+      -> ETA8103 https://www.eta-semi.com/product/1107.html
+      -> ETA8015 https://www.eta-semi.com/product/1106.html
+      -> ETA8010 https://www.eta-semi.com/product/1105.html
+      -> ETA3707 https://www.eta-semi.com/product/1104.html
+      -> ETA3655 https://www.eta-semi.com/product/1103.html
+      -> ETA3560 https://www.eta-semi.com/product/1102.html
+      -> ETA355E https://www.eta-semi.com/product/1101.html
+      -> ETA355D https://www.eta-semi.com/product/1100.html
+      -> ETA3555 https://www.eta-semi.com/product/1099.html
+      -> ETA3527 https://www.eta-semi.com/product/1098.html
+      -> ETA3526 https://www.eta-semi.com/product/1097.html
+      -> ETA3525 https://www.eta-semi.com/product/1096.html
+      -> ETA3521 https://www.eta-semi.com/product/1095.html
+      -> ETA3517 https://www.eta-semi.com/product/1093.html
+      -> ETA3515 https://www.eta-semi.com/product/1092.html
+      -> ETA3512 https://www.eta-semi.com/product/1091.html
+      -> ETA3499 https://www.eta-semi.com/product/1090.html
+      -> ETA3496 https://www.eta-semi.com/product/1089.html
+      -> ETA3486 https://www.eta-semi.com/product/1088.html
+      -> ETA3485 https://www.eta-semi.com/product/1087.html
+      -> ETA3458 https://www.eta-semi.com/product/1085.html
+      -> ETA3457 https://www.eta-semi.com/product/1084.html
+      -> ETA3456 https://www.eta-semi.com/product/1083.html
+      -> ETA3453 https://www.eta-semi.com/product/1082.html
+      -> ETA3451 https://www.eta-semi.com/product/1081.html
+      -> ETA3448 https://www.eta-semi.com/product/1080.html
+      -> ETA3446 https://www.eta-semi.com/product/1079.html
+      -> ETA3427 https://www.eta-semi.com/product/1078.html
+      -> ETA3426 https://www.eta-semi.com/product/1077.html
+      -> ETA3425 https://www.eta-semi.com/product/1076.html
+      -> ETA3424 https://www.eta-semi.com/product/1075.html
+      -> ETA3423 https://www.eta-semi.com/product/1074.html
+      -> ETA3418 https://www.eta-semi.com/product/1073.html
+      -> ETA3417 https://www.eta-semi.com/product/1072.html
+      -> ETA3416 https://www.eta-semi.com/product/1071.html
+      -> ETA3415 https://www.eta-semi.com/product/1070.html
+      -> ETA3414 https://www.eta-semi.com/product/1069.html
+      -> ETA3413 https://www.eta-semi.com/product/1068.html
+      -> ETA3411 https://www.eta-semi.com/product/1066.html
+      -> ETA3410 https://www.eta-semi.com/product/1065.html
+      -> ETA3409 https://www.eta-semi.com/product/1064.html
+      -> ETA3408 https://www.eta-semi.com/product/1063.html
+      -> ETA3406 https://www.eta-semi.com/product/1062.html
+      -> ETA2894 https://www.eta-semi.com/product/1061.html
+      -> ETA2893 https://www.eta-semi.com/product/1060.html
+      -> ETA2892 https://www.eta-semi.com/product/1059.html
+      -> ETA2848 https://www.eta-semi.com/product/1058.html
+      -> ETA2847 https://www.eta-semi.com/product/1056.html
+      -> ETA2845 https://www.eta-semi.com/product/1055.html
+      -> ETA2843 https://www.eta-semi.com/product/1054.html
+      -> ETA2842 https://www.eta-semi.com/product/1053.html
+      -> ETA2841 https://www.eta-semi.com/product/1052.html
+      -> ETA2838 https://www.eta-semi.com/product/1050.html
+      -> ETA2831 https://www.eta-semi.com/product/1049.html
+      -> ETA2823 https://www.eta-semi.com/product/1048.html
+      -> ETA2822 https://www.eta-semi.com/product/1047.html
+      -> ETA2821 https://www.eta-semi.com/product/1046.html
+      -> ETA2807 https://www.eta-semi.com/product/1044.html
+      -> ETA2236 https://www.eta-semi.com/product/1043.html
+      -> ETA1801 https://www.eta-semi.com/product/1041.html
+      -> ETA1667 https://www.eta-semi.com/product/1040.html
+      -> ETA1666 https://www.eta-semi.com/product/1039.html
+      -> ETA1665 https://www.eta-semi.com/product/1038.html
+      -> ETA1664 https://www.eta-semi.com/product/1037.html
+      -> ETA1663 https://www.eta-semi.com/product/1036.html
+      -> ETA1662 https://www.eta-semi.com/product/1035.html
+      -> ETA1661 https://www.eta-semi.com/product/1034.html
+      -> ETA1660 https://www.eta-semi.com/product/1033.html
+      -> ETA1659 https://www.eta-semi.com/product/1032.html
+      -> ETA1657 https://www.eta-semi.com/product/1031.html
+      -> ETA1656 https://www.eta-semi.com/product/1030.html
+      -> ETA1655 https://www.eta-semi.com/product/1029.html
+      -> ETA1654 https://www.eta-semi.com/product/1028.html
+      -> ETA1653 https://www.eta-semi.com/product/1027.html
+      -> ETA1652 https://www.eta-semi.com/product/1026.html
+      -> ETA1651 https://www.eta-semi.com/product/1025.html
+      -> ETA1650 https://www.eta-semi.com/product/1024.html
+      -> ETA1486 https://www.eta-semi.com/product/1022.html
+      -> ETA1485 https://www.eta-semi.com/product/1021.html
+      -> ETA1483 https://www.eta-semi.com/product/1020.html
+      -> ETA1477 https://www.eta-semi.com/product/1018.html
+      -> ETA1476 https://www.eta-semi.com/product/1017.html
+      -> ETA1471 https://www.eta-semi.com/product/1016.html
+      -> ETA1470 https://www.eta-semi.com/product/1015.html
+      -> ETA1469 https://www.eta-semi.com/product/1014.html
+      -> ETA1468 https://www.eta-semi.com/product/1013.html
+      -> ETA1467 https://www.eta-semi.com/product/1012.html
+      -> ETA1466 https://www.eta-semi.com/product/1011.html
+      -> ETA1459 https://www.eta-semi.com/product/1010.html
+    -> 负载开关 
+      -> ETA7017 https://www.eta-semi.com/product/1271.html
+      -> ETA7015 https://www.eta-semi.com/product/1270.html
+    -> 升压（Boost）稳压器 
+      -> ETA1638_1 https://www.eta-semi.com/product/1005.html
+      -> ETA1637_1 https://www.eta-semi.com/product/1003.html
+      -> ETA1627_1 https://www.eta-semi.com/product/1001.html
+      -> ETA1625 https://www.eta-semi.com/product/997.html
+      -> ETA1621 https://www.eta-semi.com/product/996.html
+      -> ETA1617_1 https://www.eta-semi.com/product/994.html
+      -> ETA1611_1 https://www.eta-semi.com/product/993.html
+      -> ETA1189 https://www.eta-semi.com/product/991.html
+      -> ETA1188 https://www.eta-semi.com/product/990.html
+      -> ETA1136 https://www.eta-semi.com/product/989.html
+      -> ETA1133 https://www.eta-semi.com/product/988.html
+      -> ETA1132 https://www.eta-semi.com/product/986.html
+      -> ETA1096 https://www.eta-semi.com/product/985.html
+      -> ETA1093 https://www.eta-semi.com/product/983.html
+      -> ETA1092 https://www.eta-semi.com/product/982.html
+      -> ETA1090 https://www.eta-semi.com/product/980.html
+      -> ETA1069 https://www.eta-semi.com/product/979.html
+      -> ETA1067 https://www.eta-semi.com/product/978.html
+      -> ETA1066 https://www.eta-semi.com/product/976.html
+      -> ETA1064 https://www.eta-semi.com/product/975.html
+      -> ETA1062 https://www.eta-semi.com/product/974.html
+      -> ETA1061 https://www.eta-semi.com/product/972.html
+      -> ETA1060 https://www.eta-semi.com/product/971.html
+      -> ETA1043 https://www.eta-semi.com/product/970.html
+      -> ETA1039 https://www.eta-semi.com/product/967.html
+      -> ETA1038 https://www.eta-semi.com/product/966.html
+      -> ETA1036 https://www.eta-semi.com/product/965.html
+      -> ETA1032_1 https://www.eta-semi.com/product/954.html
+    -> 内置功率管PWM芯片 
+      -> ETA8059 https://www.eta-semi.com/product/544.html
+      -> ETA8058 https://www.eta-semi.com/product/541.html
+      -> ETA8056 https://www.eta-semi.com/product/539.html
+      -> ETA8051 https://www.eta-semi.com/product/537.html
+    -> 开关充电 
+      -> ETA6964A https://www.eta-semi.com/product/931.html
+      -> ETA6965 https://www.eta-semi.com/product/930.html
+      -> ETA6964 https://www.eta-semi.com/product/929.html
+      -> ETA6963 https://www.eta-semi.com/product/928.html
+      -> ETA6954 https://www.eta-semi.com/product/927.html
+      -> ETA6953 https://www.eta-semi.com/product/926.html
+      -> ETA6937 https://www.eta-semi.com/product/925.html
+      -> ETA6911 https://www.eta-semi.com/product/924.html
+      -> ETA6298 https://www.eta-semi.com/product/923.html
+      -> ETA6198 https://www.eta-semi.com/product/921.html
+      -> ETA6196 https://www.eta-semi.com/product/920.html
+      -> ETA6195 https://www.eta-semi.com/product/919.html
+      -> ETA6102 https://www.eta-semi.com/product/918.html
+      -> ETA6098 https://www.eta-semi.com/product/917.html
+      -> ETA6097 https://www.eta-semi.com/product/916.html
+      -> ETA6096 https://www.eta-semi.com/product/915.html
+      -> ETA6095 https://www.eta-semi.com/product/914.html
+      -> ETA6094 https://www.eta-semi.com/product/913.html
+      -> ETA6071 https://www.eta-semi.com/product/912.html
+      -> ETA6017 https://www.eta-semi.com/product/910.html
+      -> ETA6005 https://www.eta-semi.com/product/909.html
+      -> ETA6003 https://www.eta-semi.com/product/908.html
+      -> ETA6002 https://www.eta-semi.com/product/907.html
+    -> 线性充电 
+      -> ETA4662 https://www.eta-semi.com/product/906.html
+      -> ETA4259 https://www.eta-semi.com/product/905.html
+      -> ETA4258 https://www.eta-semi.com/product/904.html
+      -> ETA4257 https://www.eta-semi.com/product/903.html
+      -> ETA42564 https://www.eta-semi.com/product/902.html
+      -> ETA4256 https://www.eta-semi.com/product/901.html
+      -> ETA4255 https://www.eta-semi.com/product/900.html
+      -> ETA4098 https://www.eta-semi.com/product/898.html
+      -> ETA4140 https://www.eta-semi.com/product/897.html
+      -> ETA4116 https://www.eta-semi.com/product/896.html
+      -> ETA4085 https://www.eta-semi.com/product/894.html
+      -> ETA4084 https://www.eta-semi.com/product/893.html
+      -> ETA4060 https://www.eta-semi.com/product/892.html
+      -> ETA40563 https://www.eta-semi.com/product/889.html
+      -> ETA40561 https://www.eta-semi.com/product/888.html
+      -> ETA4056 https://www.eta-semi.com/product/887.html
+      -> ETA40543 https://www.eta-semi.com/product/886.html
+      -> ETA4054 https://www.eta-semi.com/product/885.html
+      -> ETA4052 https://www.eta-semi.com/product/884.html
+      -> ETA4051 https://www.eta-semi.com/product/883.html
+      -> ETA4050 https://www.eta-semi.com/product/832.html
+      -> ETA4049 https://www.eta-semi.com/product/831.html
+      -> ETA4048 https://www.eta-semi.com/product/830.html
+      -> ETA4047 https://www.eta-semi.com/product/829.html
+      -> ETA4046 https://www.eta-semi.com/product/826.html
+      -> ETA4045 https://www.eta-semi.com/product/825.html
+      -> ETA4044 https://www.eta-semi.com/product/817.html
+      -> ETA4043 https://www.eta-semi.com/product/816.html
+      -> ETA4042 https://www.eta-semi.com/product/815.html
+      -> ETA4041 https://www.eta-semi.com/product/814.html
+      -> ETA4040 https://www.eta-semi.com/product/813.html
+      -> ETA4036 https://www.eta-semi.com/product/812.html
+      -> ETA4016 https://www.eta-semi.com/product/796.html
+    -> 电源管理单元(PMIC) 
+      -> ETA9897 https://www.eta-semi.com/product/964.html
+      -> ETA9797 https://www.eta-semi.com/product/963.html
+      -> ETA9698 https://www.eta-semi.com/product/962.html
+      -> ETA96973 https://www.eta-semi.com/product/961.html
+      -> ETA9695 https://www.eta-semi.com/product/959.html
+      -> ETA9185 https://www.eta-semi.com/product/958.html
+      -> ETA9184 https://www.eta-semi.com/product/957.html
+      -> ETA9085 https://www.eta-semi.com/product/956.html
+      -> ETA9084 https://www.eta-semi.com/product/955.html
+      -> ETA9882 https://www.eta-semi.com/product/953.html
+      -> ETA9881 https://www.eta-semi.com/product/952.html
+      -> ETA9880 https://www.eta-semi.com/product/951.html
+      -> ETA9742 https://www.eta-semi.com/product/950.html
+      -> ETA9741 https://www.eta-semi.com/product/949.html
+      -> ETA9740 https://www.eta-semi.com/product/948.html
+      -> ETA9720 https://www.eta-semi.com/product/947.html
+      -> ETA9697 https://www.eta-semi.com/product/946.html
+      -> ETA9640 https://www.eta-semi.com/product/945.html
+      -> ETA9638 https://www.eta-semi.com/product/944.html
+      -> ETA6986 https://www.eta-semi.com/product/943.html
+      -> ETA6983 https://www.eta-semi.com/product/942.html
+      -> ETA6982 https://www.eta-semi.com/product/941.html
+      -> ETA6980 https://www.eta-semi.com/product/940.html
+      -> ETA6887 https://www.eta-semi.com/product/939.html
+      -> ETA6886 https://www.eta-semi.com/product/938.html
+      -> ETA6884 https://www.eta-semi.com/product/937.html
+      -> ETA6850 https://www.eta-semi.com/product/936.html
+      -> ETA6193 https://www.eta-semi.com/product/935.html
+      -> ETA6093 https://www.eta-semi.com/product/934.html
+      -> ETA6185 https://www.eta-semi.com/product/933.html
+      -> ETA6085 https://www.eta-semi.com/product/932.html
+      -> ETA4058 https://www.eta-semi.com/product/890.html
+    -> 过压保护 
+      -> ETA7028 https://www.eta-semi.com/product/1244.html
+      -> ETA7024 https://www.eta-semi.com/product/1243.html
+      -> ETA7018 https://www.eta-semi.com/product/1242.html
+      -> ETA7016 https://www.eta-semi.com/product/1241.html
+      -> ETA7014 https://www.eta-semi.com/product/1240.html
+      -> ETA7011 https://www.eta-semi.com/product/1239.html
+      -> ETA7008 https://www.eta-semi.com/product/1238.html
+      -> ETA6123 https://www.eta-semi.com/product/1237.html
+      -> ETA6122 https://www.eta-semi.com/product/1236.html
+      -> ETA6121 https://www.eta-semi.com/product/1235.html
+      -> ETA4034 https://www.eta-semi.com/product/1234.html
+  -> Home 
+    -> 产品中心EN https://www.eta-semi.com/en/%e4%ba%a7%e5%93%81%e4%b8%ad%e5%bf%83en
+      -> DC-DC 功率转换器 
+      -> AC-DC 功率转换器 
+      -> 音频功放 
+      -> 电池管理 
+      -> 数模混合 SoC 
+      -> 接口保护 
+    -> AC-DC功率转换器EN https://www.eta-semi.com/en/product-cat/ac-dc-%e5%8a%9f%e7%8e%87%e8%bd%ac%e6%8d%a2%e5%99%a8en
+      -> 内置功率管PWM芯片EN https://www.eta-semi.com/en/product-cat/ac-dc-%e5%8a%9f%e7%8e%87%e8%bd%ac%e6%8d%a2%e5%99%a8en/%e5%86%85%e7%bd%ae%e5%8a%9f%e7%8e%87%e7%ae%a1-pwm-%e8%8a%af%e7%89%87en
+    -> 内置功率管PWM芯片EN 
+      -> ETA8051_1 https://www.eta-semi.com/en/product/538.html
+      -> ETA8059_1 https://www.eta-semi.com/en/product/545.html
+    -> DC-DC功率转换器EN 
+      -> 降压（Buck）稳压器EN https://www.eta-semi.com/en/product-cat/dc-dc/%e9%99%8d%e5%8e%8b%ef%bc%88buck%ef%bc%89%e7%a8%b3%e5%8e%8b%e5%99%a8en

@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/products/digital_design_eda/VeriSim.html
+产品结构：root->概伦电子-VeriSim
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|VeriSim|无|一款先进的逻辑仿真器，提供全面的数字设计验证解决方案，覆盖系统级、行为级、RTL 级和门级数字电路仿真验证的需求。配备高性能的仿真引擎和约束求解器，旨在提高编译时效率，并确保设计的正确性和稳定性。可适配众多主流硬件描述语言，包括 Verilog、VHDL、SystemVerilog、SystemC 等，以及它们的组合。支持行为级、RTL 级和带 SDF 后仿的门级数字电路门级 Verilog 和 VHDL 仿真。支持高阶的系统级 SystemVerilog 加 SystemC 混合仿真，通过无缝集成通用验证方法（UVM）为用户提供快速验证测试台的设置，使验证过程更加高效和可控。提供全面的功能性和代码覆盖率测试，可生成多种格式的仿真数据。输入文件可通过加密算法进行保护，确保客户 IP 得到充分的安全保护。集成 NanoSpice 系列的各种晶体管级电路仿真器，提供完整的混合信号验证解决方案。|

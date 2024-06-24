@@ -1,0 +1,6 @@
+产品网址：https://www.hoperf.cn/modules/rf_transceiver/RFM300LR.html
+产品结构：root->RFM300LR_ISM无线收发模块_433/868MHz无线收发模块_Sub-1GHz无线收发模块-RF射频、数字传感器产品专业设计生产商-深圳市华普微电子股份有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|ISM 无线收发模块|RFM300LR|基于高性能 CMOSTEK NextGenRFTM CMT2300 芯片，工作在 433/868MHz ISM 频段，低接收灵敏度（–123dBm）与+20dBm 输出功率相结合，确保扩展范围和改善链路性能，高邻道抑制比为-55dbc；高阻塞抑制比为-75dBc（@频率 868.5MHz，DR = 3 kbps，FDEV = 10 kHz；BW=100kHz，200kHz 信道间隔，同调制干扰，阻塞抑制@+-1MHz）。典型应用场景包括抄表、无线数据采集、汽车安全系统、家庭自动化和安全系统|

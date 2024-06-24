@@ -1,0 +1,110 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/498.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|全景 PTZ 摄像机|TC-H3169M|最高全景分辨率：5520×2400@25fps，细节分辨率：2560×1440@25fps；全景最低照度：0.0004lux，细节最低照度：0.001lux；支持全景：S+265/H.265/H.264/M-JPEG，细节：S+265/H.265/H.264/M-JPEG；内置 Micro SD 卡插槽，最大支持 512GB；支持全景：智能监控，细节：智能监控；支持全景：人/车分类，细节：人/车分类；工作温度：-40℃～70℃（IR 关闭），-40℃～40℃（IR 开启），0～95%；DC36V±25%；IP66|
+
+Camera,Unnamed: 1
+Image Sensor,"Panorama:1/1.8""CMOS Detail:1/1.8""CMOS"
+Min. Illumination,Panorama:0.0004lux Detail:0.001lux
+Shutter Time,1s~1/100000s
+Day&Night,IR-cut filter with auto switch (ICR)
+WDR,Panorama:DWDR Detail:120dB
+Lens,
+Focal Length,Panorama:2.8mm Detail:5.7mm～359mm
+Optical Zoom,Panorama:N/A Detail:63X
+Digital Zoom,Panorama:N/A Detail:16X
+Zoom Speed,Panorama:N/A Detail:<8s
+Aperture Range,Panorama:F1.0 Detail:F1.63~F4.94
+Field of View,Panorama:180°±10°(H) Detail:60°～1.5°(H); Panorama:90°±10°(V) Detail:35.5°～0.87°(V); Panorama:N/A Detail:67.5°～1.77°(D)
+Focus Control,Panorama: N/A Detail:Auto/Semi-auto/Manual
+Iris Control,Panorama:Fixed Detail:Auto
+Close Focus Distance,Panorama:200mm Detail:1000mm~3000mm
+DORI Distance,Panorama: Detect:63m Observe:25m Recognize:12m Identify:6m Detail: Detect:3800m Observe:1508m Recognize:760m Identify:380m
+Pan&Tilt,
+Pan Range,Panorama:N/A Detail:360°
+Tilt Range,Detail:-21°～90° (Default -13°～90°)
+Tilt Speed,Detail: Manual Speed:0.1°～120°/s Preset: 180°/s
+3D Position,Yes
+Preset,500
+Cruise,"16, up to 32 presets per cruise"
+Scan,8
+Pattern,"8, each with 600s memory or 1000 orders"
+Scheduled Task,Preset、Cruise、Scan、Pattern
+North Point,Yes
+Power-off Memory,Yes
+Preset Freezing,Yes
+Illuminator,
+IR LEDs,Panorama: N/A Detail:11
+IR Distance,Panorama: N/A Detail:300m
+Wavelength,Panorama: N/A Detail:850nm
+IR Irradiation Angle,Panorama:N/A Detail:Adjustable by Zoom
+White LEDs,Panorama:N/A Detail:2
+Whitelight Distance,Panorama:N/A Detail:30m
+Red and blue alarm flash,Yes
+Laser,Panorama:N/A Detail:6
+Laser Distance,Panorama:N/A Detail:500m
+Compression Standard,
+Video Compression,Panorama:S+265/H.265/H.264/M-JPEG Detail:S+265/H.265/H.264/M-JPEG
+Video Bit Rate,Panorama:32Kbps~16Mbps Detail:32Kbps~16Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D/AAC_LC
+Audio Sampling Rate,8KHz/32KHz/48KHz
+Image,
+Max. Resolution,Panorama:5520×2400@25fps Detail:2560×1440@25fps
+Main Stream,"Panorama: PAL:25fps(5520×2400, 4096×1800, 3840×1680, 2784×1200) NTSC:30fps(5520×2400, 4096×1800, 3840×1680, 2784×1200) Detail: PAL:25fps(2560×1440, 2304×1296, 1920×1080, 1280×720) NTSC:30fps(2560×1440, 2304×1296, 1920×1080, 1280×720)"
+Sub Stream,"Panorama: PAL:25fps(2048×896, 1280×560, 704×320) NTSC:30fps(2048×896, 1280×560, 704×320) Detail: PAL:25fps(704×576, 704×288, 352×288, 640×360) NTSC:30fp(704×480, 704×240, 352×240, 640×360)"
+Third Stream,"Panorama: PAL:25fps(1280×560) NTSC:30fps(1280×560) Detail: PAL:25fps(704×576, 704×288, 352×288, 640×480) NTSC:30fps(704×480, 704×240, 352×240, 640×480)"
+BLC,Yes
+HLC,Yes
+AGC,Yes
+White Balance,Yes
+ROI,"Panorama: 7 Fixed Areas for Both Main and Sub Stream Detail 7 rectangular 3D fixed focus areas, supporting 1 rectangular dynamic tracking ROI"
+EIS,Panorama:N/A Detail:Yes
+OSD,"5 regions(Each region can have a maximum of 127 characters,up to 5 lines); Panorama: 16*16/24*24/32*32/48*48/64*64/72*72/96*96/128*128/adaptable size Detail: 16*16/24*24/32*32/48*48/64*64/96*96/adaptable size; Vector/Lattice"
+Defog,Yes
+Flip,Panorama:Normal Detail:Normal/Inverted Flip
+Regional Exposure,Panorama:N/A Detail:Yes
+Regional Focus,Panorama:N/A Detail:Yes
+Demist,Yes
+Privacy Mask,Panorama:8 regions Detail:24 regions
+Feature,
+Alarm Trigger,"Panorama:Motion Detection Detail:Motion Detection; Panorama:N/A Detail:Mask Alarm; Disk Full; Disk R/W Error; Recording Exception; IP Address Conflict; MAC Address Conflict; FTP Server Exception ; Event Input,Event Output; Network cable disconnected"
+Linkage Method,send email; trigger sound; trigger warmlight; trigger recording; trigger capture; notify surveillance center
+Video Analytics,Panorama:Human/Vehicle Classification Detail:Human/Vehicle Classification; Panorama:Tripwire Detail:Tripwire; Panorama:Double Tripwire Detail:Double Tripwire; Panorama:Perimeter Detail:Perimeter; Panorama:N/A Detail:Object Abandon; Panorama:N/A Detail:Object Lost; Panorama:Heatmap Detail:N/A; Panorama:N/A Detail:Loitering; Panorama:N/A Detail:Running; Panorama:N/A Detail:Parking; Panorama:N/A Detail:People Counting; Panorama:N/A Detail:Crowed; Panorama:N/A Detail:Safety Helmet Detection; Panorama:N/A Detail:On Duty Detection; Panorama:N/A Detail:Video Abnormal; Panorama:N/A Detail:Audio Abnormal
+Early Warning(EW),Early Warning(EW)
+Auto-Tracking,Auto-Tracking
+Face Mode,Panorama:N/A Detail:Capture facial images
+Network,
+ANR,ANR
+Protocols,HTTP; HTTPS; TCP/IP; UDP; UPnP; ICMP; IGMP; SNMP v1; DHCP; DNS; DDNS; Easy DDNS; NTP; SMTP; TLS; SSL; 802.1x; QoS; IPv4; IPv6; PPPOE; Unicast; Multicast; ARP; RTP; SRTP; RTSP; FTP; SFTP; NAS; PING
+System Compatibility,ONVIF Profile S/T/G/M; CGI; RTMP
+Remote Connection,≤7
+User/Host,Up to 32 users. 4 user levels
+Client,Easy7 Smart Client
+Interface,
+Communication Interface,1*RJ45 10M/100M/1000M self adaptive Ethernet port
+Audio I/O,"1*Input Impedance 1kΩ,2.0~2.4Vp-p; 1*Output Impedance 600Ω"
+Alarm I/O,"8,Switching; 2,Switching,Voltage≤DC24V,Current≤1A"
+Reset Button,Yes
+On-board storage,"Built-in Micro SD card slot, up to 512 GB"
+RS-485,RS485
+Wiper,Yes
+Electronic Compass,Yes
+General,
+Web Client Language,17 languages Simple Chinese/English/Traditional Chinese/Spanish/Italian/ Korean/Turkish/Russian/Thai/ Polish/French/Dutch/ Hebraism/Vietnamese/Arabic/German/Ukrainian
+Operating Temperature,-40℃～70℃(IR OFF) -40℃～40℃(IR ON)
+Operating Humidity,0～95%
+Storage Temperature,-40℃～70℃
+Storage Humidity,0～95%(non-condensing)
+Power Supply,DC36V±25%
+Protection,Surge protection 4000V; Lightning proof 6000V; IP66
+Material,Metal
+Boundary Dimensions,358mm(D)x568mm(H)
+Package Dimensions,565(L)*485(W)*750(H)mm
+GrossWeight,21.7kg
+NetWeight,14.8kg
+
+
+Date,Title,Type
+2024-04-07,1D.20020.000640_TC-H3169M 63XLWPAAR_en,pdf

@@ -1,0 +1,15 @@
+产品网址：https://www.longsys.com/products/solid-state-drive/enterprise-ssd/foresee-uncia-3836-series-sata-ssd.html
+产品结构：root->-StorageProductsSolution–LongsysacquiredLEXAR&Foreseee
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|FORESEE UNCIA 3836 Series Enterprise SATA SSD|无|支持 SATA3.2 接口，提供高达 3.84TB 的容量，顺序读取速度高达 560MB/s*；具有出色的性能，可保证高水平的 QoS 和 IO 一致性；通过严格设计、模拟和验证，满足 200 万小时的 MTBF 可靠性标准，支持增强的 PLP、RAID 和安全功能；具有增强的掉电保护、端到端数据保护、无需重置即可激活固件升级、RAID、热节流、安全启动和下载、清理、静态和动态磨损均衡、定制遥测和 S.M.A.R.T 等功能；适用于服务器、分布式存储、云计算、边缘计算、工作站等应用场景|
+
+Product Series,PN,NAND Flash,Capacity,Type,Dimension,Interface,128KB Sequential Read Speed*,128KB Sequential Write Speed*,4KB Random Read Speed(IOPS)*,4KB Random Write Speed(IOPS)*,Endurance,Warranty Period,Uncorrectable Bit Error Rate(UBER),Mean Time Between Failure (MTBF),Power Consumption,Operating Temperature
+UNCIA 3836,RSYE3836N-480G,128 layer 3D eTLC,480GB,2.5inch,100x70x7 mm,SATA III,94K IOPS,520MB/s,94K IOPS,30K IOPS,1DWPD,5 years,＜1 sector per 10^17 bits read,2 million hours,Active:<=4W  Idle:<=2W,0~70℃
+UNCIA 3836,RSYE3836M-480G,128 layer 3D eTLC,480GB,2.5inch,100x70x7 mm,SATA III,94K IOPS,520MB/s,94K IOPS,73K IOPS,1DWPD,5 years,＜1 sector per 10^17 bits read,2 million hours,Active:<=4W  Idle:<=2W,0~70℃
+UNCIA 3836,RSYE3836N-960G,128 layer 3D eTLC,960GB,2.5inch,100x70x7 mm,SATA III,95K IOPS,520MB/s,95K IOPS,45K IOPS,1DWPD,5 years,＜1 sector per 10^17 bits read,2 million hours,Active:<=4W  Idle:<=2W,0~70℃
+UNCIA 3836,RSYE3836N-1920,128 layer 3D eTLC,1.92TB,2.5inch,100x70x7 mm,SATA III,95K IOPS,520MB/s,95K IOPS,45K IOPS,1DWPD,5 years,＜1 sector per 10^17 bits read,2 million hours,Active:<=4W  Idle:<=2W,0~70℃
+UNCIA 3836,RSYE3836N-3840,128 layer 3D eTLC,3.84TB,2.5inch,100x70x7 mm,SATA III,95K IOPS,520MB/s,95K IOPS,50K IOPS,1DWPD,5 years,＜1 sector per 10^17 bits read,2 million hours,Active:<=4W  Idle:<=2W,0~70℃
+UNCIA 3836,RSBE3836N-480G,128 layer 3D eTLC,480GB,M.2,80x22 mm,SATA III,95K IOPS,520MB/s,95K IOPS,30K IOPS,1DWPD,5 years,＜1 sector per 10^17 bits read,2 million hours,Active:<=3W  Idle:<=1W,0~70℃
+UNCIA 3836,RSBE3836N-960G,128 layer 3D eTLC,960GB,M.2,80x22 mm,SATA III,95K IOPS,520MB/s,95K IOPS,40K IOPS,1DWPD,5 years,＜1 sector per 10^17 bits read,2 million hours,Active:<=3W  Idle:<=1W,0~70℃

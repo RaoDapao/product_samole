@@ -1,0 +1,8 @@
+产品网址：http://en.cellwise-semi.com/products/index?ptype=lithiumcell&classify=Full%20Protection
+产品结构：root->CellWiseMicroelectronics
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Full Protection|无|具有过充电流保护、过放电流保护、短路保护、0V 电池充电允许、0V 电池充电禁止、过放保护、电池均衡功能、温度保护、级联、过充保护、外部过流检测电阻、集成 MOSFET 等功能|
+
+

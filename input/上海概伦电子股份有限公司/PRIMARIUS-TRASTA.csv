@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/en/products/digital_design_eda/TRASTAen.html
+产品结构：root->PRIMARIUS-TRASTA
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|TRASTA|无|Gate-TR Mixed-Level Timing Analysis Solution，提供混合级时序分析，包括自动识别关键路径、提取门级电路、拓扑匹配和通道连接提取技术、自动表征提取的门级单元的时序特性并用于静态时序分析（STA）步骤、内置 STA 引擎和带有后注释寄生参数的 SPICE 网表生成能力|

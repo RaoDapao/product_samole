@@ -1,0 +1,6 @@
+-> root http://linecore.com.cn
+  -> 产品与服务 http://linecore.com.cn/products.html
+    -> 功率模块 
+    -> 功率单管 
+    -> OEM/ODM 
+    -> 碳化硅产品 

@@ -1,0 +1,13 @@
+产品网址：https://www.hitrendtech.com/products/detail?id=32
+产品结构：首页->产品中心->HT8611
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|高压线性输出驱动芯片|HT8611|内置一对高压放大器，支持差分输入输出，具有较低的失真和杂散噪声。内置过温保护电路，当芯片内部温度达到 130℃时，OT1_FLAG 会输出高电平，通知 MCU 降低发送信号的幅度或者停止发送信号。采用高压芯片工艺，供电电压最高支持 30V。|
+
+Part NO.,HT8611,Function,PA&LDO Driver
+Supply Voltage(V),8~30,Control logic Voltage (V),3.3
+Suit frequency range  (Hz),0.2M~12M,Max. Output drive current (A),0.5
+Package,QFN24,Oper. Temp.(℃),-40 ~ +85
+Protection Circuit,Over Temperature Protection,Apply to,HPLC
+,,,

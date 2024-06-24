@@ -1,0 +1,12 @@
+产品网址：https://www.meenyi.com/en/plan/detail.html?id=1
+产品结构：root->RFIC-MEENYI
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|RFIC|无|基于 GaAs 工艺，覆盖 sub-8.5GHz 频段，与主流产品完全兼容|
+|RFIC|无|基于 GaAs HBT 工艺，覆盖 0.7-7.2GHz 频段，与主流产品完全兼容|
+|RFIC|SPDT、SP4T、SP5T 开关系列|基于 SOI 工艺，宽带宽、高隔离、高功率电阻，与主流产品完全兼容|
+|RFIC|无|覆盖 2.3-5GHz 频段，抗烧毁功率容量高达 20W，大量出货给中国主流设备制造商|
+|RFIC|无|GaAs HBT/pHEMT 放大器，SOI 衰减器，覆盖 0.4-4.2GHz 频段，高集成度、高线性度、低噪声|
+|RFIC|无|基于 CMOS 工艺的模拟器件，包括高性能 ADC、DAC、BandGap、模拟开关、温度传感器、时钟驱动器等，典型应用案例：GaN/LDMOS 控制器（48/32 通道 DAC）、PA 栅极电压开关、电流检测高精度运算放大器|
+|RFIC|无|提供基于 Doherty 架构的 2.6/3.5GHz 多级离散 GaN 功率晶体管，高增益、高效率|

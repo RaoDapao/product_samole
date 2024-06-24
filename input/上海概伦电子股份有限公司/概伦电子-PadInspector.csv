@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/products/digital_design_eda/PadInspector.html
+产品结构：root->概伦电子-PadInspector
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|PadInspector|无|芯片封装连接性验证工具，通过提取芯片和封装设计之间的连接关系来验证集成电路系统连接性，可提早完成 I/O pad 配置规划和封装连接性验证流程，缩短产品上市周期，具有误差率低、界面友好、标准规范、效率提升、类型丰富、沟通高效等特点，支持各种封装类型，可应用于封装设计、接口、RDL 层、后端设计、IO Pad&Bump、配置规划等领域|

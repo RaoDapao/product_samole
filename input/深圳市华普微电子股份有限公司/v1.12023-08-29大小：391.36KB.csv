@@ -1,0 +1,6 @@
+产品网址：https://www.hoperf.cn/ic/ble/CMT4522.html
+产品结构：CMT4522->EVB->开发用户手册->v1.12023/08/29大小：1.61MBCMT4522->GPIO->Application->Note->v1.02023/08/29大小：612.28KBCMT4522->Peripheral->Application->Note->v1.02023/08/29大小：632.6KBCMT4522->PWR->MGR->Application->Note->v1.02023/08/29大小：695.89KBCMT4522->ADC->Application->Note->v1.02023/08/29大小：570.9KBCMT4522->BSP->Button->Application->Note->v1.12023/08/29大小：391.36KB
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|蓝牙 5.2 SoC 芯片|CMT4522|具有 ARM® Cortex™-M0 32 位处理器，具有 512KB-2MB Flash、64K SRAM、96KB ROM、256 位 efuse 以及超低功耗、高性能、多模式无线电。支持 BLE / IEEE 802.15.4，包括安全性、应用程序和无线下载更新。串行外设 IO 和集成应用 IP 使客户能够以最低的物料清单 (BOM) 成本构建客户产品。智能干扰消除技术，优化蓝牙连接稳定性，实现复杂环境下更可靠的无线连接。|

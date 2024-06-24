@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/products/digital_design_eda/NavisPro.html
+产品结构：root->概伦电子-NavisPro
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|NavisPro|无|提供 RTL SoC 设计规划解决方案以预判在物理实现阶段常见的设计问题。通过约束驱动的 RTL 设计布局规划实现更高 QoR，通过将整个芯片智能划分为多个模块或子系统来解决 SoC 设计复杂性问题，芯片分区包括层次化的物理分区和每个子系统的布局，准确评估子系统之间的总线互连时序对于时序收敛。|

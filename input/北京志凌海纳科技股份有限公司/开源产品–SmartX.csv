@@ -1,0 +1,7 @@
+产品网址：https://www.smartx.com/blog/category/products-in-depth/open-source
+产品结构：root->开源产品–SmartX
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|knest|无|一键式创建和运维 Kubernetes 集群|
+|Virtink|无|用更安全轻量的方式支撑虚拟化负载|

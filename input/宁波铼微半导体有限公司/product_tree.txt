@@ -1,0 +1,15 @@
+-> root https://www.niwaysemi.com
+  -> 首页 
+    -> 产品中心_5 https://www.niwaysemi.com/products.html
+      -> 激光器 (LD) 
+      -> GaN 紫外发光二极管 (UV LED) 
+      -> GaN 射频肖特基二极管（RF SBD） 
+      -> GaN 射频功率放大器 (RF PA) 
+      -> GaN 功率器件 
+    -> 光电器件 https://www.niwaysemi.com/products/cat/765.html
+    -> 电子器件 https://www.niwaysemi.com/products/cat/766.html
+    -> 激光器(LD)光电器件电子器件 https://www.niwaysemi.com/products/4738.html
+    -> GaN紫外发光二极管(UVLED) https://www.niwaysemi.com/products/4739.html
+    -> GaN射频肖特基二极管（RFSBD） https://www.niwaysemi.com/products/4735.html
+    -> GaN射频功率放大器(RFPA) https://www.niwaysemi.com/products/4736.html
+    -> GaN功率器件光电器件电子器件 https://www.niwaysemi.com/products/4737.html

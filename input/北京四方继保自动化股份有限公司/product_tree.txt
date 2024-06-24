@@ -1,0 +1,69 @@
+-> root https://www.sf-auto.com
+  -> 四方继保-产品中心 https://www.sf-auto.com/product
+    -> CSSP-2000 火电机组仿真培训系统 
+    -> CSSS-2000 基于 AR 增强现实技术的电力培训系统 
+    -> CSSS-2000 变电检修标准化作业三维仿真系统 
+    -> CSD-200 系列保护测控装置 
+    -> CyberControl_IPCS 工业过程控制系统软件 
+    -> CSC-196 系列时间同步装置 
+  -> 四方继保-CSSP-2000火电机组仿真 https://www.sf-auto.com/productDetail/3109.html
+  -> 四方继保-CSSS-2000基于AR增强 https://www.sf-auto.com/productDetail/3114.html
+  -> 四方继保-CSSS-2000变电检修标准 https://www.sf-auto.com/productDetail/3138.html
+  -> 四方继保-CSD-200系列保护测控装置 https://www.sf-auto.com/productDetail/2609.html
+  -> 四方继保-CyberControl_IP https://www.sf-auto.com/productDetail/2642.html
+  -> 四方继保-CSC-196系列时间同步装置 https://www.sf-auto.com/productDetail/3293.html
+  -> 四方继保-次同步振荡及轴系扭振解决方案 https://www.sf-auto.com/solution/detail/30
+  -> 四方继保-数据中心供配电解决方案 https://www.sf-auto.com/solution/detail/27
+  -> 四方继保-自控解决方案 https://www.sf-auto.com/solution/detail/95
+    -> DCS/PLC/SCADA 通用自动化产品 
+    -> CyberControl 通用组态软件 
+    -> CSC-830 小型可编程控制器 
+    -> CSC-850 大型可编程控制器 
+    -> CSC-800 分布式控制单元 
+  -> 四方继保-智能配电网解决方案 https://www.sf-auto.com/solution/detail/23
+    -> CSGC-3000E/DMS 新一代配电自动化主站系统 
+    -> CSGC-3000E/iOMS 智能化供电服务系统 
+    -> CSGC-3000E/VNAS 电网自动成图及全景调度决策支持系统 
+    -> CSC-27X 系列配电终端产品 
+    -> 配电开关成套设备 
+    -> 户外柱上开关 
+    -> 低压开关柜 
+    -> 箱式变电站 
+  -> 四方继保-微网解决方案 https://www.sf-auto.com/solution/detail/25
+    -> CSGC-3000E/MGMS 微网管理系统 
+    -> CSD-580 系列微网控制器 
+    -> GES 系列储能产品 
+    -> CSC-211 微网逆功率保护 
+    -> GES-500 系列储能变流器 
+  -> 四方继保-配电物联网解决方案 https://www.sf-auto.com/solution/detail/22
+    -> 智能配变终端 
+    -> 台区智能融合终端 
+    -> 智能配电站房 
+    -> 云端配电主站 
+    -> CSGC-3000E/CTPS 客户标签画像系统 
+  -> 四方继保-产品全栈自研系统全域支撑|四方 https://www.sf-auto.com/companyNews-c-3486.html
+    -> 构网型储能 
+    -> 高安全液冷 PACK 
+    -> 储能工商业一体机 
+    -> 储能能量管理系统 EMS 
+    -> 储能变流器 PCS 
+    -> 电池管理系统 BMS 
+    -> 协调控制系统 PMS 
+  -> 四方继保-CSC-810系列次同步振荡及 https://www.sf-auto.com/productDetail/3201.html
+  -> 四方继保-CyberControl通用组 https://www.sf-auto.com/productDetail/2778.html
+  -> 四方继保-CSC-830小型可编程控制器 https://www.sf-auto.com/productDetail/2774.html
+  -> 四方继保-CSC-850大型可编程控制器 https://www.sf-auto.com/productDetail/2773.html
+  -> 四方继保-CSC-800分布式控制单元 https://www.sf-auto.com/productDetail/2649.html
+  -> 四方继保-CSGC-3000E-DMS新 https://www.sf-auto.com/productDetail/2639.html
+  -> 四方继保-CSGC-3000E-iOMS https://www.sf-auto.com/productDetail/2656.html
+  -> 四方继保-CSGC-3000E-VNAS https://www.sf-auto.com/productDetail/2657.html
+  -> 四方继保-CSC-27X系列配电终端产品 https://www.sf-auto.com/productDetail/2661.html
+  -> 四方继保-配电开关成套设备 https://www.sf-auto.com/productDetail/2686.html
+  -> 四方继保-户外柱上开关 https://www.sf-auto.com/productDetail/2681.html
+  -> 四方继保-低压开关柜 https://www.sf-auto.com/productDetail/2689.html
+  -> 四方继保-箱式变电站 https://www.sf-auto.com/productDetail/2673.html
+  -> 四方继保-CSGC-3000E-MGMS https://www.sf-auto.com/productDetail/2792.html
+  -> 四方继保-CSD-580系列微网控制装置 https://www.sf-auto.com/productDetail/2679.html
+  -> 四方继保-CSC-211微网逆功率保护 https://www.sf-auto.com/productDetail/2680.html
+  -> 四方继保-GES-500系列储能变流器 https://www.sf-auto.com/productDetail/2653.html
+  -> 四方继保-CSGC-3000E-CTPS https://www.sf-auto.com/productDetail/3133.html

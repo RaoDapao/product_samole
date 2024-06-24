@@ -1,0 +1,40 @@
+-> root http://zzhuaerwei.com
+  -> 首页 
+    -> 产品展示 
+      -> 高频感应加热设备 http://zzhuaerwei.com/gpgyjrsb/index.html
+        -> 数字超 http://zzhuaerwei.com/gpgyjrsb/157.html
+      -> 新型数字化感应加热设备 http://zzhuaerwei.com/igbt/index.html
+        -> 高频感应加热设备 
+        -> 中频感应加热设备 
+        -> 超音频感应加热设备 
+        -> 新型 IGBT 焊接设备 
+        -> 高频焊接设备 
+        -> 中频焊接设备 
+        -> 全封闭水冷系统 
+        -> 数控淬火机床 
+        -> 钢带烤蓝加热设备 
+        -> 冷轧带肋钢筋载线加热 
+        -> 机床导轨淬火设备 
+        -> 泵管淬火设备 
+        -> 新型 IGBT 中频锻造设备 
+        -> 截齿焊接生产线 
+      -> 中频感应加热设备 http://zzhuaerwei.com/zpgyjrsb/index.html
+        -> 数字化 http://zzhuaerwei.com/zpgyjrsb/156.html
+      -> 超音频感应加热设备 http://zzhuaerwei.com/cypgyjrsb/index.html
+      -> 新型IGBT焊接设备 http://zzhuaerwei.com/xxigbthjsb/index.html
+        -> 高频焊接设备 http://zzhuaerwei.com/gphjsb/index.html
+          -> 智能双工位感应焊接设备 
+          -> HEW-30 焊接专用 
+          -> HEW-50 焊接专用设备 
+          -> 高频焊接焊接炉铜件焊接高频炉 
+        -> 中频焊接设备 http://zzhuaerwei.com/zphjsb/index.html
+      -> 全封闭水冷系统 http://zzhuaerwei.com/qfbslxt/index.html
+      -> 数控淬火机床 http://zzhuaerwei.com/gdskchjc/index.html
+      -> 钢带烤蓝加热设备 http://zzhuaerwei.com/jsbmrcl/index.html
+      -> 冷轧带肋钢筋载线加热 http://zzhuaerwei.com/lzdlgjzxjrsb/index.html
+      -> 机床导轨淬火设备 http://zzhuaerwei.com/jcdgchsb/index.html
+      -> 泵管淬火设备 http://zzhuaerwei.com/bgchsb/index.html
+      -> 新型IGBT中频锻造设备 http://zzhuaerwei.com/xxigt/index.html
+      -> 截齿焊接生产线 http://zzhuaerwei.com/jchj/index.html
+    -> 新闻资讯 
+      -> 行业新闻 http://zzhuaerwei.com/hyxw/149.html

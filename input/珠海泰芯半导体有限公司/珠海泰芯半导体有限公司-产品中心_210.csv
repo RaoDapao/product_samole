@@ -1,0 +1,15 @@
+产品网址：https://en.taixin-semi.com/Product/ProductDetail?productId=180
+产品结构：root->珠海泰芯半导体有限公司-产品中心
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|TX8T3100SO24|TX8T3100SO24|本产品是使用高性能的 ARM CortexTM-M0 为内核的 32 位微控制器，最高工作频率可达 48MHz，内置高速存储器，丰富的增强型 I/O 端口和外设连接到外部总线。包含 1 个 12 位 ADC、3 个 16 位通用定时器、1 个看门狗定时器、1 个系统时间定时器。还包含标准的通信接口：1 个 SPI/IIC 接口、2 个 UART 接口和 1 个 UART/SPI/TIMER 通用模块。也包含 8 个大电流 IO 可驱动 LED/LCD 显示和最大支持 26 个触摸按键检测。工作电压为 2.5V~5.5V，工作温度达到-40◦C~+85◦C 工业级。|
+
+Type,Encapsulated Type,Chip-Set,Max Speed（MHz）,Flash（KB）,RAM（Byte）,EEPROM（Byte）,GPIO,Working Voltage（V）,Temperature（℃）,TouchKey,LED（com*seg）,LCD（com*seg）,Advanced TM,GPTM,WatchDog,PWM,RTC,UART,SPI,IIC,ADC,DAC,ACMP,PGA,CRC,Code Encryption,LPM
+TX8T3100SO24,SOP24,8051,24,8,2048,2*128,22,2.4 ~ 5.5,-40 ~ 85,22,8*12,-,6*16bit,5*16bit,1,6,-,2,1,1,22,2,2,-,1,√,5ua
+
+
+
+
+
+

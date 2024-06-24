@@ -1,0 +1,12 @@
+产品网址：https://www.nanocorechip.com/?products_47
+产品结构：root->32位MCU-杭州微纳核芯电子科技有限公司-
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|微控制器|ATM8F8040A、ATM8F8040、ATM8F7040、ATM8F3140A、NCCM0660、NCCM0670|32 位 MCU 系列提供多种封装，内部集成 Touch、USART 和电机专用 PWM 等丰富资源，具有集成度高和易于开发等优势，非常适合应用于工业控制、消费电子、汽车电子等应用领域|
+|新能源 BMS 芯片|BMS AFE|无|
+|AI 芯片|机器视觉|无|
+
+Series,Flash(KB),RAM(KB),Timer,ADC,PWM,Serial Port,Key Application
+NCCM0660,64,8,5,12bit×30ch,-,USART×1，LPUART×1 SPI×1，IIC×1,Touch
+NCCM0670,128,8,5,12bit×30ch,-,USART×1，LPUART×1 SPI×1，IIC×1,Touch

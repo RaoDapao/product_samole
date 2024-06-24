@@ -1,0 +1,55 @@
+产品网址：https://www.primarius-tech.com/en/products/engineering_service/Standard-Cell-Library-IP-Cores.html
+产品结构：root->PRIMARIUS-Characterization&Development
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|SPICE Model|无|无|
+|Baseband Modeling|BSIMProPlus|无|
+|RF Modeling|MeQLab|无|
+|Model Extraction Automation|SDEP|无|
+|Model QA|ME-Pro|无|
+|PDK|无|无|
+|PCell Development|PCellLab|无|
+|PDK Verification|PQLab|无|
+|Standard Cell|NanoCell|无|
+|Library Characterization|NanoCell|无|
+|Library Validation|LibWiz|无|
+|Design Environment|NanoDesigner SE|无|
+|Schematic Capture|NanoDesigner SE|无|
+|Layout Editor|NanoDesigner LS|无|
+|Interactive Physical Verification|NanoDesigner iV|无|
+|Design Optimization|NanoDesigner Optimizer|无|
+|Circuit Simulation|NanoSpice|无|
+|SPICE Simulator|NanoSpice|无|
+|SPICE Simulator|NanoSpice X|无|
+|SPICE Simulator|NanoSpice Giga|无|
+|FastSPICE Simulator|NanoSpice Pro|无|
+|FastSPICE Simulator|NanoSpice Pro X|无|
+|Mixed Signal|NanoSpice MS|无|
+|Waveform Analysis|NanoWave|无|
+|Circuit Analysis|NanoYield|无|
+|Signal Integrity|NanoSpice SI|无|
+|Critical Path Analysis|PathInspector|无|
+|Power Device Design Verification|PTM|无|
+|ESD Verification|ESDi|无|
+|Digital Simulation|VeriSim|无|
+|Standard Cell|NanoCell|无|
+|Library Characterization|NanoCell|无|
+|Library Validation|LibWiz|无|
+|Design & Verification|TRASTA|无|
+|Floor Planning|NavisPro|无|
+|Signal Integrity Analysis|NanoSpice SI|无|
+|Power Design Analysis|PTM|无|
+|ESD Verification|ESDi|无|
+|Chip-to-Package Connectivity Verification|PadInspector|无|
+|Parametric Testing|FS-Pro|无|
+|Noise Measurement|9812DX|无|
+|Noise Measurement|9812E|无|
+|Noise Measurement|9813DXC|无|
+|AC Dynamic Noise|9812AC|无|
+|Data Testing|Data Acquisition & Characterization|无|
+|SPICE Modeling|Model Extraction & QA|无|
+|Testkey & Layout|Testkey Design & Layout|无|
+|New Device|New Device Solutions|无|
+|PDK|Development & Verification|无|
+|IP Development|Characterization & Development|无|

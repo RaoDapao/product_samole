@@ -1,0 +1,21 @@
+产品网址：https://www.longsys.com/products/memory-module/commercial-memory-module/commercial-ddr5-dimm.html
+产品结构：root->CommercialDDR5DIMM-StorageProductsSolution–LongsysacquiredLEXAR&Foreseee
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Commercial DDR5 DIMM|无|实现了跨越式提升，性能稳定且出色；边缘连接器的镀金工艺遵循行业主流标准；产品符合商业级产品标准，满足行业用户的不同需求，具有高稳定性、超低故障率和可靠的产品质量；为客户采购的核心材料提供完整的保留周期，引入和认证最新技术，并提供长达一年的最后购买机制|
+
+Product Series,PN,Capacity,Interface,Architecture,Data Rate,CL Value,Timing,Clock,Operating Voltage,Gold Fingers (Edge Connectors),Operating Temperature,Size
+DDR5,FD5DU5600CQGHA,16GB,UDIMM,1Rx8,5600Mbps,46,46-45-45-90,2800MHz,1.1V,"30u""",0℃~85℃,133.35×31.25×2.47mm
+DDR5,FD5DU5600C8GHA,8GB,UDIMM,1Rx8,5600Mbps,46,46-45-45-90,2800MHz,1.1V,"30u""",0℃~85℃,133.35×31.25×2.47mm
+DDR5,FD5DS5600CQGHA,16GB,SODIMM,1Rx8,5600Mbps,46,46-45-45-90,2800MHz,1.1V,"30u""",0℃~85℃,69.6×30×2.4mm
+DDR5,FD5DS5600C8GHA,8GB,SODIMM,1Rx8,5600Mbps,46,46-45-45-90,2800MHz,1.1V,"30u""",0℃~85℃,69.6×30×2.4mm
+DDR5,FD5DS5600CQGXA,16GB,SODIMM,1Rx8,5600Mbps,46,46-45-45-90,2800MHz,1.1V,"30u""",0℃~85℃,69.6×30×2.4mm
+DDR5,FD5DU5600CQGZL,16GB,UDIMM,1Rx8,5600Mbps,46,46-45-45-90,2800MHz,1.1V,"30u""",0℃~85℃,133.35×31.25×2.47mm
+DDR5,FD5DS5600CQGZL,16GB,SODIMM,1Rx8,5600Mbps,46,46-45-45-90,2800MHz,1.1V,"30u""",0℃~85℃,69.6×30×2.4mm
+
+
+Number,Platform
+01,Intel
+02,AMD
+（  The product supports mainstream platforms and only part of it is shown here.  ）,（  The product supports mainstream platforms and only part of it is shown here.  ）

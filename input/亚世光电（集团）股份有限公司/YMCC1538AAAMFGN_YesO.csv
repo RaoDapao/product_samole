@@ -1,0 +1,17 @@
+产品网址：https://www.yes-lcd.com/product/172.html
+产品结构：root->YMCC1538AAAMFGN_YesOptoelectronics（Group）Co.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Glass Substrate Electronic Paper|YMCC1538AAAMFGN|扫描二维码在手机上阅读|
+
+Item,Contents,Unit
+Operating Voltage,3.0,V
+Drive method,STATIC,/
+Viewing direction,FREE,O’ Clock
+Operating Temperature,0~40,℃
+Storage Temperature,-25~70,℃
+Display mode,Positive,/
+LCD controller/driver,"SSD1627Z*2,3-SPI",/
+Module Size,62.0*29.0,mm
+View Area,52.5*11.5,mm

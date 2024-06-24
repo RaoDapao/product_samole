@@ -1,0 +1,9 @@
+产品网址：http://www.hpmicro.com/product/tool.html?id=d2c61127-0439-404f-a4d5-5f889eaf8597
+产品结构：root->先楫半导体
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|微控制器|HPM6880IBD|2.5D OpenVG GPU|
+|微控制器|无|SDK 是 HPM 推出的一个完全开源，基于 BSD 3-Clause 许可证的综合性软件支持包，适用于先楫半导体的所有微控制器产品|
+|微控制器|无|第三方开发工具 - Segger Embedded Studio for RISC-V，Segger Microcontroller 在嵌入式系统领域拥有近三十年的经验，提供尖端的嵌入式系统软件和硬件|
+|微控制器|HPM6800EVK|为高端显示而生|

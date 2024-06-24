@@ -1,0 +1,87 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/985.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|8MP Fixed Panoramic Camera(Jordan)|TC-C382V|Metal+Plastic Housing<br>Up to 4640x1728@25fps<br>1/2.7" CMOS<br>S+265/H.265/H.264<br>Min. illumination Color: 0.0001Lux@F1.0<br>Warm Light<br>Built-in Speaker<br>Operating Conditions -40°~65°, 0~95% RH<br>Support human/vehicle classification<br>Horizontal FOV 180°±10°<br>POE|
+
+Camera,Unnamed: 1
+Image Sensor,"1/2.7""CMOS"
+Min. Illumination,Color: 0.0001Lux@F1.0
+Shutter Time,1s-1/100000s
+Day&Night,
+WDR,120dB
+S/N,>42dB
+Angle Adjustment,0~360  °;0~90°;0~360°
+Lens,
+Lens Type,Fixed
+Focal Length,2.8mm
+Lens Mount,M12
+Aperture Range,"F1.0,fixed"
+Field of View,180  °(H)±10°;65°(V)±5°;191°(D)±10°
+DORI Distance,Detect: 56m  Observe: 22m  Recognize: 11m  Identify: 5.6m
+Illuminator,
+IR LEDs,
+IR Distance,
+Wavelength,
+White LEDs,3
+Whitelight Distance,10m
+Compression Standard,
+Video Compression,S+265/H.265/H.264B/H.264M/H.264H/Motion JPEG
+Video Bit Rate,32k-16Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D/AAC_LC
+Audio Sampling Rate,8kHz/32kHz/48kHz
+Image,
+Max. Resolution,4640x1728@25fps
+Main Stream,"PAL: 25fps(4640x1728,4096x1520)  NTSC: 24fps(4640x1728,4096x1520)"
+Sub Stream,PAL: 25fps(1408x528)  NTSC: 24fps(1408x528)
+Third Stream,
+BLC,Yes
+HLC,Yes
+AGC,Yes
+3D DNR,Yes
+White Balance,Auto/Semi-auto/Manual/Sunny/Natural light/Warm light/  Sodium lamp/Incandescent lamp/Locked white balance
+ROI,8 regions
+Corridor mode,
+EIS,
+OSD,5 regions;16*16/32*32/48*48/64*64/96*96
+Picture Overlay,Yes
+Privacy Mask,4 regions
+Defog,Yes
+Feature,
+Alarm Trigger,"Motion Detection;Mask Alarm;Voltage Alarm;Disk Full;Disk R/W Error;IP Address Conflict;MAC Address Conflict;FTP Server Exception ;Event Input, Event Output"
+Video Analytics,Human/Vehicle Classification;Tripwire;Perimeter
+Rules of behavior analyse in 1 scene,8
+Early Warning(EW),Yes
+Face Mode,
+Face Detection Performance,
+Linkage Method,send email;trigger sound;trigger warmlight;trigger recording;trigger capture;  notify surveillance center
+Network,
+ANR,ANR
+Protocols,HTTP;HTTPS;TCP/IP;UDP;UPnP;ICMP;IGMP;SNMP;DHCP;DNS;DDNS;Easy DDNS;  NTP;SMTP;SSL;802.1X;QoS;IPv4;IPv6;PPPOE;SSH;Unicast;Multicast;RTCP;ARP;RTP;  SRTP;RTSP;FTP;SFTP;NAS
+System Compatibility,ONVIF Profile S/T/G/M;CGI;Milstone;RTMP
+Remote Connection,≤2
+Client,Easy7 Smart Client
+Moblie Client,EasyLive Plus
+Web,IE10+;Firefox52+;Edge89+;Safari11+;Chrome57+
+Interface,
+Communication Interface,1 RJ45 10M/ 100M self adaptive Ethernet port
+Audio I/O,
+Alarm I/O,
+Built-In Mic,
+Built-In Speaker,Yes
+Reset Button,Yes
+On-board storage,"Built-in Micro SD card slot, up to 512 GB"
+Additional interfaces,N/A;N/A;N/A;N/A
+General,
+Web Client Language,19languages  Simple Chinese/Traditional Chinese/English/Spanish/Korean/Italian/Turkish/  Russian/Thai/French/Polish/Dutch/Hebrew/Arabic/Vietnamese/German/Ukrainian/  Portuguese/Albanian
+Operating Temperature,-40  ℃-65℃
+Operating Humidity,0-95%(non-condensing)
+Storage Temperature,-40  ℃-65℃
+Storage Humidity,0-95%(non-condensing)
+Power Supply,"DC12V  ±25%,MAX 12W;POE 802.3at"
+Protection,Surge protection 2000V;Lightning proof 6000V;IP67
+Boundary Dimensions,294(L)116(W)72(H)mm
+Package Dimensions,360(L)150(W)170(H)mm
+GrossWeight,1.25kg
+NetWeight,0.85kg

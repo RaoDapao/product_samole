@@ -1,0 +1,265 @@
+-> root https://www.szgeelly.com
+  -> 中频-高频-超高频感应加热设备_超高频加 http://www.szgeelly.com/product/5
+  -> 真空熔炼炉_超高频加热机_真空熔炼炉_手 http://www.szgeelly.com/product/6
+  -> 透热锻造炉-退火炉_超高频加热机_真空熔 http://www.szgeelly.com/product/8
+    -> 透热锻造炉/退火炉 
+    -> 不锈钢餐具退火机 
+    -> 不锈钢表壳热轧机 
+    -> 柜式中频端料透热炉 
+    -> 中频整料透热炉 
+    -> 超音频锻造炉 40--90KW 
+    -> 超音频透热炉 120--200KW 
+  -> 手持焊接机-加热机_超高频加热机_真空熔 http://www.szgeelly.com/product/7
+    -> 触控型手持焊接机 
+    -> 手持式感应焊接机 
+    -> 3 米手持加热机 
+    -> 手提式电感应加热机 
+    -> 移动加热机（带小分机） 
+    -> 2-4 米水冷电缆加热机 
+  -> 成套淬火机-高频焊机_超高频加热机_真空 http://www.szgeelly.com/product/9
+    -> 成套淬火机/高频焊机 
+    -> 温控器 
+    -> 水钻焊接机 
+    -> 圆锯片焊接机 
+    -> 排锯焊接机 
+    -> 传送带输送加热机 
+  -> 感应圈-坩埚-配件_超高频加热机_真空熔 http://www.szgeelly.com/product/10
+    -> 碳硫分析坩埚 
+    -> 分析坩埚 
+    -> 石墨坩埚套件 1-10KG 
+    -> 大石墨坩埚定制 
+    -> 石英陶瓷坩埚 1-5KG 
+    -> 牙科坩埚 
+  -> 熔炼炉-熔金炉-熔样机_超高频加热机_真 http://www.szgeelly.com/product/15
+  -> 冷却系统_超高频加热机_真空熔炼炉_手提 http://www.szgeelly.com/product/14
+  -> 产品中心_超高频加热机_真空熔炼炉_手提 http://www.szgeelly.com/product/11
+    -> 石墨坩埚熔炼炉 
+    -> 陶瓷坩埚熔炼炉 
+    -> 简易结构中频熔炉 
+    -> 高频熔样机 
+  -> 铜管焊接机_超高频加热机_真空熔炼炉_手 http://www.szgeelly.com/product/55
+  -> 手持式加热机_超高频加热机_真空熔炼炉_ http://www.szgeelly.com/product/38
+    -> 3-8 米手持焊接机 
+    -> 0.5-1.5 米手持加热机 
+    -> 1.5-2 米移动加热机 
+  -> 超高频100Khz-1.1Mhz_超高频 http://www.szgeelly.com/product/37
+    -> 感应加热设备 GUF-10B 分体型 
+    -> 感应加热设备 GUF-0610N/200-700Khz 
+    -> 超高频加热机 GUF-04 4KW/200Khz 
+    -> 超高频焊接机 GUF-05M 5KW/1.1Mhz 
+    -> GUF-06M 6KW1.1Mhz 超高频加热设备 
+    -> GUF-06-500K 6KW/500Khz 超高频 
+  -> 超高频大功率150-800KHZ_超高频 http://www.szgeelly.com/product/49
+  -> 高频30-80KHz_超高频加热机_真空 http://www.szgeelly.com/product/36
+  -> 中频1-20KHz_超高频加热机_真空熔 http://www.szgeelly.com/product/34
+    -> 中频/高频/超高频感应加热设备 
+    -> 中频内孔加热 
+    -> 中频电源+变压器 
+    -> 中频热配合 
+    -> GMF-15,25 中频电源 
+    -> GMF-35,45 中频电源 
+  -> 超音频10-30KHz_超高频加热机_真 http://www.szgeelly.com/product/35
+    -> 超音频感应加热设备 
+    -> 超音频感应加热设备 
+    -> 超音频感应加热设备 
+    -> 超音频感应加热设备 
+    -> 超音频感应加热设备 
+    -> 超音频感应加热设备 
+  -> 风冷电磁加热机_超高频加热机_真空熔炼炉 http://www.szgeelly.com/product/40
+  -> 倾倒式熔炼炉_超高频加热机_真空熔炼炉_ http://www.szgeelly.com/product/52
+    -> 倾倒式熔炼炉 
+    -> 石墨坩埚熔炼炉 5-200kg 
+  -> 固定式熔炼炉_超高频加热机_真空熔炼炉_ http://www.szgeelly.com/product/53
+  -> 高频熔样机_超高频加热机_真空熔炼炉_手 http://www.szgeelly.com/product/54
+  -> 全自动真空熔样机_超高频加热机_真空熔炼 http://www.szgeelly.com/product/28
+  -> 区域熔炼炉_超高频加热机_真空熔炼炉_手 http://www.szgeelly.com/product/39
+    -> 区域熔炼炉 
+  -> 高频淬火机_超高频加热机_真空熔炼炉_手 http://www.szgeelly.com/product/31
+  -> 滤波器连续焊接机_超高频加热机_真空熔炼 http://www.szgeelly.com/product/46
+  -> 金刚石锯片钻头排锯成套焊机_超高频加热机 http://www.szgeelly.com/product/47
+  -> 锻造炉上下料自动机构_超高频加热机_真空 http://www.szgeelly.com/product/33
+    -> 锻造炉上下料自动机构 
+  -> 感应圈_超高频加热机_真空熔炼炉_手提式 http://www.szgeelly.com/product/24
+  -> 水冷软电缆_超高频加热机_真空熔炼炉_手 http://www.szgeelly.com/product/21
+  -> 坩埚_超高频加热机_真空熔炼炉_手提式电 http://www.szgeelly.com/product/20
+    -> 坩埚 
+  -> 感应加热设备GUF-10B分体型_深圳市 http://www.szgeelly.com/product/144.html
+  -> 感应加热设备GUF-0610N-200- http://www.szgeelly.com/product/143.html
+  -> 感应加热设备GUF10-400K10KW http://www.szgeelly.com/product/139.html
+  -> 频率100KHZ大线圈超高频_深圳市聚力 http://www.szgeelly.com/product/75.html
+  -> 感应加热设备GUF-20-400K20K http://www.szgeelly.com/product/138.html
+  -> 感应加热设备GUF-30-400K30K http://www.szgeelly.com/product/74.html
+  -> 多功能自动熔融炉_深圳市聚力感应技术有限 http://www.szgeelly.com/product/145.html
+  -> 真空熔炼浇注炉_深圳市聚力感应技术有限公 http://www.szgeelly.com/product/82.html
+  -> 真空加热熔炼炉（石英腔体）_深圳市聚力感 http://www.szgeelly.com/product/72.html
+  -> 真空加热熔炼炉（不锈钢罐体）_深圳市聚力 http://www.szgeelly.com/product/71.html
+  -> 真空浇注熔炼炉（不锈钢罐体）_深圳市聚力 http://www.szgeelly.com/product/70.html
+  -> 真空加热熔炼炉（石英腔）_深圳市聚力感应 http://www.szgeelly.com/product/69.html
+  -> 不锈钢餐具退火机_深圳市聚力感应技术有限 http://www.szgeelly.com/product/147.html
+  -> 不锈钢表壳热轧机_深圳市聚力感应技术有限 http://www.szgeelly.com/product/87.html
+  -> 柜式中频端料透热炉_深圳市聚力感应技术有 http://www.szgeelly.com/product/86.html
+  -> 中频整料透热炉_深圳市聚力感应技术有限公 http://www.szgeelly.com/product/85.html
+  -> 超音频锻造炉40--90KW_深圳市聚力 http://www.szgeelly.com/product/84.html
+  -> 超音频透热炉120--200KW_深圳市 http://www.szgeelly.com/product/73.html
+  -> 触控型手持焊接机_深圳市聚力感应技术有限 http://www.szgeelly.com/product/151.html
+  -> 手持式感应焊接机_深圳市聚力感应技术有限 http://www.szgeelly.com/product/146.html
+  -> 3米手持加热机_深圳市聚力感应技术有限公 http://www.szgeelly.com/product/141.html
+  -> 手提式电感应加热机_深圳市聚力感应技术有 http://www.szgeelly.com/product/140.html
+  -> 移动加热机（带小分机）_深圳市聚力感应技 http://www.szgeelly.com/product/135.html
+  -> 2-4米水冷电缆加热机_深圳市聚力感应技 http://www.szgeelly.com/product/134.html
+  -> 温控器_深圳市聚力感应技术有限公司 http://www.szgeelly.com/product/142.html
+  -> 水钻焊接机_深圳市聚力感应技术有限公司 http://www.szgeelly.com/product/96.html
+  -> 圆锯片焊接机_深圳市聚力感应技术有限公司 http://www.szgeelly.com/product/95.html
+  -> 排锯焊接机_深圳市聚力感应技术有限公司 http://www.szgeelly.com/product/94.html
+  -> 传送带输送加热机_深圳市聚力感应技术有限 http://www.szgeelly.com/product/93.html
+  -> 碳硫分析坩埚_深圳市聚力感应技术有限公司 http://www.szgeelly.com/product/149.html
+  -> 分析坩埚_深圳市聚力感应技术有限公司 http://www.szgeelly.com/product/148.html
+  -> 石墨坩埚套件1-10KG_深圳市聚力感应 http://www.szgeelly.com/product/125.html
+  -> 大石墨坩埚定制_深圳市聚力感应技术有限公 http://www.szgeelly.com/product/133.html
+  -> 石英陶瓷坩埚1-5KG_深圳市聚力感应技 http://www.szgeelly.com/product/129.html
+  -> 牙科坩埚_深圳市聚力感应技术有限公司 http://www.szgeelly.com/product/127.html
+  -> 石墨坩埚熔炼炉5-200kg_深圳市聚力 http://www.szgeelly.com/product/154.html
+  -> 陶瓷坩埚熔炼炉_深圳市聚力感应技术有限公 http://www.szgeelly.com/product/153.html
+  -> 简易结构中频熔炉_深圳市聚力感应技术有限 http://www.szgeelly.com/product/152.html
+  -> 高频熔样机_深圳市聚力感应技术有限公司 http://www.szgeelly.com/product/150.html
+  -> 柜式顶出式熔炼炉_深圳市聚力感应技术有限 http://www.szgeelly.com/product/83.html
+  -> 3-10公斤熔炉GHF-20R系列_深圳 http://www.szgeelly.com/product/81.html
+  -> 冷却塔_深圳市聚力感应技术有限公司 http://www.szgeelly.com/product/92.html
+  -> 冷风机_深圳市聚力感应技术有限公司 http://www.szgeelly.com/product/91.html
+  -> 冷水机0.6-10P_深圳市聚力感应技术 http://www.szgeelly.com/product/90.html
+  -> 3-8米手持焊接机_深圳市聚力感应技术有 http://www.szgeelly.com/product/8.html
+  -> 0.5-1.5米手持加热机_深圳市聚力感 http://www.szgeelly.com/product/7.html
+  -> 1.5-2米移动加热机_深圳市聚力感应技 http://www.szgeelly.com/product/5.html
+  -> 超高频加热机GUF-044KW-200K http://www.szgeelly.com/product/40.html
+  -> 超高频焊接机GUF-05M5KW-1.1 http://www.szgeelly.com/product/42.html
+  -> GUF-06M6KW1.1Mhz超高频加 http://www.szgeelly.com/product/45.html
+  -> GUF-06-500K6KW-500Kh http://www.szgeelly.com/product/43.html
+  -> 感应加热设备GUF-60-400K60K http://www.szgeelly.com/product/80.html
+  -> 感应加热设备GUF-80-400K80K http://www.szgeelly.com/product/136.html
+  -> 感应加热设备GHF-1515KVA-30 http://www.szgeelly.com/product/24.html
+  -> GHF-15B分体型_深圳市聚力感应技术 http://www.szgeelly.com/product/26.html
+  -> GHF-15A时间控制型_深圳市聚力感应 http://www.szgeelly.com/product/25.html
+  -> GHF-15AB分体时间控制型_深圳市聚 http://www.szgeelly.com/product/27.html
+  -> GHF-25一体型_深圳市聚力感应技术有 http://www.szgeelly.com/product/28.html
+  -> GHF-25B分体型_深圳市聚力感应技术 http://www.szgeelly.com/product/30.html
+  -> 中频内孔加热_深圳市聚力感应技术有限公司 http://www.szgeelly.com/product/88.html
+  -> 中频电源+变压器_深圳市聚力感应技术有限 http://www.szgeelly.com/product/13.html
+  -> 中频热配合_深圳市聚力感应技术有限公司 http://www.szgeelly.com/product/12.html
+  -> GMF-15,25中频电源_深圳市聚力感 http://www.szgeelly.com/product/14.html
+  -> GMF-35,45中频电源_深圳市聚力感 http://www.szgeelly.com/product/15.html
+  -> GMF-35,45中频电源_深圳市聚力感_1 http://www.szgeelly.com/product/16.html
+  -> GSF-40B超音频_深圳市聚力感应技术 http://www.szgeelly.com/product/18.html
+  -> GSF-70B超音频_深圳市聚力感应技术 http://www.szgeelly.com/product/19.html
+  -> GSF-90超音频_深圳市聚力感应技术有 http://www.szgeelly.com/product/20.html
+  -> GSF-200B超音频_深圳市聚力感应技 http://www.szgeelly.com/product/23.html
+  -> GSF-160B超音频_深圳市聚力感应技 http://www.szgeelly.com/product/22.html
+  -> GSF-120B超音频_深圳市聚力感应技 http://www.szgeelly.com/product/21.html
+  -> 烘干机专用_深圳市聚力感应技术有限公司 http://www.szgeelly.com/product/10.html
+  -> 熔金炉（带冷水机）_深圳市聚力感应技术有 http://www.szgeelly.com/product/76.html
+  -> 0.5-3公斤柜体熔炼炉GHF-08R系 http://www.szgeelly.com/product/67.html
+  -> 2-6公斤柜式熔炼炉GHF-16R系列_ http://www.szgeelly.com/product/68.html
+  -> 5-10公斤柜式熔炼炉_深圳市聚力感应技 http://www.szgeelly.com/product/66.html
+  -> 黄金铂金粉末金属熔炉_深圳市聚力感应技术 http://www.szgeelly.com/product/64.html
+  -> 黄金铂金粉末金属熔炉_深圳市聚力感应技术_1 http://www.szgeelly.com/product/63.html
+  -> 镀银铜线圈_深圳市聚力感应技术有限公司 http://www.szgeelly.com/product/120.html
+  -> 淬火圈_深圳市聚力感应技术有限公司 http://www.szgeelly.com/product/119.html
+  -> 金刚石锯片焊接圈_深圳市聚力感应技术有限 http://www.szgeelly.com/product/113.html
+  -> 多圈感应圈_深圳市聚力感应技术有限公司 http://www.szgeelly.com/product/112.html
+  -> 双层圈_深圳市聚力感应技术有限公司 http://www.szgeelly.com/product/111.html
+  -> 圆圈_深圳市聚力感应技术有限公司 http://www.szgeelly.com/product/110.html
+  -> 软电缆_深圳市聚力感应技术有限公司 http://www.szgeelly.com/product/118.html
+  -> 软电缆_深圳市聚力感应技术有限公司_1 http://www.szgeelly.com/product/116.html
+  -> 同轴水冷电缆_深圳市聚力感应技术有限公司 http://www.szgeelly.com/product/115.html
+  -> 2-4米软电缆_深圳市聚力感应技术有限公 http://www.szgeelly.com/product/108.html
+  -> 感应加热设备GUF-0610N-200-_1 http://www.szgeelly.com/product/143.html?productCateId=37
+  -> 超高频加热机GUF-044KW-200K_1 http://www.szgeelly.com/product/40.html?productCateId=37
+  -> 频率100KHZ大线圈超高频_深圳市聚力_1 http://www.szgeelly.com/product/75.html?productCateId=49
+  -> 感应加热设备GUF10-400K10KW_1 http://www.szgeelly.com/product/139.html?productCateId=49
+  -> 感应加热设备GUF-20-400K20K_1 http://www.szgeelly.com/product/138.html?productCateId=49
+  -> 感应加热设备GUF-30-400K30K_1 http://www.szgeelly.com/product/74.html?productCateId=49
+  -> 感应加热设备GUF-60-400K60K_1 http://www.szgeelly.com/product/80.html?productCateId=49
+  -> 真空熔炼浇注炉_深圳市聚力感应技术有限公_1 http://www.szgeelly.com/product/82.html?productCateId=50
+  -> 多功能自动熔融炉_深圳市聚力感应技术有限_1 http://www.szgeelly.com/product/145.html?productCateId=50
+  -> 真空加热熔炼炉（石英腔体）_深圳市聚力感_1 http://www.szgeelly.com/product/72.html?productCateId=50
+  -> 真空加热熔炼炉（不锈钢罐体）_深圳市聚力_1 http://www.szgeelly.com/product/71.html?productCateId=50
+  -> 真空浇注熔炼炉（不锈钢罐体）_深圳市聚力_1 http://www.szgeelly.com/product/70.html?productCateId=50
+  -> 真空加热熔炼炉（石英腔）_深圳市聚力感应_1 http://www.szgeelly.com/product/69.html?productCateId=50
+  -> 感应区域熔炼炉_深圳市聚力感应技术有限公 http://www.szgeelly.com/product/9.html?productCateId=50
+  -> 超音频锻造炉40--90KW_深圳市聚力_1 http://www.szgeelly.com/product/84.html?productCateId=8
+  -> 3-8米手持焊接机_深圳市聚力感应技术有_1 http://www.szgeelly.com/product/8.html?productCateId=38
+  -> 手持式感应焊接机_深圳市聚力感应技术有限_1 http://www.szgeelly.com/product/146.html?productCateId=55
+  -> 移动加热机（带小分机）_深圳市聚力感应技_1 http://www.szgeelly.com/product/135.html?productCateId=7
+  -> 3-8米手持焊接机_深圳市聚力感应技术有_2 http://www.szgeelly.com/product/8.html?productCateId=7
+  -> 温控器_深圳市聚力感应技术有限公司_1 http://www.szgeelly.com/product/142.html?productCateId=9
+  -> 圆锯片焊接机_深圳市聚力感应技术有限公司_1 http://www.szgeelly.com/product/95.html?productCateId=9
+  -> 感应加热设备GUF-30-400K30K_2 http://www.szgeelly.com/product/74.html?productCateId=11
+  -> 石墨坩埚套件1-10KG_深圳市聚力感应_1 http://www.szgeelly.com/product/125.html?productCateId=20
+  -> 石英陶瓷坩埚1-5KG_深圳市聚力感应技_1 http://www.szgeelly.com/product/129.html?productCateId=20
+  -> 圆柱形石英坩埚_深圳市聚力感应技术有限公 http://www.szgeelly.com/product/132.html?productCateId=20
+  -> 简易结构中频熔炉_深圳市聚力感应技术有限_1 http://www.szgeelly.com/product/152.html?productCateId=15
+  -> 石墨坩埚熔炼炉5-200kg_深圳市聚力_1 http://www.szgeelly.com/product/154.html?productCateId=52
+  -> 碳硫分析坩埚_深圳市聚力感应技术有限公司_1 http://www.szgeelly.com/product/149.html?productCateId=11
+  -> 0.5-3公斤小熔炉（经济型）_深圳市聚 http://www.szgeelly.com/product/57.html?productCateId=15
+  -> 简易结构中频熔炉_深圳市聚力感应技术有限_2 http://www.szgeelly.com/product/152.html?productCateId=53
+  -> 熔金炉（带冷水机）_深圳市聚力感应技术有_1 http://www.szgeelly.com/product/76.html?productCateId=53
+  -> Inductionheatingmach http://en.szgeelly.com/product/5
+    -> 感应加热机 
+    -> 移动加热器 
+    -> 定制自动化机器 
+    -> 感应线圈&坩埚 
+    -> 焊接加工及应用 
+  -> Inductionmeltingfurn http://en.szgeelly.com/product/6
+    -> 5kg 熔炼炉 
+    -> 3kg 熔炼炉 
+    -> Drop 熔炼机 
+    -> GUF-10M 熔炼机 
+    -> GUF-03M 熔炼机 
+    -> GUF-05M 熔炼机 
+  -> HotForgingfurnace_Pr http://en.szgeelly.com/product/8
+    -> Hot Forging furnace 
+    -> Hot Forging furnace 
+    -> Hot Forging furnace 
+    -> hot forging machine 
+  -> Mobileheater_Product http://en.szgeelly.com/product/7
+  -> CustomAutomationMach http://en.szgeelly.com/product/9
+    -> 感应线圈 
+  -> Inductioncoil&crucib http://en.szgeelly.com/product/10
+  -> Brazingandprocess(OE http://en.szgeelly.com/product/15
+  -> WaterCoolingSystem_P http://en.szgeelly.com/product/14
+  -> 产品总汇_感应加热设备_高频焊接机_手持 http://www.szgeelly.com/intro/2.html
+    -> 中高频感应加热设备 
+    -> 锻造炉 
+    -> 手持移动加热机 
+    -> 自动化成套定制机 
+    -> 感应圈、坩埚 
+    -> 高频焊接加工 
+  -> 感应加热设备GUF-06-700K6KW http://www.szgeelly.com/product/49.html?productCateId=37
+  -> 感应加热设备GUF-80-400K80K_1 http://www.szgeelly.com/product/136.html?productCateId=49
+  -> 感应加热设备GUF-100-400K10 http://www.szgeelly.com/product/137.html?productCateId=49
+  -> 感应加热设备GHF-1515KVA-30_1 http://www.szgeelly.com/product/24.html?productCateId=36
+  -> GHF-15AB分体时间控制型_深圳市聚_1 http://www.szgeelly.com/product/27.html?productCateId=36
+  -> GHF-25一体型_深圳市聚力感应技术有_1 http://www.szgeelly.com/product/28.html?productCateId=36
+  -> GHF-25B分体型_深圳市聚力感应技术_1 http://www.szgeelly.com/product/30.html?productCateId=36
+  -> GHF-25A时间控制型_深圳市聚力感应 http://www.szgeelly.com/product/29.html?productCateId=36
+  -> GSF-120B超音频_深圳市聚力感应技_1 http://www.szgeelly.com/product/21.html?productCateId=11
+  -> GMF-35,45中频电源_深圳市聚力感_2 http://www.szgeelly.com/product/16.html?productCateId=11
+  -> GMF-70,90,110中频电源_深圳 http://www.szgeelly.com/product/17.html?productCateId=11
+  -> GHF-70B（AB）高效型_深圳市聚力 http://www.szgeelly.com/product/39.html?productCateId=11
+  -> GSF-70B超音频_深圳市聚力感应技术_1 http://www.szgeelly.com/product/19.html?productCateId=11
+  -> GSF-40B超音频_深圳市聚力感应技术_1 http://www.szgeelly.com/product/18.html?productCateId=11
+  -> GSF-160B超音频_深圳市聚力感应技_1 http://www.szgeelly.com/product/22.html?productCateId=11
+  -> 3-8米手持焊接机_深圳市聚力感应技术有_3 http://www.szgeelly.com/product/8.html?productCateId=11
+  -> 3-10公斤熔炉GHF-20R系列_深圳_1 http://www.szgeelly.com/product/81.html?productCateId=53
+  -> 0.5-3公斤柜体熔炼炉GHF-08R系_1 http://www.szgeelly.com/product/67.html?productCateId=53
+  -> 2-6公斤柜式熔炼炉GHF-16R系列__1 http://www.szgeelly.com/product/68.html?productCateId=53
+  -> 5-10公斤柜式熔炼炉_深圳市聚力感应技_1 http://www.szgeelly.com/product/66.html?productCateId=53
+  -> 5-8公斤柜式一体熔炼炉_深圳市聚力感应 http://www.szgeelly.com/product/65.html?productCateId=53
+  -> 黄金铂金粉末金属熔炉_深圳市聚力感应技术_2 http://www.szgeelly.com/product/63.html?productCateId=11
+  -> 超高频感应加热设备GUF-06B6KW分 http://www.szgeelly.com/product/44.html?productCateId=11
+  -> 淬火圈_深圳市聚力感应技术有限公司_1 http://www.szgeelly.com/product/119.html?productCateId=24
+  -> 镀银铜线圈_深圳市聚力感应技术有限公司_1 http://www.szgeelly.com/product/120.html?productCateId=24
+  -> 感应加热设备GHF-1515KVA-30_2 http://www.szgeelly.com/product/24.html?productCateId=11
+  -> 圆圈_深圳市聚力感应技术有限公司_1 http://www.szgeelly.com/product/110.html?productCateId=24
+  -> 单圈感应圈_深圳市聚力感应技术有限公司 http://www.szgeelly.com/product/106.html?productCateId=24
+  -> 石英碗_深圳市聚力感应技术有限公司 http://www.szgeelly.com/product/128.html?productCateId=20
+  -> 1-6公斤熔炉（经济型）_深圳市聚力感应 http://www.szgeelly.com/product/59.html?productCateId=15

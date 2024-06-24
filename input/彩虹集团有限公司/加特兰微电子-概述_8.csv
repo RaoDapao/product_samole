@@ -1,0 +1,10 @@
+产品网址：https://www.calterah.com/producttypes/intro-rhine-mini/#
+产品结构：root->加特兰微电子-概述
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Rhine-Mini|CAL60S322-IC|工业级全集成毫米波雷达 SoC（封装集成片上天线），具有 2 个发射通道和 2 个接收通道，工作频率为 59GHz—64GHz，支持自动增益控制、帧交错等功能，高速 ADC 采样率高达 25MS/s，同时支持降采样功能，雷达信号处理基带由硬件电路实现，CPU 为 200MHz ARC®EM22FS 双核处理器，片内存储空间为 768KiB RAM，外设接口包括 SPI/QSPI/UART/I²C/LVDS/GPIOs，通过工业级可靠性测试|
+|Rhine-Mini|CAL60S322-ID|与 CAL60S322-IC 功能类似|
+|Alps-Mini/Rhine-Mini 数据采集板|DCK-AlpsMini&RhineMini|具有千兆以太网接口，支持实时 ADC 数据采集，支持同时进行雷达解算与原始数据采集，支持硬件在环调试|
+|Rhine-Mini AiP 雷达开发平台|RDP-60S322-IC-AIP|天线设计支持方位向和俯仰向到达角测量，EIRP 为 21dBm@61.5GHz，FOV（-6dB）为方位向±38°，俯仰向±39.5°，集成 Flash 和 JTAG，可连接数据采集板采集原始数据，具有便于使用的 USB 接口|
+|Rhine-Mini AiP 雷达开发平台|RDP-60S322-ID-AIP|天线设计支持 2×2MIMO 阵列的方位向到达角估计，EIRP 为 16.5dBm@61.5GHz，FOV（-6dB）为方位向±36.5°，俯仰向±30°，集成 Flash 和 JTAG，可连接数据采集板采集原始数据，具有便于使用的 USB 接口|

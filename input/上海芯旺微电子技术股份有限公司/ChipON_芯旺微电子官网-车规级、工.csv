@@ -1,0 +1,21 @@
+产品网址：https://www.chipon-ic.com/Product/Index/705a6385-5d5c-4859-8f13-9b66e563c2fc
+产品结构：root->ChipON|芯旺微电子官网-车规级、工业级KungFu内核8位&32位MCU
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|通用 MCU|KF8F 系列|具备优异的功耗性能、抗干扰性能|
+|通用 MCU|KF8L 系列|低功耗通用 MCU|
+|通用 MCU|KF8TS 系列|触摸按键型通用 MCU|
+|通用 MCU|KF32F 系列|工业级通用 MCU|
+|通用 MCU|KF32LS 系列|单电源型通用 MCU|
+|通用 MCU|KF32L 系列|低功耗型通用 MCU|
+|汽车 MCU|KF8A 系列|无|
+|汽车 MCU|KF32A 系列|无|
+
+Unnamed: 0,Unnamed: 1,系列介绍,Flash,RAM,HFOSC,资源特色,性能特点
+8位通用MCU,KF8F系列,高可靠型通用控制型8位MCU,2KB~64KB,144Byte~4KByte,4Mhz~32Mhz,数模混合设计理念，丰富外设资源，包括ADC/DAC/PWM/CCP/ECCP/TOUCH/LCD/LED/USART/IIC/SPI等外设资源,高抗干扰性能，批量的一致性以及超低功耗性能
+8位通用MCU,KF8TS系列,高稳定性触控合一型8位MCU,4KB~16KB,272byte~1040byte,16Mhz,Touch Key/ADC/PWM/EEPROM等,支持点击、滑条、滑轮等触摸形式；可通过10V CS注入电流测试
+8位通用MCU,KF8L系列,超低功耗型8位MCU,8KB~64KB,400byte~4KB,4Mhz/16Mhz/20Mhz,拥有LCD/ADC/DAC/PWM/TOUCH等丰富外设资源,小于1uA的休眠电流。休眠模式+RTC+WDT功耗1.5uA
+32位通用MCU,KF32F系列,工业级通用KungFu内核32位MCU,UP TO 512KB,UP TO 128KB,UP TO 120MHz,多路高级定时器、ADC、DAC、PWM、ECCP、CAN、USART、SPI、IIC等外设资源；,120M/150DMIPS;ESD:8KV(HBM);EFT:4.2KV
+32位通用MCU,KF32L系列,高性能低功耗型32位MCU-KF32L系列,UP TO 512KB,UP TO 128KB,UP TO 120MHz,ADC\DAC\PWM\LCD\TOUCH\CAN\USART\SPI\IIC\USB等外设资源,低至60uA/MHz的动态运行功耗，高达120MHz/150DMIPS处理速度。
+32位通用MCU,KF32LS系列,超低功耗KungFu内核KF32LS系列,UP TO 512KB,UP TO 128KB,48MHz,"提供丰富外设资源，包括：ADC,DAC,LCD,Touch，支持CAN、USART、USB、SPI",单组电源口，高I/O占比

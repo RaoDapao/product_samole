@@ -1,0 +1,32 @@
+-> root https://autochips.com
+  -> 产品服务_杰发科技-汽车电子芯片专业设计 https://autochips.com/products.html
+    -> 智能座舱域控制芯片 
+    -> 车规级座舱 SoC 芯片 
+    -> 车联网芯片 
+    -> 车联网模组 
+    -> 前装 IVI SOC 芯片 
+    -> 后装 IVI SOC 芯片 
+  -> 产品服务_杰发科技-汽车电子芯片专业设计_1 https://autochips.com/products.html?pro=mcu&rid=5
+    -> 汽车应用处理器 
+    -> 汽车应用处理器 
+    -> 汽车应用处理器 
+    -> 汽车应用处理器 
+    -> 汽车应用处理器 
+    -> 车规级微控制器 
+    -> 车规级微控制器 
+    -> 车规级微控制器 
+    -> 车规级微控制器 
+    -> 音频功率放大器 
+    -> 胎压监测专用传感器芯片 
+    -> 软件平台 
+    -> 解决方案 
+  -> 产品服务_杰发科技-汽车电子芯片专业设计_2 https://autochips.com/products.html?pro=amp&rid=6
+  -> 产品服务_杰发科技-汽车电子芯片专业设计_3 https://autochips.com/products.html?pro=tpms&rid=7
+  -> 产品服务_杰发科技-汽车电子芯片专业设计_4 https://autochips.com/products.html?pro=soft&rid=3
+    -> 车载音频功率放大器 
+    -> 车载音频功率放大器 
+    -> 360°3D 高清环视 AVM 
+  -> 产品服务_杰发科技-汽车电子芯片专业设计_5 https://autochips.com/products.html?pro=solution&rid=2
+    -> 电机算法 
+  -> 杰发科技AC7801x通过功能安全ISO https://autochips.com/ndetail/1040.html
+  -> 重磅！杰发科技AC7840x车规级MCU https://autochips.com/ndetail/1039.html

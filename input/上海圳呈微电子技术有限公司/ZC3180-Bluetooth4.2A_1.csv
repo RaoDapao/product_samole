@@ -1,0 +1,22 @@
+产品网址：https://www.unisim-micro.com/productinfo/521250.html#
+产品结构：root->ZC3180-Bluetooth4.2AudioSoC-上海圳呈微电子技术有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Bluetooth SoC 芯片|ZC3180|ZC3180 是一款高度集成的 SoC，用于蓝牙音频流处理和音频播放器。与传统蓝牙音频解决方案相比，ZC3180 提供了低成本、低功耗、灵活且更强大的蓝牙音频解决方案。应用包括蓝牙高质量单声道、立体声耳机、汽车音频、车载套件、蓝牙扬声器、音乐盒等。平台包括高速低功耗 CPU、高性能音频 DSP、片上 Flash、嵌入式语音处理器、高性能 SBC 解码器、高性能音频编解码器、PMU、RTC、SD/MMC 卡控制器、高性能片上 RF 收发器、集成功率放大器、嵌入式 8 通道 12 位 1Mbps SAR ADC、高速/低速 UART 端口、4 组 PWM、4 组 SPI 接口、IIC 接口、各种 GPIO。功能包括支持蓝牙 V4.2 SPEC、蓝牙 V2.1+EDR 兼容、低级别蓝牙协议嵌入（LMP、L2CAP、RFCOMM、SDP 等）、耳机配置文件（HSP）V1.2、免提配置文件（HFP）V1.6、高级音频分发配置文件（A2DP）V1.2、音频/视频远程控制配置文件（AVRCP）V1.5、立体声音频播放和远程控制应用、高性能噪声抑制、回声消除算法、接收灵敏度：-90dbm、输出功率：9dBm|
+
+Operation Mode,Unit,Min,Typical,Max
+Inquiry &Page Scan,mA,16.0,18.0,20.0
+Play stereo Music(A2DP),mA,15.0,17.0,19.0
+Phone Call(ESCO),mA,15.0,16.0,17.0
+Sniff Mode(Idle),mA,1.0,2.0,3.0
+Power Off,uA,0.0,1.0,2.0
+
+
+Type,Package,Embedded
+ZC3180,LQFP7*7 48L,4M FLASH
+ZC3181,QFN5*5 32L,4M FLASH
+ZC3184,SSOP 28L,4M FLASH
+ZC3185,QFN5*5 40L,4M FLASH
+ZC3186,QFN5*5 40L,4M FLASH
+ZC3187,LQFP8*8 64L,4M FLASH

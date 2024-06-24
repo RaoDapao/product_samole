@@ -1,0 +1,6 @@
+产品网址：http://www.i-core.cn/proshow/601.html
+产品结构：root->产品中心-无锡中微爱芯电子有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|逻辑芯片|AiP74AUP1T34|Low Power Dual Supply Translating Buffer，提供单个缓冲器，具有两个独立的电源电压。输入 A 设计用于跟踪 VCC(A)，输出 Y 设计用于跟踪 VCC(Y)。VCC(A)和 VCC(Y)均接受 1.1V 至 3.6V 的任何电源电压。此功能允许在 1.2V、1.5V、1.8V、2.5V 和 3.3V 电压节点之间进行通用低压接口。|

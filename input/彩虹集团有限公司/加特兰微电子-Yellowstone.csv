@@ -1,0 +1,6 @@
+产品网址：https://www.calterah.com/producttypes/yellowstone
+产品结构：root->加特兰微电子-Yellowstone
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Yellowstone|CAL60A2T4R|2 个 60GHz 发射通道，最大输出功率 10dBm，6bits 移相器，支持 BPSK 调制，4 个 60GHz 接收通道，OP1dB>11dBm，5.0MHz 下变频增益范围 44.5dB~80.5dB，集成高通滤波器，5.0MHz 下典型 SSB 噪声系数 13.5dB，基带中频峰值检测器，60GHz 频率合成器，环路滤波器带宽 1/2/3MHz，59GHz 至 61GHz 使用 40MHz 晶体或 40/80MHz 参考时钟，59GHz 至 61GHz 也可使用 50MHz 晶体或 50/100MHz 参考时钟，支持可配置的 FMCW 信号生成，支持同步输出信号，典型电源电流值 350mA@1.5V，40mA@3.3V，典型功耗 0.66W|

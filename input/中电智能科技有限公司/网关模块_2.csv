@@ -1,0 +1,8 @@
+产品网址：http://itocec.com/Index/lists/catid/113.html
+产品结构：首页->产品与服务->小型PLC产品IS20系列->网关模块
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Probus DP 从站模块|IS20-E6021|主要完成 Probus-DP 的通讯处理，并将处理好的数据发送给 CPU 模块，由 CPU 模块处理|
+|EthweNet/IP 从站网关|IS20-E6151|处理 EthernetIP 通讯协议，并将处理好的数据发送给 CPU 模块，由 CPU 模块处理|
+|Modbus TCP 从站模块|IS20-E6171|处理 ModbusTCP 通讯协议，并将处理好的数据发送给 CPU 模块，由 CPU 模块处理|

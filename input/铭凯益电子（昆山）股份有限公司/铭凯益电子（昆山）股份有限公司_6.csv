@@ -1,0 +1,86 @@
+产品网址：https://www.ksmke.com/Product/info.aspx?itemid=1174&lcid=4
+产品结构：root->铭凯益电子（昆山）股份有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|蒸发金|无|由金合金材料制成，是在半导体晶片表面形成薄膜用的核心材料，可按照客户的要求设计不同的合金成分。拥有精密铸造及分析系统，并以 ts16949 质量系统及 6sigma 质量管理标准，竭尽全力满足客户的品质要求|
+
+品目,品目.1,规格,形态,包装单位 (gr)
+Au-Pure (G),G1,Ø1.0 X ℓ40,Wire,100.0
+Au-Pure (G),G2,Ø1.0 X ℓ40,Wire,50.0
+Au-Pure (G),G3,Ø2.0 X ℓ20,Wire,100.0
+Au-Pure (G),G4,Ø1.0 Roll,Wire,100.0
+Au-Pure (G),G5,Ø2.0 Roll,Wire,100.0
+Au-Pure (G),G6,Ø3~6,Granule,50.0
+Au-Pure (G),G7,Ø2.0 X ℓ10,Wire,100.0
+Au-Pure (G),G8,Ø2.0 X ℓ7,Wire,100.0
+Au-Pure (G),G9,Ø3.0 X ℓ6,Wire,100.0
+Au-Pure (G),G10,Ø2.0 X ℓ3.3,,100.0
+Au-Pure (G),G11,Ø2.0 X ℓ5,Granule,100.0
+Au/Ge/Sb (GGS),FGGS,Ø3~6,Granule,500.0
+KGGS,Ø3~6,Granule,500,
+Au/Ge/Ni (GGN),GGN1,Ø2 X ℓ7,Wire,100.0
+Au/Ge/Ni (GGN),GGN2,Ø2 X ℓ7,Wire,100.0
+Au/Ge (GG),GG1,Ø3~6,Granule,500.0
+Au/Ge (GG),GG2,Ø3~6,Granule,100.0
+Au/Ge (GG),GG3,Ø2 X ℓ7,Wire,100.0
+Au/Ge (GG),GG4,Ø3 X ℓ6,Wire,100.0
+Au/Ge (GG),GG5,Ø2 X ℓ7,Wire,100.0
+Au/Ge (GG),GG6,Ø3~6,Granule,100.0
+Au/Ge (GG),GG7,Ø2 X ℓ7,Wire,100.0
+Au/Be (GB),GB1,Ø3~6,Granule,50.0
+Au/Be (GB),GB2,Ø3 X ℓ6,Wire,100.0
+Au/Be (GB),GB3,Ø2 X ℓ7,Wire,100.0
+Au/Be (GB),GB4,Ø1~10,Granule,100.0
+Au/Sb (GSB),GSB1,Ø1.0 X ℓ60,Wire,100.0
+Au/Sn (GSN),GSN1,Ø3~6,Granule,100.0
+Au/Sn (GSN),GSN2,Ø3 X ℓ6,Wire,100.0
+Au/Sn (GSN),GSN3,Ø3 X ℓ6,Wire,100.0
+Au/Sn (GSN),GSN4,Ø2 X ℓ7,Wire,50.0
+Au/Sn (GSN),GSN5,Ø2 X ℓ7,Wire,100.0
+Au/Sn (GSN),GSN6,Ø3~6,Granule,100.0
+Au/Zn (GZ),GZ1,Ø1.0 Roll,Wire,50.0
+Au/Zn (GZ),GZ2,Ø3 X ℓ6,Wire,100.0
+Au/Zn (GZ),GZ3,Ø3 X ℓ6,Wire,100.0
+Au/La (GL),GL1,Ø1~10,Granule,100.0
+
+
+产品目录,产品目录.1,成分 (wt%),成分 (wt%).1,成分 (wt%).2,成分 (wt%).3,成分 (wt%).4,成分 (wt%).5,成分 (wt%).6
+产品目录,产品目录,Au,Ge,Sb,Be,Sn,Zn,Ni
+Au-Pure (G),G1,99.999,,,,,,
+Au-Pure (G),G2,99.999,,,,,,
+Au-Pure (G),G3,99.999,,,,,,
+Au-Pure (G),G4,99.999,,,,,,
+Au-Pure (G),G5,99.999,,,,,,
+Au-Pure (G),G6,99.999,,,,,,
+Au-Pure (G),G7,99.999,,,,,,
+Au-Pure (G),G8,99.999,,,,,,
+Au-Pure (G),G9,99.999,,,,,,
+Au-Pure (G),G10,99.999,,,,,,
+Au-Pure (G),G11,99.999,,,,,,
+Au/Ge/Sb (GGS),FGGS,Bal.,12.0±0.2,0.20±0.02,,,,
+Au/Ge/Sb (GGS),KGGS,Bal.,12.0±0.2,(Au+Ge)*0.06,,,,
+Au/Ge/Ni (GGN),GGN1,Bal.,2.0±0.2,-,,,,3.0±0.2
+Au/Ge/Ni (GGN),GGN2,Bal.,12.0±0.2,-,,,,4.0±0.2
+Au/Ge (GG),GG1,Bal.,12.0±0.2,-,,,,
+Au/Ge (GG),GG2,Bal.,12.0±0.2,-,,,,
+Au/Ge (GG),GG3,Bal.,12.0±0.2,-,,,,
+Au/Ge (GG),GG4,Bal.,2.0±0.2,-,,,,
+Au/Ge (GG),GG5,Bal.,2.0±0.2,-,,,,
+Au/Ge (GG),GG6,Bal.,15.0±0.2,-,,,,
+Au/Ge (GG),GG7,Bal.,1.0±0.2,-,,,,
+Au/Be (GB),GB1,Bal.,,-,0.98±0.02,,,
+Au/Be (GB),GB2,Bal.,,-,1.0±0.2,,,
+Au/Be (GB),GB3,Bal.,,-,1.0±0.2,,,
+Au/Be (GB),GB4,Bal.,,-,1.0±0.2,,,
+Au/Sb (GSB),GSB1,Bal.,,0.50±0.02,,,,
+Au/Sn (GSN),GSN1,Bal.,,,,30.0±0.5,,
+Au/Sn (GSN),GSN2,Bal.,,,,20.0±0.5,,
+Au/Sn (GSN),GSN3,Bal.,,,,12.0±0.2,,
+Au/Sn (GSN),GSN4,Bal.,,,,30.0±0.5,,
+Au/Sn (GSN),GSN5,Bal.,,,,20.0±0.5,,
+Au/Sn (GSN),GSN6,Bal.,,,,20.0±0.5,,
+Au/Zn (GZ),GZ1,Bal.,,,,,5.0±0.2,
+Au/Zn (GZ),GZ2,Bal.,,,,,5.0±0.2,
+Au/Zn (GZ),GZ3,Bal.,,,,,12.0±0.2,
+Au/La (GL),GL1,Bal.,,,,,,1.8＋0.2

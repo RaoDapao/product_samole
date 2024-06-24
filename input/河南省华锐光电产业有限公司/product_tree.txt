@@ -1,0 +1,16 @@
+-> root https://www.chinatop.net.cn
+  -> 产品技术- https://www.chinatop.net.cn/index.php/porduct.html
+    -> 手机显示 
+    -> 智能工控 
+    -> 平板显示 
+    -> MiniLED 
+    -> 生物传感器 
+    -> 电子纸 
+  -> 产品技术-_1 https://www.chinatop.net.cn/index.php/technology.html
+  -> 产品技术-_2 https://www.chinatop.net.cn/index.php/porduct/info/2.html
+  -> 产品技术-_3 https://www.chinatop.net.cn/index.php/porduct/info/7.html
+  -> 产品技术-_4 https://www.chinatop.net.cn/index.php/porduct/info/6.html
+  -> 产品技术-_5 https://www.chinatop.net.cn/index.php/porduct/info/5.html
+  -> 产品技术-_6 https://www.chinatop.net.cn/index.php/porduct/info/4.html
+  -> 产品技术-_7 https://www.chinatop.net.cn/index.php/porduct/info/3.html
+  -> 产品技术-_8 https://www.chinatop.net.cn/index.php/porduct/info1.html

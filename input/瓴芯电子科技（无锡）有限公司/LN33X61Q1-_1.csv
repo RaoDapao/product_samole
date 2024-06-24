@@ -1,0 +1,22 @@
+产品网址：https://www.len-technology.com/en/products/led/led-details/ln33x61
+产品结构：root->LN33X61Q1-
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|LED Driver|LN33X61Q1|Automotive, 60V, 1.5A, Synchronous Step-Down LED Driver|
+
+Operating voltage Min (V),3.5
+Operating voltage Max (V),60
+Output current (A),Up to 1.5
+Synchronous (integrated highside and lowside mosfet),Yes
+Operating quiescent current (uA),70
+Shutdown quiescent current (uA),1.2
+Light load mode,PFM
+Switching frequency (KHz),200 to 2500
+EMI Performance,Yes
+Other functions,"Enable pin；  PWM/Analog Dimming；  Internal Compensation；  Fault Indicator for LED Short, Open；"
+Protection.,Accurate Peak and Valley Current Clamp；  Output short-circuit protection with hiccup mode；  Accurate Vin UVLO protection；  Over-temperature shuntdown and recovery；
+Package,SOIC-8EP
+Rating,AEC-Q100 Grade1
+Operating junction temperature,-40 to 150
+Functional safety supported,Functional Safety Supported

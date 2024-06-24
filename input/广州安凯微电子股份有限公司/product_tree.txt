@@ -1,0 +1,14 @@
+-> root http://anyka.com
+  -> 首页 
+    -> 产品中心 
+      -> 芯片系列 http://anyka.com/productInfo.aspx?id=109
+        -> 芯片 
+        -> 芯片 
+        -> 芯片 
+        -> 芯片 
+        -> 芯片 
+    -> 人力资源 
+      -> 社会招聘 http://anyka.com/jobdetail.aspx?id=464
+  -> Home 
+    -> Product 
+      -> ICProduct http://anyka.com/en/productInfo.aspx?id=109

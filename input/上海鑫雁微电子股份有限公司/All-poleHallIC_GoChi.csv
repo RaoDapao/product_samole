@@ -1,0 +1,11 @@
+产品网址：http://en.golden-chip.com/product.aspx?classid=453
+产品结构：root->All-poleHallIC_GoChipElectronicTechnology(Shanghai)Co.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|全极型霍尔集成电路|无|内部采用睡眠机制降低功耗，平均功耗可达 uA 级；典型特点为低功耗、高灵敏度、抗干扰能力强；典型应用于智能三表、智能门锁、智能开关控制、空气净化器等小家电、扫地机器人、TWS 耳机充电仓|
+
+Model,Magnetic switch point,Package form,Temperature range,Voltage range,Output current,Download
+GH1248,±16/±10G,TO-92S/SOT-23-3L,5mA,2.5Vdc~5.5Vdc,-40℃~85℃,Download
+GH1250,±35/±15G,TO-92S/SOT-23-3L,5mA,2.5Vdc~5.5Vdc,-40℃~85℃,Download
+GH1253,±16/±10G,TO-92S/SOT23-3L,5mA,2.5Vdc~5.5Vdc,-40 ℃~ 85 ℃,Download

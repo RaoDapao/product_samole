@@ -1,0 +1,79 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/921.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Network Camera|TC-C35JS|·Metal housing<br>·S+265/H.265/H.264B/H.264M/H.264H/Motion JPEG<br>·Color:0.002Lux@(F1.6,AGC ON),B/W:0Lux with IR<br>·IR Range 50m<br>·Support microSD/microSDHC/microSDXC card, up to 512 GB<br>·Support Smart surveillance, Face Capture<br>·Support Human/Vehicle Classification<br>·Operating Conditions -40℃~65℃(No turning on the light), Humidity 95% or less (no condensation)<br>·DC12V±25%,MAX 7W, POE 802.3af,MAX 8W<br>·IP67|
+
+Camera,Unnamed: 1
+Image Sensor,"1/2.7""CMOS"
+Min. Illumination,"Color:0.002Lux@(F1.6,AGC ON),B/W:0Lux with IR"
+Shutter Time,1s~1/100000s
+Day&Night,IR-cut filter with auto switch (ICR)
+WDR,120dB
+S/N,>39dB
+Angle Adjustment,0~360°(P); 0~75°(T); 0~360°(R)
+Lens,
+Lens Type,Fixed focal lens
+Focal Length,2.8mm
+Lens Mount,M12
+Aperture Range,F1.6
+Field of View,109°(H); 59°(V); 125.4°(D)
+DORI Distance,Detect:56m Observe:22m Recognize:11m Identify:5.6m
+Illuminator,
+IR LEDs,2
+IR Distance,50m
+Wavelength,850nm
+Compression Standard,
+Video Compression,S+265/H.265/H.264B/H.264M/H.264H/Motion JPEG
+Video Bit Rate,32k~16Mbps
+Image,
+Max. Resolution,2880×1620@30fps
+Main Stream,"PAL:25fps(2880×1620, 2688×1520, 2560×1440, 2304×1296) 50fps(1920×1080, 1280×720) NTSC:30fps(2880×1620, 2688×1520, 2560×1440, 2304×1296) 60fps(1920×1080, 1280×720)"
+Sub Stream,"PAL:25fps(704×576, 704×288, 352×288, 640×360) NTSC:30fps(704×480, 704×240, 352×240, 640×360)"
+Third Stream,"PAL:25fps(1920×1080, 1280×720, 704×576, 640×360, 704×288, 352×288) NTSC:30fps(1920×1080, 1280×720, 704×480, 640×360, 704×240, 352×240)"
+BLC,Yes
+HLC,Yes
+AGC,Yes
+3D DNR,Yes
+White Balance,Auto/Semi-Auto/Manual/Sunshine/Nature Light/Warmlight Lamp/Daylight Lamp/Filament Lamp/Lock White Balance
+ROI,8 rectangular static areas
+Corridor mode,Yes
+OSD,"Overlay of additional characters in 5 regions, 2 lines, with a maximum of 127 characters or 42 Chinese characters per region; 16*16/32*32/48*48/64*64/96*96"
+Picture Overlay,1*200x200 size BMP 24 color bit image overlay
+Privacy Mask,4 black static areas
+Defog,Yes
+Feature,
+Alarm Trigger,Motion Detection; Mask Alarm; Voltage Alarm; Disk Full; Disk R/W Error; IP Address Conflict; MAC Address Conflict; FTP Server Exception
+Linkage Method,send email; trigger recording; trigger capture; notify surveillance center
+Video Analytics,Human/Vehicle Classification; Tripwire; Double Tripwire; Perimeter; Object Abandon; Object Lost; Heatmap; Loitering; Running; Parking; People Counting;  Crowed; Safety Helmet Detection; On Duty Detection; Video Abnormal
+Rules of behavior analyse in 1 scene,8
+Face Mode,Face Capture
+Face Detection Performance,32; 16
+Network,
+ANR,Yes
+Protocols,HTTP; HTTPS; TCP/IP; UDP; UPnP; ICMP; IGMP; SNMP; DHCP; DNS; DDNS; Easy DDNS; NTP; SMTP; SSL; 802.1X; QoS; IPv4; IPv6; PPPOE; SSH; Unicast;  Multicast; RTCP; ARP; SRTP; RTSP; FTP; SFTP; NAS
+System Compatibility,ONVIF Profile S/T/G/M; CGI; Milestone; RTMP
+Remote Connection,≤7
+Client,Easy7 Smart Client
+Moblie Client,EasyLive Plus
+Interface,
+Communication Interface,"1*RJ-45,10/100 Mbps self-adaptive Ethernet port"
+Reset Button,Yes(Built-in)
+On-board storage,"Support microSD/microSDHC/microSDXC card, up to 512 GB"
+RTC,Yes
+General,
+Web Client Language,19 languages Simple Chinese/Traditional Chinese/English/Spanish/Korean/Italian/Turkish/Russian/Thai/French/Polish/Dutch/Hebrew/Arabic/Vietnamese/German/  Ukrainian/Portuguese/Albanian
+Operating Temperature,-40℃~65℃(No turning on the light)
+Operating Humidity,Humidity 95% or less (no condensation)
+Storage Temperature,-40℃~65℃
+Storage Humidity,Humidity 95% or less (no condensation)
+Power Supply,"DC12V±25%,MAX 7W; POE 802.3af,MAX 8W"
+Protection,Surge4000V; ESD6000V; IP67
+Boundary Dimensions,188(L)73(W)73(H)mm
+Package Dimensions,215(L)95(W)120(H)mm
+GrossWeight,0.7kg
+
+
+Date,Title,Type
+2024-04-02,1D.20010.004211_TC-C35JS I5EMN2.8mmV4.1_en,pdf

@@ -1,0 +1,20 @@
+产品网址：https://www.yes-lcd.com/product/182.html
+产品结构：root->YMCE1013-0172AAAMFON_YesOptoelectronics（Group）Co.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|FPC 基板电子纸|YMCE1013-0172AAAMFON|高对比度分段显示，144 段设计，高反射率，超宽视角，超低功耗，商业温度范围，EPD 段驱动模块，I2C 接口从模式，低功耗电荷泵输出可编程，SN 接口在真空包装下可保持一年（或在非真空条件下保持 3 个月）|
+
+Parameter,Specifications,Unit,Remark
+Operating Voltage:,3.0,V,
+Drive method,STA,,
+Viewing Direction,FREE,,
+Operating Temp,0~40,°C,
+Storage Temp,-25~70,°C,
+Display type,Positive,,
+LCD controller/driver,"DM130160,I2C/SPI",,
+Screen Size,1.72,Inch,
+Active Area,39.7 (H)  ×  5.05 (V),mm,
+Outline Dimension,49.0 (H)  ×  13.85(V)  ×  0.52(D),mm,
+Segment Number,144,,
+Display Color,Mono color,mm,Black and White

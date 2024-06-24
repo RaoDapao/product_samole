@@ -1,0 +1,65 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=75&ncid=76&deid=91
+产品结构：root->Huahuan_Products_SmartEnterpriseGateway_H18EDD-2402BEthernetAggregation
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Ethernet Aggregation|H18EDD-2402B|是一款 24 端口以太网汇聚和接入设备，提供维护和部署的便利性、多业务支持、运营商级 OAM 管理、可靠的保护机制、QoS 策略、安全机制等服务优化措施，同时具有出色的可扩展性和可靠性。支持自动协商模式和手动模式，IEEE802.1Q VLAN、IEEE802.1ad VLAN，运营商级 OAM 管理，STP/RSTP/MSTP，链路聚合，QoS 功能，接口保护，巨型帧设置，流控制，LFP，DDM，MAC 地址转发控制，IEEE 802.1X 认证，ACL，广播风暴抑制，远程带内监控管理，远程电源故障报警，NTP 和 RMON，通过 TFTP 升级软件|
+
+Item,Descriptions
+VLAN,"IEEE 802.1Q , IEEE802.1ad"
+STP/RSTP/MSTP,"Point to point mode,  implements seconds level link protection switching to ensure highly reliable network quality"
+Link aggregation,"3 load sharing algorithms: S-MAC, D-MAC, S-MAC+D-MAC  ,  up to 14 aggregation groups"
+Loopback detection,"O  vercome  the influence of loops on network and improve the self-checking, fault tolerance, and robustness of network."
+QoS,"Port limited speed, port mirroring, priority trust, flow class, flow policy, priority mapping, queue scheduling"
+Interface protection,I  mplement  isolation of layer 2 and layer 3 data between interfaces in the interface protection group  .
+Flow control,coordinate two interfaces for normal transmission
+DDM,"Monitor  optical port connection status and quality and the intelligent optical module’s emission optical power, reception optical power, temperature, work voltage, laser offset current, and other parameters."
+EFM,"Complies with IEEE 802.3ah protocol  ,  a link-level Ethernet OAM technology  ,  focuses on link between two directly connected devices and provides link connectivity check, link fault monitoring, remote fault notification, and other functions."
+CFM,Conduct  active fault diagnosis for EVC (Ethernet Virtual Connection) and reduce network maintenance cost  .
+SLA,"Collect  statistics of response time, n  etwork jitter, delay, packet loss rate, and other network information  ,  monitor the related measures by selecting different jobs for different applications  ."
+LLDP,"Based on IEEE 802.1ab  ,  NMS can quickly master topology and changing conditions of layer-2 network."
+MAC address forwarding control,supports up to  16K MAC address table entries
+ACL,"B  ased  on port  , includes IP ACL and MAC ACL."
+Strom suppression,"The upper limit of bandwidth is 50Mbps  ,  supports limi  ting bandwidth of  three kinds of broadcast flow  :  Unknown unicast flow  ,  Unknown multicast flow  ,  Broadcast flow  ."
+LFP,"Link Fault Pass,  avoid flow loss when uplink fault cannot be sensed by the lower layer devices."
+RMON,"Remote Network Monitoring  ,  realizes functions of statistics and alarm  ,  monitor the remote device more actively and effectively than SNMP, making network administrators can track failures occurring to the network, segment and device more quickly."
+DHCP,"Dynamic Host Configuration Protocol  ,  client/server model  ,  realize dynamic configuration of things like IP address."
+NTP,"Network Time Protocol  ,  a time synchronization protocol defined by RFC1305, used for the time synchronization between distributed time server and client  ."
+
+
+100/1000 Base-Tx port,100/1000 Base-Tx port.1
+Interface specifications,"Complying with  IEEE 802.3  ,  IEEE-802.3u  ,  IEEE  802.1Q  ,  IEEE 802.1p"
+Interface rate,100M/1000M
+Operation mode,"Auto-negotiation, 1000M full-duplex, 1000M half-duplex, 100M full-duplex, 100M half-duplex"
+Interface connector,RJ-45  socket
+Interface number,2
+Frame length,The maximum frame length can be set to 20  00  or 97  20  bytes
+100/1000 Base-Fx port,100/1000 Base-Fx port
+Interface specifications,"Complying with  IEEE 802.3  ,  IEEE-802.3z  ,  IEEE 802.1Q  ,  IEEE 802.1p  ,  IEEE802.1ad  ,  IEEE802.1d  ,  IEEE802.1w  ,  IEEE802.3ad  ,  IEEE802.3ah  ,  IEEE802.1ag  ,  Y1731  and etc"
+Interface rate,100M/1000M
+Operation mode,"Auto-negotiation, 1000M full-duplex, 100M full-duplex"
+Interface connector,SFP socket
+Interface number,2
+Transmission wavelength and distance,Determined by optical module
+10/100 Base-Tx port,10/100 Base-Tx port
+Interface specifications,"Complying with  IEEE 802.3  ,  IEEE-802.3z  ,  IEEE 802.1Q  ,  IEEE 802.1p  ,  IEEE802.1ad  ,  IEEE802.1d  ,  IEEE802.1w  ,  IEEE802.3ad  ,  IEEE802.3ah  ,  IEEE802.1ag  ,  Y1731  and etc."
+Interface rate,10/100M
+Operation mode,"Auto-negotiation, 100M full-duplex, 100M half-duplex, 10M full-duplex, 10M half-duplex"
+Interface connector,SFP socket
+Interface number,1 NM out-of-band NM port
+Transmission wavelength and distance,Determined by optical module
+100 Base-Fx port,100 Base-Fx port
+Interface specifications,"Complying with  IEEE 802.3  ,  IEEE-802.3z  ,  IEEE 802.1Q  ,  IEEE 802.1p  ,  IEEE802.1ad  ,  IEEE802.1d  ,  IEEE802.1w  ,  IEEE802.3ad  ,  IEEE802.3ah  ,  IEEE802.1ag  ,  Y1731  and etc."
+Interface rate,100M
+Operation mode,"Auto-negotiation, 100M full-duplex"
+Interface connector,SFP socket
+Interface number,24
+Transmission wavelength and distance,Determined by optical module
+Power Supply,Power Supply
+Voltage,DC -48V(-36V~-72V)  AC ~220V (AC 85V~265V)
+Power consumption,Power consumption
+Consumption,≤8W
+Environment,Environment
+Working temperature,-5  º  C ~55  º  C
+Storage temperature,-40  º  C ~70  º  C
+Relative humidity,0%~95%(non-condensing)

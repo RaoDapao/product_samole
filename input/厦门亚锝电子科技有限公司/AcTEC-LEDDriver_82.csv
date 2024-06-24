@@ -1,0 +1,25 @@
+产品网址：http://actec.com.cn/productinfo.aspx?ParentId=99&Id=827
+产品结构：root->AcTEC-LEDDriver
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Casambi Phase-cut Dimmer|D300IBC|Casambi BLE 5.0 可控后沿调光器，尺寸紧凑，便于安装在传统按钮开关的接线盒中，或天花板或灯具内的接线盒中。具有推调光功能，淡入淡出功能，可设置最小和最大亮度水平，可轻松集成到 CASAMBI 网状网络中。|
+
+Technical Data,Technical Data.1
+Input voltage,"220-240 VAC, 50/60 Hz"
+Max. input current,1.36 A
+Min. load wattage,2 W
+Max. load wattage,Incandescent lamps 300W  LED lamps 1  80  W  *
+Control system,CASAMBI
+Control mode,Bluetooth 5.0
+Frequency band,2.4 GHz
+Wireless range  Ô,50m (  Open Space  )  **
+Dimming method,Trailing Edge
+Dimming range,0.1-100%
+Ambient temperature ta,-20~+40 °C
+Storage temperature,-20~+70 °C
+Relative humidity,"0-80 %, non-condensing"
+IP rating,IP 20
+Lifetime,"Up to 50,000 h"
+Material,PC body
+Dimensions (LxWxH),45x45x22 mm

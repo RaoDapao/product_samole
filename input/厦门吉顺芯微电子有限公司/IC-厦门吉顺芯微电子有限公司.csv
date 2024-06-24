@@ -1,0 +1,24 @@
+产品网址：http://www.xmjsmc.com/Product3.aspx?TypeID=1
+产品结构：root->IC-厦门吉顺芯微电子有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|IC|无|无|
+|TRMOS|无|无|
+|IGBT|无|无|
+|DMOS|无|无|
+|FRDMOS|无|无|
+|FRED|无|无|
+|Trench Schottky|无|无|
+|MOS Schottky|无|无|
+|Planar Schottky|无|无|
+
+Process  工艺,IC Type  产品类型,Voltate Type  工作电压,Technology  技术平台,Number of lithography layers  光刻层数,Application  应用
+Poly Gate,CMOS,3v~5v,0.5um 1P 1M/2M/3M,10/12/14,LDO、LED Driver、Power Manager etc
+Poly Gate,CMOS,3v~5v,0.5um 2P 1M/2M/3M,11/13/15,LDO、LED Driver、Power Manager etc
+Poly Gate,CMOS,5v,0.8um 1P 2M,13,LDO、LED Driver、Power Manager etc
+Poly Gate,CMOS,5v,0.8um 2P 2M,14,LDO、LED Driver、Power Manager etc
+Poly Gate,BCD,700v,1.0um 1P2M(兼容1.0um 40v),15,LED Driver、AC-DC Converter
+Metal Gate,CMOS,1.5v/3v~6v,0.8um Single/Double Metal,6~7,Consumer Electronics
+Metal Gate,CMOS,5v~12v,3.0um Single Metal,7,Consumer Electronics
+Metal Gate,CMOS,12v~24v,7.0um Single Metal,9,Consumer Electronics

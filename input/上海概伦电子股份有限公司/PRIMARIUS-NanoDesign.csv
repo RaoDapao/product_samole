@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/en/products/analog_design_eda/NanoDesigner-SEen.html
+产品结构：root->PRIMARIUS-NanoDesignerSE
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|NanoDesigner SE|无|NanoDesigner Schematic Editor (NDSE)，与 IC 布局设计无缝集成，功能丰富，操作快速。采用拖放等便捷设计方法，实现晶体管级到语言级电路输入。高效的 Python 和 C++脚本开发。支持执行日志保存、历史坐标保存和检索。支持继承连接设计和自动生成符号。在统一界面和常驻属性窗口中编辑电路参数。强大高效的大规模和分层级电路跟踪。支持 ADV 仿真环境中的批处理仿真、多角/多测试台/定时仿真和第三方模拟器。原理图和波形之间的交叉探测。支持 OpenAccess 数据库和行业标准导入/导出数据格式（Edif200、SPICE、CDL、Verilog 等）|

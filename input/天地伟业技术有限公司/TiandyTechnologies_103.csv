@@ -1,0 +1,75 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/851.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Superlite|TC-C32KN|2MP 固定红外半球摄像机，塑料外壳，支持 S+265/H.265/H.264B/H.264M/H.264H 编码，彩色 0.02Lux@(F2.0,AGC ON)，黑白 0Lux 带红外，红外范围 30m，内置麦克风，支持 microSD/microSDHC/microSDXC 卡，最大 512GB，支持智能监控，工作条件-30℃~60℃（不开灯），湿度 95%或更低（无冷凝），DC12V±25%，MAX 4.5W，POE 802.3af，MAX 5W，IP66|
+
+Camera,Unnamed: 1
+Image Sensor,"1/2.8""CMOS"
+Min. Illumination,"Color:0.02Lux@(F2.0,AGC ON),B/W:0Lux with IR"
+Shutter Time,1s~1/100000s
+Day&Night,IR-cut filter with auto switch (ICR)
+WDR,DWDR
+S/N,>39dB
+Angle Adjustment,0~350°(P); 0~70°(T); 0~350°(R)
+Lens,
+Lens Type,Fixed focal lens
+Focal Length,2.8mm
+Lens Mount,M12
+Aperture Range,F2.0
+Field of View,99.7°(H); 55.1°(V); 113.9°(D)
+DORI Distance,Detect:38.6m Observe:15.3m Recognize:7.7m Identify:3.8m
+Illuminator,
+IR LEDs,8
+IR Distance,30m
+Wavelength,850nm
+Compression Standard,
+Video Compression,S+265/H.265/H.264B/H.264M/H.264H
+Video Bit Rate,32k~6Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D
+Audio Sampling Rate,8kHz/32kHz/48kHz
+Image,
+Max. Resolution,1920×1080@30fps
+Main Stream,"PAL:25fps(1920×1080, 1280×720, 640×480, 704×576) NTSC:30fps(1920×1080, 1280×720, 640×480, 704×480)"
+Sub Stream,"PAL:25fps(704×576, 704×288, 640×360, 352×288) NTSC:30fps(704×480, 704×240, 640×360, 352×240)"
+BLC,Yes
+HLC,Yes
+AGC,Yes
+3D DNR,Yes
+White Balance,Auto/Semi-Auto/Manual/Sunshine/Nature Light/Warmlight Lamp/Daylight Lamp/Filament Lamp/Lock White Balance
+ROI,8 rectangular static areas
+OSD,"Overlay of additional characters in 1 regions, 1 line, with a maximum of 48 characters or 16 Chinese characters per region; 16*16/32*32/48*48"
+Privacy Mask,4 black static areas
+Defog,Yes
+Feature,
+Alarm Trigger,Motion Detection; Mask Alarm; Disk Full; Disk R/W Error; IP Address Conflict
+Linkage Method,trigger recording; trigger capture; notify surveillance center
+Video Analytics,Tripwire; Perimeter
+Rules of behavior analyse in 1 scene,2
+Network,
+ANR,Yes
+Protocols,HTTP; HTTPS; TCP/IP; UDP; UPnP; ICMP; DHCP; DNS; DDNS; Easy DDNS; NTP; QoS; IPv4; SSH; Unicast; RTSP; FTP
+System Compatibility,P2P(Mutually exclusive with Profile G); ONVIF Profile S/T/G; CGI; Milestone
+Remote Connection,≤2
+Client,Easy7 Smart Client
+Moblie Client,EasyLive Plus
+Interface,
+Communication Interface,"1*RJ-45,10/100 Mbps self-adaptive Ethernet port"
+Reset Button,Yes(Built-in)
+On-board storage,"Support microSD/microSDHC/microSDXC card, up to 512 GB"
+General,
+Web Client Language,18 languages Simple Chinese/Traditional Chinese/English/Spanish/Korean/Italian/Turkish/Russian/Thai/French/Polish/Dutch/Hebrew/Arabic/Vietnamese/German/Ukrainian/Portuguese
+Operating Temperature,-30℃~60℃(No turning on the light)
+Operating Humidity,Humidity 95% or less (no condensation)
+Storage Temperature,-30℃~60℃
+Storage Humidity,Humidity 95% or less (no condensation)
+Power Supply,"DC12V±25%,MAX 4.5W; POE 802.3af,MAX 5W"
+Protection,Surge4000V; ESD6000V; IP66
+Boundary Dimensions,120(L)120(W)96(H)mm
+Package Dimensions,140(L)140(W)120(H)mm
+GrossWeight,0.49kg
+
+
+Date,Title,Type
+2024-04-07,1D.20010.020485_TC-C32KN I3EYCSD2.8mmV4.3_en,pdf

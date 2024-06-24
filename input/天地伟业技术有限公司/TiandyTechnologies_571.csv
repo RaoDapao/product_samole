@@ -1,0 +1,9 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/952.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|5MP Starlight AI - Face Capture Box Camera-Project|TC-C55AS|1/1.8" CMO；Min. Illumination：color：0.0002Lux（AGC ON @F1.6）、B/W：0.0001Lux（AGC ON @F1.6）；Three Stream， Mainstream max resolution 3072x1728@25fps（PAL）；Video Analytics：Running、Loitering、Heatmap、Crowed、People Counting（Vertical、Tripwire、Perimeter、Queue）、Video detection、Double Tripwire、Parking、Object Lost、Object Abandon、Defocus detection、Audio Abnormal、On duty Detection；Audio 1/1，Alarm I/O 2/2，RS485、RTC、TF card （Max 512G、Reset；Protocols： IPv4, IPv6, IGMP, ICMP, ARP, TCP, UDP, DHCP, PPPoE, RTP, RTSP, RTCP, DNS, DDNS, NTP, FTP, UPnP, HTTP, HTTPS, SMTP, 802.1x, SNMP, SSL, QoS, RTMP；CGI、GAT1400、Onvif Profile G/S/T、RTSP、Alicloud Protocol；Intelligent monitoring, face capture dual-mode switching；Face Capture: Age、Gender、Mask、Glasses；Number of single-screen face detection and capture: 32, 16；DC12V±25%/POE；Operating Conditions：-35℃~65℃， Humidity less than 95% (non-condensing)|
+
+Date,Title,Type
+2023-12-11,TC-C55AS Spec E V4.1 Box Camera,pdf

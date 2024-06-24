@@ -1,0 +1,29 @@
+-> root https://qxmicro.com
+  -> 产品中心-宁波群芯微电子股份有限公司 https://qxmicro.com/products
+    -> 光电耦合器 
+    -> 光继电器 
+  -> 光电耦合器-产品中心-宁波群芯微电子股份 https://qxmicro.com/products/sort/1
+  -> 光继电器-产品中心-宁波群芯微电子股份有 https://qxmicro.com/products/sort/2
+  -> 栅极驱动光耦-光电耦合器-产品中心-宁波 https://qxmicro.com/products/5
+  -> 智能功率模块接口光耦-光电耦合器-产品中 https://qxmicro.com/products/6
+  -> QX17x-光继电器-产品中心-宁波群芯 https://qxmicro.com/products/9
+  -> 智能栅极驱动光耦-光电耦合器-产品中心- https://qxmicro.com/products/7
+  -> 群芯多款产品通过AEC-Q101车规认证 https://qxmicro.com/about/news/5
+  -> 群芯光电耦合器QX341产品被评为202 https://qxmicro.com/about/news/4
+  -> 高速光耦-光电耦合器-产品中心-宁波群芯 https://qxmicro.com/products/1
+  -> 晶体管光耦-光电耦合器-产品中心-宁波群 https://qxmicro.com/products/2
+  -> 可控硅光耦-光电耦合器-产品中心-宁波群 https://qxmicro.com/products/4
+  -> QX22x-光继电器-产品中心-宁波群芯 https://qxmicro.com/products/12
+  -> QXV2xx-光继电器-产品中心-宁波群 https://qxmicro.com/products/13
+  -> QXS25x-光继电器-产品中心-宁波群 https://qxmicro.com/products/14
+  -> QXY2xx-光继电器-产品中心-宁波群 https://qxmicro.com/products/15
+  -> QX21x-光继电器-产品中心-宁波群芯 https://qxmicro.com/products/11
+  -> Products-QunxinMicro https://qxmicro.com/en/products
+    -> Photocoupler 
+    -> Optical Relay 
+  -> Photocoupler-Product https://qxmicro.com/en/products/sort/1
+  -> OpticalRelay-Product https://qxmicro.com/en/products/sort/2
+  -> GateDrive-Photocoupl https://qxmicro.com/en/products/5
+  -> IntelligentPowerModu https://qxmicro.com/en/products/6
+  -> QX17x-OpticalRelay-P https://qxmicro.com/en/products/9
+  -> SmartGateDrive-Photo https://qxmicro.com/en/products/7

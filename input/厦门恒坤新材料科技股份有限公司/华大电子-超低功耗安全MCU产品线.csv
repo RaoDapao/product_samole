@@ -1,0 +1,18 @@
+产品网址：https://www.hed.com.cn/products_mcu/38_43_0_0.html
+产品结构：root->华大电子-超低功耗安全MCU产品线
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|智能卡芯片|无|无|
+|安全 SE 芯片|无|无|
+|安全 MCU 芯片|无|无|
+
+Flash,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6
+256KB,,,CIU32L071CCT6,CIU32L071RCT6,CIU32L071MCT6,
+128KB,,,CIU32L061K8PA  CIU32L071CBT6,CIU32L061M8RA  CIU32L071RBT6,CIU32L061N8PA  CIU32L071MBT6,
+64KB,CIU32L051E8M6,CIU32L041J5NA  CIU32L051K8U6,CIU32L041K5PA  CIU32L051C8T6,CIU32L041M5RA  CIU32L051R8T6,,
+,24PIN,32PIN,48PIN,64PIN,80PIN,Pin Count
+
+
+Part No.,Core,Max  Speed  (MHz),Memory Size,Memory Size.1,GPIO,V  BAT  +RTC  Current (μA),Stop Current  (μA),DMA  channel,Timer,Timer.1,Timer.2,Timer.3,Timer.4,Timer.5,Connectivity,Connectivity.1,Connectivity.2,Connectivity.3,Connectivity.4,Analog,Analog.1,Analog.2,Analog.3,Analog.4,Analog.5,Information Security,Information Security.1,Information Security.2,Information Security.3,Information Security.4,Power Supply,Temperature,Package Information,Package Information.1,Package Information.2,Package Information.3,Package Information.4
+Part No.,Core,Max  Speed  (MHz),Flash,SRAM,GPIO,V  BAT  +RTC  Current (μA),Stop Current  (μA),DMA  channel,Advanced  TIM,GPTIM,Basic  TIM,LPTIM,PWM,RTC,I2C,SPI,U(S)ART,ISO7816,LPUART,LCD,12bit ADC,VREFBUF,COMP,12bit DAC,Touch key,AES,SM4,TRNG,CRC,TAMP,Power Supply,Temperature,Package (mm),Max Thickness  (mm),Pin Pitch  (mm),Packaging Type,MPQ

@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/en/products/digital_design_eda/NavisProen.html
+产品结构：root->PRIMARIUS-NavisPro
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|NavisPro|无|Hierarchical SoC Design Planning Solution，提供 RTL SoC 设计规划解决方案，可预测和预防物理实现阶段常见的设计问题。包括约束驱动的 RTL 设计布局规划，以提高 QoR；通过将整个芯片智能划分为多个块或子系统来解决 SoC 设计的复杂性问题；芯片分区包括设计的物理层次分区和每个子系统的引脚放置；准确估计子系统之间的总线互连时序。|

@@ -1,0 +1,13 @@
+产品网址：https://www.hxdkj88.com/product/product_show/itemid/53.html
+产品结构：root->HXD036语音识别加app红外控制|AI多合一芯片
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|AI 多合一芯片|HXD036|离线语音识别，具有识别精准，误判率低等优势；语音降噪算法，过滤掉稳态噪声、对动态噪声也有很好的抑制作用，噪音下也可准确识别；高性能 32 位 RISC 内核，主频 240MHz，支持硬件浮点运算；内置 SPI FLASH，SRAM 有 192K bytes；BT 蓝牙电话和蓝牙音乐播放；双通道立体声模拟 MUX；DAC 支持直推式、单端或者差分输出；多格式音频解码：如 MP3、APE、FLAC、AAC、MP4；符合蓝牙 V5.1+BR+EDR+BLE 规范；四个多功能 16 位定时器，支持捕获和 PWM 模式；三个 16 位 PWM；三个全双工 UART0 和 UART1；多个路 SPI 支持 DMA 模式；两个 SPI 接口支持主机和设备模式；一个硬件 IIC 接口支持主机和从机模式；13 通道 10 位 ADC 用于模拟采样；两通道 16 位 DAC，SNR>=95dB；应用领域包括智能家电、智能卫浴、智能照明、智能机电、智能家居、智能酒店、智能玩具、智能控制系统等；应用产品举例包括 U 盘语音红外万能遥控，app，小程序控制玩具，智能蓝牙音响，智能风扇，智能加湿器，智能大小风扇，各类智能小家电如茶炉，智能香薰机等等|
+
+参  数,标识,最小,最大,单位
+T  amb,A  m  b  i  e  n  t  T  e  m  p  e  r  a  t  u  re,-20.0,+  70,°C
+T  s  tg,S  t  o  r  a  g  e  t  e  m  p  e  r  a  t  u  r  e,-65.0,+  150,°C
+V  B  A  T,S  u  p  p  l  y  V  o  l  t  a  g  e,2.2,5.5,V
+L  DO  _  IN,C  h  a  r  g  e  r  V  o  l  t  a  g  e,4.5,5.5,V
+V  3  .  3  IO,3.3V  IO  I  n  pu  t  V  o  l  t  a  g  e,-0.3,V  D  D  I  O  +  0.3,V

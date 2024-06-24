@@ -1,0 +1,81 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=100&ncid=104&deid=168
+产品结构：root->Huahuan_Products_SFP/SFP+/xWDM/PONOpticalModule_H9MO-LMFITCompactSDHMultiplexer
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Compact SDH Multiplexer|H9MO-LMFIT|作为华环“MetroEdge-Express”SDH/MSPP 产品家族的关键成员，H9MO-LMFIT 是一款运营商级、高性价比、紧凑（仅 1U 高）的 SDH/MSPP 平台，专为城域和接入网络中的应用而设计，便于服务提供商高效传输传统 TDM 和新兴数据流量。它是一个模块化单元，具有 4 个通用插槽，支持不同的接口卡，如 STM-1 光纤卡、E1 卡、以太网卡（EoS VCAT）和 V.35 卡。主板交叉连接容量为 504×504 VC-12s（8×8VC-4s），允许不同接口之间的无阻塞添加/删除服务。它支持在同一设备内混合传输 SDH、PDH 和以太网以及 N*64K V.35 服务。它还支持使用 FDXC64 卡实现 2048×2048 64K（全 64E1）交叉连接容量。凭借大容量交叉连接矩阵，H9MO-LMFIT 可配置为 ADM、TM 和 REG。它适用于点到点、链、环、集线器和网状网络等多种网络拓扑。主要特点如下：支持 1+1 MSP、SNCP 保护；管理通道可以是 DCC/E1/VC12；内部时钟/外部时钟/线路时钟/时钟保持；以太网服务支持 GFP 封装、VC12 虚拟级联和 LCAS、PVLAN、802.1Q VLAN。H9MO-LMFE 在不同端口上支持以下服务：STM-1（单芯可用）；FE（电和光）；E1/V.35|
+
+Index,Index.1,Performance Parameter
+SDH Interface,Max,8 STM-1 optical interfaces  （  Four F155-DO cards used  ）
+SDH Interface,Connector,SC/PC/SFP
+SDH Interface,Spec.,"S-1.1,S-1.2, L-1.1, L-1.2"
+SDH Interface,Spec.,Single fiber bi-directional interface can be optionally supported
+Service Card  (4 General Slots),F155-O,Single STM-1 optical interface card
+Service Card  (4 General Slots),F155-DO,Dual STM-1 optical interfaces card
+Service Card  (4 General Slots),F155-SFP,"Dual STM-1 optical interfaces card, SFP"
+Service Card  (4 General Slots),F4XE1,4×E1 interface card (75  W  )
+Service Card  (4 General Slots),F8XE1,8×E1 interface card (75  W  or 120  W  )
+Service Card  (4 General Slots),FFE201,"2 FE over 1 VCG trunks (EoS),No LCAS"
+Service Card  (4 General Slots),FFE201L,"2 FE over 1 VCG trunks (EoS), LCAS"
+Service Card  (4 General Slots),FFE201E,2 FE over 1 (1~16)E1 trunks (EoE)
+Service Card  (4 General Slots),FFE401,4 FE over 1 VCG trunks (EoS)
+Service Card  (4 General Slots),FFE404,4 FE over 4 VCG trunks (EoS)
+Service Card  (4 General Slots),FFE404E,"4 FE over 4(1~16)E1 trunks (EoE),LFP"
+Service Card  (4 General Slots),FFE404SE,4 channels of N ×64K Sub-Ethernet
+Service Card  (4 General Slots),FFX404,4 Fx over 4 VCG trunks (EoS)
+Service Card  (4 General Slots),F2XV35,2×V.35 interface card (framed or unframed)
+Service Card  (4 General Slots),FDXC64,Full 64E1 DXC (2048×2048 64k cross-connect)
+PDH interface,E1 Spec.,"Comply with G.703,G.823, 2.048Mbps, HDB3"
+PDH interface,Max E1,24E1 (Three F8XE1 cards support)
+Ethernet,Interface,"10/100Base-Tx, Comply with IEEE 802.3"
+Ethernet,Max FE Interface,12 FE (Three FFE404 cards support)
+Ethernet,Encapsulation,Comply with ITU-T G.7041 (GFP)
+V.35,Max Interface,"6 * V.35 interfaces (N×64K) (Three F2XV35 cards support), DCE/DTE."
+Cross-connect Capacity,Low order VC12,504×504 VC12
+Management,Protocol,SNMP or Q3
+Management,Interface,10Base-T and RS232  RS485
+EOW interface,EOW interface,Standard socket RJ11
+LCD Display,LCD Display,Support
+Physical Dimension,Physical Dimension,1U: 440 × 44 ×230 (mm)
+Power,Supply,-48V DC or 220V AC or dual power supply  +24VDC
+Power,Consumption,≤15W
+Environment,Temperature,5°C  ～  45°C
+Environment,Humidity,≤90 %(non-condensing)
+Weight,Weight,≤3.5 kg
+
+
+STM-1 Fiber Port,STM-1 Fiber Port.1,STM-1 Fiber Port.2
+Bit rate:,155520kbit/s 4.6ppm,155520kbit/s 4.6ppm
+Line code:,Scrambled NRZ,Scrambled NRZ
+E1 Port,E1 Port,E1 Port
+Bit rate:,2.048 Mbps ± 50 ppm,2.048 Mbps ± 50 ppm
+Line code:,HDB3,HDB3
+Connector,"BNC (4 E1/8 E1 interface board), RJ-48 C (4 E1/8 E1/16 E1 interface board)or CC4 (16 E1 interface board)","BNC (4 E1/8 E1 interface board), RJ-48 C (4 E1/8 E1/16 E1 interface board)or CC4 (16 E1 interface board)"
+Impedance:,RJ48C: Default: 75 Option /T: 120 BNC: 75,RJ48C: Default: 75 Option /T: 120 BNC: 75
+Number of ports:,"0, 4, 8,16","0, 4, 8,16"
+V.35 Port,V.35 Port,V.35 Port
+Bit rate:,"Framed Nx64kbps, 1≤N≤31;",Unframed 2048kbit/s
+Work mode,"DCE, DTE selectable","DCE, DTE selectable"
+connector,DB15 interface,DB15 interface
+Quantity,1 or 2,1 or 2
+Ethernet Port/ Management Port,Ethernet Port/ Management Port,Ethernet Port/ Management Port
+Rate:,2M~100M,2M~100M
+Interface mode:,single channel,single channel
+,100 Base-Tx / 10 Base-Tx full-duplex/half-duplex,100 Base-Tx / 10 Base-Tx full-duplex/half-duplex
+,"Multichannel Ethernet: auto-negotiation, 100 Base-Tx full-duplex","Multichannel Ethernet: auto-negotiation, 100 Base-Tx full-duplex"
+Transmission mode,EoS or EoE selectable,EoS or EoE selectable
+MTU,EoS: can set for 2000 or 2032 bytes,EoE: fixed 2032bytes
+Connector,RJ45,RJ45
+Quantity,2 or 4,2 or 4
+Timing,Timing,Timing
+"Internal, STM-1 line, E1 tributary line","Internal, STM-1 line, E1 tributary line","Internal, STM-1 line, E1 tributary line"
+Standard Compliance,"TU-T G.703, G.704, G.707, G.736, G.781, G.783, G.784, G.798, G.803, G.811, G.813, G.823, G.825, G.826, G.841, G.957, G.7041, G.7042, IEEE802.3, 802.1Q, 802.1P, O.150","TU-T G.703, G.704, G.707, G.736, G.781, G.783, G.784, G.798, G.803, G.811, G.813, G.823, G.825, G.826, G.841, G.957, G.7041, G.7042, IEEE802.3, 802.1Q, 802.1P, O.150"
+Standard Compliance,"TU-T G.703, G.704, G.707, G.736, G.781, G.783, G.784, G.798, G.803, G.811, G.813, G.823, G.825, G.826, G.841, G.957, G.7041, G.7042, IEEE802.3, 802.1Q, 802.1P, O.150","TU-T G.703, G.704, G.707, G.736, G.781, G.783, G.784, G.798, G.803, G.811, G.813, G.823, G.825, G.826, G.841, G.957, G.7041, G.7042, IEEE802.3, 802.1Q, 802.1P, O.150"
+Standard Compliance,"TU-T G.703, G.704, G.707, G.736, G.781, G.783, G.784, G.798, G.803, G.811, G.813, G.823, G.825, G.826, G.841, G.957, G.7041, G.7042, IEEE802.3, 802.1Q, 802.1P, O.150","TU-T G.703, G.704, G.707, G.736, G.781, G.783, G.784, G.798, G.803, G.811, G.813, G.823, G.825, G.826, G.841, G.957, G.7041, G.7042, IEEE802.3, 802.1Q, 802.1P, O.150"
+
+
+Items,Standards and Protocols
+SDH Interface,"ITU-T G.957, G.707"
+E1 port,"ITU-T G.703  , G.704"
+Clock port,ITU-T  G.823
+Ethernet port,IEEE 802  G.7041/G.704 2/G.7043 and G.8040

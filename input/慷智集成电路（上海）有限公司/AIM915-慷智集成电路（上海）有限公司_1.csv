@@ -1,0 +1,6 @@
+产品网址：https://en.aimicron.com/Products/1
+产品结构：root->AIM915-慷智集成电路（上海）有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|INTELLIGENT AUTOMOTIVE HIGH-DEFINITION AUDIO AND VIDEO TRANSMISSION SERDES CHIPSETS|AIM915|4-lane LVDS data + 1 clock lane video input convert to AHDL single-channel serial output；Supports Pixel Clock fastest at 85MHz. 720P RGB888；Enables transmission of high-speed video, bi-directional control data over a single Coax or shielded-twisted pair (STP) cable；Robust EMI/EMC tolerance and min. power dissipation；Capable of long distance transmission up to 15m Cable；Multiple GPIO better supports touchscreen application；Build In Self Test (BIST) and on-chip video pattern generator for system diagnostics；Single 3.3V power supply, IO supports 1.8V and 3.3V；AEC-Q100 Grade 2 qualified；40-Pin (6mm*6mm) QFN package|

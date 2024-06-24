@@ -1,0 +1,6 @@
+产品网址：https://www.empyrean-tech.com/products/eda/flat-panel-display/parasitic-rc-extraction.html
+产品结构：root->ParasiticRCExtraction_CompleteSolutionforFlatPanelDisplayDesign_Product_EmpyreanTechnologyCo.,Ltd
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Parasitic RC Extraction|Empyrean RCExplorerFPD|是一种用于 FPD 的 RC 提取解决方案，支持像素 RC 提取、触摸面板 RC 提取和 CLC 电容提取。基于精确的 3D 场求解器和有限元方法，提供高提取精度和性能。还为 AMOLED 设计开发了新技术和算法，能够实现快速准确的 RC 提取。可无缝嵌入 Empyrean AetherFPD。|

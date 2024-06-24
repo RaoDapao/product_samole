@@ -1,0 +1,27 @@
+-> root https://lightelligence.co
+  -> 产品-曦智科技 https://lightelligence.co/index.php/product/pace-photonic-arithmetic-computing-engine-ai.html
+  -> 产品-曦智科技_1 https://lightelligence.co/index.php/product/hummingbird.html
+  -> 产品-曦智科技_2 https://lightelligence.co/index.php/product/moonstone-laser-source.html
+  -> 曦智科技 https://lightelligence.co/index.php/product/humming.html
+  -> 产品-曦智科技_3 https://www.lightelligence.co/index.php/product/hummingbird.html
+  ->  https://lightelligence.co/index.php/news/infos/68.html
+  -> _1 https://lightelligence.co/index.php/news/infos/67.html
+  -> _2 https://lightelligence.co/index.php/news/infos/55.html
+    -> 光子计算 
+    -> 光子计算 
+    -> 光子计算 
+    -> 光子网络 
+    -> 片上光网络计算加速卡 
+  -> _3 https://lightelligence.co/index.php/news/infos/33.html
+  -> 产品-曦智科技_4 https://lightelligence.co/index.php/fabric/Fabrics.html
+  -> _4 https://www.lightelligence.co/index.php/news/infos/68.html
+  -> 产品-曦智科技_5 https://www.lightelligence.co/index.php/product/moonstone-laser-source.html
+  -> _5 https://lightelligence.co/index.php/news/infos/64.html
+  -> Products-Lightellige https://www.lightelligence.ai/index.php/product/pace-photonic-arithmetic-computing-engine-ai.html
+  -> Products-Lightellige_1 https://www.lightelligence.ai/index.php/product/hummingbird.html
+  -> Products-Lightellige_2 https://www.lightelligence.ai/index.php/product/photowave.html
+  -> Products-Lightellige_3 https://www.lightelligence.ai/index.php/product/moonstone-laser-source.html
+  -> Products-Lightellige_4 https://www.lightelligence.ai/index.php/product/index/2.html
+  -> Products-Lightellige_5 https://www.lightelligence.ai/index.php/product/Moonstone.html
+  -> _6 https://www.lightelligence.co/index.php/news/infos/67.html
+  -> _7 https://www.lightelligence.co/index.php/news/infos/33.html

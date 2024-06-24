@@ -1,0 +1,6 @@
+产品网址：https://www.xmcwh.com/site/product_con/231
+产品结构：root->XMC-支持服务
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|SPI NOR Flash|XM25QU64C|•single voltage supply<br>-voltage: 1.65v to 1.95v<br>•high performance serial flash (spi)<br>-maximum to 133mhz for fast read operation<br>-continuous read 8/16/32/64 byte burst wrap<br>-qpi for reduced instruction overhead<br>•flexible memory architecture<br>-sector size: 4k bytes<br>-block size: 32/64k bytes<br>•advanced security feature<br>-64/128-bit unique id for each device<br>-3/4x256-bytes dedicated security area with otp user-lockable bits|

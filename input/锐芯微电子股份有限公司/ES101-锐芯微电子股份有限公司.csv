@@ -1,0 +1,16 @@
+产品网址：http://www.brigates.com/product/73.html
+产品结构：root->ES101-锐芯微电子股份有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|面阵图像传感器|ES101|最大分辨率为 1000H x 1000V，采用高性能 1.4um BSI 像素设计，采用创新架构支持高帧率读出，支持 fullframe mode、skip mode、binning mode、window mode 等输出格式，兼容 LVDS/MIPI+10bit/8bit 图像输出模式，满足更多方案需求|
+
+光学尺寸,1/9 inch,暗电流@60⁰C,＜1e/frame
+有效像素阵列,1000 H×1000 V,信噪比(max),37.2 dB
+像素大小,1.4 μm×1.4 μm,动态范围,72 dB
+有效感光面积,1400 μm×1400 μm,输出接口,1lane MIPI/LVDS
+最高帧率,80@full frame,数据格式,10 bit/8 bit RAW
+光滤阵列,Bayer RGB/BW,供电,1.1/2.8 VDC
+CRA,30°,功耗,35 mW@60 fps
+曝光方式,Electronic Rolling,结温范围,-30~60 ⁰C
+灵敏度,0.92 V/Iux.s,封装形式,12 PIN CSP

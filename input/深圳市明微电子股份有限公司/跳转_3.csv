@@ -1,0 +1,19 @@
+产品网址：http://chinaasic.com/productItem/product_item_8.html
+产品结构：共7条<1/1->跳转
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|LED 显示驱动芯片|无|无|
+|LED 智能景观驱动芯片|无|无|
+|LED 照明驱动芯片|无|无|
+|电源管理芯片|无|无|
+|Mini LED 背光驱动芯片|无|无|
+
+IC Name,Description,Supply Voltage,Transmission  delay,Package,操作
+SM4051B,8-channel analog multiplexers,3.0V~5.5V,-,TSSOP16,more>>
+SM4052B,two 4-channel analog multiplexers,3.0V~5.5V,-,TSSOP16,more>>
+SM74HC138,3-to-8 Line Decoder,3.0V-5.0V,,SOP16、TSSOP16、QFN16(3*3),more>>
+SM74HC123,Dual retriggerable monostable multivibrator,3.0V~5.0V,,SOP16,more>>
+SM74HC04,Hex invertors,3.0V~5.0V,,SOP16,more>>
+SM245,Octal bus transceive 3-state,3.0V~5.0V,≤12ns,TSSOP20、QFN20(4*4、4.5*2.5);,more>>
+MW245B,三态输出八路信号收发器，引脚兼容低功耗肖特基TTL（LSTTL）系列,3.0V~5.5V,≤15ns,TSSOP20,more>>

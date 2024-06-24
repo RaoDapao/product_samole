@@ -1,0 +1,21 @@
+产品网址：http://www.tsinghuaicwx.com/cn/qul/179.html
+产品结构：root->无锡紫光微电子有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|SJ|无|无|
+|SJ-Multiepi|无|无|
+|Trench MOS|无|无|
+|DT MOS|无|无|
+|IGBT|无|无|
+|IGTO|无|无|
+
+类别,测试项目,测试条件,测试时间,样品数,判定,备注
+Life Stress Test,HTGB,Ta=150℃，  100%  VgsMax,168/500 hrs,77Pcs,0/1,
+Environment Stress Test,HTGB,Ta=150℃，  100%  VgsMax,168/500 hrs,77Pcs,0/1,
+Environment Stress Test,HTGB,192hrs 30℃/60%RH+3 cycle reflow@260℃,192hrs 30℃/60%RH+3 cycle reflow@260℃,77Pcs,0/1,For Surface Mount
+Environment Stress Test,HTGB,Ta=150℃，  100%  VgsMax,168/500 hrs,77Pcs,0/1,
+Environment Stress Test,HTGB,Ta=150℃，  100%  VgsMax,168/500 hrs,77Pcs,0/1,
+Environment Stress Test,HTGB,Ta=150℃，  100%  VgsMax,168/500 hrs,77Pcs,0/1,
+Environment Stress Test,HTGB,Ta=150℃，  100%  VgsMax,168/500 hrs,77Pcs,0/1,
+Environment Stress Test,HTGB,Ta=150℃，  100%  VgsMax,168/500 hrs,77Pcs,0/1,

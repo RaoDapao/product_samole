@@ -1,0 +1,124 @@
+-> root http://www.empyrean.com.cn
+  -> 首页 
+    -> EDA软件 https://www.empyrean.com.cn/product/eda.html
+      -> 模拟电路设计全流程EDA工具系统 https://www.empyrean.com.cn/products/eda/analog.html
+        -> 原理图和版图编辑工具 https://www.empyrean.com.cn/products/eda/analog-design/schematic-and-layout-editor.html
+          -> 原理图编辑工具 Empyrean Aether® SE 
+          -> 混合信号设计仿真平台 Empyrean Aether® MDE 
+          -> 版图编辑工具 Empyrean Aether® LE 
+        -> 电路仿真工具 https://www.empyrean.com.cn/products/eda/analog-design/spice-simulator.html
+        -> 异构仿真系统 https://www.empyrean.com.cn/products/eda/analog-design/heterogeneous-spice-simulator.html
+        -> 物理验证工具 https://www.empyrean.com.cn/products/eda/analog-design/physical-verification.html
+        -> 寄生参数提取工具 https://www.empyrean.com.cn/products/eda/analog-design/parasitic-rc-extraction.html
+        -> 版图寄生参数分析工具 https://www.empyrean.com.cn/products/eda/analog-design/layout-parasitic-analysis-tool.html
+        -> 功率器件可靠性分析工具 https://www.empyrean.com.cn/products/eda/analog-design/layout-reliability-analysis.html
+        -> 晶体管级电源完整性分析工具 https://www.empyrean.com.cn/products/eda/analog-design/transistor-level-powe-integrity-analysis.html
+      -> 存储电路设计全流程EDA工具系统 https://www.empyrean.com.cn/products/eda/memory.html
+        -> 原理图和版图编辑工具_1 https://www.empyrean.com.cn/products/eda/memory/schematic-and-layout-editor.html
+        -> 寄生参数提取工具_1 https://www.empyrean.com.cn/products/eda/memory/parasitic-rc-extraction.html
+        -> 晶体管级电源完整性分析工具_1 https://www.empyrean.com.cn/products/eda/memory/transistor-level-powe-integrity-analysis.html
+      -> 射频电路设计全流程EDA工具系统 https://www.empyrean.com.cn/products/eda/rf-ic.html
+        -> 射频模型提取工具 https://www.empyrean.com.cn/products/eda/rf-ic/rf-ic-model-extraction.html
+        -> 硅基射频电路原理图和版图编辑工具 https://www.empyrean.com.cn/products/eda/rf-ic/schematic-and-layout-editor.html
+        -> 高效SPICERF仿真器 https://www.empyrean.com.cn/products/eda/rf-ic/rf-ic-simulator.html
+        -> 射频电路物理验证工具 https://www.empyrean.com.cn/products/eda/rf-ic/physical-verification.html
+      -> 数字电路设计EDA工具 https://www.empyrean.com.cn/products/eda/digital-soc.html
+        -> 单元库特征化提取工具 https://www.empyrean.com.cn/products/eda/digital-soc/standard-cell-library-characterization.html
+        -> 存储器电路特征化提取工具 https://www.empyrean.com.cn/products/eda/digital-soc/memory-characterization.html
+        -> 混合信号电路模块特征化提取工具 https://www.empyrean.com.cn/products/eda/digital-soc/mixed-signal-ip-characterization.html
+        -> 单元库-IP质量验证工具 https://www.empyrean.com.cn/products/eda/digital-soc/standard-cell-library-and-ip-validation.html
+        -> 时序功耗优化工具 https://www.empyrean.com.cn/products/eda/digital-soc/timing-and-power-optimization.html
+        -> 高精度时序仿真分析工具 https://www.empyrean.com.cn/products/eda/digital-soc/accurate-timing-simulation-and-analysis.html
+        -> 时钟质量检视与分析工具 https://www.empyrean.com.cn/products/eda/digital-soc/clock-diagnosis-and-analysis.html
+        -> 版图集成与分析工具 https://www.empyrean.com.cn/products/eda/digital-soc/layout-integration-and-analysis.html
+        -> 数字物理验证工具 https://www.empyrean.com.cn/products/eda/digital-soc/digital-physical-verification.html
+        -> 数字寄生参数提取工具 https://www.empyrean.com.cn/products/eda/digital-soc/digital-parasitic-rc-extraction.html
+      -> 平板显示电路设计全流程EDA工具系统 https://www.empyrean.com.cn/products/eda/flat-panel-display.html
+        -> 器件模型提取工具 https://www.empyrean.com.cn/products/eda/flat-panel-display/model-extraction.html
+        -> 原理图和版图编辑工具_2 https://www.empyrean.com.cn/products/eda/flat-panel-display/schematic-and-layout-editor.html
+          -> 平板显示电路设计原理图编辑工具 
+          -> 平板显示电路设计版图编辑工具 
+          -> 平板显示电路设计异形版图编辑工具 
+        -> 电路仿真工具_1 https://www.empyrean.com.cn/products/eda/flat-panel-display/simulation.html
+        -> 物理验证工具_1 https://www.empyrean.com.cn/products/eda/flat-panel-display/physical-verification.html
+        -> 寄生参数提取工具_2 https://www.empyrean.com.cn/products/eda/flat-panel-display/parasitic-rc-extraction.html
+        -> 可靠性分析工具 https://www.empyrean.com.cn/products/eda/flat-panel-display/reliability-analysis.html
+      -> 晶圆制造EDA工具 https://www.empyrean.com.cn/products/eda/foundry.html
+        -> 器件模型提取工具_1 https://www.empyrean.com.cn/products/eda/foundry/device-model-extraction.html
+        -> 光刻掩模版布局设计工具 https://www.empyrean.com.cn/products/eda/foundry/mask-composition.html
+        -> 掩模版数据处理验证分析平台 https://www.empyrean.com.cn/products/eda/foundry/mask-data-diagnosis-and-analysis.html
+        -> 单元库特征化提取工具_1 https://www.empyrean.com.cn/products/eda/foundry/standard-cell-library-characterization.html
+        -> 存储器电路特征化提取工具_1 https://www.empyrean.com.cn/products/eda/foundry/memory-characterization.html
+        -> IBIS建模及验证工具 https://www.empyrean.com.cn/products/eda/foundry/ibis-modeling.html
+        -> 存储器编译器开发工具 https://www.empyrean.com.cn/products/eda/foundry/memory-compiler-solution.html
+        -> 模拟电路设计全流程EDA工具系统 https://www.empyrean.com.cn/products/eda/foundry/analogy-design-solution.html
+        -> 物理验证工具_2 https://www.empyrean.com.cn/products/eda/foundry/physical-verification.html
+        -> 版图集成与分析工具_1 https://www.empyrean.com.cn/products/eda/foundry/layout-integration-and-analysis.html
+      -> 先进封装设计EDA工具 https://www.empyrean.com.cn/products/eda/advanced-packaging.html
+        -> 先进封装自动布线工具 https://www.empyrean.com.cn/products/eda/advanced-packaging/advanced-packaging-automatic-routing-tool.html
+        -> 先进封装物理验证工具 https://www.empyrean.com.cn/products/eda/advanced-packaging/advanced-packaging-physical-verification.html
+    -> 媒体中心 
+      -> 公司新闻 
+        -> 华大九天多款产品获得ISO26262TCL3和IEC61508T2国际标准认证_ https://www.empyrean.com.cn/article/item-216.html
+          -> 原理图/版图编辑工具 
+        -> 华大九天荣获第十八届“‘中国芯’优秀支撑服务产品”奖_ https://www.empyrean.com.cn/article/item-203.html
+        -> 华大九天全面发力汽车电子市场——产品获ISO26262TCL3和IEC61508T2国际标准认证证书_ https://www.empyrean.com.cn/article/item-196.html
+  -> Product_EmpyreanTech https://www.empyrean-tech.com/product/eda.html
+    -> Complete Solution for Analog Design 
+    -> RF IC Design Solution 
+    -> Digital SoC Design Solution 
+    -> Complete Solution for Flat Panel Display Design 
+    -> Foundry EDA Solution 
+    -> Advanced Packaging Design Solution 
+    -> Schematic and Layout Editor 
+    -> SPICE Simulator 
+    -> Heterogeneous SPICE Simulator 
+    -> Physical Verification 
+    -> Parasitic RC Extraction 
+    -> Layout Reliability Analysis 
+    -> Transistor-level Power Integrity Analysis 
+    -> Standard Cell Library Characterization 
+    -> Standard Cell Library and IP Validation 
+    -> Clock Diagnosis and Analysis 
+    -> Timing and Power Optimization 
+    -> Accurate Timing Simulation and Analysis 
+    -> Layout Integration and Analysis 
+    -> Device Model Extraction 
+    -> Memory Compiler Solution 
+  -> CompleteSolutionforA https://www.empyrean-tech.com/products/eda/analog.html
+  -> RFICDesignSolution_P https://www.empyrean-tech.com/products/eda/rf-ic.html
+  -> DigitalSoCDesignSolu https://www.empyrean-tech.com/products/eda/digital-soc.html
+  -> CompleteSolutionforF https://www.empyrean-tech.com/products/eda/flat-panel-display.html
+  -> FoundryEDASolution_P https://www.empyrean-tech.com/products/eda/foundry.html
+    -> IBIS 建模工具 Empyrean Demeter 
+    -> 掩模合成工具 Empyrean Mage 
+  -> AdvancedPackagingDes https://www.empyrean-tech.com/products/eda/advanced-packaging.html
+  -> SchematicandLayoutEd https://www.empyrean-tech.com/products/eda/analog-design-solution/schematic-and-layout-editor.html
+  -> SPICESimulator_Compl https://www.empyrean-tech.com/products/eda/analog-design-solution/spice-simulator.html
+  -> HeterogeneousSPICESi https://www.empyrean-tech.com/products/eda/analog-design-solution/heterogeneous-spice-simulator.html
+  -> PhysicalVerification https://www.empyrean-tech.com/products/eda/analog-design-solution/physical-verification.html
+  -> ParasiticRCExtractio https://www.empyrean-tech.com/products/eda/analog-design-solution/parasitic-rc-extraction.html
+  -> LayoutReliabilityAna https://www.empyrean-tech.com/products/eda/analog-design-solution/layout-reliability-analysis.html
+  -> Transistor-levelPowe https://www.empyrean-tech.com/products/eda/analog-design-solution/transistor-level-powe-integrity-analysis.html
+  -> StandardCellLibraryC https://www.empyrean-tech.com/products/eda/digital-soc/standard-cell-library-characterization.html
+  -> StandardCellLibrarya https://www.empyrean-tech.com/products/eda/digital-soc/standard-cell-library-and-ip-validation.html
+  -> ClockDiagnosisandAna https://www.empyrean-tech.com/products/eda/digital-soc/clock-diagnosis-and-analysis.html
+  -> TimingandPowerOptimi https://www.empyrean-tech.com/products/eda/digital-soc/timing-and-power-optimization.html
+  -> AccurateTimingSimula https://www.empyrean-tech.com/products/eda/digital-soc/accurate-timing-simulation-and-analysis.html
+  -> LayoutIntegrationand https://www.empyrean-tech.com/products/eda/digital-soc/layout-integration-and-analysis.html
+  -> DeviceModelExtractio https://www.empyrean-tech.com/products/eda/foundry-eda/device-model-extraction.html
+  -> StandardCellLibrarya_1 https://www.empyrean-tech.com/products/eda/foundry-eda/standard-cell-library-and-ip-validation.html
+  -> MemoryCompilerSoluti https://www.empyrean-tech.com/products/eda/foundry-eda/memory-compiler-solution.html
+  -> LayoutIntegrationand_1 https://www.empyrean-tech.com/products/eda/foundry-eda/layout-integration-and-analysis.html
+  -> CompleteSolutionforA_1 https://www.empyrean-tech.com/products/eda/foundry-eda/analogy-design-solution.html
+    -> Empyrean Aether 
+    -> Empyrean ALPS 
+    -> Empyrean ALPS-GT 
+    -> Empyrean RCExplorer 
+    -> Empyrean Polas 
+  -> ModelExtraction_Comp https://www.empyrean-tech.com/products/eda/flat-panel-display/model-extraction.html
+  -> SchematicandLayoutEd_1 https://www.empyrean-tech.com/products/eda/flat-panel-display/schematic-and-layout-editor.html
+  -> Simulation_CompleteS https://www.empyrean-tech.com/products/eda/flat-panel-display/simulation.html
+  -> PhysicalVerification_1 https://www.empyrean-tech.com/products/eda/flat-panel-display/physical-verification.html
+  -> ParasiticRCExtractio_1 https://www.empyrean-tech.com/products/eda/flat-panel-display/parasitic-rc-extraction.html
+  -> ReliabilityAnalysis_ https://www.empyrean-tech.com/products/eda/flat-panel-display/reliability-analysis.html

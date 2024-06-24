@@ -1,0 +1,10 @@
+-> root https://www.zhixin-semi.com
+  -> 智芯半导体科技有限公司官方网站 https://www.zhixin-semi.com/index/index/products.html?id=1
+    -> 汽车级微控制器系列 
+    -> 汽车级微控制器系列 
+    -> 汽车级微控制器系列 
+  -> 智芯半导体科技有限公司官方网站_1 https://www.zhixin-semi.com/index/index/product.html?id=1
+  -> 智芯半导体科技有限公司官方网站_2 https://www.zhixin-semi.com/index/index/product.html?id=3
+  -> 智芯半导体科技有限公司官方网站_3 https://www.zhixin-semi.com/index/index/product.html?id=5
+  -> 智芯半导体科技有限公司官方网站_4 https://www.zhixin-semi.com/index/index/products.html?id=2
+  -> 智芯半导体科技有限公司官方网站_5 https://www.zhixin-semi.com/index/index/product.html?id=7

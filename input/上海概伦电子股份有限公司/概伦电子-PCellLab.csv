@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/products/manufacturing_eda/PCellLab.html
+产品结构：root->概伦电子-PCellLab
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|PCellLab|无|是一款开发功能完整、技术先进的 PCell 自动化开发平台，内建功能丰富全面的 PCell 开发模板和友好的图形化交互界面，可根据用户输入的工艺和设计参数自动生成 PCell 代码，针对特殊工艺和特殊需求为用户预留了开放接口，支持用户根据其自身工艺特点自定义开发输入模板，用以实现适用于其工艺特点的 PCell 自动生成流程，帮助 PDK 开发者快速、高效、高质量地完成开发工作|

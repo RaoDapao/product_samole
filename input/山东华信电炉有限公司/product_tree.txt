@@ -1,0 +1,11 @@
+-> root https://www.sdhxtrl.com
+  -> 当前位置：华信中频电炉 
+    -> 产品中心_3 https://www.sdhxtrl.com/p/4
+      -> 机电一体化感应加热成套设备 
+      -> 中频锻造透热炉 
+      -> 台车式电阻加热炉 
+      -> 45#钢热处理调质生产线 
+      -> HL 系列全封闭冷却塔 
+      -> IGBT 超音频加热设备 
+    -> 中频调质生产线 
+      -> 45#钢热处理调质生产线 https://www.sdhxtrl.com/p/92.html

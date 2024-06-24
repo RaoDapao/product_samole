@@ -1,0 +1,8 @@
+产品网址：https://www.indiemicro.com/archives/product/ind83213a
+产品结构：root->英迪芯微
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Automotive Embedded Motor Controller|iND83213A|24 通道恒流源，最大 50mA/通道；内部集成 1200mA Buck 降压电路；iND83213ACS01 支持 LIN Master 和 LIN Slave 收发器，而 iND83213A 仅支持 LIN Slave 收发器；8 路 GPIO，可配置为 PWM、SPI、UART 和 12 位 SAR ADC 输入通道功能；支持硬件过温保护和电池电压监测；符合 AECQ100 Class 1；封装：QFN48 6*6mm；应用：汽车内饰和外饰照明系统、通用 LED 照明、高速 LED 照明动画|
+
+

@@ -1,0 +1,12 @@
+产品网址：http://en.redpowersemi.com/products/igbt/69.html
+产品结构：root->N3Series-AnhuiRedPowerMicroelectronicsCo.,Ltd
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|IGBT Module|N3 Series|采用 Trench FS 技术，具有高 RBSOA 能力、低开关损耗、低 VCEsat，典型应用于电机驱动器、UPS 系统、逆变器|
+
+Part No.,Housing,Configuration,Voltage Class,Technology,Ic(com),VCE(sat),Dimensions
+RG50P12N3M4_T3,EconoPIM 3,7 PACK,1200 V,Trench-FS,50A,1.8,122.5*62.5*20.5mm
+RG75P12N3M4_T3,EconoPIM 3,7 PACK,1200 V,Trench-FS,75A,1.8,122.5*62.5*20.5mm
+RG75P12N3M4,EconoPIM 3,7 PACK,1200 V,Trench-FS,75A,1.8,122.5*62.5*20.5mm
+RG100P12N3M4,EconoPIM 3,7 PACK,1200 V,Trench-FS,100A,1.8,122.5*62.5*20.5mm

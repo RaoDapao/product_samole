@@ -1,0 +1,49 @@
+产品网址：https://korea.tiandy.com/index.php?s=/Home/Product/detail/id/625.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|네트워크 비디오 레코더|라이트|H.265 1 HDD 5ch NVR，支持 S+265/H.265/H.264 视频格式，可连接第三方网络摄像机，支持高达 6MP 分辨率的实时查看、存储和回放，具有 1×HDMI/1VGA 同步输出，高达 4K 分辨率，1 SATA 接口，最多可支持 10TB 的 1 HDD，S+265 压缩可有效减少存储空间和成本高达 75%，具有 1×RJ45 自适应 10/100Mbps 网络接口，支持多种应用，包括 IP 摄像机的集中管理、VCA 检测报警等，Web6 支持无插件浏览，可在所有浏览器上预览视频，支持云升级|
+
+Input,Unnamed: 1
+Video Input,5-ch
+Max Resolution,6MP
+Two-way Audio Input,
+Bandwidth,Income 60Mbps; Outgoing 40Mbps
+Output,
+HDMI/VGA Output,"HDMI 1-ch, 3840x2160, 1920×1080, 1280×720, 1024×768, 1366×768, 1440×900, 1280×800"
+HDMI/VGA Output,"VGA 1-ch, 1920×1080, 1280×720, 1024×768, 1366×768, 1440×900, 1280×800"
+Screen Split,1/3/4/5
+Audio Output,1×RCA
+Decoding,
+Decoding Format,S+265/H.265/H.264
+Recording Resolution,6MP/5MP/4MP/3MP/1080P/UXGA/720P/VGA/4CIF/DCIF/2CIF/CIF/QCIF
+Preview Capability,"1×6MP, 1×5MP, 1×4MP, 1×3MP, 4×1080P, 5×720P, 5×4CIF"
+Synchronous Playback,"1×6MP, 1×5MP, 1×4MP, 1×3MP, 3×1080P, 4×720P"
+Records Encryption,
+Hard Disk,
+SATA,1 SATA interface for 1 HDDs
+Capacity,Up to 10TB for each HDD
+eSATA Interface,
+Array Type,
+External Interface,
+Network Interface,1×RJ45 self-adaptive 10/100 Mbps network interface
+USB Interface,2×USB 2.0
+Serial Interface,
+Alarm In/Out,
+Network,
+Protocol,"HTTP, HTTPS, TCP/IP, UDP, UPnP, ICMP, IGMP, DHCP, DNS, DDNS, EasyDDNS, NTP, SMTP, SSL, QoS, IPv4, IPv6, IP Filter, Telnet, SSH, RTSP, RTP, RTCP, ARP"
+System Compatibility,"ONVIF (PROFILE S/T), SDK, P2P"
+General,
+Web Version,Web6
+Language,"Simplified Chinese, Traditional Chinese, English, Spanish, Italian, Korean, Turkish, Russian, Thai, French, Hebrew, Polish, Dutch, Arabic, Vietnamese, German, Ukrainian"
+Operating Conditions,"-10～55℃, 10%~90% RH"
+Power Supply,DC12V 3.3A
+Consumption  (without HDD),≤10W
+Chassis,1U
+Dimensions,"44×255×231mm, (1.78×10.04×9.09 inch)"
+Weight (without HDD),0.8Kg (1.76lb)
+
+
+날짜,제목,유형
+2022-12-20,TC-R3105 Spec-I-B-V3.0,pdf

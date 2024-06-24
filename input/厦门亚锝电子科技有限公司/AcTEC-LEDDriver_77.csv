@@ -1,0 +1,9 @@
+产品网址：http://actec.com.cn/productinfo.aspx?ParentId=99&Id=513
+产品结构：root->AcTEC-LEDDriver
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Fan Controller|F350IB|Low energy BLE 5.0 mesh networking, no gateway；Group setting, scene model setting；External switch control, APP control；OTA updated available|
+
+Model No.,Input Voltage,Load Wattage,Wireless Mode,Dimension
+F350IB,220-240V,"Fan 150W,  Lamp 300W",BLE5.0,104x50x25mm

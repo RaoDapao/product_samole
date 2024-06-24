@@ -1,0 +1,92 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/922.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Network Camera|Pro|4MP LPR Bullet Camera，内置深度学习 LPR 算法，支持车牌识别，1/1.8''CMOS，适用于停车场出入口，最高可达 2560×1440@30fps，2.8-12mm，120dB WDR，S+265/H.265/H.264/M-JPEG，内置麦克风，支持最大 512G Micro SD 卡，LPR 距离 2-6m，工作条件-35℃~65℃，0~95% RH，DC12V，POE，IP67|
+
+Camera,Unnamed: 1
+Image Sensor,"1/1.8""CMOS"
+Min. Illumination,"Color:0.0004Lux@(F1.3,AGC ON),B/W:0Lux with IR"
+Shutter Time,1s-1/100000s
+Day&Night,IR-cut filter with auto switch (ICR)
+WDR,120dB
+S/N,>43dB
+Angle Adjustment,0-360  °;0-90°;0-360°
+Lens,
+Lens Type,Motorized
+Focal Length,2.8-12mm
+Lens Mount,Ф16
+Aperture Range,"F1.3,DC-iris"
+Field of View,106.9  °-48.7°(H);57.2°-27.4°(V);121.2°-55.9°(D)
+DORI Distance,Detect:37m-160m  Observe:14.5m-63.5m  Recognize:7.5m-32m  Identify:3.5m-16m
+Illuminator,
+IR LEDs,4
+IR Distance,30m
+Wavelength,850nm
+White LEDs,3
+Whitelight Distance,15m
+Compression Standard,
+Video Compression,S+265/H.265/H.264B/H.264M/H.264H/Motion JPEG
+Video Bit Rate,32k-16Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D/AAC_LC
+Audio Sampling Rate,8kHz/32kHz/48kHz
+Image,
+Max. Resolution,2560x1440@30fps
+Main Stream,"PAL:25fps(2560x1440,2304x1296,1920x1080,1280x720)  NTSC:30fps(2560x1440,2304x1296,1920x1080,1280x720)"
+Sub Stream,"PAL:25fps(704x576,704x288,352x288,640x360)  NTSC:30fps(704x480,704x240,352x240,640x360)"
+Third Stream,"PAL:25fps(1920x1080,1280x720,704X576,704X288,352X288)  NTSC:30fps(1920x1080,1280x720,704X480,704X240,352X240)"
+BLC,Yes
+HLC,Yes
+AGC,Yes
+3D DNR,Yes
+White Balance,Auto/Semi-auto/Manual/Sunny/Natural light/Warm light/Sodium lamp/Incandescent lamp/Locked white balance
+ROI,8 regions
+Corridor mode,
+EIS,
+OSD,5regions;16*16/32*32/48*48/64*64/96*96
+Picture Overlay,1 region
+Privacy Mask,4 regions
+Defog,Yes
+Feature,
+Alarm Trigger,"Motion Detection;Mask Alarm;Voltage Alarm;Disk Full;Disk R/W Error;IP Address Conflict;MAC Address Conflict;FTP Server Exception ;Event Input, Event Output"
+Linkage Method,send email;trigger sound;trigger warmlight;trigger recording;trigger  capture;notify surveillance center
+Video Analytics,Human/Vehicle Classification;Tripwire;Double Tripwire;Perimeter;Video Abnormal;Audio Abnormal
+Rules of behavior analyse in 1 scene,8
+Early Warning(EW),
+Auto-Tracking,
+Face Mode,
+Face Detection Performance,
+Network,
+ANR,ANR
+Protocols,HTTP;HTTPS;TCP/IP;UDP;UPnP;ICMP;IGMP;SNMP;DHCP;DNS;DDNS;Easy DDNS;NTP;SMTP;SSL;802.1X;QoS;IPv4;IPv6;PPPOE;SSH;Unicast;Multicast;RTCP;ARP;SRTP;RTSP;FTP;SFTP;NAS
+System Compatibility,onvif Profile S/T/G/M;CGI;MIL STONE;RTMP
+Remote Connection,≤2
+Client,Easy7 Smart Client
+Moblie Client,EasyLive Plus
+Web,IE10+;Firefox52+;Edge89+;Safari11+;Chrome57+
+Interface,
+Communication Interface,1 RJ45 10M/ 100M self adaptive Ethernet port
+Audio I/O,1channel in;1channel out
+Alarm I/O,"2channel in,3mA,3.3VDC;1channel out,1A,24VDC"
+Built-In Mic,Yes
+Built-In Speaker,Yes
+Reset Button,Yes
+On-board storage,"Built-in Micro SD card slot, up to 512 GB"
+Additional interfaces,1 channel RS-485
+General,
+Web Client Language,8languages  Simple Chinese/English/Spanish/Italian/French/Polish/Vietnamese/German
+Operating Temperature,-35  ℃-65℃
+Operating Humidity,0-95%
+Storage Temperature,-35  ℃-65℃
+Storage Humidity,0-95%(non-condensing)
+Power Supply,"DC12V  ±25%,MAX 14W;POE 802.3at,MAX 15.5W"
+Protection,Surge protection 2000V;Lightning proof 6000V;IP67
+Boundary Dimensions,327(L)114(W)105(H)mm
+Package Dimensions,360(L)150(W)170(H)mm
+GrossWeight,1.83kg
+NetWeight,1.48kg
+
+
+Date,Title,Type
+2023-10-11,TC-C34LQ SpecI3WAEYMH2.8-12mmV4.2,pdf

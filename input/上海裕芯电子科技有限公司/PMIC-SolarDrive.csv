@@ -1,0 +1,11 @@
+产品网址：https://www.shiningic.com/en/producterlist.aspx?classid=010102
+产品结构：Home->Product->PMIC-SolarDrive
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|PMIC-Solar Drive|无|无|
+
+序号,type,description,VIN（V）,ILEDMAX（mA）,ISD（uA）,η（%）,fSW（KHz),capacity（W）,peripheral device,encapsulation
+1,YX8195*,太阳能LED照明驱动-路灯,0~7(太阳能板电压),5000(充电电流),详细信息参见Datasheet,2.5~5V(输入电压),4000mA（驱动电流）,2R+C,ESSOP20L,"光控、充电、电池保护 ;过充、过放保护、电池防反接、负载短路保护、PWM曲线调光、0V可充电阶梯放电,充/放电电量指示"
+2,YX8018,太阳能LED照明驱动-草坪灯,0.9~1.5,40,8,83,200~340,L,TO94/SOT23-6,升压、光控、充电、太阳能电池和充电电池共阳（正）极连接，可用于两节1.2V电池，小电流
+3,YX8018B,太阳能LED照明驱动-草坪灯,0.9~1.5,40,8,83,200~340,L,TO94,升压、光控、充电、太阳能电池和充电电池共阳（正）极连接，小电流自适应

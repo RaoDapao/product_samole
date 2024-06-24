@@ -1,0 +1,43 @@
+产品网址：https://www.smartsenstech.com/ai_products
+产品结构：root->AI/SL/IoT系列|高阶成像系列CMOS图像传感器
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|AI Series|无|以客户需求为出发点，聚焦新安防应用的高阶成像系列 CMOS 图像传感器，具有安防监控、夜视全彩等功能，相较于上一代产品，成像品质显著提升，灵敏度提升 31%，读取噪声降低 16%，暗电流@80℃降低 46%|
+|SL Series|无|具有影院级成像质感，让智能影像覆盖到全时段及更多的应用场景，适用于高端安防应用，具有超星光级夜视全彩功能|
+|IoT Series|无|创新结合 SmartAEC™功能，超低工作功耗设计，赋能“全天候”应用终端，实现极速启动，适用于可视门铃、智能冰箱、室外防盗、儿童监测等应用，搭载 SmartAEC™功能，大大缩短启动响应耗时并有效提升物联网终端续航时间，响应速度低至 60ms，工作功耗低至 60mW，搭载 RGBIR 技术，使智能识别终端得以有效分辨平面图像与真实物体，提升生物识别的准确性|
+
+Product Series,PN,选择分辨率  Resolution,选择光学尺寸  Optical Format,PixelSize,选择快门形式  Shutter Type,选择是否具有HDR  HDR,PixelArray,Max FrameRate,CRA,Interface,Package,Download,Contact Us
+SmartClarity  ®  -3,New  SC235HAI,2MP,"1/2.9""",2.8μm,Rolling,Yes,1928Hx1088V,60fps,15°,MIPI DVP,CSP,,联系销售
+SmartClarity  ®  -3,New  SC835HAI,8MP,"1/2.7""",1.5μm,Rolling,Yes,3848Hx2168V,40fps,15°,MIPI,CSP,,联系销售
+SmartClarity  ®  -3,SC231HAI,2MP,"1/2.9""",2.8μm,Rolling,Yes,1928Hx1088V,60fps,15°,MIPI DVP,CSP,,联系销售
+SmartClarity  ®,SC200AI,2MP,"1/2.8""",2.9μm,Rolling,Yes,1928Hx1088V,60fps,15°,DVP MIPI,CSP41,,联系销售
+SmartClarity  ®  -2,SC230AI,2MP,"1/2.8""",2.9µm,Rolling,Yes,1928Hx1088V,60fps,15°,DVP MIPI,CSP41,,联系销售
+DSI-2,SC3338P,3MP,"1/2.8""",2.45μm,Rolling,,2312Hx1304V,45fps,15°,MIPI,CSP41,-,联系销售
+SmartClarity  ®  -3,SC438HAI,4MP,"1/2.9""",2.0μm,Rolling,Yes,2696Hx1528V,60fps,13.96°,MIPI,CSP41,,联系销售
+SmartClarity  ®  -3,SC431HAI,4MP,"1/3""",2.0μm,Rolling,Yes,2568Hx1448V,60fps,15°,MIPI,CSP,,联系销售
+SmartClarity  ®  -2,SC400AI,4MP,"1/3""",2.0μm,Rolling,Yes,2568Hx1448V,60fps,15°,MIPI,CSP35,,联系销售
+SmartClarity  ®,SC401AI,4MP,"1/3""",2.0μm,Rolling,,2568Hx1448V,30fps,15°,MIPI,CSP35,,联系销售
+SmartClarity  ®  -2,SC430AI,4MP,"1/2.9""",2.0µm,Rolling,Yes,2696Hx1528V,60fps,15°,MIPI,CSP41,,联系销售
+SmartClarity  ®,SC450AI,4MP,1/1.8″,2.9µm,Rolling,Yes,2688Hx1520V,60fps,9°,MIPI DVP LVDS,CSP70,,联系销售
+SmartClarity  ®  -2,SC531AI,5MP,"1/2.7""",2.0μm,Rolling,,2884Hx1624V,30fps,15°,MIPI,CSP41,-,联系销售
+DSI-2,SC5338P,5MP,"1/2.7""",2.0μm,Rolling,Yes,2888Hx1628V,30fps,15°,MIPI,CSP41,-,联系销售
+SmartClarity  ®,SC500AI,5MP,"1/2.7""",2.0μm,Rolling,Yes,2888Hx1628V,60fps,15°,MIPI,CSP41,,联系销售
+SmartClarity  ®,SC501AI,5MP,"1/2.7""",2.0µm,Rolling,,2888Hx1628V,30fps,15°,MIPI,CSP41,,联系销售
+SmartClarity  ®  -2,SC530AI,5MP,"1/2.7""",2.0µm,Rolling,Yes,2884Hx1624V,60fps,15°,MIPI,CSP41,,联系销售
+SmartClarity  ®  -2,SC630AI,6MP,"1/2.5""",2.0μm,Rolling,Yes,2564Hx2564V,60fps,15°,MIPI,CSP55,,联系销售
+SmartClarity  ®  -3,SC831HAI,8MP,"1/2.7""",1.5μm,Rolling,Yes,3848Hx2168V,40fps,15°,MIPI,CSP41,-,联系销售
+SmartClarity  ®  -2,SC830AI,8MP,"1/2.7""",1.5μm,Rolling,Yes,3840Hx2160V,30fps,15°,MIPI,CSP41,,联系销售
+
+
+Product Series,PN,选择分辨率  Resolution,选择光学尺寸  Optical Format,PixelSize,选择快门形式  Shutter Type,选择是否具有HDR  HDR,PixelArray,Max FrameRate,CRA,Interface,Package,Contact Us
+SmartClarity  ®,SC2210,2MP,"1/1.8""",4.0μm,Rolling,Yes,1920Hx1080V,90fps,9°,MIPI DVP LVDS,CSP70,联系销售
+SmartClarity  ®,SC2110,2.3MP,"1.69""",12.0μm,Rolling,Yes,1936Hx1216V,120fps,0°,MIPI DVP LVDS,CLCC,联系销售
+SmartClarity  ®  -2,SC850SL,8MP,1/1.8″,2.0μm,Rolling,Yes,3840Hx2160V,60fps,9°,MIPI,CSP67,联系销售
+SmartClarity  ®  -2,SC880SL,8MP,"1/1.2""",2.988μm,Rolling,Yes,3856Hx2176V,60fps,9°,MIPI LVDS,PLCC,联系销售
+
+
+Product Series,PN,选择分辨率  Resolution,选择光学尺寸  Optical Format,PixelSize,选择快门形式  Shutter Type,选择是否具有HDR  HDR,PixelArray,Max FrameRate,CRA,Interface,Package,Download,Contact Us
+SmartClarity  ®  -3,New  SC535loT,5MP,1/2.7'',2μm,Rolling,Yes,2592Hx1944V,60fps,15°,MIPI,CSP,-,联系销售
+DSI-2,SC301IoT,3MP,"1/2.8""",2.5μm,Rolling,Yes,2052Hx1540V,60fps,15°,MIPI,CSP41,,联系销售
+SmartClarity  ®,SC410IoT,4MP,"1/3""",2.0μm,Rolling,Yes,2568Hx1448V,60fps,15°,MIPI,CSP35,-,联系销售

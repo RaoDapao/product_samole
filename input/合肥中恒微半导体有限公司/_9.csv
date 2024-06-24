@@ -1,0 +1,15 @@
+产品网址：https://www.zhmsemi.com/products/industrial_igbt_module/drivee3.html
+产品结构：root
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|DriveE3|无|A.LOW VCE(sat)；B.Low Switching Losses；C.Integrated NTC temperature sensor|
+
+Package,Product,Vces(V),Ic(A),VCE(sat)(V),Configuration,typical value @Tj=25℃,typical value @Tj=25℃.1,typical value @Tj=25℃.2
+Package,Product,Vces(V),Ic(A),VCE(sat)(V),Configuration,VF(V),Eon(mJ),Eoff(mJ)
+DriveE3,6D75M120S1P,1200,75,1.70,six-pack,1.80,3.0,2.0
+DriveE3,6D100M120S1P,1200,100,1.70,six-pack,1.80,5.1,5.2
+DriveE3,6D150M120S1P,1200,150,1.70,six-pack,1.80,6.7,8.5
+DriveE3,6D200M120S1P,1200,200,1.70,six-pack,1.80,8.4,11.7
+DriveE3,6D100TA120S1P,1200,100,2.00,six-pack,2.00,6.8,5.9
+DriveE3,6D150TA120S1P,1200,150,2.00,six-pack,2.00,7.5,7.0

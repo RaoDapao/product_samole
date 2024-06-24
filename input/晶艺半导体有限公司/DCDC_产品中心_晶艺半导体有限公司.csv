@@ -1,0 +1,17 @@
+产品网址：http://latticeart.com/product_category.php?id=12
+产品结构：root->DCDC|产品中心|晶艺半导体有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|DCDC|无|无|
+
+产品型号,拓扑架构,工作电压,功率管,电流能力Iout,特色功能,封装
+LA1121S,Syn Buck,2.3-5.5V,内置HS+LS,1A,2.2MHz fsw,SOT56-3
+LA1213S,Syn Buck,4.5-16V,内置HS+LS,3A,600kHz fsw,SOT56-3
+LA1214S,Syn Buck,2.5-18V,内置HS+LS,4A,Programable fsw from 200kHz to 1MHz,QFN3*4
+LA1215S,Syn Buck,2.85-16V,内置HS+LS,6A,Programable Accurate Current limit，selectable 600kHz，  1100kHz，2000kHz fsw,QFN14(2*3)
+LA1316S,Syn Buck,4.5-28V,内置HS+LS,8A,selectable 500kHz/700kHz fsw，built-in 1A VPP LDO，  +/-1A VTT LDO，1% buffered VTTREF output,QFN16(3*3)
+LA1491,Non-syn Buck,3.3-36V,内置HS,0.6A,2MHz fsw,SOT23-6
+LA1631,Syn Buck,4.5-48V,内置HS+LS,0.6A,1.6MHz fsw,SOT23-6
+LA1812,Non-Syn HS Buck,30-100V,内置100V HS,2A,Mix Mode control，freqency jitter,SOP8
+LA2902S,Boost ChargePump,4.5-18V,,2.5A,2.5A dumping current from Storage to VIN;  Bulit-in 250mA current limit for charging storage capacitor;,SOIC8

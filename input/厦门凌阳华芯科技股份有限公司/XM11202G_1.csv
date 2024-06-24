@@ -1,0 +1,6 @@
+产品网址：https://www.xm-plus.com/en/product-76977-68127-175490.html
+产品结构：PRODUCTCENTER->LEDDriverIC->XM11202G
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|LED Driver IC|XM11202G|·Driving & Power input：Common cathode PWM driving & VLEDR / VLEDGB power input<br>·Mirage Driving Engine：Solving 8 fine pitch visual issue: Ghosting effect, Open caterpillar effect, Cross effect, Low gray color shift, First dimming line, High contrast couple, Cross plate couple, Cross plate gradient CCT<br>·Channel / Scan：120ch / 36 scan<br>·Max Scan Number：Single chip 36 scan<br>·Output current：Ｒ/Ｇ/Ｂ：0.1～5mA<br>·Bit & Refresh Rate：16bit @ 3840Hz /27scan<br>·Interface：3 Wire SPI & Max 8 chips per channel<br>·Global Calibration：2 calibration parameter @ high & low gray level<br>·Min. Calibration Pulse Width：3nS<br>·Chip power consumption @Dark：5.5uW / Pixel @ 40x36 dots<br>·Chip power consumption @White：19uW / Pixel @ 10mA pixel current<br>·Package：BGA216 - 9 x 9 - 0.5<br>·LED Pitch Application：0.4mm～1.5mm|

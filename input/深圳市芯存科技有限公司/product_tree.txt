@@ -1,0 +1,8 @@
+-> root http://szxincun.com
+  -> 深圳市芯存科技有限公司 http://szxincun.com/products.html
+    -> TF 卡 
+    -> SD NAND 
+    -> NAND 
+    -> DDR3 颗粒 
+    -> SPI NAND 
+    -> eMMC 

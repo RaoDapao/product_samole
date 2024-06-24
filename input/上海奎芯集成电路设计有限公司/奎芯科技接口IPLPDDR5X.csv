@@ -1,0 +1,6 @@
+产品网址：https://www.m2ipm2.com/ProductsSt_LPDDR5X.html
+产品结构：root->奎芯科技接口IPLPDDR5X
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|LPDDR5X/4X PHY|LPDDR4X、LPDDR5X|是一款收发器物理层 IP 接口解决方案，适用于 ASIC 和 SOC。兼容通用 IP 协议 DFI 5.0，每个通道的数据速率高达 8533Mbps，具有 16 位数据宽度。具有灵活的配置选项，可用于支持 LPDDR5X、LPDDR5 和 LPDDR4X SDRAM 的各种移动应用。采用混合模拟/数字架构，具有低功耗、紧凑的占位面积和强大的性能，非常适合 LPDDR5X/4X PHY 应用。|

@@ -1,0 +1,2 @@
+-> root https://www.pixso.cn
+  -> Pixso协同设计软件_更新日志 https://pixso.cn/releases

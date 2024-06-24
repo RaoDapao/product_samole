@@ -1,0 +1,16 @@
+产品网址：http://chinaasic.com/productItem/product_item_7.html
+产品结构：共4条<1/1->跳转
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|LED 显示驱动芯片|无|显示屏驱动、格栅屏驱动、单/双色驱动、行驱动、逻辑控制、LED 数码管驱动|
+|LED 智能景观驱动芯片|无|串联驱动、DMX512 并联驱动、DMX512 串联驱动、低压线性驱动|
+|LED 照明驱动芯片|无|智能驱动、高压线性驱动、低压线性驱动、DC-DC 降压恒流类|
+|电源管理芯片|无|AC-DC 驱动、DC-DC 降压恒压类、LDO|
+|Mini LED 背光驱动芯片|无|背光驱动|
+
+IC Name,Channels,Supply Voltage,I  OUT,Current accuracy (CHs),Current accuracy (ICs),Protocol,F  CLK_MAX,操作
+SM74HC595A,8,3.0V-5.5V,-,-,-,-,25MHz,more>>
+SM74HC595D,8,3.0V-5.5V,-,-,-,-,25MHz,more>>
+SM16188,8,4.0V-5.5V,18-45mA,<±5%,<±5%,SID,1MHz,more>>
+SM16288,16,4.0V-5.5V,15.5-29mA,<±5%,<±5%,SID,1MHz,more>>

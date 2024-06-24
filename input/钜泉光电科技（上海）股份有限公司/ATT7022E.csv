@@ -1,0 +1,16 @@
+产品网址：https://www.hitrendtech.com/products/detail?id=13
+产品结构：首页->产品中心->ATT7022E
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|ATT7022E|ATT7022E|多功能、高性能三相电能专用计量芯片，内部集成高精度二阶 Sigma-delta ADC、参考电压电路及数字信号处理等电路，能测量各相及合相的有功功率、无功功率、视在功率、有功能量及无功能量，还能测量各相电流、电压有效值、功率因数、相角、频率等参数，提供 7 路计量 ADC 输入，支持掉零线计量，可直接输出所有测量参数，支持全数字域的增益、相位校正，即纯软件校表，提供有功、无功、视在、基波计量功能，对应提供 CF1/CF2/CF3/CF4 脉冲输出，可直连到标准表做误差校正，还能提供电流和电压的同步 ADC 数据，方便做谐波分析的应用，提供电能质量检测 SAG/Peak 功能，亦可用于闪变分析|
+
+Part NO.,ATT7022E,Supply Voltage,3.0V~3.6V
+Metering Functions,Active Reactive Apparent Fundamental Harmonic,ADC Inputs (Curr+Volt),4+3
+Input Range,±710mV,External Crystal OSC (Hz),5.5296M
+ADC Sampling Rate,28.8kHz 14.4kHz,Dynamic Range,5000:1
+Active Energy Error (%),0.1,Reactive Energy Error (%),0.2
+Vref TC (Typical),±10ppm/℃ (1.195V),ADC Cache x16bit),√ 1k
+Order of Harmonic Analysis,61,Built-in Temp. Sensor,√
+Inormal (3+3),4.2mA,ILOV (Loss of Voltage),2.6mA
+Package /Pins,LQFP/44,,

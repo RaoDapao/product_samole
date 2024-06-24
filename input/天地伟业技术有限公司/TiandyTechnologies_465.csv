@@ -1,0 +1,111 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/499.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Speed Dome|Pro|5MP Video Structure AI Dual PTZ Camera，具有高达 2560×1440@25fps 的分辨率，全景和细节分别为 0.0008lux 和 0.003lux，支持 S+265/H.265/H.264/M-JPEG 编码，光学变焦全景为 4X，细节为 6X，内置 Micro SD 卡插槽，最大支持 512GB，支持智能监控，可捕捉面部图像，工作条件为-40℃～70℃（IR OFF）-40℃～40℃（IR ON），0～95%，AC24V±25%\DC24V±10%，IP66|
+
+Camera,Unnamed: 1
+Image Sensor,"Panorama:1/1.8""CMOS Detail:1/1.8""CMOS"
+Min. Illumination,Panorama:0.0008lux Detail:0.003lux
+Shutter Time,1s~1/100000s
+Day&Night,IR-cut filter with auto switch (ICR)
+WDR,120dB
+Lens,
+Focal Length,Panorama:2.8mm～12mm Detail:9mm～54mm
+Optical Zoom,Panorama:4X Detail:6X
+Digital Zoom,Panorama:N/A Detail:16X
+Zoom Speed,<3s
+Aperture Range,Panorama:F1.36 Detail:F1.35~F1.55
+Field of View,Panorama:114.20°～47.94°(H) Detail:41°～9.1°(H); Panorama:59.36°～27.07°(V) Detail:23.4°～5.2°(V); Panorama:141.10°～55.09°(D) Detail:46.7°～10.4°(D)
+Focus Control,Panorama: N/A Detail:Auto/Semi-auto/Manual
+Iris Control,Panorama:Fixed Detail:Auto
+Close Focus Distance,Panorama:1000mm~2500mm Detail:500mm~3000mm
+DORI Distance,Panorama: Detect:124m Observe:49m Recognize:25m Identify:12m Detail: Detect:626m Observe:248m Recognize:125m Identify:62m
+Pan&Tilt,
+Pan Range,Panorama:-130~130° Detail:0~360°
+Tilt Range,Panorama:0°-30° Detail:'-16°～90° (Default -3°～90°)
+Tilt Speed,Panorama: Manual Speed:15°/s Preset Speed:15°/s Detail: Manual Speed:100°/s Preset Speed:150°/s
+3D Position,Yes
+Preset,500
+Cruise,"16, up to 32 presets per cruise"
+Scan,8
+Pattern,"8, each with 600s memory or 1000 orders"
+Scheduled Task,Preset、Cruise、Scan、Pattern
+North Point,Yes
+Power-off Memory,Yes
+Preset Freezing,Yes
+Illuminator,
+IR LEDs,Panorama: N/A Detail:6
+IR Distance,Panorama: N/A Detail:100m
+Wavelength,850nm
+IR Irradiation Angle,Panorama:N/A Detail:Adjustable by Zoom
+White LEDs,Panorama:4 Detail:N/A
+Whitelight Distance,Panorama:30m Detail:N/A
+Red and blue alarm flash,Yes
+Laser,Panorama:N/A Detail:N/A
+Laser Distance,Panorama:N/A Detail:N/A
+Compression Standard,
+Video Compression,S+265/H.265/H.264/M-JPEG
+Video Bit Rate,Panorama:32Kbps~16Mbps Detail:32Kbps~16Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D/AAC_LC
+Audio Sampling Rate,8KHz/32KHz/48KHz
+Image,
+Max. Resolution,Panorama:2560×1440@25fps Detail:2560×1440@25fps
+Main Stream,"Panorama: PAL:20fps(3072*1728), 25fps(2560×1440, 2304×1296, 1920×1080, 1280×720, 640×480, 704×576) NTSC:20fps(3072*1728), 30fps(2560×1440, 2304×1296, 1920×1080, 1280×720, 640×480, 704×480) Detail: PAL:20fps(3072*1728), 25fps(2560×1440, 2304×1296, 1920×1080, 1280×720, 640×480, 704×576) NTSC:20fps(3072*1728), 30fps(2560×1440, 2304×1296, 1920×1080, 1280×720, 640×480, 704×480)"
+Sub Stream,"Panorama: PAL:25fps(704×576, 640×360, 704×288, 352×288) NTSC:30fps(704×480, 640×360, 704×240, 352×240) Detail: PAL:25fps(704×576, 640×360, 704×288, 352×288) NTSC:30fps(704×480, 640×360, 704×240, 352×240)"
+Third Stream,"Panorama: PAL:25fps(704×576, 704×288, 352×288) NTSC:30fps(704×480, 704×240, 352×240) Detail: PAL:25fps(704×576, 704×288, 352×288) NTSC:30fps(704×480, 704×240, 352×240)"
+BLC,Yes
+HLC,Yes
+AGC,Yes
+White Balance,Yes
+ROI,7 Dynamic Areas for Both Main and Sub Stream
+EIS,Panorama:Yes Detail:Yes
+OSD,"5 regions(Each region can have a maximum of 127 characters,up to 5 lines); 16*16/24*24/32*32/48*48/64*64/96*96/128*128/adaptable size; Vector/Lattice"
+Defog,Yes
+Flip,Normal/Inverted Flip
+Regional Exposure,Yes
+Regional Focus,Yes
+Demist,Yes
+Privacy Mask,24 regions
+Feature,
+Alarm Trigger,"Panorama:Motion Detection Detail:Motion Detection; Panorama:Mask Alarm Detail:Mask Alarm; Disk Full; Disk R/W Error; IP Address Conflict; MAC Address Conflict; FTP Server Exception ; Event Input,Event Output; Network cable disconnected"
+Linkage Method,send email; trigger sound; trigger warmlight; trigger recording; trigger capture; notify surveillance center
+Video Analytics,Panorama:Human/Vehicle Classification Detail:N/A; Panorama:Tripwire Detail:N/A; Panorama:Double Tripwire Detail:N/A; Panorama:Perimeter Detail:N/A; Panorama:Object Abandon Detail:N/A; Panorama:Object Lost Detail:N/A; Panorama:Heatmap Detail:N/A; Panorama:Loitering Detail:N/A; Panorama:Running Detail:N/A; Panorama:N/A Detail:N/A; Panorama:People Counting Detail:N/A; Panorama:Crowed Detail:N/A; Panorama:Safety Helmet Detection Detail:N/A; Panorama:On Duty Detection Detail:N/A; Panorama:Video Abnormal Detail:N/A; Panorama:N/A Detail:Audio Abnormal
+Early Warning(EW),Early Warning(EW)
+Auto-Tracking,Auto-Tracking
+Face Mode,Capture facial images
+Network,
+ANR,ANR
+Protocols,HTTP; HTTPS; TCP/IP; UDP; UPnP; ICMP; IGMP; SNMP v1; DHCP; DNS; DDNS; Easy DDNS; NTP; SMTP; TLS; SSL; 802.1x; QoS; IPv4; IPv6; PPPOE; Unicast; Multicast; ARP; RTP; RTSP; FTP; PING
+System Compatibility,ONVIF Profile S/T/G; CGI
+Remote Connection,≤7
+User/Host,Up to 32 users. 4 user levels
+Client,Easy7 Smart Client
+Moblie Client,EasyLive Plus
+Interface,
+Communication Interface,2*RJ45 10M/100M/1000M self adaptive Ethernet port
+Audio I/O,"1*Input Impedance 1kΩ,2.0~2.4Vp-p; 1*Output Impedance 600Ω"
+Alarm I/O,"3,Switching; 2,Switching,Voltage≤DC24V,Current≤1A"
+Reset Button,Yes
+On-board storage,"Built-in Micro SD card slot, up to 512 GB"
+RS-485,RS485
+Electronic Compass,Yes
+GPS/BDS,Yes
+General,
+Web Client Language,16 languages Simple Chinese/English/Traditional Chinese/Spanish/Italian/ Korean/Turkish/Russian/Thai/ Polish/French/Dutch/Hebraism/Vietnamese/Arabic/Farsi
+Operating Temperature,-40℃～70℃(IR OFF) -40℃～40℃(IR ON)
+Operating Humidity,0～95%
+Storage Temperature,-40℃～70℃
+Storage Humidity,0～95%(non-condensing)
+Power Supply,AC24V±25%\DC24V±10%
+Protection,Surge protection 4000V; Lightning proof 6000V; IP66
+Material,Metal
+Boundary Dimensions,φ191mmx344mm(V)x350mm(H)
+Package Dimensions,600(L)*490(W)*290(H)mm
+GrossWeight,11.05 kg
+NetWeight,7.2kg
+
+
+Date,Title,Type
+2024-04-07,1D.20020.000255_TC-A35555 0A2.8-12mm9-54mm_en,pdf

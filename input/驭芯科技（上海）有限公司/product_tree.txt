@@ -1,0 +1,53 @@
+-> root http://www.smgsensor.com
+  -> 产品服务_驭芯科技（上海）有限公司 http://www.smgsensor.com/proclass.aspx
+    -> 速度类传感器 
+    -> 角度类传感器 
+    -> 盖板类传感器 
+    -> 旋转编码器 
+  -> 速度类传感器_驭芯科技（上海）有限公司 http://www.smgsensor.com/product.aspx?classid=418
+    -> 轮速传感器感应单元 
+    -> 带线束轮速传感器 
+    -> 轮速传感器及 EPB 线束总成 
+    -> EPB 线束 
+    -> H150 曲轴传感器 
+    -> H139 曲轴传感器 
+  -> 角度类传感器_驭芯科技（上海）有限公司 http://www.smgsensor.com/product.aspx?classid=410
+    -> H039 系列旋转位置传感器 
+    -> H137 方向盘转角传感器 
+    -> H069K 手柄开关位置传感器 
+    -> AS08 踏板油门总成 
+    -> AS07 手油门总成 
+    -> AS04 电子油门总成 
+  -> 盖板类传感器_驭芯科技（上海）有限公司 http://www.smgsensor.com/product.aspx?classid=414
+    -> 节气门位置传感器 
+    -> EGR 阀盖板位置传感器 
+  -> 旋转编码器_驭芯科技（上海）有限公司 http://www.smgsensor.com/product.aspx?classid=408
+  -> 曲轴凸轮轴转速_驭芯科技（上海）有限公司 http://smgsensor.com/product.aspx?classid=444
+    -> H138 凸轮轴传感器 
+    -> H126 速度传感器 
+    -> H120 曲轴速度传感器 
+    -> H151 速度传感器 
+  -> 单路角度传感器_驭芯科技（上海）有限公司 http://smgsensor.com/product.aspx?classid=440
+    -> 单路角度传感器 
+    -> 单路角度传感器 
+    -> 单路角度传感器 
+  -> 旋转编码器_驭芯科技（上海）有限公司_1 http://smgsensor.com/product.aspx?classid=408
+  -> ABS轮速_驭芯科技（上海）有限公司 http://www.smgsensor.com/product.aspx?classid=442
+  -> 电机转速_驭芯科技（上海）有限公司 http://www.smgsensor.com/product.aspx?classid=443
+  -> 双路角度传感器_驭芯科技（上海）有限公司 http://www.smgsensor.com/product.aspx?classid=441
+  -> 全部产品_驭芯科技（上海）有限公司 http://www.smgsensor.com/product.aspx
+    -> H128 系列旋转编码器 
+    -> AP05 编码器 
+    -> AP02 系列磁性增量式旋转编码器 
+  -> 速度类传感器_驭芯科技（上海）有限公司_1 http://www.smgsensor.com/product.aspx?classid=418#
+  -> 产品知识_驭芯科技（上海）有限公司 http://www.smgsensor.com/news.aspx?classid=225
+  -> 电机转速_驭芯科技（上海）有限公司_1 http://www.smgsensor.com/product.aspx?classid=443#
+  -> _驭芯科技（上海）有限公司 http://www.smgsensor.com/product.aspx?classid=0
+  -> 首页 
+    -> 产品中心 
+      -> 盖板类传感器节气门位置传感器 http://www.smgsensor.com/prodetail.aspx?PID=676
+      -> 单路角度传感器H039系列旋转位置传感器 http://www.smgsensor.com/prodetail.aspx?PID=675
+      -> 旋转编码器H128系列旋转编码器 http://www.smgsensor.com/prodetail.aspx?PID=674
+      -> 旋转编码器AP05编码器 http://www.smgsensor.com/prodetail.aspx?PID=673
+      -> 旋转编码器AP02系列磁性增量式旋转编码器 http://www.smgsensor.com/prodetail.aspx?PID=672
+      -> ABS轮速轮速传感器感应单元 http://www.smgsensor.com/prodetail.aspx?PID=671

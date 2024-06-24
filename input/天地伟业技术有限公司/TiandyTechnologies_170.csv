@@ -1,0 +1,37 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/1127.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Network Video Server|TC-S3154|Spec: T/6/4T/O/V2.0<br>Operating System: openEuler<br>External Interface: 4 Network Interface, 2 HDMI Interface, 2 USB2.0, 2 USB3.0, 1 PCIE 3.0<br>Disk Type: Support 2.5" or 3.5" SATA<br>Hard Disk: Equipped with 64GB SSD system disk and 4TB enterprise-class data disk, Support a total of four 1T-8T disks<br>Cache: 32GB max up to 64GB|
+
+Controller,Unnamed: 1
+Processor,Intel 64-bit multi-core processor
+Product Overview,"The standard configuration is 32GB (4x8G), providing four  DDR4 memory slots with a capacity of up to 64 GB"
+Operating System,openEuler
+Software,
+Pre-installed Software,Easy7_CMS_V9.2.0T
+Sub System,"Video preview, Video playback, Video on the wall, Video preview (WEB version), Video playback (WEB version), Access Control, Vehicle Management,  Face Application Passenger Flow Management, Attendance Management, etc."
+Storage/Forwarding  Performance,"Video Storage: Not involved, check the centralized storage server  Video Forwarding: Not involved, check the streaming mediaserver"
+NTP Setting,Support NTP time synchronization
+External Interface,
+Network Interface,4
+HDMI Interface,2
+I/O Interface,1 RS-232
+USB Interface,2 USB2.0; 2 USB 3.0
+PCI Expansion Slot,1 PCIE 3.0
+Fan,4
+Hard Disk,"Equipped with 64 GB SSD system disk and 4 TB enterprise-class data disk,  it supports a total of four 1T-8T disks"
+Disk Type,"Supports 2.5""or 3.5"" SATA"
+General Norm,
+Key and Indicator Light,"Power Off button + power indicator, Restart button, hard  disk read/write indicator, alarm indicator, network 1 ACT  indicator, network 2 ACT indicator"
+Power Supply,"1 built-in power supply, AC200V~AC240V; 50Hz"
+Power,Power supply rating: 250W  Peak value: 158W  Average of the whole machine: 142W
+Operating Temperature,5°C~40°C
+Operating Humidity,10%~90% (No Condensation)
+Noise,Startup noise: 60dB  Runtime noise: 40dB
+Dimension,671.2mm(L)×433mm(W)×43.5mm(H)
+
+
+Date,Title,Type
+2024-05-16,TC-S3154 Spec T-6-4T-O-V2.0,pdf

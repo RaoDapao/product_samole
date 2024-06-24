@@ -1,0 +1,108 @@
+产品网址：http://www.xtxtech.com/products_detail/1/ProId-1
+产品结构：root->NOR
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|SPI NOR|2Mbit|超低功耗，深度睡眠电流典型值低至 60nA；BP 位保护、OTP 保护、独立 block 区域保护确保代码安全；高可靠性，确保 10 万次擦写，数据保存时间长达 20 年；支持 1.65~2.1V, 2.7~3.6V, 1.65~3.6V 宽电压，容量 1Mb~1Gbit；DFN 1.2x1.2x0.40mm，2x3x0.40mm，4x3x0.55mm 等小尺寸封装；提供 KGD 产品与服务支持 SiP 合封需求|
+|SPI NOR|4Mbit|超低功耗，深度睡眠电流典型值低至 60nA；BP 位保护、OTP 保护、独立 block 区域保护确保代码安全；高可靠性，确保 10 万次擦写，数据保存时间长达 20 年；支持 1.65~2.1V, 2.7~3.6V, 1.65~3.6V 宽电压，容量 1Mb~1Gbit；DFN 1.2x1.2x0.40mm，2x3x0.40mm，4x3x0.55mm 等小尺寸封装；提供 KGD 产品与服务支持 SiP 合封需求|
+|SPI NOR|8Mbit|超低功耗，深度睡眠电流典型值低至 60nA；BP 位保护、OTP 保护、独立 block 区域保护确保代码安全；高可靠性，确保 10 万次擦写，数据保存时间长达 20 年；支持 1.65~2.1V, 2.7~3.6V, 1.65~3.6V 宽电压，容量 1Mb~1Gbit；DFN 1.2x1.2x0.40mm，2x3x0.40mm，4x3x0.55mm 等小尺寸封装；提供 KGD 产品与服务支持 SiP 合封需求|
+|SPI NOR|16Mbit|超低功耗，深度睡眠电流典型值低至 60nA；BP 位保护、OTP 保护、独立 block 区域保护确保代码安全；高可靠性，确保 10 万次擦写，数据保存时间长达 20 年；支持 1.65~2.1V, 2.7~3.6V, 1.65~3.6V 宽电压，容量 1Mb~1Gbit；DFN 1.2x1.2x0.40mm，2x3x0.40mm，4x3x0.55mm 等小尺寸封装；提供 KGD 产品与服务支持 SiP 合封需求|
+|SPI NOR|32Mbit|超低功耗，深度睡眠电流典型值低至 60nA；BP 位保护、OTP 保护、独立 block 区域保护确保代码安全；高可靠性，确保 10 万次擦写，数据保存时间长达 20 年；支持 1.65~2.1V, 2.7~3.6V, 1.65~3.6V 宽电压，容量 1Mb~1Gbit；DFN 1.2x1.2x0.40mm，2x3x0.40mm，4x3x0.55mm 等小尺寸封装；提供 KGD 产品与服务支持 SiP 合封需求|
+|SPI NOR|64Mbit|超低功耗，深度睡眠电流典型值低至 60nA；BP 位保护、OTP 保护、独立 block 区域保护确保代码安全；高可靠性，确保 10 万次擦写，数据保存时间长达 20 年；支持 1.65~2.1V, 2.7~3.6V, 1.65~3.6V 宽电压，容量 1Mb~1Gbit；DFN 1.2x1.2x0.40mm，2x3x0.40mm，4x3x0.55mm 等小尺寸封装；提供 KGD 产品与服务支持 SiP 合封需求|
+|SPI NOR|128Mbit|超低功耗，深度睡眠电流典型值低至 60nA；BP 位保护、OTP 保护、独立 block 区域保护确保代码安全；高可靠性，确保 10 万次擦写，数据保存时间长达 20 年；支持 1.65~2.1V, 2.7~3.6V, 1.65~3.6V 宽电压，容量 1Mb~1Gbit；DFN 1.2x1.2x0.40mm，2x3x0.40mm，4x3x0.55mm 等小尺寸封装；提供 KGD 产品与服务支持 SiP 合封需求|
+|SPI NOR|256Mbit|超低功耗，深度睡眠电流典型值低至 60nA；BP 位保护、OTP 保护、独立 block 区域保护确保代码安全；高可靠性，确保 10 万次擦写，数据保存时间长达 20 年；支持 1.65~2.1V, 2.7~3.6V, 1.65~3.6V 宽电压，容量 1Mb~1Gbit；DFN 1.2x1.2x0.40mm，2x3x0.40mm，4x3x0.55mm 等小尺寸封装；提供 KGD 产品与服务支持 SiP 合封需求|
+|SPI NOR|512Mbit|超低功耗，深度睡眠电流典型值低至 60nA；BP 位保护、OTP 保护、独立 block 区域保护确保代码安全；高可靠性，确保 10 万次擦写，数据保存时间长达 20 年；支持 1.65~2.1V, 2.7~3.6V, 1.65~3.6V 宽电压，容量 1Mb~1Gbit；DFN 1.2x1.2x0.40mm，2x3x0.40mm，4x3x0.55mm 等小尺寸封装；提供 KGD 产品与服务支持 SiP 合封需求|
+|SPI NOR|1Gbit|超低功耗，深度睡眠电流典型值低至 60nA；BP 位保护、OTP 保护、独立 block 区域保护确保代码安全；高可靠性，确保 10 万次擦写，数据保存时间长达 20 年；支持 1.65~2.1V, 2.7~3.6V, 1.65~3.6V 宽电压，容量 1Mb~1Gbit；DFN 1.2x1.2x0.40mm，2x3x0.40mm，4x3x0.55mm 等小尺寸封装；提供 KGD 产品与服务支持 SiP 合封需求|
+
+型号,容量,电压,温度,封装,描述,包装,状态
+XT25F02ESOIGU,2Mbit,2.7~3.6V,-40℃~85℃,SOP8 150mil,"Standard, Dual I/O",Tube,MP
+XT25F02ESOIGT,2Mbit,2.7~3.6V,-40℃~85℃,SOP8 150mil,"Standard, Dual I/O",T&R,MP
+XT25F02EDTIGT,2Mbit,2.7~3.6V,-40℃~85℃,DFN8 2x3x0.4mm,"Standard, Dual I/O",T&R,MP
+XT25W02ESOIGU,2Mbit,1.65~3.6V,-40℃~85℃,SOP8 150mil,"Standard, Dual I/O",Tube,MP
+XT25W02ESOIGT,2Mbit,1.65~3.6V,-40℃~85℃,SOP8 150mil,"Standard, Dual I/O",T&R,MP
+XT25W02EDTIGT,2Mbit,1.65~3.6V,-40℃~85℃,DFN8 2x3x0.4mm,"Standard, Dual I/O",T&R,MP
+XT25W02EDUIGT,2Mbit,1.65~3.6V,-40℃~85℃,DFN6 1.2x1.2x0.4mm,"Standard, Dual I/O",T&R,MP
+XT25W02EFUIGT,2Mbit,1.65~3.6V,-40℃~85℃,FO 1.2*0.7*0.4mm,"Standard, Dual I/O",T&R,MP
+
+
+型号,容量,电压,温度,封装,描述,包装,状态
+XT25F04DSOIGU,4Mbit,2.7~3.6V,-40℃~85℃,SOP8 150mil,"Standard, Dual I/O",Tube,MP
+XT25F04DSOIGT,4Mbit,2.7~3.6V,-40℃~85℃,SOP8 150mil,"Standard, Dual I/O",T&R,MP
+XT25W04DSOIGU,4Mbit,1.65~3.6V,-40℃~85℃,SOP8 150mil,"Standard, Dual I/O",Tube,CS
+XT25W04DSOIGT,4Mbit,1.65~3.6V,-40℃~85℃,SOP8 150mil,"Standard, Dual I/O",T&R,MP
+XT25W04DDTIGT,4Mbit,1.65~3.6V,-40℃~85℃,DFN8 2x3x0.4mm,"Standard, Dual I/O",T&R,MP
+
+
+型号,容量,电压,温度,封装,描述,包装,状态,说明书
+XT25F08BSOIGU-S,8Mbit,2.7~3.6V,-40℃~85℃,SOP8 150mil,"Standard, Dual, Quad I/O  QPI",Tube,MP,
+XT25F08BSOIGT-S,8Mbit,2.7~3.6V,-40℃~85℃,SOP8 150mil,"Standard, Dual, Quad I/O  QPI",T&R,MP,
+XT25F08BDFIGT-S,8Mbit,2.7~3.6V,-40℃~85℃,DFN8 2x3x0.55mm,"Standard, Dual, Quad I/O  QPI",T&R,MP,
+XT25Q08DSOIGU,8Mbit,1.65~2.1V,-40℃~85℃,SOP8 150mil,"Standard, Dual, Quad I/O  QPI, DTR",Tube,QS,
+XT25Q08DSOIGT,8Mbit,1.65~2.1V,-40℃~85℃,SOP8 150mil,"Standard, Dual, Quad I/O  QPI, DTR",T&R,QS,
+XT25Q08DDTIGT,8Mbit,1.65~2.1V,-40℃~85℃,DFN8 2x3x0.4mm,"Standard, Dual, Quad I/O  QPI, DTR",T&R,QS,
+XT25F08FSOIGU,8Mbit,2.7~3.6V,-40℃~85℃,SOP8 150mil,"Standard, Dual, Quad I/O",Tube,QS,联系我们
+XT25F08FSOIGT,8Mbit,2.7~3.6V,-40℃~85℃,SOP8 150mil,"Standard, Dual, Quad I/O",T&R,QS,联系我们
+XT25F08FDTIGT,8Mbit,2.7~3.6V,-40℃~85℃,DFN8 2x3x0.4mm,"Standard, Dual, Quad I/O",T&R,QS,联系我们
+
+
+型号,容量,电压,温度,封装,描述,包装,状态
+XT25F16FSOIGU-S,16Mbit,2.7~3.6V,-40℃~85℃,SOP8 150mil,"Standard, Dual, Quad I/O",Tube,CS
+XT25F16FSOIGT-S,16Mbit,2.7~3.6V,-40℃~85℃,SOP8 150mil,"Standard, Dual, Quad I/O",T&R,CS
+XT25F16FSOHGU-S,16Mbit,2.7~3.6V,-40℃~105℃,SOP8 150mil,"Standard, Dual, Quad I/O",Tube,CS
+XT25F16FDTIGT-S,16Mbit,2.7~3.6V,-40℃~85℃,DFN8 2x3x0.4mm,"Standard, Dual, Quad I/O",T&R,CS
+XT25F16FSSIGU-S,16Mbit,2.7~3.6V,-40℃~85℃,SOP8 208mil,"Standard, Dual, Quad I/O",Tube,CS
+XT25F16FSSIGT-S,16Mbit,2.7~3.6V,-40℃~85℃,SOP8 208mil,"Standard, Dual, Quad I/O",T&R,CS
+XT25Q16DSOIGU,16Mbit,1.65~2.1V,-40℃~85℃,SOP8 150mil,"Standard, Dual, Quad I/O  QPI, DTR",Tube,QS
+XT25Q16DSOIGT,16Mbit,1.65~2.1V,40℃~85℃,SOP8 150mil,"Standard, Dual, Quad I/O  QPI, DTR",T&R,QS
+XT25Q16DDTIGT,16Mbit,1.65~2.1V,-40℃~85℃,DFN8 2x3x0.4mm,"Standard, Dual, Quad I/O  QPI, DTR",T&R,QS
+
+
+型号,容量,电压,温度,封装,描述,包装,状态
+XT25F32FDTIGT,32Mbit,2.7~3.6V,-40℃~85℃,DFN8 2x3x0.4mm,"Standard, Dual, Quad I/O",T&R,CS
+XT25F32FSOIGU,32Mbit,2.7~3.6V,-40℃~85℃,SOP8 150mil,"Standard, Dual, Quad I/O",Tube,MP
+XT25F32FSOIGT,32Mbit,2.7~3.6V,-40℃~85℃,SOP8 150mil,"Standard, Dual, Quad I/O",T&R,MP
+XT25F32FSSIGT,32Mbit,2.7~3.6V,-40℃~85℃,SOP8 208mil,"Standard, Dual, Quad I/O",T&R,MP
+XT25F32FSSIGU,32Mbit,2.7~3.6V,-40℃~85℃,SOP8 208mil,"Standard, Dual, Quad I/O",Tube,MP
+XT25F32FSOHGU,32Mbit,2.7~3.6V,-40℃~105℃,SOP8 150mil,"Standard, Dual, Quad I/O",Tube,CS
+
+
+型号,容量,电压,温度,封装,描述,包装,状态
+XT25F64FDTIGT,64Mbit,2.7~3.6V,-40℃~85℃,DFN8 2x3x0.4mm,"Standard, Dual, Quad I/O",T&R,QS
+XT25F64FWOIGT,64Mbit,2.7~3.6V,-40℃~85℃,WSON8 6x5mm,"Standard, Dual, Quad I/O",T&R,MP
+XT25F64FSOIGU,64Mbit,2.7~3.6V,-40℃~85℃,SOP8 150mil,"Standard, Dual, Quad I/O",Tube,CS
+XT25F64FSOIGT,64Mbit,2.7~3.6V,-40℃~85℃,SOP8 150mil,"Standard, Dual, Quad I/O",T&R,MP
+XT25F64FSSIGU,64Mbit,2.7~3.6V,-40℃~85℃,SOP8 208mil,"Standard, Dual, Quad I/O",Tube,CS
+XT25F64FSSIGT,64Mbit,2.7~3.6V,-40℃~85℃,SOP8 208mil,"Standard, Dual, Quad I/O",T&R,MP
+XT25Q64DWOIGT,64Mbit,1.65~2.1V,-40℃~85℃,WSON8 6x5mm,"Standard, Dual, Quad I/O  QPI, DTR",T&R,QS
+XT25Q64DSSIGU,64Mbit,1.65~2.1V,-40℃~85℃,SOP8 208mil,"Standard, Dual, Quad I/O  QPI, DTR",Tube,QS
+XT25BQ64DSSIGU,64Mbit,1.65~2.1V,-40℃~85℃,SOP8 208mil,"Standard, Dual, Quad I/O  QPI, DTR, 4 I/O Fixed",Tube,QS
+XT25BQ64DSSIGT,64Mbit,1.65~2.1V,-40℃~85℃,SOP8 208mil,"Standard, Dual, Quad I/O  QPI, DTR, 4 I/O Fixed",T&R,QS
+
+
+型号,容量,电压,温度,封装,描述,包装,状态
+XT25F128FSSIGU-W,128Mbit,2.7~3.6V,-40℃~85℃,SOP8 208mil,"Standard, Dual, Quad I/O  QPI",Tube,MP
+XT25F128FSSIGT-W,128Mbit,2.7~3.6V,-40℃~85℃,SOP8 208mil,"Standard, Dual, Quad I/O  QPI",T&R,MP
+XT25F128FWOIGT-W,128Mbit,2.7~3.6V,-40℃~85℃,WSON8 6x5mm,"Standard, Dual, Quad I/O  QPI",T&R,MP
+XT25F128FSSHGU-W,128Mbit,2.7~3.6V,-40℃~105℃,SOP8 208mil,"Standard, Dual, Quad I/O  QPI",Tube,QS
+XT25Q128DSSIGT,128Mbit,1.65~2.0V,-40℃~85℃,SOP8 208mil,"Standard, Dual, Quad I/O  QPI, DTR",T&R,QS
+XT25Q128DWOIGT,128Mbit,1.65~2.0V,-40℃~85℃,WSON8 6x5mm,"Standard, Dual, Quad I/O  QPI, DTR",T&R,QS
+XT25Q128DWLIGT,128Mbit,1.65~2.0V,-40℃~85℃,WLCSP,"Standard, Dual, Quad I/O  QPI, DTR",T&R,ES
+XT25BQ128DWOIGT,128Mbit,1.65~2.0V,-40℃~85℃,WSON8 6x5mm,"Standard, Dual, Quad I/O  QPI, DTR, 4 I/O Fixed",T&R,QS
+
+
+型号,容量,电压,温度,封装,描述,包装,状态
+XT25F256BSFIGA,256Mbit,2.7~3.6V,-40℃~85℃,SOP16 300mil,"Standard, Dual, Quad I/O  QPI, DTR",Tray,CS
+XT25F256BSFIGU,256Mbit,2.7~3.6V,-40℃~85℃,SOP16 300mil,"Standard, Dual, Quad I/O  QPI, DTR",Tube,CS
+XT25F256BSFIGT,256Mbit,2.7~3.6V,-40℃~85℃,SOP16 300mil,"Standard, Dual, Quad I/O  QPI, DTR",T&R,CS
+XT25F256BWSIGA,256Mbit,2.7~3.6V,-40℃~85℃,WSON8 8x6mm,"Standard, Dual, Quad I/O  QPI, DTR",Tray,CS
+XT25F256BWSIGT,256Mbit,2.7~3.6V,-40℃~85℃,WSON8 8x6mm,"Standard, Dual, Quad I/O  QPI, DTR",T&R,MP
+XT25BF256BWSIGA,256Mbit,2.7~3.6V,-40℃~85℃,WSON8 8x6mm,"Standard, Dual, Quad I/O  QPI, DTR, 4 I/O Fixed",Tray,CS
+XT25BF256BWSIGT,256Mbit,2.7~3.6V,-40℃~85℃,WSON8 8x6mm,"Standard, Dual, Quad I/O  QPI, DTR, 4 I/O Fixed",T&R,CS
+
+
+型号,容量,电压,温度,封装,描述,包装,状态,说明书
+XT25W512BSFIGA,512Mbit,1.65~3.6V,-40℃~85℃,SOP16 300mil,"Standard, Dual, Quad I/O  QPI, DTR",Tray,ES,联系我们
+
+
+型号,容量,电压,温度,封装,描述,包装,状态,说明书
+XT25W1GBSFIGA,1Gbit,1.65~3.6V,-40℃~85℃,SOP16 300mil,"Standard, Dual, Quad I/O  QPI, DTR",Tray,ES,联系我们

@@ -1,0 +1,14 @@
+产品网址：http://www.xtxtech.com/products_detail/5
+产品结构：root->MCU
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|8bit MCU|XT95|基于 F2MC-8FX 内核，主频为 16.25MHz，Flash 容量最大支持 64Kbyte，RAM 容量最大支持 2Kbyte，工作电压范围从 2.8V 至 5.5V，工作温度支持-40~85℃，封装类型有 LQFP 32pin、44pin、52pin，拥有 100K 擦写寿命，20 年数据保持力，符合环保要求：无卤、RoHS2.0、REACH 标准|
+
+型号,容量,电压,温度,封装,描述,包装,状态
+XT95F636KPMC-G-UNE2,36Kbyte,2.88~5.5V,-40℃~85℃,LQFP32 7X7mm,8bit flash based MCU,Tray,QS
+
+
+型号,容量,电压,温度,封装,描述,包装,状态
+XT95F698KPMC1-G-UNE2,60Kbyte,2.88~5.5V,-40℃~85℃,LQFP52 10X10mm,8bit flash based MCU,Tray,QS
+XT95F698KPMC2-G-UNE2,60Kbyte,2.88~5.5V,-40℃~85℃,LQFP44 10X10mm,8bit flash based MCU,Tray,QS

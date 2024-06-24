@@ -1,0 +1,68 @@
+-> root http://www.zxec.com
+  -> 产品中心 http://www.zxec.com/product_list/1030.html
+    -> 电池镶嵌组件产品 
+    -> 电控镶嵌组件产品 
+    -> 连接器产品 
+    -> 连接器组件产品 
+    -> 铜排 
+    -> 鱼眼端子 
+  -> 产品中心_1 http://www.zxec.com/product_list/30.html
+  -> 产品中心_2 http://www.zxec.com/product_list/33.html
+  -> 产品中心_3 http://www.zxec.com/product_list/67.html
+  -> 产品中心_4 http://www.zxec.com/product.html
+    -> 汽车电装 
+    -> 智能终端 
+    -> 消费电子 
+    -> OA 组件产品 
+    -> 通讯组件产品 
+    -> 影音娱乐组件产品 
+    -> 电子组件产品 
+    -> 结构件产品 
+  -> 产品中心_5 http://www.zxec.com/product_list/1033.html
+    -> 机顶盒 
+    -> 网通网关 
+    -> 压铸散热件 
+    -> 型材散热件 
+    -> 冲压散热件 
+    -> RF 调谐器 
+    -> 屏蔽片 
+  -> 产品中心_6 http://www.zxec.com/product_list/1067.html
+    -> 电视调谐器组件产品 
+  -> 产品中心_7 http://www.zxec.com/product_list/1029.html
+    -> 发动机组件产品 
+    -> 屏蔽片产品 
+  -> 产品中心_8 http://www.zxec.com/product_list/1032.html
+  -> 产品中心_9 http://www.zxec.com/en/product_list/30.html
+    -> Automotive Electronic Components 
+    -> Battery Insert molding Parts 
+    -> Electrical control Insert molding Parts 
+    -> Connector Parts 
+    -> Copper Busbars 
+    -> Press-fit Pins 
+  -> 产品中心_10 http://www.zxec.com/en/product_list/33.html
+    -> Set-top Box 
+    -> Wireless AP 
+    -> Gateway 
+    -> Heatsinks and Shielding 
+    -> RF Tuner 
+  -> 产品中心_11 http://www.zxec.com/en/product.html
+    -> OA Parts 
+    -> Parts for Communication Units 
+    -> Parts for Entertainment System 
+    -> Electronic Parts 
+    -> Structural Parts 
+    -> Connector parts 
+  -> 产品中心_12 http://www.zxec.com/product_list/29.html
+    -> Motor Parts 
+    -> Shield Plates 
+  -> 产品中心_13 http://www.zxec.com/product_list/32.html
+  -> 产品中心_14 http://www.zxec.com/product_list/63.html
+  -> 产品中心_15 http://www.zxec.com/product_list/64.html
+  -> 产品中心_16 http://www.zxec.com/product_list/1063.html
+  -> 产品中心_17 http://www.zxec.com/en//product_list/67.html
+  -> 产品中心_18 http://www.zxec.com/en//product_list/66.html
+    -> Automotive Electric Components 
+  -> 产品中心_19 http://www.zxec.com/en/product_list/63.html
+  -> 产品中心_20 http://www.zxec.com/en/product_list/64.html
+  -> 产品中心_21 http://www.zxec.com/en/product_list/66.html
+    -> Others 

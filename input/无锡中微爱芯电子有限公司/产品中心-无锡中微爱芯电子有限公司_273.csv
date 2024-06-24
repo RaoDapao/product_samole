@@ -1,0 +1,6 @@
+产品网址：http://www.i-core.cn/proshow/630.html
+产品结构：root->产品中心-无锡中微爱芯电子有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|CD4060|无|14-stage Ripple-carry Binary Counter/Divider and Oscillator，具有三个振荡器端子（RS、REXT 和 CEXT）、十个缓冲输出（Q3 至 Q9 和 Q11 至 Q13）和一个异步主复位输入（MR）。可设计 RC 或晶体振荡器电路，也可由外部时钟信号替代振荡器。计数器在 RS 的负跳变时前进。MR 上的高电平复位计数器（Q3 至 Q9 和 Q11 至 Q13=LOW），与其他输入条件无关。工作电源范围为 3V 至 15V，参考 VSS（通常为地）。未使用的输入必须连接到 VDD、VSS 或其他输入。|

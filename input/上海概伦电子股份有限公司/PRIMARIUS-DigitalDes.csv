@@ -1,0 +1,14 @@
+产品网址：https://www.primarius-tech.com/en/products/digital_design_eda.html
+产品结构：root->PRIMARIUS-DigitalDesignEDA
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|VeriSim|无|先进的数字模拟器，具有高性能的仿真引擎和约束求解器，全面满足系统级、行为级、RTL 级和门级数字电路仿真的需求，为数字设计验证提供全面解决方案|
+|NanoCell|无|快速高精度的标准单元库表征平台，提供标准单元库的自动化设计、表征和验证的完整解决方案|
+|LibWiz|无|标准单元库验证解决方案|
+|TRASTA|无|门-TR 混合级时序分析工具，适应各种设计需求，帮助提高芯片设计可靠性，加速上市时间，降低成本和风险|
+|NavisPro|无|分层 SoC 设计规划解决方案|
+|NanoSpice SI|无|NanoSpice 信号完整性解决方案|
+|PTM|无|功率器件设计验证|
+|ESDi|无|芯片级 HBM ESD 分析平台|
+|PadInspector|无|芯片到封装连接性验证解决方案|

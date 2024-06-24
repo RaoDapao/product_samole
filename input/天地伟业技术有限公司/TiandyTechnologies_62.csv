@@ -1,0 +1,77 @@
+产品网址：https://korea.tiandy.com/index.php?s=/Home/Product/detail/id/666.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|네트워크 카메라 라이트|TC-C34UP|Full Metal Housing<br>Up to 2560x1440@25fps<br>S+265/H.265/H.264<br>Min. illumination Color: 0.0002Lux@F1.0<br>120dB WDR<br>4 Warmlights, 20~30m<br>Support tripwire and perimeter<br>Built-in Mic, SD Card Slot, Reset Button<br>Operating Conditions -40℃~60℃, 0~95% RH<br>POE, IP67|
+
+Camera,Camera.1,Unnamed: 2
+Image Sensor,Image Sensor,"1/1.8"" CMOS"
+Signal System,Signal System,PAL/NTSC
+Min. Illumination,Min. Illumination,"Color:0.0002Lux@(F1.0,AGC ON),B/W:0Lux with LED on"
+Shutter Time,Shutter Time,"1s to 1/100,000s"
+Day & Night,Day & Night,Dual IR Cut Filter with Auto Switch
+WDR,WDR,120dB
+Angle Adjustment,Angle Adjustment,"Bracket,pan 0~360°,tilt 0~75°,roate 0~360°"
+Lens,Lens,
+Lens Type,Lens Type,Fixed
+Focus,Focus,4mm
+Lens Mount,Lens Mount,M12
+Aperture,Aperture,"F1.0,Fixed"
+FOV,FOV,Horizontal field of view:92.1°；Vertical field of view:49°
+Illuminator,Illuminator,
+IR LEDs,IR LEDs,
+IR Range,IR Range,
+Wavelength,Wavelength,
+White LEDs/Warmlights,White LEDs/Warmlights,4
+Compression Standard,Compression Standard,
+Video Compression,Video Compression,S+265/H.265/H.264
+Video Bit Rate,Video Bit Rate,32Kbps~6Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D_D,G.711A/G.711U/ADPCM_D_D
+Audio Bit Rate,"8K,32K,48Kbps","8K,32K,48Kbps"
+Image,,
+Max. Resolution,2560x1440,2560x1440
+Main Stream,"PAL:25fps(2560x1440,2304x1296,1920x1080,1280x720)","PAL:25fps(2560x1440,2304x1296,1920x1080,1280x720)"
+,"NTSC:24fps(2560x1440),30fps(2304x1296,1920x1080,1280x720)","NTSC:24fps(2560x1440),30fps(2304x1296,1920x1080,1280x720)"
+Sub Stream,"PAL:25fps(704x576,704x288,640x360,352x288)","PAL:25fps(704x576,704x288,640x360,352x288)"
+,"NTSC:30fps(704x480,704x240,640x360,352x240)","NTSC:30fps(704x480,704x240,640x360,352x240)"
+Third Stream,,
+Image Setting,"Saturation,brightness,contrast,sharpness,adjustable by client software or web browser","Saturation,brightness,contrast,sharpness,adjustable by client software or web browser"
+Image Enhancement,BLC/3D DNR/HLC,BLC/3D DNR/HLC
+ROI,,
+OSD,"16x16,32x32,48x48,64x64,adaptable size,Letters Such as Week,Date,Time,Total 1 Regions","16x16,32x32,48x48,64x64,adaptable size,Letters Such as Week,Date,Time,Total 1 Regions"
+Picture Overlay,,
+Privacy Mask,"Yes,4 regions","Yes,4 regions"
+Smart Defog,Yes,Yes
+Feature,,
+Alarm Trigger,"Motion Detection,Mask Alarm,IP Address Conflict","Motion Detection,Mask Alarm,IP Address Conflict"
+Video Analytics,"Tripwire,Perimeter","Tripwire,Perimeter"
+Early Warning(EW),,
+Network,,
+ANR,ANR,Yes(Only Support Tiandy ANR NVR)
+Protocols,Protocols,"HTTP,TCP/IP,ICMP,FTP,DHCP,DNS,DDNS,RTP,RTSP,RTCP,NTP,UPnP,UDP"
+System Compatibility,System Compatibility,"ONVIF(PROFILE S/T/G),SDK,CGI,Milestone,P2P(Mutually exclusive with Profile G)"
+Remote Connection,Remote Connection,2
+Client,Client,"Easy7,EasyLive"
+Web Version,Web Version,Web6
+Interface,Interface,
+Communication Interface,Communication Interface,1 RJ45 10M/ 100M self adaptive Ethernet port
+Audio I/O,Audio I/O,Mic in
+Alarm I/O,Alarm I/O,
+Speaker,Speaker,
+Reset Button,Reset Button,Yes
+On-board storage,On-board storage,"Built-in MicroSD card slot,up to 512 GB"
+General,General,
+Web Client Language,Web Client Language,17 languages  Chinese Simplified/English/Chinese Traditional/Spanish/Italian/Korean/Turkish/Russian/Thai Chinese/Polish/French/Dutch/Hebrew/Vietnamese/Arabic/German/Ukrainian
+Operating Conditions,Operating Conditions,"-35℃~60℃ ,0～95% RH"
+Power Supply,Power Supply,"DC 12V±25%,PoE(802.3af)"
+Power Consumption,Power Consumption,MAX:8W(12V) MAX:8.5W(PoE)
+Protection,IP67,IP67
+Heater,,
+Dimensions,239x90x90mm(9.41x3.54x3.54inch),239x90x90mm(9.41x3.54x3.54inch)
+GrossWeight,1.3Kg(2.86lb),1.3Kg(2.86lb)
+NetWeight,0.9Kg(1.98lb),0.9Kg(1.98lb)
+
+
+날짜,제목,유형
+2023-01-12,TC-C34UP Spec-W-E-Y-M-4mm-V4.0,pdf

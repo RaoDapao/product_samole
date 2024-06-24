@@ -1,0 +1,10 @@
+产品网址：http://latticeart.com/product_category.php?id=17
+产品结构：root->GateDriver|产品中心|晶艺半导体有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Gate Driver|无|无|
+
+产品型号,拓扑架构,半桥工作耐压（V）,IO+(mA),IO-(mA),芯片工作电源范围（V）,输入逻辑电平（V）,封装
+LA7101,Half Bridge,600,210,360,10-20,3.3，5，15,SOP8
+LA7104,Half Bridge,600,210,360,10-20,3.3，5，15,SOP8

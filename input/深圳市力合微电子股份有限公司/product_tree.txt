@@ -1,0 +1,16 @@
+-> root http://www.leaguerme.com
+  -> 产品中心_物联网芯片企业——力合微电子 http://www.leaguerme.com/products/index.asp
+  -> 您现在的位置：物联网芯片企业——力合微电子 
+    -> 产品中心 
+      -> 通信模组产品 
+        -> 智能电网PLC模块 
+          -> 智能电网HPLC模块 
+            -> 产品正文 http://www.leaguerme.com/products/ShowArticle.asp?ArticleID=202
+  -> 智能家电PLC模组_物联网芯片企业——力 http://www.leaguerme.com/products/ShowClass.asp?ClassID=191
+  -> 智能照明PLC模组_物联网芯片企业——力 http://www.leaguerme.com/products/ShowClass.asp?ClassID=213
+  -> 首页 
+    -> 公司产品 http://www.leaguerme.com/Article/ShowArticle.asp?ArticleID=144
+      -> 窄带电力线通信芯片及应用方案 
+      -> PLC 家庭智能控制及应用方案 
+      -> DTMB 地面数字电视解调芯片 
+      -> USB 数字电视控制器芯片及应用方案 

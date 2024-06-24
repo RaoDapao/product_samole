@@ -1,0 +1,6 @@
+产品网址：https://www.empyrean.com.cn/products/eda/analog-design/layout-parasitic-analysis-tool.html
+产品结构：当前位置：首页->EDA软件->模拟电路设计全流程EDA工具系统->版图寄生参数分析工具
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|版图寄生参数分析工具|Empyrean ADA|从寄生 R/C 分析、寄生 R/C 对比、分段统计耦合电容分析、Device(s)-to-Device(s) R 分析、Node2Node R 分析等方面给用户提供完整寄生参数分析，并支持分析结果与原理图和版图 View 工具间的交互反标，方便用户进行 Debug。该工具可广泛应用于模拟/模拟数字混合设计 Layout 寄生参数分析场景，帮助模拟 IC 前端以及后端设计人员快速地定位由于寄生 R/C 引起的问题。|

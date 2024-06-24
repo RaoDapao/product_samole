@@ -1,0 +1,10 @@
+产品网址：http://www.masses-chip.com/c/cpzx/cpzx-mtp/cpzx-mtp-adc-mcu
+产品结构：root->MTPADC型MCU|
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|MTP ADC 型 MCU|无|无|
+
+芯片型号,ROM,RAM,堆栈级数,I/O,中断源,定时器,PWM,OP/CMP,ADC,工作电压,休眠功耗,特殊功能,封装形式
+M8P625,2K*16,128,8,18,定时器中断：TC0/TC1  IOB口变化中断  ADC转换中断  外部中断,2,2,-/-,12Bit*15,2.2~ 5.5V,<1uA,内建参考电压2/3/4V  系统时钟频率可调,SOP8  SOP16  SOP20  MSOP10
+M8P613,1K*16,64,5,14,TC0/TC1  外部中断  IO口电平变化  ADC转换中断,2,2,-/-,12Bit*11,2.2~ 5.5V,<1uA,内建参考电压2/3/4V  系统时钟频率可调,DIP16/14/8  SOP16/14/8

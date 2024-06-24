@@ -1,0 +1,32 @@
+-> root http://fkhl.sh.cn
+  -> _8 http://fkhl.sh.cn/product/index/id/87.html
+  -> _9 http://fkhl.sh.cn/product/index/id/88.html
+    -> 北斗芯片 
+    -> 北斗芯片 
+    -> 北斗芯片 
+    -> 北斗芯片 
+  -> _10 http://fkhl.sh.cn/product/index/id/89.html
+    -> RNSS/RDSS 双模小型化模块 
+    -> 北斗一号短报文模块 
+    -> RNSS/RDSS 双模小型化模块 
+    -> RNSS 通用型 OEM 板卡 
+    -> RNSS/RDSS 双模模块 
+    -> RNSS/RDSS 双模 OEM 板卡 
+  -> _11 http://fkhl.sh.cn/product/index/id/90.html
+    -> 北斗定位模块 
+    -> 第二代北斗多功能终端 
+    -> 高可靠北斗定位通信模组 
+    -> 北斗车、船载数据通信终端 
+    -> 北斗数据采集仪 
+    -> 北斗定位通信模组（5W） 
+    -> 北斗定位通信模组（10W） 
+    -> 北斗车载双模型用户机 
+    -> 云平台 
+  -> _12 http://fkhl.sh.cn/Product/index?id=87
+  -> _13 http://fkhl.sh.cn/Product/index?id=88
+    -> 北斗三号 RNSS 基带处理芯片 
+    -> 北斗三号 RNSS 多模多频基带处理芯片 
+    -> 北斗三号 RNSS/RDSS 基带处理芯片 
+    -> 北斗三号 RNSS/RDSS 多模多频基带处理芯片 
+  -> _14 http://fkhl.sh.cn/Product/index?id=89
+  -> _15 http://fkhl.sh.cn/Product/index?id=90

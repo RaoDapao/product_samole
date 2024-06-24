@@ -1,0 +1,9 @@
+产品网址：http://www.nufront.com/html/out/gongsichanpin/euhtxinpianxilie/euhtjidaixinpianxilie/index.html
+产品结构：root
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|NL6682 EUHT 1.0 STA 终端 SoC 芯片|无|帧长灵活可变：1ms~100ms<br>波形：CP-OFDM，双工方式：TDD<br>子载波间隔：78.125KHz<br>支持 20MHz/40MHz 两种带宽<br>支持 2x2MIMO，MCS0~MCS23，MCS56~MCS61<br>支持 BPSK，QPSK，16QAM，64QAM 四种调制模式<br>支持 BCC、STBC 编码模式<br>数据吞吐率：7.7Mbps~311Mbps<br>可搭载多种射频前端，工作在不同频段<br>双天线或单天线配置<br>支持高速移动，支持远距离覆盖<br>内部集成高性能 CPU、RAM、ROM 及丰富的外设接口|
+|NL6301 EUHT 1.0 CAP 基站 SoC 芯片|无|帧长灵活可变：1ms~100ms<br>波形：CP-OFDM，双工方式：TDD<br>子载波间隔：78.125KHz<br>支持 1MHz/2MHz/4MHz/8MHz/2.5MHz/5MHz/10MHz/20MHz/40MHz 等各种带宽<br>支持 2x2MIMO，MCS0~MCS23，MCS56~MCS61<br>支持 BPSK，QPSK，16QAM，64QAM 四种调制模式<br>支持 BCC、STBC 编码模式<br>数据吞吐率：7.7Mbps~311Mbps<br>可搭载多种射频前端，工作在不同频段<br>双天线或单天线配置<br>支持高速移动，支持远距离覆盖<br>内部集成高性能 CPU、RAM、ROM 及丰富的外设接口|
+|NL6302 EUHT 2.0 基带芯片|无|支持频段：可搭载多种射频前端，工作在不同频段<br>支持 2.5MHz/5MHz/10MHz/20MHz/40MHz/80MHz 六种带宽可选<br>最高支持 4x4MIMO<br>调制编码模式：MCS0~MCS99<br>物理层数据吞吐率：7.7Mbps~1.7Gbps<br>调制模式：BPSK，QPSK，16QAM，64QAM，256QAM<br>编码模式：BCC，STBC<br>支持高速移动，最高支持时速：大于 500Km/h<br>低时延：空口时延<1ms<br>高可靠：时速超过 300Km/h 时切换可靠性 99.99%以上<br>支持远距离覆盖：100m~3Km<br>可搭载多种射频前端，工作在不同频段<br>双天线或单天线配置<br>支持高速移动，支持远距离覆盖<br>内部集成高性能 CPU、RAM、ROM 及丰富的外设接口|
+|NL6302P EUHT 2.0 基带芯片|无|支持频段：可搭载多种射频前端，工作在不同频段<br>支持 2.5MHz/5MHz/10MHz/20MHz/40MHz/80MHz 六种带宽可选<br>最高支持 4x4MIMO<br>调制编码模式：MCS0~MCS99<br>物理层数据吞吐率：7.7Mbps~1.7Gbps<br>调制模式：BPSK，QPSK，16QAM，64QAM，256QAM<br>编码模式：BCC，STBC，LDPC<br>支持高速移动，最高支持时速：大于 500Km/h<br>低时延：空口时延<1ms<br>高可靠：时速超过 300Km/h 时切换可靠性 99.99%以上<br>支持远距离覆盖：100m~3Km<br>可搭载多种射频前端，工作在不同频段<br>双天线或单天线配置<br>支持高速移动，支持远距离覆盖<br>内部集成高性能 CPU、RAM、ROM 及丰富的外设接口|

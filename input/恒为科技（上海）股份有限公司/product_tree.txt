@@ -1,0 +1,129 @@
+-> root https://www.embedway.com.cn
+  -> 公司产品-恒为科技（上海）股份有限公司 https://www.embedway.com.cn/products/4/0/0
+    -> 多业务流量采集和汇聚平台 
+    -> 多业务流量采集和分流平台 
+    -> 流量采集分流设备 
+  -> 公司产品-恒为科技（上海）股份有限公司_1 https://www.embedway.com.cn/products/5/0/0
+  -> 网络可视化 
+    -> 插卡式网络可视化平台 
+      -> OptiWay 
+        -> OptiWayU-T http://www.embedway.com/product/detail/199
+          -> OptiWay U 
+          -> OptiWay T 
+        -> OptiWayMX https://www.embedway.com.cn/product/detail/195
+        -> OptiWayEXP https://www.embedway.com.cn/product/detail/201
+        -> ATCA机箱与配套模块 https://www.embedway.com.cn/product/detail/423
+          -> ATCA 机箱与配套模块 
+          -> 交换卡 
+          -> 前端线卡 
+          -> 线卡 
+          -> 线卡 
+          -> 后 IO 卡 
+          -> 后 IO 卡 
+          -> QSFP+收发器 
+          -> 并行光纤 QSFP+收发器 
+          -> SFP+收发器 
+          -> SFP+收发器 
+          -> SFP+收发器 
+          -> 接口转换光纤 
+      -> OptiPlus 
+        -> OptiPlusEXP https://www.embedway.com.cn/product/detail/409
+        -> OptiPlusU https://www.embedway.com.cn/product/detail/417
+        -> NSDC20000 https://www.embedway.com.cn/product/detail/425
+          -> 插卡式网络可视化平台 
+          -> 主控管理卡 
+          -> 交换板 
+        -> NSDC3008 https://www.embedway.com.cn/product/detail/485
+        -> OptiPlusRH https://www.embedway.com.cn/product/detail/500
+          -> OptiPlus RH 
+          -> OptiPlus RH 
+          -> OptiPlus RH 
+    -> 盒式网络可视化设备 
+      -> ExProbe8000系列 
+        -> ExProbe8000 https://www.embedway.com.cn/product/detail/191
+        -> ExProbe8100 https://www.embedway.com.cn/product/detail/411
+        -> ExProbe8110A-102 https://www.embedway.com.cn/product/detail/421
+        -> ExProbe8200 https://www.embedway.com.cn/product/detail/415
+        -> ExProbe8311 https://www.embedway.com.cn/product/detail/427
+        -> NSP1000-2000-3000系列 https://www.embedway.com.cn/product/detail/443
+    -> 应用加速卡 
+      -> InfiniWay 
+        -> InfiniWay https://www.embedway.com.cn/product/detail/193
+  -> 智能系统平台 
+    -> 智慧物联 
+      -> 智能电力巡检机器人 
+        -> 吊轨式智能巡检系列 http://www.embedway.com/product/detail/471
+        -> 轮式智能巡检系列 http://www.embedway.com/product/detail/473
+      -> 算法、软件及系统 
+        -> 智能巡检软件 https://www.embedway.com/product/detail/465
+      -> 智能控制柜 
+        -> 工业智能控制柜 https://www.embedway.com/product/detail/463
+    -> 智能计算 
+      -> 服务器 
+        -> x86加固服务器 https://www.embedway.com.cn/product/detail/351
+        -> PicoBBU服务器 https://www.embedway.com.cn/product/detail/419
+      -> COMe模块 
+        -> x86COMe模块 https://www.embedway.com.cn/product/detail/355
+          -> COM Express 模块 
+          -> COM Express 模块 
+          -> COM Express Compact 标准模块 
+      -> 主板 
+        -> Mini-ITX主板 https://www.embedway.com.cn/product/detail/495
+        -> x86加固主板 https://www.embedway.com.cn/product/detail/359
+      -> CPCI板卡 
+        -> CPCI主板 https://www.embedway.com.cn/product/detail/363
+      -> ATCA板卡 
+        -> ATCAx86主板 https://www.embedway.com.cn/product/detail/365
+        -> ATCA交换板 https://www.embedway.com.cn/product/detail/255
+          -> ATCA 交换板 
+          -> ATCA 交换板 
+          -> ATCA 交换板 
+    -> 智能网络 
+      -> 网络安全平台 
+        -> FW1500系列 https://www.embedway.com.cn/product/detail/487
+        -> FW1600系列 https://www.embedway.com.cn/product/detail/489
+        -> FW1700系列 https://www.embedway.com.cn/product/detail/491
+        -> FW1800系列 https://www.embedway.com.cn/product/detail/493
+  -> 公司产品-恒为科技（上海）股份有限公司_2 https://www.embedway.com.cn/products/4/51/0
+  -> 公司产品-恒为科技（上海）股份有限公司_3 https://www.embedway.com.cn/products/4/52/0
+  -> 公司产品-恒为科技（上海）股份有限公司_4 https://www.embedway.com.cn/products/4/50/0
+  -> 公司产品-恒为科技（上海）股份有限公司_5 https://www.embedway.com.cn/products/4/51/97
+    -> OptiPlus U 
+    -> NSDC20000 
+    -> NSDC3008 
+  -> 公司产品-恒为科技（上海）股份有限公司_6 https://www.embedway.com.cn/products/5/62/0
+    -> 服务器 
+    -> COMe 模块 
+    -> 主板 
+    -> CPCI 板卡 
+    -> ATCA 板卡 
+    -> DS2170 
+    -> DS1170 
+  -> 公司产品-恒为科技（上海）股份有限公司_7 https://www.embedway.com.cn/products/5/60/0
+    -> 交换产品系列 
+  -> 公司产品-恒为科技（上海）股份有限公司_8 https://www.embedway.com.cn/products/5/62/103
+  -> 公司产品-恒为科技（上海）股份有限公司_9 https://www.embedway.com.cn/products/5/62/104
+    -> Mini-ITX 主板 
+    -> Mini-ITX 主板 
+  -> 公司产品-恒为科技（上海）股份有限公司_10 https://www.embedway.com.cn/products/5/62/106
+  -> Products-EmbedWay https://www.embedway.com.cn/products/21/0?lang=en
+  -> Products-EmbedWay_1 https://www.embedway.com.cn/products/22/0?lang=en
+  -> Products-EmbedWay_2 https://www.embedway.com.cn/products/118/0?lang=en
+  -> Products-EmbedWay_3 https://www.embedway.com.cn/products/21/23?lang=en
+  -> Products-EmbedWay_4 https://www.embedway.com.cn/products/21/25?lang=en
+    -> OptiPlus 
+  -> 》视频会议系统 
+    -> MCU_1 https://www.embedway.com.cn/news/detail/7
+  -> 公司产品-恒为科技（上海）股份有限公司_11 https://www.embedway.com.cn/products/4/52/54
+  -> 公司产品-恒为科技（上海）股份有限公司_12 https://www.embedway.com.cn/products/4/50/57
+  -> 公司产品-恒为科技（上海）股份有限公司_13 https://www.embedway.com.cn/products/5/60/107
+    -> 加固交换板 
+    -> 千兆交换机 
+    -> 万兆交换机 
+  -> 公司产品-恒为科技（上海）股份有限公司_14 https://www.embedway.com/products/5/62/103
+    -> x86 COMe 模块 
+  -> Products-EmbedWay_5 https://www.embedway.com/products/21/0?lang=en
+  -> Products-EmbedWay_6 https://www.embedway.com/products/22/0?lang=en
+  -> Products-EmbedWay_7 https://www.embedway.com/products/118/0?lang=en
+  -> Products-EmbedWay_8 https://www.embedway.com/products/21/23?lang=en
+  -> Products-EmbedWay_9 https://www.embedway.com/products/21/25?lang=en

@@ -1,0 +1,12 @@
+产品网址：https://www.empyrean-tech.com/products/eda/foundry-eda/analogy-design-solution.html
+产品结构：root->CompleteSolutionforAnalogDesign_FoundryEDASolution_Product_EmpyreanTechnologyCo.,Ltd
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Complete Solution for Analog Design|无|提供模拟 IC 设计的完整解决方案，包括原理图和布局编辑平台 Empyrean Aether，以及与之无缝集成的 SPICE 模拟器 Empyrean ALPS、物理验证工具 Empyrean Argus、寄生 RC 提取工具 Empyrean RCExplorer 和可靠性分析工具 Empyrean Polas|
+|Empyrean Aether|无|模拟 IC 设计平台，具有原理图和布局编辑功能，并与 SPICE 模拟器 Empyrean ALPS、物理验证工具 Empyrean Argus、寄生 RC 提取工具 Empyrean RCExplorer 和可靠性分析工具 Empyrean Polas 无缝集成|
+|Empyrean ALPS|无|高性能并行 SPICE 模拟器，是大规模后布局电路仿真的理想解决方案|
+|Empyrean ALPS-GT|无|异构 SPICE 模拟器，使用 CPU 和 GPU 进行加速，进一步提高后布局电路仿真速度，有助于缩短设计周期|
+|Empyrean Argus|无|物理验证工具，包括 DRC/LVS，可帮助提高验证质量和效率|
+|Empyrean RCExplorer|无|支持模拟设计的晶体管级和标准单元级后布局提取，还支持点对点 RC 分析和时序延迟分析|
+|Empyrean Polas|无|用于电源 IC 设计的可靠性分析解决方案|

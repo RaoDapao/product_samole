@@ -1,0 +1,16 @@
+产品网址：https://www.marching-power.com/ipmcp
+产品结构：首页->产品中心->硅基芯片及模组系列->IPM
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|IPM|无|无|
+
+Part Number,VCE(V),Ic(A)@25°C,Power range(w) @f=20KHZ,Viso,Package,Datasheet
+MPVM03N60,600,3,20-50,1500V,DIP-23H/SOP-23H,Download
+MPVM03N60TN,600,3,20-50,1500V,DIP-23H/SOP-23H,Download
+MPVM07N60,600,7,50-120,1500V,DIP-23H/SOP-23H,Download
+MPVM07N60TN,600,7,50-120,1500V,DIP-23H/SOP-23H,Download
+MPBM10N60BTB,600,10,500-1500,1500V,DIP-24H,Download
+MPBM15N60BTB,600,15,700-1500,1500V,DIP-24H,Download
+MPBM20N60BTB,600,20,500-1500,1500V,DIP-24H,Download
+MPBM30N60BTB,600,30,700-1500,1500V,DIP-24H,Download

@@ -1,0 +1,14 @@
+产品网址：http://video-sy.com/?show-29-1.html
+产品结构：当前位置：首页->产品中心->光纤传输设备->光纤通讯模块->DWDMSFP+
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|光纤通讯模块|DWDM SFP+|密集型光波复用，能组合一组光波长用一根光纤进行传送，属于波分复用技术，可将不同波长的光偶合到单芯光纤中一起传输，通道间隔有 0.4nm、0.8nm、1.6nm 等不同间隔，协议和传输速度不相关，可采用多种协议传输数据，处理的数据流量在 100Mb/s 和 400Gb/s 之间，能以低成本方式快速响应客户的带宽需求和协议改变|
+
+封  装类  型,产品型号,传输介质,传输速率,传输波长,传输距离,接口类型
+DWDM S  FP+,SYSFPP6GDMB16-XX,SMF,3.3-6.14G,DWDM 100GHz,16dB,LC
+DWDM SFP+,SYSFPP6GDMB24-XX,SMF,3.3-6.14G,DWDM 1  00GHz,24dB,LC
+DWDM SFP+,SYSFPP10GDMB16-XX,SMF,9.95-10.3G,DWDM/100GHz,16dB,LC
+DWDM SFP+,SYSFPP10GDMB24-XX,SMF,9.95-10.3G,DWDM/100GHz,24dB,LC
+DWDM SFP+,SYSFPP192DMB16-XX,SMF,9.95-11.1G,DWDM/100GHz,16dB,LC
+DWDM SFP+,SYSFPP192DMB24-XX,SMF,9.95-11.1G,DWDM/100GHz,24dB,LC

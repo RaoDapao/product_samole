@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/products/analog_design_eda/NanoSpice-MS.html
+产品结构：root->概伦电子-NanoSpiceMS
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|NanoSpice MS|无|高性能混合信号仿真解决方案，采用 VPI 接口和高效率同步算法，支持 NanoSpice 系列仿真器与数字仿真器通过 Verilog、VHDL 和 System Verilog 语言进行数据实时交互和协同仿真，凭借 NanoSpice 系列仿真器特别是 NanoSpice Giga 和 NanoSpice Pro 在晶体管级电路仿真的性能优势，极大提高混合信号仿真与验证效率，实现高性能、大容量、超快速混合信号仿真|

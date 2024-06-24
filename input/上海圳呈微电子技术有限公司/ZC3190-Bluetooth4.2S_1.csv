@@ -1,0 +1,22 @@
+产品网址：https://www.unisim-micro.com/productinfo/521187.html#
+产品结构：root->ZC3190-Bluetooth4.2StereoHeadsetSoC-上海圳呈微电子技术有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Bluetooth SoC 芯片|ZC3190|是一款高度集成的 SoC，用于蓝牙音频流处理和音频播放器，提供低成本、低功耗、灵活且更强大的蓝牙音频解决方案，支持蓝牙 V4.2 SPEC、V2.1+EDR 兼容，内置低级别蓝牙协议（LMP、L2CAP、RFCOMM、SDP 等），支持 Headset Profile（HSP）V1.2、Hands Free Profile（HFP）V1.6、Advanced Audio Distribution Profile（A2DP）V1.2、Audio/Video Remote Control Profile（AVRCP）V1.5，具有立体声音频播放和远程控制应用，内置高性能 SBC 解码器用于蓝牙音频应用，接收灵敏度为-90dBm|
+
+Operation  Mode,Un,Min,Typical,Max
+Inquiry &Page  Scan,mA,14,17.0,18.0
+Play stereo,mA,15,17.0,19.0
+Phone  Call(ESCO),mA,15,16.0,17.0
+Sniff  Mode(Idle),uA,400,700.0,900.0
+Power  Off,uA,0,0.2,0.4
+
+
+Type,Package,Embedded
+ZC3190,LQFP7*7 48L,4M FLASH
+ZC3191A,QFN4*4 32L,4M FLASH
+ZC3191B,QFN4*4 32L,32K EEPROM
+ZC3194A,TSSOP24L,4M FLASH
+ZC3194B,TSSOP24L,32K EEPROM
+ZC3195,TSSOP20L,32K EEPROM

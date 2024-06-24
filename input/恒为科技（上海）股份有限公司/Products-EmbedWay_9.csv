@@ -1,0 +1,25 @@
+产品网址：https://www.embedway.com/products/21/25?lang=en
+产品结构：root->Products-EmbedWay
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Box Network Packet Broker|无|无|
+|OptiPlus|无|基于正交架构设计，提供高可靠性、可维护性和可扩展性。可用于匹配复杂的网络流量，并满足不断增加的电信服务控制、数据增值服务和其他新兴网络应用的应用处理要求。作为多服务流量收集和分发平台，可部署在骨干网、城域网或高带宽 IP 链路中，作为电信增值服务或监控系统的前端设备。由管理板、交换板、接口板和机箱组成，提供 3 槽或 8 槽的正交架构选择。支持最大流量收集容量为 12.8TB。|
+
+Chassis,Plus 1003,Plus 1008,Plus 1008.1
+Physical Specifications,,,
+Front Slots,3,8,8
+Rear Slots,0,6,6
+Height,5U,13U,13U
+Depth(cm),88,88,88
+Optional AC & DC,√,√,√
+Weight (kg),52,68,68
+Power Consumption (W),500,900,900
+Maximum Port Densities,,,
+1Gb Ports,0,432,432
+10Gb Ports,576,1536,1536
+25Gb Ports,576,1536,1536
+40Gb Ports,144,384,384
+100Gb Ports,144,384,384
+Throughput & Capacity,,,
+Maximum Throughput(Tbps),14.4,38.4,38.4

@@ -1,0 +1,19 @@
+产品网址：https://www.longsys.com/products/solid-state-drive/commercial-pcle-ssd/xp2000-pcie-ssd.html
+产品结构：root->-StorageProductsSolution–LongsysacquiredLEXAR&Foreseee
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|PCIe SSD|XP2000|支持 TRIM 功能和 S.M.A.R.T 功能；采用 PCIe Gen4x4 标准，配备龙芯定制的无 DRAM 存储控制器，采用优质 3D TLC Flash，有 128GB、256GB、512GB、1TB 等容量选项，顺序读写速度高达 5200MB/s/4700MB/s，适用于笔记本电脑、一体机、台式机、家用 IPC 等设备|
+
+Product Series,PN,NAND Flash,Capacity,Type,DRAM,Operating Temperature,Sequential Read Speed*,Sequential Write Speed*,Random Read Speed (IOPS)*,Random Write Speed (IOPS)*,Mean Time Between Failures (Hour)
+XP2000 PCIe SSD,FSB0C256G-B7C7200,3D TLC,256GB,M.2 2280,DRAM-less,0℃~70°C,4900MB/s,2000MB/s,250K,490K,1.5 million hours
+XP2000 PCIe SSD,FSB0C512G-B7C7200,3D TLC,512GB,M.2 2280,DRAM-less,0℃~70°C,5200MB/s,3900MB/s,470K,870K,1.5 million hours
+XP2000 PCIe SSD,FSB0C001T-B7C7200,3D TLC,1TB,M.2 2280,DRAM-less,0℃~70°C,5200MB/s,4700MB/s,810K,940K,1.5 million hours
+XP2000 PCIe SSD,FSP0C128G-B7C7200,3D TLC,128GB,M.2 2230,DRAM-less,0℃~70°C,2400MB/s,680MB/s,28K,34K,1.5 million hours
+XP2000 PCIe SSD,FSP0C256G-B7C7200,3D TLC,256GB,M.2 2230,DRAM-less,0℃~70°C,4900MB/s,2000MB/s,250K,490K,1.5 million hours
+XP2000 PCIe SSD,FSP0C512G-B7C7200,3D TLC,512GB,M.2 2230,DRAM-less,0℃~70°C,5200MB/s,3900MB/s,470K,870K,1.5 million hours
+XP2000 PCIe SSD,FSP0C001T-B7C7200,3D TLC,1TB,M.2 2230,DRAM-less,0℃~70°C,5200MB/s,4700MB/s,810K,940K,1.5 million hours
+XP2000 PCIe SSD,FS90C128G-B7C7200,3D TLC,128GB,M.2 2242,DRAM-less,0℃~70°C,2400MB/s,680MB/s,28K,34K,1.5 million hours
+XP2000 PCIe SSD,FS90C256G-B7C7200,3D TLC,256GB,M.2 2242,DRAM-less,0℃~70°C,4900MB/s,2000MB/s,250K,490K,1.5 million hours
+XP2000 PCIe SSD,FS90C512G-B7C7200,3D TLC,512GB,M.2 2242,DRAM-less,0℃~70°C,5200MB/s,3900MB/s,470K,870K,1.5 million hours
+XP2000 PCIe SSD,FS90C001T-B7C7200,3D TLC,1TB,M.2 2242,DRAM-less,0℃~70°C,5200MB/s,4700MB/s,810K,940K,1.5 million hours

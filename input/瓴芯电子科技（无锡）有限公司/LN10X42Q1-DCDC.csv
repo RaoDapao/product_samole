@@ -1,0 +1,23 @@
+产品网址：https://www.len-technology.com/en/products/dc-dc/dc-dc-details/ln10x42
+产品结构：root->LN10X42Q1-DCDC
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|DC-DC|LN10X42Q1|Automotive, 36V, 6A, Synchronous Step-Down Regulator|
+
+Operating voltage Min (V),3.5
+Operating voltage Max (V),36
+Output Voltage Range (V),adjustable from 1V to VIN
+Output current (A),Up to 2
+Synchronous (integrated highside and lowside mosfet),Yes
+Operating quiescent current (uA),40
+Shutdown quiescent current (uA),0.45
+Light load mode,PFM or FPWM
+Switching frequency (KHz),400、1000、2100
+EMI Performance,Spread Spectrum Reduces Peak Emissions;  Flip Chip Package Minimizes SW Ringing；  Parallel Input Path Minimizes Radiated Emission
+Other functions,Enable pin；  Power Good Indicator；  Internal Compensation；  Internal Soft Start;  Synchronization to external clock：
+Protection,Accurate Peak and Valley Current Clamp；  Output short-circuit protection with hiccup mode；  Accurate Vin UVLO protection；  Over-temperature shuntdown and recovery；
+Package,LQFN2030W-11 with wettable flank
+Rating,AEC-Q100 Grade1
+Operating junction temperature,-40 to 150
+Functional safety supported,Functional Safety Supported

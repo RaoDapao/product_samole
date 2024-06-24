@@ -1,0 +1,6 @@
+产品网址：http://www.i-core.cn/proshow/562.html
+产品结构：root->产品中心-无锡中微爱芯电子有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|逻辑芯片|AiP74AVC2T45|2-bit Dual Supply Translating Transceiver;3-state，是一款双位、双电源收发器，可实现双向电平转换。具有两个数据输入输出端口（nA 和 nB）、一个方向控制输入（DIR）和双电源引脚（VCC(A) 和 VCC(B)）。VCC(A) 和 VCC(B) 均可在 0.8V 至 3.6V 之间的任何电压下供电，适用于在任何低电压节点（0.8V、1.2V、1.5V、1.8V、2.5V 和 3.3V）之间进行转换。nA 和 DIR 引脚参考 VCC(A)，nB 引脚参考 VCC(B)。DIR 为高电平时允许从 nA 传输到 nB，DIR 为低电平时允许从 nB 传输到 nA。该器件完全适用于使用 IOFF 的部分掉电应用。IOFF 电路禁用输出，防止器件掉电时通过器件的任何有害回流电流。在暂停模式下，当 VCC(A) 或 VCC(B) 处于 GND 电平时，A 和 B 均处于高阻态 OFF 状态。|

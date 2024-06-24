@@ -1,0 +1,54 @@
+-> root http://www.mk-dz.cn
+  -> 首页 
+    -> 产品推荐 http://www.mk-dz.cn/Product
+      -> 驱动芯片IC http://www.mk-dz.cn/Product/PW
+        -> 工业驱动芯片 http://www.mk-dz.cn/Product/5703981129.html
+        -> 商用驱动芯片 http://www.mk-dz.cn/Product/105893225.html
+      -> 场效应MOS管 http://www.mk-dz.cn/Product/MOS
+        -> OC1002 MOS 管整流器 
+        -> CS2N60B23HP SOT-223 MOS 管 
+        -> iML3160 SOT-223 MOS 管 
+        -> 1N60/2N60 1.5A 600V SOT-223 N-MOS 管 
+      -> 单片机MCU http://www.mk-dz.cn/Product/MCU
+      -> 电路板PCBA http://www.mk-dz.cn/Product/PCBA
+      -> 其它元器件 http://www.mk-dz.cn/Product/RR
+        -> CD4628/CYTM4628 国产军工级双通道 8A 或单通道 16A DC/DC 
+        -> CD4630/CYTM4630 国产军工级双输出 18A 或单输出 36A DC/DC 
+        -> CD4620/CYTM4620 国产军工级双通道 13A 或单通道 26A DC/DC 
+        -> CD4644/CYTM4644 国产军工级单通道 16A 或四通道 4A DC/DC 
+        -> CD4650/CYTM4650 国产军工级双通道 25A 或单通道 50A DC/DC 
+        -> 军工级/工业级 357 光耦 国产高压光耦 357 
+        -> 军工级/工业级 3H7 光耦 国产高压光耦 3H7 
+        -> 军工级/工业级光固态继电器 214 光电耦合继电器 214 
+        -> 军工级/工业级 6N137 光耦 国产高速光耦 6N137 
+        -> 军工级/工业级 3120 光耦 国产储能逆变 IGBT 专用光耦 3120 
+    -> 应用案例 http://www.mk-dz.cn/case/2783091934.html
+      -> LED 恒流控制芯片 
+      -> 外置 OVP 降压型 LED 恒流驱动芯片 
+  -> Yourposition：Home 
+    -> Recommendedproducts http://www.mk-dz.cn/En/Product
+      -> PCBA http://www.mk-dz.cn/En/Product/PCBA
+      -> Varistor http://www.mk-dz.cn/En/Product/Varistor
+      -> MOSFET_1 http://www.mk-dz.cn/En/Product/mos
+      -> DriveChip http://www.mk-dz.cn/En/Product/Chip
+        -> Drive Chip 
+        -> Drive Chip 
+        -> Drive Chip 
+        -> Drive Chip 
+        -> Drive Chip 
+        -> Drive Chip 
+        -> Drive Chip 
+        -> Drive Chip 
+        -> Drive Chip 
+        -> Drive Chip 
+        -> Drive Chip 
+        -> Drive Chip 
+        -> Drive Chip 
+        -> Drive Chip 
+        -> Drive Chip 
+        -> Drive Chip 
+        -> Drive Chip 
+        -> Drive Chip 
+        -> Drive Chip 
+        -> Drive Chip 
+      -> MCU http://www.mk-dz.cn/En/Product/mcu

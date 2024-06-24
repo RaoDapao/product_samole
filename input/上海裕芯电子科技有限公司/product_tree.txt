@@ -1,0 +1,30 @@
+-> root https://www.shiningic.com
+  -> 首页 
+    -> 产品中心 https://www.shiningic.com/zh/producterlist.aspx?classid=0101&id=010111
+      -> 太阳能LED照明驱动 https://www.shiningic.com/zh/producterlist.aspx?classid=010111
+      -> 电池管理芯片 https://www.shiningic.com/zh/producterlist.aspx?classid=010112
+      -> DC-DC直流转换 https://www.shiningic.com/zh/producterlist.aspx?classid=010113
+      -> DC-LED https://www.shiningic.com/zh/producterlist.aspx?classid=010114
+      -> 运算放大器 https://www.shiningic.com/zh/producterlist.aspx?classid=010115
+      -> 马达驱动 https://www.shiningic.com/zh/producterlist.aspx?classid=010116
+      -> 电源管理芯片 https://www.shiningic.com/zh/producterlist.aspx?classid=010108
+    -> 新闻资讯 
+      -> 行业新闻 https://www.shiningic.com/zh/articledetail.aspx?detailid=24
+    -> 联系我们 
+  -> Home 
+    -> Product https://www.shiningic.com/en/producterlist.aspx?classid=0101
+      -> PMIC-MobileLighting https://www.shiningic.com/en/producterlist.aspx?classid=010101
+      -> PMIC-SolarDrive https://www.shiningic.com/en/producterlist.aspx?classid=010102
+      -> BatteryManagementIC https://www.shiningic.com/en/producterlist.aspx?classid=010104
+      -> SystemandSensor https://www.shiningic.com/en/producterlist.aspx?classid=010105
+    -> News 
+      -> IndustryNews https://www.shiningic.com/en/articledetail.aspx?detailid=44
+  -> PMIC-ConsumerElectro https://www.shiningic.com/en/producterlist.aspx?classid=010103
+  -> PMIC-ConsumerElectro_1 http://www.shiningic.com/en/producterlist.aspx?classid=010103
+    -> PMIC-Consumer Electronics 
+  -> YX2118-上海裕芯电子有限公司 https://www.shiningic.com/en/productdetail.aspx?detailid=57&classid1=0101&classid2=010103
+  -> 裕芯电子-PMIC,PowerManag https://www.shiningic.com/zh/?detailid=24
+  -> YX2811*-上海裕芯电子有限公司 https://www.shiningic.com/en/productdetail.aspx?detailid=58&classid1=0101&classid2=010103
+  -> YX2116*-上海裕芯电子有限公司 https://www.shiningic.com/en/productdetail.aspx?detailid=56&classid1=0101&classid2=010103
+  -> YS3605*-上海裕芯电子有限公司 https://www.shiningic.com/en/productdetail.aspx?detailid=55&classid1=0101&classid2=010103
+  -> 裕芯电子-PMIC,PowerManag_1 https://www.shiningic.com/zh/?detailid=350

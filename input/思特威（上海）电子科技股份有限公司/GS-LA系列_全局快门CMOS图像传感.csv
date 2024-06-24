@@ -1,0 +1,30 @@
+产品网址：https://www.smartsenstech.com/gs_products
+产品结构：root->GS/LA系列|全局快门CMOS图像传感器
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|SmartGS™ Series|无|将背照式(BSI)像素设计工艺与全局快门(Global Shutter)图像传感器设计巧妙结合，提供信噪比更佳、灵敏度更高与动态范围更大的成像性能，赋能智感设备全新的生命力|
+|LA Series|无|集高稳定性、高精准度、低噪声、高行频四大性能优势于一身，可适用于各种工业环境中，全天候为工厂提供精准、稳定、可靠的图像数据|
+
+Product Series,PN,选择分辨率  Resolution,选择光学尺寸  Optical Format,PixelSize,选择快门形式  Shutter Type,PixelArray,Max FrameRate,Interface,Package,Download,Contact Us
+Linear,SC430LA,4K,4K Linear,7.0μm,Rolling,4096Hx3V,200kHZ@1-line  133kHZ@2-line  100kHZ@3-line,LVDS,CLCC,,联系销售
+Linear,SC830LA,8K,8K Linear,7.0μm,Rolling,8192Hx4V,200kHZ,LVDS,PCBA,-,联系销售
+Linear,SC1630LA,16K,16K Linear,3.5μm,Rolling,16384Hx2V,100kHZ,LVDS,PCBA,-,联系销售
+
+
+Product Series,PN,选择分辨率  Resolution,选择光学尺寸  Optical Format,PixelSize,选择快门形式  Shutter Type,选择是否具有HDR  HDR,PixelArray,Max FrameRate,CRA,Interface,Package,Download,Contact Us
+SmartGS™-2 Plus,New  SC020HGS,0.16MP,"1/14""",2.2μm,Global,,416Hx416V,240fps,30.8°,MIPI,CSP/COB,-,联系销售
+SmartGS™-2 Plus,New  SC038HGS,0.3MP,1/7.5'',3.0μm,Global,,640Hx480V,240fps,29.01°,MIPI/LVDS/DVP,CSP/COB,-,联系销售
+SmartGS™,SC035HGS,0.3MP,"1/6""",3.744μm,Global,,640Hx480V,180fps,33°,MIPI/LVDS/DVP,CSP/COB,-,联系销售
+SmartGS™-2 Plus,SC135HGS,1.3MP,"1/3.2""",3.45μm,Global,Yes,1280Hx1024V,160fps,0°,MIPI DVP LVDS,CSP/CLGA,,联系销售
+SmartGS™,SC130GS,1.3MP,"1/2.7""",4.0μm,Global,Yes,1280Hx1024V,240fps,0°,MIPI DVP LVDS,CLCC,,联系销售
+SmartGS™,SC132GS,1.3MP,"1/4""",2.7μm,Global,Yes,1080Hx1280V,120fps,25°,MIPI LVDS,COB/Fan-out,,联系销售
+SmartGS™-2 Plus,SC133HGS,1.3MP,"1/3.7""",3.0μm,Global,Yes,1288Hx968V,120fps,23°,MIPI DVP LVDS,CSP42,,联系销售
+SmartGS™-2 Plus,SC235HGS,2MP,"1/2.6""",3.45μm,Global,Yes,1600Hx1200V,130fps,0°,MIPI DVP LVDS,CSP/CLGA,,联系销售
+SmartGS™-2 Plus,SC233HGS,2.3MP,1/2.6”,3.0μm,Global,Yes,1928Hx1208V,120fps,15°,MIPI DVP LVDS,CSP48,,联系销售
+SmartGS™-2,SC350HGS,3MP,2/3″,4.2μm,Global,,1768Hx1768V,75fps,9°,MIPI LVDS,CLGA,,联系销售
+SmartGS™-2,SC410GS,4MP,1/1.3″,4.2μm,Global,Yes,1752Hx2336V,50fps,9°,MIPI LVDS,CLGA,,联系销售
+SmartGS™-2 Plus,SC535HGS,5MP,"2/3""",3.45μm,Global,Yes,2448Hx2048V,80fps,0°,MIPI LVDS,CLGA,-,联系销售
+SmartGS™-2,SC650HGS,6MP,1″,4.0μm,Global,,2896Hx2176V,65fps,9°,MIPI LVDS,CLGA,,联系销售
+SmartGS™-2,SC910GS,9MP,"1.1""",4.0µm,Global,Yes,3856Hx2368V,50fps,9°,MIPI LVDS,CLGA,,联系销售
+SmartGS™-2,SC950HGS,9MP,1.1″,4.0μm,Global,,3856Hx2368V,65fps,9°,MIPI LVDS,CLGA,,联系销售

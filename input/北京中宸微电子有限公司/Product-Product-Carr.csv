@@ -1,0 +1,10 @@
+产品网址：http://zc-power.com/a/chanpinjiejuefangan_en/product/Carrier_communica/index.html
+产品结构：root->Product/Product/Carriercommunicationprogram_北京中宸微电子有限公司官网
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Carrier communication chip|ZC1780|Data Interfaces and Communication Protocols：DL/T645-1997、DL/T645-2007<br>Carrier frequency：270kHz15kHz BFSK<br>Carrier communication rate：420bps/840bps/1260bps<br>Kernel：Cortex-M0<br>Working frequency62.5MHz<br>PLC zero-crossing detection Two...|
+|Carrier communication chip|ZC1781|Data Interfaces and Communication Protocols：DL/T645-1997、DL/T645-2007<br>Carrier frequency：270kHz15kHz BFSK<br>Carrier communication rate：420bps/840bps/1260bps<br>Kernel：Cortex-M0<br>Working frequency62.5MHz<br>PLC zero-crossing detection Two...|
+|Single phase PLC module|无|Automatically reads the power meter communication address when being electrified.<br>Carrier frequency：270kHz15kHz<br>Carrier communication rate：420bps/840bps/1260bps<br>Serial port baud rate(self-adaption)：1200bps、2400bps、4800bps、9600bps...|
+|Three phases PLC module|无|Automatically reads the power meter communication address when being electrified.<br>Carrier frequency：270kHz15kHz<br>Carrier communication rate：420bps/840bps/1260bps<br>Serial port baud rate(self-adaption)：1200bps、2400bps、4800bps、9600bps...|
+|Router|无|Carrier frequency：270kHz15kHz<br>Carrier communication rate：420bps/840bps/1260bps<br>Serial port baud rate(self-adaption)：1200bps、2400bps、4800bps、9600bps<br>Active registration, automatic reporting,dynamic networking,automatic routing Sup...|

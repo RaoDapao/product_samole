@@ -1,0 +1,12 @@
+产品网址：https://www.shiningic.com/en/producterlist.aspx?classid=010104
+产品结构：Home->Product->BatteryManagementIC
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Battery Management IC|无|无|
+
+序号,type,description,circuit diagram,VIN（V）,VOUT（V）,IQ（uA）,ISD（uA）,ISW(max)（A）,"fSW（TYP,KHz)",encapsulation,Remarks
+1,YX4056B,锂电充电 线性充电管理,4.5~5.5,9.0,/,4.2,1000,±1,3.7,R+2C,ESOP8
+2,YX4056C,锂电充电 线性充电管理,4.5~5.5,6.5,/,4.2,1000,±1,3.7,R+2C,ESOP8
+3,YX4055B,锂电充电 线性充电管理,4.5~5.5,9.0,/,4.2,600,±1,3.7,R+2C,SOT23-5
+4,YX4055C,锂电充电 线性充电管理,4.5~5.5,6.5,/,4.2,600,±1,3.7,R+2C,SOT23-5

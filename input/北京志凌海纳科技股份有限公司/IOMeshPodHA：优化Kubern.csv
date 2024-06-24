@@ -1,0 +1,6 @@
+产品网址：https://www.smartx.com/blog/2023/11/iomesh-pod-ha
+产品结构：root->IOMeshPodHA：优化Kubernetes机制，提供高级别高可用持久化存储–SmartX
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|IOMesh Pod HA|无|优化 Kubernetes 机制，提供高级别高可用持久化存储，支持 Pod 调度至其他节点的 PV 访问和副本迁移，帮助有状态应用实现迁移，在减少业务中断的同时充分利用 I/O 本地化带来的性能优势|

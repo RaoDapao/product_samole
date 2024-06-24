@@ -1,0 +1,54 @@
+-> root http://www.dkpower.cn
+  -> 首页 
+    -> 产品中心 
+      -> AC-DC电源管理系列 
+        -> AC-DC产品线(SSR) https://www.dkpower.cn/ACDCchanpinxianSSR.html
+        -> AC-DC产品线(GaN) https://www.dkpower.cn/ACDCchanpinxianGaN.html
+        -> AC-DC产品线(PSR) https://www.dkpower.cn/ACDCchanpinxianPSR.html
+        -> AC-DC产品线(Non-isolated) https://www.dkpower.cn/ACDCchanpinxianNonisolated.html
+      -> SR同步整流系列 
+        -> BV45VProduct https://www.dkpower.cn/BV45VProduct.html
+        -> BV60VProduct https://www.dkpower.cn/BV60VProduct.html
+        -> BV65VProduct https://www.dkpower.cn/BV65VProduct.html
+        -> BV85VProduct https://www.dkpower.cn/BV85VProduct.html
+        -> BV100VProduct https://www.dkpower.cn/BV100VProduct.html
+        -> BV120VProduct https://www.dkpower.cn/BV120VProduct.html
+        -> BV150VProduct https://www.dkpower.cn/BV150VProduct.html
+      -> 新品发布 https://www.dkpower.cn/xinpinfabu.html
+        -> AC-DC 电源管理系列 
+        -> SR 同步整流系列 
+        -> 触摸感应系列 
+        -> 1 通道触摸感应器 
+        -> 2 通道触摸感应器 
+        -> 4 通道触摸感应器 
+        -> 5 通道触摸感应器 
+        -> 8 通道触摸感应器 
+        -> 9 通道触摸感应器 
+        -> 12 通道触摸感应器 
+        -> USB PD 快充协议系列 
+        -> 单口 C 协议 
+      -> 触摸感应系列 
+        -> 1通道触摸感应器 https://www.dkpower.cn/1tongdaochumoganyingqi.html
+        -> 2通道触摸感应器 https://www.dkpower.cn/2tongdaochumoganyingqi.html
+        -> 4通道触摸感应器 https://www.dkpower.cn/4tongdaochumoganyingqi.html
+        -> 5通道触摸感应器 https://www.dkpower.cn/5tongdaochumoganyingqi.html
+        -> 8通道触摸感应器 https://www.dkpower.cn/8tongdaochumoganyingqi.html
+        -> 9通道触摸感应器 https://www.dkpower.cn/9tongdaochumoganyingqi.html
+        -> 12通道触摸感应器 https://www.dkpower.cn/12tongdaochumoganyingqi.html
+      -> USBPD快充协议系列 
+        -> 单口C协议 https://www.dkpower.cn/dankouCxieyi.html
+      -> 下载中心 
+        -> AC-DC电源管理系列 https://www.dkpower.cn/ACDCdianyuanguanlixilies.html
+        -> 东科触摸芯片系列 https://www.dkpower.cn/dongkechumoxinpianxilie.html
+        -> SR同步整流系列 https://www.dkpower.cn/SRtongbuzhengliuxilies.html
+    -> 新闻中心 
+      -> 行业动态 https://www.dkpower.cn/hangyedongtai/361.html
+        -> DK025G 
+        -> DK036G 
+        -> DK045G 
+        -> DK065G 
+      -> 公司新闻 https://www.dkpower.cn/gongsixinwen/476.html
+  -> Home 
+    -> PRODUCT 
+      -> AC-DCPowerManagement https://www.dkpower.cn/ACDCdianyuanguanlixilie.html
+  -> BV45VProduct_1 https://www.dkpower.cn/SRtongbuzhengliuxilie.html

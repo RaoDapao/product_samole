@@ -1,0 +1,10 @@
+产品网址：http://chinaasic.com/productItem/product_item_20.html
+产品结构：共2条<1/1->跳转
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|格栅屏驱动|无|无|
+
+IC Name,Channels,Supply Voltage,I  OUT,Current accuracy (CHs),Current accuracy (ICs),Protocol,Package,操作
+SM16218N,18,3.3V~5.5V,3~30mA,<±2.5%,<±3.0%,Double-latch,QFN24,more>>
+SM16318N,16,3.3V~5.5V,1-33mA,<±2.5%,<±2.5%,SM-PWM,QFN24 (2*4、3*4),more>>

@@ -1,0 +1,19 @@
+-> root http://sh-jingjun.com
+  -> 首页 
+    -> 产品展示 http://sh-jingjun.com/channel.asp?id=3
+      -> 活动房 http://sh-jingjun.com/channel.asp?id=27
+        -> 信息详情 http://sh-jingjun.com/info.asp?id=106
+      -> 干货箱 http://sh-jingjun.com/channel.asp?id=28
+        -> 信息详情_1 http://sh-jingjun.com/info.asp?id=120
+      -> 集装箱别墅 http://sh-jingjun.com/channel.asp?id=29
+        -> 信息详情_2 http://sh-jingjun.com/info.asp?id=112
+      -> 集装箱改造 http://sh-jingjun.com/channel.asp?id=30
+        -> 图片详情 http://sh-jingjun.com/info.asp?id=121
+      -> 开顶框架箱 http://sh-jingjun.com/channel.asp?id=31
+        -> 信息详情_3 http://sh-jingjun.com/info.asp?id=122
+      -> 集装箱多层办公楼 http://sh-jingjun.com/channel.asp?id=32
+        -> 信息详情_4 http://sh-jingjun.com/info.asp?id=119
+      -> 集装箱活动房 http://sh-jingjun.com/channel.asp?id=33
+        -> 信息详情_5 http://sh-jingjun.com/info.asp?id=115
+      -> 小框架箱 http://sh-jingjun.com/channel.asp?id=34
+        -> 信息详情_6 http://sh-jingjun.com/info.asp?id=125

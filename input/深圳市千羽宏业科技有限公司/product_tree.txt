@@ -1,0 +1,33 @@
+-> root https://www.sz-qyhy.com
+  -> 首页 
+    -> 产品中心 https://www.sz-qyhy.com/product/product.html
+      -> 视音频数据光端机 https://www.sz-qyhy.com/product/product1.html
+        -> 一路音视频数据光端机 https://www.sz-qyhy.com/product/product1_1.html
+        -> 二路音视频数据光端机 https://www.sz-qyhy.com/product/product1_2.html
+      -> 高清视频光端机 https://www.sz-qyhy.com/product/product3.html
+        -> 1路视频光端机 https://www.sz-qyhy.com/product/product3_1.html
+      -> 光端机机架系列 https://www.sz-qyhy.com/product/product4.html
+      -> 光纤收发器系列 https://www.sz-qyhy.com/product/product5.html
+        -> 10M-100M自适应光纤收发器系列 https://www.sz-qyhy.com/product/product5_1.html
+        -> 1000M光纤收发器系列 https://www.sz-qyhy.com/product/product5_3.html
+        -> 光纤收发器14-16槽机架系列 https://www.sz-qyhy.com/product/product5_4.html
+      -> 光纤传输工程辅料 https://www.sz-qyhy.com/product/product6.html
+        -> 多业务型光端机 
+        -> 高清视频光端机 
+        -> 光纤收发器系列 
+        -> 无线传输模块 
+        -> 无线模块 
+        -> 无线透明传输模块 
+      -> 无线传输模块 
+        -> 无线模块 https://www.sz-qyhy.com/product/product6_1.html
+        -> 无线透明传输模块 https://www.sz-qyhy.com/product/product6_2.html
+    -> 走进千羽 
+      -> 产品中心 
+        -> 多业务型光端机 https://www.sz-qyhy.com/product/product2.html
+        -> 光纤收发器系列 
+          -> 10M-100M-1000M自适应光纤收发器系列 https://www.sz-qyhy.com/product/product5_2.html
+    -> 服务与支持 
+      -> 下载中心 
+        -> 产品资料下载 https://www.sz-qyhy.com/service/service3_1.html
+          -> 光纤收发器 
+          -> 光纤传输工程辅件 

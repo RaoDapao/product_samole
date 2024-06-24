@@ -1,0 +1,12 @@
+-> root http://www.nanhekeji.com
+  -> 首页 
+    -> 产品中心 http://www.nanhekeji.com/index.php/list/index/id/1.html
+      -> 单片机开发板 
+        -> Arduino http://www.nanhekeji.com/index.php/product/index/id/51.html
+      -> 继电器模块 http://www.nanhekeji.com/index.php/product/index/id/49.html
+        -> 基于ESP8266方案的WIFI http://www.nanhekeji.com/index.php/product/index/id/52.html
+      -> 传感器模块 http://www.nanhekeji.com/index.php/product/index/id/48.html
+      -> 其它模块及配件 http://www.nanhekeji.com/index.php/product/index/id/47.html
+      -> 扩展板 
+        -> 开发板 http://www.nanhekeji.com/index.php/list/index/id/54.html
+      -> 液晶及显示类 http://www.nanhekeji.com/index.php/list/index/id/55.html

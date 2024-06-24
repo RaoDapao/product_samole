@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/en/products/analog_design_eda/NanoSpice-Gigaen.html
+产品结构：root->PRIMARIUS-NanoSpiceGiga
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|NanoSpice Giga|无|是行业内的 Giga 级 SPICE 模拟器，具有创新的并行模拟引擎，采用大数据架构，可有效处理数十亿元素的设计，适用于内存、定制或半定制数字电路以及全芯片设计的验证和签收，具有更高的精度，可用于电源、漏电、时序/噪声特性和验证，具有卓越的并行化技术，在不牺牲精度的情况下提供更快的模拟速度，是高精度和高性能的内存 IP 和全芯片验证的黄金签收模拟器|

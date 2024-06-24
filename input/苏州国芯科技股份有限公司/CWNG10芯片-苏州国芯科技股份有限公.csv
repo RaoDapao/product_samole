@@ -1,0 +1,16 @@
+产品网址：https://www.china-core.com/products_show.php?id=50&lm=16
+产品结构：root->CWNG10芯片-苏州国芯科技股份有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|CWNG10 芯片|无|采用国内具有自主知识产权的 32 位 CPU 安全内核 CS0 进行设计，用于产生真随机数序列，可广泛应用于加密卡、密码机、签名验签服务器、VPN 网关、安全路由器等产品中，满足安全通信中对真随机数序列的需求|
+
+引脚编号,功能定义,备注
+1,MOSI2/GINT[0],SPI SI/GPIO
+2,GINT[2],GPIO
+3,GINT[1],GPIO
+4,VSS,地
+5,MISO2,SPI SO，随机数数据输出
+6,SS2,SPI片选
+7,SCK2,SPI时钟
+8,VCC,电源

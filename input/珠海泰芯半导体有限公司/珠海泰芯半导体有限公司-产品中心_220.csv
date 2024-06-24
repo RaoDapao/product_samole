@@ -1,0 +1,15 @@
+产品网址：https://en.taixin-semi.com/Product/ProductDetail?productId=264
+产品结构：root->珠海泰芯半导体有限公司-产品中心
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|TX8W7011SO16|TX8W7011SO16|无|
+
+Type,Encapsulated Type,Chip-Set,Max Speed（MHz）,Flash（KB）,RAM（Byte）,EEPROM（Byte）,GPIO,Working Voltage（V）,Temperature（℃）,Advanced TM,GPTM,WatchDog,PWM,UART,SPI,ADC,DAC,ACMP,CRC,Code Encryption,LPM
+TX8W7011SO16,SOP16,8051,32,4,512,2*128,9,2.4 ~ 3.6,-40 ~ 85,2*16bit,1*8bit 1*16bit,1,4,2,1,8,2,2,1,√,5ua
+
+
+
+
+
+

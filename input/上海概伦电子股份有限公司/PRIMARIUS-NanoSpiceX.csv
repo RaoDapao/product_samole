@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/en/products/analog_design_eda/NanoSpice-X-EN.html
+产品结构：root->PRIMARIUS-NanoSpiceX
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|NanoSpice X|无|作为一款高精度、高容量的并行 SPICE 模拟器，NanoSpice X 旨在应对最具挑战性的模拟任务。比其他具有相同精度的解决方案快 2 到 10 倍以上。适用于精确的块级电路、复杂的模拟全芯片设计和具有巨大寄生 RC 的大型后布局模拟电路。具有卓越的并行化技术、自适应 SPICE 求解器、高效的矩阵求解、后布局电路拓扑优化和显著增强的 RC 缩减能力。可容纳多达 1 亿个电路元件，同时保持 SPICE 级精度。独特的自适应 SPICE 引擎，可根据用户指定的电路类型自动匹配最合适的模拟算法。确保在操作原理、电路结构和频率方面实现最佳性能。|

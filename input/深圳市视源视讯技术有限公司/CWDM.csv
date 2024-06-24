@@ -1,0 +1,18 @@
+产品网址：http://video-sy.com/?show-32-1.html
+产品结构：当前位置：首页->产品中心->光纤传输设备->光纤通讯模块->SFP->CWDM
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|光纤通讯模块|CWDM SFP|采用 CWDM 技术，可通过外接波分复用器将不同波长的光信号复合在一起，通过一根光纤传输，节约光纤资源，接收端需使用波分解复用器对复光信号进行分解，分为 18 个波段，从 1270nm~1610nm，每两个波段之间相隔 20nm|
+
+封装类型,产品型号,传输介质,传输速率,传输波长,传输距离,接口类型
+SFP CWDM,SYSFPCW15XXB30/I,SMF,100M-155Mb  ps,CWDM,30dB,LC
+SFP CWDM,SYSFPCW15XXB35/I,SMF,100M-155Mbps,CWDM,35dB,LC
+SFP CWDM,SYSFPCW15XXB45/I,SMF,100M-155Mbps,CWDM,45dB,LC
+SFP CWDM,SYSFPCW15XXB30/I,SMF,100M-622Mbps,CWDM,30dB,LC
+SFP CWDM,SYSFPCW15XXB40/I,SMF,100M-622Mbps,CWDM,40dB,LC
+SFP CWDM,SYSFPCWGEXXB24/I,SMF,up to 1.25 Gbps,CWDM,24dB,LC
+SFP CWDM,SYSFPCWGEXXB28/I,SMF,up to 1.25 Gbps,CWDM,28dB,LC
+SFP CWDM,SYSFPCWGEXXB35/I,SMF,up to 1.25 Gbps,CWDM,35dB,LC
+SFP CWDM,SYSFPCW25XXB17/I,SMF,up to 2.67 Gbps,CWDM,17dB,LC
+SFP CWDM,SYSFPCW25XXB30/I,SMF,up to 2.67 Gbps,CWDM,30dB,LC

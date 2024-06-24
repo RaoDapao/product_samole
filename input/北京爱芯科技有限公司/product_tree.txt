@@ -1,0 +1,39 @@
+-> root https://www.axera-tech.com
+  -> 首页 
+    -> 产品中心 
+      -> 爱芯元速——M55H https://www.axera-tech.com/Gong/1.html
+      -> 爱芯元速——M76H https://www.axera-tech.com/Product/108.html
+      -> AX650N https://www.axera-tech.com/Product/125.html
+      -> AX630C https://www.axera-tech.com/Product/126.html
+        -> 智能驾驶芯片 
+        -> 智能驾驶芯片 
+        -> 智能驾驶芯片 
+        -> 智能视觉芯片 
+        -> 智能视觉芯片 
+        -> 轻智能视觉芯片 
+        -> 轻智能视觉芯片 
+        -> 同轴高清 TX 
+        -> 同轴高清 TX 
+        -> 同轴高清 TX 
+        -> 同轴高清 TX 
+        -> 同轴高清 RX 
+        -> 同轴高清 RX 
+        -> 同轴高清 RX 
+        -> 同轴高清 RX 
+        -> 数模混合 
+        -> 数模混合 
+        -> 数模混合 
+        -> 数模混合 
+        -> 数模混合 
+        -> 数模混合 
+        -> 数模混合 
+        -> 数模混合 
+        -> 数模混合 
+        -> 数模混合 
+      -> AX620Q https://www.axera-tech.com/Product/127.html
+    -> 解决方案 
+      -> 智能IoT https://www.axera-tech.com/Solution/3.html
+        -> 智能算力盒 
+        -> 家用双向视频通话摄像头 
+        -> 爱芯派 Pro 
+      -> 机器人及创新业务 https://www.axera-tech.com/Solution/29.html

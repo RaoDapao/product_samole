@@ -1,0 +1,6 @@
+产品网址：https://www.empyrean.com.cn/products/eda/foundry/ibis-modeling.html
+产品结构：当前位置：首页->EDA软件->晶圆制造EDA工具->IBIS建模及验证工具
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|IBIS 建模及验证工具|Empyrean Demeter|作为图形化建模工具，提供了自动化的 IBIS Buffer 模型提取、生成和验证流程。通过其图形化界面可以进行 SPICE 模型节点映射，自动运行 SPICE 仿真以获取模型的行为并生成对应的 IBIS 模型。同时，提供了 IBIS 模型的无缝验证流程，可以根据模型的相关设置，自动创建电路图，进行 IBIS 模型验证，提供详细的 DPI（差异峰值指数）和 DAI（差异平均指数），便于对比 SPICE 模型与 IBIS 模型之间的差异。|

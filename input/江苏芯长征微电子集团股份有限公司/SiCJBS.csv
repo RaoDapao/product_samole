@@ -1,0 +1,16 @@
+产品网址：https://www.marching-power.com/sicjbs
+产品结构：首页->产品中心->第三代半导体芯片及模组系列->SiCJBS
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|SiC JBS|无|无|
+
+Part Number,V(BR)CES (V),ID(A)@135°C,VF(V)@25°C typ,Qc(nC) typ,Package,Datasheet
+MPCD2N65A,650,2,1.4,5.4,TO-252-2,Download
+MPCX4N65A,650,4,1.4,8.0,TO-220F-2 TO-220-2 TO-252-2,Download
+MPCX6N65A,650,6,1.4,18.0,TO-220F-2 TO-220-2 TO-252-2,Download
+MPCX8N65A,650,8,1.42,26.0,TO-220F-2 TO-220-2 TO-252-2,Download
+MPCX10N65A,650,10,1.5,25.0,TO-220F-2 TO-220-2 TO-252-2,Download
+MPCX15N65A,650,15,1.4,33.0,TO-220-2 TO-220F-2,Download
+MPCC6N120A,1200,6,1.58,19.0,TO-220-2,Download
+MPCC10N120A,1200,10,1.6,30.0,TO-220-2,Download

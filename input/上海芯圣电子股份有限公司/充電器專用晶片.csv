@@ -1,0 +1,10 @@
+产品网址：http://www.holychip.cn/hk/products/list-279.html
+产品结构：首頁->產品中心->充電器專用晶片
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|充電器專用晶片|HC8M601|ROM：4K*8，RAM：128*8，EEPROM：128*8，I/O：6，ADC：支持 5 个通道 12 位 ADC 检测，DAC：/，Timer：16bit*3 组，PWM：8bit*1，UART：1，工作温度：-40°C~+85°C，Voltage：2.0V－5.5V，Package：SOP8|
+|充電器專用晶片|HC8M612|ROM：4K*8，RAM：128*8，EEPROM：128*8，I/O：8，ADC：支持 8+3（1/4VDD、OP2 输出端、温度检测）通道 12 位 ADC 检测，DAC：2 个 12bit，DAC，0/1，Timer：16bit*3 组，PWM：8bit*1，UART：1，工作温度：-40°C~+85°C，Voltage：2.0V－5.5V，Package：SOP16|
+|充電器專用晶片|HC8M602|ROM：4K*8，RAM：128*8，EEPROM：128*8，I/O：14，ADC：支持 14+3（1/4VDD、温度检测）通道 12 位 ADC 检测，DAC：/，Timer：16bit*3 组，PWM：8bit*1，UART：1，工作温度：-40°C~+85°C，Voltage：2.0V－5.5V，Package：SOP16|
+|充電器專用晶片|HC8M603|ROM：4K*8，RAM：128*8，EEPROM：128*8，I/O：12，ADC：支持 12+3（1/4VDD、OP2 输出端、温度检测）通道 12 位 ADC 检测，DAC：2 个 12bit，DAC，0/1，Timer：16bit*3 组，PWM：8bit*1，UART：1，工作温度：-40°C~+85°C，Voltage：2.0V－5.5V，Package：SSOP20|
+|充電器專用晶片|HC8M603|ROM：4K*8，RAM：128*8，EEPROM：128*8，I/O：14，ADC：支持 14+3（1/4VDD、OP2 输出端、温度检测）通道 12 位 ADC 检测，DAC：2 个 12bit，DAC，0/1，Timer：16bit*3 组，PWM：8bit*1，UART：1，工作温度：-40°C~+85°C，Voltage：2.0V－5.5V，Package：SSOP24|

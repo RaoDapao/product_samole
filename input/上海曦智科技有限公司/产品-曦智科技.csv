@@ -1,0 +1,6 @@
+产品网址：https://lightelligence.co/index.php/product/pace-photonic-arithmetic-computing-engine-ai.html
+产品结构：root->产品-曦智科技
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|光子计算处理器|PACE|PACE 的核心是 64x64 的光学矩阵乘法器，由一块集成硅光芯片和一块 CMOS 微电子芯片以 3D 封装形式堆叠而成。PACE 的单个光子芯片中集成超过 10000 个光子器件，运行 1GHz 系统时钟，运行特定神经网络算法的速度可达目前高端 GPU 的数百倍|

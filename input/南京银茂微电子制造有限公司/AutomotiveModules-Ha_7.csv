@@ -1,0 +1,26 @@
+产品网址：https://www.njsme.com/?aPRODUCTSPRODUCTSC200V/78.html
+产品结构：root->AutomotiveModules-HalfBridge-100V-HalfBridge-南京银茂微电子制造有限公司-
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Automotive Modules-Half Bridge|100V|无|
+
+VDSS=100V,VDSS=100V.1,VDSS=100V.2,VDSS=100V.3,VDSS=100V.4,VDSS=100V.5
+Part Number,Voltage(V),Current(A),RDS(on)@10V,Comments,Links
+MM500HF10B1S,100,500,0.93mΩ,,
+MM700HF10B1S,100,700,0.67mΩ,,
+MM900HF10B1S,100,900,0.53mΩ,,
+MM1000HF10B1S,100,1000,0.40mΩ,,
+MM1200HF10B1S,100,1200,0.33mΩ,,
+MM1400HF10B1S,100,1400,0.29mΩ,,
+,,,,,
+,,,,,
+VDSS=100V,VDSS=100V,VDSS=100V,VDSS=100V,VDSS=100V,VDSS=100V
+Part Number,Voltage(V),Current(A),RDS(on)@10V,Comments,Links
+MM500HF10T2LS,100,500,0.93mΩ,,
+MM700HF10T2LS,100,700,0.67mΩ,,
+MM900HF10T2LS,100,900,0.53mΩ,,
+MM1000HF10T2LS,100,1000,0.40mΩ,,
+MM1200HF10T2LS,100,1200,0.33mΩ,,
+MM1400HF10T2LS,100,1400,0.29mΩ,,
+,,,,,

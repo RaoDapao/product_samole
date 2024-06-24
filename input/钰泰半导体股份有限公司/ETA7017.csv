@@ -1,0 +1,6 @@
+产品网址：https://www.eta-semi.com/product/1271.html
+产品结构：首页->负载开关->ETA7017
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|负载开关|ETA7017|Ultra-Small, Low ON Resistance Load Switch with Auto-Discharge Path，是一款小型、低 RDSON 开关，具有受控导通功能。包含一个 PMOS，可在 1.4V 至 5.5V 的输入电压范围内工作。开关由外部逻辑引脚控制，为高电平有效。具有小于 1uA 的静态和关断电流、4V-5.5V 工作范围、低导通电阻（RDSON=65mohm@VIN=3.3V）、高达 2A 的连续输出电流、输出自动放电、高电平使能引脚、ESD 评级：4KV 人体模式等特征。适用于 NB-IOT 模块、无线通信模块等应用。|

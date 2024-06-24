@@ -1,0 +1,70 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/629.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|NVR|Lite|H.265 1HDD 20ch NVR，支持 H.265、H.264 等视频格式，最多可接入 20 路 IP 摄像机，访问/转发带宽为 80Mbps/80Mbps，具有 8MP(30fps)×2、6MP(30fps)×2、5MP(30fps)×3、4MP(30fps)×4、3MP(30fps)×5、1080P(30fps)×8 的预览解码能力和回放解码能力，每个 HDD 最大容量为 10TB，同时支持 HDMI 和 VGA 输出，HDMI 输出最高可达 4K 分辨率，具有 1 个 RJ-45 自适应以太网端口，S+265 压缩可有效减少存储空间 75%，支持云升级|
+
+Video and Audio,Unnamed: 1
+Access Channel,20
+Incoming Bandwidth,80Mbps
+Outgoing Bandwidth,80Mbps
+Resolution,8MP/6MP/5MP/4MP/3MP/1080P/UXGA/720P/VGA/4CIF/DCIF/2CIF/CIF/QCIF
+Preview Decoding Capability,"8MP(30fps)×2, 6MP(30fps)×2, 5MP(30fps)×3, 4MP(30fps)×4, 3MP(30fps)×5, 1080P(30fps)×8, 720P(30fps)×16, 4CIF(30fps)×20"
+Third-party Camera Access,ONVIF; RTSP
+HDMI Output,"HDMI:1024×768(60Hz), (720P )1280×720(50Hz/60Hz), 1280×800(60Hz), 1440×900(60Hz), (1080P)1920×1080(50Hz/60Hz), (2K)2560×1440(30Hz), (4K)3840×2160(30Hz)"
+Liveview display,Simultaneous Output: VGA: 1/2/3/4/5/6/7/8/9/10/12/13/16/20A/20B HDMI: 1/2/3/4/5/6/7/8/9/10/12/13/16/20A/20B
+VGA Output,"VGA:1024×768(60Hz), (720P )1280×720(50Hz/60Hz), 1280×800(60Hz), 1440×900(60Hz), (1080P)1920×1080(50Hz/60Hz)"
+Multi-screen Display,1/2/3/4/5/6/7/8/9/10/12/13/16/20A/20B
+Audio Input,"1-ch, 3.5mm"
+Audio Output,"1-ch, RCA (Linear, 1 KΩ)"
+Two-Way Audio,"1-ch, 3.5mm, using the audio input"
+Compression,
+Video,S+265; H.265; S+264; H.264
+Audio,G711A; G711U; AAC; ADPCM_DIV4
+Stream Type,Video; Video & Audio
+Network,
+Network Protocol,"802.1X; ARP; DDNS; DHCP; DNS; Easy DDNS; FTP; HTTP; HTTPS; ICMP; IGMP; IPv4; IPv6; Multicast; NFS; NTP; PPPoE; RTCP; RTP; RTSP; SMB/CIFS; SMTP; SNMP; SRTP; SSH; SSL; TLSv1.2, TLSv1.3; TCP/IP; UDP; Unicast; UPnP"
+Mobile Phone Access,Android; iOS; P2P_A
+System Compatibility,ONVIF(profile T/S/G); RTSP; CGI; SDK
+Web,IE10+; Firefox52+; Edge89+; Safari11+; Chrome57+
+Record Playback,
+Multi-channel Playback,16
+Record Mode,Manual recording; Alarm recording; Schedule recording
+Storage Method,Local HDD
+Backup,"USB storage device, Network"
+Playback Function,Play/Pause/Stop/Slow/Speed/Backwards 30s/Forwards 30s/Full screen/backup (video Editing)/Step/Digital Zoom
+Dual Stream Record,Dual Stream Record
+Alarm,
+General Alarm,Motion; Mask Alarm; Alarm Input(IPC); Video Loss; Alarm Input(NVR); Manual Alarm
+Exceptions Alarm,IP Conflict; MAC Conflict; Network Disconnected; No disk; Illegal Access; Disk group space alert; Disk Full; Disk R/W error; Video Abnormal; Abnormal found in smart of disk; Abnormal temperature of the disk; IPC voltage abnormal; RTC failure
+Intelligent Analytics,
+AI by Camera,Tripwire; Double Tripwire; Perimeter; Object Abandon; Object Missing; Loiter; Running; Parking; Lens Dignose; Scene Switch Dignose; Signal Abnormal Detection; Signal Loss Detection; On Duty Detection; Crowd Detection; Safety Helmet Detection; People Counting; Link To Tracking; Face Detection; Advanced Intelligence
+VCA Search,Heatmap; Early-warning search; Behavior Search
+Storage,
+HDD Capacity,Up to 10TB capacity for each HDD
+Disk Group,1 Disk Group
+External Port,
+USB,2×USB2.0
+HDMI,1×HDMI(supports up to 4K resolution output)
+VGA,1×VGA
+Network Interface,"1×RJ-45, 10/100 Mbps self-adaptive Ethernet port"
+SATA,1×SATA interface
+Alarm I/O,"4-ch, TTL inputs, 3mA, 3.3VDC; 1-ch, relay output, 1A, 24VDC"
+General,
+UI Language,Simple Chinese; Traditional Chinese; English; Spanish; Korean; Italian; Turkish; Russian; Thai; French; Polish; Dutch; Hebrew; Arabic; Vietnamese; German; Ukrainian; Portuguese; Albanian
+Power Supply,DC12V 3.3A
+Power Consumption,"<10W(HDD not included, idling)"
+NetWeight,0.9 kg
+GrossWeight,1.6kg
+Boundary Dimensions,255(L)231(W)45(H)mm
+Package Dimensions,385(L)80(W)280(H)mm
+Operating Temperature,-10℃~+55℃
+Operating Humidity,10%~90%RH
+Storage Temperature,-10℃~+55℃
+Storage Humidity,10%~90%RH
+Package Kit,Network Video Recorder; Screw pack; Mouse; Power adapter; European standard power cord
+
+
+Date,Title,Type
+2024-04-07,1D.20030.001299_TC-R3120 IBKV3.1_en,pdf

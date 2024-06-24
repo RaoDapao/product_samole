@@ -1,0 +1,17 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=145&ncid=146&deid=180
+产品结构：root->Huahuan_Products_HEG2100AEnterpriseGateway
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|HEG2100A 企业网关|HEG2100A|支持高带宽互联网接入和所有现有接入认证方法，可同时通过 WAN 连接和 3G/4G 无线连接访问互联网，提供一个 WAN 和四个 LAN 接口，支持 ARP 攻击保护、ARP 欺骗保护、网络速度限制、网络地址转换、多种 VPN、WLAN 功能、强大的内容过滤功能、灵活的访问控制功能、远程管理、灵活的 VLAN、视频监控、手机打卡、员工通讯录、独特功能如手机打卡、视频监控、文档打印、数据共享等|
+
+Item,Description
+Standards and Protocols,"TCP/IP, HHTP, DHCP, PPPoE, NAT, DNS, UDP, FTP, ARP, SMTP, TR069, WCDMA/CDMA2000/TD-SCDMA, FDD-LTE/TD-LTE"
+Port,LAN: 4*1000Mbps(support auto adaptation) RJ45 port
+Port,WAN:1*1000Mbps(support auto adaptation) RJ45port
+Dimension,W×H×D (mm) 215*35*136
+Using Environment,Working temperature: 0~40  ℃
+Using Environment,Storing temperature:-25~55  ℃
+Using Environment,Working humidity: 5%~90%
+Using Environment,Storing humidity:0%~95%
+Power Supply,DC 12V(9V~18V)

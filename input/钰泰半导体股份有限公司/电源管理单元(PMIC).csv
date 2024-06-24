@@ -1,0 +1,41 @@
+产品网址：https://www.eta-semi.com/product-cat/pmic/%e7%94%b5%e6%ba%90%e7%ae%a1%e7%90%86%e5%8d%95%e5%85%83pmic
+产品结构：首页->PMIC->电源管理单元(PMIC)
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|电源管理单元(PMIC)|无|无|
+
+Descriptions,Indicator,Boost,Charger,Toleration(V),Package
+,,,,,
+"2 in 1, <3uA standby current",2 LEDs fuel gauge,5V/0.5A Sync.,4.2V/1.2A adj,30,ESOP8
+"2 in 1,<5uA standby current",2 LEDs fuel gauge,5V/0.5A Sync.,4.2V/1.2A adj,16,ESOP8
+"2 in 1,<5uA standby current",2 LEDs fuel gauge,5V/0.5A Sync.,4.2V/1.2A adj,40,ESOP8
+"2 in 1,<5uA standby current",2 LEDs fuel gauge,5V/0.5A Sync.,4.35V/1.2A adj,16,ESOP8
+"2 in 1,<5uA standby current",2 LEDs fuel gauge,5V/0.5A Sync.,4.2V/1.2A adj,16,ESOP8
+"3 in 1,charger+boost+fuel gauge",4 LEDs fuel gauge,5V/1A Sync.,4.2V/4.35V/1A adj,20,ESSOP10/DFN3x3-10
+"3 in 1,charger+boost+fuel gauge",4 LEDs fuel gauge,5V/1A Sync.,4.2V/4.35V/1A adj,20,ESSOP10/DFN3x3-10
+"3 in 1,charger+boost+fuel gauge",4 LEDs fuel gauge,5V/0.5A Sync.,4.2V/4.35V/1A adj,20,ESSOP10/DFN3x3-10
+"3 in 1,charger+boost+fuel gauge",4 LEDs fuel gauge,5V/0.5A Sync.,4.2V/4.35V/1A adj,20,ESSOP10/DFN3x3-10
+"2 in 1, with charger LED","Chrg LED,MCU defined",5V/2.4A Sync.,4.2V/4.35V/2.4A fixed,20,ESSOP10
+"3 in 1, auto start discharge",4 high accuracy LEDs,5V/2.4A Sync.,4.2V/4.35V/2.4A fixed,20,ESSOP10
+"3 in 1, auto start discharge",4 high accuracy LEDs,5V/2.4A Sync.,4.2V/4.35V/2.4A fixed,20,ESOP8
+"3 in 1,MCU supported",4 LEDs indicate states,5V/2.4A Sync.,4.2V/3A adj,6,ESOP8
+"3 in 1,Flash supported",4 LEDs indicate states,5V/2.4A Sync.,4.2V/2A fixed,6,ESOP8
+"3 in 1,Type-C supported",4 LEDs indicate states,5V/2.4A Sync.,4.2V/3A adj,6,ESOP8
+"3 in 1,Type-C supported",4 LEDs indicate states,5V/1.2A Sync,4.2V/1.2A adj,6,SOP8
+"2 in 1, work with MCU","Chrg LED,MCU defined",5V/0.4A Sync.,4.2V/1.2A linear,16,ESOP8
+"3 in 1, linear charger",Heartbeat LED,5V/1A Sync.,4.2V/1A linear,6,ESOP8
+"2 in 1, with charger LED","Chrg LED,MCU defined",5V/1A Sync.,4.2V/1A linear,6,ESOP8
+"2 in 1,work with MCU","Chrg LED,MCU defined",5V/3A Sync.,4.2V/4.35V/5A adj,20,QFN3x3-20
+"3 in 1, auto start discharge",4 high accuracy LEDs,5V/3.1A Sync.,4.2V/3A adj,16,QFN3x3-20
+"3 in 1, auto start discharge",4 high accuracy LEDs,5V/2.4A Sync.,4.2V/3A adj,16,QFN3x3-20
+"3 in 1, auto start discharge",4 high accuracy LEDs,5V/2.4A Sync.,4.2V/3A adj,16,QFN4x4-28
+"3 in 1, start by manual",4 high accuracy LEDs,5V/2.4A Sync.,4.2V/4.35V/3A adj,20,QFN4x4-28
+"3 in 1, start by manual",4 high accuracy LEDs,5V/2.4A Sync.,4.2V/4.35V/3A adj,20,QFN4x4-28
+"3 in 1, auto start discharge",4 high accuracy LEDs,5V/2.4A Sync.,4.2V/4.35V/3A adj,20,QFN4x4-28
+"3 in 1,Type-C supported",4 LEDs indicate states,20W OTG,4.2V/4.35V/4A max,16,QFN4x4-32
+"3 in 1,Type-C supported",2 LEDs indicate states,5V/1.2A Sync.,4.35V/1.2A fixed,6,SOT23-5
+"3 in 1,Type-C supported",2 LEDs indicate states,5V/1.2A Sync.,4.2V/1.2A fixed,6,SOT23-5
+"2 in 1,work with MCU","Chrg LED,MCU defined",5V/2.5A Sync.,4.35V/3A adj,6,QFN3x3-20
+"2 in 1,work with MCU","Chrg LED,MCU defined",5V/2.5A Sync.,4.2V/3A adj,6,QFN3x3-20
+"2 in 1, 1.2A Linear Charger+ 300mA LDO",1 LEDs fuel gauge,,4.35V/1.2A linear,16V,DFN2x3-8

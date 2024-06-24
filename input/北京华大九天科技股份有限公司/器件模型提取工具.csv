@@ -1,0 +1,6 @@
+产品网址：https://www.empyrean.com.cn/products/eda/flat-panel-display/model-extraction.html
+产品结构：当前位置：首页->EDA软件->平板显示电路设计全流程EDA工具系统->器件模型提取工具
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|器件模型提取工具|Empyrean XModelFPD|可建立符合产业标准的模型提取，提供全流程的建模功能，包含测试数据分析、Global 模型、Binning 模型、Corner 模型、统计模型、Hysteresis/Stress 可靠性分析解决方案。内置 Navigator 显示与排图系统，提取参数操作功能界面，加上排图语法系统，可高效加速完成模型提取。Circuits 可自定义 Netlist 界面系统，解决各类型数据加载后，仿真各种特殊定义问题。提供完整的 Corner Library 生成接口与图表，加速各阶段建模所需的模型生成。提供 FPD 提取界面，采用 Step by Step 方式完成 FPD 模型提取作业，系统提供内置 Extract Flow 的范例，并提供客户自定义 SOP 提取流程，以及高效的提升模型提取流程。内置业界标准的 RPI A-Si、RPI Poly-Si 以及华大九天基于先进工艺器件物理特性和理论自研的紧凑模型，可以更好地满足平板显示电路设计仿真需求。提供 Model Library QA 仿真验证接口，完成各种模型提取后，针对整合后的 Model Library 做模型质量仿真验证，内置各种标准模型所需要的验证图表，确保模型质量最后关卡的验证。并且提供 Compare Model 功能，客户可进行不同模型之间与不同仿真器之间模型仿真值的验证比较。|

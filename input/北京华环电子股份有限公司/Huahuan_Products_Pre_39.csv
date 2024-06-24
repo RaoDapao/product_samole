@@ -1,0 +1,37 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=119&ncid=121&deid=185
+产品结构：root->Huahuan_Products_PrecisionTimeProtocol(PTP)GrandmasterClock_H0FL-P.V5ConverterRack
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|H0FL-P.V5 Converter Rack|无|interface converter rack 是一款设计用于在一个标准机架中聚合多个 E1/FE/GE/V.35 端口的设备，具有高集成度和更好的管理优势。它高 3U，19 英寸标准机架式，可支持多达 16 个接口转换卡。它支持以太网接入、协议转换器、媒体转换器、PDH 复用器等模块。H0FL-P.V5 可以在局域网、城域网或广域网连接的应用中连接到远程独立接口转换器。|
+
+Item,Description,Description.1
+PDH Optical Port,Wavelength,"Single mode 1310nm, 1550nm optional"
+PDH Optical Port,Connector,SC or FC
+Ethernet Electrical Port,Working Mode,"10/100/1000 Base-Tx half/full duplex auto-negotiation mode and manual mode (1000M full-duplex, 100M/10M half/full duplex), HP auto-MDIX"
+Ethernet Electrical Port,Connector,RJ-45
+Ethernet Electrical Port,Connecting Cable,Cat 5/Cat 5e UTP
+Ethernet Electrical Port,Port Number,1~2
+Ethernet Electrical Port,Transmission Distance,Up to 100m
+Ethernet Electrical Port,Related Standards,IEEE-802.3/802.3u/802.3ab/802.3ah
+Ethernet Optical Port,Wavelength,Single mode 1310nm or 1550nm
+Ethernet Optical Port,Optical Connector,SC or FC
+Ethernet Optical Port,Port Number,1~2
+Ethernet Optical Port,Related Standards,IEEE-802.3z
+E1 Port,Nominal Rate,2048Kbps±50ppm
+E1 Port,Interface Code,HDB3
+E1 Port,Interface Impedance,75Ω (unbalanced) or 120Ω (balanced)
+E1 Port,Related Standards,"ITU-T G.703, ITU-T G.823"
+E1 Port,Connector,"BNC, CC4, RJ-48C or dual-E1 socket"
+V.35 Port,Interface Rate,"N×64K(N=1  ～  31), transparent transmission"
+V.35 Port,Clock,"DCE main oscillator clock, DCE E1 line clock or DTE V.35 interface clock"
+V.35 Port,Working Mode,DCE or DTE
+V.35 Port,Connector,DB15 hole-socket
+NM/Console Port,Ethernet NM port,"RJ-45, using SNMP, 10Base-T Ethernet MDI port"
+NM/Console Port,RS232 port,Baud rate: 9600; Data bit: 8; Stop bit: 1; No parity bit; 9-pin D-type socket
+Power Supply,"-48 V DC (-69V~-40V)  ~220V AC (200-240V), 2A, 100W  ~110V AC (100-120V), 3A, 100W","-48 V DC (-69V~-40V)  ~220V AC (200-240V), 2A, 100W  ~110V AC (100-120V), 3A, 100W"
+Power Consumption,≦  70W (full loaded),≦  70W (full loaded)
+Environment,Temperature,-5  ℃  ～  45  ℃
+Environment,Relative Humidity,≦  90% (non-condensing)
+Dimension (W×H×D),437mm×132mm×300mm (without mounting ears)  483mm×132mm×300mm (with mounting ears),437mm×132mm×300mm (without mounting ears)  483mm×132mm×300mm (with mounting ears)
+Weight,≦  8.1Kg  (full loaded),≦  8.1Kg  (full loaded)

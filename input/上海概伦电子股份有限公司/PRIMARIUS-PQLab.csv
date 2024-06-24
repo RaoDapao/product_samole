@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/en/products/manufacturing_eda/PQLaben.html
+产品结构：root->PRIMARIUS-PQLab
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|PQLab|无|是一款先进的 PDK（工艺设计套件）验证平台，具有多种 PDK 完整性的鉴定机制，包括技术文件、PCell CDF 和 PCell 物理验证（DRC 和 LVS）。支持平面工艺（0.18um 至 22nm）和 FinFET 工艺（16nm 至 5nm）的 PDK 验证，涵盖数字逻辑、模拟、高压和 RF 电路等应用。帮助代工厂的 PDK 工程师确保 PDK 质量，使 IC 设计师能够轻松分析和鉴定代工厂的 PDK，并在不同的 PDK 版本和设计流程之间进行基准测试。|

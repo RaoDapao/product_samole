@@ -1,0 +1,60 @@
+产品网址：http://www.tang-sh.com/products_detail/19.html
+产品结构：root->KHz晶振-上海唐辉电子有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|KHz 晶振|无|晶体谐振器，英文是 Crystal Units，简称为晶体（也有人称为无源晶振）。目前市场上使用广泛的是石英晶片为基材的晶体晶振。32.768kHz 晶体谐振器。包括贴片音叉晶振，圆柱形和 DIP 型。AT 晶体谐振器采用 AT 切割方式，基于基波的频率范围覆盖 4MHz~64MHz。多种规格尺寸可选。SAW 谐振器 300MHz 至 870MHz 高频率用途，超薄超小尺寸，可应用在汽车无鈅门锁等领域、近场通信等专用低功耗无线通信上|
+
+品牌,型号,封装尺寸  [ mm ],额定频率范围  [ kHz ],频率偏差 (标准)  [ x10^-6 ] @+25℃,工作温度范围  [ ℃ ]
+EPSON,MC-306,8.0 x 3.8 x 2.54贴片,37.768,Max.±20,’-40 to +85
+EPSON,MC-146,7.0 x 1.5 x 1.4贴片,35.768,Max.±20,’-40 to +85
+EPSON,FC3215AN,3.2 x 1.5 x 0.9贴片,32.768,Max.±20,’-40 to +105
+EPSON,FC-135,3.2 x 1.5 x 0.9贴片,32.768,Max.±20,’-40 to +85
+EPSON,FC2012AN  (Low ESR vs.FC-12M),2.05 x 1.2 x 0.6贴片,32.768,Max.±20,’-40 to +105
+EPSON,FC-12M,2.05 x 1.2 x 0.6贴片,33.768,Max.±10  Max.±20,’-40 to +85
+EPSON,FC1610AN,1.6 x 1.0 x 0.5贴片,32.768,Max.±20,’-40 to +85
+EPSON,SG-3031CM,3.2 x 2.35 x 0.9贴片SPXO,32.768,Max.5±23,’-40 to +105
+NDK,NX1610SA,1.6 x 1.0 x 0.45贴片,33.768,Max.±20,’-40 to +85
+NDK,NX2012SA,2.0 x 1.2 x 0.55贴片,32.768,Max.±20,’-40 to +85
+NDK,NX3215SA,3.2 x 1.5 x 0.8贴片,33.768,Max.±20,’-40 to +85
+NDK,NX3215SA (汽车电子),3.2 x 1.5 x 0.8贴片,32.768,Max.±20,’-40 to +125
+KDS,DT-38,φ3.0 x 8.0插件,32.768,Max.±10  Max.±20,’-10 to +60
+KDS,DT-26,φ2.0 x 6.0插件,32.768,Max.±20,’-10 to +60
+KDS,DMX-26S,8.0 x 3.8 x 2.5贴片,32.768,Max.±20,’-40 to +85
+KDS,DST310S,3.2×1.5×0.85贴片,32.768,Max.±20,’-40 to +85
+KDS,DST210A,2.0 x 1.2 x 0.55贴片,32.768,Max.±20,’-40 to +85
+KDS,DST1610A,1.6 x 1.0 x 0.5贴片,32.768,Max.±20,’-40 to +85
+KDS,DSK321STD,3.2 x 2.5 x 0.5贴片TCXO,32.768,Max.±20,’-40 to +85
+
+
+MCU大佬们，选择了哪些晶振？,MCU大佬们，选择了哪些晶振？.1,MCU大佬们，选择了哪些晶振？.2,MCU大佬们，选择了哪些晶振？.3,MCU大佬们，选择了哪些晶振？.4,MCU大佬们，选择了哪些晶振？.5
+以下MCU在做原始设计的时候，选择了如下晶振。(水平有限，仅供参考。),以下MCU在做原始设计的时候，选择了如下晶振。(水平有限，仅供参考。),以下MCU在做原始设计的时候，选择了如下晶振。(水平有限，仅供参考。),以下MCU在做原始设计的时候，选择了如下晶振。(水平有限，仅供参考。),以下MCU在做原始设计的时候，选择了如下晶振。(水平有限，仅供参考。),以下MCU在做原始设计的时候，选择了如下晶振。(水平有限，仅供参考。)
+MCU品牌,MCU型号,晶振品牌,类别,晶振型号,晶振频率
+,EM351  EM357,EPSON,kHz Crystal,FC-135,32.768kHz
+,EM351  EM357,EPSON,kHz Crystal,FC-135,32.768kHz
+,EM351  EM357,EPSON,MHz Crystal,TSX-3225,24MHz
+,Si534x series  Si538x series,EPSON,TCXO,TG-5500CA-67N,40MHz
+,Si534x series  Si538x series,EPSON,TCXO,TG-5500CA-68N,49.152MHz
+,Si534x series  Si538x series,EPSON,TCXO,TG-5500CA-08N,12.8MHz
+,Si534x series  Si538x series,EPSON,TCXO,TG-5500CA-08N,12.8MHz
+,Si4438或Si4463,EPSON,MHz Crystal,TSX-3225,30MHz
+,RX200 Series,EPSON,kHz Crystal,MC-146,32.768kHz
+,RX200 Series,EPSON,kHz Crystal,MC-146L,32.768kHz
+,RX600 Series  RX700 Series,EPSON,kHz Crystal,MC-146,32.768kHz
+,RX600 Series  RX700 Series,EPSON,kHz Crystal,MC-146L,32.768kHz
+,RL78/G1D module: RY7011,EPSON,kHz Crystal,FC-12M,32.768kHz
+,M480,EPSON,kHz Crystal,FC-13A,32.768kHz
+,M480,EPSON,MHz Crystal,FA-238A,16MHz
+,M480,EPSON,MHz Crystal,FA-238A,24MHz
+(Former IDT),82P337xx  * Stratum3 Compliant products  ** G.813/G.8262 option1/option2 Compliant products  * Stratum3 Compliant products  ** G.813/G.8262 option1/option2 Compliant products,EPSON,TCXO,TG-5500CA-08N,12.8MHz
+(Former IDT),82P337xx  * Stratum3 Compliant products  ** G.813/G.8262 option1/option2 Compliant products  * Stratum3 Compliant products  ** G.813/G.8262 option1/option2 Compliant products,EPSON,TCXO,TG-5032CGN  25.000000MHz  CAGHNA,25MHz
+(Former IDT),82P338xx  82P339xx  * G.813/G.8262 option1/option2 Compliant products  ** G.8273.2 Compliant products,EPSON,TCXO,TG-5500CA-08N,12.8MHz
+(Former IDT),82P338xx  82P339xx  * G.813/G.8262 option1/option2 Compliant products  ** G.8273.2 Compliant products,EPSON,TCXO,TG-5032CGN,25MHz
+(Former IDT),82P33x31  82P33741  8V89308I  * G.8262 Nx10G jitter Compliant products,EPSON,MHz Crystal,TSX-3225,25MHz
+(Former IDT),8V19N480 *  8V19N490 *  8V18N472 *  * JESD204B compliant,EPSON,VCXO,VG5032EFN  CJGHBA,125MHz
+(Former IDT),8V19N480 *  8V19N490 *  8V18N472 *  * JESD204B compliant,EPSON,VCXO,VG7050EFN  CJGHBA,APR+/-50ppm
+(Former IDT),8V19N474 *  8V18N478 *  * JESD204B compliant,EPSON,VCXO,VG5032EFN  CJGHBA,156.25MHz
+(Former IDT),8V19N474 *  8V18N478 *  * JESD204B compliant,EPSON,VCXO,VG7050EFN  CJGHBA,156.25MHz
+(Former IDT),8V19N88x series,EPSON,VCXO,VG3225EFN  122.880MHz  CJHHBA,APR+/-50ppm
+(Former IDT),8V19N88x series,EPSON,VCXO,VG3225EFN  122.880MHz  CJGHSA,APR+/-10ppm
+(Former IDT),8V19N88x series,EPSON,VCXO,VG3225EFN  245.760MHz  CJHHMA,APR+/-20ppm

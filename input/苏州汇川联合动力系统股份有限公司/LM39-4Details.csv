@@ -1,0 +1,16 @@
+产品网址：https://en.inovance-automotive.com/product/list83.html
+产品结构：LD34Details->LM39-4Details->LD35-2Details->LD32Details->LD34Details->LM39-4Details
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Mini Van solution|PC32|AC 输入范围：85~264Vac/32A MAX；HVDC 输出范围：200~480Vdc，6.6kW；LVDC 输出范围：9~16Vdc/210A，3.0kW；AC 反向输出：220Vac/3.3kVA|
+|Mini Van solution|LS32|系统组成：e-motor+inverter；输入电压范围：250~450 Vdc；峰值功率：70kW@30s；峰值扭矩：230Nm；峰值速度：12000 rpm|
+|Mini Van solution|LD34|额定功率：40/45kW；额定电流：190Arms；DCDC 功率：1.5kW/3kW；OBC 功率：6.6kW（可选）|
+|Light Truck solution|LD34|额定功率：40/45kW；额定电流：190Arms；DCDC 功率：1.5kW/3kW；OBC 功率：6.6kW（可选）|
+|Light Truck solution|LM39-3|电压范围：350~750V；功率范围：105~120kW；扭矩范围：300~360Nm；最大速度：12000rpm；最大效率：97.41%|
+|Light Truck solution|LD35-1|配置：TM、EHPS、ACM、PDU、DCDC；电压范围：350~750V；峰值电流：320/420A；最大效率：≥99%|
+|Bus solution|BD45|配置：TM、EPS、EAC、PDU、DCDC、BDU；电压范围：300~750V；峰值电流：560A；最大效率：≥99%|
+|Bus solution|BD35-1|配置：DCDC+EHPS+ACM+TM+PDU；电压范围：350~750V；峰值电流：25A；最大效率：≥99%|
+|Heavy Truck solution|LD34|额定功率：40/45kW；额定电流：190Arms；DCDC 功率：1.5kW/3kW；OBC 功率：6.6kW（可选）|
+|Heavy Truck solution|LM39-4|电压范围：350~750V；功率范围：105~140kW；扭矩范围：300~420Nm；最大效率：97.44%|
+|Heavy Truck solution|LD35-2|配置：TM、EPS、ACM、PDU、DCDC；电压范围：200~750V；峰值电流：710/850A；最大效率：99.0%|

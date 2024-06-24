@@ -1,0 +1,205 @@
+-> root https://www.china-core.com
+  -> IP产品-苏州国芯科技股份有限公司 https://www.china-core.com/design.php
+    -> 安全气囊点火驱动芯片 
+    -> 汽车门控驱动芯片 
+    -> CCP903T 云安全芯片 
+    -> CCP907T 云安全芯片 
+    -> CCM4202S 芯片 
+    -> CUni360S 芯片 
+    -> CCM4202S-EL 芯片 
+    -> CCM4201S-P 芯片 
+    -> CUni360S-Z 芯片 
+    -> CCM4101 芯片 
+    -> CCM4201S 芯片 
+    -> CCM4208S 芯片 
+    -> CCM3305S 芯片 
+    -> CCM3310S-H 芯片 
+    -> CCM3310S-LP 芯片 
+    -> CCM3310S-T 芯片 
+    -> CWNG10 芯片 
+    -> CN7160 芯片 
+    -> RAID 芯片 CCRD3316 
+    -> RAID 板卡 CCUSR8116 规格书 
+    -> H2040 高性能边缘计算芯片 
+    -> H2048 双核高性能处理器芯片 
+    -> H2068 双核高性能处理器芯片 
+    -> CCP1080T 高性能高安全边缘计算芯片 
+  -> 全部产品-苏州国芯科技股份有限公司 https://www.china-core.com/product.php
+    -> NFC 微控制器 
+    -> 安全芯片 
+    -> 可信密码模块 
+    -> 安全高速 USB 模组 
+    -> 安全芯片 
+    -> 安全芯片 
+    -> 安全芯片 
+    -> 安全芯片 
+    -> 安全芯片 
+    -> 安全芯片 
+    -> 随机数芯片 
+    -> 安全芯片 
+    -> 安全芯片 
+    -> 安全芯片 
+    -> USB 指纹登录器 
+    -> USB 指纹登录器 C10 
+    -> 车载 SE 芯片 
+    -> 安全芯片 
+    -> 金融终端安全芯片 
+    -> 移动终端安全芯片 
+  -> 数模混合芯片 
+    -> 安全气囊点火驱动芯片 
+      -> 汽车门控驱动芯片 https://www.china-core.com/carproducts.php?lm=1
+    -> 汽车门控驱动芯片_1 https://www.china-core.com/carproducts_show.php?id=2&lm=1
+  -> 信息安全-苏州国芯科技股份有限公司 https://www.china-core.com/products.php?lm=45
+    -> 高速 USB 模组 
+    -> 安全 TF 卡 
+    -> 安全 UKEY 
+    -> 安全 U 盘 KEY 
+    -> 云安全芯片 
+    -> 云安全芯片 
+    -> PCIE 密码卡 
+    -> 无源非接指纹卡 
+    -> 指纹安全 U 盘 KEY 
+    -> 指纹安全 U 盘 
+  -> 信息安全-苏州国芯科技股份有限公司_1 https://www.china-core.com/products.php?xlm=1&lm=45
+  -> CCP903T云安全芯片-苏州国芯科技股 https://www.china-core.com/products_show.php?id=33&lm=1
+  -> CCP907T云安全芯片-苏州国芯科技股 https://www.china-core.com/products_show.php?id=34&lm=1
+  -> PCIE密码卡-苏州国芯科技股份有限公司 https://www.china-core.com/products_show.php?id=35&lm=1
+  -> 信息安全-苏州国芯科技股份有限公司_2 https://www.china-core.com/products.php?xlm=16&lm=45
+  -> CCM4202S芯片-苏州国芯科技股份有 https://www.china-core.com/products_show.php?id=51&lm=16
+  -> CUni360S芯片-苏州国芯科技股份有 https://www.china-core.com/products_show.php?id=49&lm=16
+  -> CCM4202S-EL芯片-苏州国芯科技 https://www.china-core.com/products_show.php?id=52&lm=16
+  -> CCM4201S-P芯片-苏州国芯科技股 https://www.china-core.com/products_show.php?id=53&lm=16
+  -> CUni360S-Z芯片-苏州国芯科技股 https://www.china-core.com/products_show.php?id=10&lm=16
+  -> CCM4201S-L芯片-苏州国芯科技股 https://www.china-core.com/products_show.php?id=47&lm=16
+  -> CCM4101芯片-苏州国芯科技股份有限 https://www.china-core.com/products_show.php?id=55&lm=16
+  -> CCM4201S芯片-苏州国芯科技股份有 https://www.china-core.com/products_show.php?id=39&lm=16
+  -> CCM4208S芯片-苏州国芯科技股份有 https://www.china-core.com/products_show.php?id=40&lm=16
+  -> CCM3305S芯片-苏州国芯科技股份有 https://www.china-core.com/products_show.php?id=44&lm=16
+  -> CCM3310S-H芯片-苏州国芯科技股 https://www.china-core.com/products_show.php?id=45&lm=16
+  -> CCM3310S-LP芯片-苏州国芯科技 https://www.china-core.com/products_show.php?id=46&lm=16
+  -> CCM3310S-T芯片-苏州国芯科技股 https://www.china-core.com/products_show.php?id=13&lm=16
+  -> CWNG10芯片-苏州国芯科技股份有限公 https://www.china-core.com/products_show.php?id=50&lm=16
+  -> TCM可信密码模块-苏州国芯科技股份有限 https://www.china-core.com/products_show.php?id=42&lm=16
+  -> 安全高速USB模组-苏州国芯科技股份有限 https://www.china-core.com/products_show.php?id=43&lm=16
+  -> USB指纹登录器-苏州国芯科技股份有限公 https://www.china-core.com/products_show.php?id=1&lm=16
+  -> 安全TF卡-苏州国芯科技股份有限公司 https://www.china-core.com/products_show.php?id=15&lm=16
+  -> 安全UKEY-苏州国芯科技股份有限公司 https://www.china-core.com/products_show.php?id=16&lm=16
+  -> 安全U盘KEY-苏州国芯科技股份有限公司 https://www.china-core.com/products_show.php?id=17&lm=16
+  -> 无源非接指纹卡-苏州国芯科技股份有限公司 https://www.china-core.com/products_show.php?id=36&lm=16
+  -> 指纹安全U盘KEY-苏州国芯科技股份有限 https://www.china-core.com/products_show.php?id=37&lm=16
+  -> 指纹安全U盘-苏州国芯科技股份有限公司 https://www.china-core.com/products_show.php?id=38&lm=16
+  -> CN7160芯片-苏州国芯科技股份有限公 https://www.china-core.com/products_show.php?id=54&lm=16
+  -> 边缘计算与网络通信-苏州国芯科技股份有限 https://www.china-core.com/products.php?lm=40
+    -> RAID 芯片 
+    -> RAID 板卡 
+    -> 边缘计算芯片 
+    -> 处理器芯片 
+    -> 处理器芯片 
+    -> 边缘计算芯片 
+  -> RAID芯片CCRD3316-苏州国芯科 https://www.china-core.com/products_show.php?id=27&lm=40
+  -> RAID板卡CCUSR8116规格书-苏 https://www.china-core.com/products_show.php?id=41&lm=40
+  -> H2040高性能边缘计算芯片-苏州国芯科 https://www.china-core.com/products_show.php?id=28&lm=40
+  -> H2048双核高性能处理器芯片-苏州国芯 https://www.china-core.com/products_show.php?id=29&lm=40
+  -> H2068双核高性能处理器芯片-苏州国芯 https://www.china-core.com/products_show.php?id=30&lm=40
+  -> CCP1080T高性能高安全边缘计算芯片 https://www.china-core.com/products_show.php?id=31&lm=40
+  -> 国芯科技全面开拓汽车线控底盘类芯片产品， https://www.china-core.com/News_show-122-90.html
+    -> MCU 芯片 
+    -> MCU 芯片 
+    -> MCU 芯片 
+    -> 传感器 PSI5 接口协议收发器芯片 
+  -> 全部产品-苏州国芯科技股份有限公司_1 https://www.china-core.com/product.php#
+  -> CN7160芯片-苏州国芯科技股份有限公_1 https://www.china-core.com/products_show.php?id=54&lm=52
+  -> TCM可信密码模块-苏州国芯科技股份有限_1 https://www.china-core.com/products_show.php?id=42&lm=50
+  -> 安全高速USB模组-苏州国芯科技股份有限_1 https://www.china-core.com/products_show.php?id=43&lm=50
+  -> CCM3305S芯片-苏州国芯科技股份有_1 https://www.china-core.com/products_show.php?id=44&lm=48
+  -> CCM3310S-H芯片-苏州国芯科技股_1 https://www.china-core.com/products_show.php?id=45&lm=48
+  -> CCM4201S-L芯片-苏州国芯科技股_1 https://www.china-core.com/products_show.php?id=47&lm=47
+  -> CCM4202S-EL芯片-苏州国芯科技_1 https://www.china-core.com/products_show.php?id=48&lm=47
+  -> CUni360S芯片-苏州国芯科技股份有_1 https://www.china-core.com/products_show.php?id=49&lm=46
+  -> CCM4202S-EL芯片-苏州国芯科技_2 https://www.china-core.com/products_show.php?id=52&lm=46
+  -> CCM4101芯片-苏州国芯科技股份有限_1 https://www.china-core.com/products_show.php?id=55&lm=47
+  -> USB指纹登录器-苏州国芯科技股份有限公_1 https://www.china-core.com/products_show.php?id=1&lm=50
+  -> USB指纹登录器C10产品介绍-苏州国芯 https://www.china-core.com/products_show.php?id=6&lm=2
+  -> 车载SE芯片CCM3310S-T(车规级 https://www.china-core.com/products_show.php?id=7&lm=14
+  -> CUni360S-Z芯片-苏州国芯科技股_1 https://www.china-core.com/products_show.php?id=10&lm=46
+  -> 金融终端安全芯片CUni350S-苏州国 https://www.china-core.com/products_show.php?id=11&lm=21
+  -> 移动终端安全芯片A5(ET300)-苏州 https://www.china-core.com/products_show.php?id=12&lm=21
+  -> CCM3310S-T芯片-苏州国芯科技股_1 https://www.china-core.com/products_show.php?id=13&lm=48
+  -> 安全TF卡-苏州国芯科技股份有限公司_1 https://www.china-core.com/products_show.php?id=15&lm=50
+  -> 安全UKEY-苏州国芯科技股份有限公司_1 https://www.china-core.com/products_show.php?id=16&lm=50
+  -> 安全U盘KEY-苏州国芯科技股份有限公司_1 https://www.china-core.com/products_show.php?id=17&lm=50
+  -> CCP907T云安全芯片-苏州国芯科技股_1 https://www.china-core.com/products_show.php?id=34&lm=2
+  -> PCIE密码卡-苏州国芯科技股份有限公司_1 https://www.china-core.com/products_show.php?id=35&lm=42
+  -> 无源非接指纹卡-苏州国芯科技股份有限公司_1 https://www.china-core.com/products_show.php?id=36&lm=50
+  -> 指纹安全U盘-苏州国芯科技股份有限公司_1 https://www.china-core.com/products_show.php?id=38&lm=50
+  -> CCM4201S芯片-苏州国芯科技股份有_1 https://www.china-core.com/products_show.php?id=39&lm=47
+  -> CCM4202S芯片-苏州国芯科技股份有_1 https://www.china-core.com/products_show.php?id=8&lm=47
+  -> CCM4208S芯片-苏州国芯科技股份有_1 https://www.china-core.com/products_show.php?id=40&lm=47
+  -> CCP903T云安全芯片-苏州国芯科技股_1 https://www.china-core.com/products_show.php?id=33&lm=1#
+  -> USB指纹登录器C10产品介绍-苏州国芯_1 https://www.china-core.com/products_show.php?id=6&lm=1
+  -> 信息安全-苏州国芯科技股份有限公司_3 https://www.china-core.com/products.php?xlm=16&lm=45#
+  -> CCM4202S-EL芯片-苏州国芯科技_3 https://www.china-core.com/products_show.php?id=52&lm=16#
+  -> CUni360S-Z芯片-苏州国芯科技股_2 https://www.china-core.com/products_show.php?id=10&lm=16#
+  -> CCM4202S-EL芯片-苏州国芯科技_4 https://www.china-core.com/products_show.php?id=48&lm=16
+  -> CCM3310S-H芯片-苏州国芯科技股_2 https://www.china-core.com/products_show.php?id=45&lm=16#
+  -> CCM4206芯片-苏州国芯科技股份有限 https://www.china-core.com/products_show.php?id=9&lm=16
+  -> 无源非接指纹卡-苏州国芯科技股份有限公司_2 https://www.china-core.com/products_show.php?id=36&lm=16#
+  -> 指纹安全U盘-苏州国芯科技股份有限公司_2 https://www.china-core.com/products_show.php?id=38&lm=16#
+  -> CN7160芯片-苏州国芯科技股份有限公_2 https://www.china-core.com/products_show.php?id=54&lm=16#
+  -> 边缘计算与网络通信-苏州国芯科技股份有限_1 https://www.china-core.com/products.php?lm=40#
+    -> 高性能边缘计算芯片 
+    -> 双核高性能处理器芯片 
+    -> 双核高性能处理器芯片 
+    -> 高性能高安全边缘计算芯片 
+  -> RAID芯片CCRD3316-苏州国芯科_1 https://www.china-core.com/products_show.php?id=27&lm=40#
+  -> H2040高性能边缘计算芯片-苏州国芯科_1 https://www.china-core.com/products_show.php?id=28&lm=40#
+  -> 国芯科技全面开拓汽车线控底盘类芯片产品，_1 https://www.china-core.com/News_show-122-90.html#
+    -> CCFC2012BC/CCFC2011BC 芯片 
+    -> CCFC2016BC/CCFC2017BC 芯片 
+    -> CCFC3008PT/CCFC3007PT 芯片 
+    -> CIP4100B 芯片 
+  -> 邀请函|国芯科技携多款产品方案走进上汽- https://www.china-core.com/News_show-134-90.html
+    -> 全自主安全气囊控制器芯片套片 
+    -> MCU-CCFC2012BC 
+    -> CMA2100B 
+    -> CCFC3007PT 
+    -> CCD5001 
+  -> 关于自愿披露公司与莱斯能特(苏州)科技有 https://www.china-core.com/News_show-129-89.html
+  -> 喜讯！国芯科技高性能高安全边缘计算芯片万 https://www.china-core.com/News_show-128-90.html
+  -> 国芯科技推出新一代指纹芯片CCM4101 https://www.china-core.com/News_show-121-88.html
+  -> 国芯科技和硅臻技术联合发展智能终端量子安 https://www.china-core.com/News_show-119-88.html
+  -> 国芯科技安全芯片产品群为视频安防全生态安 https://www.china-core.com/News_show-114-88.html
+    -> CCM3310S-T 前端安全芯片 
+    -> CCM3302S 安全 TF 卡产品 
+    -> CCM3305S 前端/汇聚端安全芯片以及高速 USB3.0 USBKey 产品 
+    -> CCP907T 服务器安全芯片以及 PCI-E 密码卡产品 
+  -> 关于自愿披露公司研发的新一代汽车电子DS https://www.china-core.com/News_show-124-89.html
+  -> 国芯科技2024年度“提质增效重回报”行 https://www.china-core.com/News_show-125-90.html
+    -> 域控制器/ADAS功能安全控制器MCU 
+    -> 汽车电子SoC/MCU芯片 
+    -> 线控底盘控制驱动类芯片 
+    -> 门控领域的控制预驱类芯片 
+    -> 集成MCU和BLCD无刷电机驱动功能的单芯片 
+    -> 用于安全气囊的加速度传感器芯片 
+    -> 云安全计算芯片 
+    -> RAID芯片 
+    -> 全国产RAID卡 
+    -> 量子安全智能终端可用芯片 
+  -> CN7160芯片-苏州国芯科技股份有限公_3 https://www.china-core.com/products_show.php?id=54&lm=52#
+  -> TCM可信密码模块-苏州国芯科技股份有限_2 https://www.china-core.com/products_show.php?id=42&lm=50#
+  -> 安全高速USB模组-苏州国芯科技股份有限_2 https://www.china-core.com/products_show.php?id=43&lm=50#
+  -> CCM3310S-LP芯片-苏州国芯科技_1 https://www.china-core.com/products_show.php?id=46&lm=48#
+  -> CCM4201S-L芯片-苏州国芯科技股_2 https://www.china-core.com/products_show.php?id=47&lm=47#
+  -> CCM4202S-EL芯片-苏州国芯科技_5 https://www.china-core.com/products_show.php?id=48&lm=47#
+  -> 车载SE芯片CCM3310S-T(车规级_1 https://www.china-core.com/products_show.php?id=7&lm=14#
+  -> CCFC2006PT汽车电子芯片-苏州国 https://www.china-core.com/products_show.php?id=22&lm=14
+  -> CCFC2007PT汽车电子芯片-苏州国 https://www.china-core.com/products_show.php?id=23&lm=14
+  -> CCFC2016BC汽车电子芯片-苏州国 https://www.china-core.com/products_show.php?id=32&lm=14
+  -> 金融终端安全芯片CUni350S-苏州国_1 https://www.china-core.com/products_show.php?id=11&lm=21#
+  -> 安全UKEY-苏州国芯科技股份有限公司_2 https://www.china-core.com/products_show.php?id=16&lm=50#
+  -> CCP903T云安全芯片-苏州国芯科技股_2 https://www.china-core.com/products_show.php?id=33&lm=2#
+  -> 指纹安全U盘KEY-苏州国芯科技股份有限_1 https://www.china-core.com/products_show.php?id=37&lm=50#
+  -> CCM4201S芯片-苏州国芯科技股份有_2 https://www.china-core.com/products_show.php?id=39&lm=47#
+  -> CCM4208S芯片-苏州国芯科技股份有_2 https://www.china-core.com/products_show.php?id=40&lm=47#
+  -> CCM4202S-EL芯片-苏州国芯科技_6 https://www.china-core.com/products_show.php?id=48&lm=16#
+  -> CCM4206芯片-苏州国芯科技股份有限_1 https://www.china-core.com/products_show.php?id=9&lm=16#

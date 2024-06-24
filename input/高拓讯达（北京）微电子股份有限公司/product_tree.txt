@@ -1,0 +1,19 @@
+-> root https://www.altobeam.com
+  -> 高拓讯达 https://www.altobeam.com/channels/3.html
+    -> Wi-Fi 芯片 
+    -> Wi-Fi 芯片 
+    -> Wi-Fi 芯片 
+    -> Wi-Fi 芯片 
+    -> Wi-Fi 芯片 
+    -> Wi-Fi 芯片 
+    -> Wi-Fi 芯片 
+    -> Wi-Fi 芯片 
+    -> Wi-Fi 芯片 
+    -> Wi-Fi 芯片 
+    -> Wi-Fi 芯片 
+  -> 物联网芯片 
+    -> 传统Wi-Fi 
+  -> 高拓讯达_1 https://www.altobeam.com/channels/6.html
+  -> 高拓讯达_2 https://www.altobeam.com/contents/15/206.html
+  -> 高拓讯达_3 https://www.altobeam.com/channels/15.html
+    -> 低功耗 Wi-Fi 芯片 

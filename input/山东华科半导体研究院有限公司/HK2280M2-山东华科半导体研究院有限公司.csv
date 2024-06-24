@@ -1,0 +1,24 @@
+产品网址：http://www.hkhonm.com/product_detail/77.html
+产品结构：root->HK2280M2-山东华科半导体研究院有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|HK 机架式服务器|HK2280M2|支持两颗英特尔至强可扩展处理器，最大支持 TDP 205W；支持 2 channels UPI for 9.6,10.4GT/s；最大支持 24 DDR4 DIMM，支持 RDIMM、LRDIMM、NVDIMM 类型内存，支持内存镜像功能和内存热备功能；前部最大支持 24 块 2.5 英寸 SAS/SATA/NVMe 或者 12 块 3.5 英寸 SAS/SATA 硬盘；后置最大支持 10 块 2.5 英寸 SAS/SATA/NVMe 硬盘，或 4 块 2.5 英寸 SAS/SATA/NVMe+3.5 英寸 SAS/SATA 硬盘；内部最大支持 4 块 3.5 英寸 SAS/SATA 硬盘；支持 Type-A 和 Type-C 的 OCP 扩展卡；支持板载 4 个 OCulink 接口，从 CPU 直连 NVMe 硬盘；最大支持 14 个板载硬盘直连 PCH；最大支持 10 个标准 PCIe 扩展卡，包含 8 个全高卡+2 个半高半长卡；最大支持 4 个 GPU；主板集成 AST2500 BMC 芯片，标配 KVM 功能；支持热插拔液晶显示模块，支持移动设备远程 BMC 监控；支持 Intel remote BMC debug；硬盘模组、PCI 扩展、电源、风扇等部件模块化设计，免工具维护；采用 CRPS 规格、80+白金等级以上电源，支持 PMBus 及 NM 4.0 功能，支持热插拔和冗余特性；风扇/风扇架热拔插设计；风扇支持 N+N 冗余，低噪声设计|
+
+组件,描述
+上市时间,2018.3
+规格,2U  机架式
+处理器,支持  1  到  2  个英特尔  ®  至强  ®  5200  、  6200  、  8200  系列可扩展处理器：  最多支持  28  核（频率  2.7GHz  ）  最高频率  3.6GHz  （  8  核）  3  条  UPI  互连链路，单条链路高速率  11.2GT/s  最大热设计功率  205W
+芯片组,Intel  C621/C622/C624
+内存,最大支持  24  根内存  每个处理器支持  6  个内存通道  每个通道最大支持  2  个内存插槽  内存最大速度可达  2933MT/s  支持  RDIMM  与  AEP  内存  内存保护支持  ECC  ，内存镜像  内存等级保护
+存储,前置面板：  21  ×  2.5”SATA/SAS+4  ×  SATA/SAS/NVMe  支持热插拔  12  ×  3.5”SATA/SAS/NVMe  支持热插拔  后置存储：  最大支持  4  ×  2.5  英寸硬盘  内置存储：  最大支持  4  块  3.5  英寸硬盘和  2  块  M.2  SSD
+存储控制器,RAID  卡控制器：  3008iMR  、  3108MR  、  PM8060  、博通  9361-8i  SAS  卡控制器：浪潮  3008IT/IR  、博通  9400-8i  Intel  板载  SATA  控制器，支持  RAID  0/1/5/10  Intel  板载  NVMe  控制器，可选支持  RAID  0/1/5/10
+网络,1  个可选  OCP  2.0  模块  1Gb/s  ，  10Gb/s  ，  25Gb/s  ，  40Gb/s  ，  100Gb/s
+I/O  扩展,最大支持  8  个标准  PCIe  以及  1  个  OCP  2.0  卡  最大支持  4  个双宽  GPU  或  8  个单宽  GPU
+接口,2  个后置  USB  3.0+1  个前置  USB  3.0+1  个前置  USB  2.0  1  个后置  VGA
+风扇,4  个热插拔  N+1  冗余  8056  风扇
+电源,支持  1+1  冗余电源  550W/800W/1300W/1600W/2000W  及其以上输出功率电源
+系统管理,集成  1  个独立的  1000Mbps  网络接口，专门用于  IPMI  的远程管理
+操作系统,Microsoft  Windows  Server  2012/2016;  Red  Hat  Enterprise  Linux  7.4;  SUSE Linux Enterprise  Server  11/12;
+主机尺寸,4  2  5mm(W)×8  6  mm(H)×77  8  mm  (D)
+重量,主机（不含包装）：  26.5kg(2.5  机型满配）

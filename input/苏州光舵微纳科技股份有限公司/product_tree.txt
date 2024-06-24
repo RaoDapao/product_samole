@@ -1,0 +1,27 @@
+-> root http://www.gdnano.com
+  -> 首页 
+    -> 产品展示 http://www.gdnano.com/?product
+      -> 设备 http://www.gdnano.com/?product1
+        -> 全自动纳米压印 http://www.gdnano.com/?product1/87.html
+        -> 纳米压印拼版 http://www.gdnano.com/?product1/86.html
+        -> 热压及紫外一体纳米压印 http://www.gdnano.com/?product1/55.html
+        -> 紫外软膜纳米压印 http://www.gdnano.com/?product1/56.html
+        -> 滚轮式紫外纳米压印 http://www.gdnano.com/?product1/57.html
+        -> 对准式滚轮纳米压印 http://www.gdnano.com/?product1/58.html
+      -> 耗材 http://www.gdnano.com/?product2
+        -> 刻蚀用纳米压印胶 
+        -> 光学性能纳米压印··· 
+        -> PDMS 体系纳米··· 
+      -> 工艺研发服务 http://www.gdnano.com/?product3-12
+      -> 微纳器件加工服务 http://www.gdnano.com/?product4
+    -> Products http://www.gdnano.com/?producten_2
+      -> Nano-Imp··· 
+      -> Fully Au··· 
+      -> Auto tem··· 
+  -> 硬板压印设备 http://www.gdnano.com/?product1/88.html
+  ->  http://www.gdnano.com/?producten
+    -> Thermal and UV nano-imprinti··· 
+    -> UV soft-template Nano-imprin··· 
+    -> Roll-to-Plate Nano-imprintin··· 
+  -> 量产型纳米压印设备 http://www.gdnano.com/?product1/59.html
+  -> _1 http://www.gdnano.com/?producten_3

@@ -1,0 +1,7 @@
+-> root https://www.ipgoal.com
+  -> Home 
+    -> 服务产品 
+      -> IP定制 https://www.ipgoal.com/news.php?bid=7
+        -> HighSpeedinterface-_1 https://www.ipgoal.com/readnews.php?bid=7&id=61
+  -> 首页 
+    -> 芯片测试服务_1 https://www.ipgoal.com/about.php?bid=26

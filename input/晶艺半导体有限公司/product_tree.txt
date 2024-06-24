@@ -1,0 +1,41 @@
+-> root http://latticeart.com
+  -> 电机驱动产品线|产品中心|晶艺半导体有限 http://latticeart.com/product_category.php?id=6
+  -> 电源产品线|产品中心|晶艺半导体有限公司 http://latticeart.com/product_category.php?id=10
+  -> BMS产品线|产品中心|晶艺半导体有限公 http://latticeart.com/product_category.php?id=13
+  -> 产品应用 
+    -> 产品应用 
+      -> 电机驱动产品应用 http://latticeart.com/product_application.php?id=3
+        -> 电机驱动 
+        -> 电源管理 
+        -> 锂电池管理 
+      -> 产品应用 http://latticeart.com/product_application.php
+      -> 电源管理产品应用 http://latticeart.com/product_application.php?id=1
+      -> BMS产品产品应用 http://latticeart.com/product_application.php?id=4
+  -> BLDC控制器|产品中心|晶艺半导体有限 http://latticeart.com/product_category.php?id=19
+  -> 智能功率模块|产品中心|晶艺半导体有限公 http://latticeart.com/product_category.php?id=18
+  -> LA4291|ACDC|产品中心|晶艺半 http://latticeart.com/product.php?id=32
+  -> LA2902S|DCDC|产品中心|晶艺 http://latticeart.com/product.php?id=73
+  -> LA1000S|FiberOpticCo http://latticeart.com/product.php?id=72
+  -> LA6100|BLDC控制器|产品中心| http://latticeart.com/product.php?id=37
+  -> LA7101|GateDriver|产品 http://latticeart.com/product.php?id=33
+  -> LAS1M0261|智能功率模块|产品中 http://latticeart.com/product.php?id=49
+  -> LAD1M0250|智能功率模块|产品中 http://latticeart.com/product.php?id=47
+  -> LAS1M0250|智能功率模块|产品中 http://latticeart.com/product.php?id=46
+  -> LAS1N0561|智能功率模块|产品中 http://latticeart.com/product.php?id=51
+  -> 产品中心|晶艺半导体有限公司 http://latticeart.com/product_category.php
+    -> 步进马达驱动 
+    -> ACDC 
+    -> Load Swtich&Hot-swap 
+    -> Fiber Optic Control 
+    -> 锂电保护 
+  -> GateDriver|产品中心|晶艺半导 http://latticeart.com/product_category.php?id=17
+  -> 步进马达驱动|产品中心|晶艺半导体有限公 http://latticeart.com/product_category.php?id=20
+  -> ACDC|产品中心|晶艺半导体有限公司 http://latticeart.com/product_category.php?id=11
+  -> DCDC|产品中心|晶艺半导体有限公司 http://latticeart.com/product_category.php?id=12
+  -> LoadSwtich&Hot-swap| http://latticeart.com/product_category.php?id=16
+  -> FiberOpticControl|产品 http://latticeart.com/product_category.php?id=21
+  -> 锂电保护|产品中心|晶艺半导体有限公司 http://latticeart.com/product_category.php?id=14
+  -> 电机驱动产品线|产品中心|晶艺半导体有限_1 http://www.latticeart.com/product_category.php?id=6
+  -> LA2902S|DCDC|产品中心|晶艺_1 http://www.latticeart.com/product.php?id=73
+  -> LAS1M0261|智能功率模块|产品中_1 http://www.latticeart.com/product.php?id=49
+  -> LAS1M0250|智能功率模块|产品中_1 http://www.latticeart.com/product.php?id=46

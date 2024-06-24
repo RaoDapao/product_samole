@@ -1,0 +1,10 @@
+产品网址：http://en.golden-chip.com/product-5-3.aspx
+产品结构：root->全部产品_GoChipElectronicTechnology(Shanghai)Co.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|双通道动态差分霍尔传感器电路|无|基于霍尔效应的工作原理，通过霍尔集成电路的偏置磁场的强度和方向会随着移动齿轮的齿尖和齿谷（齿隙）的位置变化而变化，从而使两个差分霍尔传感器感应到的磁场信号的差异变为差分电压信号。经过滤波、放大和自适应比较，将微弱的电压信号转换为差分电压信号。触发电路内部的开关单元电路进行开合动作，从而使电路的输出端产生与齿轮形状相对应的高低电平数字信号。双通道动态差分霍尔传感器电路包含两组这样的差分霍尔通道，因此可以同时输出两组正交信号。|
+
+Model,Package form,Voltage range,Detection distance,Gear specifications,Temperature range,Unnamed: 7
+GH1826,TO-94,4.0Vdc~20.0Vdc,0.5~3.5mm,64齿,-40℃~125℃,Download
+GH1825,TO-94,4.0Vdc~20.0Vdc,0.5~3.5mm,48齿,-40℃~125℃,Download

@@ -1,0 +1,18 @@
+-> root http://www.powersemi.cc
+  -> 斯达半导体-产品中心 https://www.powersemi.cc/product.html
+    -> IGBT 模块 
+    -> SiC 模块 
+    -> 分立器件 
+    -> IPM 模块 
+    -> 二极管模块 
+  -> 斯达半导体-产品中心_1 https://www.powersemi.cc/product2_62_67.html
+  -> 斯达新产品推荐-P6SiC模块 https://www.powersemi.cc/new_det_826.html
+  -> 斯达新产品推荐-N6SiC模块 https://www.powersemi.cc/new_det_825.html
+  -> 斯达新产品推荐-N5IGBT模块 https://www.powersemi.cc/new_det_824.html
+  -> 斯达新产品推荐-P6IGBT模块 https://www.powersemi.cc/new_det_823.html
+  -> 斯达新产品推荐-L6IGBT模块 https://www.powersemi.cc/new_det_822.html
+  -> 斯达新产品推荐-C6.1IGBT模块 https://www.powersemi.cc/new_det_829.html
+  -> _1 https://www.powersemi.cc/new_det_175.html
+    -> 面向焊机行业的分立器件 
+    -> 焊机用快速 F 系列 IGBT 
+  -> _2 https://www.powersemi.cc/new_det_191.html

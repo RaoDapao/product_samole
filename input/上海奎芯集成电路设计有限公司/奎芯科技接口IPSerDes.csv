@@ -1,0 +1,6 @@
+产品网址：https://www.m2ipm2.com/ProductsSt_SerDes.html
+产品结构：root->奎芯科技接口IPSerDes
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|SerDes|无|SerDes PHY IP 为高带宽应用提供高性能、多通道能力和低功耗架构。支持从 1.25G 到 10.3125Gbps 的数据速率，包括 XFI、SFI、10GBASE-Kr、CEI、XAUI、USXGMII。支持 1.25G 到 10.3125Gbps 的数据速率和紧凑的芯片面积（2 通道<0.55mm²）；支持>20dB 的通道损耗；支持 RX 信号丢失检测；支持 X1、X2 和 X4 通道；可访问的寄存器控制允许用户对关键参数进行特定优化（例如 TXPLL 带宽、TX 去加重级别、CDR 带宽和 EQ 强度）；支持 FOM 进行链路均衡训练；支持强大的 BIST 功能进行大规模生产测试；支持引线键合和倒装芯片封装；可在 7nm、12nm、14nm、16nm 和 28nm 工艺节点上使用|

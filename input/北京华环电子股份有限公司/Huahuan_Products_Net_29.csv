@@ -1,0 +1,40 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=98&ncid=99&deid=163
+产品结构：root->Huahuan_Products_NetworkManagementSystem_H9MO-LMXE.V8E
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Network Management System|H9MO-LMXE.V8E|是一款运营商级、高性价比、紧凑、大容量的 SDH 和 IP 网络集成传输平台，专为城域和接入网络中的应用而设计，可方便地为服务提供商传输传统 TDM 和不断增加的以太网数据流量。支持多种服务通过 SDH 网络和 IP 城域网络传输。支持 SDH 交叉连接矩阵和分组交换核心。符合 MEF 定义的运营商以太网标准。支持多种 SDH 网络功能和分组交换网络功能，可在不同端口上支持多种服务。|
+
+Index,Index.1,Performance Parameter
+SDH Uplink Interface (NNI),Uplink Capacity,"8×STM-1o, or 4×STM-1e, or 4×STM-4, or 4×STM-16, or 4×STM-64"
+SDH Uplink Interface (NNI),Connector,SC/PC or FC/PC
+SDH Uplink Interface (NNI),Spec.,"S1.1, S1.2, L1.1, L1.2, S4.1, S4.2, L4.1, L4.2, S16.1, S16.2, L16.1, L16.2, S64.1, S64.2, L64.1, L64.2"
+SDH Uplink Interface (NNI),Spec.,Dual/Single fiber bi-directional interface are optional
+Ethernet Uplink Interface (NNI),Uplink Capacity,2×10GE optical interfaces(1+1 Redundancy)
+Ethernet Uplink Interface (NNI),Connector,"SFP+ Optical Module, LC/PC"
+PDH interface,Max E1 Qty,288
+PDH interface,Max E3/DS3 Qty,12
+PDH interface,Max V.35 Qty,24
+Ethernet,Max GE(Electrical) Qty,24
+Ethernet,Max FE(Electrical) Qty,72
+Ethernet,Max GE(Optical) Qty,144
+Cross-connect & Switching Capacity,Uplink by STM-1,High order: 20×20 VC-4s  Low order: 1260×1260 VC12s
+Cross-connect & Switching Capacity,Uplink by STM-4,High order: 32×32 VC-4s  Low order: 2016×2016 VC-12s
+Cross-connect & Switching Capacity,Uplink by STM-16,High order: 96×96 VC-4s  Low order: 3024×3024 VC-12s
+Cross-connect & Switching Capacity,Uplink by STM-64,High order: 384×384 VC-4s  Low order: 8568×8568 VC-12s
+Cross-connect & Switching Capacity,Uplink by 10GX,IP Switching capacity of 64Gbps
+Management,Interface,10/100 Base-T (can be cascaded)
+EOW interface,EOW interface,Standard socket RJ11
+Physical Dimension(H/D/W),Physical Dimension(H/D/W),3U: 136 × 240 ×440 (mm)
+Power,Supply,-48V DC or dual power supply
+Power,Consumption,≤100W
+Environment,Temperature,0°C  ~50°C
+Environment,Humidity,≤90 %(non-condensing)
+Weight,Weight,≤8 kg
+
+
+Items,Standards and Protocols
+SDH Interface,"ITU-T G.957, G.707"
+E1 port,"ITU-T G.703  , G.704"
+Clock port,ITU-T  G.823
+Ethernet port,IEEE 802  G.7041/G.704 2/G.7043 and G.8040

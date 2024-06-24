@@ -1,0 +1,21 @@
+产品网址：https://www.len-technology.com/en/products/high-side-driver-chip/high-side-driver-chip-details/lnq37000
+产品结构：root->LNQ37000Q1-
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|High Side Switch|LNQ37000Q1|Automotive, 36V, 100mΩ, Single-channel Smart High-side Switch.|
+
+Operating voltage Min (V),4
+Operating voltage Max (V),40
+Channels,4
+Rdson (mohm),1000
+Output current (A),0.75
+currrent limit (A),"External Adjustable, 1A Max"
+Protection,Output short to GND  Over current  Thermal Shutdown  Inductive load negative voltage clamp
+Diagnosis,Open load  Output short to battery  Overcurrent and output short to GND
+Fault output for each channel,Version A
+Current sense,Version B
+Package,TSSOP-EP20
+Rating,AEC-Q100 Grade1
+Operating junction temperature,-40 to 150
+Functional safety supported,Functional Safety Supported

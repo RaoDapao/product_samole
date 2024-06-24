@@ -1,0 +1,41 @@
+产品网址：http://latticeart.com/product_category.php
+产品结构：root->产品中心|晶艺半导体有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Gate Driver|无|无|
+|智能功率模块|无|无|
+|BLDC 控制器|无|无|
+|步进马达驱动|无|无|
+|ACDC|无|无|
+|DCDC|无|无|
+|Load Swtich&Hot-swap|无|无|
+|Fiber Optic Control|无|无|
+|锂电保护|无|无|
+
+产品型号,架构,功率管规格,功率器件类型,特色功能,封装,Unnamed: 6,Unnamed: 7
+LA1121S,Syn Buck,2.3-5.5V,内置HS+LS,1A,2.2MHz fsw,SOT56-3,
+LA1213S,Syn Buck,4.5-16V,内置HS+LS,3A,600kHz fsw,SOT56-3,
+LA1214S,Syn Buck,2.5-18V,内置HS+LS,4A,Programable fsw from 200kHz to 1MHz,QFN3*4,
+LA1491,Non-syn Buck,3.3-36V,内置HS,0.6A,2MHz fsw,SOT23-6,
+LA1631,Syn Buck,4.5-48V,内置HS+LS,0.6A,1.6MHz fsw,SOT23-6,
+LA1812,Non-Syn HS Buck,30-100V,内置100V HS,2A,Mix Mode control，freqency jitter,SOP8,
+LA3121,5,电压,±10mV,可选,4.225（可选）,< 1,MSOP-8L
+LA3501,Load Switch,4-20V,内置,1.5A,programable 0.1~1.5A current limit,SOT23-6,
+LA3502,Load Switch,2.5-55V,内置,2*0.8A,Dual channel load switch,SOT23-6,
+LA3800,Load Switch,100-1200V,内置,clamp power<10W,Accurate Output Voltage clamp,LasSOP-10,
+LA7101,Half Bridge,600,210,360,10-20,3.3，5，15,SOP8
+LA7104,Half Bridge,600,210,360,10-20,3.3，5，15,SOP8
+LAD1M0250,Half-Bridge,500V/2A,FR-MOSFET,UVLO，DeadTime，TSD,DIP8,,
+LAD1M0261,Half-Bridge,600V/2A,FR-MOSFET,BSD，UVLO，DeadTime，TSD,DIP-8,,
+LAM3N1560,Three-Phase,600V/15A,IGBT&FRD,DBC-substrate，UVLO，VOT/TSD，OCP，FO,DIP25,,
+LAM3N2060,Three-Phase,600V/20A,IGBT&FRD,DBC-substrate，UVLO，VOT/TSD，OCP，FO,DIP25,,
+LAM3N3060,Three-Phase,600V/30A,IGBT&FRD,DBC-substrate，UVLO，VOT/TSD，OCP，FO,DIP25,,
+LAS1M0250,Half-Bridge,500V/2A,FR-MOSFET,UVLO，DeadTime，TSD,LasSOP-10,,
+LAS1M0261,Half-Bridge,600V/3A,FR-MOSFET,BSD，OCP，FO/SD，UVLO，DeadTime，TSD,LasSOP-10,,
+LAS1M0450,Half-Bridge,500V/4A,FR-MOSFET,UVLO，DeadTime，TSD,LasSOP-10,,
+LAS1M0461,Half-Bridge,600V/4A,FR-MOSFET,BSD，OCP，FO/SD，UVLO，DeadTime，TSD,LasSOP-10,,
+LAS1M0750,Half-Bridge,500V/7A,FR-MOSFET,UVLO，DeadTime，TSD,LasSOP-10,,
+LAS1M0751,Half-Bridge,500V/7A,FR-MOSFET,BSD，OCP，FO/SD，UVLO，DeadTime，TSD,LasSOP-10,,
+LAS1M0761,Half-Bridge,600V/7A,FR-MOSFET,BSD，OCP，FO/SD，UVLO，DeadTime，TSD,LasSOP-10,,
+LAS1N0561,Half-Bridge,650V/5A,IGBT&FRD,BSD，OCP，FO/SD，UVLO，DeadTime，TSD,LasSOP-10,,

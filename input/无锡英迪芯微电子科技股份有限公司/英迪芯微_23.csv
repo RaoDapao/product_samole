@@ -1,0 +1,8 @@
+产品网址：https://www.indiemicro.com/archives/product/ind86201-qfn88
+产品结构：root->英迪芯微
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Automotive Embedded Motor Controller|iND86201-QFN88|高集成 SoC，外部组件少；ARM Cortex M0；集成 160kFlash 和 8kSRAM；4 个定时器和看门狗；高精度模拟前端 17Bit ADC；14Bit DACs×2；集成开关矩阵；USB 1.1 全速；段式 LCD 驱动器；具有模拟输入能力的 GPIO；所有所需的时钟发生器 PWM、I2C、SPI；温度传感器；电源管理单元 QFN-88/BGA-120 封装；支持免费的 HCT 测量库；主要应用：血糖仪|
+
+

@@ -1,0 +1,6 @@
+-> root http://leadrive.com
+  -> 首页 
+    -> 产品介绍 http://leadrive.com/product
+      -> 功率半导体模块 http://leadrive.com/product/product.php?lang=cn&class2=7
+      -> 单电机控制器 http://leadrive.com/product/product.php?lang=cn&class2=8
+      -> 双电机控制器 http://leadrive.com/product/product.php?lang=cn&class2=160

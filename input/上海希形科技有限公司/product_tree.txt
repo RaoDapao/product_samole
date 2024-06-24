@@ -1,0 +1,55 @@
+-> root http://www.xixingtech.com
+  -> 电能质量_希形科技 https://www.xixingtech.com/product/index.html
+    -> 混合补偿控制器 
+    -> EasyPQ-APF 系列有源电力滤波器 
+    -> 晶闸管投切开关 
+    -> 无功补偿元器件 
+    -> 储能变流器 
+    -> HighVPQ 系列 
+    -> UniquePQ 系列 
+    -> SuperPQ 系列 
+  -> 产品定制化服务_希形科技 https://www.xixingtech.com/product/oem.html
+  -> 储能变流器_希形科技 https://www.xixingtech.com/product/list/id/1096.html
+  -> EasyPQ系列_希形科技 https://www.xixingtech.com/product/list/id/1089.html
+    -> 有源电力滤波器 
+    -> 静止无功发生器 
+    -> 三相不平衡治理装置 
+  -> HighVPQ系列_希形科技 https://www.xixingtech.com/product/list/id/1090.html
+  -> UniquePQ系列_希形科技 https://www.xixingtech.com/product/list/id/1091.html
+  -> SuperPQ系列_希形科技 https://www.xixingtech.com/product/list/id/1092.html
+    -> EasyPQ 系列 
+  -> 混合补偿控制器_希形科技 https://www.xixingtech.com/product/list/id/1095.html
+  -> 晶闸管投切开关_希形科技 https://www.xixingtech.com/product/list/id/1093.html
+  -> 无功补偿元器件_希形科技 https://www.xixingtech.com/product/list/id/1094.html
+    -> 功率因数控制器 
+    -> 复合开关 
+    -> 低压电容 
+    -> 低压电抗器 
+  -> 公司简介_希形科技 https://xixingtech.com/about/index.html
+    -> 有源电力滤波器（APF） 
+    -> 静止无功发生器（SVG） 
+    -> 三相不平衡调节装置(SPC） 
+    -> 晶闸管投切开关（TSC） 
+    -> 工商业储能装置 
+    -> 低压电容电抗 
+  -> EasyPQ-APF系列有源电力滤波器（ https://www.xixingtech.com/product/info/id/1090.html
+  -> EasyPQ-SVG系列静止无功发生器( https://www.xixingtech.com/product/info/id/1088.html
+  -> 储能变流器_希形科技_1 https://www.xixingtech.com/product/info/id/1106.html
+  -> EasyPQ-SPC系列三相不平衡治理装 https://www.xixingtech.com/product/info/id/1089.html
+  -> HightV-PQ有源电力滤波器-静止无 https://www.xixingtech.com/product/info/id/1105.html
+  -> 单相有源滤波器_希形科技 https://www.xixingtech.com/product/info/id/1104.html
+  -> SVGC混合补偿控制器_希形科技 https://www.xixingtech.com/product/info/id/1096.html
+  -> 智能型可控硅（晶闸管）投切开关_希形科技 https://www.xixingtech.com/product/info/id/1091.html
+  -> 晶闸管投切开关_希形科技_1 https://www.xixingtech.com/product/list/id/1093.html#
+  -> 功率因数控制器_希形科技 https://www.xixingtech.com/product/info/id/1095.html
+  -> 复合开关_希形科技 https://www.xixingtech.com/product/info/id/1094.html
+  -> 低压电容_希形科技 https://www.xixingtech.com/product/info/id/1093.html
+  -> 低压电抗器_希形科技 https://www.xixingtech.com/product/info/id/1092.html
+  -> EasyPQ-SVG系列静止无功发生器(_1 https://www.xixingtech.com/product/info/id/1088.html#
+  -> 低压电抗器_希形科技_1 https://www.xixingtech.com/product/info/id/1092.html#
+  -> 产品定制化服务_希形科技_1 https://xixingtech.com/product/oem.html#
+  -> EasyPQ-APF系列有源电力滤波器（_1 https://xixingtech.com/product/info/id/1090.html
+  -> 晶闸管投切开关_希形科技_2 https://xixingtech.com/product/list/id/1093.html#
+  -> 低压电抗器_希形科技_2 https://xixingtech.com/product/info/id/1092.html
+  -> 尺寸间的丈量_希形科技 https://xixingtech.com/about/info/id/1093.html
+  -> 低压电容_希形科技_1 https://xixingtech.com/product/info/id/1093.html#

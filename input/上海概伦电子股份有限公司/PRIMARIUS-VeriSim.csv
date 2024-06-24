@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/en/products/digital_design_eda/VeriSim-EN.html
+产品结构：root->PRIMARIUS-VeriSim
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|VeriSim|无|是一款先进的逻辑模拟器，提供全面的数字设计验证解决方案。具有高性能的仿真引擎和约束求解器，可提高大型 SoC 设计的编译时间效率；支持多种语言，包括 Verilog、VHDL、SystemVerilog、SystemC 及其组合；集成了通用验证方法学（UVM），可快速设置验证测试平台；提供广泛的功能和代码覆盖测试功能；基于断言的验证有助于早期检测和纠正潜在的设计缺陷，压缩验证时间并加快上市时间；通过加密算法增加安全性，保护客户 IP；与晶体管级 NanoSpice 模拟器集成，提供完整的混合信号验证解决方案|

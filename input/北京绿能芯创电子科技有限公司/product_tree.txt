@@ -1,0 +1,13 @@
+-> root http://www.gietsic.com
+  -> 碳化硅功率器件-北京绿能芯创电子科技有限 https://www.gietsic.com/e/action/ListInfo/?classid=1
+    -> 碳化硅功率器件 
+    -> 分立器件 
+    -> 晶圆 
+  -> 1200VMOSFET通过可靠性认证-北 https://www.gietsic.com/e/action/ShowInfo.php?classid=155&id=213
+    -> MOSFET 
+  -> 产品通过ROHS、REACH、HF测试- https://www.gietsic.com/e/action/ShowInfo.php?classid=155&id=198
+  -> 二极管-北京绿能芯创电子科技有限公司 https://www.gietsic.com/e/action/ListInfo/?classid=4
+  -> 场效应管-北京绿能芯创电子科技有限公司 https://www.gietsic.com/e/action/ListInfo/?classid=160
+  -> 二极管-北京绿能芯创电子科技有限公司_1 https://www.gietsic.com/e/action/ListInfo/?classid=108
+  -> 场效应管-北京绿能芯创电子科技有限公司_1 https://www.gietsic.com/e/action/ListInfo/?classid=109
+  -> 绿能芯创顺利通过IATF16949质量管 https://www.gietsic.com/e/action/ShowInfo.php?classid=155&id=210

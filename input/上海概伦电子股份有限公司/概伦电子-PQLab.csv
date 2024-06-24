@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/products/manufacturing_eda/PQLab.html
+产品结构：root->概伦电子-PQLab
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|PQLab|无|是一款技术先进的 PDK（半导体工艺设计套件）验证平台，包含多种 PDK 自动化验证机制，支持从 0.18um 到 22nm 各平面工艺以及 FinFET 各工艺制程在数字逻辑、模拟、高压、射频等多种应用场景 PDK 的自动化验证，旨在帮助 PDK 开发和使用者快速高效地完成验证工作确保 PDK 的质量，并帮助设计工程师快速分析、比较来自不同芯片制造厂的各版本 PDK 性能|

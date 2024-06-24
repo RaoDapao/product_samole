@@ -1,0 +1,6 @@
+产品网址：https://www.xm-plus.com/en/product-76977-68128-175498.html
+产品结构：PRODUCTCENTER->OLEDDriverIC->XM80240G
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|OLED Driver IC|XM80240G|·LTPS/IGZO AMOLED 驱动 IC，适用于可穿戴应用<br>·支持最大 480RGB x 480<br>·支持 1 至 6 和 1 至 12 复用器<br>·支持 16.7M、4096、8 色深<br>·接口：MCU 8 位，SPI3 / SPI4 / Q-SPI；MIPI-DSI 2 通道，最大带宽 500Mbps<br>·内置模拟和数字 RGB 3 伽马<br>·内置 Xm-Plus 图像算法：高亮度模式、自动电流限制、平滑边缘引擎<br>·支持 2 种电源模式<br>·控制电源 IC 接口 SWIRE<br>·内置一个定时程序<br>·内置 OTP 电源发生器<br>·内置 BIST 模式<br>·封装：COG / COF|

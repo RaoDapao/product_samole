@@ -1,0 +1,17 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=44&scid=145&ncid=146&deid=180
+产品结构：root->Huahuan_Products_SmartEnterpriseGateway_HEG2100AEnterpriseGateway
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Smart Enterprise Gateway|HEG2100A|提供强大的功能、高性能、易于配置、方便操作、灵活使用和可靠的安全性，提供灵活、安全和全面的网络方案。支持 3G/4G 网络接入、攻击防御、访问控制、内容过滤、QoS 控制、VPN、ARP 防攻击、远程管理、打印服务等功能，同时提供手机打卡、视频监控、员工通讯录、网络传真、日程安排等业务功能。支持高带宽互联网接入和所有现有的接入认证方法，支持通过 WAN 连接和 3G/4G 无线连接同时接入互联网，提供一个 WAN 和四个 LAN 接口，支持 ARP 攻击保护、ARP 欺骗保护、基于端口、IP 或协议的网络速度限制、网络地址转换（NAT）、多种 VPN、WLAN 功能、强大的内容过滤功能、灵活的基于 IP/MAC 地址的访问控制功能、远程管理功能、灵活的 VLAN 功能、视频监控功能、手机打卡功能、员工通讯录功能。|
+
+Item,Description
+Standards and Protocols,"TCP/IP, HHTP, DHCP, PPPoE, NAT, DNS, UDP, FTP, ARP, SMTP, TR069, WCDMA/CDMA2000/TD-SCDMA, FDD-LTE/TD-LTE"
+Port,LAN: 4*1000Mbps(support auto adaptation) RJ45 port
+Port,WAN:1*1000Mbps(support auto adaptation) RJ45port
+Dimension,W×H×D (mm) 215*35*136
+Using Environment,Working temperature: 0~40  ℃
+Using Environment,Storing temperature:-25~55  ℃
+Using Environment,Working humidity: 5%~90%
+Using Environment,Storing humidity:0%~95%
+Power Supply,DC 12V(9V~18V)

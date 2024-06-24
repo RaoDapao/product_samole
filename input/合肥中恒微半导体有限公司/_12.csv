@@ -1,0 +1,12 @@
+产品网址：https://www.zhmsemi.com/products/hybrid_module/driveed3_hybrid.html
+产品结构：root
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Hybrid Module|DriveED3|A.Ultrasonic Welding of Terminale-<br>B.Copper Wire Bonding<br>C.High Strength Ceramic Substrates-<br>D.High Reliability Modules|
+
+Package,Product,Vces(V),Ic(A),VCE(sat)(V),Configuration,typical value @Tj=25℃,typical value @Tj=25℃.1,typical value @Tj=25℃.2
+Package,Product,Vces(V),Ic(A),VCE(sat)(V),Configuration,VF(V),Eon(mJ),Eoff(mJ)
+DriveED3/Hybrid,2E300MFSC120T1P,1200,300,1.95,Half Bridge,1.70,3.7,17.3
+DriveED3/Hybrid,2E450MFSC120T1P,1200,450,1.95,Half Bridge,1.70,8,24
+DriveED3/Hybrid,2E600MFSC120T1P,1200,600,1.95,Half Bridge,1.70,11,36

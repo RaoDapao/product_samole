@@ -1,0 +1,11 @@
+产品网址：http://en.golden-chip.com/product-5-1.aspx
+产品结构：root->全部产品_GoChipElectronicTechnology(Shanghai)Co.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Inductive proximity switch|无|具有宽工作电压范围、小静态工作电流，集成输出级驱动电流高达 70mA，抗干扰性能高，可提供温度补偿、短路保护和过载保护功能。典型特点包括温度漂移小、灵敏度高、线性度好、抗干扰性能强、功耗低，具有温度补偿功能，工作电压范围宽（4~40V），具有短路保护和过载保护。典型应用包括工业自动化生产线、工程车辆、金属探测器、非接触式开关。|
+
+Model,Switching frequency (typ.),Voltage range,Working current,Temperature range,Package form,Download
+GC5505,5KHz,4.0~40.0VDC,0.55～0.7mA,-40℃~125℃,SOP-16L/SSOP-16L,Download
+GC5355,5KHz,4.0~40.0VDC,0.55～0.7mA,-40℃~125℃,SOP-8/DFN-8L/DFN-14LL,Download
+GC5515,5KHz,4.0~40.0VDC,0.55～0.7mA,-40℃~125℃,DFN-14L,Download

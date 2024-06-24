@@ -1,0 +1,13 @@
+产品网址：https://www.hitrendtech.com/products/detail?id=1
+产品结构：首页->产品中心->HT8922
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|窄带载波通信芯片|HT8922|基于 OFDM 调制解调技术，采用先进的数模混合设计技术与工艺，提供高速率、高可靠性、高灵敏度的电力线数据通信，可实现各种类型的数据传输及远程抄表应用。是高集成度 SOC 芯片，将模拟电路、数字信号处理器以及 32 位 MCU 完全在单芯片上实现。采用正交频分复用(OFDM)调制解调方式、高效可靠的前向纠错技术、灵活可配的传输模式，使其可以在信号衰减严重以及脉冲干扰强烈的电力线环境下实现自适应可靠通信。集成的 32 位 MCU 内核能够完成 MAC 层及以上协议层所需的各种功能及应用。物理层协议完全兼容 G3-PLC 国际标准，并根据电力线载波环境的特点做了进一步性能优化。最高可支持 2048 子载波，支持相干和差分 PSK 调制方式，支持 BPSK、QPSK、8PSK 及 16QAM 等调制模式，可根据电力线信道特性选择相应的速率模式，支持多种卷积编码，以及级联 Reed-Solomon 编码等前向纠错技术，使其在复杂的电力线噪声环境下均可实现可靠通信。是中国首颗通过 G3 V7 最新标准认证的载波芯片。|
+
+Part NO.,HT8922,Function,Powerline Communications SoC
+Supply Voltage(V),3.3,Data Rate(bps),3K ~ 290K
+Frequency Band  (Hz),9K ~ 500K,Modulation Mode,OFDM
+Package,QFN48,Oper. Temp.(℃),-40 ~ +105
+Security Features,AES-128,Compatibility,G3-PLC
+,,,

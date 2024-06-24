@@ -1,0 +1,78 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/651.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|NVR|Pro|H.265 4HDD 40ch NVR，具有高达 40 路 IP 摄像机输入、400Mbps/400Mbps 的访问/转发带宽、S+265、H.265、S+264、H.264 视频格式、16MP(30fps)×2、12MP(30fps)×3、8MP(30fps)×4、6MP(30fps)×4、5MP(30fps)×6、4MP(30fps)×8、3MP(30fps)×9、1080P(30fps)×16 预览解码能力、16 路同步回放、16MP(30fps)×2、12MP(30fps)×3、8MP(30fps)×4、6MP(30fps)×4、5MP(30fps)×6、4MP(30fps)×8、3MP(30fps)×9、1080P(30fps)×16 回放解码能力、每个 HDD 高达 10TB 容量、独立 HDMI 和 VGA 输出、HDMI 输出高达 4K 分辨率、2×RJ-45，10/100/1000Mbps 自适应以太网端口、S+265 压缩有效减少高达 75%的存储空间、支持云升级|
+
+Video and Audio,Unnamed: 1
+Access Channel,40
+Incoming Bandwidth,400Mbps
+Outgoing Bandwidth,400Mbps
+Resolution,16MP/12MP/8MP/6MP/5MP/4MP/3MP/1080P/UXGA/720P/VGA/4CIF/DCIF/2CIF/CIF/QCIF
+Preview Decoding Capability,"16MP(30fps)×2, 12MP(30fps)×3, 8MP(30fps)×4, 6MP(30fps)×4, 5MP(30fps)×6, 4MP(30fps)×8, 3MP(30fps)×9, 1080P(30fps)×16, 720P(30fps)×32, 4CIF(30fps)×40"
+Third-party Camera Access,ONVIF; RTSP
+HDMI Output,"HDMI:800×600(60Hz), 1024×768(60Hz), 1280×720(50Hz/60Hz), 1280×800(60Hz), 1366×768(60Hz), 1440×900(60Hz), 1920×1080(50Hz/60Hz), 2560×1440(30Hz/60Hz), 2560×1600(60Hz), (4K)3840×2160(30Hz/60Hz)"
+Liveview display,Independent Output: HDMI: 1/2/3/4/5/6/7/8/9/10/12/13/16/20A/20B/25/32/36/40 VGA: 1/2/3/4/5/6/7/8/9/10/12/13/16/20A/20B/25/32/36/40
+VGA Output,"VGA:800×600(60Hz), 1024×768(60Hz), 1280×720(50Hz/60Hz), 1280×800(60Hz), 1366×768(60Hz), 1440×900(60Hz), 1920×1080(50Hz/60Hz)"
+Multi-screen Display,1/2/3/4/5/6/7/8/9/10/12/13/16/20A/20B/25/32/36/40
+Audio Input,"1-ch, 3.5mm"
+Audio Output,"1-ch, RCA (Linear, 1 KΩ)"
+Two-Way Audio,"1-ch, 3.5mm, using the audio input"
+Compression,
+Video,S+265; H.265; S+264; H.264
+Audio,G711A; G711U; AAC; ADPCM_DIV4
+Stream Type,Video; Video & Audio
+Network,
+Network Protocol,"ARP; DDNS; DHCP; DNS; Easy DDNS; FTP; HTTP; HTTPS; ICMP; IGMP; IPv4; IPv6; Multicast; NFS; NTP; PPPoE; RTCP; RTP; RTSP; SMB/CIFS; SMTP; SNMP; SRTP; SSH; SSL; TLSv1.2, TLSv1.3; TCP/IP; UDP; Unicast; UPnP"
+Mobile Phone Access,Android; iOS; P2P_A
+System Compatibility,ONVIF(profile T/S/G); RTSP; CGI; SDK
+Web,IE10+; Firefox52+; Edge89+; Safari11+; Chrome57+
+Record Playback,
+Multi-channel Playback,16
+Record Mode,Manual recording; Alarm recording; Schedule recording
+Storage Method,Local HDD
+Backup,"USB storage device, Network"
+Playback Function,Play/Pause/Stop/Slow/Speed/Backwards 30s/Forwards 30s/Full screen/backup (video Editing)/Step/Digital Zoom
+Dual Stream Record,Dual Stream Record
+Alarm,
+General Alarm,Motion; Mask Alarm; Alarm Input(IPC); Video Loss; Alarm Input(NVR); Manual Alarm
+Exceptions Alarm,IP Conflict; MAC Conflict; Network Disconnected; No disk; Illegal Access; Disk group space alert; Disk Full; Disk R/W error; Video Abnormal; Abnormal found in smart of disk; Abnormal temperature of the disk; Hot-spare Exception; Array Exception; IPC voltage abnormal; RTC failure
+Intelligent Analytics,
+AI by Camera,Tripwire; Double Tripwire; Perimeter; Object Abandon; Object Missing; Loiter; Running; Parking; Heatmap; Lens Dignose; Scene Switch Dignose; Signal Abnormal Detection; Signal Loss Detection; Plate License Recognition; On Duty Detection; Crowd Detection; Parking guard; Safety Helmet Detection; Electric vehicle testing; People Counting; Link To Tracking; Fireworks detection; Environmental temperature measurement; Face Detection; Human body temperature measurement; Advanced Intelligence; Cooperate with facial recognition machine
+VCA Search,Heatmap; Early-warning search; Behavior Search; Plate license search; Search safety helmet; Thermographic retrieval; Duty search; Electric vehicle retrieval; Facial search
+Face Detection,
+Face Attributes,Gender; age; glasses; mouth mask; Body temp.
+Face Recognition,
+Face Picture Library,Up to 300 face libraries Up to 100000 base images
+Face Picture Comparison,Cooperate with facial recognition machine
+Storage,
+HDD Capacity,Up to 10TB capacity for each HDD
+Disk Group,4 Disk Group
+RAID,"JBOD, RAID0, RAID1, RAID5, RAID6, RAID10"
+External Port,
+USB,1×USB2.0; 1×USB3.0
+HDMI,1×HDMI(supports up to 4K resolution output)
+VGA,1×VGA
+Network Interface,"2×RJ-45, 10/100/1000 Mbps self-adaptive Ethernet port"
+SATA,4×SATA interface
+RS232,1×RS232
+RS485,1×RS485
+Alarm I/O,"16-ch, TTL inputs, 3mA, 3.3VDC; 4-ch, relay outputs, 1A, 24VDC"
+General,
+UI Language,Simple Chinese; Traditional Chinese; English; Spanish; Korean; Italian; Turkish; Russian; Thai; French; Polish; Dutch; Hebrew; Arabic; Vietnamese; German; Ukrainian; Portuguese; Albanian
+Power Supply,DC12V 5A
+Power Consumption,"<15W(HDD not included, idling)"
+NetWeight,3.3Kg
+GrossWeight,5.05Kg
+Boundary Dimensions,440(L)347(W)75(H)mm
+Package Dimensions,540(L)175(W)455(H)mm
+Operating Temperature,-10℃~+55℃
+Operating Humidity,10%~90%RH
+Storage Temperature,-10℃~+55℃
+Storage Humidity,10%~90%RH
+Package Kit,Network Video Recorder; Screw pack; Mouse; Power adapter; European standard power cord; 2Ear plate; 4SATA hard disk data cable; 2SATA power cord
+
+
+Date,Title,Type
+2024-04-07,1D.20030.020182_TC-R3440 IBNV4.0_en,pdf

@@ -1,0 +1,16 @@
+产品网址：http://www.tang-sh.com/products_detail/17.html
+产品结构：root->日本爱普生RTC时钟模块-上海唐辉电子有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|日本爱普生 RTC 时钟模块|无|爱普生具有内置 XTAL 的各种实时时钟模块（RTC）可以节省功耗，提供优良的精度并简化系统设计。多亏了警报和时间戳等丰富的可选功能，RTC 可以在计时之外涵盖多个其他任务。|
+
+型号,外部尺寸  [ mm ],特点,电源电压  [V],频率公差  [x10-6],待机电流  [µA],内置电源切换,Time stamp,记忆
+RX8111CE,3.2 x 2.5 x 1.0,"I2C-Bus,  Low Power，  8 time stamps",1.1 to 5.5,A : ±11.5 / +25°C  B : ±23.0 / +25°C,0.1,√,√,√
+RX8130CE,3.2 x 2.5 x 1.0,I2C-Bus,1.1 to 5.5,B : 5±23  / +25°C,0.3,√,,√
+RX8900CE,3.2 x 2.5 x 1.0,I2C-Bus  Built-in  DTCXO，  High  Stability,1.6 to 5.5,UA : ±3.4  / -40 to +85°C  UB : ±5.0  / -40 to +85°C  UC : ±5.0  / -30 to +70°C,0.7,√,,
+RX8010SJ,7.0 x 6.0 x 2.65,Low current  consumption，  Built-in SRAM,1.1 to 5.5,B : 5±23  / +25°C,0.16,,,√
+RX-8025SA,10.1 x 7.4 x 3.3,I2C-Bus  High Stability,1.15 to 5.5,AA : 5±5.0  / +25°C  AC : 0±5.0  / +25°C,0.48,,,
+RX8111CE模块  可以P2P  RX-8025SA,10.2 x 7.3 x 2.0,I2C-Bus  Low current  consumption,1.6 to 5.5,0±5.0  / +25°C,0.1,,,
+RX-8025T UB,10.1 x 7.4 x 3.2,I2C-Bus 针对中国电网在智能电网领  特殊高标准要求推出的  一款高精度高稳定性  实时时钟芯片,1.6 to 5.5,±5 / +25°C,0.22,,,√
+RX-8025T UC,10.1 x 7.4 x 3.2,I2C-Bus 针对中国电网在智能电网领  特殊高标准要求推出的  一款高精度高稳定性  实时时钟芯片,1.6 to 5.5,±5 / +25°C,0.22,,,√

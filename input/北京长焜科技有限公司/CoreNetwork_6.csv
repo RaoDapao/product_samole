@@ -1,0 +1,6 @@
+产品网址：https://bjcktech.com/index.php/Home/Product/view/id/222.html
+产品结构：Currentlocation：Home->Products->CoreNetwork->ICN600Home->Products->CoreNetwork
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Core Network|ICN600|是一种集成的 IMS（IP 多媒体子系统）核心网产品，专为符合 3GPP 定义的 IMS 国际标准的专用网络和运营商设计。基于承载级软件和硬件架构，所有标准的 IMS 网元都集成在一个 6U 高度的 ATCA X86 服务器框架的单个物理节点内。具有大容量和高集成密度的特点，一个 6U 高度的 ATCA X86 服务器框架可提供超过 3000+BHSA（忙时会话尝试）。所有标准的 IMS 网元都集成在一个 ATCA X86 服务器平台内，便于部署。基于承载级软件和硬件架构，可 7*24 小时连续运行，符合承载级可靠性要求。支持丰富的服务，如 VoLTE/VoNR 语音和视频通话、短信等。支持符合 SIP 协议的所有手机和 IP 电话接入。支持用户漫游、移动性管理、强大的 SIP 路由功能等。符合 3GPP 组织定义的 IMS 核心网标准协议，提供标准接口与其他网络连接。集中式和远程管理的 O&M 功能帮助运营商方便地管理核心网。O&M 功能可根据运营商的要求定制。|

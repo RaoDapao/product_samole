@@ -1,0 +1,16 @@
+产品网址：https://www.semitronix.com/product/1106
+产品结构：root->晶圆级电性参数测试设备|广立微
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|晶圆级电性参数测试设备|T4000 系列|通用型 WAT 测试设备，适用于大部份 WAT 电性测试场景|
+|晶圆级电性参数测试设备|T4100S 系列|并行测试设备，大幅提升测试效率，可满足先进工艺中繁杂多样的测试要求|
+|晶圆级电性参数测试设备|T4100S 系列-copy-1678252710|并行测试设备，大幅提升测试效率，可满足先进工艺中繁杂多样的测试要求|
+
+Tester,T4000系列,T4100S系列,T4100S系列-copy-1678252710
+#of PINs,24 to 28,22to 28,22to 28
+#of SMUs,6 to 12 (shared SMU),22 to 48 (per pin),22 to 48 (per pin)
+#of LCR,1,1 to 2,1 to 2
+#of PGU,2,2,2
+Parallel testing support,Yes,Yes,Yes
+Throughput(WPH),~1.3x-2x,~1.5x-5x,~1.5x-5x

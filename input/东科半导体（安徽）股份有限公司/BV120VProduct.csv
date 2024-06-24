@@ -1,0 +1,16 @@
+产品网址：https://www.dkpower.cn/BV120VProduct.html
+产品结构：首页->产品中心->SR同步整流系列->BV120VProduct
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|BV 120V Product|无|无|
+
+Product,Characteristics,BV,RDS(on),Topology,VDD Operation Voltage,Output Power,Operating Mode,Package
+DK5V120R15VL,SR Converter,120V,15mΩ,PSR/SSR,5.1V,"20V, 3.4A",DCM/QR/CCM,TO-252
+DK5V120R15SL,SR Converter,120V,25mΩ,PSR/SSR,5.5V,"20V, 3.3A",DCM/QR/CCM,TO-252
+DK5V120R15VT1,SR Converter,120V,15mΩ,PSR/SSR,5.1V,"20V, 4A",DCM/QR/CCM,TO-252
+DK5V120R15ST1,SR Converter,120V,15mΩ,PSR/SSR,5.5V,"20V,4A",DCM/QR/CCM,TO-220F
+DK5V120R15VM,SR Converter,120V,15mΩ,PSR/SSR,5.1V,"20V, 3.4A",DCM/QR/CCM,SM-10
+DK5V120R15M,SR Converter,120V,15mΩ,PSR/SSR,5.5V,"20V, 3.3A",DCM/QR/CCM,SM-10
+DK5V120R15V,SR Converter,120V,15mΩ,PSR/SSR,5.1V,"20V, 3A",DCM/QR/CCM,SM-7 (兼容TO-277)
+DK5V120R15S,SR Converter,120V,15mΩ,PSR/SSR,5.5V,"20V, 3A",DCM/QR/CCM,SM-7 (兼容TO-277)

@@ -1,0 +1,11 @@
+产品网址：http://en.golden-chip.com/product-6-1.aspx
+产品结构：root->全部产品_GoChipElectronicTechnology(Shanghai)Co.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|智能座舱传感器芯片|GH2201、GH2101|高灵敏度，良好的温度特性，反向电压保护，可编程磁开关点，良好的开关点一致性，宽温度范围：-40~+150℃，可应用于车窗、天窗、智能座椅、转速表计数器、流量检测、运动停止检测等|
+
+Model,Magnetic switch point,Voltage range,Working current,Temperature range,Package form,Remarks,Download
+GH2101,±78GS,3.0~30.0VDC,4.1~7.5mA,-40℃~150℃,TO-92S/SOT23-3L,汽车级AEC-Q100,Download
+GH2201,±30GS,3.0~30.0VDC,3.0~6.0mA,-40℃~150℃,TO-92S/SOT23-3L,汽车级AEC-Q100,Download
+GH2301,±40GS,3.0~30.0VDC,4.0~6.0mA,-40℃~150℃,SOT23-3L,Side induction,Download

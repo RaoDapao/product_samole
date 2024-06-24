@@ -1,0 +1,13 @@
+产品网址：https://www.hitrendtech.com/products/detail?id=11
+产品结构：首页->产品中心->HT8580
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|电力线载波通信芯片|HT8580|支持 DPSK 调制方式，集低功耗、高灵敏度、低带外干扰于一体，可实现各种类型的数据传输及远程抄表应用，是高集成度 SOC 芯片，将模拟前端、数字调制解调、基带数据处理和 8051MCU 以及 FLASH 存储器等模块完全在单芯片上实现，支持多种外围接口，并能够完成 MAC 层及以上协议层所需各种功能及应用，支持多种模式及双载波发送与接收，包括通信的载波频率、双载波间隔、传输速率以及调制方式均可灵活配置，内部集成 12bit 高精度 ADC、45dB 动态范围信号放大器、自动增益控制环路，使模拟信号接收处理得到进一步优化，内置 10 比特 DAC 及低通滤波器，使得发送时产生的带外干扰得以抑制，支持时域分集接收技术可有效提高对抗电力线脉冲干扰能力，支持双载波频域分集模式可增强对抗频域窄带干扰性能，内部采用高效可靠的前向纠错技术、可灵活配置的传输模式，使其可以在各种不同噪声的电力线环境下实现自适应可靠通信|
+
+Part NO.,HT8580,Function,Dual carrier Powerline SOC Transceiver
+Supply Voltage(V),3.3/5,Data Rate(bps),100 ~ 55K
+Frequency Band  (Hz),3K ~ 500K,Modulation Mode,B/Q/8 PSK
+Package,LQFP48,Oper. Temp.(℃),-40 ~ +115
+Security Features,--,Compatibility,--
+,,,

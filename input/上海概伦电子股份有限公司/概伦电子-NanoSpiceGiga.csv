@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/products/analog_design_eda/NanoSpice-Giga.html
+产品结构：root->概伦电子-NanoSpiceGiga
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|NanoSpice Giga|无|千兆级高精度电路仿真器，通过基于大数据的并行仿真引擎处理十亿以上单元的电路仿真，适用于各类存储器电路、定制数字电路和全芯片的仿真验证，采用 True SPICE 精度级仿真引擎确保了先进工艺节点下芯片设计中功耗、漏电、时序、噪声等的精度要求，通过先进的并行仿真技术在不降低仿真精度的情况下实现高速电路仿真，是存储器 IP 及芯片设计验证的标准 signoff 仿真器|

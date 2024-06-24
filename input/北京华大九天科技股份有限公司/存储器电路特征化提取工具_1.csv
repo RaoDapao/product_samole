@@ -1,0 +1,6 @@
+产品网址：https://www.empyrean.com.cn/products/eda/foundry/memory-characterization.html
+产品结构：当前位置：首页->EDA软件->晶圆制造EDA工具->存储器电路特征化提取工具
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|存储器电路特征化提取工具|Empyrean Liberal Mem|可以快速生成标准库文件和带有 LVF 格式的库文件，通过仿真局部偏差源并在整个电路中传播偏差效应来实现。独立于 SPICE 仿真器，可与流行的商用 SPICE 和 Fast SPICE 仿真器紧密集成，进行高性能高精度的存储器特征化建模。还支持内置电路分析和库质量验证功能，以保证库文件的准确。|

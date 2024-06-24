@@ -1,0 +1,17 @@
+-> root http://www.lichiwei.com
+  -> 首页 
+    -> 产品中心 
+      -> 电源驱动芯片 
+        -> AC-DC隔离高PF芯片 http://www.lichiwei.com/product.php
+        -> AC-DC隔离低PF芯片 http://www.lichiwei.com/product.php?id=7
+        -> AC-DC隔非离高PF芯片 http://www.lichiwei.com/product.php?id=8
+        -> AC-DC非隔离高PF芯片 http://www.lichiwei.com/product.php?id=9
+        -> 高压线性驱动芯片 http://www.lichiwei.com/product.php?id=10
+      -> 锂电池管理芯片 
+        -> 模拟前端采集芯片 http://www.lichiwei.com/product.php?id=18
+        -> 单节锂电池保护芯片 http://www.lichiwei.com/product.php?id=11
+        -> 多节锂电池保护芯片 http://www.lichiwei.com/product.php?id=12
+        -> 锂电池转干电池SOC http://www.lichiwei.com/product.php?id=13
+        -> 充电管理芯片 http://www.lichiwei.com/product.php?id=15
+      -> MOS 
+        -> MOS http://www.lichiwei.com/product.php?id=17

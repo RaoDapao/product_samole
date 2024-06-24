@@ -1,0 +1,10 @@
+产品网址：http://en.redpowersemi.com/products/igbt/73.html
+产品结构：root->W2Series-AnhuiRedPowerMicroelectronicsCo.,Ltd
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|IGBT Module|W2 Series|采用 Trench FS 技术，具有高 RBSOA 能力、低开关损耗、低 VCEsat，典型应用于电机驱动器、UPS 系统、逆变器|
+
+Part No.,Housing,Configuration,Voltage Class,Technology,Ic(com),VCE(sat),Dimensions
+RG25P12W2H4,EasyPIM 2,7 PACK,1200 V,Trench-FS,25 A,2.0,62.8*56.7*15.9 mm
+RG35P12W2H4,EasyPIM 2,7 PACK,1200 V,Trench-FS,35 A,1.9,62.8*56.7*15.9 mm

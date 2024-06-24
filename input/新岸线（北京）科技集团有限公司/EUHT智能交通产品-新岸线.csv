@@ -1,0 +1,7 @@
+产品网址：http://www.nufront.com/html/out/gongsichanpin/euhtzhinengjiaotongchanpin/index.html
+产品结构：root->EUHT智能交通产品-新岸线
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|EUHT 智能交通产品|EUHT 路侧基站 EBU|NPEC01R-01|尺寸：390mm×246mm×88mm<br>重量：＜10kg<br>防护等级：IP65<br>电源：220V/AC 或-48V/DC<br>功耗：30W<br>数据接口：千兆光纤/网口<br>工作频率：5150MHz～5850MHz 可配置<br>工作带宽：20/40MHz 可配置<br>发射功率：最大 18dBm 可配置<br>天线：支持外置双极化定向和全向天线<br>速度适用性：对开速度大于 360km/h<br>传输可靠性：＞99.999%<br>传输时延：＜5ms（端到端）<br>典型应用场景：智慧交通、车联网、无人驾驶|
+|EUHT 智能交通产品|EUHT 车载终端 EBOX|NPES01R-01|尺寸：135mm×99mm×19mm<br>重量：<1Kg<br>电源：7~16V DC<br>功耗：15W<br>工作频率：5150MHz～5925MHz 可配置<br>工作带宽：20/40MHz 可配置<br>天线：2x2MIMO<br>LAN 口：10/100M 自适应<br>典型应用场景：智慧交通、车联网、无人驾驶|

@@ -1,0 +1,23 @@
+产品网址：https://www.len-technology.com/en/products/dc-dc/dc-dc-details/ln10x63
+产品结构：root->LN10X63Q1-DCDC
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|DC-DC|LN10X63Q1|Automotive, 36V, 6A, Synchronous Step-Down Regulator|
+
+Operating voltage Min (V),3.5
+Operating voltage Max (V),60
+Output Voltage Range (V),adjustable from 1V to VIN
+Output current (A),Up to 3
+Synchronous (integrated highside and lowside mosfet),Yes
+Operating quiescent current (uA),24
+Shutdown quiescent current (uA),1.3
+Light load mode,PFM
+Fsw (KHz),200 to 2500
+EMI Performance,Spread Spectrum Reduces Peak Emissions
+Other functions,Enable pin；  Power Good Indicator；  Internal Compensation；  Adjustable Soft Start and Tracking Capability；  Synchronization to external clock：
+Protection,Accurate Peak and Valley Current Clamp；  Output short-circuit protection with hiccup mode；  Accurate Vin UVLO protection；  Over-temperature shuntdown and recovery；
+Package,TSSOP-EP16
+Rating,AEC-Q100 Grade1
+Operating junction temperature,-40 to 150
+Functional safety supported,Functional Safety Supported

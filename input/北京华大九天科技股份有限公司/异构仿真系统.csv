@@ -1,0 +1,6 @@
+产品网址：https://www.empyrean.com.cn/products/eda/analog-design/heterogeneous-spice-simulator.html
+产品结构：当前位置：首页->EDA软件->模拟电路设计全流程EDA工具系统->异构仿真系统
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|异构仿真系统|Empyrean ALPS-GT|通过技术创新，将传统的基于 CPU 的电路仿真工具拓展至更大算力的 CPU-GPU 异构系统中，根据 GPU 的架构特点，设计了适配的数据存储结构、矩阵求解算法以及高效的 CPU-GPU 任务调度算法。相比传统的基于 CPU 的电路仿真工具，性能进一步改善，极大地提升了超大规模电路的仿真验证效率，解决了先进工艺设计的仿真验证瓶颈。|

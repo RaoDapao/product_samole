@@ -1,0 +1,11 @@
+产品网址：https://www.longsys.com/products/solid-state-drive/commercial-sata-ssd/s435-s326-sata-ssd.html
+产品结构：root->-StorageProductsSolution–LongsysacquiredLEXAR&Foreseee
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|S435 SATA SSD|无|专为多通道视频监控（包括车载监控）市场设计，具有自开发的固件，在最多 24 个 1080P 高清视频录制设备的每个通道上性能大于 1MB/s，采用 LDPC 纠错技术，纠错能力是传统 BCH 技术的 2-3 倍，具有良好的抗震效果|
+
+Product Series,PN,NAND Flash,Capacity,Type,DRAM,Operating Temperature,Sequential Read Speed*,Sequential Write Speed*,Random Read Speed (IOPS)*,Random Write Speed (IOPS)*,Mean Time Between Failures (Hour)
+S435 SATA SSD,FS40C512G-01C7200,3D TLC,512GB,2.5inch,DRAM-less,0℃~70°C,540MB/s,420MB/s,41K,55K,1.5 million hours
+S435 SATA SSD,FS40C001T-01Y1800,3D TLC,1TB,2.5inch,DRAM-less,0℃~70°C,540MB/s,260MB/s,42K,55K,1.5 million hours
+S435 SATA SSD,FS40C002T-01Y1800,3D TLC,2TB,2.5inch,DRAM-less,0℃~70°C,540MB/s,510MB/s,46K,55K,1.5 million hours

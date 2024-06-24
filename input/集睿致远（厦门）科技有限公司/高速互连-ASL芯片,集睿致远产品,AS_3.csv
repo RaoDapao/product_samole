@@ -1,0 +1,6 @@
+产品网址：https://www.asl-tek.com/article/20/11.html
+产品结构：root->高速互连-ASL芯片,集睿致远产品,ASL显示系统,ASL传输配件,ASL主板相关,集成电路ASL,集睿,集睿致远,集睿致远科技有限公司官网
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|CS536x|CS536x|Type-C/DP1.4 到 HDMI2.0 的显示协议转换芯片，内部集成了 PD3.0 及 DSC decoder，并能按客户需求配置成不同的功能组合，是目前集成度与功耗最小的一颗芯片。产品主要特性：1. 业界最低功耗的 Type-C to HDMI2.0 4K60 产品（<300mW）；2. 集成 DSC1.2a decoder，不仅支持 2 lane 8.1G 的 source，也支持 2 lane 5.4G 输出 4K60 video；3. DSC 支持 RGB，YCbCr4:4:4，YCbCr4:2:2，Native YCbCr4:2:2，YCbCr4:2:0，实现 4K60 10 bit-per-color；4. Fail Safe Firmware Update。|

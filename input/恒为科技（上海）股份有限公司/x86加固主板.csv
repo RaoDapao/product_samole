@@ -1,0 +1,24 @@
+产品网址：https://www.embedway.com.cn/product/detail/359
+产品结构：智能系统平台->智能计算->主板->x86加固主板
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|x86 加固主板|RAT2500|基于 Xeon SP 平台设计开发，尺寸紧凑，全加固、宽温设计，适用于宽温、振动环境和深度受限的应用场景。主要配置包括双路 Xeon SP 处理器，板载 64GB 内存颗粒，支持 8 路 RDIMM 扩展，板载 4 路万兆，支持硬 RAID 扩展、XMC 模块扩展及支持配套 PCIe 扩展模块（FC HBA、PCIe SSD 等）|
+
+处理器,双路Intel Xeon Scalable Processors
+内存,板载4 通道DDR4 2400MHz ECC，容量64GB
+内存,"8 通道 DDR4 DIMM slots，支持2666/2400/2133MHz ECC DDR4 RDIMM, LRDIMM"
+扩展槽,1路XMC扩展槽（PCIe3.0x8），扩展显卡和RAID卡  1路PCIe3.0x8扩展槽  2路PCIe3.0x16信号通过高速连接器扩展  可扩展FC HBA卡、显卡、PCIe SSD等
+存储,1路M.2(PCIe/SATA)
+存储,10路SATA3.0（包括2路SATA3.0、2路miniSAS）
+存储,可扩展内置HBA卡（自定义）
+网络,4路10G Base-X，4路1000Base-T  1路BMC专用1000Base-T
+USB,4路USB3.0
+声音,1路2MO（Mic-in，Line-out）
+显示输出,1路VGA接口  1路COM接口
+IPMI,支持硬件监控：电压、温度，风扇控制  支持远程电源控制：开机，关机，重启  Serial-over-LAN (SOL)
+操作系统,Linux开源操作系统/Windows操作系统
+电源,标准ATX 24pin & 8pin，支持单12V供电
+尺寸,305mm x 290mm  （比EEB尺寸305mm×330mm小）
+散热,5路4pin风扇接口，PWM控制；
+环境,工作环境温度：-40 ~ 55ºC  存储环境温度：-50 ~ 85ºC

@@ -1,0 +1,133 @@
+产品网址：https://en.tiandy.com/index.php?s=/Home/Product/detail/id/329.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|K1000|TC-S3608|K1000 全功能 CMS 模块内置 K 系列服务器（K1000/K2000），英文 WEB 管理界面，最大 1000 个视频通道，支持访问 8 个硬盘，标配一个 4T 企业级硬盘，2 个 HDMI 解码输出，内置 Easy7 CMS V9.2.0 软件|
+
+Classification,Data Classification,Calculation Rule,K1000
+Data Capacity Index,Network bandwidth,Uplink bandwidth,1000
+Data Capacity Index,Number of points,1 point/server,1000
+Data Capacity Index,Number of encoding devices,,1000
+Data Capacity Index,Number of middleware servers,,600
+Data Capacity Index,Number of decoders,,50
+Data Capacity Index,Access point of the master control middleware,,1000
+Data Capacity Index,User number,The platform comes with 3 system users + supports adding more users,5003
+Data Capacity Index,Organization Area,,1000
+Data Capacity Index,Number of staff,,5000
+Data Capacity Index,Customer flow camera,,400
+Data Capacity Index,Car brake,,10
+Data Capacity Index,Self-developed PAD,"MQTT is installed with the master control service, but cannot be mixed with other pads",100
+Data Capacity Index,Door,,120
+Data Capacity Index,Face vehicle camera,,75
+Data Capacity Index,Duration,300,300
+Data Capacity Index,Years,1 year,0.25
+Data Capacity Index,Uplink bandwidth,,360
+Data Capacity Index,Downlink bandwidth,,360
+Data Capacity Index,Storage duration,Storage duration,91
+Data Capacity Index,Resident User,0.1 * total number of users,500
+Data Capacity Index,Number of PAD+ card readers,1/door,120
+Data Capacity Index,Number of vehicles,0.2/total number of people,1000
+Data Capacity Index,Face mount,0.5/total number of faces and vehicles,37.5
+Data Capacity Index,Vehicle bayonet,0.5/total number of faces and vehicles,37.5
+Data Capacity Index,Daily personnel entry and exit records,2 times/person/day,10000
+Data Capacity Index,Daily vehicle entry and exit records,1 time/car/day,1000
+Data Capacity Index,Face PAD Recording,4 times/day/total number of people,20000
+Data Capacity Index,Access controller events,Access control records,7
+Data Capacity Index,Face camera recording,130 times/day/face card slot,4875
+Data Capacity Index,Vehicle passing record,59 times/day/vehicle checkpoint,2213
+Data Capacity Index,Customer flow camera recording,45/passenger flow cameras,18000
+Data Capacity Index,alarm record,1/total number of devices,1000
+Data Capacity Index,Operation log,120 items/day/permanent user,0
+Data Capacity Index,Vehicle control alarm,Article/day,20
+Data Capacity Index,Map points,--indivual,1000
+Data Capacity Index,Native decoding performance (output resolution),,4
+Data Capacity Index,Video storage performance,2M/point,180
+Data Capacity Index,Video forwarding performance,2M/point,180
+Data Capacity Index,Target library,,100
+Data Capacity Index,Face recognition alarm,,75
+Plug-In,i5-8500 16G Soft Decoding,1080p/4096/H265,5
+Plug-In,i5-8500 16G Soft Decoding,720p/4096/H.265,8
+Plug-In,i5-8500 16G Soft Decoding,4CIF/1024/25/H.265,22
+Plug-In,i5-8500 16G Soft Decoding,8MP(3840*2160)/8192/H265,1
+Plug-In,i5-8500 16G Soft Decoding,1080p/4096/H.264,6
+Plug-In,i5-8500 16G Soft Decoding,720p/4096/H.264,12
+Plug-In,i5-8500 16G Soft Decoding,4CIF/1024/25/H.264,27
+Plug-In,Does not support hard decoding,-,-
+Plug-In,Intel i7-12700 16G NVIDA GeForce RTX 3050 OEM Soft Decoder,1080p/4096/H265,15
+Plug-In,Intel i7-12700 16G NVIDA GeForce RTX 3050 OEM Soft Decoder,4CIF/1024/H.265,49
+Plug-In,Intel i7-12700 16G NVIDA GeForce RTX 3050 OEM Soft Decoder,CIF/1024/H.265,104
+Plug-In,Intel i7-12700 16G NVIDA GeForce RTX 3050 OEM Soft Decoder,2K/4096/H.265,9
+Plug-In,Intel i7-12700 16G NVIDA GeForce RTX 3050 OEM Soft Decoder,1080p/4096/H.264,34
+Plug-In,Intel i7-12700 16G NVIDA GeForce RTX 3050 OEM Soft Decoder,4CIF/1024/H.264,128
+Plug-In,Intel i7-12700 16G NVIDA GeForce RTX 3050 OEM Soft Decoder,CIF/1024/H.264,256
+Plug-In,Intel i7-12700 16G NVIDA GeForce RTX 3050 OEM Soft Decoder,2K/4096/H.264,22
+No Plug-In,Client configuration i5-9500 16G video preview (using CPU for decoding) Google versions below 9.0 support this performance,Main stream/fixed bitrate/1080p/2048/25/H.265,4
+No Plug-In,Client configuration i5-9500 16G video preview (using CPU for decoding) Google versions below 9.0 support this performance,Main stream/fixed bitrate/720p/2048/25/H.265,8
+No Plug-In,Client configuration i5-9500 16G video preview (using CPU for decoding) Google versions below 9.0 support this performance,Main stream/fixed bitrate/1080p/2048/25/H.264,10
+No Plug-In,Client configuration i5-9500 16G video preview (using CPU for decoding) Google versions below 9.0 support this performance,Main stream/fixed bitrate/720p/2048/25/H.264,16
+No Plug-In,Client configuration i5-9500 16G video preview (using CPU for decoding) Google versions below 9.0 support this performance,Main stream/variable bit rate/1080p/2048/25/H.265,5
+No Plug-In,Client configuration i5-9500 16G video preview (using CPU for decoding) Google versions below 9.0 support this performance,Main stream/variable bit rate/720p/2048/25/H.265,10
+No Plug-In,Client configuration i5-9500 16G video preview (using CPU for decoding) Google versions below 9.0 support this performance,Main stream/variable bit rate/1080p/2048/25/H.264,12
+No Plug-In,Client configuration i5-9500 16G video preview (using CPU for decoding) Google versions below 9.0 support this performance,Main stream/variable bit rate/720p/2048/25/H.264,16
+No Plug-In,Client configuration i5-9500 16G video preview (using CPU for decoding) Google versions below 9.0 support this performance,Sub-stream/fixed bit rate/4CIF/2048/25/H.265,16
+No Plug-In,Client configuration i5-9500 16G video playback (using CPU for decoding),Main stream/fixed bitrate/1080p/2048/25/H.265,4
+No Plug-In,Client configuration i5-9500 16G video playback (using CPU for decoding),Main stream/fixed bitrate/720p/2048/25/H.265,8
+No Plug-In,Client configuration i5-9500 16G video playback (using CPU for decoding),Main stream/fixed bitrate/1080p/2048/25/H.264,10
+No Plug-In,Client configuration i5-9500 16G video playback (using CPU for decoding),Main stream/fixed bitrate/720p/2048/25/H.264,16
+No Plug-In,Client configuration i5-9500 16G video playback (using CPU for decoding),Main stream/variable bit rate/1080p/2048/25/H.265,5
+No Plug-In,Client configuration i5-9500 16G video playback (using CPU for decoding),Main stream/variable bit rate/720p/2048/25/H.265,10
+No Plug-In,Client configuration i5-9500 16G video playback (using CPU for decoding),Main stream/variable bit rate/1080p/2048/25/H.264,12
+No Plug-In,Client configuration i5-9500 16G video playback (using CPU for decoding),Main stream/variable bit rate/720p/2048/25/H.264,16
+No Plug-In,Client configuration i5-9500 16G video playback (using CPU for decoding),Sub-stream/fixed bit rate/4CIF/2048/25/H.265,16
+No Plug-In,Client configuration i5-9500 16GVideo Preview(Use CPU for decoding) Edge browser (version 107),Main stream/fixed bitrate/1080p/2048/25/H.265,1
+No Plug-In,Client configuration i5-9500 16GVideo Preview(Use CPU for decoding) Edge browser (version 107),Main stream/fixed bitrate/720p/2048/25/H.265,2
+No Plug-In,Client configuration i5-9500 16GVideo Preview(Use CPU for decoding) Edge browser (version 107),Main stream/fixed bitrate/1080p/2048/25/H.264,4
+No Plug-In,Client configuration i5-9500 16GVideo Preview(Use CPU for decoding) Edge browser (version 107),Main stream/fixed bitrate/720p/2048/25/H.264,7
+No Plug-In,Client configuration i5-9500 16GVideo Preview(Use CPU for decoding) Edge browser (version 107),Main stream/variable bit rate/1080p/2048/25/H.265,1
+No Plug-In,Client configuration i5-9500 16GVideo Preview(Use CPU for decoding) Edge browser (version 107),Main stream/variable bit rate/720p/2048/25/H.265,3
+No Plug-In,Client configuration i5-9500 16GVideo Preview(Use CPU for decoding) Edge browser (version 107),Main stream/variable bit rate/1080p/2048/25/H.264,10
+No Plug-In,Client configuration i5-9500 16GVideo Preview(Use CPU for decoding) Edge browser (version 107),Main stream/variable bit rate/720p/2048/25/H.264,16
+No Plug-In,Client configuration i5-9500 16GVideo Preview(Use CPU for decoding) Edge browser (version 107),Sub-stream/fixed bit rate/8MP/2048/25/H.265,5
+No Plug-In,Client configuration i5-9500 16G video playback (using CPU for decoding) Edge browser (version 107),Main stream/fixed bitrate/1080p/2048/25/H.265,1
+No Plug-In,Client configuration i5-9500 16G video playback (using CPU for decoding) Edge browser (version 107),Main stream/fixed bitrate/720p/2048/25/H.265,2
+No Plug-In,Client configuration i5-9500 16G video playback (using CPU for decoding) Edge browser (version 107),Main stream/fixed bitrate/1080p/2048/25/H.264,4
+No Plug-In,Client configuration i5-9500 16G video playback (using CPU for decoding) Edge browser (version 107),Main stream/fixed bitrate/720p/2048/25/H.264,7
+No Plug-In,Client configuration i5-9500 16G video playback (using CPU for decoding) Edge browser (version 107),Main stream/variable bit rate/1080p/2048/25/H.265,1
+No Plug-In,Client configuration i5-9500 16G video playback (using CPU for decoding) Edge browser (version 107),Main stream/variable bit rate/720p/2048/25/H.265,3
+No Plug-In,Client configuration i5-9500 16G video playback (using CPU for decoding) Edge browser (version 107),Main stream/variable bit rate/1080p/2048/25/H.264,10
+No Plug-In,Client configuration i5-9500 16G video playback (using CPU for decoding) Edge browser (version 107),Main stream/variable bit rate/720p/2048/25/H.264,16
+No Plug-In,Client configuration i5-9500 16G video playback (using CPU for decoding) Edge browser (version 107),Sub-stream/fixed bit rate/4CIF/2048/25/H.265,5
+Pressure performance index  (standard value),Simultaneous online users operate once every 30-60 seconds,Concurrent Online Users,50
+Pressure performance index  (standard value),"The continuous platform comes with 3 system users + supports adding S number of users to alarm concurrently (face/passing car (control alarm), event alarm and other data)",10 pieces/s,10
+Pressure performance index  (standard value),The continuous platform comes with 3 system users + supports adding users S/60 intervals*face pad,Face pad/duration,1.7
+Pressure performance index  (standard value),The continuous platform comes with 3 system users + supports adding users S/90 intervals* face vehicle checkpoints,Face and vehicle checkpoints/duration,0.8
+Pressure performance index  (standard value),Continuous platform comes with 3 system users + supports adding users S/100 intervals* passenger flow camera,Passenger flow camera/duration,4
+Pressure performance index  (standard value),The continuous platform comes with 3 system users + supports adding users in S/90 intervals* access control card reader and pad,Access card reader and pad//Duration,1.33
+Pressure performance index  (standard value),The continuous platform comes with 3 system users + supports adding users S/180 intervals*gate,Brake/Duration,0.06
+Pressure performance index  (standard value),Concurrent login users 6S login lasts 30 seconds each time,200 users,No permanent
+Pressure performance index  (standard value),An average of 45 seconds per operation,Concurrent Online Users,40
+Pressure performance index  (standard value),Number of alerts per second,15 pieces/s,15
+Pressure performance index  (standard value),Face pad image upload times per second,Face pad/duration,10.0
+Pressure performance index  (standard value),Number of reports per second from vehicle checkpoints with facial features,Face and vehicle checkpoints/duration,12.5
+Pressure performance index  (standard value),Number of reports per second from passenger flow cameras,Passenger flow camera/duration,8
+Pressure performance index  (standard value),Access control report number per second,Access card reader and pad//Duration,5
+Pressure performance index  (standard value),Number of brake reports per second,Brake/Duration,1
+Pressure performance index  (standard value),Number of concurrent users logging in per second,200 users,4
+File storage metrics,Lightweight file storage,"15M/S, 25 pictures/second","15M/S, 25 pictures/second"
+File storage metrics,Decoding performance,Local decoding supports 4-channel 1080P,4
+Historical data capacity indicators,Total number of log records,,1600000
+Historical data capacity indicators,Total number of alarm records,,4000000
+Historical data capacity indicators,Total number of entry and exit records,,800000
+Historical data capacity indicators,Total number of vehicle passing records,,160000
+Historical data capacity indicators,Non-motor vehicle passing record,,160000
+Historical data capacity indicators,Alarm control,,4000
+Historical data capacity indicators,Attendance data,,1600000
+Historical data capacity indicators,Total number of passenger flow camera records,,80000
+Historical data capacity indicators,Face alarm,,200000
+Historical data capacity indicators,Face capture,,400000
+Historical data capacity indicators,Total amount of data,,10000000
+
+
+Date,Title,Type
+2024-05-16,K1000 TC-S3608 Spec T-2U-V3.0,pdf

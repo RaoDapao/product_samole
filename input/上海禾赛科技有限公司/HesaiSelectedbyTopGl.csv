@@ -1,0 +1,18 @@
+产品网址：https://www.hesaitech.com/hesai-selected-by-top-global-automotive-oem-to-provide-adas-lidars-for-new-flagship-ev-models-series-production-program
+产品结构：root->HesaiSelectedbyTopGlobalAutomotiveOEMtoProvideADASLidarsForNewFlagshipEVModelsSeriesProductionProgram|HESAI
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Automotive Long-Range Lidar|AT128|无|
+|Automotive Short-Range Lidar|FT120|无|
+|Superior Precision, Cost-Effective Solution|XT32/XT32M/XT16|无|
+|360° Primary Lidar for Large-Scale Deployment|OT128|无|
+|All-Around Performance, 360° Coverage|Pandar128|Pandar128 具有 128 个通道，点速率为 3,456,000 pts/s（单回波）或 6,912,000 pts/s（双回波），水平分辨率为 0.1°（10Hz），范围为 200m@10%反射率，垂直分辨率在 0.125°时最佳|
+|All-Around Performance, 360° Coverage|Pandar64|Pandar64 具有 64 个通道，范围为 200m@10%反射率，垂直视场角为 40°（-25°~+15°），水平分辨率为 0.2°（10Hz）或 0.4°（20Hz），垂直分辨率在 0.167°时最佳|
+|All-Around Performance, 360° Coverage|Pandar40P|Pandar40P 具有 40 个通道，范围为 200m@10%反射率，垂直视场角为 40°（-25°~+15°），水平分辨率为 0.2°（10Hz）或 0.4°（20Hz），垂直分辨率在 0.33°时最佳|
+|All-Around Performance, 360° Coverage|Pandar40M|Pandar40M 具有 40 个通道，范围为 0.3~120m（10%反射率），垂直视场角为 40°（-25°~+15°），水平分辨率为 0.2°（10Hz）或 0.4°（20Hz），垂直分辨率在 0.33°时最佳|
+|Close Object Detection, Ultra-Wide View|QT128|QT128 具有 128 个通道，范围为 20m@10%反射率，垂直视场角为 105.2°（-52.6°~+52.6°），水平分辨率在 0.4°@10Hz 时最佳，垂直分辨率在 0.4°时最佳|
+|Close Object Detection, Ultra-Wide View|QT64|QT64 具有 64 个通道，范围为 20m（10%反射率），垂直视场角为 104.2°（-52.1°~+52.1°），水平分辨率为 0.6°，垂直分辨率在 1.45°时最佳|
+|Automotive Long-Range Lidar, Behind Windshield Installation|ET25|ET25 的范围（带挡风玻璃）为 225m@10%反射率，视场角为 120°（H）×25°（V），角分辨率（最佳）为 0.05°（H）×0.05°（V），尺寸（W×D×H）为 120×100×25mm，点速率>3,000,000pts/s，功耗为 12W|
+|Remote Methane Leak Detector|Handheld|Handheld 甲烷泄漏探测器的检测范围为 200m（82%漫反射率，15000ppm*m 甲烷气体浓度），灵敏度为 5（实际）ppm*m，测量精度为±10%（100~50000ppm*m），响应时间为 5ms，重量（带电池和瞄准器）为 0.76kg|
+|Remote Methane Leak Detector|Drone-Mounted|Drone-Mounted 甲烷泄漏探测器的检测范围为 400m（82%漫反射率，15000ppm*m 甲烷气体浓度），灵敏度为 5（实际）ppm*m，测量精度为±10%（100~50000ppm*m），响应时间为 5ms，重量<600g|

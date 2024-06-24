@@ -1,0 +1,37 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=88&ncid=91&deid=83
+产品结构：root->Huahuan_Products_NetworkManagementSystem_H18GL-G1600OLT
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|OLT|H18GL-G1600|提供 8 个下行 GPON 端口、8 个上行 GE 光端口和 8 个 GE 电端口，带有扩展插槽，可接入 2 个 10GE SFP+端口。1U 高度，易于安装和维护，节省空间。采用工业先进技术，具有强大的以太网服务和 QoS 功能，支持 SLA 和 DBA。分光比高达 1:128，支持不同网络中的不同类型 ONU，最大限度地减少运营商的投资。|
+
+Switching capacity,102Gbps
+Throughput (IPv4/IPv6),75.88MPPS
+Ports,"8*PON port, 8*GE FX+8*GE TX, 2*10GE SFP+, 1*Console"
+Power redundancy,"Dual power supply. Can be double AC, double DC or AC+DC"
+Power supply,AC: Input 100  ～  240V  ，  47  ～  63Hz  DC: Input -36V  ～  -75V
+Power consumption,≤85W
+Outline dimensions  (mm) (W*D*H),440mm×44mm×380mm
+Weight (in maximum configuration),≤3kg
+Environmental  requirements,Working temperature: -15  °  C  ～  55  °  C  Storage temperature: -40  °  C  ～  70  °  C  Relative humidity: 10%  ～  90%  ，  no condensing
+
+
+PON features,GPON,"Satisfy ITU -T standard  TR-101 compliant solution for FTTx OLT applications  High splitter rate, each PON port supports 128*ONU ,96*T-CONT  Maximum transmission distance of 20KM  Support uplink FEC, downlink FEC(Forward Error Correction)  ONU identifier authentication: SN /SN+PASSWD  Bandwidth allocation mechanism  5 types of T-CONT bandwidth  Static Bandwidth Allocation  Dynamic Bandwidth Allocation  GPON feature parameter  4096 port-IDs per GPON MAC (Downstream and Upstream)  1024 Alloc -IDs per GPON MAC (Upstream )"
+L2 features,MAC,MAC Black Hole  Port MAC Limit
+L2 features,VLAN,"4K VLAN entries  Port-based/MAC-based/IP subnet-based VLAN  Port-based QinQ and Selective QinQ (StackVLAN)  VLAN Swap and VLAN Remark and VLAN Translate  GVRP  Based on ONU service flow VLAN add, delete, replace"
+L2 features,Spanning tree protocol,IEEE 802.1D Spanning Tree Protocol (STP)  IEEE 802.1w Rapid Spanning Tree Protocol (RSTP)  IEEE 802.1s Multiple Spanning Tree Protocol instances (MSTP)
+L2 features,Port,Bi-directional bandwidth control  Static link aggregation and LACP(Link Aggregation Control Protocol)  Port mirroring and traffic mirroring
+Security features,User security,Anti-ARP-spoofing  Anti-ARP-flooding  IP Source Guard create IP+VLAN+MAC+Port binding  Port Isolation  MAC address binds to port and port MAC address filtration  IEEE 802.1x and AAA/Radius authentication  TACACS+ authentification  dhcp anti-attack flood attack automatic suppression  ONU isolation control
+Security features,Device security,"Anti-DOS attack(such as ARP  ，  Synflood, Smurf, ICMP attack), ARP detection, worm and Msblaster worm attack  SSHv2 Secure Shell  SNMP v3 encrypted management  Security IP login through Telnet  Hierarchical management and password protection of users"
+Security features,Network security,"User-based MAC and ARP traffic examination  Restrict ARP traffic of each user and force-out user with abnormal ARP traffic  Dynamic ARP table-based binding  Supports IP+VLAN+MAC+Port binding  L2 to L7 ACL flow filtration mechanism on the 80 bytes of the head of user-defined packet  Port-based broadcast/multicast suppression and auto-shutdown risk port  URPF to prevent IP address counterfeit and attack  DHCP Option82 and PPPoE+ upload user’s physical location  Plaintext authentication of OSPF, RIPv2 and MD5 cryptograph authentication"
+IP routing,IPv4,ARP Proxy  DHCP Relay  DHCP Server  Static route
+IP routing,IPv6,ICMPv6  ICMPv6 redirection  DHCPv6  ACLv6  Configured Tunnel  6to4 tunnel  IPv6 and IPv4 Tunnels
+Service features,ACL,"Standard and extended ACL  Time Range ACL  Packet filter providing filtering based on source/destination MAC address, source/destination IP address, port, protocol, VLAN, VLAN range, MAC address range, or invalid frame. System supports concurrent identification at most 50 service traffic  Support packet filtration of L2~L7 even deep to 80 bytes of IP packet head"
+Service features,QoS,"Rate-limit to packet sending/receiving speed of port or self-defined flow and provide general flow monitor and two-speed tri-color monitor of self-defined flow  Priority remark to port or self-defined flow and provide 802.1P, DSCP priority and Remark  CAR(Committed Access Rate), Traffic Shaping and flow statistics  Packet mirror and redirection of interface and self-defined flow  Super queue scheduler based on port and self-defined flow. Each port/ flow supports 8 priority queues and scheduler of SP, WRR and SP+WRR.  Congestion avoid mechanism, including Tail-Drop and WRED"
+Service features,Multicast,"IGMPv1/v2/v3  IGMPv1/v2/v3 Snooping  IGMP Filter  MVR and cross VLAN multicast copy  IGMP Fast leave  IGMP Proxy  PIM-SM/PIM-DM/PIM-SSM  PIM-SMv6, PIM-DMv6, PIM-SSMv6  MLDv2/MLDv2 Snooping"
+Service features,MPLS,NPLS LDP
+Reliability error test,Loop protection,EAPS and GERP (recover-time <50ms)<>  Loopback-detection
+Reliability error test,Link protection,FlexLink (recover-time <50ms)<>  RSTP/MSTP (recover-time <1s)<>  LACP (recover-time <10ms)<>  BFD
+Reliability error test,Device protection,VRRP host backup  Double fault-tolerant backup of host program and configuration files  1+1 power hot backup
+Maintenance,Network maintenance,Telnet-based statistics  RFC3176 sFlow  LLDP  802.3ah Ethernet OAM  RFC 3164 BSD syslog Protocol  Ping and Traceroute
+Maintenance,Device management,"Command-line interface  （  CLI  ）  , Console, Telnet and WEB configuration  System configuration with SNMPv1/v2/v3  RMON (Remote Monitoring)1/2/3/9 groups of MIB  NTP(Network Time Protocol)"

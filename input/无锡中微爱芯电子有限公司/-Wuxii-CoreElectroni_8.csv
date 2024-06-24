@@ -1,0 +1,26 @@
+产品网址：http://www.i-core.cn/en/product_list/128.html
+产品结构：root->-Wuxii-CoreElectronicsCo.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|车规级逻辑芯片|AiP74HC126-Q1|车规级-带三态控制的 4 路缓冲器|
+|车规级逻辑芯片|AiP74HC132-Q1|车规级-4 路 2 输入施密特与非门|
+|车规级逻辑芯片|AiP74LVC1G08-Q1|车规级-单路 2 输入与门|
+|车规级逻辑芯片|AiP74LVC1G11-Q1|车规级-单路 3 输入与门|
+|车规级逻辑芯片|AiP74LVC1G32-Q1|车规级-单路 2 输入或门|
+|车规级逻辑芯片|AiP74LVC1T45-Q1|车规级-双电源带三态控制的总线收发器|
+|车规级逻辑芯片|AiP74LVC2T45-Q1|车规级-双电源带三态控制的 2 路总线收发器|
+|车规级逻辑芯片|AiP74LVC8T245-Q1|车规级-双电源带三态控制的 8 路总线收发器|
+
+
+
+
+Unnamed: 0,Unnamed: 2,Unnamed: 3,Unnamed: 4
+AiP74HC126-Q1  Data sheet:  PDF,车规级-带三态控制的4路缓冲器,2~6V,SOP14
+AiP74HC132-Q1  Data sheet:  PDF,车规级-4路2输入施密特与非门,2~6V,TSSOP14
+AiP74LVC1G08-Q1  Data sheet:  PDF,车规级-单路2输入与门,1.65~5.5V,SOT353
+AiP74LVC1G11-Q1  Data sheet:  PDF,车规级-单路3输入与门,1.65~5.5V,SOT363
+AiP74LVC1G32-Q1  Data sheet:  PDF,车规级-单路2输入或门,1.65~5.5V,SOT23-5
+AiP74LVC1T45-Q1  Data sheet:  PDF,车规级-双电源带三态控制的总线收发器,1.2~5.5V,SOT363
+AiP74LVC2T45-Q1  Data sheet:  PDF,车规级-双电源带三态控制的2路总线收发器,1.2~5.5V,VSSOP8
+AiP74LVC8T245-Q1  Data sheet:  PDF,车规级-双电源带三态控制的8路总线收发器,1.2~5.5V,TSSOP24

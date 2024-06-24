@@ -1,0 +1,11 @@
+产品网址：https://www.axera-tech.com/Product/127.html
+产品结构：首页->产品中心->AX620Q
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|智能黑光视觉芯片|AX620Q|9.6T 混合精度算力、5M 黑光、超低功耗视觉处理。产品亮点：黑光 AI-ISP、集成 256MB 大内存、超低功耗、双摄、支持驱屏|
+
+CPU,双核A53,NPU,9.6Tops @int4，2.4Tops @int8
+ISP,5Mp / 4K,编解码格式,"H.264,H.265"
+视频编码,5Mp / 4K,视频解码,"1080p @60fps, H.264 only"
+Ethernet,支持单路RMII接口模式的以太网，内置百兆ePHY,视频输出,支持MIPI DSI

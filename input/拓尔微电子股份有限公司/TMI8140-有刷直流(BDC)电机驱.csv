@@ -1,0 +1,6 @@
+产品网址：https://www.toll-semi.com/products-motordriveQSt/334.html
+产品结构：root->TMI8140-有刷直流(BDC)电机驱动器-拓尔微
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|有刷直流(BDC)电机驱动器|TMI8140|H-Bridge DC Motor Driver，6.8V 到 40V 工作电源电压范围，低功耗待机模式，高输出电流能力，PWM 控制接口，Rdson(HS+LS)：45~50 mΩ，保护功能包括 VCC 欠压锁定(UVLO)、过流保护(OCP)、热关断(TSD)、短路保护(short to VM 或 short to GND)、集成快速停止功能，封装形式为 DFN5*6_15|

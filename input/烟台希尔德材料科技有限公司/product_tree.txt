@@ -1,0 +1,16 @@
+-> root http://www.poshing.cn
+  -> 首页 
+    -> 关于普兴 
+      -> 产品服务 http://www.poshing.cn/index.php?m=content&c=index&a=lists&catid=35
+        -> 4 英寸硅外延片 
+        -> 5 英寸硅外延片 
+        -> 6 英寸硅外延片 
+        -> 8 英寸硅外延片 
+        -> 4、6 英寸碳化硅外延片 
+      -> 资质荣誉 
+    -> 产品介绍 http://www.poshing.cn/index.php?m=content&c=index&a=lists&catid=8
+      -> 4英寸硅外延片 http://www.poshing.cn/index.php?m=content&c=index&a=lists&catid=29
+      -> 5英寸硅外延片 http://www.poshing.cn/index.php?m=content&c=index&a=lists&catid=69
+      -> 6英寸硅外延片 http://www.poshing.cn/index.php?m=content&c=index&a=lists&catid=71
+      -> 8英寸硅外延片 http://www.poshing.cn/index.php?m=content&c=index&a=lists&catid=72
+      -> 4、6英寸碳化硅外延片 http://www.poshing.cn/index.php?m=content&c=index&a=lists&catid=73

@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/en/products/analog_design_eda/PathInspectoren.html
+产品结构：root->PRIMARIUS-PathInspector
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|PathInspector|无|提供 TR 级关键路径跟踪和提取解决方案，具有全芯片模拟精度和极快的速度性能，采用行业验证的部分电路提取技术，可提取和分析关键路径的部分 SPICE 网表，包括来自 DSPF 的耦合效应，基于图形用户界面的用户友好环境，可访问第三方工具的 OpenAccess 原理图数据库|

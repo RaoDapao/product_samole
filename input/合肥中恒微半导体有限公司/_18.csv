@@ -1,0 +1,13 @@
+产品网址：https://www.zhmsemi.com/products/solar/solar_ev.html
+产品结构：root
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Solar EV|无|无|
+
+Configuration,V CES(V),IC(A),Product,VCE(sat)(V),VF(V),Product Status
+3-level,650,100,TLV100G07S1P,1.55,1.6,Available
+3-level,650,150,TLV150M07S1P2,1.55,1.6,Available
+3-level,650,150,TLV150M07S1P,1.55,1.6,Available
+3-level,650,100,TLV100M07S1P2,1.55,1.6,Available
+3-level,650,100,TLV100M07S1P,1.55,1.6,Available

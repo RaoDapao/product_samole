@@ -1,0 +1,29 @@
+产品网址：http://www.pinnaclemicrowave.com/work/work.aspx
+产品结构：位置：频岢微电子->产品中心
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|DRx|无|无|
+|TRx|无|无|
+|Duplexer|无|无|
+|DiFEM|无|无|
+|BareDie(Filter)|无|无|
+|LFEM|无|无|
+|WiFi|无|无|
+|GPS|无|无|
+
+ID,Category,Band,P/N,Process,Function,Size,Frequency,Insertion Loss(dB)
+1,DRx,Band1,PSB1R11AUDP1,SAW,Rx Filter,1109,2110 MHz – 2170 MHz,1.6
+2,DRx,Band2,PSB2R11AUDP1,SAW,Rx Filter,1109,1930 MHz – 1990 MHz,1.7
+3,DRx,Band3,PSB3R11AUDP1,SAW,Rx Filter,1109,1805 MHz – 1880 MHz,1.7
+4,DRx,Band4,PSB1R11AUDP1,SAW,Rx Filter,1109,2110 MHz – 2155 MHz,1.6
+5,DRx,Band5,PSB5R11AUDP2,SAW,Rx Filter,1109,869 MHz – 894 MHz,1.5
+6,DRx,Band7,PSB7R11AUDP1,SAW,Rx Filter,1109,2620 MHz – 2690 MHz,1.7
+7,DRx,Band8,PSB8R11AUDP2,SAW,Rx Filter,1109,925 MHz – 960 MHz,1.6
+8,DRx,Band12,PSB12R11AUDP1,SAW,Rx Filter,1109,729 MHz – 746 MHz,1.6
+9,DRx,Band17,PSB12R11AUDP1,SAW,Rx Filter,1109,734 MHz – 746 MHz,1.6
+10,DRx,Band20,PSB20R11AUDP2,SAW,Rx Filter,1109,791 MHz – 821 MHz,1.6
+11,DRx,Band25,PSB25R11AUDP1,SAW,Rx Filter,1109,1930 MHz – 1995 MHz,1.9
+12,DRx,Band26,PSB26R11AUDP1,SAW,Rx Filter,1109,859 MHz – 894 MHz,1.8
+13,DRx,Band28A,PSB28AR11AUDP1,SAW,Rx Filter,1109,758 MHz – 788 MHz,1.5
+14,DRx,Band28F,PSB28FR11AUDP1,SAW,Rx Filter,1109,758 MHz – 803 MHz,1.7

@@ -1,0 +1,6 @@
+产品网址：http://www.holychip.cn/en/products/list-279.html
+产品结构：Home->Product->ChargerPurposeMCU
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Charger Purpose MCU|无|支持 12+3,（1/4VDD、OP2 输出端、温度检测）,通道 12 位 ADC 检测；支持 14+3,（1/4VDD、OP2 输出端、温度检测）,通道 12 位 ADC 检测；支持 14+3（1/4VDD、温度检测）通道 12 位 ADC 检测；支持 5 个通道 12 位 ADC 检测；支持 8+3,（1/4VDD、OP2 输出端、温度检测）,通道 12 位 ADC 检测；2 个 12bit,DAC,0/1；16bit*3groups Timer；8bit*1 PWM；1 UART；工作温度-40°C~+85°C；Voltage 2.0V－5.5V；Package SOP16、SOP8、SSOP20、SSOP24|

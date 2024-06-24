@@ -1,0 +1,46 @@
+-> root http://www.gdetec.com
+  -> 首页 
+    -> 产品中心 
+      -> 单传动变频器 
+        -> 产品列表 http://www.gdetec.com/list/52.html
+          -> HF300 系列变频器 
+          -> HF500 系列变频器 
+          -> HF630N 系列变频器 
+          -> HF650N 系列变频器 
+          -> GF630N01 系列变频器 
+        -> 行业应用 http://www.gdetec.com/list/53.html
+      -> 多传动变频器 
+        -> 产品列表_1 http://www.gdetec.com/list/56.html
+          -> 多传动变频器 
+          -> 多传动变频器 
+        -> 行业应用_1 http://www.gdetec.com/list/57.html
+      -> 行业专机 
+        -> 产品列表_2 http://www.gdetec.com/list/54.html
+          -> 盾构机一体化专机 
+          -> 塔机一体化专机 
+          -> 施工升降一体机 
+        -> 行业应用_2 http://www.gdetec.com/list/55.html
+          -> 行业专机 
+    -> 新闻中心 
+    -> 服务支持 
+      -> 资料下载 
+        -> 产品样本 http://www.gdetec.com/list/43.html
+          -> 港迪 HF650N 系列变频器 
+          -> 港迪 HF630N 系列变频器 
+          -> 港迪 HF632N 系列施工升降一体机 
+          -> 港迪 GF630N 系列变频器 
+          -> 港迪 HF650 系列变频器 
+          -> 港迪 HF630 系列变频器 
+          -> 港迪 HF620 系列变频器 
+          -> 港迪 HF610 系列变频器 
+          -> 港迪 HF500 系列变频器 
+          -> 盾构行业变频器 
+        -> 2D-3D图 http://www.gdetec.com/index/download.html?id=748
+          -> HF600 变频器 
+          -> HF630N 变频器 
+          -> HF680N-4 多传动模块 
+          -> GF630N03 变频器 
+          -> MINI 变频器 
+          -> HF300 变频器 
+          -> 4045B 制动单元 
+          -> 4220B 制动单元 

@@ -1,0 +1,79 @@
+产品网址：https://korea.tiandy.com/index.php?s=/Home/Product/detail/id/573.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|2MP Mini Dome Camera|TC-C32PS|·Metal Housing<br>·Up to 1920x1080@25fps<br>·S+265/H.265/H.264<br>·Min. illumination Color: 0.002Lux@F1.6<br>·Smart IR, IR Range: 30m<br>·Audio I/O 1/1,Alarm I/O 1/1<br>·Support tripwire,perimeter<br>·Human/Vehicle Classification<br>·Built-in Mic, SD Card Solt<br>·Operating Conditions -40°~65°, 0~95% RH<br>·POE, IP67|
+
+Camera,Unnamed: 1
+Image Sensor,"1/2.8"" CMOS"
+Signal System,PAL/NTSC
+Min. Illumination,"Color: 0.002Lux@ (F1.6, AGC ON), B/W: 0Lux with IR"
+Shutter Time,"1s to 1/100,000s"
+Day & Night,Dual IR Cut Filter with Auto Switch
+Wide Dynamic Range,120dB
+Angle Adjustment,"pan: -30° to 30°, tilt: 0° to 75°, rotate: 0° to 360°"
+Lens,
+Lens Type,Fixed
+Focus,2.8mm/4mm
+Lens Mount,M12
+Aperture,"F1.6, Fixed"
+FOV,Horizontal field of view: 101.7°/85.2°  Vertical field of view: 57.4°/44.9°  Diagonal field of view: 114.2°/96.1°
+Illuminator,
+IR LEDs,2
+IR Range,Up to 30 m
+Wavelength,850nm
+White LEDs/Warmlights,
+Range,
+Compression Standard,
+Video Compression,S+265/H.265/H.264/Motion JPEG
+Video Bit Rate,32Kbps~8Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D/AAC_LC
+Audio Bit Rate,8K~48Kbps
+Image,
+Max. Resolution,1920×1080
+Main Stream,"PAL: 25fps  （  1920x1080,1280x720,640x480,704x576  ）"
+,"NTSC: 30fps  （  1920x1080,1280x720,640x480,704x480)"
+Sub Stream,"PAL: 25fps(704x576,704x288,352x288,640x360  ）"
+,"NTSC: 30fps(704x480,704x240,352x240,640x360  ）"
+Third Stream,"PAL: 25fps(704x576,704x288,352x288)"
+,"NTSC: 30fps(704x480,704x240,352x240)"
+Image Setting,"Saturation, brightness, contrast, sharpness, adjustable by client software or web browser"
+Image Enhancement,BLC/3D DNR/HLC
+ROI,8
+OSD,"16×16, 32×32, 48×48, 64×64, adaptable size, Letters Such as Week, Date, Time, Total 3 Regions"
+Picture Overlay,Yes
+Privace Mask,"Yes, 4 regions"
+Smart Defog,Yes
+Feature,
+Alarm Trigger,"Motion Detection, Mask Alarm, IP Address Conflict"
+Video Analytics,"Tripwire, Perimeter,Human/Vehicle Classification"
+Early Warning(EW),
+Network,
+ANR,"Yes, auto store video in SD card when NVR disconnected, and upload video to NVR when resumed connection (Only Support Tiandy ANR NVR)"
+Protocols,"HTTP,HTTPS,TCP/IP,UDP,UPnP,ICMP,IGMP,SNMP,DHCP,DNS,DDNS,Easy DDNS,NTP,SMTP,802.1X,QoS,IPv4,IPv6,PPPOE,SSH,Unicast,Multicast,RTCP,ARP"
+System Compatibility,"ONVIF (PROFILE S/T/G), SDK, CGI,Milestone,SRTP,RTMP,RTSP"
+Remote Connection,≤2
+Client,"Easy7, EasyLive Plus"
+Web Version,Web6
+Interface,
+Communication Interface,1 RJ45 10M/ 100M self adaptive Ethernet port
+Audio I/O,1/1
+Alarm I/O,1/1
+Speaker,
+Reset Button,Yes
+On-board storage,"Built-in MicroSD card slot, up to 512 GB"
+General,
+Web Client Language,17 languages  Simplified Chinese/English/Traditional Chinese/Spanish/Italian/Korean/Turkish/Russian/Thai/Polish/French/Dutch/Hebrew/Vietnamese/Arabic/German/Ukrainian
+Operating Conditions,"-40  ℃～  65  ℃  , 0  ～  95% RH"
+Power Supply,"DC 12V±25%, PoE (802.3af)"
+Power Consumption,MAX: 6.5W(12V) MAX: 8W(POE)
+Protection,IP67
+Heater,
+Dimensions,110×110x60mm
+Net Weight,0.4kg
+Gross Weight,0.5kg
+
+
+날짜,제목,유형
+2022-12-12,TC-C32PS Spec-I3-E-Y-M-H-2.8(4mm)-V4.2,pdf

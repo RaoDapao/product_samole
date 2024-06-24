@@ -1,0 +1,16 @@
+-> root http://www.xinrandianzi.com
+  -> 产品中心-无锡芯冉电子科技有限公司 http://www.xinrandianzi.com/cpzx
+    -> IGBT 单管 
+    -> IPM 
+    -> IGBT 模块 
+    -> IC 驱动 
+  -> IGBT单管-企业官网 http://www.xinrandianzi.com/productinfo/1311665.html
+  -> IPM-企业官网 http://www.xinrandianzi.com/productinfo/1311579.html
+  -> IGBT模块-企业官网 http://www.xinrandianzi.com/productinfo/1311572.html
+  -> IC驱动-企业官网 http://www.xinrandianzi.com/productinfo/1311575.html
+  -> 工业电机驱动-企业官网 http://www.xinrandianzi.com/newsinfo/2758376.html
+  -> 芯能IPM23全系列产品已通过UL155 http://www.xinrandianzi.com/newsinfo/5817698.html
+  -> 芯能半导体车规级单管产品发布-企业官网 http://www.xinrandianzi.com/newsinfo/4593181.html
+  -> IPM-企业官网_1 http://www.xinrandianzi.com/productinfo/1311579.html?templateId=1133605
+  -> IGBT单管-企业官网_1 http://www.xinrandianzi.com/productinfo/1311665.html#
+  -> IGBT模块-企业官网_1 http://www.xinrandianzi.com/productinfo/1311572.html#

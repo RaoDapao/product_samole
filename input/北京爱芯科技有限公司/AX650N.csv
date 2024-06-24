@@ -1,0 +1,11 @@
+产品网址：https://www.axera-tech.com/Product/125.html
+产品结构：首页->产品中心->AX650N
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|智能黑光视觉芯片|AX650N|72T 混合精度算力、原生支持 Transformer 智能处理平台。产品亮点：32 路视频解码/视频结构化处理、被动散热、支持低延时编解码、支持 HDMI 输出、支持 USB 3.0|
+
+CPU,八核A55,NPU,72.0Tops@int4，18.0Tops@int8
+ISP,8K @30fps,编解码格式,"H.264,H.265"
+视频编码,8K @30fps,视频解码,8K @60fps
+视频输出,"支持双路HDMI v2.0,支持4K@60fps",Ethernet,支持双路RGMII / RMII接口模式的以太网

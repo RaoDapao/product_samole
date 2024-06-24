@@ -1,0 +1,69 @@
+产品网址：https://www.primarius-tech.com/en/products/engineering_service.html
+产品结构：root->PRIMARIUS-DesignEnablementServices
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Fab EDA|无|无|
+|AMS Design EDA|无|无|
+|Digital Design EDA|无|无|
+|Testing Systems|无|无|
+|SPICE Model|无|无|
+|Baseband Modeling|BSIMProPlus|无|
+|RF Modeling|MeQLab|无|
+|Model Extraction Automation|SDEP|无|
+|Model QA|ME-Pro|无|
+|PDK|无|无|
+|PCell Development|PCellLab|无|
+|PDK Verification|PQLab|无|
+|Standard Cell|无|无|
+|Library Characterization|NanoCell|无|
+|Library Validation|LibWiz|无|
+|Design Environment|无|无|
+|Schematic Capture|NanoDesigner SE|无|
+|Layout Editor|NanoDesigner LS|无|
+|Interactive Physical Verification|NanoDesigner iV|无|
+|Design Optimization|NanoDesigner Optimizer|无|
+|Circuit Simulation|无|无|
+|SPICE Simulator|NanoSpice|无|
+|SPICE Simulator|NanoSpice X|无|
+|SPICE Simulator|NanoSpice Giga|无|
+|FastSPICE Simulator|NanoSpice Pro|无|
+|FastSPICE Simulator|NanoSpice Pro X|无|
+|Mixed Signal|NanoSpice MS|无|
+|Waveform Analysis|NanoWave|无|
+|Circuit Analysis|无|无|
+|Yield Analysis|NanoYield|无|
+|Signal Integrity|NanoSpice SI|无|
+|Critical Path Analysis|PathInspector|无|
+|Power Device Design Verification|PTM|无|
+|ESD Verification|ESDi|无|
+|Digital Simulation|VeriSim|无|
+|Standard Cell|无|无|
+|Library Characterization|NanoCell|无|
+|Library Validation|LibWiz|无|
+|Design & Verification|无|无|
+|Timing Analysis|TRASTA|无|
+|Floor Planning|NavisPro|无|
+|Signal Integrity Analysis|NanoSpice SI|无|
+|Power Design Analysis|PTM|无|
+|ESD Verification|ESDi|无|
+|Chip-to-Package Connectivity Verification|PadInspector|无|
+|Parametric Testing|无|无|
+|Semiconductor Parametric Analyzer|FS-Pro|无|
+|Noise Measurement|无|无|
+|Low Frequency Noise|9812DX|无|
+|Low Frequency Noise|9812E|无|
+|Low Frequency Noise|9813DXC|无|
+|AC Dynamic Noise|9812AC|无|
+|Wafer Testing|无|无|
+|Data Acquisition & Characterization|无|无|
+|SPICE Modeling|无|无|
+|Model Extraction & QA|无|无|
+|Testchip Design|无|无|
+|Testkey Design & Layout|无|无|
+|New Device|无|无|
+|New Device Solutions|无|无|
+|PDK Development|无|无|
+|Development & Verification|无|无|
+|IP Development|无|无|
+|Characterization & Development|无|无|

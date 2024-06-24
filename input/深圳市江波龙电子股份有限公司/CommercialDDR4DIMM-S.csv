@@ -1,0 +1,24 @@
+产品网址：https://www.longsys.com/products/memory-module/commercial-memory-module/commercial-ddr4-dimm.html
+产品结构：root->CommercialDDR4DIMM-StorageProductsSolution–LongsysacquiredLEXAR&Foreseee
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Commercial DDR4 DIMM|无|采用原厂战略 DRAM 颗粒，覆盖主流产品规格，质量可靠；边缘连接器的镀金工艺遵循行业主流标准；产品符合商业级产品标准，满足行业用户的不同需求，具有高稳定性、超低故障率和可靠的产品质量；为客户采购的核心材料提供完整的保留周期，引入和认证最新技术，并提供长达一年的 Last-Buy 机制|
+
+Product Series,PN,Capacity,Interface,Architecture,Data Rate,CL Value,Timing,Clock,Operating Voltage,Gold Fingers (Edge Connectors),Operating Temperature,Size
+DDR4,FD4AU3200CQGHC,16GB,UDIMM,1Rx8,3200Mbps,22,22-22-22-52,1600MHz,1.2V,"30u""",0℃~85℃,133.35×31.25×2.5mm
+DDR4,FD4AS3200CQGHC,16GB,SODIMM,1Rx8,3200Mbps,22,22-22-22-52,1600MHz,1.2V,"30u""",0℃~85℃,69.6×30×2.3mm
+DDR4,FD4AS3200CQGZZ,16GB,SODIMM,1Rx8,3200Mbps,22,22-22-22-52,1600MHz,1.2V,"30u""",0℃~85℃,69.6×30×2.6mm
+DDR4,FD4AU3200C8GHE,8GB,UDIMM,1Rx8,3200Mbps,22,22-22-22-52,1600MHz,1.2V,"30u""",0℃~85℃,133.35×31.25×2.5mm
+DDR4,FD4AU3200C8GXE,8GB,UDIMM,1Rx8,3200Mbps,22,22-22-22-52,1600MHz,1.2V,"30u""",0℃~85℃,133.35×31.25×2.5mm
+DDR4,FD4AU3200C8GXD,8GB,UDIMM,1Rx8,3200Mbps,22,22-22-22-52,1600MHz,1.2V,"30u""",0℃~85℃,133.35×31.25×2.5mm
+DDR4,FD4AS3200C8GHE,8GB,SODIMM,1Rx8,3200Mbps,22,22-22-22-52,1600MHz,1.2V,"30u""",0℃~85℃,69.6×30×2.3mm
+DDR4,FD4AS3200C8GXE,8GB,SODIMM,1Rx8,3200Mbps,22,22-22-22-52,1600MHz,1.2V,"30u""",0℃~85℃,69.6×30×2.3mm
+DDR4,FD4AS3200C8GXD,8GB,SODIMM,1Rx8,3200Mbps,22,22-22-22-52,1600MHz,1.2V,"30u""",0℃~85℃,69.6×30×2.3mm
+DDR4,FD4AS3200C8GZH,8GB,SODIMM,1Rx8,3200Mbps,22,22-22-22-52,1600MHz,1.2V,"30u""",0℃~85℃,69.6×30×2.6mm
+
+
+Number,Platform
+01,Intel
+02,AMD
+（  The product supports mainstream platforms and only part of it is shown here.  ）,（  The product supports mainstream platforms and only part of it is shown here.  ）

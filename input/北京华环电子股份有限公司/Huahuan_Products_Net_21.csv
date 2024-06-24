@@ -1,0 +1,25 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=86&ncid=87&deid=94
+产品结构：root->Huahuan_Products_NetworkManagementSystem_H16MUP-4G01Fiber-Optic/4GDual-routingProtector
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|fiber-optic/4G dual-routing protector|H16MUP-4G01|主要用于运营商的接入领域，实现以太网业务的上行接入。它集成了智能光收发器和移动 4G 无线网关的特点，满足光纤接入和 4G 无线接入的要求。支持通过传统有线光纤路由和 4G 无线路由进行双备份，即当光纤故障时，现有业务将通过运营商的 4G 网络恢复，从而避免短期内不修复光纤造成的损失，并提供更好的用户体验。|
+
+Type,Specification,Description
+100/1000Base-Fx  Interface,Interface specifications,"Comply with IEEE 802.3, IEEE 802.1q, IEEE 802.1p"
+100/1000Base-Fx  Interface,Interface rate,2 100/1000M FX
+100/1000Base-Fx  Interface,Working mode,"Auto-negotiation, 1000M full-duplex, 100M full-duplex"
+100/1000Base-Fx  Interface,Average output optical power,-10dBm~ -3dBm
+100/1000Base-Fx  Interface,Reception sensitivity,≤-23dBm (BER=1×10-10)
+100/1000Base-Fx  Interface,Minimum overload point,>-3dBm
+100/1000Base-Fx  Interface,Interface number,2 LAN interfaces
+100/1000Base-Tx Interface,Operation mode,"Auto-negotiation, 1000M full-duplex/half-duplex, 100M full-duplex/half-duplex, 10M full-duplex/ half-duplex"
+100/1000Base-Tx Interface,Interface rate,10/100/1000M
+100/1000Base-Tx Interface,Interface connector,RJ-45 socket
+100/1000Base-Tx Interface,Interface number,2 LAN interfaces and 1 WAN interface
+100/1000Base-Tx Interface,Frame length,Maximum 9720 bytes
+Chassis size,(  W×H×D),220mm×160mm×38mm
+Working Environment,Operation temperature,-5°C ~ 45°C
+Working Environment,Storage temperature,-25°C ~ 60°C
+Power,AC power supply,AC~220V (AC  100  V  ~240V  )
+Humidity,10-90%RH (non-condensing),10-90%RH (non-condensing)

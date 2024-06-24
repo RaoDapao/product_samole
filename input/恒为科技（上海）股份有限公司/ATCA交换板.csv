@@ -1,0 +1,67 @@
+产品网址：https://www.embedway.com.cn/product/detail/255
+产品结构：智能系统平台->智能计算->ATCA板卡->ATCA交换板
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|ATCA 交换板|SF1300|基于 ATCA 架构的标准千兆交换板，整板提供 64Gbps 交换容量。配备 OceanPark 平台软件，包含 ATCA 平台交换的基本功能，同时集成 ShMC 功能，符合 IPMI 2.0 标准，可兼作 ATCA 机箱管理模块。支持多种功能，如提供完善的底层支持、丰富的交换功能、完善的 CLI 操作管理界面、详细的二次开发接口、完善的系统维护能力、支持多用户访问、提供链路监控等可靠性机制等。|
+|ATCA 交换板|SF3600|基于 ATCA 架构的标准 10G/40G 交换板，整板提供 640Gbps 交换容量。配备 UNOS 交换软件，支持二层交换与三层路由功能，同时还提供灵活的 ACL 和访问安全性等功能。集成 ShMC 功能，符合 IPMI 2.0 标准，可兼作 ATCA 机箱管理模块。支持多种功能，如风暴抑制、VLAN 标记、MAC 地址表特征、链路聚合、STP、RSTP、MSTP 等链路环网保护、二层组播、三层功能、访问安全性、管理与维护等。|
+|ATCA 交换板|SF4800|基于 ATCA 架构的标准 40G/100G 交换板，整板提供 3.2Tbps 交换容量。配备 UNOS 交换软件，支持二层交换与三层路由功能。集成 ShMC 功能，符合 IPMI 2.0 标准，可兼作 ATCA 机箱管理模块。支持多种功能，如提供完善的底层支持、丰富的交换功能、完善的 CLI 操作管理界面、详细的二次开发接口、完善的系统维护能力、支持多用户访问、提供链路监控等可靠性机制等。|
+
+板卡规格,标准,ATCA 交换板 PICMG3.1
+板卡规格,尺寸,280mm x 322.5mm x 30.48mm
+板卡规格,重量,1.8KG
+背板,Fabric,20或24 x GE
+背板,Base,15 x GE，其中2路兼容FE至ShMC槽位
+前面板,业务交换,支持4个10GE接口（SFP+），可选4个GE接口（RJ45）
+前面板,管理接口,1个RJ45串口连接到IPMC及主控CPU  1个RJ45 Eth0管理网口到主控CPU  1个RJ45 Eth1管理网口到Base交换
+前面板,LED,支持OOS LED，Power LED，Status LED，Hotswap LED
+前面板,USB,主控CPU USB2.0接口
+平台管理,IPMI,板载IPMC，兼容PICMG 3.0/IPMI 2.0
+环境,工作温度,0 ~ 45ºC
+环境,存储温度,-40 ~ 70ºC
+环境,湿度,5% ~ 90%
+电源,类型,-48V 冗余
+电源,最大功率,100W
+电源,输入范围,36 ~ 75VDC
+规范,规范,CE Emission、FCC Class A
+规范,规范,RoHS Compliant
+
+
+板卡规格,标准,ATCA 交换板 PICMG3.1
+板卡规格,尺寸,280 mm x 322.5 mm x 30.48mm
+板卡规格,重量,2.3KG
+背板,Fabric,支持12 x 40G背板接口
+背板,Base,14 x GbE至Node槽位和ShMC槽位
+前面板,业务交换,支持24个10GE接口（SFP+）
+前面板,管理接口,1个RJ45串口连接到IPMC及主控CPU  1个RJ45 Eth0管理网口到主控CPU  1个RJ45 Eth1管理网口到Base交换
+前面板,LED,支持OOS LED，Power LED，Status LED，Hotswap LED和主备倒换LED
+前面板,USB,主控CPU USB2.0接口
+平台管理,IPMI,板载IPMC，兼容PICMG 3.0/IPMI 1.5
+交换参数,MAC Entries,128K
+交换参数,VLAN,4K
+交换参数,IP Table,16K IPv4 / 8K IPv6
+环境,工作温度,0 ~ 45ºC
+环境,存储温度,-40 ~ 70ºC
+环境,湿度,5% ~ 90%
+电源,类型,-48V 冗余
+电源,最大功率,120W
+电源,输入范围,36 ~ 75VDC
+
+
+板卡规格,标准,ATCA 交换板 PICMG 3.1
+板卡规格,尺寸,350.8mm x 317.5mm x 32.2mm
+板卡规格,重量,3.2KG
+背板,Fabric,支持14 x 100G背板接口
+背板,Base,14 x GbE至Node槽位和ShMC槽位
+背板,Zone3,支持8 x 100G接口
+前面板,业务交换,支持10个100GE接口（QSFP28）
+前面板,管理接口,1个RJ45串口连接到IPMC及主控CPU  1个RJ45 Eth0管理网口到主控CPU  1个RJ45 Eth1管理网口到Base交换
+前面板,LED,支持OOS LED，Power LED，Status LED，Hotswap LED和主备倒换LED
+前面板,USB,主控CPU USB2.0接口
+平台管理,IPMI,板载IPMC，兼容PICMG 3.0/IPMI 2.0
+环境,工作温度,0 ~ 45ºC
+环境,存放温度,-40 ~ 70ºC
+环境,湿度,5% ~ 90%
+电源,类型,-48V 冗余
+电源,最大功率,300W
+电源,输入范围,36 ~ 75VDC

@@ -1,0 +1,15 @@
+产品网址：https://en.taixin-semi.com/Product?prouctSubClass=42
+产品结构：root->珠海泰芯半导体有限公司-产品中心
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|电机驱动 MCU|TX8M2261|无|
+
+Add/Hide  Parameter List,Type,Encapsulated Type,Chip-Set,Max Speed  (MHz),Flash  (KB),RAM  (Byte),EEPROM  (Byte),GPIO,Working Voltage  (V),Temperature  （℃）,LED  （com*seg）,Advanced TM,GPTM,Watchdog,PWM,UART,SPI,IIC,ADC,DAC,ACMP,PGA,CRC,Code Encryption,LPM
+Total:  2  Match:  2,,LQFP32  SSOP24,,,,,,20  15,,,8*12  8*7,,,,,,,,20  15,,,3  2,,,200ua  200uA
+Compare,,,,,,,,,,,,,,,,,,,,,,,,,
+Add/Hide  Parameter List,Type,Encapsulated Type,Chip-Set,Max Speed  (MHz),Flash  (KB),RAM  (Byte),EEPROM  (Byte),GPIO,Working Voltage  (V),Temperature  （℃）,LED  （com*seg）,Advanced TM,GPTM,Watchdog,PWM,UART,SPI,IIC,ADC,DAC,ACMP,PGA,CRC,Code Encryption,LPM
+Total:  2  Match:  2,,LQFP32  SSOP24,8051,48,16,2048,128,20  15,2.4 ~ 5.5,-40 ~ 105,8*12  8*7,6*16bit,5*16bit,1,6,2,1,1,20  15,2,2,3  2,1,√,200ua  200uA
+Compare,,,,,,,,,,,,,,,,,,,,,,,,,
+,TX8M2261LQ32,LQFP32,8051,48,16,2048,128,20,2.4 ~ 5.5,-40 ~ 105,8*12,6*16bit,5*16bit,1,6,2,1,1,20,2,2,3,1,√,200ua
+,TX8M2261SS24,SSOP24,8051,48,16,2048,128,15,2.4 ~ 5.5,-40 ~ 105,8*7,6*16bit,5*16bit,1,6,2,1,1,15,2,2,2,1,√,200uA

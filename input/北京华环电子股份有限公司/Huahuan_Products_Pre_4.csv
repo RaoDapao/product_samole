@@ -1,0 +1,6 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=190&ncid=86
+产品结构：root->Huahuan_Products_PrecisionTimeProtocol(PTP)GrandmasterClock
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Fiber-Optic/4G Dual-routing Protector|H16MUP-4G01|主要用于运营商接入领域，实现以太网业务的上行接入。它集成了智能光收发器和移动 4G 无线网关的特点，满足光纤接入和 4G 无线接入的要求。支持通过传统有线光纤路由和 4G 无线路由进行双备份，即当光纤故障时，现有业务将通过运营商的 4G 恢复|

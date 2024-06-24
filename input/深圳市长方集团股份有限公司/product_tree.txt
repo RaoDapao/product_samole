@@ -1,0 +1,15 @@
+-> root http://www.cfled.com
+  -> 首页 
+    -> 产品中心 http://www.cfled.com/products.html
+      -> 现代简约客厅吊灯组合套餐 
+      -> 北欧灯具客厅简约现代吊灯 
+      -> 灯具客厅简约现代吊灯 
+      -> 北欧风格全屋灯具套餐组合 
+  -> ProductsHome 
+    -> Products http://www.cfled.com/products/category/mid/1.html
+      -> 全屋定制 
+      -> 客厅专区 
+      -> 卧室专区 
+      -> 厨卫专区 
+      -> 餐吊专区 
+      -> 英文产品测试 

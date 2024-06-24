@@ -1,0 +1,113 @@
+产品网址：https://korea.tiandy.com/index.php?s=/Home/Product/detail/id/498.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|PTZ 摄像机|TC-H3169M|16MP 全景 PTZ 摄像机，具有全景拍摄、自动跟踪预警、光学变焦、数字变焦、支持 3D 定位、激光测距、自动雨刮等功能|
+
+Camera,Unnamed: 1
+Image Sensor,"Panorama: 1/1.8"" CMOS,Detail: 1/1.8"" CMOS"
+Signal System,PAL/NTSC
+Min. Illumination,"Panorama: Color: 0.0004Lux@ (F1.0, AGC ON), BW: 0lux with IR"
+Shutter Time,"1s to 1/100,000s"
+Day & Night,IR Cut Filter with Auto Switch
+Optical Zoom,Detail: 63x
+Digital Zoom,Detail: 16x
+Lens,
+Focal Length,Panorama: 2.8mm; Detail: 5.7-359mm
+Zoom Speed,<5s
+Field of View,"Panorama: Horizontal: 180°, vertical: 85°  Detail:Horizontal: 60° (w)~1.5° (t), vertical:35° (w)-0.9°(t)"
+Aperture Range,Panorama: F1.0; Detail: F1.6 ~ F5.0
+Focus Control,Auto/Manual
+Iris Control,Auto
+Close Focus Distance,Detail:1 m–3 m
+Pan&Tilt,
+Pan Range,Detail: 0°~360°
+Pan Speed,"Panorama: Pan Manual Speed: 0.1°~200°/s°/s, Pan Preset Speed: 240°/s"
+Tilt Range,Detail: -21°-90° (Auto flip)
+Tilt Speed,"Detail:Pan Manual Speed: 0.1°~120°/s, Pan Preset Speed: 180°/s"
+3D Position,Yes
+Preset,500
+Preset Accuracy,±0.1°
+Cruise,"16, up to 32 presets per cruise"
+Scan,8
+Pattern,"8, each with 600s memory or 1000 orders"
+Scheduled Task,Preset、Cruise、Scan、Pattern、Alarm output
+Park Action,Yes
+Power-off Memory,Yes
+Preset Freezing,Yes
+Illuminator,
+IR LEDs,11
+IR Distance,Up to 300m
+IR Irradiation Angle,Adjustable by Zoom
+White LEDs,"2, support white/blue/red light flash"
+Laser,"6, Wavelength 850nm"
+Laser Distance,Up to 500m
+Compression Standard,
+Video Compression,S+265/H.265/H.264/M-JPEG
+Video Bit Rate,32Kbps~16Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D/AAC_LC
+Audio Sampling Rate,8K～48Kbps
+Image,
+Max. Resolution,Panorama: 5520x2400;Detail: 2560x1440
+Main Stream,"Panorama:  PAL:25fps(5520x2400,4096x1800,3840x1680,2784x1200)  NTSC:30fps(5520x2400,4096x1800,3840x1680,2784x1200)  Detail:  PAL:25fps(2560x1440,2304x1296,1920x1080,1280x720)  NTSC:30fps(2560x1440,2304x1296,1920x1080,1280x720)"
+Sub Stream,"Panorama:  PAL:25fps(2048x896,1280x560,704x320)  NTSC:30fps(2048x896,1280x560,704x320)  Detail:  PAL:25fps(704x576,704x288,352x288,640x360)  NTSC:30fps(704X480,704X240,352X240,640x360)"
+Third Stream,"Panorama:  PAL:25fps (1280x560)  NTSC:30fps (1280x560)  Detail:  PAL:25fps(704x576,704x288,352x288,640x480)  NTSC:30fps(704X480,704X240,352X240,640x480)"
+BLC,Yes
+HLC,Yes
+WDR,Panorama:Digtal;Detail: True WDR
+Image Stabilization,Yes
+Fog,Digita
+White Balance,Yes
+AGC,Yes
+Noise Reduction,2D/3D
+ROI,7 Dynamic Areas for Both Main and Sub Stream
+Picture Overlay,Yes
+Privacy Mask,Yes
+Smart Defog,Yes
+Image Setting,"Saturation, brightness, contrast, sharpness, adjustable by client software or web browser"
+Flip,Yes
+OSD,"Panorama: 16x16, 24x24,32x32, 48x48, 64x64, 96x96, 128x128, adaptable size, letters such as Week, Date, Time, Total 5 Region  Detail: 16*16/24*24/32*32/48*48/64*64/72*72/96*96, adaptable size, letters such as Week, Date, Time, Total 5 Region"
+Feature,
+Alarm Trigger,"Event Input, Event Output, Mask Alarm, Disk Full, Disk R/W Error, IP Address Conflict, MAC Address Conflict, FTP Server Exception"
+Video Analytics,"Panorama:Tripwire, Double Tripwire,Heatmap  Detail: Tripwire, Double Tripwire, Perimeter, Object Abandon, Object Lost, Loitering, Running, Parking, Heatmap, Crowd, People Counting, On Duty Detection, Video Abnormal, Audio Abnormal"
+Early Warning(EW),Yes
+Auto-Tracking,Yes
+Face Detection and Analytics,
+Operating Mode,"Face capture, intelligent monitoring"
+Face Detection Performance,Detects up to 32 faces at the same scene
+Face Exposure Brightness,"Default 35, 1~100 brightness optional"
+Min. Face Pixel,29~2560 optional
+Network,
+Protocols,TCP/UDP/HTTP/MULTICAST/UPnP/DHCP/PPPoE/DDNS/NFS/FTP/NTP/RTSP/IPv6/IPv4/SNMP/SMTP/RTMP/802.1X
+System Compatibility,"ONVIF (PROFILE S/T/G/M), SDK, CGI, P2P"
+ANR,"Auto store video in SD card when NVR disconnected, and upload video to NVR when resumed connection (Only Support Tiandy ANR NVR)"
+Remote Connection,≤7
+User/Host,Up to 32 users. 4 user levels
+Web Version,web6
+Interface,
+Communication Interface,1 RJ45 100M/1000M self adaptive Ethernet port
+Audio I/O,1/1
+Alarm I/O,8/2
+Built-In Speaker,Yes
+Reset Button,Yes
+On-board storage,"Built-in Micro SD card slot, up to 512 GB"
+RS-485,Yes
+BNC,Yes(Debugging use)
+Wiper,Yes
+Electronic Compass,Yes
+GPS/BDS,
+General,
+Protection,"IP66 , TVS 6000V lightning protection, surge protection and voltage transient protection"
+Web Client Language,17 languages  Simple Chinese/ Traditional Chinese/ English/ Spanish/ Korean/ Italian/ Turkish/ Russian/ Thai/French/ Polish/ Dutch/ Hebraism/ Arabic/ Vietnamese/ German/ Ukrainian
+Operating Conditions,"-40°C~70°C (IR OFF), -40°C~40°C (IR ON), 0-95%RH"
+Power Supply,DC36V±25%
+Power Consumption,76W MAX
+Heater,Yes
+Material,ADC 12
+Package/Boundary Dimensions,550mm(L)*470mm(W)*730mm(H) /358mm(L)*358mm(W)*568mm(H)
+Gross/Net Weight,21.7kg (14.8kg)
+
+
+날짜,제목,유형
+2022-11-08,TC-H3169M Spec 63XLWPAAR,pdf

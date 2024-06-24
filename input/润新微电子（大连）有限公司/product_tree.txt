@@ -1,0 +1,8 @@
+-> root http://www.runxinmicro.com
+  -> 润新微电子(大连)有限公司 https://www.runxinmicro.com/cpjj/index.html
+    -> 氮化镓 (GaN) 外延片 
+    -> 氮化镓 (GaN) 功率器件 
+    -> 氮化镓 (GaN) 器件应用 
+  -> 润新微电子(大连)有限公司_1 https://www.runxinmicro.com/product1/index.html
+  -> 润新微电子(大连)有限公司_2 https://www.runxinmicro.com/product2/index.html
+  -> 润新微电子(大连)有限公司_3 https://www.runxinmicro.com/product3/index.html

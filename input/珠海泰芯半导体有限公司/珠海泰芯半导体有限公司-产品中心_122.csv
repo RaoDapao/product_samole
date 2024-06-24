@@ -1,0 +1,14 @@
+产品网址：https://en.taixin-semi.com/Product?productClassId=38
+产品结构：root->珠海泰芯半导体有限公司-产品中心
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|无线 MCU|TX8W7010|无|
+
+Add/Hide  Parameter List,Type,Encapsulated Type,Chip-Set,Max Speed  (MHz),Flash  (KB),RAM  (Byte),EEPROM  (Byte),GPIO,Working Voltage  (V),Temperature  （℃）,Advanced TM,GPTM,Watchdog,PWM,UART,SPI,IIC,DAC,ACMP,CRC,LPM
+Total:  1  Match:  1,,,,,,,,,,,,,,,,,,,,,
+Compare,,,,,,,,,,,,,,,,,,,,,
+Add/Hide  Parameter List,Type,Encapsulated Type,Chip-Set,Max Speed  (MHz),Flash  (KB),RAM  (Byte),EEPROM  (Byte),GPIO,Working Voltage  (V),Temperature  （℃）,Advanced TM,GPTM,Watchdog,PWM,UART,SPI,IIC,DAC,ACMP,CRC,LPM
+Total:  1  Match:  1,,SOP16,8051,32,4,512,4*256,9,2.4 ~ 3.6,-40 ~ 85,2*16bit,1*8bit 1*16bit,1,4,2,1,1,2,2,√,5ua
+Compare,,,,,,,,,,,,,,,,,,,,,
+,TX8W7010SO16,SOP16,8051,32,4,512,4*256,9,2.4 ~ 3.6,-40 ~ 85,2*16bit,1*8bit 1*16bit,1,4,2,1,1,2,2,√,5ua

@@ -1,0 +1,6 @@
+产品网址：https://www.empyrean-tech.com/products/eda/flat-panel-display/model-extraction.html
+产品结构：root->ModelExtraction_CompleteSolutionforFlatPanelDisplayDesign_Product_EmpyreanTechnologyCo.,Ltd
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Model Extraction|Empyrean XModelFPD|是用于平板显示器的模型提取工具，支持 a-Si、LTPS、IGZO、OLED、Micro-LED、光电二极管的模型提取，可生成行业标准模型 RPI a-Si、RPI Poly-Si 或 Empyrean 专有的平板显示器紧凑模型，用于 SPICE 仿真，与 Empyrean 的 SPICE 仿真 Empyrean ALPSFPD 一起，可分析滞后和应力效应|

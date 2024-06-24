@@ -1,0 +1,59 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=49&scid=75&ncid=80&deid=88
+产品结构：root->Huahuan_Products_NetworkManagementSystem_H18EDD-0204P-8E1EthernetDemarcationDevice
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Ethernet Demarcation Device|H18EDD-0204P-8E1|在高性能 L2 交换服务的基础上，提供维护和部署的便利性、多业务支持、运营商级 OAM 管理、可靠的保护机制、QoS 策略、安全机制等服务优化措施，同时具有出色的可扩展性和可靠性。支持最新的运营商以太网属性，兼容 IEEE、ITU 和 MEF 标准。提供四个 GE 光口作为 NNI，两个 GE 电口作为 UNI 端口，八个 E1 业务接口和一个 FE 电口作为管理端口，CONSOLE 端口为 RS232。支持 UNI 的 10/100M/1000M 自动协商和 10/100M/1000M 全双工/半双工手动模式，AUTO-MDIX。支持 E1 和 V.35 服务在以太网链路上的电路仿真，SAToP 协议，MPLS、IP/UDP 和 MEF 封装。E1 和 V.35 接口时钟模式支持本地振荡器时钟、自适应时钟和端口环回时钟。支持 IEEE802.1Q VLAN、IEEE802.1ad VLAN。E1 接口符合 ITU-T G.703 建议，内置 BER 测试仪和环回测试功能。V.35 接口符合 ITU-T V.35/V.36 建议，支持帧模式和非帧模式，提供各种接口速率、接口模式和时钟选择。120Ω_E1 接口在 RJ-48C 中，可通过底板上的 DIP 开关和专有电缆转换为 75Ω 不平衡接口，实现阻抗匹配。具有缓存吸收功能、EFM、CFM、SLA 等运营商级 OAM 管理、STP/RSTP/MSTP、链路聚合、ELPS、ERPS、QoS 功能、接口保护、巨帧设置、流控制、DDM、MAC 地址转发控制、IEEE802.1X 认证、ACL、广播风暴抑制、远程带内监控管理、电源故障报警、EzView 网络管理、SNMP 和 CLI、NTP 和 RMON。可通过 TFTP 进行软件升级。|
+
+10/100/1000Base-Tx interface,10/100/1000Base-Tx interface.1
+Interface specifications,"complying with IEEE 802.1, IEEE-802.1u, IEEE 802.1Q, and IEEE 802.1p"
+Interface rate,10/100M/1000M
+Operation mode,"auto-negotiation, 1000M full-duplex, 1000M half-duplex, 100M full-duplex, 100M half-duplex, 10M full-duplex, 10M half-duplex"
+Interface connector,RJ-45 socket
+Interface number,3: 2 UNIs and 1 SNMP management port
+1000Base-Fx interface,1000Base-Fx interface
+Interface specifications,"complying with  IEEE 802.3  ,  IEEE-802.3z  ,  IEEE  802.1Q  ,  IEEE 802.1p  ,  IEEE802.1ad  ,  IEEE802.1d  ,  IEEE802.1w  ,  IEEE802.3ad  ,  IEEE802.3ah  ,  IEEE802.1ag  ,  Y1731"
+Interface rate,1000M
+Operation mode,auto-negotiation and  1000M  full-duplex
+Interface connector,SFP  socket
+Interface number,4
+Transmission wavelength and distance,Determined by optical module
+E1 interface,E1 interface
+Bit rate,2.048 Mbps ± 50ppm
+Line code,HDB3
+Point –to-point single added process delay( when set to minimum delay),≤ 10ms
+"Output frequency stability (adaptive timing, stable)",≤5ppm
+Output jitter (adaptive timing),≤0.1UI
+Connector,RJ-48C
+Impedance,"by default: 120Ω, 75Ω conversion can be achieved"
+Interface number,"0, 4, 8"
+Power voltage,Power voltage
+Voltage,DC -48V(-36V~-72V)  AC ~220V(AC100V~240V)
+Power consumption,Power consumption
+Power consumption,≤ 65W
+Operation environment,Operation environment
+Operation temperature,-5°C ~55°C
+Storage temperature,-40°C ~70°C
+Relative humidity,5%~85%RH (non-condensing)
+Chassis size,Chassis size
+Size,W×D×H (mm): 440×285×44
+Device weight,Device weight
+Weight,≤3kg
+
+
+Items,Standards and Protocols
+VLAN,"IEEE 802.1Q ,IEEE802.1ad"
+Link aggregation,"S-MAC,D-MAC,S-MAC and D-MAC,manual LAG and static LCAP modes."
+EPRS,"Single ring, intersecting rings and tangent ring"
+ELPS,"1:1 bidirectional switching, retentive and non-retentive modes"
+QoS,"Port speed limit,port mirroring,priority trust,flow classification,flow policy,priority mapping,queue scheduling"
+Flow control,"Half-duplex/full-duplex, back pressure and IEEE802.1x"
+DDM,Analyzing monitoring data of optical module
+EFM,IEEE 802.3ah
+CFM,"Continuity check function,LB,LT"
+LLDP,IEEE 802.1ab
+ACL,"Based on port, IP ACL and MAC ACL"
+Storm suppression,"Unkown unicast flow, unkown multicast flow and broadcast flow"
+RMON,Established by IETF(internet engineering task force)
+DHCP,Client/server model
+NTP,"Support NTP client mode,can synchronize time with NTP server."

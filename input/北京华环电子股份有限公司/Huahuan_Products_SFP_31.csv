@@ -1,0 +1,68 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=48&scid=75&ncid=78&deid=90
+产品结构：root->Huahuan_Products_SFP/SFP+/xWDM/PONOpticalModule_H18EDD-0402PEthernetDemarcationdeviceSeries
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Ethernet Demarcation device|H18EDD-0402P|提供高性能 L2 交换服务，具备维护和部署的便利性、多业务支持、运营商级 OAM 管理、可靠的保护机制、QoS 策略、安全机制等服务优化措施，同时具有出色的可扩展性和可靠性。支持 E1、V.35 等业务接口，支持最新的运营商以太网属性，兼容 IEEE、ITU 和 MEF 标准。|
+
+Device number,GE optical ports,GE electrical ports,E1 interfaces,V35 interfaces,Power supply
+H18EDD-0402P-4E1,2,4,4,-,AC220V
+H18EDD-0402P-8E1,2,4,8,-,AC220V
+H18EDD-0402P-8E1V,2,4,8,1,AC220V
+H18EDD-0402P-8E1/D,2,4,8,-,AC220V+DC-48V
+H18EDD-0402P-8E1V/D,2,4,8,1,AC220V+DC-48V
+
+
+Item,Descriptions
+VLAN,"IEEE 802.1Q , IEEE802.1ad"
+STP/RSTP/MSTP,"Point to point mode(if port configured with ERPS, then STP is unavailable )"
+Link aggregation,"S-MAC,D-MAC and D-MAC"
+ERPS,Only NNI ports
+CES service,Adaptive timing and loopback timing
+Loopback detection,Block the channel once circled
+QoS,"Port limited speed, port mirroring, priority trust, flow class, flow strategy, priority mapping, queue scheduling"
+Interface protection,
+Flow control,Backpressure under half-duplex mode; IEEE802.3x under full-duplex mode
+DDM,Real time monitoring
+EFM,IEEE 802.3ah(active and passive mode)
+CFM,"Actively judge faults for EVC, including CC (Continuity Check), LB (Loop Back) and LT (Link Trace)."
+SLA,Real time for network capacity statistics
+ELPS,Supporting 1:1 double switching
+LLDP,"Link Layer Discovery Protocol, NM can rapidly master second network topology and changes through it."
+MAC address transmitting control,Maximum 4096 IDs
+802.1x authentication,Port based network access protocol
+ACL,"Access Control List, including IP ACL and MAC ACL"
+Strom control,
+LFP,Link Fault Pass
+
+
+10/100/1000 Base-Tx port,10/100/1000 Base-Tx port.1
+Port standards,IEEE 802.3/IEEE 802.3u/ IEEE 802.1Q/ IEEE802.1p
+Port speed,10/100M/1000M
+Mode,"Auto-aggregation, 1000M full-duplex/ half-duplex, 100M full-duplex/ half-duplex, 10M full-duplex/half-duplex."
+Interface connector,RJ-45
+Port number,"5, 4 UNI ports and 1 SNMP NM port"
+100/1000Base-Fx port,100/1000Base-Fx port
+Port standards,IEEE 802.3/IEEE 802.3z/ IEEE 802.3Q/ IEEE 802.1p/ IEEE 802.1ad/ IEEE 802.1d/ IEEE 802.1w/ IEEE 802.3ad/ IEEE 802.3ah/ IEEE 802.1ag/Y1731
+Port speed,100/1000M
+Working mode,"Auto-aggregation,1000M/100M full-duplex"
+Interface connector,SFP socket
+Port number,2
+Transmitting wavelength and distance,Up to SFP
+E1 port,E1 port
+Bit rate,2.048Mbps  ±  50ppm
+Circuit coding,HDB3
+Point to point single route extra handling delay time,Minimum  ≤  10ms
+Output frequency stability,≤5ppm
+Output jitter,≤0.1UI
+Connector,RJ-48C
+Resistance,"Default 120  Ω  , switched to 75Ωavailable"
+Port number,8
+Power Supply,Power Supply
+Voltage,DC -48V(-36V~-72V)  AC ~220v(AC 100V~240V)
+Power consumption,Power consumption
+Power consumption,≤65W
+Environment,Environment
+Working temperature,-5ºC ~55ºC
+Storage temperature,-40ºC ~70ºC
+Relative humidity,5%~85%(non-condensing)

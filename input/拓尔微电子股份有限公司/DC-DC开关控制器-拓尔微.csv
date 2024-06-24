@@ -1,0 +1,11 @@
+产品网址：https://www.toll-semi.com/products-pmu-controller
+产品结构：root->DC/DC开关控制器-拓尔微
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|DC/DC 开关控制器|TMI3451|Wide Input Range Synchronous Buck Controller|
+|DC/DC 开关控制器|TMI5810|TMI5810 High Efficiency, Synchronous, Bi-directional Buck-Boost Charger|
+|DC/DC 开关控制器|TMI5700|Wide Input Range Synchronous Buck-Boost Controller With I2C Interface|
+|DC/DC 开关控制器|TMI3455|Wide Input Range Synchronous Buck Controller With I2C & Load Switch Driver Control|
+|DC/DC 开关控制器|TMI3450|Wide Input Range Step-Down Synchronous DC/DC Controller|
+|DC/DC 开关控制器|IM5200|Wide Input Range Synchronous Buck Controller With Bypass Mode|

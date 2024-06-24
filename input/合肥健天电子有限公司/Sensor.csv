@@ -1,0 +1,26 @@
+产品网址：http://www.genvic.com/en/product/alot.html
+产品结构：Location->Home->Product->Sensor
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|光纤生命体征传感器|无|将高精度光纤传感器嵌入枕头和床垫，检测人体休息状态下呼吸和心跳引起的微弱振动，通过原始算法提取睡眠过程中的生命体征数据|
+|光纤柔性弯曲传感器|无|当光纤柔性弯曲传感器变形时，传感器内部传输的光强会发生变化，由接收模块采集处理，满足可穿戴设备、机器人等应用中弯曲角度或弯曲曲率检测的要求|
+
+Performance,Optical fiber sensing,Piezoelectric sensor
+precision,Senior and medical,Low
+Weight/static force perception,unique,NO
+With or without radiation,No,Yes
+Contact with the skin,NO,NO
+Thickness,3-5mm,0.5mm
+Price/unit area,Very low,High
+anti-interference,strong,weak
+Detection pressure distribution,Yes,NO
+
+
+The principle of,Resistive,Optical fiber
+On behalf of the enterprise,The United States SpectraSymbol、Flexpiont,GENVIC
+Measuring range,30º−180º，There are dead zone,-180º−+180º，No dead zone measured
+Measurement error,5º−30º，Not sure,≈0.05º
+Bend the life,Hundreds of thousands of times,Hundreds of thousands of times
+To identify the direction,No,Yes
+Repeatability difference,Big,Small

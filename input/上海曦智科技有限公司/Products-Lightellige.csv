@@ -1,0 +1,6 @@
+产品网址：https://www.lightelligence.ai/index.php/product/pace-photonic-arithmetic-computing-engine-ai.html
+产品结构：root->Products-Lightelligence
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|PACE|无|是 Lightelligence 的第一个完全集成的光子计算平台，核心是一个 64x64 光学矩阵乘法器，在集成硅光子芯片和 CMOS 微电子芯片中倒装芯片封装在一起。除了先进的 3D 封装，PACE 的光子芯片包含超过 12,000 个离散光子器件，系统时钟为 1GHz。具有强大的并行能力、超低延迟、能源效率高、成本低和工艺要求低等特点。可应用于生物信息学、路线规划、材料研发等领域，为这些领域提供高效的计算能力。|

@@ -1,0 +1,14 @@
+产品网址：https://www.sensylink.com/html/web//product/szjqic/gpiokz/index.html
+产品结构：首页->产品中心->数字接口IC->GPIO扩展
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|GPIO 扩展|CA9536|通用 I/O 扩展器，通过 I2C 总线接口为主机（CPU/MCU）提供远程 I/O 扩展|
+|GPIO 扩展|CA9534|低电压 8 位 I2C/SMBus I/O 扩展器，具有中断输出和配置功能|
+|GPIO 扩展|CA9538|低电压 8 位 I2C/SMBus I/O 扩展器，具有中断输出、复位和配置功能|
+|GPIO 扩展|CA9554|低电压 8 位 I2C/SMBus I/O 扩展器，具有中断输出、输入 I/O 内部上拉和配置功能|
+|GPIO 扩展|CA9554A|低电压 8 位 I2C/SMBus I/O 扩展器，具有中断输出、输入 I/O 内部上拉和配置功能|
+|GPIO 扩展|CA9557|低电压 8 位 I2C/SMBus I/O 扩展器，具有复位和配置功能|
+|GPIO 扩展|CA9535|低电压 16 位 I2C/SMBus I/O 扩展器，具有中断输出和配置功能|
+|GPIO 扩展|CA9555|低电压 16 位 I2C/SMBus I/O 扩展器，具有中断输出、输入 I/O 内部上拉和配置功能|
+|GPIO 扩展|CA6408|低电压 8 位 I2C/SMBus I/O 扩展器，具有中断输出、复位、电压电平转换和配置功能|

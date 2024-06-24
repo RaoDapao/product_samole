@@ -1,0 +1,36 @@
+产品网址：https://www.eta-semi.com/product-cat/dc-dc%e5%8a%9f%e7%8e%87%e8%bd%ac%e6%8d%a2%e5%99%a8/%e5%8d%87%e5%8e%8b%ef%bc%88boost%ef%bc%89%e7%a8%b3%e5%8e%8b%e5%99%a8
+产品结构：首页->DC-DC功率转换器->升压（Boost）稳压器
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|升压（Boost）稳压器|无|无|
+
+Description,Architecture,Vin Min(V),Vin Max(V),Vout Min(V),Vout Max(V)
+30V/50mA LED Driver,Sync.True-shutoff,2.7,6.0,Vin,28
+30V/50mA LED Driver,Sync.True-shutoff,2.7,6.0,Vin,28
+Boost for TFT,Non-Sync.,2.7,6.0,Vin,36
+22V/2A Non-Sync. Boost,Non-Sync.,2.5,6.0,Vin,20
+22V/2A Non-Sync. Boost,Non-Sync.,2.5,6.0,Vin,20
+Boost for TFT bias and LED driver,Non-Sync.,2.7,6.0,Vin,31
+22V/2A Non-Sync. Boost,Non-Sync.,2.7,6.0,Vin,20
+9V/3.5A Sync. Boost,Sync.True-shutoff,3.1,9.5,3.6,12.6
+9V/3A Sync. Boost,Sync.True-shutoff,2.7,12.0,3.6,12
+5V/1.5A Sync. Boost,Sync.True-shutoff,1.8,4.5,5,5
+Fixed 5.4V Vout Sync. Boost,Sync.True-shutoff,2.5,5.25,5.4,5.4
+Fixed 5.4V Vout Sync. Boost,Sync.True-shutoff,2.5,5.25,5.4,5.4
+5V/3A Sync. Boost,Sync.True-shutoff,1.8,5.5,1.8,5
+5V/3A Forced PWM Sync. Boost,Sync.True-shutoff,1.8/3.1,5.5,1.8/3.1,5
+5V/3A Sync. Boost,Sync.True-shutoff,1.8/3.1,5.5,1.8/3.1,5
+5V High Current Sync. Boost,Sync.True-shutoff,1.8/3.1,5.5,1.8/3.1,5
+"1.2uA Iq,>3W output",Sync.True-shutoff,0.75,5.5,0.94,5
+Boost with 12V LDO,Sync.True-shutoff,1.8,12.0,3,13
+Boost with 12V LDO,Sync.True-shutoff,1.8,12.0,3,13
+"1uA Iq,>2W output",Sync.True-shutoff,0.55,5.0,1.11,5
+"1.2uA Iq,>2W output",Sync.True-shutoff,0.6,5.0,3.3/5,3.3/5
+"1uA Iq,>2W output",Sync.True-shutoff,0.55,5.0,1.11,5
+"1.2uA Iq,>2W output",Sync.True-shutoff,0.6,5.0,1.11,5
+14V/100mA Sync. Boost,Sync.True-shutoff,2.5,6.5,3,14
+5V/1.5A Sync. Boost,Sync.True-shutoff,1.8,4.5,5,5
+5V/1.5A Sync. Boost,Sync.True-shutoff,1.8,4.5,1.8,5
+Fixed Vout Sync. Boost,Sync.True-shutoff,0.6,4.5,2.1,5
+Fixed 5V Vout Sync.Boost,Sync.True-shutoff,2.5,5.25,5,5

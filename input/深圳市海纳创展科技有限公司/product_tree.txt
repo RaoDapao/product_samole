@@ -1,0 +1,13 @@
+-> root https://www.szhaina.com
+  -> 首页 
+    -> 产品中心 
+      -> 分立器件 
+        -> 二极管 
+          -> 稳压二极管 https://www.szhaina.com/index.php?m=index&a=content&cid=98
+  -> 深圳市海纳创展科技有限公司 https://www.szhaina.com/index.php?m=index&a=index&cid=98
+    -> 隔离电流采样运放 
+    -> 碳化硅肖特基二极管 
+    -> 绝缘栅双极晶体管 
+    -> 光耦兼容单通道隔离式栅极驱动 
+    -> 高可靠性隔离式 CAN 收发器 
+    -> 碳化硅 MOSFET 

@@ -1,0 +1,27 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=190&scid=38&ncid=195&deid=199
+产品结构：root->Huahuan_Products_PrecisionTimeProtocol(PTP)GrandmasterClock_H9MO-LMXE.VXSDH&MPLS&PCMHybridMultiplexer
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Precision Time Protocol (PTP) Grandmaster Clock|无|无|
+
+Cross-connection Capacity,High Order: 384*384 VC4s  Low Order: 8568*8568 VC12s
+Cross-connection mode,"Bidirectional, Unidirectional, Multicast/ broadcast and loopback"
+Packet Switching Capacity,100Gbps
+High Light Features,"ü  Comply to both SDH Standards and MPLS-TP Standards  ü  Both STM-64 and 10 Gigabit Ethernet interface supported  ü  Carrier-class OAM, IEEE 802.3ah, 802.1ag, ITU-T Y.1731 supported  ü  Full redundancy design, including power supply, cross-connection matrixes, Ethernet switching cores  ü  E1/ STM-1 Pseudo Wire Emulation Edge to Edge supported  ü  E-Line, E-Tree, and E-LAN supported  ü  SNMP, in-band/ out-band management supported  ü  Sync-E supported"
+
+
+Index,Index.1,Performance Parameter
+SDH Uplink Interface (NNI),Uplink,STM-1/ STM-4/ STM-16/ STM-6  4
+SDH Uplink Interface (NNI),Connector,LC/ PC or SC/ PC or FC/ PC
+SDH Uplink Interface (NNI),Spec.,"S1.1, S1.2, L1.1, L1.2, S4.1, S4.2, L4.1, L4.2, S16.1, S16.2, L16.1, L16.2, S64.1, S64.2, L64.1, L64.2"
+SDH Uplink Interface (NNI),Spec.,Dual/ Single fiber bi-directional interface are optional
+Ethernet Uplink Interface (NNI),Uplink Capacity,GE/ 10GE interfaces (1+1 Redundancy)
+Ethernet Uplink Interface (NNI),Connector,SFP/ SFP + Optical Module
+Management,Interface,10/ 100 Base-T (can be cascaded)
+EOW interface,EOW interface,Standard socket RJ11
+Physical Dimension(H/D/W),Physical Dimension(H/D/W),4U: 176 × 255 × 440 (mm)
+Power,Supply,AC and DC dual power supply
+Power,Consumption,≤160W
+Environment,Temperature,-10°C~50°C
+Environment,Humidity,≤90 %(non-condensing)

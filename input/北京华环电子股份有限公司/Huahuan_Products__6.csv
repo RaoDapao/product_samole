@@ -1,0 +1,9 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product&fid=2&ccid=42
+产品结构：Location：Home->Products->ProtocolConverter->Huahuan_Products_
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|V.35/E1 Converter|H0FL-0135|H0FL-0135 V.35/E1 转换器通过 E1 网络传输 V.35 数据，广泛用于路由器互连、DDN 接入以及远程局域网连接，可为数据通信平台提供简单、高效、经济且高可靠的最佳解决方案|
+|EoPDH Converter Series|无|EoPDH 转换器系列是具有成本效益的智能转换器，可通过 E1 通道连接快速以太网局域网，采用标准 GFP 封装协议，使服务提供商和 ISP 能够提供透明的以太网服务，而不会干扰用户流量。除了点对点应用外，该设备还可以与办公设备 H0FL-P 配合使用，作为具有 16 个服务方向的终端设备|
+|Converter Rack|H0FL-P.V5|H0FL-P.V5 接口转换器机架设计用于在一个标准机架中聚合多个 E1/FE/GE/V.35 端口，具有高集成度和更好的管理优势。它是 3U 高、19 英寸标准机架类型，用于中心侧，支持多达 16 个接口转换卡。它支持以太网接入、协议转换器、媒体转换器、PDH 复用器等模块|
+|Compact Converter Rack|H0FL-H0B/H0FL-2P/H0FL-5P|H0FL-H0B/H0FL-2P/H0FL-5P 紧凑型接口转换器机箱是 1U 高的转换器机箱，具有 1 个 NM 插槽和 1/2/5 个通用插槽，支持以太网接入、协议转换器、媒体转换器、PDH 复用器等模块，与 H0FL-P.V5 卡兼容。所有服务卡都是即插即用卡，支持热插拔和集中网络管理|

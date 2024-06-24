@@ -1,0 +1,77 @@
+产品网址：https://korea.tiandy.com/index.php?s=/Home/Product/detail/id/608.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|네트워크 카메라 라이트|TC-C32XP|2MP Fixed Super Starlight IR Turret Camera，默认塑料外壳，M 为金属外壳，最高支持 1920x1080@30fps，S+265/H.265/H.264 编码，最低照度彩色 0.0008Lux@F1.6，智能红外，红外距离 30m，2 个暖光灯，15m，支持绊线和周界，内置麦克风、SD 卡插槽、复位按钮，工作温度-35℃~65℃，湿度 0~95%RH，POE，IP67|
+
+Camera,Unnamed: 1
+Image Sensor,"1/2.8"" CMOS"
+Signal System,PAL/NTSC
+Min. Illumination,"Color:0.0008Lux@(F1.6,AGC ON),B/W:0Lux with IR"
+Shutter Time,"1s to 1/100,000s"
+Day & Night,Dual IR Cut Filter with Auto Switch
+WDR,120dB
+Angle Adjustment,"pan 0~340°,tilt 0~75°,roate 0~360°"
+Lens,
+Lens Type,Fixed
+Focus,2.8mm
+Lens Mount,M12
+Aperture,"F1.6,Fixed"
+FOV,Horizontal field of view:100.6°；Vertical field of view:56.5°
+Illuminator,
+IR LEDs,2
+IR Range,Up to 30m
+Wavelength,850nm
+White LEDs/Warmlights,2
+Compression Standard,
+Video Compression,S+265/H.265/H.264
+Video Bit Rate,32Kbps~6Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D_D
+Audio Bit Rate,"8K,32K,48Kbps"
+Image,
+Max. Resolution,1920x1080
+Main Stream,"PAL:25fps(1920x1080,1280x720,704x576,640x480)"
+,"NTSC:30fps(1920x1080,1280x720,704x480,640x480)"
+Sub Stream,"PAL:25fps(704x576,704x288,640x360,352x288)"
+,"NTSC:30fps(704x480,704x240,640x360,352x240)"
+Third Stream,
+Image Setting,"Saturation,brightness,contrast,sharpness,adjustable by client software or web browser"
+Image Enhancement,BLC/3D DNR/HLC
+ROI,8
+OSD,"16x16,32x32,48x48,adaptable size,Letters Such as Week,Date,Time,Total 1 Regions"
+Picture Overlay,
+Privacy Mask,"Yes,4 regions"
+Smart Defog,Yes
+Feature,
+Alarm Trigger,"Motion Detection,Mask Alarm,IP Address Conflict"
+Video Analytics,"Tripwire,Perimeter"
+Early Warning(EW),
+Network,
+ANR,Yes(Only Support Tiandy ANR NVR)
+Protocols,"HTTP,HTTPS,TCP/IP,UDP,UPnP,ICMP,DHCP,DNS,DDNS,Easy ddns,NTP,IPv4"
+System Compatibility,"ONVIF(PROFILE S/T/G),SDK,CGI,Milestone,P2P(Mutually exclusive with Profile G)"
+Remote Connection,2
+Client,"Easy7,EasyLive"
+Web Version,Web6
+Interface,
+Communication Interface,1 RJ45 10M/ 100M self adaptive Ethernet port
+Audio I/O,Mic in
+Alarm I/O,
+Speaker,
+Reset Button,Yes
+On-board storage,"Built-in MicroSD card slot,up to 512 GB"
+General,
+Web Client Language,17 languages  Chinese Simplified/English/Chinese Traditional/Spanish/Italian/Korean/Turkish/Russian/Thai Chinese/Polish/French/Dutch/Hebrew/Vietnamese/Arabic/German/Ukrainian
+Operating Conditions,"-35℃~60℃ ,0～95% RH"
+Power Supply,"DC 12V±25%,PoE(802.3af)"
+Power Consumption,MAX:6W(12V) MAX:8W(PoE)
+Protection,IP66
+Heater,
+Dimensions,Φ116.6x83.7mm(Φ4.59x3.30inch)
+GrossWeight,Metal+Plastic:0.53Kg(1.17lb)
+NetWeight,Metal+Plastic:0.39Kg(0.86lb)
+
+
+날짜,제목,유형
+2022-12-15,TC-C32XP Spec I3W-E-Y(M)-2.8mm-V4.2,pdf

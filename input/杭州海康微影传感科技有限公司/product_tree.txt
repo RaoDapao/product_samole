@@ -1,0 +1,709 @@
+-> root https://www.hikmicrotech.com
+  -> 户外产品经销商_海康微影 https://www.hikmicrotech.com/supplier/2
+  -> UD35573B-A 
+    -> LYNX2.0 
+      -> QSG 
+        -> multilanguage 
+          -> 20231130.pdf https://www.hikmicrotech.com/en/outdoor-products/lynx-2-0-thermal-monocular
+            -> LYNX 2.0 
+            -> LYNX 2.0 
+            -> LYNX 2.0 
+  -> UD31968B-B 
+    -> LYNXSandLYNXPro 
+      -> QSG 
+        -> multilanguage 
+          -> 20240105.pdf https://www.hikmicrotech.com/en/outdoor-products/lynx-s-thermal-monocular
+  -> UD22661B-D 
+    -> LYNX 
+      -> QSG 
+        -> multilanguage 
+          -> 20230323.pdfMay28,2024UD31968B-B 
+            -> LYNXSandLYNXPro 
+              -> QSG 
+                -> multilanguage 
+                  -> 20240105.pdfMay28,2024 https://www.hikmicrotech.com/en/outdoor-products/lynx-pro-series-monocular
+  -> UD29667B-C 
+    -> FALCON 
+      -> QSG 
+        -> multilanguage 
+          -> 20231204.pdf https://www.hikmicrotech.com/en/outdoor-products/falcon-series-monocular
+            -> Thermal Monocular 
+            -> Thermal Monocular 
+            -> Thermal Monocular 
+            -> Thermal Monocular 
+            -> Thermal Monocular 
+            -> Thermal Monocular 
+  -> UD34122B-A 
+    -> CONDOR 
+      -> QSG 
+        -> multilanguage 
+          -> 20231106.pdf https://www.hikmicrotech.com/en/outdoor-products/condor-thermal-lrf-monocular
+            -> CONDOR LRF 热成像单目望远镜 
+            -> CONDOR LRF 热成像单目望远镜 
+            -> CONDOR LRF 热成像单目望远镜 
+            -> CONDOR LRF 热成像单目望远镜 
+  -> UD22664B-D 
+    -> OWL 
+      -> QSG 
+        -> multilanguage 
+          -> 20230323.pdf https://www.hikmicrotech.com/en/outdoor-products/owl-series-monocular
+  -> UD35920B 
+    -> STELLAR2.0 
+      -> QSG 
+        -> multilanguage 
+          -> 20231211.pdf https://www.hikmicrotech.com/en/outdoor-products/stellar-2-0-thermal-scope
+  -> UD33116B-A 
+    -> THUNDERZOOM2.0 
+      -> QSG 
+        -> multilanguage 
+          -> 20230531.pdf https://www.hikmicrotech.com/en/outdoor-products/thunder-zoom-2-0-thermal-scope
+  -> UD35924B 
+    -> PANTHER2.0 
+      -> QSG 
+        -> multilanguage 
+          -> 20231130.pdf_1 https://www.hikmicrotech.com/en/outdoor-products/panther2-0-thermal-lrf-scope
+  -> UD32858B 
+    -> THUNDER2.0 
+      -> QSG 
+        -> multilanguage 
+          -> 20230406.pdf https://www.hikmicrotech.com/en/outdoor-products/thunder2-0-series-thermal-scope
+            -> THUNDER 2.0 热成像瞄准镜 
+            -> THUNDER 2.0 热成像瞄准镜 
+            -> THUNDER 2.0 热成像瞄准镜 
+            -> THUNDER 2.0 热成像瞄准镜 
+            -> THUNDER 2.0 热成像瞄准镜 
+            -> THUNDER 2.0 热成像瞄准镜 
+  -> UD27214B-C 
+    -> STELLAR 
+      -> QSG 
+        -> multilanguage 
+          -> 20230625.pdf https://www.hikmicrotech.com/en/outdoor-products/stellar-series-thermal-scope
+            -> STELLAR 
+            -> STELLAR 
+            -> STELLAR 
+            -> STELLAR 
+  -> HM-TR23-35XG 
+    -> W-PH35L 
+      -> Datasheet 
+        -> en-US 
+          -> 20220613.pdfMay29,2024HM-TR23-50XG 
+            -> W-PH50L 
+              -> Datasheet 
+                -> en-US 
+                  -> 20220613.pdfMay29,2024HM-TR26-35XG 
+                    -> W-PQ35L 
+                      -> Datasheet 
+                        -> en-US 
+                          -> 20220615.pdfMay29,2024HM-TR26-50XG 
+                            -> W-PQ50L 
+                              -> Datasheet 
+                                -> en-US 
+                                  -> 20220613.pdfMay29,2024 https://www.hikmicrotech.com/en/outdoor-products/panther-lrf-thermal-scope
+                                    -> THERMAL MONOCULAR 
+                                    -> THERMAL MONOCULAR 
+                                    -> THERMAL MONOCULAR 
+                                    -> THERMAL MONOCULAR 
+                                    -> THERMAL MONOCULAR 
+                                    -> THERMAL MONOCULAR 
+                                    -> THERMAL SCOPE 
+                                    -> THERMAL SCOPE 
+                                    -> THERMAL SCOPE 
+                                    -> THERMAL SCOPE 
+                                    -> THERMAL SCOPE 
+                                    -> THERMAL SCOPE 
+                                    -> THERMAL SCOPE 
+                                    -> THERMAL CLIP-ON 
+                                    -> THERMAL CLIP-ON 
+                                    -> THERMAL CAMERA FOR SMARTPHONES 
+                                    -> DIGITAL DAY&NIGHT VISION MONOCULAR 
+                                    -> DIGITAL DAY&NIGHT VISION SCOPE 
+                                    -> DIGITAL DAY&NIGHT VISION SCOPE 
+                                    -> DIGITAL DAY&NIGHT VISION SCOPE 
+                                    -> MULTI-SPECTRUM MONOCULAR 
+                                    -> MULTI-SPECTRUM BINOCULAR 
+                                    -> MULTI-SPECTRUM BINOCULAR 
+                                    -> MULTI-SPECTRUM BINOCULAR 
+                                    -> TRAIL CAMERA 
+                                    -> HANDHELD 
+                                    -> HANDHELD 
+                                    -> HANDHELD 
+                                    -> HANDHELD 
+                                    -> HANDHELD 
+                                    -> HANDHELD 
+                                    -> HANDHELD 
+                                    -> HANDHELD 
+                                    -> HANDHELD 
+                                    -> HANDHELD 
+                                    -> HANDHELD 
+                                    -> ACOUSTIC 
+                                    -> ACOUSTIC 
+                                    -> FIREFIGHTING 
+                                    -> FIREFIGHTING 
+                                    -> INTRINSICALLY SAFE 
+                                    -> FIXED 
+                                    -> FIXED 
+                                    -> FIXED 
+                                    -> FIXED 
+                                    -> FIXED 
+                                    -> SOFTWARE 
+                                    -> SOFTWARE 
+                                    -> SOFTWARE 
+                                    -> SOFTWARE 
+                                    -> SOFTWARE 
+                                    -> ACCESSORIES 
+                                    -> ACCESSORIES 
+                                    -> ACCESSORIES 
+                                    -> ACCESSORIES 
+                                    -> ACCESSORIES 
+                                    -> ACCESSORIES 
+                                    -> ACCESSORIES 
+                                    -> ACCESSORIES 
+                                    -> ACCESSORIES 
+                                    -> ACCESSORIES 
+                                    -> THERMAL MONOCULAR 
+  -> UD25400B-A 
+    -> THUNDERandTHUNDERPro 
+      -> QSG 
+        -> multilanguage 
+          -> 20220607.pdf https://www.hikmicrotech.com/en/outdoor-products/thunder-pro-series-thermal-scope
+            -> THUNDER Pro 
+            -> THUNDER Pro 
+            -> THUNDER Pro 
+            -> THUNDER Pro 
+  -> HM-TR13-25XF 
+    -> W-TH25 
+      -> Datasheet 
+        -> en-US 
+          -> 20220613.pdfMay29,2024HM-TR13-35XF 
+            -> W-TH35 
+              -> Datasheet 
+                -> en-US 
+                  -> 20220615.pdfMay29,2024 https://www.hikmicrotech.com/en/outdoor-products/thunder-series-thermal-scope
+                    -> THUNDER 
+                    -> THUNDER 
+  -> UD32862B 
+    -> THUNDER2.0 
+      -> QSG 
+        -> multilanguage 
+          -> 20230406-Reticle.pdfMay28,2024UD31530B-A 
+            -> THUNDER2.0 
+              -> QSG 
+                -> multilanguage 
+                  -> 20230406.pdfMay28,2024 https://www.hikmicrotech.com/en/outdoor-products/thunder2-0-series-thermal-clip-on
+  -> HM-TR12-19XG 
+    -> W-TE19C 
+      -> Datasheet 
+        -> en-US 
+          -> 20220613.pdf https://www.hikmicrotech.com/en/outdoor-products/thunder-pro-series-thermal-clip-on
+  -> UD34369B 
+    -> EXPLORERSeries 
+      -> QSG 
+        -> multilanguage 
+          -> 20230803.pdf https://www.hikmicrotech.com/en/outdoor-products/explorer-thermal-camera-for-smartphones
+  -> UD30572B 
+    -> HEIMDAL 
+      -> QSG 
+        -> multilanguage 
+          -> 20221013.pdf https://www.hikmicrotech.com/en/outdoor-products/heimdal-digital-night-vision-monocular
+  -> UD35139B 
+    -> ALPEXLRF4K 
+      -> QSG 
+        -> multilanguage 
+          -> 20231103.pdfMay29,2024UD35132B 
+            -> ALPEX4K 
+              -> QSG 
+                -> multilanguage 
+                  -> 20231103.pdfMay29,2024 https://www.hikmicrotech.com/en/outdoor-products/alpex-4k-digital-day-night-vision-scope
+                    -> ALPEX 4K 
+                    -> ALPEX 4K 
+  -> UD28858B-C 
+    -> ALPEX 
+      -> QSG 
+        -> multilanguage 
+          -> 20230324.pdf https://www.hikmicrotech.com/en/outdoor-products/alpex-series-night-vision-telescope
+  -> UD30514B-A 
+    -> CHEETAHScope 
+      -> QSG 
+        -> multilanguage 
+          -> 20230428.pdfMay28,2024UD30777B-A 
+            -> CHEETAHScopeLRF 
+              -> QSG 
+                -> multilanguage 
+                  -> 20230428.pdfMay28,2024 https://www.hikmicrotech.com/en/outdoor-products/cheetah-night-vision-scope
+  -> UD30837B-A 
+    -> CHEETAHClip-OnLRF 
+      -> QSG 
+        -> multilanguage 
+          -> 20230425.pdf.pdfMay29,2024UD30512B-A 
+            -> CHEETAHClip-On 
+              -> QSG 
+                -> multilanguage 
+                  -> 20230423.pdf.pdfMay29,2024UD32822B 
+                    -> CHEETAHClip-OnLRF(R) 
+                      -> QSG 
+                        -> multilanguage 
+                          -> 20230425.pdf.pdfMay29,2024UD32821B 
+                            -> CHEETAHClip-On(R) 
+                              -> QSG 
+                                -> multilanguage 
+                                  -> 20230425.pdf.pdfMay29,2024 https://www.hikmicrotech.com/en/outdoor-products/cheetah-night-vision-clip-on
+  -> UD25382B-C 
+    -> GRYPHONandGRYPHONLRF 
+      -> QSG 
+        -> multilanguage 
+          -> 20230410.pdf https://www.hikmicrotech.com/en/outdoor-products/gryphon-lrf-series-monocular
+            -> GRYPHON LRF 
+            -> GRYPHON LRF 
+            -> GRYPHON LRF 
+            -> GRYPHON LRF 
+  -> UD36683B 
+    -> HABROK4K 
+      -> QSG 
+        -> multilanguage 
+          -> 20240311.pdf https://www.hikmicrotech.com/en/outdoor-products/habrok-4k-multi-spectrum-binocular
+  -> UD35489B-A 
+    -> HABROK 
+      -> QSG 
+        -> multilanguage 
+          -> 20240315.pdf https://www.hikmicrotech.com/en/outdoor-products/habrok-multi-spectrum-binocular
+            -> HIKMICRO HABROK 多光谱双目望远镜 
+            -> HIKMICRO HABROK 多光谱双目望远镜 
+  -> UD30256B-A 
+    -> RAPTOR 
+      -> QSG 
+        -> multilanguage 
+          -> 20240327.pdf https://www.hikmicrotech.com/en/outdoor-products/raptor-thermal-binocular
+  -> UD31879B-B 
+    -> TrailCameraM15 
+      -> UM 
+        -> en-US 
+          -> 20230904.pdf https://www.hikmicrotech.com/en/outdoor-products/m15-trail-camera
+  -> HIKMICROSightSoftware https://www.hikmicrotech.com/en/outdoor-products/hikmicro-sight-software
+    -> Thermal Scope 
+    -> Thermal Scope 
+    -> Thermal Scope 
+    -> Thermal Scope 
+    -> Thermal Scope 
+    -> Thermal Scope 
+    -> Thermal Scope 
+    -> Thermal Clip-On 
+    -> Thermal Clip-On 
+    -> Thermal Camera for Smartphones 
+    -> Digital Day&Night Vision Monocular 
+    -> Digital Day&Night Vision Clip-On 
+    -> Multi-Spectrum Monocular 
+    -> Multi-Spectrum Binocular 
+    -> Multi-Spectrum Binocular 
+    -> Multi-Spectrum Binocular 
+    -> Trail Camera 
+    -> Application 
+    -> IR Torch 
+    -> IR Torch Bracket 
+    -> Rail 
+    -> Ring 
+    -> Adapter 
+    -> Eyepiece 
+    -> Charger 
+    -> Battery 
+    -> Monocular Pouch 
+    -> Trail Camera Accessories 
+    -> Handheld 
+    -> Handheld 
+    -> Handheld 
+    -> Handheld 
+    -> Handheld 
+    -> Handheld 
+    -> Handheld 
+    -> Handheld 
+    -> Handheld 
+    -> Handheld 
+    -> Handheld 
+    -> Acoustic 
+    -> Acoustic 
+    -> Firefighting 
+    -> Firefighting 
+    -> Intrinsically Safe 
+    -> Fixed 
+    -> Fixed 
+    -> Fixed 
+    -> Fixed 
+    -> Fixed 
+    -> Software 
+    -> Software 
+    -> Software 
+    -> Software 
+    -> Software 
+    -> Accessories 
+    -> Accessories 
+    -> Accessories 
+    -> Accessories 
+    -> Accessories 
+    -> Accessories 
+  -> HM-L029IR 
+    -> Datasheet 
+      -> en-US 
+        -> 20220927.pdfMay29,2024HM-L129IR 
+          -> Datasheet 
+            -> en-US 
+              -> 20220602.pdfMay29,2024HM-L028IR 
+                -> Datasheet 
+                  -> en-US 
+                    -> 20211213.pdfMay29,2024HM-L128IR 
+                      -> Datasheet 
+                        -> en-US 
+                          -> 20220602.pdfMay29,2024 https://www.hikmicrotech.com/en/outdoor-products/thermal-camera-ir-torch
+  -> HM-IRB-A 
+    -> Datasheet 
+      -> en-US 
+        -> 20221020.pdf https://www.hikmicrotech.com/en/outdoor-products/thermal-camera-ir-torch-bracket
+  -> HM-QR 
+    -> Datasheet 
+      -> en-US 
+        -> 20220722.pdfMay29,2024HM-R-WP 
+          -> Datasheet 
+            -> en-US 
+              -> 20220919.pdfMay29,2024HM-THUNDER-R 
+                -> Datasheet 
+                  -> en-US 
+                    -> 20210101.pdfMay29,2024 https://www.hikmicrotech.com/en/outdoor-products/thermal-camera-rail
+                      -> Thermal Camera Rail 
+                      -> Thermal Camera Rail 
+                      -> Thermal Camera Rail 
+  -> HM-Rings-2-H35 
+    -> Datasheet 
+      -> en-US 
+        -> 20220704.pdfMay29,2024HM-Rings-2-H43 
+          -> Datasheet 
+            -> en-US 
+              -> 20220704.pdfMay29,2024HM-Rings-1-H35 
+                -> Datasheet 
+                  -> en-US 
+                    -> 20220923.pdfMay29,2024HM-Rings-2-H29 
+                      -> Datasheet 
+                        -> en-US 
+                          -> 20220704.pdfMay29,2024 https://www.hikmicrotech.com/en/outdoor-products/thermal-scope-ring
+  -> HM-ADAPTER-40A 
+    -> Datasheet 
+      -> en-US 
+        -> 20230401.pdfMay29,2024HM-ADAPTER-44A 
+          -> Datasheet 
+            -> en-US 
+              -> 20230401.pdfMay29,2024HM-ADAPTER-30A 
+                -> Datasheet 
+                  -> en-US 
+                    -> 20230401.pdfMay29,2024HM-ADAPTER-56A 
+                      -> Datasheet 
+                        -> en-US 
+                          -> 20230401.pdfMay29,2024HM-ADAPTER-58A 
+                            -> Datasheet 
+                              -> en-US 
+                                -> 20230401.pdfMay29,2024HM-ADAPTER-50A 
+                                  -> Datasheet 
+                                    -> en-US 
+                                      -> 20230401.pdfMay29,2024HM-ADAPTER-42A 
+                                        -> Datasheet 
+                                          -> en-US 
+                                            -> 20230401.pdfMay29,2024HM-ADAPTER-62A 
+                                              -> Datasheet 
+                                                -> en-US 
+                                                  -> 20230401.pdfMay29,2024 https://www.hikmicrotech.com/en/outdoor-products/thermal-camera-adapter-2-0
+                                                    -> THUNDER 2.0 Adapter 
+                                                    -> THUNDER 2.0 Adapter 
+                                                    -> THUNDER 2.0 Adapter 
+                                                    -> THUNDER 2.0 Adapter 
+                                                    -> THUNDER 2.0 Adapter 
+                                                    -> THUNDER 2.0 Adapter 
+                                                    -> THUNDER 2.0 Adapter 
+                                                    -> THUNDER 2.0 Adapter 
+  -> HM-THUNDER-62A 
+    -> Datasheet 
+      -> en-US 
+        -> 20211026.pdfMay29,2024HM-THUNDER-50A 
+          -> Datasheet 
+            -> en-US 
+              -> 20210101.pdfMay29,2024HM-THUNDER-38A 
+                -> Datasheet 
+                  -> en-US 
+                    -> 20211026.pdfMay29,2024HM-THUNDER-40A 
+                      -> Datasheet 
+                        -> en-US 
+                          -> 20210107.pdfMay29,2024 https://www.hikmicrotech.com/en/outdoor-products/thermal-camera-adapter
+                            -> Thermal Camera Adapter 
+                            -> Thermal Camera Adapter 
+                            -> Thermal Camera Adapter 
+                            -> Thermal Camera Adapter 
+  -> HM-THUNDER2.0-E 
+    -> Datasheet 
+      -> en-US 
+        -> 20230717.pdf https://www.hikmicrotech.com/en/outdoor-products/thermal-camera-eyepiece-2-0
+  -> HM-THUNDER-E 
+    -> Datasheet 
+      -> en-US 
+        -> 20210101.pdf https://www.hikmicrotech.com/en/outdoor-products/thermal-camera-eyepiece
+  -> UD32288B 
+    -> Li-ionBatteryCharger 
+      -> QSG 
+        -> multilanguage 
+          -> 20230314.pdf https://www.hikmicrotech.com/en/outdoor-products/thermal-camera-charger-2-0
+  -> HM-3644DC 
+    -> Datasheet 
+      -> en-US 
+        -> 20230401.pdf https://www.hikmicrotech.com/en/outdoor-products/thermal-camera-battery-2-0
+  -> HM-3632DC 
+    -> Datasheet 
+      -> en-US 
+        -> 20220704.pdf https://www.hikmicrotech.com/en/outdoor-products/thermal-camera-batteries
+  -> HM-OUTDOOR-POUCH 
+    -> Datasheet 
+      -> en-US 
+        -> 20220126.pdf https://www.hikmicrotech.com/en/outdoor-products/thermal-camera-monucular-pouch
+  -> SP5000 
+    -> Datasheet 
+      -> en-US 
+        -> 20231201.pdf https://www.hikmicrotech.com/en/outdoor-products/trail-camera-solar-panel
+  -> UD30977B 
+    -> MiniSeries 
+      -> QSG 
+        -> multilanguage 
+          -> 20221220.pdf https://www.hikmicrotech.com/en/industrial-products/mini2-thermal-camera-phone-attachment
+  -> PCB 
+    -> Inspection 
+      -> Solution 
+        -> Flyer 
+          -> en-US 
+            -> 20231215.pdf https://www.hikmicrotech.com/en/industrial-products/mini2plus-thermal-camera-phone-attachment
+  -> MiniSeries 
+    -> Flyer 
+      -> en-US 
+        -> 20231218.pdf https://www.hikmicrotech.com/en/industrial-products/mini3-thermal-camera-phone-attachment
+  -> Eco 
+    -> Series 
+      -> Flyer 
+        -> en-US 
+          -> 20240404.pdf https://www.hikmicrotech.com/en/industrial-products/eco-eco-v-handheld-infrared-camera
+            -> Mini Series 
+            -> Mini Series 
+            -> Mini Series 
+            -> Eco Series 
+            -> Eco Series 
+            -> B Series 
+            -> Pocket Series 
+            -> M Series 
+            -> G Series 
+            -> Gx1 Series 
+            -> SP Series 
+            -> AI Series 
+            -> AD Series 
+            -> FB Series 
+            -> FT Series 
+            -> BX Series 
+            -> Cube Cameras 
+            -> Box Cameras 
+            -> Auto-focus Box Camera 
+            -> HIKMICRO Viewer 
+            -> HIKMICRO Analyzer 
+            -> HIKMICRO Studio 
+            -> Spot Size Calculator 
+            -> UVC Client 
+            -> Pouches 
+            -> Pouches 
+            -> Lenses 
+            -> Lenses 
+            -> Lenses 
+            -> Lenses 
+            -> Lenses 
+            -> Batteries 
+            -> Batteries 
+            -> Batteries 
+            -> Chargers 
+            -> Chargers 
+            -> Chargers 
+            -> Brackets 
+            -> Brackets 
+            -> Sun Shield 
+  -> UD22787B-D 
+    -> BSeries 
+      -> QSG 
+        -> multilanguage 
+          -> 20230530.pdf https://www.hikmicrotech.com/en/industrial-products/b-series-handheld-thermal-imager
+  -> UD34514B 
+    -> MSeries 
+      -> QSG 
+        -> multilanguage 
+          -> 20230721.pdf https://www.hikmicrotech.com/en/industrial-products/m-series-handheld-thermal-imager
+            -> M 系列 
+            -> M 系列 
+            -> M 系列 
+            -> M 系列 
+            -> M 系列 
+            -> M 系列 
+  -> UD30115B-A 
+    -> GSeries 
+      -> QSG 
+        -> multilanguage 
+          -> 20230330.pdf https://www.hikmicrotech.com/en/industrial-products/gx0-series-handheld-thermal-imager
+  -> UD26925B-C 
+    -> SPSeries 
+      -> QSG 
+        -> multilanguage 
+          -> 20230921.pdf https://www.hikmicrotech.com/en/industrial-products/sp60-and-sp60h-series-handheld-thermal-imager
+  -> UD31326B-A 
+    -> AISeries 
+      -> QSG 
+        -> multilanguage 
+          -> 20231018.pdf https://www.hikmicrotech.com/en/industrial-products/ai56-acoustic-camera
+  -> UD32584B-A 
+    -> ADSeries 
+      -> QSG 
+        -> multilanguage 
+          -> 20230912.pdf https://www.hikmicrotech.com/en/industrial-products/ad21-acoustic-camera
+  -> UD33897B 
+    -> FBSeries 
+      -> QSG 
+        -> multilanguage 
+          -> 20230704.pdf https://www.hikmicrotech.com/en/industrial-products/fb-series-firefighting-handheld-thermal-camera
+  -> UD34048B 
+    -> FTSeries 
+      -> QSG 
+        -> multilanguage 
+          -> 20230731.pdf https://www.hikmicrotech.com/en/industrial-products/ft-series-firefighting-handheld-thermal-camera
+  -> UD32970B-B 
+    -> BSeries 
+      -> QSG 
+        -> multilanguage 
+          -> 20231020.pdf https://www.hikmicrotech.com/en/industrial-products/bx20-compact-intrinsically-safe-thermal-camera
+  -> UD29283B 
+    -> CubeCamera 
+      -> QSG 
+        -> multilanguage 
+          -> 20220718.pdf https://www.hikmicrotech.com/en/industrial-products/cube-cameras
+            -> Cube Camera 
+            -> Cube Camera 
+  -> HIKMICROBoxCamera https://www.hikmicrotech.com/en/industrial-products/box-camera
+  -> UD29777B 
+    -> BoxCamera 
+      -> QSG 
+        -> multilanguage 
+          -> 20220928.pdf https://www.hikmicrotech.com/en/industrial-products/autofocus-box-cameras
+  -> HIKMICROHeatResistantbulletCameras https://www.hikmicrotech.com/en/industrial-products/heat-resistant--cameras
+    -> Heat Resistant Bullet Camera 
+    -> Heat Resistant Bullet Camera 
+    -> Heat Resistant Bullet Camera 
+    -> Heat Resistant Bullet Camera 
+    -> Heat Resistant Bullet Camera 
+    -> Heat Resistant Bullet Camera 
+  -> HIKMICROViewerSoftware https://www.hikmicrotech.com/en/industrial-products/hikmicro-viewer-software
+  -> UserManual 
+    -> multilanguage 
+      -> HIKMICROAnalyzer.pdf https://www.hikmicrotech.com/en/industrial-products/hikmicro-analyzer-software
+  -> HIKMICROStudio https://www.hikmicrotech.com/en/industrial-products/hikmicro-studio-software
+  -> SpotSizeCalculator https://tool.hikmicrotech.com/product-params
+  -> UVCClient https://www.hikmicrotech.com/en/industrial-products/uvc-client
+  -> HM-B01-POUCH 
+    -> Datasheet 
+      -> en-US 
+        -> 20220318.pdf https://www.hikmicrotech.com/en/industrial-products/e-and-b-series-thermal-camera-pouches
+  -> HM-SP01-POUCH 
+    -> Datasheet 
+      -> en-US 
+        -> 20220831.pdf https://www.hikmicrotech.com/en/industrial-products/sp-and-m-and-g-series-thermal-camera-pouches
+  -> UD28869B 
+    -> Lenses 
+      -> QSG 
+        -> multilanguage 
+          -> 20220622.pdf https://www.hikmicrotech.com/en/industrial-products/b-series-macro-lens
+  -> UD25051B-D 
+    -> InterchangeableLens 
+      -> QSG 
+        -> multilanguage 
+          -> 20230324.pdf.pdf https://www.hikmicrotech.com/en/industrial-products/gx0-series-05x-wide-angle-lens
+            -> High Temperature Box Cameras 
+            -> Heat-resistant Cameras 
+            -> Gx0 Series 0.5X Lens 
+  -> HM-G330-LENS1 
+    -> Datasheet 
+      -> en-US 
+        -> 20230227.pdfMay29,2024HM-G605-LENS1 
+          -> Datasheet 
+            -> en-US 
+              -> 20230227.pdfMay29,2024HM-G620-LENS1 
+                -> Datasheet 
+                  -> en-US 
+                    -> 20230227.pdfMay29,2024HM-G305-LENS1 
+                      -> Datasheet 
+                        -> en-US 
+                          -> 20230227.pdfMay29,2024HM-G320-LENS1 
+                            -> Datasheet 
+                              -> en-US 
+                                -> 20230227.pdfMay29,2024HM-G630-LENS1 
+                                  -> Datasheet 
+                                    -> en-US 
+                                      -> 20230227.pdfMay29,2024 https://www.hikmicrotech.com/en/industrial-products/gx1-series-0-5x-wide-angle-lens
+  -> HM-SP620-MACRO 
+    -> Datasheet 
+      -> en-US 
+        -> 20230620.pdfMay29,2024HM-SP610-LENS 
+          -> Datasheet 
+            -> en-US 
+              -> 20230227.pdfMay29,2024HM-SP630-LENS 
+                -> Datasheet 
+                  -> en-US 
+                    -> 20240327.pdfMay29,2024HM-SP650-MACRO 
+                      -> Datasheet 
+                        -> en-US 
+                          -> 20230620.pdfMay29,2024HM-SP605-LENS 
+                            -> Datasheet 
+                              -> en-US 
+                                -> 20230227.pdfMay29,2024HM-SP620-LENS 
+                                  -> Datasheet 
+                                    -> en-US 
+                                      -> 20230227.pdfMay29,2024_1 https://www.hikmicrotech.com/en/industrial-products/sp-series-0-5x-wide-angle-lens
+  -> HIKMICROMSeriesThermographyThermalCameraBatteries https://www.hikmicrotech.com/en/industrial-products/m-series-thermal-camera-batteries
+    -> M Series Battery 
+  -> HIKMICROGSeriesThermographyThermalCameraBatteries https://www.hikmicrotech.com/en/industrial-products/g-series-thermal-camera-batteries
+  -> HM-7250DC 
+    -> Datasheet 
+      -> en-US 
+        -> 20221008.pdf https://www.hikmicrotech.com/en/industrial-products/sp-series-thermal-camera-batteries
+  -> HM-5202ZC 
+    -> Datasheet 
+      -> en-US 
+        -> 20220706.pdf https://www.hikmicrotech.com/en/industrial-products/m-series-thermal-camera-battery-charger
+  -> HM-5202ZC2 
+    -> Datasheet 
+      -> en-US 
+        -> 20220706.pdf_1 https://www.hikmicrotech.com/en/industrial-products/g-series-thermal-camera-battery-charger
+  -> HM-20322ZC 
+    -> Datasheet 
+      -> en-US 
+        -> 20230621.pdf https://www.hikmicrotech.com/en/industrial-products/sp-series-thermal-camera-battery-charger
+  -> HM-AHBR01 
+    -> Datasheet 
+      -> en-US 
+        -> 20230925.pdf https://www.hikmicrotech.com/en/industrial-products/bracket-for-sp-series-thermal-camera
+  -> HM-701ZJ-G01-SHIELD 
+    -> Datasheet 
+      -> en-US 
+        -> 20220128.pdf https://www.hikmicrotech.com/en/industrial-products/g-series-sun-shield-for-thermal-camera
+  -> TheBestHIKMICROHuntingGearin2023 https://www.hikmicrotech.com/en/explore/outdoor-hunting-blog/best-products-of-2023
+  -> TheHIKMICROCONDORLRF–SeeingisBelieving https://www.hikmicrotech.com/en/explore/outdoor-hunting-blog/product-review-5
+  -> UD28906B 
+    -> Charger 
+      -> QSG 
+        -> multilanguage 
+  -> HIKMICROEXPLORERCompatibilitySheet https://www.hikmicrotech.com/en/outdoor-products/explorer-thermal-camera-for-smartphones/compatibility-sheet
+  -> DiscovertheUltimateVersatility:HIKMICROHABROK-YourCompleteHuntingSolution! https://www.hikmicrotech.com/en/explore/outdoor-hunting-blog/product-review-14
+  -> Falcon,Thunder2.0andCondor:FlagshipThermalImagingDeviceswith20mKSensitivityfromHIKMICRO https://www.hikmicrotech.com/en/explore/outdoor-hunting-blog/product-review-13
+  -> HuntingAllDayandNightWithHIKMICROALPEX https://www.hikmicrotech.com/en/explore/outdoor-hunting-blog/product-review-12
+  -> HIKMICROExpands20mKThermalProductLineupwithNewLYNX2.0andSTELLAR2.0atJAGD&HUNDShow2024 https://www.hikmicrotech.com/en/explore/outdoor-hunting-blog/product-review-11
+    -> LYNX 2.0 热成像单目望远镜 
+    -> STELLAR 2.0 热成像瞄准镜 
+  -> HIKMICROALPEXLRF4K:ANewBenchmarkforDigitalDayandNightVisionScopes https://www.hikmicrotech.com/en/explore/outdoor-hunting-blog/product-review-10
+  -> CompactYetPowerful:HIKMICROThermalScopePANTHER2.0 https://www.hikmicrotech.com/en/explore/outdoor-hunting-blog/product-review-9
+  -> NewHIKMICROCONDOR-TheUltimateChristmasGiftforHuntingPassionate https://www.hikmicrotech.com/en/explore/outdoor-hunting-blog/product-review-8
+  -> HABROK–CompactBinocularswithMulti-spectrumDayandNightViewing https://www.hikmicrotech.com/en/explore/outdoor-hunting-blog/product-review-7
+  -> Review:FALCONFQ25,theBestThermalMonocularforWildlifeObservation https://www.hikmicrotech.com/en/explore/outdoor-nature-blog/products-review-fq25
+  -> OUTDOORNATURE:Packedready,outdoorsnotonlyinsight https://www.hikmicrotech.com/en/explore/outdoor-nature-blog/outdoor-nature-packed-ready-outdoors-not-only-in-sight
+  -> HIKMICROThermography:EnsureYourSafety,FindPotentialRisks https://www.hikmicrotech.com/en/explore/news/hikmicro-thermography-ensure-your-safety-find-potential-risks
+  -> HIKMICROAnnouncesNewStrategicAlliancewithIRISS https://www.hikmicrotech.com/en/homepage/explore/news/hikmicro-announces-new-strategic-alliance-with-iriss.html
+  -> HIKMICROFALCON:High-performanceThermalSpotterforFindingWildlife https://www.hikmicrotech.com/en/explore/outdoor-hunting-blog/product-review-1

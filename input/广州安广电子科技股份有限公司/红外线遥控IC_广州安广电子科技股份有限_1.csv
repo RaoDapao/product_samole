@@ -1,0 +1,15 @@
+产品网址：http://www.anguangic.com/Product/Products/#
+产品结构：root->红外线遥控IC_广州安广电子科技股份有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|带 LCD 显示驱动的 4 位高性能 MCU|ADKT25B16|包含 5KW OTP ROM、224B SRAM、3 组 I/O 端口、最多支持 96(32*4)点 LCD 显示，内置 RC 震荡和 IR 驱动电路|
+|带 LCD 显示驱动的 4 位高性能 MCU|ADKT25B24|包含 5KW OTP ROM、224B SRAM、3 组 I/O 端口、最多支持 96(32*4)点 LCD 显示，内置 RC 震荡和 IR 驱动电路|
+|带 LCD 显示驱动的 4 位高性能 MCU|ADKT25P24|包含 5KW OTP ROM、224B SRAM、3 组 I/O 端口、最多支持 96(32*4)点 LCD 显示，内置 RC 震荡和 IR 驱动电路|
+|带 LCD 显示驱动的 4 位高性能 MCU|ADKT25P32|包含 5KW OTP ROM、224B SRAM、3 组 I/O 端口、最多支持 96(32*4)点 LCD 显示，内置 RC 震荡和 IR 驱动电路|
+|带 LCD 显示驱动的 4 位高性能 MCU|ADKT25P48|包含 5KW OTP ROM、224B SRAM、3 组 I/O 端口、最多支持 96(32*4)点 LCD 显示，内置 RC 震荡和 IR 驱动电路|
+|带 LCD 显示驱动的 4 位高性能 MCU|ADKT24P24|包含 5KW OTP ROM、224B SRAM、3 组 I/O 端口、最多支持 96(32*4)点 LCD 显示，内置 RC 震荡和 IR 驱动电路|
+|带 LCD 显示驱动的 4 位高性能 MCU|ADKT24P17|包含 5KW OTP ROM、224B SRAM、3 组 I/O 端口、最多支持 96(32*4)点 LCD 显示，内置 RC 震荡和 IR 驱动电路|
+|带 LCD 显示驱动的 4 位高性能 MCU|ADKT24P15|包含 5KW OTP ROM、224B SRAM、3 组 I/O 端口、最多支持 96(32*4)点 LCD 显示，内置 RC 震荡和 IR 驱动电路|
+|带 LCD 驱动的红外遥控发射电路|ADKT18P28|包含 192 字节 SRAM，4K 字节 OTP ROM，主要用于带 LCD 红外遥控器；采用 SSOP28 封装，外围电路元件少，生产|
+|带 LCD 显示驱动的红外遥控 MCU|ADKT19P28|内置 192 字节 SRAM，8K 字节 OTP ROM，主要用于带 LCD 屏的红外遥控器开发。28 脚贴片封装，集成度高，外围电路简单|

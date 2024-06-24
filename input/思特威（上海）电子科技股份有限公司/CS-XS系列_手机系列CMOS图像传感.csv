@@ -1,0 +1,24 @@
+产品网址：https://www.smartsenstech.com/cs_products
+产品结构：root->CS/XS系列|手机系列CMOS图像传感器
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|CS 系列|SC500CS、SC800CS|为智能手机摄像头提供行业领先的高品质成像性能，具有卓越的夜视成像能力，出色的信噪比与动态范围，PDAF 技术加持，可清晰捕捉美景|
+
+Product Series,PN,选择分辨率  Resolution,选择光学尺寸  Optical Format,PixelSize,选择快门形式  Shutter Type,选择是否具有HDR  HDR,PixelArray,Max FrameRate,CRA,Interface,Package,Download,Contact Us
+SmartClarity  ®  -2,New  SC580XS,50MP,"1/1.28""",1.22μm,Rolling,Yes,8192Hx6144V,30fps,36.9°,MIPI,COB/RW,-,联系销售
+SmartClarity  ®  -2,SC550XS,50MP,"1/1.56""",1.0μm,Rolling,Yes,8208Hx6160V,30fps,36.65°,MIPI,COB/RW,,联系销售
+SmartClarity  ®  -2,SC520XS,52MP,"1/2.42""",0.7μm,Rolling,Yes,8784Hx6064V,15fps,Tele:17.9° Wide:35.3°,MIPI,COB/RW,,联系销售
+
+
+Product Series,PN,选择分辨率  Resolution,选择光学尺寸  Optical Format,PixelSize,选择快门形式  Shutter Type,选择是否具有HDR  HDR,PixelArray,Max FrameRate,CRA,Interface,Package,Download,Contact Us
+SmartClarity  ®  -3,New  SC1620CS,16MP,"1/3.09""",1.0μm,Rolling,,4672Hx3512V,60fps,34°,MIPI,COB/RW,-,联系销售
+SmartClarity  ®  -3,New  SC5000CS,50MP,1/2.5'',0.702μm,Rolling,Yes,8224Hx6176V,15fps,35.7°,MIPI,COB/RW,-,联系销售
+DSI-2,SC080CS,QVGA,"1/20""",2.24μm,Rolling,,248Hx328V,30fps,16.68°,SPI,CSP9,,联系销售
+SmartClarity  ®  -3,SC202CS,2MP,"1/5.1""",1.75μm,Rolling,,1608Hx1208V,30fps,30.76°,MIPI,CSP/COB/RW,-,联系销售
+DSI-2,SC201CS,2MP,"1/5.1""",1.75μm,Rolling,,1608Hx1208V,30fps,31.5°,MIPI,CSP/COB/RW,,联系销售
+SmartClarity  ®  -2,SC501CS,5MP,"1/5""",1.12μm,Rolling,,2600Hx1952V,30fps,31.87°,MIPI,COB/RW,,联系销售
+SmartClarity  ®  -2,SC520CS,5MP,"1/5""",1.12μm,Rolling,,2600Hx1960V,30fps,31.9°,MIPI,CSP/COB/RW,,联系销售
+SmartClarity  ®  -2,SC820CS,8MP,"1/4""",1.12μm,Rolling,,3280Hx2464V,30fps,32.55°,MIPI,COB/RW,,联系销售
+SmartClarity  ®  -3,SC1320CS,13MP,"1/3.06""",1.12μm,Rolling,,4224Hx3134V,30fps,33.69°,MIPI,COB/RW,,联系销售
+SmartClarity  ®  -2,SC1600CS,16MP,"1/3.06""",1.0μm,Rolling,,4656Hx3096V,60fps,33.98°,MIPI,COB/RW,,联系销售

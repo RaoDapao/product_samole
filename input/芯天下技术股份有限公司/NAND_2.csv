@@ -1,0 +1,19 @@
+产品网址：http://www.xtxtech.com/products_detail/3/ProId-6
+产品结构：root->NAND
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Parallel NAND|1Gbit、2Gbit、4Gbit|支持 2.7V~3.6V、1.7V~1.95V 电压；8bit ECC Requirement 或内置 ECC，灵活搭配主控的不同应用；支持 Auto Page Program、Auto Block Erase、Page Copy 等功能；业界创新的小型化 BGA24 6x8mm 封装|
+
+型号,容量,电压,温度,封装,描述,包装,状态
+PN27G01ABGITG,1Gbit,2.7~3.6V,-40℃~85℃,BGA24 6x8mm,8 bit ECC required,Tray,MP
+PN27G01BBGITG,1Gbit,2.7~3.6V,-40℃~85℃,BGA24 6x8mm,Build with 8bit/528byte ECC engine,Tray,MP
+
+
+型号,容量,电压,温度,封装,描述,包装,状态
+PN27G02ABGITG,2Gbit,2.7~3.6V,-40℃~85℃,BGA24 6x8mm,8 bit ECC required,Tray,MP
+PN27G02BBGITG,2Gbit,2.7~3.6V,-40℃~85℃,BGA24 6x8mm,Build with 8bit/528byte ECC engine,Tray,MP
+
+
+型号,容量,电压,温度,封装,描述,包装,状态
+PN27G04ABGITG,4Gbit,2.7~3.6V,-40℃~85℃,BGA24 6x8mm,8bit ECC Required,Tray,MP

@@ -1,0 +1,6 @@
+产品网址：https://www.hoperf.cn/modules/matter/HM-MT2401.html
+产品结构：root->HM-MT2401_Matter无线通信模块_2.4g通信模块-RF射频、数字传感器产品专业设计生产商-深圳市华普微电子股份有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Matter 无线通信模块|HM-MT2401|整合创新 Matter 通信协议，简化智能家居设备互联，实现高效稳定的智能家居体验。包括高性能、高度集成的射频处理芯片 EFR32MG24，内嵌低功耗 32 位 ARM® Cortex®-M33 内核，1536kB Flash，256kB RAM，以及丰富的外设资源，搭载集成 PCB 天线和外置天线座，支持 Matter、Thread、BLE 等无线通信技术，可用于开发 Matter over Thread 终端设备，将原有的无线设备轻松升级为满足 Matter 标准的智能家居设备。只需要通过简单的接口设计，将 HM-MT2401 模块集成到智能家居终端设备，即可将原有终端设备升级为满足 Matter 标准规范的 Matter 设备。用户通过手机智能家居 App 如 Apple Home App 扫描 Matter 设备的二维码，经过简单的几步操作，即可轻松通过蓝牙对 Matter 设备进行配网，从而将其加入到已有的 Matter 网络。基于 HM-MT2401 模块开发的 Matter 设备可以无缝加入到 Google Home、Apple Homekit、Amazon Alexa 以及三星 SmartThings 等智能家居生态系统，大大简化客户产品开发周期，加快产品上市，并能有效提升用户体验。典型应用场景包括灯、开关、插座、门锁、窗帘电机、门铃、温控器、传感器等设备。|

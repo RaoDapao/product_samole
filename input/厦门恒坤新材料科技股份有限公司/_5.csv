@@ -1,0 +1,6 @@
+产品网址：https://www.hed.com.cn/products_mcu/178_180_184_185.html
+产品结构：root
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|安全 MCU 芯片|CIU32F011/CIU32F031|48MHz Cortex-M0 32-bit CPU，64KB/32KB Flash，支持 1bit ECC 纠错，4KB/2KB SRAM，低功耗模式，电源检测，时钟源，多达 30 个 fast IO，DMA 控制器，6 个定时器，通信接口，信息安全，触摸按键 TK，LED 最大支持 8COM x 22SEG，LCD 最大支持 4COM x 22SEG，12 位高精度 ADC，96-bit unique ID，SWD 调试，工作条件：2.5V~5.5V，-40°C~105°C，封装形式：SOP16、SOP20、SSOP20、QFN20、SOP28、SSOP28、LQFP32、QFN32|

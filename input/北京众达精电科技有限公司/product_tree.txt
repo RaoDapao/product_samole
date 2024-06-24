@@ -1,0 +1,94 @@
+-> root http://www.allgo.com.cn
+  -> 龙芯模块-北京众达精电科技有限公司 http://www.allgo.com.cn/product/jsmk.html
+  -> 瑞芯微模块-北京众达精电科技有限公司 http://www.allgo.com.cn/product/RK.html
+    -> 瑞芯微模块 
+    -> 瑞芯微模块 
+    -> 瑞芯微模块 
+    -> 瑞芯微模块 
+    -> 瑞芯微模块 
+  -> FPGA模块-北京众达精电科技有限公司 http://www.allgo.com.cn/product/FA.html
+  -> 总线主板-北京众达精电科技有限公司 http://www.allgo.com.cn/product/zxbk.html
+  -> 网关主板-北京众达精电科技有限公司 http://www.allgo.com.cn/product/wltxbk.html
+    -> 网关主板 
+    -> 网关主板 
+    -> 网关主板 
+    -> 网关主板 
+    -> 网关主板 
+    -> 国产化四千兆光口扩展卡 
+    -> 四千兆光口扩展卡 
+    -> 国产化双万兆扩展卡 
+  -> 显控主板-北京众达精电科技有限公司 http://www.allgo.com.cn/product/xkyybk.html
+    -> 瑞芯微 RK3588 全国产一体化显控板 
+    -> 龙芯 3A5000+7A2000 笔记本显控主板 
+    -> RK3568 全国产化显控平板主板 
+    -> 龙芯 2K1000 全国产化显控主板 
+    -> 龙芯 2K1000 全国产化显控主板 
+    -> 龙芯 2K1000 高国产化显控主板 
+  -> 工业主板-北京众达精电科技有限公司 http://www.allgo.com.cn/product/gk.html
+    -> 工业主板 
+    -> 工业主板 
+    -> 串口卡 
+    -> 工业主板 
+    -> 工业主板 
+    -> 工业主板 
+    -> 工业主板 
+    -> 工业主板 
+  -> 众达科技推出龙芯3A6000全国产嵌入式计算机模块-北京众达精电科技有限公司 http://www.allgo.com.cn/company/66.html
+  -> 龙芯模块-北京众达精电科技有限公司_1 http://www.allgo.com.cn/product/jsmk-2.html
+    -> 龙芯 3A3000 全国产化 COM-E 模块 
+    -> 龙芯 3A3000+7A1000 COME 模块 
+    -> 龙芯 2K1000 全国产化 COME 模块 
+    -> 龙芯 2K1000 MINI 模块 
+    -> 龙芯 2K1000 COME 模块 
+  -> 产品特点： 
+    -> 龙芯3A3000处理器； 
+      -> 龙芯7A1000桥片； 
+        -> 板贴4GBDDR3内存； 
+          -> 板贴16GBSATANANDriver存储； 
+            -> 支持M.2和SATA2.0扩展； 
+              -> 支持6个高速千兆网络接口； 
+                -> 支持2路PCI-Ex8扩展槽； 
+                  -> 支持电力可信模块，SPI通道。产品规格： http://www.allgo.com.cn/longxin6/19.html
+    -> 总线类型：PCIe2.0x4； 
+      -> 网络接口类型：四口SFP； 
+        -> 传输介质类型：光纤； 
+          -> 主芯片：IntelI350； 
+            -> 典型功耗：4W； 
+              -> 工作温度：0℃-55℃。产品规格： http://www.allgo.com.cn/sqzgkkzk/30.html
+    -> 总线类型：PCIe2.0x8； 
+      -> 网络接口类型：双口SFP+； 
+        -> 传输介质类型：光纤； 
+          -> 主芯片：SP1000A（网迅）； 
+            -> 典型功耗：6.6W； 
+              -> 工作温度：0℃-55℃。产品规格：_1 http://www.allgo.com.cn/gchswzkzk/29.html
+  -> 工业主板-北京众达精电科技有限公司_1 http://www.allgo.com.cn/product/gk-2.html
+  -> 龙芯3C5000+7A2000服务器网关平台（型号：CRMC_2012_A）-北京众达精电科技有限公司 http://www.allgo.com.cn/lxwlaqyjpt/57.html
+  -> 龙芯3A5000网络安全硬件平台（型号：CRMC_1014_C）-北京众达精电科技有限公司 http://www.allgo.com.cn/lxwlaqyjpt/54.html
+  -> 龙芯3A5000网络安全硬件平台（型号：CRMC_1014_B）-北京众达精电科技有限公司 http://www.allgo.com.cn/lxwlaqyjpt/52.html
+  -> 龙芯3A4000网络安全硬件平台（型号：CRMC_1014_A）-北京众达精电科技有限公司 http://www.allgo.com.cn/lxwlaqyjpt/51.html
+  -> 瑞芯微RK3568工业平板（型号：CTPC_1001_A）-北京众达精电科技有限公司 http://www.allgo.com.cn/lxjgsczd/55.html
+  -> 龙芯2K加固平板（型号：RTPC_1004_A）-北京众达精电科技有限公司 http://www.allgo.com.cn/lxjgsczd/40.html
+  -> 龙芯2H加固平板（型号：TPC_2H04）-北京众达精电科技有限公司 http://www.allgo.com.cn/lxjgsczd/41.html
+  -> 龙芯3A5000+7A2000加固笔记本（型号：RIPC_1502_A）-北京众达精电科技有限公司 http://www.allgo.com.cn/lxxkzd/59.html
+  -> 龙芯2K10.4寸加固显控终端（型号：RTPC_1006_B）-北京众达精电科技有限公司 http://www.allgo.com.cn/lxxkzd/45.html
+  -> 龙芯3A系列加固显控终端（型号：RTPC_1201_A）-北京众达精电科技有限公司 http://www.allgo.com.cn/lxxkzd/42.html
+  -> 龙芯2K加固显控终端（型号：TPC_4502）-北京众达精电科技有限公司 http://www.allgo.com.cn/lxxkzd/43.html
+  -> 众达科技龙芯3A5000产品通过CCC认证-北京众达精电科技有限公司 http://www.allgo.com.cn/company/60.html
+  -> 数据通信网关机（型号：CRMC_2008_A）-北京众达精电科技有限公司 http://www.allgo.com.cn/lxwlaqyjpt/50.html
+  -> 龙芯高端网安硬件平台（型号：CRMC_1005_A）-北京众达精电科技有限公司 http://www.allgo.com.cn/lxwlaqyjpt/32.html
+  -> 龙芯3C5000+7A20002U整机平台（型号：CRMC_2013_A）-北京众达精电科技有限公司 http://www.allgo.com.cn/lxgkpt/56.html
+  -> 龙芯3A3000+7A10002U整机平台（型号：CRMC_2003_A）-北京众达精电科技有限公司 http://www.allgo.com.cn/lxgkpt/39.html
+  -> 众达科技携多款”龙架构”产品亮相龙芯工业生态大会-北京众达精电科技有限公司 http://www.allgo.com.cn/company/57.html
+  -> 众达科技携3A4000新品亮相“龙芯2019产品发布暨用户大会”-北京众达精电科技有限公司 http://www.allgo.com.cn/company/42.html
+    -> 3A4000 新品 
+    -> FPGA 模块 
+    -> 显控主板 
+    -> 网络安全硬件平台 
+    -> 工控平台 
+    -> 手持终端 
+    -> 显控终端 
+    -> 工业 AI 模块 
+    -> 工业 AI 主板 
+    -> 工业 AI 工控机 
+    -> 工业 AI 扩展卡 
+  -> 众达科技携3A4000新品亮相“龙芯2019产品发布暨用户大会”-北京众达精电科技有限公司_1 http://www.allgo.com.cn/company/42.html#

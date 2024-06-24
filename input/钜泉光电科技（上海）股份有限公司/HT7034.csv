@@ -1,0 +1,16 @@
+产品网址：https://www.hitrendtech.com/products/detail?id=53
+产品结构：首页->产品中心->HT7034
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|多功能高精度三相电能专用计量芯片|HT7034|适用于三相三线和三相四线应用，集成了 6 路二阶 sigma-delta ADC、参考电压电路以及所有功率、能量、有效值、功率因数及频率测量的数字信号处理等电路，能够测量各相以及合相的有功功率、无功功率、视在功率、有功能量及无功能量，同时还能测量各相电流、电压有效值、功率因数、相角、频率等参数，充分满足三相复费率多功能电能表的需求|
+
+Part NO.,HT7034,Supply Voltage,3.3V
+Metering Modes,Three-phase  three-wire mode;  Three-phase  four-wire mode,Temperature Sensor,0.726  ℃  /LSB
+ADC Data Buffer,1k*16bit,Metering Functions,Active Reactive Apparent Anti-Theft
+ADC Inputs (Curr+Volt),3+3,Dynamic Range,5000:1
+Active Metering,"Meets 0.2S, 0.5S, supports IEC62053-22, GB/T17215.322",Reactive Metering,"Meets level 1 and level 2, supports IEC62053-23, GB/T17215.323"
+External Crystal OSC (Hz),5.5296M,Apparent Power and Energy Metering Modes,"RMS, PQS"
+SPI,1,Interrupts,"Zero crossing interrupt, sampling interrupt, Energy pulse interrupt, meter calibration interrupt"
+Femu=921.6kHz,4.2mA(All 6 ADCs are turned on);  2.6mA(Only 3 current ADCs are turned on),Femu=1.8432MHz,6.4mA(All 6 ADCs are turned on);  4.5mA(Only 3 current ADCs are turned on)
+Sleep Mode,2uA,Package /Pins,LQFP /32

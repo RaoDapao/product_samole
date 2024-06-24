@@ -1,0 +1,182 @@
+-> root http://www.hxdkj88.com
+  -> 遥控芯片硬件 https://www.hxdkj88.com/product/product_list/catid/1.html
+    -> 语音红外收发芯片 
+    -> 智能红外万能收发 IC 芯片 
+    -> 智能红外万能收发 IC 芯片 
+    -> 智能红外万能收发 IC 芯片 
+    -> 语音识别芯片 
+    -> 语音识别芯片 
+    -> 语音识别芯片 
+    -> 语音识别芯片 
+    -> 灯控开关，数码 IC，红外无线遥控学习型 IC，芯片 
+    -> 单一 OTP(OTP 单一)遥控器 IC DVD MP3 遥控器专用芯片 
+    -> RF 转红外，转发器 IC 芯片，433 转红外，蓝牙转红外 IC，单片机 
+    -> 厂家直销 RF 转红外转发器 IC 芯片蓝牙转红外 IC 单片机 
+    -> 机顶盒卫星机城市通全省通村村通全学习单多页等学习型遥控 IC 芯片 
+    -> 单一 OTP 遥控器 IC，芯片，DVD，等遥控芯片 
+    -> TV 单品牌万能遥控 IC，芯片，各品牌等遥控器芯片 
+    -> 红外 IC 
+    -> 智能单片机电子元器件红外线转发器 IC 芯片 
+    -> 红外智能 IC 芯片 
+    -> 智能红外万能收发 IC 芯片 
+    -> 插件红外 LED 灯 
+    -> 插件红外 LED 灯 
+    -> 红外接收头 
+    -> 红外接收头 
+    -> 红外接收头 
+    -> 红外接收头 
+    -> 红外接收头 
+    -> 插件红外 LED 灯 
+    -> 插件红外 LED 灯 
+    -> 插件红外 LED 灯 
+    -> 插件红外 LED 灯 
+    -> 红外收发灯 
+    -> 红外收发一体贴片灯 LED 灯 
+    -> 手机红外万能遥控贴片灯 
+    -> 智能语音红外万能遥控模块 
+    -> 智能语音红外万能遥控模块 
+    -> 智能语音红外万能遥控模块 
+    -> 苹果 lighting 转红外 
+    -> 苹果 lighting 转红外 
+    -> HXD1289-USB 
+    -> 安卓 Type-c 转红外 
+    -> 安卓 micro 转红外 
+    -> 安卓 Type-c 转红外 
+    -> 安卓 Type-c 转红外 
+    -> 安卓 micro 转红外 
+    -> 互联网红外学习收发模块 
+    -> 手机控制家电蓝牙模块微信小程序微信接口码库 
+    -> 串口转红外模块 
+    -> 红外学习串口收发模块 
+    -> 蓝牙转红外模块 
+    -> USB 转红外模块 
+    -> 手机遥控器 
+    -> 新品 wifi 转红外远程遥控 wifi 红外转发器 
+    -> 蓝牙红外转发器微信小程序：红外万能遥控 
+    -> 互联网红外学习收发模块 
+    -> 遥控器测试板，ID 测试板 
+    -> 智能红外遥控器测试仪，测码仪 
+  -> 产品案例 https://www.hxdkj88.com/cases/cases_list/catid/14.html
+    -> 蓝牙红外转发器 
+    -> 蓝牙红外转发器 
+  -> 语音红外收发芯片 https://www.hxdkj88.com/product/product_list/catid/2.html
+    -> 手机红外万能遥控贴片灯-hxd051C-IRLED 
+    -> 手机遥控器_HXD1265 蓝牙 4.0 转红外模块 
+    -> 新品 HXD2286 wifi 转红外远程遥控 wifi 红外转发器 
+  -> 红外收发模块 https://www.hxdkj88.com/product/product_list/catid/4.html
+  -> 红外测码仪 https://www.hxdkj88.com/product/product_list/catid/5.html
+  -> 产品列表 https://www.hxdkj88.com/down/down_list/catid/20.html
+  -> Chiphardware https://www.hxdkj88.com/en/product/product_list/catid/1.html
+    -> Infrared transceiver chip 
+    -> Infrared transceiver module 
+    -> Infrared measuring Ma 
+    -> Infrared chip 
+    -> Infrared chip 
+    -> Infrared chip 
+    -> TV single brand universal remote control IC, chip 
+    -> wireless remote control IC infrared signal processing chip 
+    -> HXD0550-IRLED 
+    -> HXD2085A Infrared receiving head 
+    -> HXD5038-90 Plug in infrared LED lamp 
+    -> hxd051C-IRLED Mobile phone infrared universal remote control patch lamp 
+    -> New HXD2286 WiFi infrared 
+    -> HXD1265-Bluetooth 4.0 Factory direct sales of new mobile phone remote controller 
+    -> Intelligent infrared remote control decoder, tester, detector, measuring instrument 
+    -> Intelligent infrared remote control decoder, tester, detector, measuring instrument 
+    -> Factory direct remote control decoder board, ID decoder board 
+  -> Infraredtransceiverc https://www.hxdkj88.com/en/product/product_list/catid/2.html
+    -> Infrared receiving head 
+    -> Infrared LED lamp 
+    -> Mobile phone infrared universal remote control patch lamp 
+  -> Originalinfraredtran https://www.hxdkj88.com/en/product/product_list/catid/3.html
+    -> HXD019M Learning red remote control module universal remote control IC chip infrared learning module 
+    -> HXD1020 Intelligent infrared remote control decoder, tester, detector, measuring instrument 
+    -> HXD1001 Intelligent infrared remote control decoder, tester, detector, measuring instrument 
+    -> HXD1001A Factory direct remote control decoder board, ID decoder board 
+  -> InfraredmeasuringMa https://www.hxdkj88.com/en/product/product_list/catid/5.html
+  -> Productlist https://www.hxdkj88.com/en/down/down_list/catid/20.html
+    -> 红外遥控器测码仪 
+    -> 单一 OTP 遥控 IC 
+    -> 红外遥控器学习型 IC 
+    -> 手机万能遥控器 IC 
+    -> 用于蓝牙转红外模块、HXD1282 手机平板万能遥控器资料 
+    -> 量产配套测试仪 
+  -> HXD036语音识别加app红外控制|A https://www.hxdkj88.com/product/product_show/itemid/53.html
+  -> HXD019E智能红外万能收发IC芯片 https://www.hxdkj88.com/product/product_show/itemid/2.html
+  -> HXD019EU,019E,019C,0 https://www.hxdkj88.com/product/product_show/itemid/1.html
+  -> HXD019EU智能红外万能收发IC芯片 https://www.hxdkj88.com/product/product_show/itemid/3.html
+  -> HXD019EU(N)智能红外万能收发I https://www.hxdkj88.com/product/product_show/itemid/52.html
+  -> HXD026语音识别芯片 https://www.hxdkj88.com/product/product_show/itemid/60.html
+  -> HXD016B语音识别芯片 https://www.hxdkj88.com/product/product_show/itemid/58.html
+  -> HXD016S语音识别芯片 https://www.hxdkj88.com/product/product_show/itemid/59.html
+  -> HXD016语音识别芯片 https://www.hxdkj88.com/product/product_show/itemid/57.html
+  -> 灯控开关，数码IC,红外无线遥控学习型I https://www.hxdkj88.com/product/product_show/itemid/41.html
+  -> 单一OTP(OTP单一)遥控器ICDVD https://www.hxdkj88.com/product/product_show/itemid/36.html
+  -> RF转红外,转发器IC芯片,433转红外 https://www.hxdkj88.com/product/product_show/itemid/40.html
+  -> 厂家直销RF转红外转发器IC芯片蓝牙转红 https://www.hxdkj88.com/product/product_show/itemid/39.html
+  -> 机顶盒卫星机城市通全省通村村通全学习单多 https://www.hxdkj88.com/product/product_show/itemid/38.html
+  -> 单一OTP遥控器IC，芯片，DVD，等遥 https://www.hxdkj88.com/product/product_show/itemid/37.html
+  -> TV单品牌万能遥控IC，芯片，各品牌等遥 https://www.hxdkj88.com/product/product_show/itemid/14.html
+    -> TV 单品牌万能遥控 IC 
+  -> HXD089红外IC红外信号处理芯片 https://www.hxdkj88.com/product/product_show/itemid/11.html
+  -> 智能单片机电子元器件红外线转发器IC芯片 https://www.hxdkj88.com/product/product_show/itemid/7.html
+  -> 红外智能IC芯片HXD019B https://www.hxdkj88.com/product/product_show/itemid/5.html
+  -> HXD019C智能红外万能收发IC芯片 https://www.hxdkj88.com/product/product_show/itemid/4.html
+  -> 插件红外LED灯HXD50385mmDI https://www.hxdkj88.com/product/product_show/itemid/33.html
+  -> 插件红外LED灯HXD5038-120- https://www.hxdkj88.com/product/product_show/itemid/32.html
+  -> 红外接收头HXD1885-38K https://www.hxdkj88.com/product/product_show/itemid/30.html
+  -> 红外接收头HXD2085A-56k https://www.hxdkj88.com/product/product_show/itemid/29.html
+  -> 红外接收头HXD2085B-38K https://www.hxdkj88.com/product/product_show/itemid/28.html
+  -> 红外接收头HXD2086A-38K https://www.hxdkj88.com/product/product_show/itemid/27.html
+  -> 红外接收头HXD1886-38K https://www.hxdkj88.com/product/product_show/itemid/26.html
+  -> 插件红外LED灯HXD3038-60-1 https://www.hxdkj88.com/product/product_show/itemid/25.html
+  -> 插件红外LED灯HXD3038-90-1 https://www.hxdkj88.com/product/product_show/itemid/24.html
+  -> 插件红外LED灯HXD5038-90 https://www.hxdkj88.com/product/product_show/itemid/23.html
+  -> 插件红外LED灯HXD5038-90_1 https://www.hxdkj88.com/product/product_show/itemid/22.html
+  -> 热销HXD0550红外收发灯 https://www.hxdkj88.com/product/product_show/itemid/17.html
+  -> 热销红外收发一体贴片灯LED灯HXD35 https://www.hxdkj88.com/product/product_show/itemid/15.html
+  -> 手机红外万能遥控贴片灯-hxd051C- https://www.hxdkj88.com/product/product_show/itemid/13.html
+  -> HXD4826S-HXD4826USB- https://www.hxdkj88.com/product/product_show/itemid/54.html
+  -> HXD4816QMD智能语音红外万能遥控 https://www.hxdkj88.com/product/product_show/itemid/56.html
+  -> HXD4816SMD智能语音红外万能遥控 https://www.hxdkj88.com/product/product_show/itemid/55.html
+  -> 苹果lighting转红外HXD1289 https://www.hxdkj88.com/product/product_show/itemid/47.html
+  -> 苹果lighting转红外HXD1289_1 https://www.hxdkj88.com/product/product_show/itemid/44.html
+  -> HXD1289-USB https://www.hxdkj88.com/product/product_show/itemid/51.html
+  -> 安卓Type-c转红外HXD1289 https://www.hxdkj88.com/product/product_show/itemid/50.html
+  -> 安卓micro转红外HXD1289-BM https://www.hxdkj88.com/product/product_show/itemid/49.html
+  -> 安卓Type-c转红外HXD1289-B https://www.hxdkj88.com/product/product_show/itemid/48.html
+  -> 安卓Type-c转红外HXD1289-C https://www.hxdkj88.com/product/product_show/itemid/46.html
+  -> 安卓micro转红外HXD1289-CM https://www.hxdkj88.com/product/product_show/itemid/45.html
+  -> 互联网红外学习收发模块HXD019ML https://www.hxdkj88.com/product/product_show/itemid/34.html
+  -> 手机控制家电蓝牙模块微信小程序微信接口码 https://www.hxdkj88.com/product/product_show/itemid/31.html
+  -> 串口转红外模块HXD3288U-P https://www.hxdkj88.com/product/product_show/itemid/21.html
+  -> HXD019EU-ML红外学习串口收发模 https://www.hxdkj88.com/product/product_show/itemid/20.html
+  -> 蓝牙转红外模块HXD1282（2.0）H https://www.hxdkj88.com/product/product_show/itemid/19.html
+  -> USB转红外模块HXD3288 https://www.hxdkj88.com/product/product_show/itemid/18.html
+  -> 手机遥控器_HXD1265蓝牙4.0转红 https://www.hxdkj88.com/product/product_show/itemid/12.html
+  -> 新品HXD2286wifi转红外远程遥控 https://www.hxdkj88.com/product/product_show/itemid/9.html
+  -> 蓝牙红外转发器HXD1288微信小程序： https://www.hxdkj88.com/product/product_show/itemid/8.html
+  -> 互联网红外学习收发模块HXD019M https://www.hxdkj88.com/product/product_show/itemid/6.html
+  -> 遥控器测试板,ID测试板HXD1001A https://www.hxdkj88.com/product/product_show/itemid/35.html
+  -> HXD1001智能红外遥控器测试仪,测码 https://www.hxdkj88.com/product/product_show/itemid/16.html
+  -> HXD1020红外测码仪热销 https://www.hxdkj88.com/product/product_show/itemid/10.html
+  -> IC-,HXD019D,019B,019 https://www.hxdkj88.com/en/product/product_show/itemid/44.html
+  -> HXD019CInfraredchip https://www.hxdkj88.com/en/product/product_show/itemid/48.html
+  -> HXD019BInfraredchip https://www.hxdkj88.com/en/product/product_show/itemid/49.html
+  -> HXD019AInfraredchip https://www.hxdkj88.com/en/product/product_show/itemid/50.html
+  -> HXD0114TVsinglebrand https://www.hxdkj88.com/en/product/product_show/itemid/52.html
+    -> TV 单品牌通用遥控器 IC 
+    -> 学习遥控器 IC 
+  -> HXD089wirelessremote https://www.hxdkj88.com/en/product/product_show/itemid/59.html
+  -> HXD0550-IRLED https://www.hxdkj88.com/en/product/product_show/itemid/51.html
+  -> HXD2085AInfraredrece https://www.hxdkj88.com/en/product/product_show/itemid/53.html
+  -> HXD5038-90Plugininfr https://www.hxdkj88.com/en/product/product_show/itemid/54.html
+  -> hxd051C-IRLEDMobilep https://www.hxdkj88.com/en/product/product_show/itemid/58.html
+  -> NewHXD2286WiFiinfrar https://www.hxdkj88.com/en/product/product_show/itemid/45.html
+  -> HXD1265-Bluetooth4.0 https://www.hxdkj88.com/en/product/product_show/itemid/46.html
+    -> HXD1265-Bluetooth 4.0 
+    -> Hxd019 芯片 
+  -> HXD019MLearningredre https://www.hxdkj88.com/en/product/product_show/itemid/57.html
+  -> HXD1020Intelligentin https://www.hxdkj88.com/en/product/product_show/itemid/47.html
+  -> HXD1001Intelligentin https://www.hxdkj88.com/en/product/product_show/itemid/55.html
+  -> HXD1001AFactorydirec https://www.hxdkj88.com/en/product/product_show/itemid/56.html

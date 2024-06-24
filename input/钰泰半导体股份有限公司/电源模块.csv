@@ -1,0 +1,9 @@
+产品网址：https://www.eta-semi.com/product-cat/%e7%94%b5%e6%ba%90%e6%a8%a1%e5%9d%97/%e7%94%b5%e6%ba%90%e6%a8%a1%e5%9d%97-%e7%94%b5%e6%ba%90%e6%a8%a1%e5%9d%97
+产品结构：首页->电源模块->电源模块
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|电源模块|无|无|
+
+Max Frequency(Hz),Min Vcc(V),Max Vcc(V),Standby Power(mW),Pout Max(W),CC/OCP
+12M,2.1,5.5,0.001,3.3W,OCP

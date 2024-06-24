@@ -1,0 +1,25 @@
+产品网址：https://www.dkpower.cn/ACDCchanpinxianGaN.html
+产品结构：首页->产品中心->AC-DC电源管理系列->AC-DC产品线(GaN)
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|AC-DC 产品线(GaN)|无|无|
+
+Product,Characteristics,Topology,GaN FET BV/Rdson,Standby Power,Output Power,fMAX,Package,VDD Range
+DK8012AP,QR-Lock GaN AC-DC Converter,QR-LOCK,700V/2200mΩ,<50mW,12W,250KHz,ESOP7,-0.3~60V
+DK8020AP,QR-Lock GaN AC-DC Converter,QR-LOCK,700V/1200mΩ,<50mW,20W,250KHz,ESOP7,-0.3~60V
+DK8025AP,QR-Lock GaN AC-DC Converter,QR-LOCK,700V/800mΩ,<50mW,25W,250KHz,ESOP7,-0.3~60V
+DK8035AP,QR-Lock GaN AC-DC Converter,QR-LOCK,700V/600mΩ,<50mW,30W,250KHz,ESOP7,-0.3~60V
+DK8607AD,Active Clamp Flyback (ACF) GaN AC-DC Converter,ACF,HS 700V/400mΩ+LS 700V/260mΩ,<50mW,65W,1MHz,DFN8*8,-0.3~26V
+DK8612AD,Active Clamp Flyback (ACF) GaN AC-DC Converter,ACF,HS 700V/400mΩ+LS 700V/260mΩ,<50mW,120W,1MHz,DFN8*8,-0.3~26V
+DK8710AD,Asymmetric Half Bridge (AHB) GaN AC-DC Converter,AHB,HS 700V/480mΩ+LS 700V/480mΩ,<50mW,100W,800KHz,DFN8*8,-0.3~27V
+DK8712AD,Asymmetric Half Bridge (AHB) GaN AC-DC Converter,AHB,HS 700V/350mΩ+LS 700V/350mΩ,<50mW,120W,800KHz,DFN8*8,-0.3~27V
+DK8715AD,Asymmetric Half Bridge (AHB) GaN AC-DC Converter,AHB,HS 700V/260mΩ+LS 700V/260mΩ,<50mW,150W,800KHz,DFN8*8,-0.3~27V
+DK8718AD,Asymmetric Half Bridge (AHB) GaN AC-DC Converter,AHB,HS 700V/150mΩ+LS 700V/150mΩ,<50mW,180W,800KHz,DFN8*8,-0.3~27V
+DK075G,QR-Lock GaN AC-DC Converter,QR-LOCK,700V/160mΩ,<50mW,75W,250KHz,DFN8*8,-0.3~30V
+DK065G,QR-Lock GaN AC-DC Converter,QR-LOCK,700V/260mΩ,<50mW,65W,250KHz,DFN8*8,-0.3~30V
+DK045G,QR-Lock GaN AC-DC Converter,QR-LOCK,700V/400mΩ,<50mW,45W,250KHz,PDFN5*6,-0.3~30V
+DK036G,QR-Lock GaN AC-DC Converter,QR-LOCK,700V/400mΩ,<50mW,36W,250KHz,PDFN5*6,-0.3~30V
+DK025G,QR-Lock GaN AC-DC Converter,QR-LOCK,700V/800mΩ,<50mW,25W,250KHz,PDFN5*6,-0.3~30V
+DK020G,QR-Lock GaN AC-DC Converter,QR-LOCK,700V/1200mΩ,<50mW,20W,250KHz,PDFN5*6,-0.3~30V
+DK012G,QR-Lock GaN AC-DC Converter,QR-LOCK,700V/2200mΩ,<50mW,12W,250KHz,PDFN5*6,-0.3~30V

@@ -1,0 +1,22 @@
+-> root http://www.shwonsung.com
+  -> 首页 
+    -> 产品介绍 http://www.shwonsung.com/product.aspx?cid=185
+      -> 键合金线 
+      -> 金银合金线 
+      -> 键合铜线 
+      -> 镀（金）钯铜线 
+  -> Home 
+    -> Product_1 http://www.shwonsung.com/en/product.aspx?cid=185
+      -> Gold Bonding Wire 
+      -> Silver Alloy Bonding Wire 
+      -> Copper Bonding Wire 
+      -> Pd-Coated Cu Wire 
+  -> 제품소개-상해만생합금재료유한책임회사 http://www.shwonsung.com/kr/product.aspx?cid=185
+    -> 금 본딩와이어 
+    -> 은 합금 본딩와이어 
+    -> 구리 본딩와이어 
+    -> 파라듐 도금 동와이어 
+  -> 제품소개-상해만생합금재료유한책임회사_1 http://www.shwonsung.com/kr/product_detail.aspx?id=174
+  -> 제품소개-상해만생합금재료유한책임회사_2 http://www.shwonsung.com/kr/product_detail.aspx?id=175
+  -> 제품소개-상해만생합금재료유한책임회사_3 http://www.shwonsung.com/kr/product_detail.aspx?id=171
+  -> 제품소개-상해만생합금재료유한책임회사_4 http://www.shwonsung.com/kr/product_detail.aspx?id=173

@@ -1,0 +1,6 @@
+产品网址：http://www.i-core.cn/proshow/324.html
+产品结构：root->产品中心-无锡中微爱芯电子有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|8-Bit Flash MCU|AiP8F7201S|集成三相桥式驱动的增强型 8051 核微控制器，特别适合于三相电机应用中高速功率 MOSFET 和 IGBT 的栅极驱动。内置 8051 CPU，1KB XRAM，256B IDMSRAM 和 32KB 可编程 Flash。它包含 19 个可编程多功能 I/Os，Timer0/1/C，UART0，I2C，OP，CMP，16MHz HIRC，两组(3+5 通道)12-bit 的通用 ADC 和三个 90V 半桥栅极驱动器。|

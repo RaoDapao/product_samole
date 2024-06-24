@@ -1,0 +1,46 @@
+产品网址：https://www.szforward.com/product/productDetail_FS5328EX4.html
+产品结构：root->风云实业-专业的数据通信解决方案提供商
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|自主可控交换机|FS5328EX4|无|
+
+规格 / 型号,Tritium FS5328EX4,Unnamed: 2
+硬件规格,硬件规格,
+固定端口,24×1GE RJ45  4×1GE SFP  4×10GE SFP+,
+电源规格,AC：100V-242V 50-60Hz ；DC：40V-75V。支持冗余双电源。,
+最大功耗,≤120W,
+包转发率,160Mpps,
+主要业务功能,主要业务功能,
+端口特性,支持IEEE802.3x flow control  默认支持9K Jumbo frame  支持10G/1G/100M端口速率切换设置  支持端口自动协商特性  支持光纤接口单收、单发  支持物理端口报文收发统计,
+MAC特性,支持静态MAC配置  支持MAC过滤  支持MAC动态学习  支持MAC地址超时老化  支持MAC地址黑名单  支持MAC地址数量限制,
+VLAN特性,支持基于端口的VLAN  支持基于MAC的VLAN  支持基于802.1Q的VLAN  支持VLAN过滤  支持VLAN Translation  支持Private VLAN  支持QinQ,
+端口聚合,支持802.3ad端口聚合  支持源MAC/目的MAC/源-目的MAC/源IP/目的IP/源-目的IP/flow等负载均衡  支持128个聚合组  聚合组支持32个成员端口,
+二层环网,支持STP/RSTP/ MSTP,
+ERPS,支持快速环网ERPS,
+风暴抑制,支持Broadcast / Multicast / Unicast风暴抑制,
+IEEE802.1x,支持基于端口、MAC、用户名的认证,
+端口镜像,支持ingress和egress两个方向镜像  支持基于port、VLAN和流镜像  支持1:1、N:1和1：N的端口镜像,
+DHCP,"支持DHCP Server  支持DHCP Relay, DHCP Relay Option 82",
+IP应用,支持IP报文合法性检查  ARP Protocol  IPv4 Protocol  ICMP Protocol,
+IPv4单播,支持IPv4静态路由、ECMP、策略路由  支持RIPv1/v2  支持OSFP  支持IS-IS  支持BGP,
+IPv4组播,支持IGMP v1/v2/v3/snooping  支持PIM-SM、PIM-DM、SSM、MSDP,
+IPv6单播,支持IPv6静态路由、ECMP、策略路由  支持RIPng  支持OSPFv3  支持IS-ISv6  支持BGP4+,
+IPv6组播,支持MLD  支持PIM-SM for IPv6、SSM for IPv6,
+MPLS,支持MPLS L3 VPN  支持LDP,
+ACL,支持灵活的报文匹配策略  支持丰富的策略应用  支持在物理接口和虚拟接口下应用ACL,
+QoS,支持流量监管  支持独立的单播和组播队列调度  支持SP/WRR/WDRR队列调度算法  支持3+1级队列调度  支持基于队列的最大和最小带宽限速  支持基于物理接口和VLAN接口的整形  支持802.1P/IP TOS/MPLS EXP优先级映射  支持业务拥塞流控反压  支持WRED,
+数据中心特性,支持FCoE、无损以太网、TRILL、VxLAN、虚拟化以及SDN,
+安全特性,DDOS攻击防御  用户分级管理和口令保护  SSH2.0  支持MAC绑定  支持端口隔离  支持ARP源抑制和ARP攻击防范,
+可靠性,支持多固件/多配置文件管理及更换  支持VRRP,
+管理维护,"支持命令行(CLI)配置  支持Console, Telnet, SSHv1/v2  支持多用户权限配置和管理  支持SNMP及通用Trap功能  支持RMON  支持网络诊断命令  支持Public, Private MIB接口  本地 SYSlog：系统日志，分级告警，调试配置信息输出  支持固件升级  支持配置文件升级  支持查询软件版本信息  支持系统时间设置  支持NTP协议  支持端口状态查询",
+环境规格,环境规格,环境规格
+工作环境,工作温度：0 - 45° C  工作湿度：10-90%无凝结,
+存储环境,存储温度：-25- 60° C  存储湿度：5-95%无凝结,
+
+
+型号,描述,配置说明
+Tritium FS5328EX4,24端口10/100/1000Base-T，4端口1000M SFP接口，4端口10GE SFP+接口，2个电源槽位，标配一个可热插拔电源AC220V,必配
+电源模块,电源模块,电源模块
+PSU-AC250-12,"交流电源模块（220VAC,250W）",选配
+PSU-DC-12,"直流电源模块（48VAC,250W）",选配

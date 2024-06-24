@@ -1,0 +1,6 @@
+产品网址：https://www.eta-semi.com/product/956.html
+产品结构：首页->电源管理单元(PMIC)->ETA9085
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Ultra Low Power 5V Boost Converter, 20V Linear Charger and Fuel Gauge All-in-One Solution for TWS Charge Cradle|ETA9085|包括 20V 单节 Li+电池线性充电器、具有真关断功能的 5V Boost 同步转换器和带有 LED 指示的电量计。线性充电器完全集成了恒流（CC）/恒压（CV）控制模块和充电 FET。具有预充电功能，可通过外部电阻编程充电电流。Boost 输出具有断开和短路保护功能。5V/0.5A 输出功率，Boost 效率高达 96%。具有电量计和 LED 指示灯。支持 NTC 热敏电阻输入。具有逻辑控制关断和热关断功能。采用 ESSOP10/DFN3x3-10 封装。适用于 TWS 蓝牙耳机充电盒、蓝牙应用、电池供电的物联网模块、移动电源等。|

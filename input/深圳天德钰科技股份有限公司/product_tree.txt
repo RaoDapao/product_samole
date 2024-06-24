@@ -1,0 +1,11 @@
+-> root https://www.tdytech.com
+  -> 深圳天德钰科技股份有限公司 http://www.tdytech.com/NewsDetail/4029778.html
+    -> 显示屏驱动芯片 
+    -> 电子价签芯片 
+    -> 摄像头音圈马达驱动芯片 
+    -> 快充协议芯片 
+  -> 深圳天德钰科技股份有限公司_1 http://www.tdytech.com/en/NewsDetail/4207645.html
+    -> Display Driver Chip 
+    -> ESL chip 
+    -> Camera Voice Coil Motor Driver Chip 
+    -> Quick Charge Protocol Chip 

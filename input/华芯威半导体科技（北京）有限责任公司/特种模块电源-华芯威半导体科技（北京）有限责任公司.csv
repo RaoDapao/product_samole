@@ -1,0 +1,15 @@
+产品网址：http://www.hxinwei.com/productinfo/1315481.html
+产品结构：root->特种模块电源-华芯威半导体科技（北京）有限责任公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|特种模块电源|120e4451dd378fe104dade320060379|无|
+
+序号,型号,类型,功率,输入电压,输出电压,下载
+1,HPF350-24B,AC-DC,350W,90～264Vac,24Vdc,download
+2,HPF1K5-48A,AC-DC,1.5KW,90～280Vac,48Vdc,download
+3,HPF3K5-400A,AC-DC,3.5KW,85～265Vac,400Vdc,download
+4,HPF7K-750A,AC-DC,7KW,90～280Vac,750Vdc,download
+5,HPF15K-800A,AC-DC,15KW,320～430Vac,800Vdc,download
+6,HPF20K-750A,AC-DC,20KW,260～530Vac,750Vdc,download
+7,HP15K-750A,DC-DC,15KW,±400/800Vdc,150-750Vdc,download

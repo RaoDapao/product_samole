@@ -1,0 +1,8 @@
+产品网址：https://bjcktech.com/index.php/Home/Product/view/id/196.html
+产品结构：Currentlocation：Home->Products->5GBaseStation->CustomizedProducts
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|5G 基带单元|无|基于 5G DU 基带板，采用 19"标准 1U 高度机箱，内置一块或两块基带板。可与不同频段的 pRRU 组成 5G 室内分布式基站系统，或与 2T2R 两通道或 4T4R 四通道高射频功率 RRU 组成 5G 室外分布式基站系统|
+|5G DU 单元（基于 X86 架构）|无|根据客户需求，5G DU 基带板可通过 PCI-E 接口插入 X86/ARM 平台 RAN 服务器中作为 5G DU 板运行，满足客户在 5G 单模、4G&5G 双模等各种场景的部署要求|
+|集成 5G 基站|无|集成 5G 大功率基站源于 5G DU 基带单元，支持 4T4R 四通道，每通道射频功率为 5W/10W，载波带宽为 100MHz（Sub-6G）。可定制支持 3GPP 规划的不同频段，如 TDD 2.6GHz、3.5GHz 频段等|

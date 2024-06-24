@@ -1,0 +1,20 @@
+产品网址：https://www.marching-power.com/sgtm
+产品结构：首页->产品中心->硅基芯片及模组系列->SGTMOSFET
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|SGT MOSFET|无|无|
+
+Part Number,VDSS(V),ID(A)@25°C,V(GS)th(V)@250μA,V(GS)th(V)@250μA.1,RDS(on)(mΩ) 25°CMax,RDS(on)(mΩ) 25°CMax.1,QG(nC),Package,Datasheet
+Part Number,VDSS(V),ID(A)@25°C,min,max,@VGS=10V,@VGS=4.5V,QG(nC),Package,Datasheet
+MPGJ04R017,40,200,2.0,4.0,2.0,/,73,DFN5*6,Download
+MPGP06R030H,60,160,2.5,4.5,3.0,/,51.6,TO-220,Download
+MPGJ80R040,80,130,2.0,4.0,4.0,/,61.4,DFN5*6,Download
+MPGJ10R7,100,94,1.1,2.3,9,50,46,DFN5*6,Download
+MPGP10R065,100,87,1.1,2.5,6.5,/,46,/,Download
+MPGP10R033,100,160,2.0,4.0,3.3,/,120,TO-220,Download
+MPGC10R033H,100,160,2.0,4.0,3.3,/,120,TO-263,Download
+MPGC15R063,150,157,2.0,4.0,6.3,/,65,TO-263,Download
+MPGW15R070,150,100,2.5,4.5,7.0,/,58,TO-247,Download
+MPGC20R170,200,80,2.5,4.5,17.0,/,57,TO-263,Download
+MPGW20R170,200,80,2.5,4.5,17.0,/,57,TO-247,Download

@@ -1,0 +1,7 @@
+产品网址：https://www.empyrean-tech.com/products/eda/rf-ic.html
+产品结构：root->RFICDesignSolution_Product_EmpyreanTechnologyCo.,Ltd
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|RF IC Design Solution|Empyrean XModel-RF|提供各种器件的 RF 模型提取，支持用户构建模板，还支持脚本以满足定制开发需求|
+|RF IC Design Solution|Empyrean ALPS-RF|支持大信号、小信号和噪声分析等全面的 RF 仿真功能，采用独特的异构矩阵求解算法，在精度和平行效率方面表现出色|

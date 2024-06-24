@@ -1,0 +1,42 @@
+产品网址：https://www.awinic.com/en/findProductsByCompetitor
+产品结构：root->Awinic
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Auto K|Digital smart K auto|无|
+|Auto K|Medium power K|Digital smart K plus、Smart K plus|
+|Auto K|Smart K|Class AB、Class D、Class K、Smart K|
+|Auto K|Digital smart K|Digital smart K|
+|Haptic|Haptic drivers|Boost haptic、Charge pump haptic、VBAT haptic|
+|Motor drivers|DC motor drivers|BDC motor drivers|
+|Motor drivers|Stepper motor drivers|Stepper motor drivers|
+|Camera AF & OIS|Camera AF & OIS|Close loop drivers、Open loop drivers、OIS drivers|
+|Power management|OCP|Low voltage OCP、High voltage OCP|
+|Power management|Breathing LED drivers|Direct breathing LED drivers、Matrix breathing LED drivers|
+|Power management|Flash/IR LED drivers|Inductorless flash/IR LED drivers、Charge pump flash/IR LED drivers、ToF LD drivers、Boost flash/IR LED drivers、Buck flash/IR LED drivers|
+|Power management|Backlight LED drivers|Series backlight LED drivers、Parallel backlight LED drivers|
+|Power management|Display power ICs|LCD bias、OLED power|
+|Power management|OVP|OVP with surge protection、Back to back OVP|
+|Power management|DC/DC converters|Boost、Buck、Buck-Boost|
+|Power management|LDO regulators|Low Vɪɴ LDO|
+|Power management|Chargers|Switching Chargers、Linear chargers、Charger PMIC、Charge pump chargers|
+|Power management|Power switches|Multi-Channel load switches、Single-Channel load switches|
+|Power management|USB Type-C & PD|USB Type-C protection、USB 3.1 switches、USB 2.0 switches、PD Phy、CC Logic|
+|Power management|MOSFET|MOSFET|
+|Signal chain|MIPI switches|MIPI switches|
+|Signal chain|Vref & Reset Ics|Reset ICs|
+|Signal chain|Comparators|High voltage comparators、High speed comparators|
+|Signal chain|Analog switches|Analog switches|
+|Signal chain|Amplifiers|General-purpose op amps、High precision op amps|
+|Signal chain|Interfaces|I²C level shifters & buffers、I²C GPIO expanders、I²C switches & multiplexers|
+|Signal chain|Logic & voltage translators|Voltage level translators、Logic gates|
+|RFFE|Cellular LNA|LNA bank、LTE LNA|
+|RFFE|WCN LNA|Bluetooth/BLE LNA、GNSS LNA、FM LNA|
+|RFFE|RF switches|WiFi switches、UWB switches、Sub-7GHz RF switches、Sub-4GHz RF switches|
+|RFFE|Tuning switches|SPxT tuning switches、x-SPST tuning switches|
+|Smart sensor ICs|Hall|Linear Hall sensors、Hall latches、Hall switches|
+|Smart sensor ICs|Capacitive sensor controllers|Cap AFE、Cap SoC|
+|Smart sensor ICs|SAR sensors|SAR sensors|
+|Smart sensor ICs|Force sensor controllers|Force AFE、Force SoC|
+
+

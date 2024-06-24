@@ -1,0 +1,6 @@
+-> root http://www.xinchip.com
+  -> 首页 
+    -> 芯片产品 http://www.xinchip.com/25
+      -> 蓝牙芯片 http://www.xinchip.com/39
+      -> 2.4G芯片 http://www.xinchip.com/40
+      -> SUB-1G http://www.xinchip.com/41

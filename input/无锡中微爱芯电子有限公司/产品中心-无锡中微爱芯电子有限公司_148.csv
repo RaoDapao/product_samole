@@ -1,0 +1,6 @@
+产品网址：http://www.i-core.cn/proshow/319.html
+产品结构：root->产品中心-无锡中微爱芯电子有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|8-Bit Flash MCU|AiP8F3516|16KBFlash ROM 的触摸型 8 位微控制器，包含 16KB FLASH，256B IRAM，1KB XRAM，3 个 16 位通用定时器，1 个 12 位复杂定时器 T5，1 个 22 位 WT（可用于 RTC 计时），2 路 UART，1 路 SPI，1 路 I2C，20 通道 12 位 ADC，7 个软件控制 COM 口 1/2 偏压，26 个触摸按键，26 个 I/O。支持 IDLE、STOP 两种低功耗模式，支持外部中断、UART 接收唤醒等唤醒操作。触摸采用 CCT 结构，无需片外触摸电容。|

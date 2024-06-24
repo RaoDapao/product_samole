@@ -1,0 +1,14 @@
+产品网址：https://www.len-technology.com/en/products/led
+产品结构：root->LEDDriver
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|LED Driver|无|Possesses technical advantages such as high input voltage tolerance and fast transient response.|
+
+Orderable PN,Vin Min (V),Vin Max (V),Iout (A),Fsw (KHz),SS Time (mS),Spread Spectrum,Dimming mode,Fault,Enable,Package,Product grade,Operating junction temperature,Functional safety supported,Status
+LN33061Q1SDEFR,3.5,60,1.5,400,2.9,Yes,PWM/Analog,Yes,Yes,SOIC-EP8,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN33061Q1-D-EFR,3.5,60,1.5,400,2.9,No,PWM/Analog,Yes,Yes,SOIC-EP8,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN33161Q1S1EFR,3.5,60,1.5,200 to 2500,6.6,Yes,PWM/Analog,No,Yes,SOIC-EP8,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN33161Q1-1-EFR,3.5,60,1.5,200 to 2500,6.6,No,PWM/Analog,No,Yes,SOIC-EP8,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN33061Q1S1EFR,3.5,60,1.5,400,6.6,Yes,PWM/Analog,Yes,Yes,SOIC-EP8,Automotive,-40 to 150,Functional Safety Supported,RTM
+LN33061Q1-1-EFR,3.5,60,1.5,400,6.6,No,PWM/Analog,Yes,Yes,SOIC-EP8,Automotive,-40 to 150,Functional Safety Supported,RTM

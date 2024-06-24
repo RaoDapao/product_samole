@@ -1,0 +1,9 @@
+产品网址：http://www.masses-chip.com/c/cpzx/cpzx-otp/cpzx-otp-lcd-mcu
+产品结构：root->OTPLCD型MCU|
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|OTP LCD 型 MCU|无|无|
+
+芯片型号,ROM,RAM,堆栈级数,I/O,中断源,定时器,PWM,LCD,工作电压,休眠功耗,特殊功能,封装形式
+M8R82,2K*16,128,8,47+1,TC0/TC1/TC2  INT0/INT1  IOC变化  KEY/IR/LVD,3,1,32*4  28*8,2.2~ 5.5V,<1uA,8*8按键扫描  3路RFC  PWM带IR载波,LQFP64

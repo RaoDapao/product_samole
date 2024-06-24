@@ -1,0 +1,20 @@
+产品网址：https://www.sirius-semi.com/met_chart
+产品结构：root->公司产品-天狼芯半导体
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|中低压 MOSFET|Trench、SGT|无|
+|SJ MOS|SJ MOS|无|
+|SiC|SiC SBD、SiC MOS|无|
+|IGBT|IGBT_单管、IGBT_模块|无|
+|Planer MOS|Planer MOS|无|
+|车规|MOSFET、IGBT|无|
+|LDO Voltage Regulators|Bipolar LDO Voltage Regulators、CMOS LDO Voltage Regulators-1、CMOS LDO Voltage Regulators-2、CMOS LDO Voltage Regulators-2 nA LDO|无|
+|AC-DC|AC-DC LED Drivers、AC-DC Switching Power Supply PWM Controllers|无|
+|DC-DC|DC-DC LED Drivers、DC-DC Converters、Buck-2、Boost-2|无|
+|Voltage And Current Controllers|Voltage And Current Controllers|无|
+|Comparators & Operational Ampli|Comparators & Operational Amplifiers|无|
+|Switches|Switches-1、Switches-2|无|
+|Interface Transceivers|Interface Transceivers|无|
+|Standard Logic|Standard Logic|无|
+|Others|Others|无|

@@ -1,0 +1,93 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/963.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|5MP Fixed EW Bullet Camera|TC-C35WQ|· Metal Housing<br>· Up to 2880x1620@30fps<br>· S+265/H.265/H.264/M-JPEG<br>· Min. illumination Color: 0.002Lux@F1.6<br>· Smart IR<br>· Support tripwire and perimeter<br>· Support Face Capture Mode<br>· Support Human/Vehicle Classification<br>· Built-in Mic, support max 512G Micro SD Card<br>· Operating Conditions-40°~65, 0~95% RH<br>· DC12V, POE<br>· IP67, IK10|
+
+Camera,Unnamed: 1
+Image Sensor,"1/2.7""CMOS"
+Min. Illumination,"Color:0.002Lux@(F1.6,AGC ON),B/W:0Lux with IR"
+Shutter Time,"Auto,1s-1/100000s"
+Day&Night,IR-cut filter with auto switch (ICR)
+WDR,120dB
+S/N,>  52  dB
+Angle Adjustment,0-360  °;0-90°;0-360°
+Lens,
+Lens Type,Fixed
+Focal Length,4mm
+Lens Mount,M12
+Aperture Range,"F1.6,Fixed"
+Field of View,88.7  °(H);46.8°(V);100.3°(D)
+DORI Distance,Detect:80m  Observe:31.5m  Recognize:16m  Identify:8m
+Illuminator,
+IR LEDs,2
+IR Distance,60  m
+Wavelength,850nm
+Whitelight Distance,40  m
+Compression Standard,
+Video Compression,S+265/H.265/H.264B/H.264M/H.264H/Motion JPEG
+Video Bit Rate,32k-16Mbps
+Audio Compression,G.711A/G.711U/ADPCM_D/AAC_LC
+Audio Sampling Rate,8kHz/32kHz/48kHz
+Image,
+Max. Resolution,2880x1620@30fps
+Main Stream,"PAL:25fps(2880x1620,2688x1520,2560x1440,2304x1296)  50fps(1920x1080,1280x720)  NTSC:30fps(2880x1620,2688x1520,2560x1440,2304x1296)  60fps(1920x1080,1280x720)"
+Sub Stream,"PAL:25fps(704x576,704x288,352x288,640x360)  NTSC:30fps(704x480,704x240,352x240,640x360)"
+Third Stream,"PAL:25fps(1280x720,704x576,640x360,704x288,352x288)  NTSC:30fps(1280x720,704x480,640x360,704x240,352x240)"
+BLC,Yes
+HLC,Yes
+AGC,Yes
+3D DNR,Yes
+White Balance,Auto/Semi-auto/Manual/Sunny/Natural light/Warm light/Sodium lamp/  Incandescent lamp/Locked white balance
+ROI,8 regions
+Corridor mode,Yes
+OSD,5regions;16*16/32*32/48*48/64*64/96*96
+Picture Overlay,1 region
+Privacy Mask,4 regions
+Defog,Yes
+Feature,
+Alarm Trigger,"Motion Detection;Mask Alarm;Voltage Alarm;Disk Full;Disk R/W Error;IP Address Conflict;MAC Address Conflict;FTP Server Exception ;Event Input, Event Output"
+Linkage Method,send email;trigger sound;trigger warmlight;trigger recording;  trigger capture;notify surveillance center
+Video Analytics,Human/Vehicle Classification;Tripwire;Perimeter;Video Abnormal;Audio Abnormal
+User,Up to 32
+Rules of behavior analyse in 1 scene,8
+Early Warning(EW),Early Warning(EW)
+Face Mode,Face Capture
+Face Detection Performance,Detects up to  8  faces at the same scene
+Network,
+ANR,ANR
+Protocols,HTTP;HTTPS;TCP/IP;UDP;UPnP;ICMP;IGMP;SNMP;DHCP;DNS;DDNS;Easy DDNS;NTP;  SMTP;SSL;802.1X;QoS;IPv4;IPv42;PPPOE;Unicast;Multicast;RTCP;ARP;RTP;SRTP;RTSP;  FTP;SFTP;NAS
+System Compatibility,ONVIF Profile S/T/G/M;CGI;Milstone;RTMP
+Remote Connection,≤2  0
+Client,Easy7 Smart Client
+Moblie Client,"EasyLive Plus  ,P2P"
+Web,IE10+;Firefox52+;Edge89+;Safari11+;Chrome57+
+Interface,
+Communication Interface,1 RJ45 10M/ 100M self adaptive Ethernet port
+Audio I/O,1channel in;1channel out
+Alarm I/O,"1channel in,3mA,3.3VDC;1channel out,30mA,12VDC"
+Built-In Mic,Yes
+Audio mode,Two-Way
+Audio Bitrate,64kbps
+Built-In Speaker,Yes
+Reset Button,Yes
+On-board storage,"Built-in Micro SD card slot, up to 512 GB"
+Additional interfaces,
+General,
+Web Client Language,19languages  Simple Chinese/Traditional Chinese/English/Spanish/Korean/Italian/Turkish/Russian/  Thai/French/Polish/Dutch/Hebrew/Arabic/Vietnamese/German/Ukrainian/  Portuguese/Albanian
+Operating Temperature,-40  ℃-65℃
+Operating Humidity,0-95%
+Storage Temperature,-40  ℃-65℃
+Storage Humidity,0-95%(non-condensing)
+Power Supply,"DC12V  ±25%,MAX 6.5W;POE 802.3af,MAX 8W"
+Protection,"Surge protection 2000V;Lightning proof 6000V;IP67,IK10"
+Certificate,CE/FCC/RoHS/ONVIF/NDAA
+Boundary Dimensions,170(L)73(W)73(H)mm
+Package Dimensions,195(L)95(W)105(H)mm
+GrossWeight,0.65kg
+NetWeight,0.52kg
+
+
+Date,Title,Type
+2023-12-12,TC-35WQ Spec I6WEY4mmV4.2,pdf

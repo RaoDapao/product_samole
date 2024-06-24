@@ -1,0 +1,6 @@
+产品网址：https://www.smartx.com/blog/2024/01/zbs-hds-performance
+产品结构：root->分布式存储与集中式存储（HDS）的性能对比–SmartX
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|分布式存储 ZBS|无|支持 iSCSI、NVMe over TCP 和 NVMe over RDMA（RoCE v2）三种协议，在大部分基准测试和 Oracle 场景中，性能和稳定性均优于 HDS 集中式存储，优化的快照机制可降低快照创建对性能带来的影响|

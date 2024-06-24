@@ -1,0 +1,38 @@
+产品网址：https://www.altobeam.com/channels/3.html
+产品结构：root->高拓讯达
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Wi-Fi 芯片|ATBM6431|无|
+|Wi-Fi 芯片|ATBM6421|无|
+|Wi-Fi 芯片|ATBM6132|无|
+|Wi-Fi 芯片|ATBM6031-X|无|
+|Wi-Fi 芯片|ATBM6032-X|无|
+|Wi-Fi 芯片|ATBM6012B-X|无|
+|Wi-Fi 芯片|ATBM6062 系列|无|
+|Wi-Fi 芯片|ATBM6031|无|
+|Wi-Fi 芯片|ATBM6032|无|
+|Wi-Fi 芯片|ATBM6012B|无|
+|Wi-Fi 芯片|ATBM6441|无|
+
+产品名称,尺寸,发布日期,功能简介,供货状态
+ATBM6132,5x5,Q4 2023,"支持IEEE 802.11a/b/g/n协议, 2.4&5GHz, 40MHz带宽,  Wi-Fi4 + BLE v5.0双模数传芯片",在产
+ATBM6031-X,4×4,Q2 2023,"支持IEEE 802.11b/g/n协议, 2.4GHz, 1T1R模式，20MHz和40MHz带宽,  SDIO接口Wi-Fi  数传  芯片",在产
+ATBM6032-X,4×4,Q2 2023,"支持IEEE 802.11b/g/n协议, 2.4GHz, 1T1R模式，20MHz和40MHz带宽,  USB接口Wi-Fi  数传  芯片",在产
+ATBM6012B-X,4x4,Q2 2023,"支持IEEE 802.11b/g/n协议, 2.4GHz, 1T1R模式, 20MHz带宽, USB接口Wi-Fi  数传  芯片",在产
+ATBM6062系列,5x5,Q1 2023,"支持IEEE 802.11b/g/n/ax协议, 2.4GHz, 1T1R模式, 20MHz和40MHz带宽, Wi-Fi6+  蓝牙BLE v5.0  双模传输芯片",在产
+ATBM6031,4×4,Q2 2019,"支持IEEE 802.11b/g/n协议, 2.4GHz, 1T1R模式，20MHz和40MHz带宽,  SDIO接口Wi-Fi  数传  芯片",在产
+ATBM7833,7×7,Q3 2016,支持DVB-T2/T/C2/C/S2X/S2/S标准的数字电视解调芯片  与ATBM888x管脚兼容,停产
+ATBM7831,7×7,Q3 2016,支持DVB-T2/T/C标准的数字电视解调芯片  与ATBM888x管脚兼容,停产
+ATBM6032,4×4,Q2 2019,"支持IEEE 802.11b/g/n协议, 2.4GHz, 1T1R模式，20MHz和40MHz带宽,  USB接口Wi-Fi  数传  芯片",在产
+ATBM7823,7×7,Q2 2015,支持DVB-T2/T/C2/C/S2X/S2/S标准的数字电视解调芯片  与ATBM888x/ATBM781x管脚兼容,停产
+ATBM6012B,4x4,Q2 2019,"支持IEEE 802.11b/g/n协议, 2.4GHz, 1T1R模式, 20MHz带宽, USB接口Wi-Fi  数传  芯片",在产
+ATBM7821B,7×7,Q3 2016,支持DVB-T2/T/C2/C/S2X/S2/S标准的数字电视解调芯片  与ATBM888x管脚兼容,在产
+ATBM7821,7×7,Q2 2015,支持DVB-T2/T/C标准的数字电视解调芯片  与ATBM888x/ATBM781x管脚兼容,停产
+ATBM7820,7×7,Q2 2015,支持DVB-T2/T标准的数字电视解调芯片  与ATBM888x/ATBM781x管脚兼容,停产
+ATBM7812B,7×7,Q1 2014,支持DVB-T2/T/C/S2/S标准的数字电视解调芯片  与ATBM888x系列DTMB/DVB-C解调芯片管脚兼容,停产
+ATBM8881,7×7,Q1 2014,支持并优化全部DTMB和DVBC调制模式的接收性能  和已停产芯片8879/8869/8859管脚不兼容，但与78xx系列DVB解调芯片管脚兼容,停产
+ATBM6431,5×5,Q2 2019,"支持IEEE 802.11b/g/n，2.4GHz，1T1R模式的Wi-Fi物联网芯片，集成低功耗MCU, 2Mbytes Flash存储器和Wi-Fi协议栈",在产
+ATBM253,3×3,Q2 2019,"支持模拟电视标准：PAL, NTSC, SECAM  支持数字电视标准：DVB-T2/T/C2/C, DTMB, ATSC 3.0/ATSC/QAM, ISDB-T/C",在产
+ATBM7811B,7×7,Q1 2014,支持DVB-T2/T/C标准的数字电视解调芯片  与ATBM888x系列DTMB/DVB-C解调芯片管脚兼容,停产
+ATBM8880,7×7,Q1 2014,支持并优化全部DTMB和DVBC调制模式的接收性能  和已停产芯片8879/8869/8859管脚不兼容，但与78xx系列DVB解调芯片管脚兼容,在产

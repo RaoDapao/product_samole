@@ -1,0 +1,12 @@
+产品网址：https://www.lonten.cc/IGBT.html
+产品结构：首页->产品中心->IGBT
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|IGBT|无|采用先进的场截止(Field-Stop)技术及沟槽栅结构，可实现通态压降、开关损耗和器件鲁棒性的良好平衡。采用特殊的 IEGT 结构，使 IGBT 的饱和电压降低，器件性能得到进一步优化。具有低的关断损耗 Eoff、低的饱和压降 Vce(sat)、10μs 短路能力、较宽的开关频率应用范围等特点。|
+
+Part  Number,Vrrm,Die  Characteristics,IC (A),IC (A).1,VCE(sat)  V,VGE(th)  V,VF(V),Package,Data sheet
+Part  Number,Vrrm,Die  Characteristics,25℃,100℃,Typ.,Typ.,Typ.,Package,Data sheet
+Reset  all selections,Reset,Reset,Reset,Reset,Reset,Reset,Reset,Reset,
+,,,,,,,,,
+,,,,,,,,,

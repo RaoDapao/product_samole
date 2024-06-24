@@ -1,0 +1,33 @@
+-> root https://www.sdichips.com
+  -> 产品中心-井芯微电子技术（天津）有限公司 https://www.sdichips.com/chanpinzhongxin.html
+    -> 内生安全系列 
+    -> RapidIO 系列 
+    -> PCIE 系列 
+    -> 网卡系列 
+    -> FC 系列 
+    -> 以太网系列 
+    -> SDI 系列 
+    -> 芯片 
+    -> IP 
+    -> 解决方案 
+  -> 首页 
+    -> 新闻动态 https://www.sdichips.com/xinwendongtai/768.html
+  -> 招聘列表-井芯微电子技术（天津）有限公司 https://www.sdichips.com/zhiwei/152.html
+    -> FAE 工程师 
+    -> ATE 工程师 
+    -> 产品工程师 
+  -> FAE工程师-井芯微电子技术（天津）有限 https://www.sdichips.com/shehuizhaopin1/334.html
+  -> ATE工程师-井芯微电子技术（天津）有限 https://www.sdichips.com/shehuizhaopin1/331.html
+  -> 产品工程师-井芯微电子技术（天津）有限公 https://www.sdichips.com/shehuizhaopin1/330.html
+  -> 应用软件开发工程师-井芯微电子技术（天津 https://www.sdichips.com/shehuizhaopin1/329.html
+  -> 软件协议栈工程师-井芯微电子技术（天津） https://www.sdichips.com/shehuizhaopin1/327.html
+  -> 嵌入式软件开发工程师-井芯微电子技术（天 https://www.sdichips.com/xiaoyuanzhaopin2/362.html
+  -> 软件协议栈工程师-井芯微电子技术（天津）_1 https://www.sdichips.com/xiaoyuanzhaopin2/361.html
+  -> 招聘列表-井芯微电子技术（天津）有限公司_1 https://www.sdichips.com/zhaopinliebiao?zhiwei=4;2&orderway=desc&multiple=1
+  -> 招聘列表-井芯微电子技术（天津）有限公司_2 https://www.sdichips.com/zhaopinliebiao?zhiwei=5;2&orderway=desc&multiple=1
+  -> 社会招聘-井芯微电子技术（天津）有限公司 https://www.sdichips.com/shehuizhaopin1.html?address=1&zhiwei=2&orderway=desc
+  -> 社会招聘-井芯微电子技术（天津）有限公司_1 https://www.sdichips.com/shehuizhaopin1.html?address=2&zhiwei=2&orderway=desc
+  -> 招聘列表-井芯微电子技术（天津）有限公司_3 https://www.sdichips.com/zhaopinliebiao?zhiwei=4;5;2&orderway=desc&multiple=1
+  -> 招聘列表-井芯微电子技术（天津）有限公司_4 https://www.sdichips.com/zhaopinliebiao?zhiwei=7;3;2&orderway=desc&multiple=1
+  -> 招聘列表-井芯微电子技术（天津）有限公司_5 https://www.sdichips.com/zhaopinliebiao?zhiwei=5;4;2&orderway=desc&multiple=1
+  -> 招聘列表-井芯微电子技术（天津）有限公司_6 https://www.sdichips.com/zhaopinliebiao?zhiwei=5;8;2&orderway=desc&multiple=1

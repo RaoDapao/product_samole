@@ -1,0 +1,138 @@
+-> root http://imdetek.com
+  -> X-γ剂量监测_陕西迪泰克新材料有限公司 https://www.imdetek.com/products/products.html
+    -> DT-P01 系列中低能量能谱探测器 
+    -> SPCW 宽剂量范围探测模块 
+    -> RDMA-01 CZT 剂量最小系统 
+  -> X-γ剂量监测_陕西迪泰克新材料有限公司_1 https://www.imdetek.com/products/jljc.html
+  -> 能谱成像_陕西迪泰克新材料有限公司 https://www.imdetek.com/products/cxtcjmk.html
+    -> CZT-γCam 多像素γ能谱成像系统 
+    -> DT-PA02 系列 SPECT、γ相机用探测器 
+    -> MPS-256 多像素能谱成像模块 
+    -> DT-PA03 康普顿探测器 
+  -> 核电子学部件_陕西迪泰克新材料有限公司 https://www.imdetek.com/products/hdzxbj.html
+    -> DPU-1000-01 高低压电源 
+    -> MA-01A 前置放大器 
+    -> MA-01C 电荷灵敏放大器模块 
+    -> MCA-01 数字多道脉冲分析仪 
+    -> PSA-01 便携式检谱分析仪 
+  -> 仪器设备_陕西迪泰克新材料有限公司 https://www.imdetek.com/products/cxcp.html
+    -> CZT-NIS 便携式核素识别仪 
+    -> Dubhe-01 伽马相机 
+    -> RAM-01 核辐射检测仪 
+    -> IRD-P01 电子剂量计 
+    -> IRD-04A 腕表式个人剂量仪 
+  -> 教学类_陕西迪泰克新材料有限公司 https://www.imdetek.com/products/nptc.html
+    -> γ能谱测量系统 
+    -> α能谱真空测量系统 
+    -> X 射线光电测试系统 
+  -> 重磅产品_新闻中心_陕西迪泰克新材料有限 https://www.imdetek.com/news/zpcp.html
+    -> DT-PA01 高分辨率像素探测器 
+    -> DT-01C2 探头 
+  -> 备受瞩目的三款辐射剂量仪，购买链接来了！ https://www.imdetek.com/news/zpcp-311.html
+    -> IRD-P01 个人剂量计 
+    -> IRD-04 腕表式个人剂量仪 
+  -> DPU-1000-01高低压电源_核电子 https://www.imdetek.com/products/hdzxbj-175.html
+  -> MA-01A前置放大器_核电子学部件_产 https://www.imdetek.com/products/hdzxbj-174.html
+  -> MA-01C电荷灵敏放大器模块_核电子学 https://www.imdetek.com/products/hdzxbj-173.html
+  -> MCA-01数字多道脉冲分析仪_核电子学 https://www.imdetek.com/products/hdzxbj-172.html
+  -> PSA-01便携式检谱分析仪_核电子学部 https://www.imdetek.com/products/hdzxbj-171.html
+  -> CZT-NIS便携式核素识别仪_仪器设备 https://www.imdetek.com/products/cxcp-181.html
+  -> Dubhe-01伽马相机_仪器设备_产品 https://www.imdetek.com/products/cxcp-180.html
+  -> RAM-01核辐射检测仪_仪器设备_产品 https://www.imdetek.com/products/cxcp-179.html
+  -> IRD-P01电子剂量计_仪器设备_产品 https://www.imdetek.com/products/cxcp-178.html
+  -> IRD-04A腕表式个人剂量仪_仪器设备 https://www.imdetek.com/products/cxcp-177.html
+  -> DT-PA01高分辨率像素探测器_重磅产 https://www.imdetek.com/news/zpcp-342.html
+  -> 迪泰克产品再登“陕西工业精品”榜单_重磅 https://www.imdetek.com/news/zpcp-329.html
+    -> CZT-PES 便捷式高分辨检谱分析仪 
+    -> DT-01C1 系列探头 
+  -> “陕西工业精品”—CZT伽马相机及像素探 https://www.imdetek.com/news/zpcp-330.html
+    -> 高空间分辨便携式伽马相机 
+    -> 像素型探测器 
+    -> 多像素能谱成像模块 
+  -> DT-01C2探头_重磅产品_新闻中心_ https://www.imdetek.com/news/zpcp-339.html
+  -> 核废水已入海，迪泰克高精度仪器让你安心！ https://www.imdetek.com/news/zpcp-312.html
+    -> 腕表式剂量仪 
+    -> RAM-01 核辐射报警仪 
+  -> 日本“逆流而行”|核污水入海，迪泰克产品 https://www.imdetek.com/news/zpcp-316.html
+    -> IRD-NIS 核素识别仪 
+  -> 核辐射离我们远吗？_重磅产品_新闻中心_ https://www.imdetek.com/news/zpcp-324.html
+    -> 智能辐射检测仪 
+    -> 医用辐射检测仪 
+    -> 腕表式个人剂量仪 
+  -> 第2页_重磅产品_新闻中心_陕西迪泰克新 https://www.imdetek.com/news/zpcp_2.html
+    -> DT-01C1P CZT 三防探头 
+    -> PDT-01A1 α 能谱探头 
+    -> DTK-01C2000 CZT 探测器 
+  -> 第3页_重磅产品_新闻中心_陕西迪泰克新 https://www.imdetek.com/news/zpcp_3.html
+    -> DT-01C1 CZT 辐射探头 
+    -> DT-01A 探头 
+    -> SPC 平面型计数模块 
+    -> DT-P01 碲锌镉低剂量探测器（平面型） 
+  -> 第4页_重磅产品_新闻中心_陕西迪泰克新 https://www.imdetek.com/news/zpcp_4.html
+    -> 辐射剂量仪 
+    -> 探头 
+    -> 碲锌镉（CZT）半球型探测器 
+    -> 碲锌镉光子计数线阵探测器及成像系统 
+    -> SPECT、伽马相机用碲锌镉像素探测器及成像系统 
+  -> 第5页_重磅产品_新闻中心_陕西迪泰克新 https://www.imdetek.com/news/zpcp_5.html
+  -> γ能谱测量系统_教学类_解决方案_产品中 https://www.imdetek.com/nptc/jxljjfa-184.html
+  -> DT-01系列能谱探头_X-γ能谱分析_ https://www.imdetek.com/jljc/xnpfx-160.html
+  -> PDT-01A1-PDT-01A1Rα能 https://www.imdetek.com/jljc/npfx-162.html
+  -> DT-PA02系列SPECT、γ相机用探 https://www.imdetek.com/cxtcjmk/npcx-167.html
+  -> MPS-256多像素能谱成像模块_能谱成 https://www.imdetek.com/cxtcjmk/npcx-166.html
+  -> CZT-γCam多像素γ能谱成像系统_能 https://www.imdetek.com/cxtcjmk/npcx-322.html
+  -> RDMA-01CZT剂量最小系统_X-γ https://www.imdetek.com/jljc/xjljc-157.html
+  -> 神舟十五号发射成功-迪泰克产品持续助力我 https://www.imdetek.com/news/ggsk-327.html
+    -> CZT 探测器 
+  -> X-γ-rayDoseMonitorin https://en.imdetek.com/Products/Products.html
+    -> DT-P01 系列低中能谱探测器 
+    -> SPCW 宽剂量率范围检测模块 
+    -> RDMA-01 CZT 最小剂量测量系统 
+  -> SPECTImaging_Shaanxi https://en.imdetek.com/Products/ImagingModules.html
+    -> CZT-γCam Multi-pixel γ ray Imaging System 
+    -> DT-PA02 series SPECT, γ ray Imaging Detector 
+    -> MPS-256 Multi-pixel γ ray Imaging Module 
+    -> DT-PA01 Compton Imaging Detector 
+  -> Electronics_ShaanxiI https://en.imdetek.com/Products/Electronics.html
+    -> DPU-1000-01 高压电源 
+    -> Ma-01C 电荷灵敏前置放大器 
+    -> MCA-01 数字多道分析器 
+    -> PSA-01 便携式频谱分析仪 
+  -> Instruments_ShaanxiI https://en.imdetek.com/Products/Instruments.html
+    -> CZT-NIS Portable Radionuclide Identifier 
+    -> CZT-P-γCam Gamma Cam 
+    -> RAM-01 Radiation Dosimeter 
+    -> IRD-P01 Radiation Dosimeter 
+    -> IRD-04 Smart Dosimeter 
+  -> Educational_ShaanxiI https://en.imdetek.com/Products/Solutions.html
+    -> γ-ray Spectrum Acquisition System 
+    -> α-ray Spectrum Vacuum Test System 
+    -> X-ray Testing System 
+  -> FlagshipProducts_NEW https://en.imdetek.com/News/FlagshipProducts.html
+    -> DT-01C1P CZT 三重防护探头 
+    -> PDT-01A1α 能谱探头 
+  -> TheHighlyAnticipated https://en.imdetek.com/News/FlagshipProducts-311.html
+    -> 核辐射剂量计 
+    -> 核辐射剂量计 
+    -> 核辐射剂量计 
+  -> DT-01C1PCZT三防探头_重磅产品 https://www.imdetek.com/news/zpcp-338.html
+  -> PDT-01A1α能谱探头_重磅产品_新 https://www.imdetek.com/news/zpcp-341.html
+  -> DTK-01C2000CZT探测器_重磅 https://www.imdetek.com/news/zpcp-340.html
+  -> 创新应用|CZT硬X射线监测系统，为中国 https://www.imdetek.com/news/zpcp-336.html
+  -> DT-01C1CZT辐射探头_重磅产品_ https://www.imdetek.com/news/zpcp-349.html
+  -> DT-01A探头_重磅产品_新闻中心_陕 https://www.imdetek.com/news/zpcp-348.html
+  -> SPCW宽剂量范围探测模块_重磅产品_新 https://www.imdetek.com/news/zpcp-347.html
+  -> SPC平面型计数模块_重磅产品_新闻中心 https://www.imdetek.com/news/zpcp-346.html
+  -> DT-P01碲锌镉低剂量探测器（平面型） https://www.imdetek.com/news/zpcp-345.html
+  -> DT-H01碲锌镉（CZT）半球型探测器 https://www.imdetek.com/news/zpcp-343.html
+  -> 一款可以装进口袋的“智能辐射检测仪”了解 https://www.imdetek.com/news/zpcp-354.html
+  -> 新款腕表式个人剂量仪发布会暨签约仪式在秦 https://www.imdetek.com/news/zpcp-357.html
+  -> 碲锌镉光子计数线阵探测器及成像系统介绍_ https://www.imdetek.com/news/zpcp-363.html
+    -> 光子计数线阵探测器 
+    -> 多像素光子计数模块 
+    -> 光子计数 X 射线成像系统 
+  -> SPECT、伽马相机用碲锌镉像素探测器及 https://www.imdetek.com/news/zpcp-369.html
+    -> 多像素γ能谱成像系统 
+    -> 伽马相机 
+  -> 国内首款腕表式个人剂量仪震撼来袭！_重磅 https://www.imdetek.com/news/zpcp-375.html
+  -> CZT引导核医学数字化革命—迪泰克_重磅 https://www.imdetek.com/news/zpcp-196.html

@@ -1,0 +1,13 @@
+产品网址：http://chinaasic.com/productItemSort/product_item_sort_1.html
+产品结构：共5条<1/1->跳转
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|LED 照明驱动芯片|DC-DC 降压恒流类|无|
+
+IC Name,Topology,I  OUT  Precision,Number Of  Windings,PF,HV_MOSFET,BV  DSS,P  OUT  @85~265Vac  (W),P  OUT  @176~265Vac  (W),Package,操作
+SM7520,PSR,<±3%,3,0.5,External,-,50,50,SOT23-6,more>>
+SM7581C,PSR,<±3%,2,0.5,Inside,650V,12,18,DIP8,more>>
+SM7581D,PSR,<±3%,2,0.5,Inside,650V,18,24,DIP8,more>>
+SM7581PA,PSR,<±3%,2,0.5,Inside,650V,5,7,SOP8,more>>
+SM7581PB,PSR,<±3%,2,0.5,Inside,650V,7,9,SOP8,more>>

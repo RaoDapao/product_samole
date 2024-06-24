@@ -1,0 +1,6 @@
+产品网址：https://www.hitrendtech.com/products?id=3
+产品结构：首页->产品中心->MCU产品IC
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|MCU 产品 IC|HT601X 系列、HT602X 系列、HT603X 系列、HT633X 系列|多功能、高性能、低功耗 MCU 芯片，内部集成了 Cortex-M0/M3 处理器、LCD、时钟管理、电源管理、硬件自动温度补偿 RTC、ADC、AES 以及 UART、I2C、SPI、7816 等通用外设接口，最大支持 512KB FLASH 程序存储器和 64KB RAM，可以极大的节省研发成本和周期|

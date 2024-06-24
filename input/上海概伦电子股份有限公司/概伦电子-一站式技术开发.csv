@@ -1,0 +1,17 @@
+产品网址：https://www.primarius-tech.com/products/engineering_service.html
+产品结构：root->概伦电子-一站式技术开发
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|SPICE 模型|基带建模/BSIMProPlus、射频建模/MeQLab、自动化提取/SDEP、验证评估/ME-Pro|无|
+|PDK|PCell 开发/PCellLab、PDK 验证/PQLab|无|
+|标准单元库|特征化/NanoCell、验证/LibWiz|无|
+|电路设计平台|原理图设计/NanoDesigner SE、版图编辑/NanoDesigner LS、交互式物理验证/NanoDesigner iV、设计优化/NanoDesigner Optimizer|无|
+|电路仿真|SPICE 仿真器/NanoSpice、SPICE 仿真器/NanoSpice X、SPICE 仿真器/NanoSpice Giga、FastSPICE 仿真器/NanoSpice Pro、FastSPICE 仿真器/NanoSpice Pro X、混合信号仿真/NanoSpice MS、波形查看分析/NanoWave|无|
+|电路分析|动态和静态电路检查/NanoSpice CCK、良率分析/NanoYield、信号完整性分析/NanoSpice SI、路径分析/PathInspector、功率及电源芯片设计验证/PTM、电源网络分布分析/RNi、ESD 验证/ESDi|无|
+|数字仿真|数字仿真/VeriSim|无|
+|SoC 设计与验证|时序分析/TRASTA、设计布局规划/NavisPro、信号完整性/NanoSpice SI、电源分析/PTM、ESD 验证/ESDi、芯片封装连接验证/PadInspector|无|
+|参数化测试|半导体参数测试/FS-Pro、半导体参数测试/FS-MEMS|无|
+|噪声测试|低频噪声测试/9812DX、低频噪声测试/9812E、低频噪声测试/9813DXC、动态交流噪声测试/9812AC|无|
+|综合量测|自动量测方案/ATS|无|
+|一站式技术开发|晶圆测试/数据测试与分析、SPICE 建模/模型提取与验证、测试芯片设计/测试结构设计与版图实现、新器件/新器件解决方案、PDK 开发/PDK 开发与验证、IP 开发/一站式 IP 开发|无|

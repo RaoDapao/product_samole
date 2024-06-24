@@ -1,0 +1,22 @@
+产品网址：http://icpc.cn/cms/item/view?table=product&id=96
+产品结构：root->RIS8261加固双E5至强处理器服务器主板-北京捷世智通科技股份有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|RIS8261 加固双 E5 至强处理器服务器主板|RIS8261|加固化双 E5 至强处理器、四显卡插槽工业服务器主板，支持双路 Intel E5-2600/E5-2600v2 LGA2011 处理器插槽，每颗处理器支持双通道 DDR3-1600 16GB ECC 板载内存，每颗处理器支持双通道、4 个 ECC UDIMM/RDIMM/LRDIMM 插槽，最高容量可达 128GB，支持 4 路 PCIe 3.0 x16 插槽，双槽位宽度，可支持 4 路 GPGPU 协处理卡，支持 1 路 PCIe 3.0 x8、MiniPCIE 插槽，支持 1x VGA+1xDVI 显示接口，64MB 独立显存，支持 2 路 10GBASE-T 以太网，支持 2 路 USB3.0 接口（需搭配锐昕普 PCIE-USB3 子卡），支持带隔离 GPI、GPO 接口，支持宽温工作|
+
+
+
+
+处理器,"双LGA2011处理器插槽，支持CPU列表如下：  Intel® Xeon® Processor E5-2658 (20M, 2.1 GHz功耗95W,LGA2011,8核)  Intel® Xeon® Processor E5-2658 v2 (25M, 2.4 GHz功耗95W,LGA2011,10核)  Intel® Xeon® Processor E5-2648L (20M, 1.8 GHz功耗70W,LGA2011,8核)  Intel® Xeon® Processor E5-2648L v2 (25M, 1.9 GHz功耗70W,LGA2011,10核)  Intel® Xeon® Processor E5-2640 v2 (20M, 2.0 GHz功耗95W,LGA2011,8核)  Intel® Xeon® Processor E5-2630 v2 (15M, 2.6 GHz功耗80W,LGA2011,6核)","双LGA2011处理器插槽，支持CPU列表如下：  Intel® Xeon® Processor E5-2658 (20M, 2.1 GHz功耗95W,LGA2011,8核)  Intel® Xeon® Processor E5-2658 v2 (25M, 2.4 GHz功耗95W,LGA2011,10核)  Intel® Xeon® Processor E5-2648L (20M, 1.8 GHz功耗70W,LGA2011,8核)  Intel® Xeon® Processor E5-2648L v2 (25M, 1.9 GHz功耗70W,LGA2011,10核)  Intel® Xeon® Processor E5-2640 v2 (20M, 2.0 GHz功耗95W,LGA2011,8核)  Intel® Xeon® Processor E5-2630 v2 (15M, 2.6 GHz功耗80W,LGA2011,6核).1"
+芯片组,Intel C604芯片组,Intel C604芯片组
+内存,单颗CPU支持双通道DDR3-1600板载内存，总容量8GB/16GB可选，支持ECC  单颗CPU支持双通道4路ECC UDIMM/RDIMM/LRDIMM插槽(每通道1路ECC DIMM)，速率DDR3-1600，总容量最高64GB，支持ECC  双CPU总板载内存容量最高32GB，RDIMM/LRDIMM可扩展最高容量为128GB  备注：当搭配RDIMM或LRDIMM类型内存条时，板载内存无法使用，需禁用。,单颗CPU支持双通道DDR3-1600板载内存，总容量8GB/16GB可选，支持ECC  单颗CPU支持双通道4路ECC UDIMM/RDIMM/LRDIMM插槽(每通道1路ECC DIMM)，速率DDR3-1600，总容量最高64GB，支持ECC  双CPU总板载内存容量最高32GB，RDIMM/LRDIMM可扩展最高容量为128GB  备注：当搭配RDIMM或LRDIMM类型内存条时，板载内存无法使用，需禁用。
+存储,2x SATA3.0接口，速率6.0Gbps  6x SATA2.0接口，速率3.0Gbps,2x SATA3.0接口，速率6.0Gbps  6x SATA2.0接口，速率3.0Gbps
+显示,1x VGA显示接口，DB15连接器  1x DVI显示接口，板内插针接口  内置Silicon image SM750图形显示芯片,1x VGA显示接口，DB15连接器  1x DVI显示接口，板内插针接口  内置Silicon image SM750图形显示芯片
+USB,2x USB2.0接口，TypeA接口  2x USB3.0接口，TypeA接口，兼容USB2.0(通过扩展板对板USB3.0子卡实现)  4x USB 2.0插针,2x USB2.0接口，TypeA接口  2x USB3.0接口，TypeA接口，兼容USB2.0(通过扩展板对板USB3.0子卡实现)  4x USB 2.0插针
+以太网,2x千兆以太网，RJ45接口  1x 10GBASE-T万兆以太网，RJ45接口,2x千兆以太网，RJ45接口  1x 10GBASE-T万兆以太网，RJ45接口
+音频,1xLine-in/Mic-in/Line-out音频插针,1xLine-in/Mic-in/Line-out音频插针
+串口,1x RS232/422/485串口DB9连接器  3x RS232/422/485串口插针,1x RS232/422/485串口DB9连接器  3x RS232/422/485串口插针
+键盘鼠标,1x PS/2键盘鼠标接口插针,1x PS/2键盘鼠标接口插针
+扩展槽,4路PCIe 3.0 x16插槽  1路PCIe 3.0 x8插槽  1个MiniPCIE插槽,4路PCIe 3.0 x16插槽  1路PCIe 3.0 x8插槽  1个MiniPCIE插槽
+其他规格,支持温度、电压监控  支持 CPU 风扇转速监测  8位带隔离GPIO  2x CPU风扇接口，支持自动调速  4x 系统风扇接口,支持温度、电压监控  支持 CPU 风扇转速监测  8位带隔离GPIO  2x CPU风扇接口，支持自动调速  4x 系统风扇接口

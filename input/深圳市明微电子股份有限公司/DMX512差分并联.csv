@@ -1,0 +1,18 @@
+产品网址：http://chinaasic.com/productItem/product_item_5.html
+产品结构：root->DMX512差分并联
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|LED 智能景观驱动芯片|DMX512 并联驱动|DMX512 差分并联、DMX512 单线并联|
+
+IC Name,CHS,Gray level,BV  OUT,Current,Current gain  adjustment bit,Automatic  Coding,Package,操作
+SM17500P,Transcoding,-,-,-,Can be set,,SOP8/MSOP8,more>>
+SM18512P,4,256,30V,1.1mA-60mA,5bit,√,SOP16,more>>
+SM18512PS,4,256,40V,1.1mA-18mA,5bit,√,SSOP10,more>>
+SM19522PHG,6,65536,40V,300mA,6bit,√,ESOP16,more>>
+SM19522PG,6,65536,40V,60mA,6bit,√,SOP16,more>>
+SM16512PK,4,256,26V,17mA-60mA,-,-,SOP16,more>>
+SM16512PS,4,256,26V,17mA,-,-,SSOP10,more>>
+SM16512P,4,256,26V,17mA-60mA,-,-,SOP16,more>>
+SM16520P,4,65536,26V,TTL,-,-,SOP16,more>>
+SM16522P,4,65536,26V,17mA-60mA,-,-,SOP16,more>>

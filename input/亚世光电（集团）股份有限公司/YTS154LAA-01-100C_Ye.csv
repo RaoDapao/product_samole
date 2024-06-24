@@ -1,0 +1,18 @@
+产品网址：https://www.yes-lcd.com/product/255.html
+产品结构：root->YTS154LAA-01-100C_YesOptoelectronics（Group）Co.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|YTS154LAA-01-100C|YTS154LAA-01-100C|无|
+
+No  .,Item,Contents,Unit
+1,Display  Size,1.54,Inch
+2,Resolution,240RGB*240,
+3,Viewing Direction,FREE,
+4,TFT Outline Dimension,40.62*44.02*3.14,mm
+5,Panel AA,27.72*27.72,mm
+6,Module  Color,262,K
+7,Luminance,440,cd/m  2
+8,Module Interface,SPI/RGB,
+9,Operating temperature,-20  ℃  ~70  ℃,℃
+1  0,Storage temperature,-30  ℃  ~80  ℃,℃

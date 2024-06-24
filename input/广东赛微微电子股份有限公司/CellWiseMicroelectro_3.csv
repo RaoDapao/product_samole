@@ -1,0 +1,6 @@
+产品网址：http://en.cellwise-semi.com/Home/Index/news?typeId=1
+产品结构：root->CellWiseMicroelectronics
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Fast Charge Management IC|CW6113|支持 5A 快充，集成低阻抗电源路径管理，充电效率高达 93%，集成 1.5A USB OTG 输出，可通过 I2C 接口设置所有产品参数，在整个充电周期内持续监测电池电压、电流、温度，确保充电和放电安全，采用 32 引脚、4mm*4mm*0.75mm QFN 封装，提高散热性能，与 0.69uH 薄小型电感配合使用，节省 PCB 空间，是智能手机等移动设备的理想快充解决方案|

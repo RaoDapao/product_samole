@@ -1,0 +1,20 @@
+产品网址：https://www.asl-tek.com/Lists/1.html
+产品结构：root->ASL芯片,集睿致远产品,ASL显示系统,ASL传输配件,ASL主板相关,集成电路ASL,集睿,集睿致远,集睿致远科技有限公司官网
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|显示器 Scaler SOC|ASL582x|Up to FHD120Hz. DP/HDMI1.4 输入转 LVDS 输出芯片，内置 OSD、Scaler、Audio、视频处理等功能，用于便携屏、广告机等市场|
+|显示器 Scaler SOC|ASL583x|Up to FHD120Hz. Type-C/DP/HDMI1.4 输入转 LVDS/eDP 输出芯片，高度集成多种输入输出接口，内置 PD3.0、OSD、Scaler、Audio、视频处理等功能，用于便携屏、广告机等市场，满足不同接口面板需求|
+|DP to VGA 显示协议转换芯片|CS5233|DP 到 VGA 的显示协议转换芯片，可用于主板、转换器、扩展坞、线材等产品上|
+|Type-C to VGA 显示协议转换芯片|CS5260|Type-C 到 VGA 的显示协议转换芯片，可用于转换器、扩展坞、线材等产品上|
+|Type-C/DP to HDMI&VGA converter with PD|CS526x|Type-C/DP 到 HDMI2.0&VGA 的显示协议转换芯片，内部集成 PD3.0，最高可支持 4k@60Hz 分辨率，能按客户需求配置成不同功能组合，只需较少外围电路就能满足扩展坞市场需求|
+|Type-C/DP1.4 到 HDMI2.0 的显示协议转换芯片|CS536x|内部集成 PD3.0 及 DSC decoder，能按客户需求配置成不同功能组合，是目前集成度与功耗最小的一颗芯片|
+|Type-C/DP1.4 到 HDMI2.1 的显示协议转换芯片|CS546x|内部集成 PD3.0 及 DSC decoder，可支持 DP 2Lane 最高 8K30 或 4K144，能按客户需求配置成不同功能组合|
+|Type-C/DP1.4 到 HDMI2.1 的显示协议转换芯片|CS556x|内部集成 PD3.0 及 DSC decoder，可支持最高 10K60 输出|
+|HDMI to DP/eDP 显示协议转换芯片|CS5801|HDMI 到 DP/eDP 的显示协议转换芯片，可用于主板、转换器、扩展坞、线材等产品上|
+|DisplayPort 到 LVDS 的显示协议转换芯片|CS5211|CPU/GPU 到显示屏的关键模块，用于计算机主板驱动 LVDS 屏幕，广泛应用于一体机、广告机、工控电脑等市场|
+|DisplayPort 到 VGA 的显示协议转换器|CS5212|用于主板或者 Dongle 的显示输出|
+|DP to VGA 显示协议转换芯片|CS5232|DP 到 VGA 的显示协议转换芯片，可用于主板、转换器、扩展坞、线材等产品上|
+|MIPI-DSI 到 Dual LVDS 的显示协议转换芯片|CS5518|用于移动装置系统驱动 LVDS 屏幕|
+|MIPI-DSI 到 eDP 的显示协议转换芯片|CS5523|用于移动装置系统驱动 eDP 屏幕|
+|USB3.2 Gen2 and DP1.4 HBR3 Retimer|CS621x|USB3.2 Gen2 and DP1.4 HBR3 信号重整器，可支持 USB3.2 Gen2 10Gbps 与 DP1.4 HBR3 8.1Gbps，内含 Jitter 消除与动态自动补偿，可大幅度减小对 PCB 布线的限制，主要用于主板/笔记本电脑/Docks 的 Type-C/USB3.2 端口|

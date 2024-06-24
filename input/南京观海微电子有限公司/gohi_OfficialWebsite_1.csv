@@ -1,0 +1,23 @@
+产品网址：http://www.gohimicro.com/product-ddis.html
+产品结构：root->gohi|OfficialWebsite
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|DDI 芯片|无|控制和驱动各种类型的显示屏，具有功耗优化、出色的响应速度和平稳的画面表现等特性，适用于各种类型的显示屏，支持多种接口标准|
+
+应用,型号（封装）,类型,分辨率,接口,数据手册
+穿戴,GH8515（COG）,262K color with RAM,132RGB x 162,SPI、I2C,下载
+穿戴,GH8525（COG）,262K color with RAM,240RGB x 320,MIPI DSI、8080、SPI、I2C,下载
+手机,GH8535（COG）,16.7M color RAMless,480RGB x 2046(Max),MIPI DSI、QSPI、RGB,下载
+手机,GH8555（COG）,16.7M color RAMless,720RGB x 2046(Max),MIPI DSI,下载
+手机,GH1001（COG）,16.7M color RAMless,720RGB x 2046(Max),MIPI DSI,下载
+平板电脑,GH8555BL（COG）,16.7M color RAMless,800RGB x 2046(Max),MIPI DSI,下载
+平板电脑,GH8575（COG）,16.7M color RAMless,1200RGB x 1920,MIPI DSI,下载
+笔记本电脑,GH8355（COG）,6bit,1200CH、1026CH、966CH 等,mini-LVDS,下载
+笔记本电脑,GH8358（COG）,8bit,1446CH、1440CH、1200CH 等,iSP,下载
+显示器/TV,GH8365-01（COG）,8bit,1200CH、1026CH、966CH 等,mini-LVDS,下载
+显示器/TV,GH8365-02（COF）,8bit,1200CH、1026CH、966CH 等,mini-LVDS,下载
+显示器/TV,GH8365-03（COF）,8bit,1200CH、1026CH、966CH 等,mini-LVDS,下载
+显示器/TV,GH8358-01（COF）,8bit,960CH、1026CH、966CH 等,iSP,下载
+工控,GH7002（COG）,8bit,1024RGB x 768,LVDS、MIPI DSI、RGB,下载
+工控,GH7003（COG）,8bit,1920CH,LVDS、MIPI DSI、RGB,下载

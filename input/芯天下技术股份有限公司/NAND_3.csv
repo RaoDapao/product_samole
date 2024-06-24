@@ -1,0 +1,25 @@
+产品网址：http://www.xtxtech.com/products_detail/3/ProId-10
+产品结构：root->NAND
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|SD NAND|无|芯天下技术 SD NAND Flash 是一款低成本的数据存储解决方案，内嵌高速的 SD 控制器和高可靠性的 SLC NAND 闪存，适用于消费电子用品，如玩具，蓝牙设备，教育电子以及可穿戴设备等应用。具有 3.3V，LGA8(WSON) 8x6mm 小封装尺寸；SD2.0 的协议标准，能够支持 class10 的访问速度；1Gbit~8Gbit 多个选择满足产品不同容量的需求；支持-30°C ~ 85°C 工作温度条件。|
+
+型号,容量,电压,温度,封装,描述,包装,状态
+XTSDG01GWSIGA,1Gbit,2.7~3.6V,-40℃~85℃,WSON8 8x6mm,"SD 2.0,  Embedded SD NAND",Tray,MP
+XTSDQ01GWSIGA,1Gbit,1.7~1.95V,-40℃~85℃,WSON8 8x6mm,"SD 2.0,  Embedded SD NAND",Tray,MP
+
+
+型号,容量,电压,温度,封装,描述,包装,状态
+XTSDG02GWSIGA,2Gbit,2.7~3.6V,-40℃~85℃,WSON8 8x6mm,"SD 2.0,  Embedded SD NAND",Tray,MP
+XTSDQ02GWSIGA,2Gbit,1.7~1.95V,-40℃~85℃,WSON8 8x6mm,"SD 2.0,  Embedded SD NAND",Tray,MP
+
+
+型号,容量,电压,温度,封装,描述,包装,状态
+XTSDG04GWSIGA,4Gbit,2.7~3.6V,-40℃~85℃,WSON8 8x6mm,"SD 2.0,  Embedded SD NAND",Tray,MP
+XTSDQ04GWSIGA,4Gbit,1.7~1.95V,-40℃~85℃,WSON8 8x6mm,"SD 2.0,  Embedded SD NAND",Tray,MP
+
+
+型号,容量,电压,温度,封装,描述,包装,状态
+XTSDG08GWSIGA,8Gbit,2.7~3.6V,-40℃~85℃,WSON8 8x6mm,"SD 2.0,  Embedded SD NAND",Tray,MP
+XTSDQ08GWSIGA,8Gbit,1.7~1.95V,-40℃~85℃,WSON8 8x6mm,"SD 2.0,  Embedded SD NAND",Tray,MP

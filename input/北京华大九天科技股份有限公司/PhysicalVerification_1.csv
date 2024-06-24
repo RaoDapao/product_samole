@@ -1,0 +1,6 @@
+产品网址：https://www.empyrean-tech.com/products/eda/flat-panel-display/physical-verification.html
+产品结构：root->PhysicalVerification_CompleteSolutionforFlatPanelDisplayDesign_Product_EmpyreanTechnologyCo.,Ltd
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Physical Verification|Empyrean ArgusFPD|是针对平板设计优化的分层并行物理验证解决方案，支持平板设计独特设计特征（如弧线和任意角度旋转）的 DRC 和 LVS 检查，分层错误检测以及布局、原理图和网表的高效交互，使用户能够快速准确地定位错误，可无缝集成到平板显示原理图和布局编辑器 Empyrean AetherFPD 中|

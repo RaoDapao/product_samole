@@ -1,0 +1,16 @@
+产品网址：https://www.hxdkj88.com/product/product_show/itemid/13.html
+产品结构：root->手机红外万能遥控贴片灯-hxd051C-IRLED
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|手机红外万能遥控贴片灯|hxd051C-IRLED|无|
+
+Parameter,Symbol,Rating,Units
+Continuous Forward Current,IF,85,mA
+Reverse Voltage,VR,5,V
+Forward Voltage,Fv,1.4-4.0,V
+Operating Temperature,Topr,-25 ~ +85,℃
+Storage Temperature,Tstg,-40 ~ +100,℃
+Soldering Temperature*1,Tsol,260,℃
+Peak Wavelength,λp,940,nM
+Power Dissipation at(or below)  25℃Free Air Temperature,Pd,180,mW

@@ -1,0 +1,56 @@
+产品网址：http://www.tang-sh.com/products_detail/20.html
+产品结构：root->MHz晶体-上海唐辉电子有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|MHz 晶体|无|晶振是晶体振荡器的简称，也被称为有源晶振。和其对应的是晶体谐振器，简称为晶体。目前市场上使用广泛的是石英晶片为基材的晶体晶振。|
+
+Frequency,EPSON,KDS,NDK
+频率,爱普生,大真空,日本电波
+8M,,DSX320G  （3225，2脚）,NX3225GD  （3225）
+8M,,DSX321G  （3225，4脚）,NX5032GA  （5032）
+12M,FA-238V  （3225）,DSX321G  （3225）,NX3225GA  （3225）
+16M,FA-128  (2016),,
+16M,FA-20H  （2520）,,NX2520SA  （2520）
+16M,TSX-3225  （3225）,DSX321G  （3225）,NX3225SA  （3225）
+24M,FA-128  (2016),,
+24M,TSX-3225  （3225）,,NX3225SA  （3225）
+26M,FA-128  (2016),,
+26M,FA-20H  （2520）,,NX2520SA  （2520）
+26M,TG2520SMN  （2520、TCXO）,DSB221SDN  （2520、TCXO）,
+32M,FA-128  (2016),,
+32M,TSX-3225  （3225）,DSX321G  （3225）,NX2520SA  （2520）
+48M,FA-128  (2016),,
+
+
+MCU大佬们，选择了哪些晶振？,MCU大佬们，选择了哪些晶振？.1,MCU大佬们，选择了哪些晶振？.2,MCU大佬们，选择了哪些晶振？.3,MCU大佬们，选择了哪些晶振？.4,MCU大佬们，选择了哪些晶振？.5
+以下MCU在做原始设计的时候，选择了如下晶振。(水平有限，仅供参考。),以下MCU在做原始设计的时候，选择了如下晶振。(水平有限，仅供参考。),以下MCU在做原始设计的时候，选择了如下晶振。(水平有限，仅供参考。),以下MCU在做原始设计的时候，选择了如下晶振。(水平有限，仅供参考。),以下MCU在做原始设计的时候，选择了如下晶振。(水平有限，仅供参考。),以下MCU在做原始设计的时候，选择了如下晶振。(水平有限，仅供参考。)
+MCU品牌,MCU型号,晶振品牌,类别,晶振型号,晶振频率
+,EM351  EM357,EPSON,kHz Crystal,FC-135,32.768kHz
+,EM351  EM357,EPSON,kHz Crystal,FC-135,32.768kHz
+,EM351  EM357,EPSON,MHz Crystal,TSX-3225,24MHz
+,Si534x series  Si538x series,EPSON,TCXO,TG-5500CA-67N,40MHz
+,Si534x series  Si538x series,EPSON,TCXO,TG-5500CA-68N,49.152MHz
+,Si534x series  Si538x series,EPSON,TCXO,TG-5500CA-08N,12.8MHz
+,Si534x series  Si538x series,EPSON,TCXO,TG-5500CA-08N,12.8MHz
+,Si4438或Si4463,EPSON,MHz Crystal,TSX-3225,30MHz
+,RX200 Series,EPSON,kHz Crystal,MC-146,32.768kHz
+,RX200 Series,EPSON,kHz Crystal,MC-146L,32.768kHz
+,RX600 Series  RX700 Series,EPSON,kHz Crystal,MC-146,32.768kHz
+,RX600 Series  RX700 Series,EPSON,kHz Crystal,MC-146L,32.768kHz
+,RL78/G1D module: RY7011,EPSON,kHz Crystal,FC-12M,32.768kHz
+,M480,EPSON,kHz Crystal,FC-13A,32.768kHz
+,M480,EPSON,MHz Crystal,FA-238A,16MHz
+,M480,EPSON,MHz Crystal,FA-238A,24MHz
+(Former IDT),82P337xx  * Stratum3 Compliant products  ** G.813/G.8262 option1/option2 Compliant products  * Stratum3 Compliant products  ** G.813/G.8262 option1/option2 Compliant products,EPSON,TCXO,TG-5500CA-08N,12.8MHz
+(Former IDT),82P337xx  * Stratum3 Compliant products  ** G.813/G.8262 option1/option2 Compliant products  * Stratum3 Compliant products  ** G.813/G.8262 option1/option2 Compliant products,EPSON,TCXO,TG-5032CGN  25.000000MHz  CAGHNA,25MHz
+(Former IDT),82P338xx  82P339xx  * G.813/G.8262 option1/option2 Compliant products  ** G.8273.2 Compliant products,EPSON,TCXO,TG-5500CA-08N,12.8MHz
+(Former IDT),82P338xx  82P339xx  * G.813/G.8262 option1/option2 Compliant products  ** G.8273.2 Compliant products,EPSON,TCXO,TG-5032CGN,25MHz
+(Former IDT),82P33x31  82P33741  8V89308I  * G.8262 Nx10G jitter Compliant products,EPSON,MHz Crystal,TSX-3225,25MHz
+(Former IDT),8V19N480 *  8V19N490 *  8V18N472 *  * JESD204B compliant,EPSON,VCXO,VG5032EFN  CJGHBA,125MHz
+(Former IDT),8V19N480 *  8V19N490 *  8V18N472 *  * JESD204B compliant,EPSON,VCXO,VG7050EFN  CJGHBA,APR+/-50ppm
+(Former IDT),8V19N474 *  8V18N478 *  * JESD204B compliant,EPSON,VCXO,VG5032EFN  CJGHBA,156.25MHz
+(Former IDT),8V19N474 *  8V18N478 *  * JESD204B compliant,EPSON,VCXO,VG7050EFN  CJGHBA,156.25MHz
+(Former IDT),8V19N88x series,EPSON,VCXO,VG3225EFN  122.880MHz  CJHHBA,APR+/-50ppm
+(Former IDT),8V19N88x series,EPSON,VCXO,VG3225EFN  122.880MHz  CJGHSA,APR+/-10ppm
+(Former IDT),8V19N88x series,EPSON,VCXO,VG3225EFN  245.760MHz  CJHHMA,APR+/-20ppm

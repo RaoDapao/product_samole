@@ -1,0 +1,6 @@
+产品网址：https://www.m2ipm2.com/ProductsSt_ONFI50.html
+产品结构：root->奎芯科技接口IPONFI5.0
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|ONFI5.0 PHY IP|无|支持 Open NAND Flash Interface（ONFI）5.0 规范的所有模式，可用于 SSD 和嵌入式存储器产品，具有可扩展通道和可定制 CE/RB Pad 数量的特点，支持多种模式和功能，包括 NV-DDR2、NV-DDR3、NV-LPDDR4 等，还支持 PHY 独立的 TX/RX 训练模式、DFI 1:1/1:2 比例模式、自检模式、环回测试、ODT 可编程和 ZQ 校准等，集成了低抖动 PLL 和 DLL|

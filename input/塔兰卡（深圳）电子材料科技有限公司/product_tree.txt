@@ -1,0 +1,7 @@
+-> root http://talanka.cn
+  -> 首页 
+    -> 产品展示 http://talanka.cn/chanpinzhanshi
+      -> 混金线系列 http://talanka.cn/jiguibanjinjiagong
+      -> 镀金线系列 http://talanka.cn/jixiangbanjinjiagong
+      -> 高金线系列 http://talanka.cn/jikebanjinjiagong
+      -> 金线系列 http://talanka.cn/buxiugangbanjinjiagong

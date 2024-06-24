@@ -1,0 +1,12 @@
+产品网址：https://en.coolsemi.com/product/SiC%20MOSFET
+产品结构：root->SiCMOSFET-Productcenter-CoolSemi
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Silicon Carbide MOSFET|CMBG120G035M2、CMW120G035M2、CMZ120G035M2|基于碳化硅材料特性，具有更低的开关损耗和更高的工作频率，适用于电力电子应用需求。宽禁带特性使其能在高温极端环境下工作，高热导率特性可减少功率器件所需的散热装置体积和数量。高临界击穿场强使其在保持高阻断电压的情况下具有更小的 RDSON。高饱和速度使其具有更高的开关频率和更好的反向恢复特性。|
+
+Product,Data Sheet,VDSmax(V),RDS(on)(mΩ),ID(A),TJ(Min.)(℃),TJ(Max.)(℃),Package
+The specific parameters and test conditions are mainly based on the content of the Data Sheet report; 0 indicates to be confirmed,The specific parameters and test conditions are mainly based on the content of the Data Sheet report; 0 indicates to be confirmed,The specific parameters and test conditions are mainly based on the content of the Data Sheet report; 0 indicates to be confirmed,The specific parameters and test conditions are mainly based on the content of the Data Sheet report; 0 indicates to be confirmed,The specific parameters and test conditions are mainly based on the content of the Data Sheet report; 0 indicates to be confirmed,The specific parameters and test conditions are mainly based on the content of the Data Sheet report; 0 indicates to be confirmed,The specific parameters and test conditions are mainly based on the content of the Data Sheet report; 0 indicates to be confirmed,The specific parameters and test conditions are mainly based on the content of the Data Sheet report; 0 indicates to be confirmed
+CMW120G035M2,Download,1200,35,74,-40,175,TO-247-3
+CMZ120G035M2,Download,1200,35,74,-40,175,TO-247-4
+CMBG120G035M2,Download,1200,35,74,-40,175,TO-263-7

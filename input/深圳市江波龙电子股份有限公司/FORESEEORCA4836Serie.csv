@@ -1,0 +1,14 @@
+产品网址：https://www.longsys.com/products/solid-state-drive/enterprise-ssd/foresee-orca-4836-series-nvme-ssd.html
+产品结构：root->FORESEEORCA4836Series:AdvancedSSDM2NVMeSolutions|Longsys
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|FORESEE ORCA 4836 Series Enterprise NVMe SSD|无|支持 PCle 4.0 x 4 接口，内置性能优化，提供高达 7.68TB 的容量和高达 1000K*IOPS 的随机读取速度，确保在各种企业应用中提供高性能和稳定的数据服务。具有可靠的数据存储、节能等特点，适用于服务器、分布式存储、云计算、边缘计算、工作站等应用场景。|
+
+Series,PN,NAND Flash,Capacity,Type,Dimension,Interface,128KB Sequential Read Speed*,128KB Sequential Write Speed*,4KB Random Read Speed(IOPS)*,4KB Random Write Speed(IOPS)*,Endurance,Warranty Period,Uncorrectable Bit Error Rate(UBER),Mean Time Between Failure (MTBF),Power Consumption,Operating Temperature
+ORCA 4836 PRO,RSZE4836B-1920,128 layer 3D eTLC,1.92TB,"2.5"" U.2",100x70x15 mm,PCIe Gen 4*4,6800MB/s,2600MB/s,740K IOPS,130K IOPS,1DWPD,5 years,≤1 sector per 10^17 bits read,2 million hours,Active:<=14 W  Idle:<=5W,0~70℃
+ORCA 4836 PRO,RSZE4836B-3840,128 layer 3D eTLC,3.84TB,"2.5"" U.2",100x70x15 mm,PCIe Gen 4*4,6800MB/s,4600MB/s,1000K IOPS,210K IOPS,1DWPD,5 years,≤1 sector per 10^17 bits read,2 million hours,Active:<=14 W  Idle:<=5W,0~70℃
+ORCA 4836 PRO,RSZE4836B-7680,128 layer 3D eTLC,7.68TB,"2.5"" U.2",100x70x15 mm,PCIe Gen 4*4,6400MB/s,4600MB/s,1000K IOPS,220K IOPS,1DWPD,5 years,≤1 sector per 10^17 bits read,2 million hours,Active:<=14 W  Idle:<=5W,0~70℃
+ORCA 4836 MAX,RSZE4836B-1600,128 layer 3D eTLC,1.6TB,"2.5"" U.2",100x70x15 mm,PCIe Gen 4*4,6800MB/s,2600MB/s,740K IOPS,260K IOPS,2.6DWPD,5 years,≤1 sector per 10^17 bits read,2 million hours,Active:<=14 W  Idle:<=5W,0~70℃
+ORCA 4836 MAX,RSZE4836B-3200,128 layer 3D eTLC,3.2TB,"2.5"" U.2",100x70x15 mm,PCIe Gen 4*4,6800MB/s,4600MB/s,1000K IOPS,380K IOPS,3DWPD,5 years,≤1 sector per 10^17 bits read,2 million hours,Active:<=14 W  Idle:<=5W,0~70℃
+ORCA 4836 MAX,RSZE4836B-6400,128 layer 3D eTLC,6.4TB,"2.5"" U.2",100x70x15 mm,PCIe Gen 4*4,6400MB/s,4600MB/s,1000K IOPS,380K IOPS,3DWPD,5 years,≤1 sector per 10^17 bits read,2 million hours,Active:<=14 W  Idle:<=5W,0~70℃

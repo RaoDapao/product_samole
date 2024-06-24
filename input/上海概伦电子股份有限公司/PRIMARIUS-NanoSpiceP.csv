@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/en/products/analog_design_eda/NanoSpice-Proen.html
+产品结构：root->PRIMARIUS-NanoSpicePro
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|NanoSpice Pro|无|是一款革命性的高性能、大容量 FastSPICE 电路模拟器，具有双求解器引擎，可提高所有现代复杂设计的模拟吞吐量，包括内存（DRAM、SRAM、Flash、MRAM）、FPGA、定制数字和 SoC 电路。它采用突破性的 FastSPICE 算法、智能拓扑识别和自动分区技术，提供卓越的性能和容量，以应对先进节点验证挑战。自适应双求解器技术确保了混合信号设计的卓越模拟精度和数字性能。NanoSpice Pro 提供了独特的一站式内存模拟解决方案，可满足内存单元设计、内存阵列和编译器验证、内存特性化以及全芯片验证的所有需求，与其他商业模拟器相比，性能提高了 10 倍以上。|

@@ -1,0 +1,124 @@
+产品网址：https://www.china-core.com/design.php
+产品结构：root->IP产品-苏州国芯科技股份有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|安全气囊点火驱动芯片|无|无|
+|汽车门控驱动芯片|无|无|
+|CCP903T 云安全芯片|无|无|
+|CCP907T 云安全芯片|无|无|
+|CCM4202S 芯片|无|无|
+|CUni360S 芯片|无|无|
+|CCM4202S-EL 芯片|无|无|
+|CCM4201S-P 芯片|无|无|
+|CUni360S-Z 芯片|无|无|
+|CCM4101 芯片|无|无|
+|CCM4201S 芯片|无|无|
+|CCM4208S 芯片|无|无|
+|CCM3305S 芯片|无|无|
+|CCM3310S-H 芯片|无|无|
+|CCM3310S-LP 芯片|无|无|
+|CCM3310S-T 芯片|无|无|
+|CWNG10 芯片|无|无|
+|CN7160 芯片|无|无|
+|RAID 芯片 CCRD3316|无|无|
+|RAID 板卡 CCUSR8116 规格书|无|无|
+|H2040 高性能边缘计算芯片|无|无|
+|H2048 双核高性能处理器芯片|无|无|
+|H2068 双核高性能处理器芯片|无|无|
+|CCP1080T 高性能高安全边缘计算芯片|无|无|
+
+CPU型号,C0,C2000,C2000.1,C8000,C8000.1,C9000,C9000.1,C9000.2,C9500,C9500.1,C9800,CRV4,CRV4H,CRV7（四核）
+制程工艺(um),0.18,0.09GP,0.04GP,0.13,0.065,0.065,0.045,0.028,0.028,0.014,0.014,0.028,0.04,0.012
+流水线级数,3,5,5,7,7,9,9,9,7,7,7,3,3,8
+每周期发射指令,1,,,2,2,4（3整数+1浮点）,4（3整数+1浮点）,4（3整数+1浮点）,2,2,2,1,1,2
+并行执行单元数,1,,,3,3,7（5整数+2浮点）,7（5整数+2浮点）,7（5整数+2浮点）,6（5整数+1浮点）,6（5整数+1浮点）,6（5整数+1浮点）,1,1,1
+CACHE(KB),--,0/4/8/16/32,0/4/8/16/32,16/32,16/32,32+32,32+32,32+32,32+32,32+32,32+32,可配置,可配置,32+32
+TLB,--,64,64,64,64,1024,1024,1024,512,512,512,--,--,512
+通用寄存器,16x32,32x32,32x32,32x32,32x32,32x32,32x32,32x32,32x32,32x32,32x64,32x32,32x32,32x64
+总线协议,AHB-Lite,PLB4,PLB4,PLB4,PLB4,PLB6,PLB6,PLB6,CoreNet,CoreNet,CoreNet,AHB,AHB,AXI
+其它特性,可配置,,,,,128K-1M二级缓存(256K),128K-1M二级缓存(256K),128K-1M二级缓存(256K),128KB二级缓存,128KB二级缓存,256KB二级缓存,TCM/PMP/PMA/BP/FPU,TCM/PMP/PMA/SIMD/DSP/BP/FP,TCM/PMP/SIMD/FPU/BP
+频率(MHz),50,300,400,200,400,750,850,1000,1200,1333,1200,650,250,1500
+功耗(mW/MHz),0.05,0.096,0.027,--,--,0.6(实测),--,0.61,0.6,0.42,0.5,0.041,0.066,0.26
+面积(mm2)(包含L1cache),0.25,1.2(32KB cache)  0.26(不含cache),0.38(32KB cache)  0.072(不含cache),8.3,2.5,3.5,2.4,3(包含  L1+L2),5（包含L1+L2）,1.7（包含L1+L2）,1.9（包含L1+L2）,0.24,0.28,4
+门数,12～20K(+除法器3K，可选),430K(32KB cache)90K(不含cache),430K(32KB cache)90K(不含cache),300K(不含L1cache),300K(不含L1cache),800K(不含L1及L2 cache)V6-760逻辑50%,800K(不含L1及L2 cache)V6-760逻辑50%,800K(不含L1及L2 cache)V6-760逻辑50%,"900K(包含L1及L2 cache,no mbff)","600K(包含L1及L2 cache,with mbff cell)","700K(包含L1及L2 cache,with mbff cell)",140K,160K,1200K
+Dhrystone2.1(DMIPS/MHz),0.81,1.5,1.5,2,2,2.7,2.7,2.7,2.5,2.5,3,1.7,1.7,3.2（单核）
+
+
+IP名称,IP描述
+存储控制器,存储控制器
+DDR3MC,DDR3控制器
+DDR2MC,DDR2控制器
+DDR4,DDR4控制器
+SNFC,串行NorFlash访问控制器
+GPIO2AHB,可配置GPIO控制器
+EBC,外部存储访问控制器
+总线控制器,总线控制器
+PLB6DMA,PLB6总线DMA
+PLB4DMA,PLB4总线/OPB总线 DMA
+SRAM2PLB4,PLB4总线片内SRAM访问控制器
+P6BC,PLB6总线控制器（最多支持16个PLB6 Master）
+DCRARB4M,DCR总线控制器（最多支持4个DCR Master）
+PLB4ARB8M,PLB4总线控制器（最多支持8个PLB4 Master）
+OPBARB4M,OPB总线控制器（最多支持4个OPB Master）
+AMBA总线矩阵,可配置AMBA总线控制器
+AHBXPLB4 Bridge,双向AHB/PLB4总线桥接器
+PLB6PLB4 Bridge,双向PLB6/PLB4总线桥接器
+PLB42OPB Bridge,PLB4->OPB总线桥接器
+片上功能模块,片上功能模块
+MPIC,多核中断控制器
+UIC,统一中断控制器
+MCMAL,EMAC数据传输DMA
+RESET,多个源的reset控制器
+INTC,40个源的中断控制器
+PIT,周期性间隔计时器
+WDT,看门狗计时器
+EPORT,支持8个外部中断源（边沿/电平触发可配置）
+PWM,脉冲宽度调制器
+通信接口,通信接口
+EMAC,以太网媒体访问控制器
+PCIXS2PLB4,PCIX总线/PLB4总线桥接器
+PCIE EP/RC,PCIE RootComplex/EndPoint 控制器 (PCIE 3.0)
+AHCI,串行ATA高级主控接口(SATA 2.0)
+ISO7816(USI),智能卡控制模块，支持卡和读卡器模式
+I2C,I2C控制模块，支持标注/快速/高速模式
+CAN,CAN总线接口控制器（支持CAN 2.0B）
+SPI,串行外设接口控制器（支持主从模式）
+UART(SCI),串行通讯接口控制器（支持全双工操作）
+GPIO,GPIO接口
+USB2.0,支持HOST/OTG/DEV
+SD2.0,SD设备控制器
+SWP,单线通讯协议控制器（支持V9.2.0）
+RAPID IO 2.2,RapidIO2.2控制器
+SATA 3.0 HOST,SATA3.0主控制器
+SATA 3.0 DEV,SATA3.0从控制器
+USB 3.0,USB3.0控制器
+FlexRay,FlexRay 控制器
+LIN,LIN总线接口控制器
+1553B,1553B控制器
+PCIE 3.0,PCIE RootComplex/EndPoint 控制器 (PCIE 3.0)
+Serdes,高速接口PCS及附属逻辑
+Aurora,Aurora
+显示控制,显示控制
+DB9000,LCD控制器
+算法模块,算法模块
+BCH Accelerator,BCH硬件加速器
+CRC加速器,CRC硬件加速器
+DPAA,网络处理硬件加速器
+QUICC,通信协处理器引擎
+RSCP,可重构对称密码算法处理器
+公钥算法加速引擎,支持SM2/SM9/ECC/RSA/DH密钥共享
+对称算法加速引擎,支持SM1/SM4/SM6/SSF33/AES/DES/3DES
+哈希算法加速引擎,支持SM3/MD5/HMAC/SHA0/SHA1/SHA2(224/256/384/512)
+模拟模块,模拟模块
+PLL,锁相环
+TRNG,4Mbps真随机数发生器
+IICGF,IIC时钟毛刺过滤
+POR,上电复位
+ADC,12位精度、1M采样率
+OSC,片上oscillator
+VR,电压调节器
+VD,电压监控
+FD,频率监控
+TD,温度监控
+LD,光感监控

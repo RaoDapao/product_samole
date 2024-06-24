@@ -1,0 +1,16 @@
+产品网址：https://www.hitrendtech.com/products/detail?id=59
+产品结构：首页->产品中心->HT6035
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|HT6035|无|HT603X 系列 MCU，专为国家新一代智能电表应用而开发。内核采用了在尺寸、功耗、及能效方面高度优化的 32 位处理器，同时配以 512K Flash、64K SRAM、电源及复位管理、时钟管理、温度传感器、自动温补 RTC、LCD 驱动、AES/GHASH/ECC 硬件加解密等丰富 IP，产品在功能、性能及可靠性方面皆满足国家电网对 MCU 器件的高工规要求。该系列 MCU 除特别适用于国家电网的表计系统外，也适合于其它对集成度、可靠性、待机功耗、RTC 精度等有极高要求的工业控制、终端电子消费品等应用场合。相对于传统的 8bit/16bit 工控 MCU，该系列则具备更为突出的综合性价比及平台化优势。|
+
+Part NO.,HT6035,Reactive Energy Error(%),0.1
+Supply Voltage,2.0V~5.5V,VrefTC(Typical),±10ppm/C (1.2V)
+Metering Functions,Active Reactive Apparent,Comm. Interface,UART
+ADC Inputs(Curr+Volt),2+1,U/IRMS,√
+Input Range,+800mV,Built-in Temp.Sensor,x
+Supply Voltage,2.0V~5.5V,VrefTC(Typical),±10ppm/C (1.2V)
+Metering Functions,Active Reactive Apparent,Comm. Interface,UART
+ADC Inputs(Curr+Volt),2+1,U/IRMS,√
+Input Range,+800mV,,

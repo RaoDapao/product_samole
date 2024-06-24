@@ -1,0 +1,41 @@
+产品网址：https://www.eta-semi.com/product-cat/%e7%94%b5%e6%b1%a0%e7%ae%a1%e7%90%86/%e7%ba%bf%e6%80%a7%e5%85%85%e7%94%b5
+产品结构：首页->电池管理->线性充电
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|线性充电|无|无|
+
+Descriptions,Architecture,Vin Min(V),Vin Max(V),Vin Standoff(V),Final Vbat(V)
+"500mA Charger w. DPPM, I2C Control",Linear,3.73,5.85,28,3.6~4.545
+1.2A Linear 4.2V Charger,Linear,4.25,6.0,40,4.2
+1.2A Linear 4.2V Charger,Linear,4.25,6.0,40,4.2
+1.2A Linear 4.2V Charger,Linear,4.25,6.0,40,4.2
+1.2A Linear 4.4V Charger,Linear,4.25,6.0,40,4.4
+1.2A Linear 4.2V Charger,Linear,4.25,6.0,40,4.2
+1.2A Linear 4.2V Charger,Linear,4.25,6.0,40,4.2
+500mA Charger w. DPPM,Linear,3.73,18.5,28,4.2/4.35
+"1A Linear 4.2V Charger, low input supply current",Linear,4.5,6.5,30,4.2
+120mA Linear 4.35V Charger,Linear,4.25,6.0,16,4.35
+1A Linear 4.2V Charger,Linear,4.35,6.5,30,4.2
+0.75A Linear 8.4V Charger,Linear,8.5,16.0,16,8.4
+1A Linear 4.4V Charger,Linear,4.5,6.4,30,4.4
+1.2A Linear 4.35V Charger,Linear,4.45,6.0,16,4.35
+1.2A Linear 4.2V Charger,Linear,4.25,9.0,16,4.2
+1.2A Linear 4.2V Charger,Linear,4.25,6.0,16,4.2
+1.2A Linear 4.35V Charger,Linear,4.25,6.0,16,4.35
+1A Linear 4.2V Charger,Linear,4.25,6.0,16,4.2
+1.2A Linear 4.2V Charger,Linear,4.25,6.0,16,4.2
+1A Linear 4.35V Charger,Linear,4.25,6.0,30,4.35
+1A Linear 4.35V Charger,Linear,4.5,6.5,30,4.35
+1A Linear 4.2V Charger,Linear,4.25,6.0,30,4.2
+1A Linear 4.2V Charger,Linear,4.25,6.0,30,4.2
+1A Linear 4.2V Charger,Linear,4.25,6.0,30,4.2
+1.2A Linear 4.2V Charger,Linear,4.25,6.0,16,4.2
+1A Linear 4.2V Charger,Linear,4.25,6.0,30,4.2
+0.75A Linear 4.2V Charger,Linear,4.25,6.0,16,4.2
+1A Linear 4.2V Charger,Linear,4.25,6.0,30,4.2
+1A Linear 4.2V Charger,Linear,4.25,6.0,30,4.2
+1A Linear 4.2V Charger,Linear,4.25,6.0,30,4.2
+1A Linear 4.2V Charger,Linear,4.5,6.5,30,4.2
+1.2A Linear 3.65V Charger,Linear,4.25,6.0,16,3.65
+120mA Linear 4.2V Charger,Linear,4.25,6.0,16,4.2

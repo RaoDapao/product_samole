@@ -1,0 +1,18 @@
+产品网址：https://www.longsys.com/products/memory-module/enterprise-memory-module/foresee-aquila-series-ddr5-rdimm.html
+产品结构：root->-StorageProductsSolution–LongsysacquiredLEXAR&Foreseee
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|FORESEE Enterprise DDR5 RDIMM|无|可靠性和稳定性满足数据中心产品的要求。基于 JEDEC 原始卡进行了精心优化和模拟，实现了具有自主知识产权的设计。硬件采用具有优异高频性能的材料，包括可靠且耐高温的组件，并采用原始成熟工艺生产的 DDR5 芯片。支持 80 位宽度和 ECC 纠错。|
+
+Product Series,PN,Capacity,Interface,Architecture,Data Rate,CL Value,Timing,Clock,Operating Voltage,Gold Fingers (Edge Connectors),Operating Temperature,Size
+AQUILA DDR5,RES56HAA032G8-M1P2,32GB,RDIMM,2RX8,5600Mbps,46,46-45-45,2800MHz,1.1V,"30u""",0℃~85°C Extended 95°C,133.35×31.25×5.57mm
+AQUILA DDR5,RES56HAB064G8-M1P1,64GB,RDIMM,2RX4,5600Mbps,46,46-45-45,2800MHz,1.1V,"30u""",0℃~85°C Extended 95°C,133.35×31.25×5.57mm
+AQUILA DDR5,RES56HMB096G8-M1P1,96GB,RDIMM,2RX4,5600Mbps,46,46-45-45,2800MHz,1.1V,"30u""",0℃~85°C Extended 95°C,133.35×31.25×5.57mm
+AQUILA DDR5,RES56MBB096G8-M1P1,96GB,RDIMM,2RX4,5600Mbps,46,46-45-45,2800MHz,1.1V,"30u""",0℃~85°C Extended 95°C,133.35×31.25×5.57mm
+
+
+Number,Platform
+01,Intel
+02,AMD
+（  The product supports mainstream platforms and only part of it is shown here.  ）,（  The product supports mainstream platforms and only part of it is shown here.  ）

@@ -1,0 +1,9 @@
+产品网址：https://www.calterah.com/product/rhineaipleidakaifapingtai
+产品结构：root->加特兰微电子-RhineAiP雷达开发平台
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Rhine AiP 雷达开发平台|RDP-60S244-IBM-AIP|天线设计支持方位向和俯仰向到达角测量；EIRP：12dBm@62GHz（单发射通道模式）；FOV（-6dB）：方位向±40°，俯仰向±30°（单发射通道模式）；EIRP：21dBm@62GHz（MIMO 模式）；FOV（-6dB）：方位向±40°，俯仰向±20°（MIMO 模式）；封装集成天线；集成 Flash；集成 JTAG；可连接数据采集板（DCK）采集原始数据；便于使用的 USB 接口|
+
+配件清单,尺寸 – 长/mm,尺寸 – 宽/mm,尺寸 – 长/mil,尺寸 – 宽/mil
+Micro USB数据线 *1,60.071,59.944,2365,2360

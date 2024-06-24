@@ -1,0 +1,8 @@
+产品网址：https://www.empyrean-tech.com/products/eda/foundry.html
+产品结构：root->FoundryEDASolution_Product_EmpyreanTechnologyCo.,Ltd
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Foundry EDA Solution|无|提供器件模型提取 Empyrean XModel、IBIS 建模 Empyrean Demeter、掩模合成 Empyrean Mage、内存编译器解决方案 Empyrean SMCB、标准单元表征 Empyrean Liberal、内存表征 Empyrean Liberal-Mem、混合信号 IP 表征 Empyrean Liberal-IP、标准单元库和 IP 验证 Empyrean Qualib、布局集成和分析 Empyrean Skipper 以及模拟设计的完整解决方案|
+|IBIS 建模工具 Empyrean Demeter|无|提供包括 IBIS 模型提取、集成、语法检查和准确性验证在内的所有步骤的完整解决方案，广泛用于各种缓冲器、动态随机存取存储器、SerDes、AD/DA 转换器等的模型提取|
+|掩模合成工具 Empyrean Mage|无|为光刻掩模合成和设计提供全面高效的解决方案，能够将尽可能多的芯片组合到光刻机的单个最大曝光区域，从而减少曝光时间和机器磨损，并优化晶圆布局以实现最高的晶圆利用率|

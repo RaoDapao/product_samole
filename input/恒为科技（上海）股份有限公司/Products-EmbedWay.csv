@@ -1,0 +1,50 @@
+产品网址：https://www.embedway.com.cn/products/21/0?lang=en
+产品结构：root->Products-EmbedWay
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|ExProbe|无|是一款 40G/100G 以太网采集和分发设备，具有高密度接口、多种操作模式、灵活的部署选项和便捷的维护能力，适用于网络信息监测、网络应用分析和信令分析等多种应用环境。它提供了强大的智能流量选择和多通道监控功能，支持多端口数据标记、聚合、过滤、复制和负载均衡输出。通过将设备分析仪设备和负载均衡设备的功能集成到一个解决方案包中，为协议分析系统和信令检测系统提供了高效且用户友好的数据采集解决方案。|
+
+Product,ExProbe8012,ExProbe8120,ExProbe8312,ExProbe8512
+Physical Specifications,,,,
+Height,1U,1U,1U,1U
+Optional AC & DC,√,√,√,√
+RoHS Compliant,√,√,√,√
+Max Interface,,,,
+Physical Interface,48 * SFP28  8 * QSFP28,32 * QSFP28,48 * SFP28  8 * QSFP28,48 * SFP28  8 * QSFP28
+Max 1GbE Ports,48,0,48,48
+Max 10GbE Ports,80,128,80,80
+Max 25GbE Ports,80,128,80,80
+Max 40GbE Ports,8,32,8,8
+Max 100GbE Ports,8,32,8,8
+Total Throughput,2.0Tbps,3.2Tb,2.0Tbps,2.0Tbps
+Function & Features,,,,
+Source Port Labeling,√,√,√,√
+Basic Filtering,√,√,√,√
+User-defined Attribute Filtering,√,√,√,√
+Traffic Aggregation & Replication,√,√,√,√
+Traffic Distribution,√,√,√,√
+Stacking Ports,√,√,√,√
+Ports' Counter,√,√,√,√
+Account Management,√,√,√,√
+CLI configuration and Management,√,√,√,√
+GUI configuration and Management,√,√,√,√
+RPC/API configuration and Management,√,√,√,√
+SNMP Support(v2/v3),√,√,√,√
+Remote Access (Telnet/SSH2),√,√,√,√
+Logical Inline Bypass Protection,√,√,√,√
+System Log,√,√,√,√
+Advanced Features,,,,
+Inner Layer Filter,√,√,√,√
+User-defined VLAN,√,√,√,√
+"Header Stripping  (MPLS,VLAN,VXLAN,GRE)",√,√,√,√
+Sampling,√,√,√,√
+Slicing,√,√,√,√
+NetFlow,-,-,√,√
+"Tunneling (GRE,VXLAN)",-,-,√,√
+Fragment Sort,-,-,√,√
+Time Stamping,-,-,√,√
+Masking,-,-,√,√
+De-duplication,-,-,√,√
+Adaptive Packet Filtering,-,-,-,√
+SSL Decryption,-,-,-,√

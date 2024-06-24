@@ -1,0 +1,6 @@
+产品网址：https://www.empyrean.com.cn/products/eda/analog-design/parasitic-rc-extraction.html
+产品结构：当前位置：首页->EDA软件->模拟电路设计全流程EDA工具系统->寄生参数提取工具
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|寄生参数提取工具|Empyrean RCExplorer|根据工艺参数设置对版图中的器件、单元和互连线的寄生电阻电容等参数进行计算，从而提取出包含寄生参数的电路网表，用于电路的各项性能分析和仿真。支持全芯片晶体管级和单元级寄生参数提取，同时具备三维高精度提取和准三维快速提取两种模式。内置高精度的场求解器，可集成于全定制设计平台 Empyrean Aether，并提供用于寄生参数反标和分析的 Extracted View 数据，也紧密集成于模拟电路 EM/IR 分析工具 Empyrean Patron，提供可靠性分析所需要的后端寄生数据。|

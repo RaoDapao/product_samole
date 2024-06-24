@@ -1,0 +1,14 @@
+产品网址：https://www.longsys.com/products/embedded-storage/micro-storage/ddr3l.html
+产品结构：root->FORESEEDDR3L|Over40ProductionTested|Longsys
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|FORESEE DDR3L|无|满足网络通信和智能设备的数据缓存需求，经过 40 多项生产测试|
+
+Product Series,Capacity,Package,Data Rate,Operating Temperature,Voltage,Bit Width,Size,P/N
+DDR3 SDRAM,2Gbit,BGA96,1866Mbps,0~95℃,1.35V(1.283~1.45V)  1.5V(1.425~1.575V),x16,7.5*13.5mm,F60C1A0002-M6AR
+DDR3 SDRAM,2Gbit,BGA96,2133Mbps,0~95℃,1.35V(1.283~1.45V)  1.5V(1.425~1.575V),x16,7.5*13.5mm,F60C1A0002-M6KR
+DDR3 SDRAM,2Gbit,BGA96,1866Mbps,-40~95℃,1.35V(1.283~1.45V)  1.5V(1.425~1.575V),x16,7.5*13.5mm,F60C1A0002-M69W
+DDR3 SDRAM,4Gbit,BGA96,1866Mbps,0~95℃,1.35V(1.283~1.45V)  1.5V(1.425~1.575V),x16,7.5*13.5mm,F60C1A0004-M79R
+DDR3 SDRAM,4Gbit,BGA96,2133Mbps,0~95℃,1.35V(1.283~1.45V)  1.5V(1.425~1.575V),x16,7.5*13.5mm,F60C1A0004-M7KR
+DDR3 SDRAM,4Gbit,BGA96,1866Mbps,-40~95℃,1.35V(1.283~1.45V)  1.5V(1.425~1.575V),x16,7.5*13.5mm,F60C1A0004-M79W

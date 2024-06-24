@@ -1,0 +1,8 @@
+产品网址：https://www.indiemicro.com/cn/archives/product/ind83220
+产品结构：root->英迪芯微
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|芯片|iND83220|27 通道恒流源，最大 60mA/通道，支持 16 位 PWM 调光@488Hz；集成分时功率开关，通过二分时实现独立控制 18 颗 RGB；集成 PN 电压检测；芯片 BAT 输入与 LED 供电电源分开，可优化恒流源散热；集成高压 LDO，可为内部 CAN 收发器供电；I2C master 接口，可外接传感器；ELINS 总线，支持最大 2Mbps 波特率，32 个地址；集成 12bit SAR ADC 来实现 PN 电压检测功能，以及电源，GPIO,LED 短/开路监测；符合 AEC-Q100 一级|
+
+

@@ -1,0 +1,9 @@
+产品网址：http://www.admicrochip.com/site-List-41.html
+产品结构：首页->产品中心->电池管理IC->电池电量计监测
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|电池电量计监测|无|无|
+
+Part No.,VDD,电池串节数,System Clock,Data EEPROM,I/O,TIMER,VADC,CCADC,IIC,USART,SPI,PWM,Package,Appllcation
+AD1845,2.6V-5.5V,1,16M,256 Byte,8/20,3,16bit,16bit,IIC(从),1,-,4,DFN12、DFN8,高精度锂电池电量计(bq27541)

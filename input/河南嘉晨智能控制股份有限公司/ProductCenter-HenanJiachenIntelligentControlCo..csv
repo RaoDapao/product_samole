@@ -1,0 +1,383 @@
+产品网址：https://jiachenin.com/en/products
+产品结构：root->ProductCenter-HenanJiachenIntelligentControlCo.
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Safe Driving Systems|无|无|
+
+Parameters,Parameters.1
+Rated voltage,24V
+Max Current,350A
+Application,"Driving, Oil pump"
+Motor Type,AC Asynchronous
+
+
+Parameters,Parameters.1
+Rated voltage,48V
+Max Current,550A
+Application,"Driving, Oil pump"
+Motor Type,AC Asynchronous
+
+
+Parameters,Parameters.1
+Rated voltage,80V
+Max Current,450A
+Application,"Driving, Oil pump"
+Motor Type,AC Asynchronous
+
+
+Parameters,Parameters.1
+Rated voltage,80V
+Max Current,450A
+Application,"Driving, Oil pump"
+Motor Type,Permanent magnet synchronous
+
+
+Parameters,Parameters.1
+Rated voltage,80V
+Max Current,700A
+Application,"Driving, Oil pump"
+Motor Type,"AC asynchronous, AC synchronous"
+
+
+Parameters,Parameters.1
+Rated voltage,80V
+Max Current,450A
+Application,"Driving, Oil pump"
+Motor Type,AC Asynchronous
+
+
+Parameters,Parameters.1
+Rated voltage,48V
+Max Current,350A
+Application,Driving
+Motor Type,AC Asynchronous
+
+
+Parameters,Parameters.1
+Rated voltage,120V
+Max Current,500A
+Application,"Driving, Oil pump"
+Motor Type,"AC , Permanent"
+
+
+Parameters,Parameters.1
+Rated voltage,120V
+Max Current,500A
+Application,Driving + Oil Pump
+Motor Type,"AC , Permanent"
+
+
+Parameters,Parameters.1
+Rated voltage,144V
+Max Current,500A
+Application,"Driving, Oil pump"
+Motor Type,"AC , Permanent"
+
+
+Parameters,Parameters.1
+Rated voltage,144V
+Max Current,500A
+Application,Driving + Oil Pump
+Motor Type,"AC , Permanent"
+
+
+Parameters,Parameters.1
+Rated voltage,24V
+Max Current,100A
+Application,Driving
+Motor Type,DC Brushed
+
+
+Parameters,Parameters.1
+Rated voltage,24V
+Max Current,40A
+Application,Steering
+Motor Type,DC Brushed
+
+
+Parameters,Parameters.1
+Rated voltage,24V
+Max Current,100A
+Application,Driving
+Motor Type,DC Brushless
+
+
+Parameters,Parameters.1
+Rated voltage,48V
+Max Current,120A
+Application,Driving
+Motor Type,DC Brushless
+
+
+Parameters,Parameters.1
+Rated voltage,24V
+Max Current,90A
+Application,Driving
+Motor Type,DC Brushed
+
+
+Parameters,Parameters.1
+Rated voltage,24V
+Max Current,50A
+Application,Steering
+Motor Type,DC Brushed
+
+
+Parameters,Parameters.1
+Voltage Range,9~60 V
+Protection Level,IP65
+LCD,OLED Screen
+Screen size,1.3寸
+
+
+Parameters,Parameters.1
+Voltage Range,9~60 V
+Protection Level,IP65
+LCD,TFT Color screen
+Screen size,2.8 寸
+
+
+Parameters,Parameters.1
+Voltage Range,12~60 V
+Protection Level,IP65
+LCD,TFT Color screen
+Screen size,2.8 寸
+
+
+Parameters,Parameters.1
+Voltage Range,16~100 V
+Protection Level,IP65
+LCD,TFT Color screen
+Screen size,3.5 寸
+
+
+Parameters,Parameters.1
+Voltage Range,16~100 V
+Protection Level,IP65
+LCD,TFT Color screen
+Screen size,3.5 寸
+
+
+Parameters,Parameters.1
+Voltage Range,16~100 V
+Protection Level,IP65
+LCD,TFT Color screen
+Screen size,3.5 寸
+
+
+Parameters,Parameters.1
+Voltage Range,12~24 V
+Protection Level,IP65
+LCD,TFT Color screen
+Screen size,4 寸
+
+
+Parameters,Parameters.1
+Voltage Range,9~36 V
+Protection Level,IP65
+LCD,TFT Color screen
+Screen size,4 寸
+
+
+Parameters,Parameters.1
+Voltage Range,16~100 V
+Protection Level,IP65
+LCD,TFT Color screen
+Screen size,4.3 寸
+
+
+Parameters,Parameters.1
+Voltage Range,16~100 V
+Protection Level,IP65
+LCD,TFT Color screen
+Screen size,4.3 寸
+
+
+Parameters,Parameters.1
+Voltage Range,16~100 V
+Protection Level,IP65
+LCD,TFT Color screen
+Screen size,5 寸
+
+
+Parameters,Parameters.1
+Voltage Range,16~100V
+Protection Level,IP65
+LCD,Dot Matrix Screen
+Screen size,5寸
+
+
+Parameters,Parameters.1
+Voltage Range,16~100 V
+Protection Level,IP65
+LCD,64K TRUE COLOR
+Screen size,8 寸
+
+
+Parameters,Parameters.1
+Voltage Range,16~100 V
+Protection Level,IP65
+LCD,64K TRUE COLOR
+Screen size,10 寸
+
+
+Parameters,Parameters.1
+Voltage Range,12~96 V
+Protection Level,IP51
+Communication method,CAN/RS232
+Size,185.5*92.6*29.5mm
+
+
+Parameters,Parameters.1
+Voltage Range,12~60 V
+Protection Level,IP54
+Communication method,CAN
+Size,383.6*289.5*98.5mm
+
+
+Parameters,Parameters.1
+Voltage Range,12~60 V
+Protection Level,IP54
+Communication method,CAN
+Size,256*123*84mm
+
+
+Parameters,Parameters.1
+Input Voltage Range,24-80V
+Maximum continuous current,125-300A
+Operating Temperature,-40~50℃
+Protection Level,IP65
+
+
+Parameters,Parameters.1
+Voltage Range,30~160V
+Output voltage level,24V
+Protection Level,IP65
+Housing size,103*90*30mm
+
+
+Parameters,Parameters.1
+Voltage Range,37~95V
+Output voltage level,12V/24V
+Protection Level,IP65
+Housing size,100*84*40.8mm
+
+
+Parameters,Parameters.1
+Input Voltage Range,9~40V
+Operating Temperature,-30~50℃
+Network,4G
+Communication method,CAN
+
+
+Parameters,Parameters.1
+Input Voltage Range,9~100V
+Operating Temperature,-30～50℃
+Network,4G
+Communication method,CAN
+
+
+Parameters,Parameters.1
+Input Voltage Range,9 TO 100V
+Operating Temperature,-30～50℃
+Network,4G GLOBAL EDITION
+Communication method,CAN
+
+
+Parameters,Parameters.1
+Input Voltage Range,12~60V
+Operating Temperature,-30～50℃
+Network,4G
+Communication method,CAN
+
+
+Parameters,Parameters.1
+Input Voltage Range,9~60V
+Operating Temperature,-40～50℃
+Protection Level,IP65
+Communication method,CAN
+
+
+Input Voltage,Input Voltage.1
+Input Voltage Range,9 TO 36V
+Operating Temperature,-30～50℃
+Network,4G
+Environmental code,Remote setup
+
+
+Parameters,Parameters.1
+Input Voltage Range,6 TO 96V
+Protection Level,IP65
+Unlocking method,Password/card swipe
+Number of accounts,100组
+
+
+Parameters,Parameters.1
+Communication method,CAN
+Voltage Range,"9-60V, 40-100V"
+Collection Type,Analog/encoder pulses
+Number of collections,4 analog or 2 encoder pulses
+
+
+Parameters,Parameters.1
+Input Voltage Range,6 TO 120V
+Protection Level,IP65
+Unlocking method,Password/card swipe
+Number of accounts,100组
+
+
+Parameters,Parameters.1
+Input Voltage Range,4.5 TO 5.5V
+Output Voltage Range,0-5V + 5-0V
+Operating Temperature,-40～50℃
+Protection Level,IP65
+
+
+Parameters,Parameters.1
+Input Voltage,24～48V/72～80V
+Pedal angle,35±2°
+Reliability,10 million times
+Protection Level,IP65
+
+
+Parameters,Parameters.1
+Input Voltage Range,12~60V
+Operating Temperature,-30～50℃
+Protection Level,IP65
+Communication method,CAN
+
+
+Parameters,Parameters.1
+Input Voltage,11～80V /5V
+Pedal angle,35°
+Reliability,10 million times
+Protection Level,IP65
+
+
+Parameters,Parameters.1
+Input Voltage,9 TO 100V
+Output Voltage,0~5V
+Swing angle,-30°～30°
+Protection Level,IP65
+
+
+Parameters,Parameters.1
+Input Voltage,12～80V /5V
+Pedal angle,30°/36°
+Reliability,10 million times
+Protection Level,IP68
+
+
+Parameters,Parameters.1
+Input Voltage,12~80V
+Output Voltage,0.1 TO 4.9V(±0.1)
+Explosion-proof,ExmbIICT4GB/ExmbD21T130C
+Protection Level,IP65
+
+
+Parameters,Parameters.1
+Input Voltage,6V TO 15V
+Output Voltage,0.1 TO 4.9V (±0.1V)
+Reliability,10 million times
+Protection Level,IP65

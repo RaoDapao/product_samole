@@ -1,0 +1,12 @@
+-> root http://www.asrmicro.com
+  -> 信风已至，永立潮头——翱捷科技ASR16 http://www.asrmicro.com/ndetail/36.html
+  -> 蜂窝基带芯片 http://www.asrmicro.com/pro/59.html
+    -> Cat.1 物联网芯片 
+    -> Cat.1 可穿戴/功能机芯片 
+    -> Cat.4 移动智能终端芯片 
+    -> Cat.6 高速移动宽带芯片 
+    -> Wi-Fi 芯片 
+    -> 蓝牙芯片 
+    -> LPWAN 芯片 
+    -> Combo 芯片 
+  -> 蜂窝物联网芯片潜力十足！从Cat.1到C http://www.asrmicro.com/ndetail/31

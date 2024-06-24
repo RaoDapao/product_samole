@@ -1,0 +1,23 @@
+-> root https://www.geochipinc.com
+  -> 首页 
+    -> 产品中心 https://www.geochipinc.com/product/29
+      -> 射频前端芯片 https://www.geochipinc.com/product/40
+        -> FEM/PA https://www.geochipinc.com/product/30
+          -> GC1101 http://www.geochipinc.com/product_details.html?productId=53
+          -> GC1103 http://www.geochipinc.com/product_details.html?productId=54
+      -> 射频收发芯片 https://www.geochipinc.com/product/32
+        -> Sub6G https://www.geochipinc.com/product/42
+      -> 模拟信号链芯片 https://www.geochipinc.com/product/41
+        -> PipelineADC https://www.geochipinc.com/product/33
+          -> GAD2245 http://www.geochipinc.com/product_details.html?productId=60
+          -> GAD2255 http://www.geochipinc.com/product_details.html?productId=61
+        -> SARADC https://www.geochipinc.com/product/34
+          -> 模拟信号链芯片 
+          -> 模拟信号链芯片 
+          -> 模拟信号链芯片 
+        -> 电压基准源 https://www.geochipinc.com/product/43
+          -> GREF06XX http://www.geochipinc.com/product_details.html?productId=81
+  -> 稳！新！进！地芯科技综合竞争优势形成，逆 https://www.geochipinc.com/news/81.html
+    -> 射频宽带收发机芯片 
+    -> 射频前端芯片技术平台 
+    -> ADC 产品 

@@ -1,0 +1,78 @@
+产品网址：http://en.tiandy.com/index.php?s=/Home/Product/detail/id/636.html
+产品结构：root->TiandyTechnologies
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|NVR|TC-R3210|H.265 2HDD 10ch Face Recognition NVR，支持 S+265/H.265/H.264 视频格式，最高 6MP 分辨率，1×HDMI 和 1×VGA 同时输出，最多可接入 10 路 IP 摄像机，访问/转发带宽为 80Mbps/80Mbps，支持 4MP(30fps)×1、3MP(30fps)×2、1080P(30fps)×3 预览解码能力，4 路同步回放，4MP(30fps)×1、3MP(30fps)×2、1080P(30fps)×3 回放解码能力，每块 HDD 最高容量 10TB，同时支持 HDMI 和 VGA 输出，HDMI 输出最高分辨率为 1080P，1×RJ-45，10/100Mbps 自适应以太网端口，S+265 压缩可有效减少高达 75%的存储空间，支持云升级|
+
+Video and Audio,Unnamed: 1
+Access Channel,10
+Incoming Bandwidth,80Mbps
+Outgoing Bandwidth,80Mbps
+Resolution,6MP/5MP/4MP/3MP/1080P/UXGA/720P/VGA/4CIF/DCIF/2CIF/CIF/QCIF
+Preview Decoding Capability,"4MP(30fps)×1, 3MP(30fps)×2, 1080P(30fps)×3, 720P(30fps)×6, 4CIF(30fps)×10"
+Third-party Camera Access,ONVIF; RTSP
+HDMI Output,"HDMI:800×600(60Hz), 1024×768(60Hz), 1280×720(50Hz/60Hz), 1280×800(60Hz), 1366×768(60Hz), 1440×900(60Hz), (1080P)1920×1080(50Hz/60Hz)"
+Liveview display,Simultaneous Output: VGA: 1/2/3/4/6/8/9/10 HDMI: 1/2/3/4/6/8/9/10
+VGA Output,"VGA:800×600(60Hz), 1024×768(60Hz), 1280×720(50Hz/60Hz), 1280×800(60Hz), 1366×768(60Hz), 1440×900(60Hz), 1920×1080(50Hz/60Hz)"
+Multi-screen Display,1/2/3/4/6/8/9/10
+Audio Input,"1-ch, 3.5mm"
+Audio Output,"1-ch, RCA (Linear, 1 KΩ)"
+Two-Way Audio,"1-ch, 3.5mm, using the audio input"
+Compression,
+Video,S+265; H.265; S+264; H.264
+Audio,G711A; G711U; ADPCM_DIV4
+Stream Type,Video; Video & Audio
+Network,
+Network Protocol,ARP; DDNS; DHCP; DNS; FTP; HTTP; HTTPS; ICMP; IPv4; NFS; NTP; PPPoE; RTCP; RTP; RTSP; SMTP; SNMP; SSL; TCP/IP; Telnet; UDP; UPnP
+Mobile Phone Access,Android; iOS; P2P_T
+System Compatibility,ONVIF(profile T/S); RTSP; CGI; SDK
+Web,IE10+; Firefox52+; Edge89+; Safari11+; Chrome57+
+Record Playback,
+Multi-channel Playback,4
+Record Mode,Manual recording; Alarm recording; Schedule recording
+Storage Method,"Local HDD, eSATA"
+Backup,"USB storage device, eSATA, Network"
+Playback Function,Play/Pause/Stop/Slow/Speed/Backwards 30s/Forwards 30s/Full screen/backup (video Editing)/Step/Digital Zoom
+Alarm,
+General Alarm,Motion; Mask Alarm; Alarm Input(IPC); Video Loss; Alarm Input(NVR); Manual Alarm
+Exceptions Alarm,IP Conflict; MAC Conflict; Network Disconnected; No disk; Illegal Access; Disk Full; Disk R/W error; Video Abnormal; Abnormal found in smart of disk; Abnormal temperature of the disk; Hot-spare Exception
+Intelligent Analytics,
+AI by Camera,Tripwire; Double Tripwire; Perimeter; Object Abandon; Object Missing; Loiter; Running; Parking; Heatmap; Lens Dignose; Scene Switch Dignose; Signal Abnormal Detection; Signal Loss Detection; On Duty Detection; Crowd Detection; Link To Tracking; Face Detection; Human body temperature measurement; Face Recognition
+AI by NVR,Face Detection; Face Recognition
+VCA Search,Heatmap; Early-warning search; Behavior Search; Thermographic retrieval; Facial search
+Face Detection,
+Face Attributes,Gender; age; glasses; mouth mask; Body temp.
+Face Recognition,
+Performance,1-ch video streams; 10-ch image streams
+Face Picture Library,Up to 32 face libraries Up to 10000 base images
+Face Picture Comparison,Face Picture Comparison
+Comparison Speed(Captured from Camera),10 pictures per second
+Comparison Speed(Captured from NVR),1 pictures per second
+Storage,
+HDD Capacity,Up to 10TB capacity for each HDD
+Disk Group,2 Disk Group
+External Port,
+USB,2×USB2.0
+HDMI,1×HDMI
+VGA,1×VGA
+Network Interface,"1×RJ-45, 10/100 Mbps self-adaptive Ethernet port"
+SATA,2×SATA interface
+Alarm I/O,"1-ch, relay output, 1A, 24VDC"
+General,
+UI Language,Simple Chinese; Traditional Chinese; English; Spanish; Korean; Italian; Turkish; Russian; Thai; French; Polish; Dutch; Hebrew; Arabic; Vietnamese; Farsi
+Power Supply,DC12V 3.3A
+Power Consumption,"<10W(HDD not included, idling)"
+NetWeight,1.6 kg
+GrossWeight,3kg
+Boundary Dimensions,341(L)273(W)47(H)mm
+Package Dimensions,415(L)140(W)375(H)mm
+Operating Temperature,-10℃~+55℃
+Operating Humidity,10%~90%RH
+Storage Temperature,-10℃~+55℃
+Storage Humidity,10%~90%RH
+Package Kit,Network Video Recorder; Screw pack; Mouse; Power adapter; European standard power cord
+
+
+Date,Title,Type
+2024-04-07,1D.20030.000218_TC-R3210 IF_en,pdf

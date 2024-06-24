@@ -1,0 +1,9 @@
+产品网址：http://en.redpowersemi.com/products/igbt/68.html#
+产品结构：root->A6Series-AnhuiRedPowerMicroelectronicsCo.,Ltd
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|IGBT Module|A6 Series|采用 Trench FS 技术，具有高 RBSOA 能力、低开关损耗、低 VCEsat 等特点，适用于电机驱动器、（混合动力）电动汽车、商用农业车辆等领域|
+
+Part No.,Housing,Configuration,Voltage Class,Technology,Ic(com),VCE(sat),Dimensions
+RG820F08A6M4,HPD,Sixpack,750 V,Trench-FS,820 A,1.25,142*113*21 mm

@@ -1,0 +1,17 @@
+产品网址：http://www.haier-ic.com/product/product_E.html
+产品结构：当前位置：首页->芯片及方案->HaierDDR
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Haier DDR|H2I1G16KFR-Y5C|高速 CMOS 双倍数据速率二（DDR2），同步动态随机存取存储器（SDRAM），包含 1024 Mbits，16 位宽数据 I/O。内部配置为 8 个存储体 DRAM，8 个存储体 x 8Mb 地址 x 16 I/O。该设备设计符合 DDR2 DRAM 的关键特性，如带有附加延迟的发布 CAS#，写入延迟=读取延迟-1，片外驱动器（OCD）阻抗调整和片上终端（ODT）。|
+|Haier DDR|H3I1G16LFG-PBA|1Gb 双倍数据速率 3（DDR3）DRAM，双倍数据速率架构，实现高速操作。内部配置为 8 个存储体 DRAM。|
+|Haier DDR|H3I2G16LFG-RDA|2Gb 双倍数据速率 3（DDR3）DRAM，双倍数据速率架构，实现高速操作。内部配置为 8 个存储体 DRAM。|
+|Haier DDR|H3I4G16LFG-RDA|4Gb 双倍数据速率 3（DDR3）DRAM，双倍数据速率架构，实现高速操作。内部配置为 8 个存储体 DRAM。|
+|Haier DDR|H3I1G08LFG-RDC|1Gb 双倍数据速率 3（DDR3）DRAM，双倍数据速率架构，实现高速操作。内部配置为 8 个存储体 DRAM。|
+|Haier DDR|H3I2G08LFG-RDC|2Gb 双倍数据速率 3（DDR3）DRAM，双倍数据速率架构，实现高速操作。内部配置为 8 个存储体 DRAM。|
+|Haier DDR|H3I4G08LFG-TEC|4Gb 双倍数据速率 3（DDR3）DRAM，双倍数据速率架构，实现高速操作。内部配置为 8 个存储体 DRAM。|
+|Haier DDR|H4I4G16BLF-UKC|256M x 16 位 DDR4 同步动态随机存取存储器（SDRAM）。|
+|Haier DDR|H4I8G16BLF-UKC|512M x 16 位 DDR4 同步动态随机存取存储器（SDRAM）。|
+|Haier DDR|LPDDR4（H4IBE3S4HR-THCL）|UFS 内存和移动 LPDDR4X 254 球 MCP。|
+|Haier DDR|LPDDR4（200BALL 2GB SDRAM）|统一的 LPDDR4 和 LPDDR4X 产品的操作规范，首先描述了 LPDDR4X 0.6V VDDQ 操作的特定要求。|
+|Haier DDR|LPDDR4（UMCP 128+32）|统一的 LPDDR4 和 LPDDR4X 产品的操作规范，首先描述了 LPDDR4X 0.6V VDDQ 操作的特定要求。|

@@ -1,0 +1,22 @@
+产品网址：http://en.tang-sh.com/products_detail/1.html
+产品结构：root->GyroSensors,IMUsandAccelerometers-ShanghaiTangElectronicsCo.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Gyro Sensors,IMUs and Accelerometers|XV7001BB、XV7011BB、XV7021BB、XV7181BB、GGPM01/02、M-A352AD10、M-G370 等|Epson 陀螺仪是角速度传感器，具有良好的温度特性、低功耗、低成本和良好的稳定性。可用于清洁机器人传感器模块等领域，提供低成本、高可靠性的传感解决方案。还可用于各种类型的无人驾驶车辆，集成三个单轴角速度传感器和三个单轴加速度传感器，用于精确测量三个方向的角速度和加速度变化|
+
+model,External dimensions  [mm],Detection axis,interface,Supply voltage  [V],Working temperature  [℃],Sensitivity  [°/·s] Typ.,Output at rest  [°/·s] Typ. @+25℃,Detection range[°/s]
+XV7011BB,5.0 x 3.2x 1.3,1,SPI or I2C,2.7~3.6,-20 ~+80,280LSB ±5% (16 bits),±1 ( 0 LSB Typ. ),±100
+XV7011BB,5.0 x 3.2x 1.3,1,SPI or I2C,1.65~3.6,-40 ~+85 (customized),71680LSB ±5% (24 bits),±1 ( 0 LSB Typ. ),±100
+XV7001BB,5.0 x 3.2x 1.3,1,SPI or I2C,2.7~3.6,-20 ~+80,280LSB ±5% (16 bits),±1 ( 0 LSB Typ. ),±100
+XV7001BB,5.0 x 3.2x 1.3,1,SPI or I2C,1.65~3.6,-20 ~+80,280LSB ±5% (16 bits),±1 ( 0 LSB Typ. ),±100
+XV7021BB,5.0 x 3.2x 1.3,1,SPI or I2C,2.7~3.6,-20 ~+80,70LSB ±5% (16 bits),±1 ( 0 LSB Typ. ),±400
+XV7021BB,5.0 x 3.2x 1.3,1,SPI or I2C,1.65~3.6,-20 ~+80,17920LSB ±5% (24 bits),±1 ( 0 LSB Typ. ),±400
+XV7181BB,5.0 x 3.2x 1.3,1,SPI or I2C,2.7~3.6,-40 ~+85,264LSB ±5% (16 bits),±1 ( 0 LSB Typ. ),±460
+XV7181BB,5.0 x 3.2x 1.3,1,SPI or I2C,1.65~3.6,-40 ~+85,67584LSB ±5% (24 bits),±1 ( 0 LSB Typ. ),±460
+
+
+model,Measuring range  [°/s],Bias stability  [°/hr],Error  [deg/√hr],Acceleration range  [G],interface,External dimensions  [mm],Operating temperature  [°C]
+M-G370PDF0,±450,0.8,0.06,±10,SPI/UART,24x24x10,-40 ~ +85
+M-G366PDG0,±450,1.2,0.08,±4/10,SPI/UART,24x24x10,-40 ~ +85
+M-G330PDG0,±400,3.0,0.1,±8/16,SPI/UART,24x24x10,-40 ~ +85

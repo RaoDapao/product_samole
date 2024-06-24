@@ -1,0 +1,10 @@
+产品网址：http://www.macmicst.com/index.php/product/release_info/42.html
+产品结构：root->产品中心-江苏宏微科技股份有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|RC（逆导）IGBT 分立器件|无|IGBT/FWD 集于同一芯片；通态压降低；可靠性高；成本低|
+
+Type,V  CES  (V),I  C nom  (A),V  CE (sat)  (V),P  tot  (W),E  off  (mJ),R  thJC  (℃/W),Packages,PDF资料
+ALL  MM20G3R135B,ALL  1350,ALL  20,ALL  1.6,ALL  333,ALL  1.4,ALL  0.45,ALL  TO-247,
+MM20G3R135B,1350,20,1.6,333,1.4,0.45,TO-247,预览  下载

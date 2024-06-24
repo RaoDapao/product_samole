@@ -1,0 +1,15 @@
+产品网址：https://www.yes-lcd.com/product/160.html
+产品结构：root->YMS640384-075CABMFGN-R_YesOptoelectronics（Group）Co.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|YMS640384-075CABMFGN-R|YMS640384-075CABMFGN-R|640×384 像素显示，高对比度，高反射率，超宽视角，超低功耗，纯反射模式，双稳态显示，商业温度范围，横屏、竖屏模式，硬涂层防眩光显示表面，超低电流深度睡眠模式，片上显示 RAM，FPC 上的波形存储在闪存中，串行外设接口可用，片上振荡器，片上升压和稳压器控制用于生成 VCOM、Gate 和 Source 驱动电压，I2C 信号主接口读取外部温度传感器，可提供 COG 封装 IC 厚度 280um|
+
+Parameter,Specifications,Unit,Remark
+Screen Size,7.5,Inch,
+Display Resolution,640(H)×384(V),Pixel,Dpi:100
+Active Area,163.2×97.92,mm,
+Pixel Pitch,0.255×0.255,mm,
+Pixel Configuration,Rectangle,,
+Outline Dimension,170.2(H)×111.2 (V) ×1.18(D),mm,
+Weight,42.5±0.5,g,

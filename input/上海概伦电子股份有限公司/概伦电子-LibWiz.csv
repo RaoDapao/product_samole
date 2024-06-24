@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/products/manufacturing_eda/LibWiz.html
+产品结构：root->概伦电子-LibWiz
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|LibWiz|无|为标准单元库不同 PVT 组合之间的趋势分析提供解决方案，确保完整性；采用交叉检查方法，提取常用主要元素并检查库之间的一致性；支持按照顺序过程检查功能一致性及每个 Cell 的属性；基于分析结果生成芯片设计者所需的 Library 数据手册；支持从全定制的版图中高效抽取示意版图；提供友好的图形用户界面环境，支持快速 debug 并生成 HTML、PDF 和 TXT 格式的文件以方便检查分析|

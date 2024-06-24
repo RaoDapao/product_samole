@@ -1,0 +1,14 @@
+产品网址：https://www.hesaitech.com/product/pandar64/#
+产品结构：root->Pandar64Long-RangeMechanicalLidar|HESAITechnology
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Automotive Long-Range Lidar|AT128|1,536,000 点/秒的点率，1200×128 的整体分辨率，210 米@10%反射率的范围，120°×25.4°的视场，136 毫米×114 毫米×49 毫米的尺寸，0.1°（H）×0.2°（V）的分辨率|
+|Automotive Short-Range Lidar|FT120|160（H）×120（V）的整体分辨率，100°（H）×75°（V）的视场，192,000 点/秒（单次返回）、384,000 点/秒（双次返回）的点率（@10Hz），0.1 米至 100 米的仪器范围，0.625°（H）×0.625°（V）的角分辨率，典型 10Hz 的帧率|
+|Superior Precision, Cost-Effective Solution|XT32/XT32M/XT16|32（16 通道版本可用）的通道，0.5 厘米（1σ精度）的范围精度，±1 厘米的范围精度，0.05 至 120 米的范围，360°（H）×31°（V）的视场，0.18°（H）×1°（V）@10Hz 的分辨率，0.8 千克的重量|
+|360° Primary Lidar for Large-Scale Deployment|OT128|3,456,000 点/秒（单次返回）、6,912,000 点/秒（双次返回）的点率，200 米@10%反射率、230 米最大的范围，360°（H）×40°（V）的视场，0.1°（H）×0.125°（V）的角分辨率（最精细），29 瓦的功耗，118.0 毫米×132.3 毫米的尺寸（最大直径×高度）|
+|All-Around Performance, 360° Coverage|Pandar128|128 的通道，3,456,000 点/秒（单次返回）、6,912,000 点/秒（双次返回）的点率，0.1°（10Hz）的水平分辨率，200 米@10%反射率的范围，最精细在 0.125°的垂直分辨率|
+|Close Object Detection, Ultra-Wide View|QT128|128 的通道，20 米@10%反射率的范围，105.2°（-52.6°至+52.6°）的垂直视场，最精细在 0.4°@10Hz 的水平分辨率，最精细在 0.4°的垂直分辨率|
+|Automotive Long-Range Lidar, Behind Windshield Installation|ET25|225 米@10%反射率的范围（带挡风玻璃），120°（H）×25°（V）的视场，0.05°（H）×0.05°（V）的角分辨率（最精细），120×100×25 毫米的尺寸，>3,000,000 点/秒的点率，12 瓦的功耗|
+|Remote Methane Leak Detector|Handheld|200 米（82%漫反射率，15000ppm*m 甲烷气体浓度）的检测范围，5（实际）ppm*m 的灵敏度，±10%（100 至 50000ppm*m）的测量精度，5 毫秒的响应时间，0.76 千克的重量（带电池和瞄准器）|
+|Remote Methane Leak Detector|Drone-Mounted|400 米（82%漫反射率，15000ppm*m 甲烷气体浓度）的检测范围，5（实际）ppm*m 的灵敏度，±10%（100 至 50000ppm*m）的测量精度，5 毫秒的响应时间，<600 克的重量|

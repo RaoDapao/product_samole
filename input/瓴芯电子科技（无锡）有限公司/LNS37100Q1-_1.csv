@@ -1,0 +1,21 @@
+产品网址：https://www.len-technology.com/en/products/high-side-driver-chip/high-side-driver-chip-details/lns37100
+产品结构：root->LNS37100Q1-
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|High Side Switch|LNS37100Q1|Automotive, 36V, 100mΩ, Single-channel Smart High-side Switch.|
+
+Operating voltage Min (V),4
+Operating voltage Max (V),36
+Channels,1
+Rdson (mohm),100
+Output current (A),4
+currrent limit (A),"External Adjustable, 7A Max"
+Protection,Output short to GND；  Over current；  Inductive load negative voltage clamp；  Loss of GND and Loss of power protection；  Thermal Shutdown；
+Diagnosis,Open load  Output short to battery  Overcurrent and output short to GND
+Fault output for each channel,Version A
+Current sense,Version B
+Package,TSSOP-EP14
+Rating,AEC-Q100 Grade1
+Operating junction temperature,-40 to 150
+Functional safety supported,Functional Safety Supported

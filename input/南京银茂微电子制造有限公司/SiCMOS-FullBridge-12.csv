@@ -1,0 +1,18 @@
+产品网址：https://www.njsme.com/?aPRODUCTSPRODUCTSD500V/87.html
+产品结构：root->SiCMOS-FullBridge-1200SiC-FullBridge-南京银茂微电子制造有限公司-
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Full Bridge|SiC MOS-Full Bridge-1200SiC|无|
+
+VDSS=1200V,VDSS=1200V.1,VDSS=1200V.2,VDSS=1200V.3,VDSS=1200V.4,VDSS=1200V.5
+Part Number,Voltage(V),Current(A),RDS(on)@25℃,Comments,Links
+MSC20FF120C7H,1200,20,80mΩ,With SiC FRD,
+MSC50FF120C7H,1200,50,25mΩ,With SiC FRD,
+,,,,,
+,,,,,
+VDSS=1200V,VDSS=1200V,VDSS=1200V,VDSS=1200V,VDSS=1200V,VDSS=1200V
+Part Number,Voltage(V),Current(A),RDS(on)@25℃,Comments,Links
+MSC20FF120T5H,1200,20,80mΩ,With SiC FRD,
+MSC50FF120T5H,1200,50,25mΩ,With SiC FRD,
+,,,,,

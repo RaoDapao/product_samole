@@ -1,0 +1,24 @@
+产品网址：https://www.vmdsemi.com/home/product.html?cat_id=3
+产品结构：root->杭州唯美地半导体有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|功率 IC|无|无|
+
+No.,VMD Part No,Package,Voltage,Current,Type,Description
+1,WG0501C,SOP8L,18V,5A,GateDriver,18V 5A Gate Driver 2ch  双通道高速低压侧栅极驱动器
+2,WG0502A,SOT23-5,18V,5A,GateDriver,18V 5A Gate Driver 1ch  单通道高速低压 侧栅极驱动器
+3,VR809T,SOT23-3L,5V,/,reset IC,VCC=1-5.5V，VTH=1.63V reset IC，watchdog  用于微处理器和数字系统中的低功耗微处理器（μ P）监控芯片
+4,WR811,SOT143,5V,/,reset IC,"VCC=1-5.5V, VTH=3V,3.3V, 5V reset IC，watchdog  用于微处理器和数字系统中的低功耗微处理器（μ P）监控芯片"
+5,WR811X,SOT23-5L,5V,/,reset IC,"VCC=1-5.5V, VTH=2.63,3.08V, 4.63V reset IC  用于微处理器和数字系统中的低功耗微处理器（μ P）监控芯片"
+6,WA0001,SOT23-6,29V,/,ACDC,High performance multi-mode(QR/CCM) PWM controller for flyback converter  反激隔离AC-DC，支持QR/CCM 模式的PWM controller
+7,WA0002B,SOT23-6,28V,/,ACDC,Current Mode PWM Controller for Forward and Flyback Applications  电流模式控制的应用于隔离正激和反激的AC-DC PWM 控制器
+8,WD0201P,FC-SOT23-6,4.7-18V,2A,DCDC,"4.7-18V, 2A, 600KHz，Synchronous，Auto-Skip Step-Down Voltage Regulator  4.7-18V输入, 2A输出, 600KHz，增强型断续电流模式同步降压稳压器"
+9,WD0201A,FC-SOT23-6,4.7-18V,2A,DCDC,"4.7-18V, 2A, 600KHz，Synchronous，Auto-Skip Step-Down Voltage Regulator  4.7-18V输入, 2A输出, 600KHz，脉冲跳跃模式同步降压稳压器"
+10,WD0201F,FC-SOT23-6,4.7-18V,2A,DCDC,"4.7-18V, 2A, 600KHz，Synchronous，Force-CCM Step-Down Voltage Regulator  4.7-18V输入, 2A输出, 600KHz，持续电流模式同步降压稳压器"
+11,WD0301A,FC-SOT23-6,4.7-18V,3A,DCDC,"4.7-18V, 3A, 580KHz，Synchronous，Auto-Skip Step-Down Voltage Regulator  4.7-18V输入, 3A输出, 600KHz，脉冲跳跃模式同步降压稳压器"
+12,WD0301F,FC-SOT23-6,4.7-18V,3A,DCDC,"4.7-18V, 3A, 600KHz，Synchronous，Force-CCM Step-Down Voltage Regulator  4.7-18V输入, 2A输出, 600KHz，持续电流模式同步降压稳压器"
+13,WD0301P,FC-SOT23-6,4.7-18V,3A,DCDC,"4.7-18V, 3A, 580KHz，Synchronous，Performance-DCM Step-Down Voltage Regulator  4.7-18V输入, 3A输出, 600KHz，增强型断续电流模式同步降压稳压器"
+14,WD0401A,FC-SOT23-6,4.7-18V,4A,DCDC,"4.7-18V, 4A, 600KHz，Synchronous，Auto-Skip Step-Down Voltage Regulator  4.7-18V输入, 4A输出, 600KHz，脉冲跳跃模式同步降压稳压器"
+15,WD0401F,FC-SOT23-6,4.7-18V,4A,DCDC,"4.7-18V, 4A, 580KHz，Synchronous，Force-CCM Step-Down Voltage Regulator  4.7-18V输入, 4A输出, 600KHz，持续电流模式同步降压稳压器"
+16,WD0401P,FC-SOT23-6,4.7-18V,4A,DCDC,"4.7-18V, 4A, 600KHz，Synchronous，Performance-DCM Step-Down Voltage Regulator  4.7-18V输入, 4A输出, 600KHz，增强型断续电流模式同步降压稳压器"

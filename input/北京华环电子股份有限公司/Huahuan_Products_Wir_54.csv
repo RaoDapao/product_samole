@@ -1,0 +1,16 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=47&scid=130&ncid=131&deid=187
+产品结构：root->Huahuan_Products_WirelessTransportation/Radio_H0FL-0135V.35/E1Converter
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|V.35/E1 Converter|H0FL-0135|transports V.35 data via E1 network. It's widely used for routerinter connection and DDN accessing as well as remote LAN connection. It can provide best solution with simplicity, efficiency cost-effectiveness and high reliability for data communication platform.|
+
+Item,Description
+H0FL-0135,Convert unframed or framed V.35 to E1 interface
+E1 interface,Comply with ITU-T G.703  Bit rate: 2048kbit/s ±50ppm  Code: HDB3  Input impedance: 75Ω and 120Ω
+V.35 interface,"Comply with ITU-T V.35/V.36  Interface speed: N×64kbit/s, 1≤N≤31; unframed : 2048kbit/s  Work mode: DCE, DTE optional"
+Power supply,AC or DC optional  DC -48V  （  -38V ~ -72V  ）  AC  ～  220V  （  100V ~ 260V  ）
+Consumption,≤3W
+Dimension,W×H×D(mm): 185×35×138
+Environment,Temperature:  （  0  ～  45  ）  ℃
+Environment,Humidity: ≤90  ％（  non-condensed  ）

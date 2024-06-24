@@ -1,0 +1,12 @@
+-> root http://www.sznfxy.com
+  -> JSMC华微 http://www.sznfxy.com/product/details-18-39.html
+  -> 东微半导体 http://www.sznfxy.com/product/details-18-42.html
+    -> 半导体器件 
+    -> 新能源汽车直流大功率充电桩用核心芯片 
+  -> GlobalPower泰科天润 http://www.sznfxy.com/product/details-18-30.html
+  -> SMC http://www.sznfxy.com/product/details-18-27.html
+  -> THINKI http://www.sznfxy.com/product/details-18-23.html
+  -> KWansemi冠禹 http://www.sznfxy.com/product/details-18-47.html
+  -> 首页 
+    -> 代理品牌 
+  -> MHCHXM海矽美 http://www.sznfxy.com/product/details-18-46.html

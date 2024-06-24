@@ -1,0 +1,71 @@
+产品网址：https://www.szxinmai.com/html/2021/zynq_1201/75.html
+产品结构：当前位置：首页->产品中心->ZYNQ7010/20开发板
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|ZYNQ7010/20 开发板|无|基于 Xilinx Zynq-7000 系列 XC7Z010/XC7Z020 高性能低功耗处理器设计的异构多核 SoC 评估板，处理器集成 PS 端双核 ARM Cortex-A9 + PL 端 Artix-7 架构 28nm 可编程逻辑资源，评估板由核心板和评估底板组成。核心板经过专业的 PCB Layout 和高低温测试验证，稳定可靠，可满足各种工业应用环境。评估板接口资源丰富，引出千兆网口、双路 CAMERA、USB、Micro SD、CAN、UART 等接口，支持 LCD 显示拓展及 Qt 图形界面开发，方便用户快速进行产品方案评估与技术预研。|
+
+CPU,CPU：Xilinx Zynq-7000 XC7Z010/XC7Z020-2CLG400I
+,2x ARM Cortex-A9，主频 766MHz，2.5DMIPS/MHz Per Core
+,1x Artix-7 架构可编程逻辑资源
+ROM,PS 端：4/8GByte eMMC
+,PS 端：256Mbit SPI NOR FLASH
+RAM,PS：单通道 32bit DDR 总线，512M/1GByte DDR3
+OSC,PS 端：33.33MHz
+B2B Connector,2x 140pin 公座高速 B2B 连接器，2x 140pin 母座高速 B2B 连接器，共 560pin，  间距 0.5mm，合高 7.0mm
+LED,2x 电源指示灯（核心板 1 个，评估底板 1 个）
+,1x PL 端 DONE 灯（核心板 1 个）
+,3x PS 端用户可编程指示灯（核心板 2 个，评估底板 1 个）
+,2x PL 端用户可编程指示灯（评估底板 2 个）
+KEY,1x 电源复位按键
+,1x 系统复位按键
+,1x PS 端用户输入按键
+,1x PL 端用户输入按键
+SD,1x Micro SD 接口（PS 端）
+XADC,1x 排针接口，2x 2pin 规格，2.54mm 间距，单通道专用差分输入，1MSPS
+Ethernet,1x RGMII，RJ45 接口，10/100/1000M 自适应（PS 端）
+Watchdog,1x Watchdog，3pin 排针方式，2.54mm 间距，通过跳线帽配置
+UART,2x Debug UART，分别为 PS、PL 端调试串口，由同一个 Micro USB 接口引出
+CAN,1x CAN，3pin 3.81mm 绿色端子方式（PL 端）
+USB,1x USB 2.0 OTG 接口（PS 端，核心板板载 USB PHY）
+IO,1x 48pin 公座欧式端子，间距 2.54mm（PL 端）
+,1x 排针拓展接口，2x 17pin 规格，间距 2.54mm（PL 端）
+JTAG,1x 14pin JTAG 接口，间距 2.0mm
+CAMERA,2x CAMERA，2x 10pin 排母方式，间距 2.54mm（PL 端）
+RTC,1x RTC 座，适配纽扣电池 ML2032（3V 可充）、CR2032（3V 不可充）
+FAN,1x FAN，3pin 排针端子，12V 供电，间距 2.54mm
+BOOT SET,1x 6bit 启动方式选择拨码开关
+SWITCH,1x 电源摆动开关
+POWER,1x 12V6A 直流输入 DC-005 电源接口，可接外径 5.5mm、内径 2.1mm 电源插头
+
+
+ARM 端软件支持,裸机，FreeRTOS，Linux-4.9.0,裸机，FreeRTOS，Linux-4.9.0.1
+Vivado 版本号,2017.4,2017.4
+软件开发套件提供,PetaLinux-2017.4，Xilinx SDK 2017.4，Xilinx HLS 2017.4,PetaLinux-2017.4，Xilinx SDK 2017.4，Xilinx HLS 2017.4
+驱动支持,SPI NOR FLASH,DDR3
+,USB 2.0,eMMC
+,LED,KEY
+,RS485,MMC/SD
+,Ethernet,CAN
+,USB WIFI,XADC
+,I2C,RS232
+
+
+环境参数,最小值,典型值,最大值
+核心板工作温度,-40°C,/,85°C
+核心板工作电压,/,5.0V,/
+评估板工作电压,/,12.0V,/
+
+
+类别,工作状态,电压典型值,电流典型值,功耗典型值
+核心板,状态 1,5.0v,0.27A,1.35W
+,状态 2,5.0v,0.49A,2.45W
+评估板,状态 1,12.0v,0.18A,2.16W
+,状态 2,12.0v,0.28A,3.36W
+
+
+Unnamed: 0,核心板,评估底板
+PCB 尺寸,45mm*65mm,108mm*160mm
+PCB 层数,10 层,6 层
+PCB 板厚,1.2mm,1.6mm
+安装孔数量,4,4

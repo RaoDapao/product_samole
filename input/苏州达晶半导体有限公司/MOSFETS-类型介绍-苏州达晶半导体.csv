@@ -1,0 +1,6 @@
+产品网址：http://www.rdsemi.com/index.php?c=product&a=detail&id=5
+产品结构：root->MOSFETS-类型介绍-苏州达晶半导体有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|MOSFETS|无|MOS 管，是 MOSFET 的缩写。MOSFET 金属-氧化物半导体场效应晶体管，简称金氧半场效晶体管。一般是金属-氧化物-半导体场效应晶体管，或者称是金属-绝缘体-半导体。G：gate 栅极；S：source 源极；D：drain 漏极。MOS 管的 source（源极）和 drain（耗尽层）是可以对调的，他们都是在 P 型 backgate 中形成的 N 型区。在多数情况下，这个两个区是一样的，即使两端对调也不会影响器件的性能。这样的器件被认为是对称的。场效应管分为 PMOS 管和 NMOS 管，属于绝缘栅场效应管。|

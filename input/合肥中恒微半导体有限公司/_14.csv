@@ -1,0 +1,15 @@
+产品网址：https://www.zhmsemi.com/products/sic_module/driveed3_sic.html
+产品结构：root
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|SiC Module|DriveED3/SiC|A.Ultrasonic Welding of Terminale-<br>B.Copper Wire Bonding<br>C.High Strength Ceramic Substrates-<br>D.High Reliability Modules|
+
+Package,Product,Product Status,VDSS(V),VGSS(V),ID(A),Configuration,typical value @Tj=25℃,typical value @Tj=25℃.1,typical value @Tj=25℃.2,typical value @Tj=25℃.3
+Package,Product,Product Status,VDSS(V),VGSS(V),ID(A),Configuration,RDS(on)(mΩ),VSD(V),Eon(mJ),Eoff(mJ)
+DriveED3/sic,2E300E120T1P,Developing,1200,+25/-10,300,Half Bridge,4,1.60,T.B.D,T.B.D
+DriveED3/sic,2E400E120T1P,Developing,1200,+25/-10,400,Half Bridge,3,1.60,T.B.D,T.B.D
+DriveED3/sic,2E600E120T1P,Developing,1200,+25/-10,600,Half Bridge,2,1.60,T.B.D,T.B.D
+DriveED3/sic,2E300E120T2P,Developing,1200,+20/-4,300,Half Bridge,6,2.00,T.B.D,T.B.D
+DriveED3/sic,2E400E120T2P,Developing,1200,+20/-4,400,Half Bridge,5,2.00,T.B.D,T.B.D
+DriveED3/sic,2E600E120T2P,Developing,1200,+20/-4,600,Half Bridge,3,2.00,T.B.D,T.B.D

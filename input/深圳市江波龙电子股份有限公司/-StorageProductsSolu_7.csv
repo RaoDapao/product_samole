@@ -1,0 +1,12 @@
+产品网址：https://www.longsys.com/products/solid-state-drive/commercial-pcle-ssd/xp2200-pcie-bga-ssd.html
+产品结构：root->-StorageProductsSolution–LongsysacquiredLEXAR&Foreseee
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|XP2200 PCIe BGA SSD|无|支持 TRIM 和 S.M.A.R.T 功能；采用先进的工艺技术优化散热；采用前沿的封装和测试技术实现高层堆叠技术；支持 NVMe 1.4 协议；采用 BGA 封装，最大厚度可达 1.29mm；支持 LDPC、智能温控等功能|
+
+Product Series,PN,NAND Flash,Capacity,Type,DRAM,Operating Temperature,Sequential Read Speed*,Sequential Write Speed*,Random Read Speed (IOPS)*,Random Write Speed (IOPS)*,Mean Time Between Failures (Hour),Size
+XP2200 PCIe BGA SSD,FM2A9C128G-E8Y18,3D TLC,128GB,BGA,DRAM-less,0℃~70°C,1700MB/s,1000MB/s,192K,220K,1.5 million hours,11.5*13 mm
+XP2200 PCIe BGA SSD,FM2A9C256G-E8Y18,3D TLC,256GB,BGA,DRAM-less,0℃~70°C,3400MB/s,2200MB/s,250K,210K,1.5 million hours,11.5*13 mm
+XP2200 PCIe BGA SSD,FM2A9C512G-E8Y18,3D TLC,512GB,BGA,DRAM-less,0℃~70°C,3500MB/s,3400MB/s,260K,210K,1.5 million hours,11.5*13 mm
+XP2200 PCIe BGA SSD,FM2A9C001T-E8Y18,3D TLC,1TB,BGA,DRAM-less,0℃~70°C,3500MB/s,3450MB/s,260K,220K,1.5 million hours,11.5*13 mm

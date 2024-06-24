@@ -1,0 +1,28 @@
+产品网址：http://www.xtxtech.com/products_detail/10
+产品结构：root->芯天下|致力于成为卓越的通用芯片设计公司|覆盖成熟存储技术路线，完成未来新型存储器多点布局
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Motor Driver|无|致力于给客户提供高效、稳定、安全的解决方案，主要应用于步进马达驱动器、直流无刷马达驱动器、直流有刷马达驱动器和电磁阀驱动器。通过采用卓越的半导体工艺和先进的封装技术，具备了极高的效率和出色的散热性能，同时能达到更小的封装尺寸|
+
+型号,产品描述,说明书
+Fan-Cooling Fan,单相散热风机驱动方案,联系我们
+Power Tool-Electric Saw,电动工具-21V锂电链锯无感BLDC驱动方案,联系我们
+Power Tool-Electric Wrench,电动工具-21V锂电电动扳手无刷电机驱动方案,联系我们
+
+
+型号,Number of H-Bridges,VIN(Min)(V),VIN(Max)(V),Iout(A),Ipeak(A),Iq(uA),Rds(ON)(mΩ),Control mode,保护功能,Package,说明书
+FT117S,1,2.4,7.2,1.1,2,0.1,560,IN/IN,"UVLO, TSD",SOT23-6,联系我们
+FT118S,1,2.4,7.2,1.2,2,0.1,540,IN/IN,"UVLO, TSD",SOT23-6,联系我们
+FT118,1,2.4,7.2,1.35,2,0.1,570,IN/IN,"UVLO, TSD",SOP8-150mil,联系我们
+XTM4118AS3CT,1,2.4,7.2,1.2,2,0.1,530,IN/IN,"UVLO, TSD",SOT23-6,联系我们
+XTM4118AS8CT,1,2.4,7.2,1.2,2,0.1,590,IN/IN,"UVLO, TSD",SOP8-150mil,联系我们
+
+
+型号,高边浮动电源VB(V),逻辑电源VCC(V)(Min),逻辑电源VCC(V)(Max),输入通道数,输出通道数,输入逻辑,IO+(A),IO-(A),VCC(UV+)(V),VCC(UV-)(V),VBS(UV+)(V),VBS(UV-)(V),死区时间(ns),过流保护,直通防止,使能关断,VS负压(V),Package,说明书
+XTM2600AT1IT,100,5.5,18,6,6,HIN/LIN,1.2,2,4.2,3.8,3.8,3.5,500,否,是,否,-8,TSSOP20,联系我们
+
+
+型号,Core,Max Speed(MHz),Flash(KB),RAM(KB),I/O#,WDG,UART,I2C,ADC,COMP,Driver(Half CH.),Driver Voltage(V),Package,说明书
+XTM7F86G3AL2IA,8FX,16,36,1,25,1,1,1,10Bit/8ch,1,6,100,LQFP48(7X7),联系我们
+XTM7F836AL1IA,8FX,16,36,1,29,1,1,1,10Bit/8ch,1,0,0,LQFP32(7X7),联系我们

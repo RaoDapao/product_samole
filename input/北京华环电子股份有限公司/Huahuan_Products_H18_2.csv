@@ -1,0 +1,18 @@
+产品网址：https://huahuan.com/en/index.php?m=default.product_detail&fid=2&ccid=&scid=75&ncid=77&deid=89
+产品结构：root->Huahuan_Products_H18EDD-0402CEthernetDemarcationDevice
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Ethernet Demarcation Device|H18EDD-0402C|提供 2*GE 光口、2*GE 电口、2*GE Combo 口、1 个 RJ45 NM 口和 1 个 CONSOLE 口，支持多种管理和二层、三层、OAM、可靠性、QoS 等功能，适用于运营商的城域以太网/IP/MPLS 传输网络边缘，为客户提供端到端的可用性、可靠性和 QoS 保证|
+
+Items,Descriptions
+Dimension,44mm(1U) × 255mm ×160mm (H x W x D)
+Power Supply,AC 110/220V or DC -48V
+Consumption,<13w<>
+Operation Temperature,-15  ℃  to 55  ℃
+Storage Temperature,-40  ℃  to 70  ℃
+Humidity,10% to 90%  (non-condensing)
+
+
+Model,Info
+H18EDD-0402C,2×GX + 2×GE + 2×GE Combo + NM + Console

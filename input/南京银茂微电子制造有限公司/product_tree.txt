@@ -1,0 +1,133 @@
+-> root https://www.njsme.com
+  -> PRODUCTS-南京银茂微电子制造有限 https://www.njsme.com/?aPRODUCTS
+    -> Wafer Products 
+    -> PIM IGBT-600V 
+    -> Automotive Modules-Half Bridge-1700V 
+    -> SiC MOS-Single Phase Rectifier Bridge-1200V 
+    -> Automotive Modules-Half Bridge-1700VSiC 
+    -> Automotive Modules-Half Bridge-1200SiC 
+    -> Automotive Modules-Half Bridge-1200V 
+    -> Automotive Modules-Half Bridge-650V 
+    -> Automotive Modules-Half Bridge-200V 
+  -> IGBTModules-南京银茂微电子制 https://www.njsme.com/?aPRODUCTSPRODUCTSA
+    -> IGBT Modules 
+    -> IGBT Modules 
+    -> IGBT Modules 
+    -> IGBT Modules 
+    -> IGBT Modules 
+    -> IGBT Modules 
+    -> IGBT Modules 
+    -> IGBT Modules 
+    -> IGBT Modules 
+  -> MOSFETModules-南京银茂微电 https://www.njsme.com/?aPRODUCTSPRODUCTSB
+  -> AutomotiveModules-南京 https://www.njsme.com/?aPRODUCTSPRODUCTSC
+    -> Automotive Modules 
+    -> Automotive Modules 
+    -> Automotive Modules 
+    -> Automotive Modules 
+    -> Automotive Modules 
+    -> Automotive Modules 
+    -> Automotive Modules 
+    -> Automotive Modules 
+    -> Automotive Modules 
+  -> SiCMOSFETModules-南京银 https://www.njsme.com/?aPRODUCTSPRODUCTSD
+    -> SiC MOSFET Modules 
+    -> SiC MOSFET Modules 
+    -> SiC MOSFET Modules 
+    -> SiC MOSFET Modules 
+    -> SiC MOSFET Modules 
+    -> SiC MOSFET Modules 
+    -> SiC MOSFET Modules 
+  -> GaNModules-南京银茂微电子制造 https://www.njsme.com/?aPRODUCTSPRODUCTSE
+  -> DiodeModules-南京银茂微电子 https://www.njsme.com/?aPRODUCTSCipsWafers
+    -> Diode Modules 
+    -> Diode Modules 
+    -> Diode Modules 
+    -> Diode Modules 
+    -> Diode Modules 
+  -> IPM-南京银茂微电子制造有限公司- https://www.njsme.com/?aPRODUCTSMosWafer
+  -> MOSFETWafer-南京银茂微电子制 https://www.njsme.com/?aPRODUCTSMOSWafer
+  -> AutomotiveModules-Ha https://www.njsme.com/?aPRODUCTSPRODUCTSC200V/82.html
+  -> AutomotiveModules-Ha_1 https://www.njsme.com/?aPRODUCTSPRODUCTSC200V/81.html
+  -> AutomotiveModules-Ha_2 https://www.njsme.com/?aPRODUCTSPRODUCTSC200V/80.html
+  -> AutomotiveModules-Ha_3 https://www.njsme.com/?aPRODUCTSPRODUCTSC200V/79.html
+  -> PIMIGBT-600V-PIMIGBT https://www.njsme.com/?aPRODUCTSPRODUCTSA600V/47.html
+  -> AutomotiveModules-Ha_4 https://www.njsme.com/?aPRODUCTSPRODUCTSC200V/85.html
+  -> SiCMOS-SinglePhaseRe https://www.njsme.com/?aPRODUCTSPRODUCTSDSinglePhaseRectifierBridge/92.html
+  -> AutomotiveModules-Ha_5 https://www.njsme.com/?aPRODUCTSPRODUCTSC200V/86.html
+  -> AutomotiveModules-Ha_6 https://www.njsme.com/?aPRODUCTSPRODUCTSC200V/83.html
+  -> PRODUCTS-南京银茂微电子制造有限_1 https://www.njsme.com/?aPRODUCTS_2
+    -> IPM Modules 
+    -> IGBT H-Bridge 
+    -> IGBT Full Bridge 
+  -> PRODUCTS-南京银茂微电子制造有限_2 https://www.njsme.com/?aPRODUCTS_3
+    -> IGBT 全桥-650V 
+    -> IGBT 斩波器-1200V 
+    -> IGBT 斩波器-650V 
+    -> PIM IGBT-1200V 
+    -> PIM IGBT-650V 
+    -> SCR-半桥 
+    -> IGBT 半桥-1700V 
+    -> IGBT 半桥-1200V 
+    -> 汽车模块-全桥-1200V SIC 
+  -> PRODUCTS-南京银茂微电子制造有限_3 https://www.njsme.com/?aPRODUCTS_4
+    -> GaN-Full Bridge-650V 
+    -> MOSFET Half Bridge-100V 
+    -> MOSFET Half Bridge-150V 
+    -> MOSFET Half Bridge-200V 
+    -> IGBT Three Level-650V 
+    -> IGBT Three Level-1200V 
+    -> IGBT Chopper-1700V 
+    -> IGBT Single-650V 
+    -> IGBT Single-1200V 
+  -> PRODUCTS-南京银茂微电子制造有限_4 https://www.njsme.com/?aPRODUCTS_5
+    -> IGBT 模块 
+    -> MOSFET 模块 
+    -> 汽车模块 
+    -> SiC MOSFET 模块 
+    -> GaN 模块 
+    -> 二极管模块 
+    -> 整流器模块 
+    -> SCR 模块 
+    -> MOSFET 晶圆 
+  -> PIMIGBT-南京银茂微电子制造有限公 https://www.njsme.com/?aPRODUCTSPRODUCTSA600V
+  -> SevenPack-南京银茂微电子制造有 https://www.njsme.com/?aPRODUCTSPRODUCTSA1200V
+  -> HalfBridge-南京银茂微电子制造 https://www.njsme.com/?aPRODUCTSPRODUCTSBHalfBridge
+  -> FullBridge-南京银茂微电子制造 https://www.njsme.com/?aPRODUCTSPRODUCTSC1700V
+    -> Full Bridge 
+    -> Full Bridge 
+    -> Full Bridge 
+    -> Full Bridge 
+  -> HalfBridge-南京银茂微电子制造_1 https://www.njsme.com/?aPRODUCTSPRODUCTSC200V
+  -> FullBridge-南京银茂微电子制造_1 https://www.njsme.com/?aPRODUCTSPRODUCTSD500V
+  -> HalfBridge-南京银茂微电子制造_2 https://www.njsme.com/?aPRODUCTSPRODUCTSD1700V
+    -> SiC MOS-Half Bridge 
+    -> SiC MOS-Half Bridge 
+  -> SinglePhaseRectifier https://www.njsme.com/?aPRODUCTSPRODUCTSDSinglePhaseRectifierBridge
+  -> Threelevel-南京银茂微电子制造 https://www.njsme.com/?aPRODUCTSPRODUCTSDThreelevel
+  -> CommonCathode-南京银茂微电 https://www.njsme.com/?aPRODUCTSCipsWafersCommonCathode
+  -> HalfBridge-南京银茂微电子制造_3 https://www.njsme.com/?aPRODUCTSCipsWafersHalfBridge
+    -> Diodes-Half Bridge 
+    -> Diodes-Half Bridge 
+  -> SingleDiode-南京银茂微电子制 https://www.njsme.com/?aPRODUCTSCipsWafersSingleDiode
+  -> PIMIGBT-1200V-PIMIGB https://www.njsme.com/?aPRODUCTSPRODUCTSA600V/50.html
+  -> PIMIGBT-650V-PIMIGBT https://www.njsme.com/?aPRODUCTSPRODUCTSA600V/49.html
+  -> IGBTModules-南京银茂微电子制_1 https://www.njsme.com/?aPRODUCTSPRODUCTSA_2
+  -> IGBTModules-南京银茂微电子制_2 https://www.njsme.com/?aPRODUCTSPRODUCTSA_3
+  -> MOSFETHalfBridge-100 https://www.njsme.com/?aPRODUCTSPRODUCTSBHalfBridge/106.html
+  -> MOSFETHalfBridge-150 https://www.njsme.com/?aPRODUCTSPRODUCTSBHalfBridge/107.html
+  -> MOSFETHalfBridge-200 https://www.njsme.com/?aPRODUCTSPRODUCTSBHalfBridge/108.html
+  -> AutomotiveModules-Ha_7 https://www.njsme.com/?aPRODUCTSPRODUCTSC200V/78.html
+  -> AutomotiveModulese-F https://www.njsme.com/?aPRODUCTSPRODUCTSC1700V/76.html
+  -> AutomotiveModules-南京_1 https://www.njsme.com/?aPRODUCTSPRODUCTSC_2
+  -> SiCMOS-SinglePhaseRe_1 https://www.njsme.com/?aPRODUCTSPRODUCTSDSinglePhaseRectifierBridge/91.html
+  -> SiCMOS-HalfBridge-17 https://www.njsme.com/?aPRODUCTSPRODUCTSD1700V/90.html
+  -> SiCMOS-HalfBridge-12 https://www.njsme.com/?aPRODUCTSPRODUCTSD1700V/89.html
+  -> SiCMOS-FullBridge-17 https://www.njsme.com/?aPRODUCTSPRODUCTSD500V/88.html
+  -> SiCMOS-FullBridge-12 https://www.njsme.com/?aPRODUCTSPRODUCTSD500V/87.html
+  -> Diodes-HalfBridge-12 https://www.njsme.com/?aPRODUCTSCipsWafersHalfBridge/95.html
+  -> Diodes-HalfBridge-17 https://www.njsme.com/?aPRODUCTSCipsWafersHalfBridge/97.html
+  -> Diodes-CommonCathode https://www.njsme.com/?aPRODUCTSCipsWafersCommonCathode/94.html
+  -> Diodes-SingleDiode-1 https://www.njsme.com/?aPRODUCTSCipsWafersSingleDiode/99.html
+  -> IPMModules-600V-IPM- https://www.njsme.com/?aPRODUCTSMosWafer/112.html
+  -> IPMModules-1200V-IPM https://www.njsme.com/?aPRODUCTSMosWafer/113.html

@@ -1,0 +1,6 @@
+产品网址：http://www.i-core.cn/proshow/564.html
+产品结构：root->产品中心-无锡中微爱芯电子有限公司
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|4-bit Dual Supply Translating Transceiver; 3-state|AiP74AVC4T245|The AiP74AVC4T245 是一款 4 位、双电源收发器，可实现双向电平转换。它具有四个 2 位输入输出端口（nAn 和 nBn）、方向控制输入（nDIR）、输出使能输入（n ）和双电源引脚（VCC(A) 和 VCC(B)）。VCC(A) 和 VCC(B) 均可在 0.8V 至 3.6V 之间的任何电压下供电，使该器件适用于在任何低电压节点（0.8V、1.2V、1.5V、1.8V、2.5V 和 3.3V）之间进行转换。nAn、n 和 nDIR 引脚参考 VCC(A)，nBn 引脚参考 VCC(B)。nDIR 上的高电平允许从 nAn 传输到 nBn，nDIR 上的低电平允许从 nBn 传输到 nAn。输出使能输入（n ）可用于禁用输出，从而有效地隔离总线。该器件完全指定用于使用 IOFF 的部分掉电应用。IOFF 电路禁用输出，防止在器件掉电时通过器件的任何破坏性回流电流。在暂停模式下，当 VCC(A) 或 VCC(B) 处于 GND 电平时，nAn 和 nBn 均处于高阻抗 OFF 状态。|

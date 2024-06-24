@@ -1,0 +1,7 @@
+产品网址：https://www.longsys.com/products/memory-module
+产品结构：root->MemoryCards|FORESEEU-DIMM|CommercialMemoryModule|Longsys
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Memory Module|无|无|
+|FORESEE DDR Memory Module|U-DIMM、SO-DIMM、ECC-DIMM、R-DIMM|标准 DRAM 存储技术架构，采用 Bank Group 技术的 8 位预取机制，动态模式实现最佳节能效率，电容最小存储单元理论上具有无限随机读写能力；8 至 10 层密集 PCB，保证高速信号传输完整性（10 层 PCB）；标准兼容性，支持所有 DDR 标准接口，无需硬件调试即可应用|

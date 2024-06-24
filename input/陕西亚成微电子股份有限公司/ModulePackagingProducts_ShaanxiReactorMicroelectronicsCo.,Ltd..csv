@@ -1,0 +1,9 @@
+产品网址：http://en.reactor-micro.com/sip.html
+产品结构：root->ModulePackagingProducts_ShaanxiReactorMicroelectronicsCo.,Ltd.
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Module Packaging Products|无|工业级集成电路通常需要不同的电源电压。使用降压转换器可以根据特定要求将输入电压降低到所需的输出电压，为各种集成电路 IC 提供稳定的电源。|
+
+Model,Main power  supply voltage,Output voltage,LOAD,peak current,Packaging form,Typical applications
+RMML3-211R2A,3V-21V,adjustable,1.2A,-,LGA,Buck Power Supply

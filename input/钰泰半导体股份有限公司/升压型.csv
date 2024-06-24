@@ -1,0 +1,16 @@
+产品网址：https://www.eta-semi.com/product-cat/led-%e9%a9%b1%e5%8a%a8/%e5%8d%87%e5%8e%8b%e5%9e%8b
+产品结构：首页->LED驱动->升压型
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|升压型|无|无|
+
+Description,Architecture,Vin Range(V),Max No. of LEDs,Isw Max(A),Vfb(V)
+16x6 LEDs Driver,Non-Sync.Boost,2.7-6,96,2.8,0.2
+6 LEDs Driver,Non-Sync.Boost,2-6,6,1.6,0.2
+30V/50mA LED Driver,Sync.True-shutoff,2.7-6,16,1.5,
+30V/50mA LED Driver,Sync.True-shutoff,2.7-6,16,1.5,
+2x10 LEDs Driver,Non-Sync.Boost,2.7-6,20,1.0,
+General LED Driver,Non-Sync.Boost,2.7-6,40,1.0,0.2
+1x10 LEDs Driver,Non-Sync.Boost,2.7-6,10,0.7,0.2
+2x10 LEDs Driver,Non-Sync.Boost,2.7-6,20,0.7,0.2

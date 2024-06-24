@@ -1,0 +1,23 @@
+产品网址：http://www.xtxtech.com/products_detail/3/ProId-14
+产品结构：root->NAND
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|eMMC|8GByte、16GByte、32GByte、64GByte|无|
+
+型号,容量,电压,温度,封装,描述,包装,状态,说明书
+XT28EG08GA1SLECGA,8GByte,1.8V/3.3V,-25℃~85℃,BGA153 11.5X13X1.0mm,eMMC5.1,Tray,MP,联系我们
+
+
+型号,容量,电压,温度,封装,描述,包装,状态,说明书
+XT28EG16GA3MIEIGA,16GByte,1.8V/3.3V,-40℃~85℃,BGA153 11.5X13X1.0mm,eMMC5.1,Tray,MP,联系我们
+XT28EG16GA4YJECGA,16GByte,1.8V/3.3V,-25℃~85℃,BGA153 11.5X13X1.0mm,eMMC5.1,Tray,MP,联系我们
+
+
+型号,容量,电压,温度,封装,描述,包装,状态,说明书
+XT28EG32GA3MIEIGA,32GByte,1.8V/3.3V,-40℃~85℃,BGA153 11.5X13X1.0mm,eMMC5.1,Tray,MP,联系我们
+XT28EG32GA4YJECGA,32GByte,1.8V/3.3V,-25℃~85℃,BGA153 11.5X13X1.0mm,eMMC5.1,Tray,MP,联系我们
+
+
+型号,容量,电压,温度,封装,描述,包装,状态,说明书
+XT28EG64GA2TNECGA,64Gbyte,1.8V/3.3V,-25℃~85℃,BGA153 11.5X13X1.0mm,eMMC5.1,Tray,MP,联系我们

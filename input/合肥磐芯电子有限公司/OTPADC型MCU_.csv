@@ -1,0 +1,11 @@
+产品网址：http://www.masses-chip.com/c/cpzx/cpzx-otp/cpzx-otp-adc-mcu
+产品结构：root->OTPADC型MCU|
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|OTP ADC 型 MCU|无|无|
+
+芯片型号,ROM,RAM,堆栈级数,I/O,中断源,定时器,PWM,OP/CMP,ADC,工作电压,休眠功耗,特殊功能,封装形式
+M8R612,1K*16,64,5,14,TC0/TC1  INT0/INT1  IOB变化  升压控制器过压  ADC,2,2,-/-,12Bit*12,2.2~ 5.5V,<1uA,内建参考电压2/3/4V  自动升压控制器,DIP16  SOP16
+M6R61,1K*16,64,4,13+1,TC0/TC1  INT0/INT1  ADC,2,2,-/-,12Bit*8,2.2~ 5.5V,<1uA,内建参考电压2/3/4V,DIP16  SOP16
+M8R62,2K*16,128,8,18,TC0/TC1  INT0/INT1  IOB变化  ADC/OP/CMP  PWM/LVD,3,3,1/2,12Bit*11,2.2~ 5.5V,<1uA,内建参考电压2/3/4V  4路1/2 COM驱动,DIP20  SOP20

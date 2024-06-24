@@ -1,0 +1,6 @@
+产品网址：https://www.asl-tek.com/article/21/6.html
+产品结构：root->主板组件-ASL芯片,集睿致远产品,ASL显示系统,ASL传输配件,ASL主板相关,集成电路ASL,集睿,集睿致远,集睿致远科技有限公司官网
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|USB3.2 Gen2 and DP1.4 HBR3 信号重整器|CS621x|USB3.2 Gen2 and DP1.4 HBR3 信号重整器，可支持 USB3.2 Gen2 10Gbps 与 DP1.4 HBR3 8.1Gbps。内含 Jitter 消除与动态自动补偿，可以大幅度的减小对 PCB 布线的限制，主要用于主板/筆電/Docks 的 Type-C/USB3.2 端口。产品主要特性：1. Auto Adaptive AFE/DFE for different channel loss.2. USB: protocal-awareness USB power management.3. DP: adaptive Link training control, LTTPR Transparent/Non-transparent.4. Jitter clean design of retimer structure on both DP/USB path.5. BLR repeater mode for very low signal path latency.6. Programmable multi-tap TX FFE.7. Crystal-less: no external crystal or reference clock is needed.8. Build-in Eye-Opening monitor circuit (ASL own feature).9. Low power consumption.10. Build-in control logic for Type-C normal and flip plug orientation.11. Embedded MCU for flexibility.|

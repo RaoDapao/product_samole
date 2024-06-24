@@ -1,0 +1,141 @@
+-> root http://www.anguangic.com
+  -> 产品中心_广州安广电子科技股份有限公司 http://www.anguangic.com/Product
+  -> 红外线遥控IC_广州安广电子科技股份有限 http://www.anguangic.com/Product/Products
+    -> 带 LCD 驱动的红外遥控发射电路 
+    -> 带 LCD 显示驱动的红外遥控 MCU 
+  -> RF无线IC_广州安广电子科技股份有限公 http://www.anguangic.com/Product/RF%20wireless
+    -> ASK/OOK 射频接收芯片 
+    -> 内置 RF 发射电路和高性能的 MCU 编程电路 
+    -> IO 类型，以 OTP 为程序存储基础，带 2.4G 高速无线收发单元的单片机 
+  -> LED-LCDDriver_广州安广电子 http://www.anguangic.com/Product/LED/LCD%20Driver
+    -> LED 驱动控制专用电路 
+    -> LED 驱动控制专用电路 
+    -> LED 驱动专用电路 
+    -> LED 驱动控制专用电路 
+    -> 128 点阵式存储映射多功能 LCD 驱动电路 
+    -> LED 驱动控制专用电路 
+    -> LED 驱动控制专用电路 
+    -> LED 驱动控制专用电路 
+    -> LED 驱动控制专用电路 
+    -> LED 驱动专用电路 
+  -> 触摸MCU_广州安广电子科技股份有限公司 http://www.anguangic.com/Product/chumoMCU
+    -> 微控制器 
+    -> 微控制器 
+    -> 微控制器 
+  -> 通用型MCU_广州安广电子科技股份有限公 http://www.anguangic.com/Product/tongyong
+  -> 专用型MCU_广州安广电子科技股份有限公 http://www.anguangic.com/Product/zhuanyongxingMCU
+    -> 蜡烛灯芯片 
+    -> 蜡烛灯芯片 
+  -> 电源管理IC_广州安广电子科技股份有限公 http://www.anguangic.com/Product/dianyuan
+    -> 红外线遥控 IC 
+    -> RF 无线 IC 
+    -> LED/LCD Driver 
+    -> 触摸 MCU 
+    -> 通用型 MCU 
+    -> 专用型 MCU 
+    -> 电源管理 IC 
+  -> 首页 
+    -> 应用方案 
+      -> 电源IC应用方案 http://www.anguangic.com/Product/7850262220.html
+      -> 触摸IC应用方案 http://www.anguangic.com/Product/5789045017.html
+      -> MCU应用方案 http://www.anguangic.com/Product/9057143442.html
+      -> 遥控IC应用方案 http://www.anguangic.com/Product/296130230.html
+    -> 产品中心 
+      -> 红外线遥控IC 
+        -> 空调遥控IC http://www.anguangic.com/Product/0824574329.html
+        -> 学习型遥控IC http://www.anguangic.com/Product/6195841543.html
+      -> RF无线IC http://www.anguangic.com/Product/8219352225.html
+      -> LED-LCDDriver http://www.anguangic.com/Product/3698205546.html
+      -> 触摸MCU http://www.anguangic.com/Product/5823705028.html
+      -> 通用型MCU http://www.anguangic.com/Product/4201394217.html
+      -> 专用型MCU http://www.anguangic.com/Product/1586492526.html
+  -> 产品中心_广州安广电子科技股份有限公司_1 http://www.anguangic.com/Product/list_2.html
+    -> AD009-05EL 
+    -> AD009-05E 
+    -> AD009-03F 
+    -> W1620 
+    -> W1640 
+    -> W1638 
+    -> W1628 
+    -> W1621 
+  -> 产品中心_广州安广电子科技股份有限公司_2 http://www.anguangic.com/Product/list_3.html
+    -> AD-RF500 
+    -> AD-RF316S 
+    -> AD-RF01 
+    -> GPM8F3732 
+    -> GPM8F3716 
+  -> 产品中心_广州安广电子科技股份有限公司_3 http://www.anguangic.com/Product/list_4.html
+    -> GPM8F3708B 
+    -> W1651 
+    -> W1650 
+    -> W1642 
+    -> W1635 
+    -> W1617 
+    -> W1616 
+    -> AD020 
+    -> ADW128B 
+    -> ADW64B 
+  -> 产品中心_广州安广电子科技股份有限公司_4 http://www.anguangic.com/Product/list_5.html
+    -> 带红外学习功能的 OTP 单片机 
+    -> 带红外学习与发射功能的 MCU 
+    -> 专为数字电视遥控器开发的 8 位 OTP 单片机 
+    -> 带 LCD 显示驱动的红外遥控发射电路 
+    -> 带红外遥控的小容量单片机 
+    -> 4 位 RISC 指令单片机 
+    -> 带 LCD 显示驱动的红外遥控发射电路 
+    -> 专用于红外遥控的 4 位 OTP 单片机 
+  -> 产品中心_广州安广电子科技股份有限公司_5 http://www.anguangic.com/Product/list_6.html
+  -> 红外线遥控IC_广州安广电子科技股份有限_1 http://www.anguangic.com/Product/Products/#
+  -> 红外线遥控IC_广州安广电子科技股份有限_2 http://www.anguangic.com/Product/Products/list_2.html
+  -> 红外线遥控IC_广州安广电子科技股份有限_3 http://www.anguangic.com/Product/Products/list_3.html
+  -> 红外线遥控IC_广州安广电子科技股份有限_4 http://www.anguangic.com/Product/Products/list_4.html
+  -> RF无线IC_广州安广电子科技股份有限公_1 http://www.anguangic.com/Product/RF%20wireless/#
+  -> RF无线IC_广州安广电子科技股份有限公_2 http://www.anguangic.com/Product/RF%20wireless/index.html
+  -> LED-LCDDriver_广州安广电子_1 http://www.anguangic.com/Product/LED/LCD%20Driver/#
+  -> LED-LCDDriver_广州安广电子_2 http://www.anguangic.com/Product/LED/LCD%20Driver/index.html
+  -> LED-LCDDriver_广州安广电子_3 http://www.anguangic.com/Product/LED/LCD%20Driver/list_2.html
+  -> 触摸MCU_广州安广电子科技股份有限公司_1 http://www.anguangic.com/Product/chumoMCU/index.html
+  -> 通用型MCU_广州安广电子科技股份有限公_1 http://www.anguangic.com/Product/tongyong/#
+    -> W3154C 系列 
+    -> W3150B 系列 
+    -> W3150 系列 
+    -> W3131-W31 系列 
+  -> Product_winkooEnglis http://www.anguangic.com/English/Product
+    -> LED Driver 
+    -> Power Management IC 
+    -> Infrared remote control IC 
+    -> RF wireless IC 
+    -> General mcu 
+    -> Touch remote IC 
+    -> Touch MCU 
+  -> LEDDriver_winkooEngl http://www.anguangic.com/English/Product/LED
+  -> PowerManagementIC_wi http://www.anguangic.com/English/Product/Power
+    -> 7 寸雷达一体机 
+    -> Onda GPS 
+  -> TouchremoteIC_winkoo http://www.anguangic.com/English/Product/Touch
+  -> ThePatriotmoonlightb http://www.anguangic.com/English/Product/9436204221.html
+  -> AinoHDbigscreenMP4to http://www.anguangic.com/English/Product/9854172030.html
+  -> Ainohigh-definitiont http://www.anguangic.com/English/Product/8079131853.html
+  -> YourPosition:Home 
+    -> Product 
+      -> RFwirelessIC 
+        -> HPNoteBook http://www.anguangic.com/English/Product/1857041017.html
+        -> LenovoNoteBook http://www.anguangic.com/English/Product/394728928.html
+      -> TouchMCU http://www.anguangic.com/English/Product/6035142153.html
+      -> PowerManagementIC http://www.anguangic.com/English/Product/210548529.html
+      -> TouchremoteIC http://www.anguangic.com/English/Product/024651513.html
+  -> 产品中心_广州安广电子科技股份有限公司_6 http://www.anguangic.com/Product/list_3.html#
+  -> 产品中心_广州安广电子科技股份有限公司_7 http://www.anguangic.com/Product/list_4.html#
+  -> 产品中心_广州安广电子科技股份有限公司_8 http://www.anguangic.com/Product/list_5.html#
+  -> 产品中心_广州安广电子科技股份有限公司_9 http://www.anguangic.com/Product/list_6.html#
+  -> 红外线遥控IC_广州安广电子科技股份有限_5 http://www.anguangic.com/Product/Products/list_2.html#
+  -> LED-LCDDriver_广州安广电子_4 http://www.anguangic.com/Product/LED
+  -> PowerManagementIC_wi_1 http://www.anguangic.com/English/Product/Power/#
+    -> Onda GPS 导航仪 
+  -> PowerManagementIC_wi_2 http://www.anguangic.com/English/Product/Power/index.html
+  -> Onda4GformatHDvideoo http://www.anguangic.com/English/Product/6045791716.html
+  -> Onda4.3inch1080Phigh http://www.anguangic.com/English/Product/129784159.html
+  -> ThePatriotmoonlightb_1 http://www.anguangic.com/English/Product/9436204221.html#
+  -> AinoHDbigscreenMP4to_1 http://www.anguangic.com/English/Product/9854172030.html#
+  -> Ainohigh-definitiont_1 http://www.anguangic.com/English/Product/8079131853.html#
+  -> 学习型遥控IC_广州安广电子科技股份有限 http://www.anguangic.com/Product/Products/xuexixingyaokongIC

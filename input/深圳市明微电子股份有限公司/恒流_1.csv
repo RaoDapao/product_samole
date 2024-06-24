@@ -1,0 +1,18 @@
+产品网址：http://chinaasic.com/productItemSort/product_item_sort_32.html
+产品结构：root->恒流
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|LED 照明驱动芯片|高压线性驱动|恒流、恒功率、新欧标、全电压、滤纹波、可控硅调光、开关切换、高压灯带|
+
+IC Name,Topology,I  OUT  Precision,I  OUT.MAX,HV_MOSFET,BV  DSS,Channel,Segment,Package,操作
+SM2082D,Linear,<±4%,100mA,Inside,500V,1,1,TO252-2、SOT223、SOT89-3,more>>
+SM2082EAH,Linear,<±4%,50mA,Inside,800V,1,1,ESOP8,more>>
+SM2082EAS,Linear,<±4%,50mA,Inside,500V,1,1,ESOP8,more>>
+SM2082ED,Linear,<±4%,100mA/100mA,Inside,500V,2,1,ESOP8,more>>
+SM2082EDH[J],Linear,<±4%,100mA,Inside,700V,1,1,ESOP8,more>>
+SM2082EDS,Linear,<±4%,100mA,Inside,500V,1,1,ESOP8,more>>
+SM2082EG,Linear,<±4%,100mA/100mA,Inside,500V,2,1,ESOP8,more>>
+SM2082EGS,Linear,<±4%,100mA,Inside,500V,1,1,ESOP8,more>>
+SM2082EK,Linear,<±4%,60mA,Inside,500V,2,1,ESOP8,more>>
+SM2082G,Linear,<±4%,100mA,Inside,500V,1,1,TO252-2、SOT89-3,more>>

@@ -1,0 +1,5 @@
+-> root http://www.admicrochip.com
+  -> 首页 
+    -> 产品中心 
+      -> 电池管理IC 
+        -> 电池电量计监测 http://www.admicrochip.com/site-List-41.html

@@ -1,0 +1,6 @@
+产品网址：https://tool.hikmicrotech.com/product-params
+产品结构：root->SpotSizeCalculator
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|Spot Size Calculator|无|可计算距离或光斑的尺寸，支持选择不同的测量像素，提供米和英尺两种单位，根据 IFOV 和测量像素计算距离和测量尺寸，同时提供了一些注意事项|

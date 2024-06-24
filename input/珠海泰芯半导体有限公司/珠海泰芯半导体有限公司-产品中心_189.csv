@@ -1,0 +1,15 @@
+产品网址：https://en.taixin-semi.com/Product/ProductDetail?productId=214
+产品结构：root->珠海泰芯半导体有限公司-产品中心
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|TX-AH-R700PNR|无|无|
+
+Type,Working Freq-Band(MHz),Package Dimension(mm),Chip-Set,Working Voltage（V）,Temperature（℃）,UART,SPI,IIC,ADC,SDIO,USB,RMII
+TX-AH-R700PNR,760 ~ 785,17.0×15.0×2.4,TXW8301,3.0 ~ 3.4,-20 ~ 70,√,√,√,10bit*1,√,√,√
+
+
+
+
+
+

@@ -1,0 +1,55 @@
+产品网址：https://www.chipown.com.cn/cn/pro/318.html
+产品结构：您目前所在位置：首页->产品->Driver产品线
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|Driver IC|无|无|
+
+Product,Character,I  O+/-  (typ.),VCC1,VCC2,Ton/Off(typ.),Tr/f(typ.),Deadtime(typ.),Package,VISO
+PN7901,Isolated Single Channel Gate Driver,5/5A,3.1V~20V,10V~20V,120&120ns,9/9ns,-,SOP8,2500V
+PN7901M,Single-channel Isolated Gate Driver w/ Miller clamp,5/5A,3.1~24V,13~24V,150/150ns,5/5ns,-,SOP-8,3000V
+PN7902M,Single-channel Isolated  Gate driver w/ Miller clamp,5/5A,3.1V~20V,13V~20V,115/115ns,6/6ns,-,SOW8,5700V
+PN7902Q,Isolated Single Channel Gate Driver,5/5A,3.1V~20V,13V~20V,115/115ns,6/6ns,-,SOW8,5700V
+PN7903,Opto-Compatible  Single-Channel Isolated  Gate Driver,5.3/5.5A,7~16mA,14V~33V,65/65ns,5/5ns,-,SOP6(W),5700V
+PN7921,Dual-channel Isolated  Gate Driver,4/8A,3~5.5V,9~20V,39/39ns,7/7ns,Adj,SOP16(W),5700V
+PN7921SB,Dual-channel Isolated  Gate Driver,4/8A,3~5.5V,9~20V,39/39ns,7/7ns,Adj,SOP16,3000V
+PN7922,Isolated Dual-Channel  Gate Driver,4/8A,3V~5.5V,9V~20V,45&45ns,7&7ns,Adj,LGA-13,3000V
+
+
+Product,Character,V  OFFSET  (max),I  O+/-  (typ.),Vin,T  PLH  /T  PHL,Deadtime(typ.),I  SLEEP,Package,R  dson  (H+L)
+PN7703C,2-Phase Bridge Driver,9V,1.5A,1.8V~8V,100&100ns,250ns,100nA,DFN2×2/  SOP8,0.8Ω
+PN7703M,2-Phase Bridge Driver,9V,1.5A,1.8V~8V,100&100ns,250ns,100nA,SOP8,0.8Ω
+PN7703L,2-Phase Bridge Driver,9V,1.5A,1.8V~8V,100&100ns,250ns,100nA,SOT23-6,0.8Ω
+PN7705,2-Phase Bridge Driver,32V,3A,6.5V~28V,1500ns,1000ns,100nA,SOP8,1Ω
+PN7706,2-Phase Bridge Driver,36V,3A,2.7V~24V,900&900ns,350ns,10uA,SOP8-PP,0.6Ω
+PN7707,2-Phase Bridge Driver,36V,1.75A,3~24V,900&900ns,350ns,10uA,SOP8-PP,0.6Ω
+PN7709,2-Phase Bridge Driver,40V,1.75A,6~38V,700&700ns,250ns,10uA,SOP8-PP,-
+PN7711,4-Channel Low-Side Driver,32V,1.5A,3~20V,800&800ns,350ns,100nA,SSOP24L,0.45Ω
+PN7713,4-Phase Bridge Driver,20V,2A,2.7V~18V,900&900ns,350ns,10uA,TSSOP16-PP,0.5Ω
+PN7715,4-Phase Bridge Driver,32V,1.5A,3~20V,1400&1400ns,1000ns,100nA,SSOP10L,1Ω
+PN7716,4-Phase Bridge Driver with IIC,24V,1A,2.7~18V,400&400ns,200ns,1.7uA,TSSOP16,0.7Ω
+PN7719,4-Phase Bridge Driver,32V,1.5A,3~20V,1400&1400ns,1000ns,100nA,SSOP10L,1Ω
+PN7735,4-Channel Low-Side Driver,65V,2.5A,7.5-60V,-,,-,HTSSOP16,0.45Ω
+PN7736,4-Channel Low-Side Driver,65V,2.5A,7.5-60V,-,,-,HTSSOP16,0.45Ω
+
+
+Product,Character,V  OFFSET  (max),I  O+/-  (typ.),VCC Range,Ton/Off(typ.),Deadtime(typ.),OUT phase,Package,Cross reference
+ID7T0610AD,LVIC,60V,1A/1A,7-15V,40ns/40ns,180ns,Single-Phase,QSOP24,-
+ID7S210AD,LVIC,200V,1A/1A,5-20V,180ns/150ns,150ns,Single-Phase,SOP8,-
+ID7S210ADD,LVIC,200V,1A/1A,5-20V,180ns/150ns,150ns,Single-Phase,DFN2x3-8L,-
+ID7S210BD,LVIC,200V,1A/1A,5-20V,180ns/150ns,150ns,Single-Phase,SOP8,-
+ID2005,LVIC,200V,1A/1A,6-18V,150ns/110ns,300ns,Single-Phase,SOP8,-
+ID2006,LVIC,200V,1A/1A,6-18V,150ns/110ns,300ns,Single-Phase,SOP8,-
+ID2016,LVIC,200V,1A/1A,5-20V,150ns/150ns,200ns,3-Phase,TSSOP20,-
+ID2018,LVIC,200V,1A/1A,5-20V,150ns/150ns,200ns,3-Phase,QSOP24,-
+ID5S609,HVIC,600V,400mA/800mA,10-20V,160ns/150ns,250ns,Single-Phase,SOP8,-
+ID5S609F1,HVIC,600V,400mA/800mA,10-20V,160ns/150ns,250ns,Single-Phase,SOP8,-
+ID7U603,HVIC,600V,210mA/360mA,10-20V,680ns/150ns,520ns,Single-Phase,SOP8,-
+ID7S625,HVIC,600V,2.5A/2.5A,10-20V,135ns/135ns,,Single-Phase,SOW16,-
+ID7T6035,HVIC,600V,200mA/350mA,13.2-20V,530ns/530ns,200ns,3-Phase,SOP28,-
+ID7T6036,HVIC,600V,200mA/350mA,10-20V,530ns/530ns,200ns,3-Phase,SOP28,-
+ID7T6036D,HVIC,600V,200mA/350mA,13.2-20V,530ns/530ns,200ns,3-Phase,SOP28,-
+ID2206D,Half-Bridge Driver  Built-in Bootstrap Diode,600V,210/360mA,10V~20V,220&180ns,150ns,Single-Phase,SOP8,XX2106
+ID2304D,Half-Bridge Driver  Built-in Bootstrap Diode,600V,300/600mA,10V~20V,360&335ns,120ns,Single-Phase,SOP8,XX2304
+ID5S605,Half-Bridge Driver,600V,300/600mA,10V~20V,250&190ns,-,Single-Phase,SOP8,XX2101
+ID5S606B,Half-Bridge Driver,600V,300/600mA,10V~20V,715&170ns,500ns,Single-Phase,SOP8,XX2103

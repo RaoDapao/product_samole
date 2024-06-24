@@ -1,0 +1,16 @@
+产品网址：https://www.hitrendtech.com/products/detail?id=4
+产品结构：首页->产品中心->HT7017
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|HT7017|SSOP16|为多功能、高性能单相电能专用计量芯片，采用高精度 Sigma-delta ADC 作为计量输入，采样速率可达 31.2KHz，因输入通道支持独立且灵活的增益配置，可外接锰铜或电流互感器作为电流采样器件。可直接输出所有测量参数，外围 MCU 只需要完成多功能电能表要的管理和通讯协议程序即可，所有参数都是内部硬件算法直接进行运算的，这充分保证了参数的精度与可靠性。该系列芯片为单相多功能计量提供了功能齐全、设计简单的应用解决方案，可充分满足单相复费率多功能电能表的设计需求。|
+
+Part NO.,HT7017,Supply Voltage,3.0V~5.5V
+Metering Functions,Active Reactive Apparent,ADC Inputs (Curr+Volt),2+1
+Input Range,±800mV,External Crystal OSC (Hz),6M
+ADC Sampling Rate,31.2kHz 15.6kHz,Dynamic Range,8000:1
+Active Energy Error (%),0.1,Reactive Energy Error (%),0.1
+Vref TC (Typical),±10ppm/℃ (1.2V),Comm. Interface,UART
+U/I RMS,√,Built-in Temp. Sensor,X
+Inormal,3.1mA(3*ADC) 2.4mA(2*ADC),ILOV (Loss of Voltage),X
+Package /Pins,SSOP/16,,

@@ -1,0 +1,26 @@
+产品网址：https://www.ktmicro.com/?sy_91
+产品结构：当前位置：首页->产品中心->产品->收音系列
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|收音系列|FM/TX|无|
+|收音系列|FM/RX|无|
+|收音系列|多频段接收芯片|无|
+
+型号,封装,产品类型,Tx/Rx,RDS,声道,Linein,片外MCU控制,EEPROM,电位器手调指针,电位器手调数显,编码器手调数显,按键调台,搜台
+KT0937-D8,SSOP16-0.635,AM/FM/SW,Rx,,S,,√,,√,√,,MCU控制,
+KT0936M(B9),SOP16,AM/FM/SW,Rx,,M,,,√,√,,,,
+KT0935R,SSOP16-0.635,AM/FM/SW,Rx,√,S,,,,,,MCU控制,MCU控制,√
+KT0933,SSOP16-0.635,AM/FM,Rx,,S,,√,,,,MCU控制,MCU控制,√
+KT0932,SSOP20-0.635,AM/FM,Rx,,S,,,√,√,,,,
+KT0923-D4,SSOP20-0.65,AM/FM,Rx,,S,3,√,,,,MCU控制,MCU控制,√
+KT0922M,SSOP16-0.635,AM/FM,Rx,,M,,,√,√,,,,
+KT0922,SSOP20-0.65,AM/FM,Rx,,S,1,,√,√,,,,
+KT0913L-D4,SSOP16-0.635,AM/FM,Rx,,S,,√,,√,√,MCU控制,MCU控制,√
+KT0913,SSOP16-0.635,AM/FM/SW,Rx,,S,,√,,√,√,MCU控制,MCU控制,√
+KT0863R-D8,SSOP16-0.635,FM,Rx,√,S,,√,,,,MCU控制,MCU控制,√
+KT0853,SSOP20-0.65,FM,Rx,,S,3,,,,,,on MCU,√
+KT0830EG,SOP16,FM,Rx,,S,,√,,,,MCU控制,MCU控制,√
+KT0810SG,QFN16 3*3,FM,Rx,,S,,√,,,,MCU控制,MCU控制,√
+KT0806L,QFN16 3*3,FM,Tx,,S,√,√,,,,MCU控制,MCU控制,
+KT0803L,SOP16,FM,Tx,,S,√,√,,,,MCU控制,MCU控制,

@@ -1,0 +1,12 @@
+产品网址：https://www.kunlunxin.com/product/2873.html
+产品结构：root->昆仑芯2代AI芯片–昆仑芯（北京）科技有限公司
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|昆仑芯 2 代 AI 芯片|无|基于新一代自研架构昆仑芯 XPU-R 而设计，聚焦通用性和易用性。相比 1 代产品，通用计算核心算力提升 2-3 倍，可为数据中心提供强劲 AI 算力。|
+
+架构,XPU,XPU.1
+精度,INT8/INT16/INT32,INT8/INT16/INT32
+算力,INT8：256 TOPS  INT16：128 TOPS  INT32：128 TOPS,INT8：256 TOPS  INT16：128 TOPS  INT32：128 TOPS
+内存,16GB GDDR6,32GB GDDR6
+功耗,150W,160W

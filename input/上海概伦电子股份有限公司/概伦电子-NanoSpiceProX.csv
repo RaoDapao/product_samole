@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/products/analog_design_eda/NanoSpice-Pro-X-CN.html
+产品结构：root->概伦电子-NanoSpiceProX
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|NanoSpice Pro X|无|采用自适应双引擎技术，无缝集成先进 FastSPICE 引擎和高精度 NanoSpice X 模拟引擎，以确保高模拟精度和卓越的数字性能，解决大规模存储电路、CPU、和定制数字、系统级芯片（SoC）、全芯片等复杂设计的验证难题，满足工艺节点的演进和设计裕度的降低所带来的更高精度要求。具有突破性的 FastSPICE 算法、智能拓扑电路识别和自动分区技术，先进软件架构和数据结构，事件驱动架构在多线程效率的增强、后仿电路拓扑优化、显著提升的 RC 约简能力和基于电路类型内置的便捷功能选项，支持 3D-IC 和多工艺仿真技术，其中包括后仿真的反标流程。|

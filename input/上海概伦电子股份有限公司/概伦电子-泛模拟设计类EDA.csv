@@ -1,0 +1,44 @@
+产品网址：https://www.primarius-tech.com/products/analog_design_eda.html
+产品结构：root->概伦电子-泛模拟设计类EDA
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|SPICE 模型|基带建模/BSIMProPlus|无|
+|SPICE 模型|射频建模/MeQLab|无|
+|SPICE 模型|自动化提取/SDEP|无|
+|SPICE 模型|验证评估/ME-Pro|无|
+|PDK|PCell 开发/PCellLab|无|
+|PDK|PDK 验证/PQLab|无|
+|标准单元库|特征化/NanoCell|无|
+|标准单元库|验证/LibWiz|无|
+|电路设计平台|原理图设计/NanoDesigner SE|无|
+|电路设计平台|版图编辑/NanoDesigner LS|无|
+|电路设计平台|交互式物理验证/NanoDesigner iV|无|
+|电路设计平台|设计优化/NanoDesigner Optimizer|无|
+|SPICE 仿真器|NanoSpice|无|
+|SPICE 仿真器|NanoSpice X|无|
+|SPICE 仿真器|NanoSpice Giga|无|
+|FastSPICE 仿真器|NanoSpice Pro|无|
+|FastSPICE 仿真器|NanoSpice Pro X|无|
+|混合信号仿真|NanoSpice MS|无|
+|波形查看分析|NanoWave|无|
+|电路分析|动态和静态电路检查/NanoSpice CCK|无|
+|电路分析|良率分析/NanoYield|无|
+|电路分析|信号完整性分析/NanoSpice SI|无|
+|电路分析|路径分析/PathInspector|无|
+|电路分析|功率及电源芯片设计验证/PTM|无|
+|电路分析|电源网络分布分析/RNi|无|
+|电路分析|ESD 验证/ESDi|无|
+|参数化测试|半导体参数测试/FS-Pro|无|
+|参数化测试|半导体参数测试/FS-MEMS|无|
+|噪声测试|低频噪声测试/9812DX|无|
+|噪声测试|低频噪声测试/9812E|无|
+|噪声测试|低频噪声测试/9813DXC|无|
+|噪声测试|动态交流噪声测试/9812AC|无|
+|综合量测|自动量测方案/ATS|无|
+|一站式技术开发|晶圆测试|无|
+|一站式技术开发|SPICE 建模|无|
+|一站式技术开发|测试芯片设计|无|
+|一站式技术开发|新器件|无|
+|一站式技术开发|PDK 开发|无|
+|一站式技术开发|IP 开发|无|

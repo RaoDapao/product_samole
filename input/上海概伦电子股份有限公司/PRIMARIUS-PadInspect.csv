@@ -1,0 +1,6 @@
+产品网址：https://www.primarius-tech.com/en/products/digital_design_eda/PadInspectoren.html
+产品结构：root->PRIMARIUS-PadInspector
+
+|产品名称|产品型号|功能描述|
+|--|--|--|
+|PadInspector|无|是一款独特且强大的芯片到封装连接性验证解决方案，可验证集成系统连接，提取芯片和封装设计之间的连接性；在早期阶段完成 I/O 垫配置规划和芯片到封装连接性验证，缩短产品上市周期；提供无缝且强大的芯片到封装连接性验证；具有无错误的芯片到封装连接性参与、友好的 GUI、面向用户的芯片到封装规范、快速的调试 TAT 以减少长设计迭代、支持各种封装类型、高效的通信方法等特点；适用于封装设计接口、后端设计（带 RDL）、IO Pad 和 Bump 配置规划等应用|

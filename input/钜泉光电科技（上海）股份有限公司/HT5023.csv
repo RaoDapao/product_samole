@@ -1,0 +1,19 @@
+产品网址：https://www.hitrendtech.com/products/detail?id=6
+产品结构：首页->产品中心->HT5023
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|HT5023|无|HT502X 系列 SoC，专为新一代单相智能电表应用而开发。内核采用 32 位处理器，配以丰富 IP，满足电表应用对 MCU/计量器件的高工规要求。该系列 SoC 平台统一、选型丰富、功能齐全、运行可靠，具备综合性价比及平台化优势，在低功耗方面性能突出。HT5023 配有 79 个 GPIO、6 路 UART、7 个外部中断，LCD 支持 4x43/6x41/8x39 段，采用 LQFP100 封装，且向下兼容 HT5013。|
+
+Part NO.,HT5023,Supply Voltage,2.2V~5.5V
+MCU,32位处理器,Flash (Bytes,256K
+SRAM (Bytes),32K,Metering Functions,Active Reactive Apparent Anti-Theft
+ADC Inputs (Curr+Volt),2+1,Dynamic Range,5000:1
+Vref TC (Typical),±10ppm/℃ (1.185V),PLL /HFRC /LFRC (Hz),39.32M /9.8M /32K
+External Crystal OSC (Hz),32K,TPS,±0.5℃
+SPI,1,UART (7816),6 （2）
+External Interrupt,10,LCD Driver (Com*Seg),4x54 6x52 8x50
+GPIO,79,Encrypt. & Rand.,ECC & AES 256/192/128
+normal @PLL=11MHz,4.7mA,Ihold RTC On,4.5uA
+Isleep RTC On,3.7uA,Package /Pins,LQFP /100
+,,,

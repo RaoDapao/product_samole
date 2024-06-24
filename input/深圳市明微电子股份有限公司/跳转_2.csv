@@ -1,0 +1,14 @@
+产品网址：http://chinaasic.com/productItem/product_item_21.html
+产品结构：共6条<1/1->跳转
+
+|产品名称|产品型号|功能描述|
+|----|----|----|
+|LED 显示驱动芯片|行驱动|无|
+
+IC Name,Channels,I  OUT.MAX,Supply Voltage,OUT Short  Protection,Package,操作
+MW4953,2,4.0A,-,-,SOP8、SOT23-6,more>>
+SM5166,8,3.2A,3.3V-5.5V,√,SOP16,more>>
+SM5368,8,3.2A,3.3V-5.5V,√,SOP16、QFN16(4x4),more>>
+SM5369,16,3.2A,3.3V-5.5V,√,QSOP24、QFN24(4*4),more>>
+SM5188,8,3.2A,2.5V-5.5V,-,SOP16、QFN16(4x4),more>>
+SM5388,8,3.2A,2.5V~5.5V,-,SOP16,more>>
